@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Akelius frågekort — Sokrates &amp; Platon</title>
+<style>
+  :root {
+    --ground: #eceae5;
+    --chrome-ink: #3d4454;
+    --chrome-soft: #6b7284;
+    --chrome-line: #d5d2ca;
+    --paper: #ffffff;
+    --ink: #1c1e24;
+    --ink-soft: #4c505c;
+    --ph-bg: #f2f4f7;
+    --ph-line: #b9c2d0;
+    --cat-1: #1f3a72;
+    --cat-2: #c0182e;
+    --cat-3: #2e8b3d;
+    --ok: #2e8b3d;
+    --toggle-bg: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground: #23252b;
+      --chrome-ink: #d6d9e0;
+      --chrome-soft: #9aa0af;
+      --chrome-line: #3c3f47;
+      --toggle-bg: #2c2f36;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ground: #23252b;
+    --chrome-ink: #d6d9e0;
+    --chrome-soft: #9aa0af;
+    --chrome-line: #3c3f47;
+    --toggle-bg: #2c2f36;
+  }
+  :root[data-theme="light"] {
+    --ground: #eceae5;
+    --chrome-ink: #3d4454;
+    --chrome-soft: #6b7284;
+    --chrome-line: #d5d2ca;
+    --toggle-bg: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--chrome-ink);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 62rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+
+  .masthead {
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: .5rem 1.5rem;
+    border-bottom: 2px solid var(--chrome-ink);
+    padding-bottom: 1rem; margin-bottom: .75rem;
+  }
+  .masthead h1 { font-size: 1.35rem; margin: 0; letter-spacing: -.01em; text-wrap: balance; }
+  .masthead .sub { color: var(--chrome-soft); font-size: .8rem; }
+  .controls {
+    display: flex; flex-wrap: wrap; gap: .75rem; align-items: center;
+    margin: 0 0 2.5rem; font-size: .8rem; color: var(--chrome-soft);
+  }
+  .controls button {
+    font: inherit; color: var(--chrome-ink);
+    background: var(--toggle-bg); border: 1px solid var(--chrome-line);
+    border-radius: 999px; padding: .35rem .9rem; cursor: pointer;
+  }
+  .controls button:focus-visible { outline: 2px solid var(--cat-1); outline-offset: 2px; }
+  .controls button[aria-pressed="true"] { border-color: var(--chrome-ink); }
+
+  .person-head {
+    margin: 3rem 0 1.25rem;
+    font-size: .78rem; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--chrome-soft);
+    display: flex; align-items: center; gap: .75rem;
+  }
+  .person-head::after { content: ""; flex: 1; border-top: 1px solid var(--chrome-line); }
+  .person-head strong { color: var(--chrome-ink); font-size: 1rem; letter-spacing: .1em; }
+
+  .sheet { margin-bottom: 2.75rem; }
+  .sheet-meta {
+    display: flex; flex-wrap: wrap; gap: .35rem .9rem; align-items: baseline;
+    font-size: .72rem; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--chrome-soft); margin-bottom: .5rem;
+  }
+  .sheet-meta .lvl {
+    color: var(--paper); background: var(--chrome-ink);
+    padding: .1rem .55rem; border-radius: 3px; letter-spacing: .12em;
+  }
+  .card {
+    background: var(--paper); color: var(--ink);
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(20,22,30,.18), 0 8px 28px rgba(20,22,30,.12);
+    padding: 1.4rem;
+    display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr);
+    gap: 1.4rem;
+  }
+  @media (max-width: 640px) { .card { grid-template-columns: 1fr; } }
+
+  .ph {
+    margin: 0; background: var(--ph-bg);
+    border: 1.5px dashed var(--ph-line); border-radius: 4px;
+    padding: .9rem; color: var(--ink-soft); font-size: .78rem; line-height: 1.45;
+  }
+  .ph .ph-tag {
+    display: block; font-size: .62rem; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--ph-line); margin-bottom: .3rem;
+  }
+  .ph-main { min-height: 11rem; display: flex; flex-direction: column; justify-content: center; }
+  .caption { font-style: italic; font-size: .82rem; margin: .5rem 0 0; color: var(--ink-soft); }
+
+  .card-text { margin-top: 1.1rem; font-size: .95rem; line-height: 1.55; }
+  @media (min-width: 641px) { .card-text { columns: 2; column-gap: 1.4rem; } }
+  .card-text p { margin: 0 0 .55rem; break-inside: avoid; }
+  .card-text .q { font-weight: bold; }
+
+  .words { margin: 1rem 0 0; font-size: .82rem; }
+  .words dt { font-weight: bold; margin-top: .5rem; }
+  .words dd { margin: 0; font-style: italic; color: var(--ink-soft); }
+
+  .category {
+    font-size: 1.5rem; font-weight: bold; letter-spacing: -.01em;
+    margin: 1.2rem 0 .6rem; color: var(--cat);
+  }
+  .options { list-style: none; margin: 0; padding: 0; font-size: .98rem; }
+  .options li { display: flex; align-items: center; gap: .6rem; margin-bottom: .45rem; }
+  .options .sq { width: .95rem; height: .95rem; flex: none; background: var(--cat); border-radius: 2px; }
+  .options .tick {
+    display: none; margin-left: auto; color: var(--ok); font-weight: bold; font-size: .85rem;
+  }
+  body.facit .options li.is-correct .tick { display: inline; }
+
+  .brief {
+    margin-top: .6rem; border: 1px solid var(--chrome-line); border-radius: 6px;
+    font-size: .78rem; color: var(--chrome-soft);
+  }
+  .brief summary {
+    cursor: pointer; padding: .5rem .9rem;
+    letter-spacing: .1em; text-transform: uppercase; font-size: .68rem;
+  }
+  .brief summary:focus-visible { outline: 2px solid var(--cat-1); outline-offset: 2px; }
+  .brief .brief-body { padding: 0 .9rem .8rem; display: grid; gap: .8rem; }
+  @media (min-width: 641px) { .brief .brief-body { grid-template-columns: 1fr 1fr; } }
+  .brief h3 { font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; margin: 0 0 .3rem; color: var(--chrome-ink); }
+  .brief p { margin: .15rem 0; overflow-wrap: anywhere; }
+  .brief b { color: var(--chrome-ink); font-weight: bold; }
+
+  @media print {
+    body { background: #fff; }
+    .controls, .brief { display: none; }
+    .wrap { max-width: none; padding: 0; }
+    .sheet { break-after: page; margin: 0 0 1rem; }
+    .card { box-shadow: none; border: 1px solid #ccc; }
+    body.facit .options li.is-correct .tick { display: inline; }
+  }
+</style>
+</head>
+<body class="facit">
+<div class="wrap">
+  <header class="masthead">
+    <h1>Akelius frågekort — världshistoria</h1>
+    <span class="sub">Leverans 1 · Sokrates &amp; Platon · 10 kort · Jonas von Essen</span>
+  </header>
+  <div class="controls">
+    <button id="facitBtn" type="button" aria-pressed="true">Facit: på</button>
+    <span>Bildytorna är briefer — slutbilder hämtas från Shutterstock eller AI-ritas enligt blocket under varje kort.</span>
+  </div>
+  <main id="app"></main>
+</div>
+<script>
+const DATA = __CARDS__;
+const CAT_COLORS = ['var(--cat-1)', 'var(--cat-2)', 'var(--cat-3)'];
+const app = document.getElementById('app');
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let cardNo = 0;
+DATA.forEach(set => {
+  const h = document.createElement('h2');
+  h.className = 'person-head';
+  h.innerHTML = '<strong>' + esc(set.person) + '</strong> 5 kort';
+  app.appendChild(h);
+  set.cards.forEach((c, i) => {
+    const color = CAT_COLORS[(cardNo++) % CAT_COLORS.length];
+    const sec = document.createElement('section');
+    sec.className = 'sheet';
+    sec.innerHTML =
+      '<div class="sheet-meta">' +
+        '<span class="lvl">' + esc(c.level) + '</span>' +
+        '<span>' + esc(set.person) + ' · kort ' + (i + 1) + ' av 5</span>' +
+        '<span>' + esc(c.title) + '</span>' +
+      '</div>' +
+      '<article class="card" style="--cat:' + color + '">' +
+        '<div>' +
+          '<figure class="ph ph-main"><span class="ph-tag">Huvudbild</span>' + esc(c.main_image.description) + '</figure>' +
+          '<div class="card-text">' +
+            c.text_sentences.map(s => '<p>' + esc(s) + '</p>').join('') +
+            '<p class="q">' + esc(c.question) + '</p>' +
+          '</div>' +
+        '</div>' +
+        '<aside>' +
+          '<figure class="ph"><span class="ph-tag">Sidobild</span>' + esc(c.side_image.description) + '</figure>' +
+          '<p class="caption">' + esc(c.side_image.caption) + '</p>' +
+          (c.words.length ? '<dl class="words">' + c.words.map(w =>
+            '<dt>' + esc(w.word) + '</dt><dd>' + esc(w.explanation) + '</dd>').join('') + '</dl>' : '') +
+          '<h2 class="category">' + esc(c.category) + '</h2>' +
+          '<ul class="options">' + c.options.map(o =>
+            '<li' + (o === c.correct ? ' class="is-correct"' : '') + '><span class="sq"></span>' +
+            esc(o) + '<span class="tick">✓ rätt svar</span></li>').join('') + '</ul>' +
+        '</aside>' +
+      '</article>' +
+      '<details class="brief"><summary>Bildbriefer &amp; bildtexter</summary><div class="brief-body">' +
+        ['main_image', 'side_image'].map((k, j) => {
+          const img = c[k];
+          return '<div><h3>' + (j ? 'Sidobild' : 'Huvudbild') + '</h3>' +
+            '<p><b>Motiv:</b> ' + esc(img.description) + '</p>' +
+            '<p><b>Bildtext:</b> ' + esc(img.caption) + '</p>' +
+            '<p><b>Shutterstock:</b> ' + esc(img.shutterstock_query) + '</p>' +
+            '<p><b>AI-prompt:</b> ' + esc(img.ai_prompt) + '</p></div>';
+        }).join('') +
+      '</div></details>';
+    app.appendChild(sec);
+  });
+});
+const facitBtn = document.getElementById('facitBtn');
+facitBtn.addEventListener('click', () => {
+  const on = document.body.classList.toggle('facit');
+  facitBtn.setAttribute('aria-pressed', String(on));
+  facitBtn.textContent = 'Facit: ' + (on ? 'på' : 'av');
+});
+</script>
+</body>
+</html>
