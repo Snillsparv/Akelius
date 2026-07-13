@@ -7,21 +7,21 @@ status uppdateras löpande.
 
 | # | Ämne | Kategori | Status |
 |---|---|---|---|
-| 1 | Ancient Egypt – the pyramids | Ancient Civilizations | |
-| 2 | Mesopotamia – the first cities and writing | Ancient Civilizations | |
-| 3 | Hammurabi and his law code | Ancient Civilizations | |
-| 4 | The Phoenicians and the alphabet | Ancient Civilizations | |
+| 1 | Ancient Egypt – the pyramids | Ancient Civilizations |✅ Leverans 2 |
+| 2 | Mesopotamia – the first cities and writing | Ancient Civilizations |✅ Leverans 2 |
+| 3 | Hammurabi and his law code | Ancient Civilizations |✅ Leverans 2 |
+| 4 | The Phoenicians and the alphabet | Ancient Civilizations |✅ Leverans 2 |
 | 5 | Ancient Greece | Ancient Civilizations | |
 | 6 | The Olympic Games | Ancient Civilizations | |
 | 7 | Socrates | Ancient Civilizations | ✅ Leverans 1 |
 | 8 | Plato | Ancient Civilizations | ✅ Leverans 1 |
-| 9 | Aristotle | Ancient Civilizations | |
-| 10 | Alexander the Great | Ancient Civilizations | |
-| 11 | The Roman Republic and Roman Empire | Ancient Civilizations | |
-| 12 | Julius Caesar | Ancient Civilizations | |
+| 9 | Aristotle | Ancient Civilizations |✅ Leverans 2 |
+| 10 | Alexander the Great | Ancient Civilizations |✅ Leverans 2 |
+| 11 | The Roman Republic and Roman Empire | Ancient Civilizations |✅ Leverans 2 |
+| 12 | Julius Caesar | Ancient Civilizations |✅ Leverans 2 |
 | 13 | Augustus | Ancient Civilizations | |
-| 14 | Confucius | Religions and Beliefs | |
-| 15 | Siddhartha Gautama | Religions and Beliefs | |
+| 14 | Confucius | Religions and Beliefs |✅ Leverans 2 |
+| 15 | Siddhartha Gautama | Religions and Beliefs |✅ Leverans 2 |
 | 16 | Jesus of Nazareth | Religions and Beliefs | |
 | 17 | Muhammad | Religions and Beliefs | |
 | 18 | The Byzantine Empire | Middle Ages | |
