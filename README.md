@@ -12,15 +12,20 @@ Akelius översätter till tio andra språk.
 Rogers förslag var att börja med fem frågekort vardera om Sokrates och Platon.
 Den leveransen ligger klar i detta repo: **10 kort, faktagranskade och specgranskade.**
 
-Alla tio korten går att läsa direkt här nedanför under [Korten](#korten)
+Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
+
+**🌐 Grafisk förhandsvisning (GitHub Pages):**
+<https://snillsparv.github.io/Akelius/> — korten i samma layout som
+exempelkorten, med facit-toggle, bildbriefer och utskriftsvänligt läge.
+Uppdateras automatiskt vid varje push.
 
 | Fil | Innehåll |
 |---|---|
 | `cards/socrates.md` | 5 kort om Sokrates, läsbart format med bildbriefer |
 | `cards/plato.md` | 5 kort om Platon, läsbart format med bildbriefer |
 | `data/cards.json` | Samma innehåll maskinläsbart, för Akelius produktion |
-| `preview/index.html` | Förhandsvisning i samma layout som exempelkorten (ladda ner och öppna i webbläsare — renderas inte på GitHub) |
+| `index.html` | Förhandsvisningssidan som GitHub Pages publicerar på <https://snillsparv.github.io/Akelius/> |
 | `docs/uppdrag-spec.md` | Kravspecen destillerad ur Rogers mejl |
 | `docs/master-lista-50.md` | Listan med 50 personer/skeenden + produktionsstatus |
 
