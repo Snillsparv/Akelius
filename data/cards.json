@@ -1,6 +1,5 @@
 {
-  "delivery": 1,
-  "category": "civilizations",
+  "category_default": "civilizations",
   "sets": [
     {
       "person": "Socrates",
