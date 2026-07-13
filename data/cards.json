@@ -1,0 +1,584 @@
+{
+  "delivery": 1,
+  "category": "civilizations",
+  "sets": [
+    {
+      "person": "Socrates",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The man who never writes a book",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X lives long ago in Athens.",
+            "Athens is a famous city in ancient Greece.",
+            "He has a simple life.",
+            "He often walks barefoot.",
+            "All day he walks around the city.",
+            "He talks with everyone: young people, workers, rich people.",
+            "He teaches them, but he does not want money for it.",
+            "He never writes a book.",
+            "- I only talk with people, he says.",
+            "- That is how I teach.",
+            "His students write down the words of Mr X.",
+            "That is why we still know his ideas today."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Socrates",
+            "Plato",
+            "Aristotle",
+            "Confucius",
+            "Gutenberg"
+          ],
+          "correct": "Socrates",
+          "words": [
+            {
+              "word": "barefoot",
+              "explanation": "with no shoes on your feet"
+            },
+            {
+              "word": "ancient",
+              "explanation": "very old, from a time long ago"
+            }
+          ],
+          "main_image": {
+            "description": "Illustration of Socrates, an older bearded man in a simple robe, walking barefoot through the market of ancient Athens and talking in a friendly way with a young man and a worker.",
+            "shutterstock_query": "Socrates ancient Athens market talking illustration",
+            "ai_prompt": "Warm educational illustration of the ancient Greek philosopher Socrates, an older bearded man in a plain robe, barefoot, walking through a lively market in ancient Athens, talking in a friendly way with a young man and a worker, marble buildings in the background, children's book style.",
+            "caption": "Socrates walks in Athens and talks with everyone."
+          },
+          "side_image": {
+            "description": "A young student in ancient Greek clothes writes on a papyrus scroll with a reed pen. This picture supports the card's key idea: the students write the words down, so the ideas survive.",
+            "shutterstock_query": "ancient Greek scribe writing papyrus scroll illustration",
+            "ai_prompt": "Simple warm illustration of a young student in ancient Greek clothes writing on a papyrus scroll with a reed pen, plain background, children's book style.",
+            "caption": "A student writes the words down."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Answer with a question",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X lives in Athens almost 2,500 years ago.",
+            "When you ask him a question, he does not answer.",
+            "He asks you a question back.",
+            "- What is your reason?",
+            "- Can you give an example?",
+            "Step by step, he tests each idea with you.",
+            "Weak ideas fall.",
+            "Strong ideas stay.",
+            "He is famous for one saying: I know that I know nothing.",
+            "He means: never be too sure of an idea.",
+            "Schools today still use his way of asking.",
+            "It also helps you check news, rumors, and advertising."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Socrates",
+            "Plato",
+            "Buddha",
+            "Aristotle",
+            "Darwin"
+          ],
+          "correct": "Socrates",
+          "words": [
+            {
+              "word": "reason",
+              "explanation": "why you think something is true"
+            },
+            {
+              "word": "saying",
+              "explanation": "a short sentence that many people know and repeat"
+            },
+            {
+              "word": "rumor",
+              "explanation": "a story people tell each other, but no one checks if it is true"
+            },
+            {
+              "word": "advertising",
+              "explanation": "words and pictures that try to make you buy something"
+            }
+          ],
+          "main_image": {
+            "description": "Socrates sits on stone steps in ancient Athens with a small group of young Athenians in conversation; he raises a finger and asks a question back; question marks float in the air. Note: show an informal street conversation, not a school class - Socrates took no pupils for pay.",
+            "shutterstock_query": "Socrates conversation young Athenians agora illustration",
+            "ai_prompt": "Educational flat illustration of Socrates in ancient Athens sitting on stone steps with a small group of young Athenians in friendly conversation, he answers with a question, large question marks floating in the air, marble columns behind, clean friendly style.",
+            "caption": "Socrates answers a question with a question."
+          },
+          "side_image": {
+            "description": "A teenager looks at a smartphone that shows a big question mark, a symbol for checking if news, rumors, and ads are true.",
+            "shutterstock_query": "teenager smartphone question mark checking fake news illustration",
+            "ai_prompt": "Simple flat illustration of a teenager looking at a smartphone, a large question mark on the screen, symbolizing the check: is this news true?",
+            "caption": "Is this true? Check it first."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "The trial of the questioner",
+          "category": "civilizations",
+          "text_sentences": [
+            "Athens loses a long war.",
+            "The people are afraid and angry.",
+            "Mr X is an old man, famous for his hard questions.",
+            "Three men take him to court.",
+            "- He leads the young people the wrong way, they say.",
+            "- He does not respect the gods of our city.",
+            "A jury of about 500 normal people votes: guilty.",
+            "The court says: he must die.",
+            "His friends want to help him run away, but he says no.",
+            "He will not stop asking questions, and he will not run away.",
+            "He calmly drinks a cup of poison and dies.",
+            "His trial leaves us a big question: what may a country do to a thinker?"
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Socrates",
+            "Julius Caesar",
+            "Galileo Galilei",
+            "Gandhi",
+            "Nelson Mandela"
+          ],
+          "correct": "Socrates",
+          "words": [
+            {
+              "word": "trial",
+              "explanation": "when a court (the place of judges) decides: did a person do a crime?"
+            },
+            {
+              "word": "jury",
+              "explanation": "a group of normal people who vote in court: did he do it or not"
+            },
+            {
+              "word": "guilty",
+              "explanation": "the court says: yes, he did it"
+            },
+            {
+              "word": "poison",
+              "explanation": "a thing that kills you when you drink or eat it"
+            }
+          ],
+          "main_image": {
+            "description": "The famous painting 'The Death of Socrates' by Jacques-Louis David: Socrates sits upright on a bed, one hand raised while he still teaches, the other hand reaching toward the cup of poison, sad friends around him.",
+            "shutterstock_query": "Death of Socrates Jacques-Louis David painting",
+            "ai_prompt": "Classical painting style, calm and dignified: the old philosopher Socrates sits upright on a bed in a prison cell, one hand raised as he teaches, the other hand reaching for a simple cup, sad friends around him, soft dramatic light, no blood, no violence.",
+            "caption": "Socrates reaches for the cup of poison and still teaches his friends."
+          },
+          "side_image": {
+            "description": "Jurors in ancient Athens drop small pebbles into two clay urns to vote guilty or not guilty, the voting method of Socrates' time. This picture explains the word 'jury'.",
+            "shutterstock_query": "ancient Greek jury voting urn pebbles illustration",
+            "ai_prompt": "Simple museum-style illustration of ancient Athenian jurors dropping small pebbles into two large clay urns to vote in court, guilty or not guilty, neutral background.",
+            "caption": "The jury votes with small stones."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "The soul is worth more than gold",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X walks through Athens.",
+            "He stops people and talks with them.",
+            "He stops the rich and important people too.",
+            "- You want money and fame, he says.",
+            "- But do you care for your soul?",
+            "He believes a good soul matters more than gold.",
+            "He says: when you do wrong, you hurt yourself most of all.",
+            "A man who cheats hurts his own soul.",
+            "He also says: the unexamined life is not worth living.",
+            "He means: stop and ask yourself, do I live in a good way?",
+            "His questions show that the powerful men often know little.",
+            "So many powerful men become his enemies."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Socrates",
+            "Aristotle",
+            "Buddha",
+            "Confucius",
+            "Karl Marx"
+          ],
+          "correct": "Socrates",
+          "words": [
+            {
+              "word": "soul",
+              "explanation": "the inner part of you: your thoughts, feelings, and character"
+            },
+            {
+              "word": "fame",
+              "explanation": "when many people know your name"
+            },
+            {
+              "word": "unexamined",
+              "explanation": "not checked, not looked at"
+            },
+            {
+              "word": "cheat",
+              "explanation": "to lie or trick people to win or get money"
+            }
+          ],
+          "main_image": {
+            "description": "Socrates, an old barefoot man in a plain worn cloak, calmly asks questions of wealthy Athenian men in fine wool robes with purple borders; the rich men look uncomfortable; ancient Athens street in the background. Historical note for production: no gold necklaces, bracelets, or earrings on the men - classical Athenian men wore at most a signet ring; show wealth through fine cloth, groomed hair, and an attendant.",
+            "shutterstock_query": "Socrates philosopher talking rich men ancient Greece illustration",
+            "ai_prompt": "Educational illustration of Socrates, an old man in a plain worn cloak, barefoot, calmly asking questions to wealthy ancient Athenian men in fine white wool himations with purple borders, groomed hair and beards, at most a gold signet ring, no necklaces or earrings; the rich men look uncomfortable; ancient Athens street in the background.",
+            "caption": "Socrates asks a rich man about his soul."
+          },
+          "side_image": {
+            "description": "A balance scale: a glowing heart on one side is heavier than a pile of gold coins on the other side. Symbol for 'a good soul matters more than money'.",
+            "shutterstock_query": "balance scale heart versus gold coins concept illustration",
+            "ai_prompt": "Minimal flat illustration of a balance scale where a glowing heart on one side outweighs a pile of gold coins on the other side, plain background, symbol that a good soul matters more than money.",
+            "caption": "A good soul weighs more than gold."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The Socratic problem",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X writes nothing.",
+            "But he changes thinking forever.",
+            "We know him only through the books of other people.",
+            "His student Plato writes many dialogues about him.",
+            "Another student, Xenophon, shows a simpler man of daily life.",
+            "A comedy writer in Athens laughs at him on stage.",
+            "The three pictures of him are not the same.",
+            "Experts still ask: who is the real man?",
+            "His method is refutation.",
+            "He questions each claim until it cannot stand.",
+            "This method starts ethics, the study of right and wrong.",
+            "Later, Aristotle turns this testing into logic, the study of good arguments."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Socrates",
+            "Plato",
+            "Aristotle",
+            "Confucius",
+            "Buddha"
+          ],
+          "correct": "Socrates",
+          "words": [
+            {
+              "word": "dialogue",
+              "explanation": "a written talk between two or more people"
+            },
+            {
+              "word": "expert",
+              "explanation": "a person who knows very much about one thing"
+            },
+            {
+              "word": "refutation",
+              "explanation": "showing, step by step, that an idea cannot stand"
+            },
+            {
+              "word": "claim",
+              "explanation": "something a person says is true"
+            }
+          ],
+          "main_image": {
+            "description": "Three different portraits of the same bearded Greek philosopher side by side: one noble and wise, one plain and simple, one as a comic stage mask; a question mark above them shows that the old sources disagree. AI generation is the primary path for this concept; as a stock fallback, use several different antique busts of Socrates side by side.",
+            "shutterstock_query": "Socrates bust ancient Greek philosopher statue collection",
+            "ai_prompt": "Conceptual illustration: three different portraits of the same ancient Greek philosopher side by side, one noble and wise, one plain and simple, one as a comedy stage mask caricature, a large question mark above, symbolizing that old sources disagree about the real man.",
+            "caption": "Old books show three different pictures of Socrates."
+          },
+          "side_image": {
+            "description": "An open papyrus scroll with short lines of a conversation between two speakers, like a theater script, with two small ancient Greek figures talking beside it. This picture explains the word 'dialogue'.",
+            "shutterstock_query": "ancient Greek scroll two philosophers talking illustration",
+            "ai_prompt": "Minimal illustration of an open papyrus scroll showing short lines of a conversation between two speakers, two small ancient Greek figures with simple speech bubbles beside it, plain background.",
+            "caption": "A dialogue is a written talk between people."
+          }
+        }
+      ]
+    },
+    {
+      "person": "Plato",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The student who writes it all into books",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X lives in Athens, a city in Greece.",
+            "His teacher asks people questions at the big square.",
+            "His teacher does not write books.",
+            "One day, the leaders of the city kill his teacher.",
+            "Mr X is very sad and travels to other countries.",
+            "Later he comes back and opens a school in a quiet garden.",
+            "The school is called the Academy.",
+            "A young student named Aristotle studies at his school.",
+            "Mr X writes many books.",
+            "His books look like conversations.",
+            "In his books, his teacher asks questions, just like in real life.",
+            "Mr X writes, so his teacher's ideas never die."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Plato",
+            "Socrates",
+            "Aristotle",
+            "Pythagoras",
+            "Confucius"
+          ],
+          "correct": "Plato",
+          "words": [
+            {
+              "word": "Academy",
+              "explanation": "the name of his school. Many schools use this name today."
+            },
+            {
+              "word": "conversation",
+              "explanation": "two or more people talking together"
+            },
+            {
+              "word": "square",
+              "explanation": "an open place in the middle of a town"
+            },
+            {
+              "word": "scroll",
+              "explanation": "a long piece of paper that you roll up"
+            }
+          ],
+          "main_image": {
+            "description": "Plato as a friendly teacher sitting with a small group of teenage and young adult students under olive trees in a sunny grove near Athens, with a simple colonnade among the trees in the distance. This shows the Academy, his garden school. Production note: the Academy is an olive grove outside the city walls, and its students are teenagers and adults, not small children. Do not use photos of the modern 19th-century Academy of Athens building.",
+            "shutterstock_query": "ancient Greek philosopher teaching students olive grove illustration",
+            "ai_prompt": "Warm, friendly illustration for children: the ancient Greek philosopher Plato with a beard and simple robe sits on a stone bench in a sunny olive grove, talking with a small group of teenage and young adult students, a simple colonnade with softly painted columns among the trees in the distance, soft colors, no text.",
+            "caption": "Mr X teaches students in a garden in Athens."
+          },
+          "side_image": {
+            "description": "A papyrus scroll with ancient Greek writing and a reed pen, showing how Plato writes his books by hand. Helps explain the word 'scroll' and that his books are written as conversations.",
+            "shutterstock_query": "ancient papyrus scroll greek writing reed pen",
+            "ai_prompt": "Simple clear illustration of an open papyrus scroll with a few lines of ancient Greek letters and a reed pen lying next to it, warm parchment colors, plain background, no modern objects, no readable modern text.",
+            "caption": "He writes his books on a scroll."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The cave and the shadows",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X lives in Athens about 2,400 years ago.",
+            "His teacher is Socrates.",
+            "Mr X writes a famous story about a cave.",
+            "Prisoners sit in a dark cave.",
+            "They are chained, so they can only look at the wall.",
+            "A fire behind them makes shadows on the wall.",
+            "They think the shadows are the whole world.",
+            "One prisoner gets free and sees the sun.",
+            "He goes back to tell the others.",
+            "They do not believe him.",
+            "Mr X says: learning is like walking out of the cave.",
+            "Today, a phone screen can be like that wall."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Plato",
+            "Socrates",
+            "Buddha",
+            "Karl Marx",
+            "Gandhi"
+          ],
+          "correct": "Plato",
+          "words": [
+            {
+              "word": "cave",
+              "explanation": "a big dark hole in a rock or under the ground"
+            },
+            {
+              "word": "prisoner",
+              "explanation": "a person who is not free and cannot go out"
+            },
+            {
+              "word": "shadow",
+              "explanation": "the dark shape a thing makes when it blocks light"
+            },
+            {
+              "word": "chained",
+              "explanation": "tied with metal rings, so you cannot move away"
+            }
+          ],
+          "main_image": {
+            "description": "Classic illustration of Plato's cave: prisoners chained at the legs, sitting and facing a wall with shadows on it, a fire burning behind them, and one free person walking up toward the bright cave opening with sunlight outside.",
+            "shutterstock_query": "Plato allegory of the cave illustration",
+            "ai_prompt": "Educational illustration of Plato's allegory of the cave: seated prisoners chained at the legs, facing a stone wall with dark shadow figures on it, a fire behind them, one free person walking toward the bright cave exit where sunlight streams in, dramatic but child-friendly, no violence, no text.",
+            "caption": "The prisoners see only shadows on the wall."
+          },
+          "side_image": {
+            "description": "A hand making a shadow shape (for example a bird) on a wall in the light of a lamp. Helps explain the word 'shadow' and that a shadow is not the real thing.",
+            "shutterstock_query": "hand shadow puppet wall light",
+            "ai_prompt": "Simple photo-style image: a hand in front of a lamp makes a bird-shaped shadow on a plain wall, warm light, dark clear shadow, no text.",
+            "caption": "A hand makes a shadow on the wall."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "The perfect circle",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X starts a famous school in Athens.",
+            "He is a student of Socrates.",
+            "Mr X is a philosopher, not a mathematician.",
+            "But his school loves geometry.",
+            "Try this: draw a circle.",
+            "Look closely: the line is always a little bit wrong.",
+            "No drawing is ever a perfect circle.",
+            "But the idea of a circle is perfect.",
+            "Mr X teaches that our eyes see only imperfect copies.",
+            "Only the mind can see the perfect ideas.",
+            "Geometry trains the mind to work with perfect ideas.",
+            "Ask yourself: do you trust your eyes, or your mind?"
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Plato",
+            "Pythagoras",
+            "Euclid",
+            "Socrates",
+            "Confucius"
+          ],
+          "correct": "Plato",
+          "words": [
+            {
+              "word": "philosopher",
+              "explanation": "a person who thinks hard about big questions"
+            },
+            {
+              "word": "mathematician",
+              "explanation": "a person who works with numbers and shapes"
+            },
+            {
+              "word": "geometry",
+              "explanation": "mathematics about shapes, like circles and triangles"
+            },
+            {
+              "word": "imperfect",
+              "explanation": "not perfect; with small mistakes"
+            }
+          ],
+          "main_image": {
+            "description": "A young student draws a large circle in the sand with a stick while the philosopher Plato watches and points; a few other students look on; olive trees in the background (his school stands in an olive grove). Shows the school practicing geometry.",
+            "shutterstock_query": "ancient greek philosopher students geometry drawing sand illustration",
+            "ai_prompt": "Illustration: in a sunny olive grove, a young student in a simple robe draws a large circle in the sand with a wooden stick while the bearded ancient Greek philosopher Plato watches and points, a few other students look on, warm daylight, no text.",
+            "caption": "A student draws a circle in the sand."
+          },
+          "side_image": {
+            "description": "Two pencil circles side by side: a wobbly freehand circle and a very neat circle drawn with a compass. Production note: do not label either circle as 'perfect' - even the neat compass circle is only a copy; only the idea of the circle is perfect. Helps explain 'imperfect copies'.",
+            "shutterstock_query": "hand drawn circle sketch compass circle pencil comparison",
+            "ai_prompt": "Clean educational graphic: on the left a wobbly, imperfect freehand pencil circle, on the right a very neat pencil circle drawn with a compass, both clearly pencil drawings on paper, plain light background, no text, no labels.",
+            "caption": "Every circle on paper is a little bit wrong."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "Who should rule?",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X lives in Athens.",
+            "One day, a big jury judges his teacher, Socrates.",
+            "Hundreds of people vote, and the teacher must die.",
+            "So Mr X does not trust every decision of the crowd.",
+            "A clever talker can trick a crowd.",
+            "Later, Mr X writes a famous book called The Republic.",
+            "The book asks: what makes a state fair?",
+            "He says: rulers must be wise and love learning.",
+            "Not the richest people, not the loudest people.",
+            "A good ruler loves truth more than power.",
+            "Mr X teaches this to his student Aristotle.",
+            "His question is still alive today: how should we choose our leaders?"
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Plato",
+            "Aristotle",
+            "Socrates",
+            "Karl Marx",
+            "Nelson Mandela"
+          ],
+          "correct": "Plato",
+          "words": [
+            {
+              "word": "jury",
+              "explanation": "a group of people who decide if someone did wrong"
+            },
+            {
+              "word": "state",
+              "explanation": "a country and the people who lead it"
+            },
+            {
+              "word": "ruler",
+              "explanation": "a person who leads a country"
+            }
+          ],
+          "main_image": {
+            "description": "The ancient Greek philosopher Plato as an older bearded man in a robe, holding a thick book with no title and pointing upward. Production notes: single figure only - do not use images that also show Aristotle (such as the full Raphael 'School of Athens' fresco), and the name Plato must not be visible anywhere in the image.",
+            "shutterstock_query": "Plato philosopher statue portrait",
+            "ai_prompt": "Dignified illustration of the ancient Greek philosopher Plato as an older bearded man in a robe, holding a thick closed book with no title in one hand and pointing upward with the other, classical marble hall in the background, warm classical colors, single figure, no text.",
+            "caption": "Mr X holds his book about a fair state."
+          },
+          "side_image": {
+            "description": "A crowd of people in an open-air meeting voting by raising their hands. Illustrates voting and the question of how we choose our leaders. Production note: this shows an open assembly vote, not the jury at Socrates' trial - Athenian juries voted with small ballot tokens, not raised hands, so do not link this image to the trial.",
+            "shutterstock_query": "people voting raised hands assembly outdoors",
+            "ai_prompt": "Simple illustration of a large group of people in an open-air meeting raising their hands to vote, seen from behind, neutral clothing so it fits any culture, clear daylight, no text.",
+            "caption": "The people vote with raised hands."
+          }
+        },
+        {
+          "level": "university",
+          "title": "What is knowledge?",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X starts a school in Athens.",
+            "His teacher is Socrates.",
+            "The school stays open for about three hundred years.",
+            "Mr X asks a hard question: what is knowledge?",
+            "A lucky guess can be true, but it is not knowledge.",
+            "In one book he suggests an answer.",
+            "You know something when your true belief has good reasons.",
+            "In another book, a boy with no schooling solves a problem about a square.",
+            "The boy only answers good questions, step by step.",
+            "Mr X says: questions wake up the mind, so learning is like remembering.",
+            "A famous modern thinker says: European philosophy is footnotes to Mr X's books.",
+            "So when you read the news, ask: do I know this, or do I only believe it?"
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Plato",
+            "Socrates",
+            "Confucius",
+            "Buddha",
+            "Darwin"
+          ],
+          "correct": "Plato",
+          "words": [
+            {
+              "word": "belief",
+              "explanation": "something you think is true"
+            },
+            {
+              "word": "knowledge",
+              "explanation": "the things you really know, not only believe"
+            },
+            {
+              "word": "philosophy",
+              "explanation": "thinking hard about big questions"
+            },
+            {
+              "word": "footnote",
+              "explanation": "a small extra note at the bottom of a page"
+            }
+          ],
+          "main_image": {
+            "description": "A white marble bust of the ancient Greek philosopher Plato beside a stack of old books on a wooden table, showing him as the thinker later philosophy builds on. Hard requirement: the name Plato must not be visible anywhere in the image - no plinth inscription, no label, no overlaid caption; picture editors must crop or reject labeled busts, because a visible name would give away the quiz answer.",
+            "shutterstock_query": "Plato marble bust old books",
+            "ai_prompt": "Elegant photo-style image: a white marble bust of an ancient Greek bearded philosopher beside a stack of old leather books on a wooden table, soft library light, calm and scholarly mood, no text, no letters, no inscription on the bust or its base.",
+            "caption": "Mr X asks: what is knowledge?"
+          },
+          "side_image": {
+            "description": "A square drawn in sand with its diagonal line and a larger square built on that diagonal, like the geometry lesson with the boy in Plato's book Meno. A stick points at the drawing. Helps explain how the boy solves the square problem only by answering questions.",
+            "shutterstock_query": "square diagonal geometry drawing sand stick",
+            "ai_prompt": "Simple educational illustration: a square drawn in smooth sand with its diagonal line, and a second larger square drawn on the diagonal, a wooden stick pointing at the lines, top-down view, warm sand colors, no text.",
+            "caption": "The boy solves the square problem by answering questions."
+          }
+        }
+      ]
+    }
+  ]
+}
