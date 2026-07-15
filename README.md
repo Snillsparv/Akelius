@@ -41,7 +41,8 @@ Uppdateras automatiskt vid varje push.
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
 (120 st för leverans 1–2: 60 kort × huvudbild + sidobild).
 
-**Status: 10 av 120 bilder klara** — Forntida Egypten (pyramiderna), kort 1–5.
+**Status: 50 av 120 bilder klara** — Forntida Egypten (pyramiderna), Mesopotamien,
+Hammurabi, Fenicierna & alfabetet samt Sokrates, kort 1–5 vardera.
 
 Arbetsflöde per batch:
 
