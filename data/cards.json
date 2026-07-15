@@ -2,6 +2,7 @@
   "category_default": "civilizations",
   "sets": [
     {
+      "slug": "ancient-egypt-pyramids",
       "person": "Ancient Egypt - the pyramids",
       "cards": [
         {
@@ -297,6 +298,7 @@
       ]
     },
     {
+      "slug": "mesopotamia",
       "person": "Mesopotamia - the first cities and writing",
       "cards": [
         {
@@ -587,6 +589,7 @@
       ]
     },
     {
+      "slug": "hammurabi",
       "person": "Hammurabi and his law code",
       "cards": [
         {
@@ -870,6 +873,7 @@
       ]
     },
     {
+      "slug": "phoenicians-alphabet",
       "person": "The Phoenicians and the alphabet",
       "cards": [
         {
@@ -1164,6 +1168,7 @@
       ]
     },
     {
+      "slug": "socrates",
       "person": "Socrates",
       "cards": [
         {
@@ -1451,6 +1456,7 @@
       ]
     },
     {
+      "slug": "plato",
       "person": "Plato",
       "cards": [
         {
@@ -1742,6 +1748,7 @@
       ]
     },
     {
+      "slug": "aristotle",
       "person": "Aristotle",
       "cards": [
         {
@@ -2025,6 +2032,7 @@
       ]
     },
     {
+      "slug": "alexander-the-great",
       "person": "Alexander the Great",
       "cards": [
         {
@@ -2312,6 +2320,7 @@
       ]
     },
     {
+      "slug": "roman-republic-empire",
       "person": "The Roman Republic and Roman Empire",
       "cards": [
         {
@@ -2607,6 +2616,7 @@
       ]
     },
     {
+      "slug": "julius-caesar",
       "person": "Julius Caesar",
       "cards": [
         {
@@ -2884,6 +2894,7 @@
       ]
     },
     {
+      "slug": "confucius",
       "person": "Confucius",
       "cards": [
         {
@@ -3173,6 +3184,7 @@
       ]
     },
     {
+      "slug": "siddhartha-gautama",
       "person": "Siddhartha Gautama",
       "cards": [
         {

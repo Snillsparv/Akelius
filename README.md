@@ -28,9 +28,33 @@ Uppdateras automatiskt vid varje push.
 |---|---|
 | `cards/<ämne>.md` | 5 kort per ämne i läsbart format, med bildbriefer |
 | `data/cards.json` | Allt innehåll maskinläsbart, för Akelius produktion |
+| `data/image-prompts.csv` | Alla bildprompter i genereringsordning, med bild-ID:n |
+| `images/` | Färdiga kortbilder i full upplösning (PNG, produktionsmaster); `images/web/` är webbkopior för förhandsvisningen |
 | `index.html` | Förhandsvisningssidan som GitHub Pages publicerar på <https://snillsparv.github.io/Akelius/> |
+| `tools/rename_images.py` | Döper om nedladdade AI-bilder till sina bild-ID:n |
+| `tools/build_index.py` | Bygger om förhandsvisningen efter ny bildbatch eller kortändring |
 | `docs/uppdrag-spec.md` | Kravspecen destillerad ur Rogers mejl |
 | `docs/master-lista-50.md` | Listan med 50 personer/skeenden + produktionsstatus |
+
+## Bilder
+
+Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
+(120 st för leverans 1–2: 60 kort × huvudbild + sidobild).
+
+**Status: 10 av 120 bilder klara** — Forntida Egypten (pyramiderna), kort 1–5.
+
+Arbetsflöde per batch:
+
+1. Generera bilderna i CSV-ordning och lägg de nedladdade filerna i en mapp.
+2. `python3 tools/rename_images.py <mapp> --start <radnr>` — dry run, kontrollera
+   mappningen, kör sedan med `--apply`.
+3. Flytta filerna till `images/` och kör `python3 tools/build_index.py` —
+   skapar webbkopior i `images/web/` och kopplar in bilderna i förhandsvisningen.
+
+PNG-filerna i `images/` är produktionsmaster och rörs inte av verktygen.
+Obs för slutleverans: bild-ID:na (filnamnen) innehåller ämnesnamnet, t.ex.
+`ancient-egypt-pyramids-…` — i elevvänt material måste filnamn/alt-texter bytas
+så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra).
 
 ## Korten
 
