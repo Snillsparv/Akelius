@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Bygg förhandsvisningssidan index.html från data/cards.json och images/.
+"""Bygg webbsidorna från data/cards.json och images/.
 
 Gör två saker:
   1. Skapar webboptimerade JPEG-kopior av images/*.png i images/web/
      (originalen i PNG är produktionsmaster och rörs aldrig).
-  2. Skriver om de genererade raderna i index.html:
+  2. Skriver om de genererade raderna i index.html (interna förhandsvisningen
+     med briefer och platshållare) och presentation.html (granskningssidan
+     som bara visar ämnen där alla bilder är klara):
        const DATA = [...];        <- innehållet i data/cards.json (sets)
        const HAVE = new Set([...]); <- bild-ID:n som har filer i images/
 
@@ -48,21 +50,24 @@ def main():
     data_line = 'const DATA = ' + json.dumps(cards['sets'], ensure_ascii=False) + ';'
     have_line = 'const HAVE = new Set(' + json.dumps(ids) + ');'
 
-    html_path = ROOT / 'index.html'
-    html = html_path.read_text(encoding='utf-8')
-    html, n_data = re.subn(r'(?m)^const DATA = .*$', lambda m: data_line, html, count=1)
-    if not n_data:
-        sys.exit('Hittade inte raden "const DATA = ..." i index.html')
-    if re.search(r'(?m)^const HAVE = .*$', html):
-        html = re.sub(r'(?m)^const HAVE = .*$', lambda m: have_line, html, count=1)
-    else:
-        html = html.replace(data_line, data_line + '\n' + have_line, 1)
-    html_path.write_text(html, encoding='utf-8')
+    for name in ('index.html', 'presentation.html'):
+        html_path = ROOT / name
+        if not html_path.exists():
+            continue
+        html = html_path.read_text(encoding='utf-8')
+        html, n_data = re.subn(r'(?m)^const DATA = .*$', lambda m: data_line, html, count=1)
+        if not n_data:
+            sys.exit(f'Hittade inte raden "const DATA = ..." i {name}')
+        if re.search(r'(?m)^const HAVE = .*$', html):
+            html = re.sub(r'(?m)^const HAVE = .*$', lambda m: have_line, html, count=1)
+        else:
+            html = html.replace(data_line, data_line + '\n' + have_line, 1)
+        html_path.write_text(html, encoding='utf-8')
 
     n_sets = len(cards['sets'])
     n_cards = sum(len(s['cards']) for s in cards['sets'])
-    print(f'index.html uppdaterad: {n_sets} ämnen, {n_cards} kort, '
-          f'{len(ids)} bilder ({made} nya webbkopior).')
+    print(f'index.html + presentation.html uppdaterade: {n_sets} ämnen, '
+          f'{n_cards} kort, {len(ids)} bilder ({made} nya webbkopior).')
 
 
 if __name__ == '__main__':

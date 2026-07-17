@@ -24,6 +24,12 @@ Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 exempelkorten, med facit-toggle, bildbriefer och utskriftsvänligt läge.
 Uppdateras automatiskt vid varje push.
 
+**🎁 Presentationssida för granskning:**
+<https://snillsparv.github.io/Akelius/presentation.html> — putsad sida att
+skicka till Roger: visar bara ämnen där alla bilder är klara, utan interna
+bildbriefer och platshållare. Byggs om automatiskt av `tools/build_index.py`
+och växer i takt med att nya bildbatchar blir klara.
+
 | Fil | Innehåll |
 |---|---|
 | `cards/<ämne>.md` | 5 kort per ämne i läsbart format, med bildbriefer |
