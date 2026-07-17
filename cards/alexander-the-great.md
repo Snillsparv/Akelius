@@ -22,7 +22,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Later, he leads his army east, all the way to India.  
 > In Egypt, he builds a new city and gives it his own name.  
 > The name of this city sounds like the name of King X.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -72,7 +71,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > King X dies young, and his empire quickly breaks apart.  
 > An army can hold people together for a short time.  
 > A language can hold them together for hundreds of years.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -91,8 +89,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** Ruins of an ancient Greek theater far from Greece: stone seats built into a hillside in a dry landscape. Production note: must be a Hellenistic-era, Greek-built theater (for example Pergamon, Priene, or Miletus), NOT a Roman theater - avoid Jerash, Bosra, Palmyra, and Amman. No modern signs, plaques, or readable text in the image.
-- **Bildtext:** *This Greek-style theater stands far from Greece. New cities look like Greek cities.*
+- **Motiv:** Ruins of an ancient Greek theater far from Greece: stone seats built into a hillside in a dry landscape. Production note: must be a Hellenistic-era, Greek-built theater (for example Pergamon or Priene), NOT a Roman theater - avoid Jerash, Bosra, Palmyra, and Amman. No modern signs, plaques, or readable text in the image.
+- **Bildtext:** *A Greek-style theater outside Greece. New cities look like Greek cities.*
 - **Shutterstock-sökning:** `Pergamon ancient greek theater ruins hillside stone seats`
 - **AI-prompt (alternativ):** Realistic image of an ancient Greek theater ruin in a dry landscape: horseshoe-shaped stone seating built into a hillside, wider than a semicircle, warm daylight; no people, no signs, no text.
 
@@ -122,7 +120,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Here a scholar measures the size of the whole Earth, with sticks, shadows, and mathematics.  
 > When knowledge from many lands meets in one place, people can do new things.  
 > The king's sword is gone, but his city of ideas still changes the world.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -168,12 +165,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > But look at the other side of the story.  
 > His wars kill hundreds of thousands of people.  
 > He burns Persepolis, the palace city of the Persian kings.  
-> He is an enemy of the Persian kings, not one of them.  
+> He fights the Persian kings, but he is not born one of them.  
 > He dies young, and his generals break his empire into pieces.  
 > So, is he great?  
 > Great for which people - the winners, the dead, or the conquered?  
 > The names we give people in history are a choice, not a fact.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -221,10 +217,9 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > In some stories, he even looks for magic water that gives life forever.  
 > Here is the problem for historians.  
 > His friends and soldiers write books about him, but all those books are lost.  
-> The oldest sources we still have are written centuries after his death.  
+> The oldest history books we still have are written centuries after his death.  
 > So historians must ask which stories are facts and which are dreams.  
 > The historian's hardest job is to find the real man behind the myth.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ

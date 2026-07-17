@@ -136,7 +136,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **trial** — *when a court (the place of judges) decides: did a person do a crime?*
-- **jury** — *a group of normal people who vote in court: did he do it or not*
+- **jury** — *a group of normal people who vote in court: did he do it or not?*
 - **guilty** — *the court says: yes, he did it*
 - **poison** — *a thing that kills you when you drink or eat it*
 
@@ -173,7 +173,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He also says: the unexamined life is not worth living.  
 > He means: stop and ask yourself, do I live in a good way?  
 > His questions show that the powerful men often know little.  
-> So many powerful men become his enemies.  
+> That is why many powerful men become his enemies.  
 > **Who is Mr X?**
 
 ### Svarsalternativ

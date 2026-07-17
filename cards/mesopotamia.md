@@ -21,7 +21,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > People press small signs into wet clay.  
 > It is the first writing that we know of.  
 > The name of this land means 'between the rivers'.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -72,7 +71,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Over time, the signs become little wedges.  
 > The first writing that we know of is not a poem - it is accounting.  
 > Much later, people write letters, laws, and stories.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -100,7 +98,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Sidobild
 
 - **Motiv:** Still life of small geometric clay tokens (cones, balls, discs) next to a clay tablet with wedge signs and a cut reed - it shows the step from counting tokens to real writing, and explains the words 'token' and 'wedge'. Production note: this is a before-and-after comparison - the plain tokens are much older than the wedge-sign tablet; no museum labels or captions with place names in frame.
-- **Bildtext:** *First people count with clay tokens - later they write with wedge signs.*
+- **Bildtext:** *First, people count with clay tokens - later they write with wedge signs.*
 - **Shutterstock-sökning:** `ancient clay counting tokens tablet`
 - **AI-prompt (alternativ):** Still-life illustration of small geometric clay tokens (cones, spheres, discs) beside a clay tablet with wedge-shaped marks and a cut reed, plain background, soft light, no readable text
 
@@ -123,7 +121,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Soon thousands of strangers live together in one place: the first city.  
 > Today this land is mostly in Iraq.  
 > Maybe the city is the biggest invention that people ever make.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -174,7 +171,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He learns to live well: build your city, love your people, enjoy your bread.  
 > How do we live well, when life is short?  
 > People ask this question 4,000 years ago, and we still ask it today.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -224,7 +220,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Scholars compare the languages and learn to read the signs.  
 > Suddenly, everyday voices speak to us from about 4,000 years ago.  
 > Durable writing materials keep the small voices alive, not only the voices of kings.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -245,7 +240,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** An ancient archive: shelves and baskets full of flat clay tablets of many sizes - some small like receipts, some large - conveying the huge number of surviving everyday documents. The tablets must clearly read as flat pieces of clay with wedge marks, not modern devices. Production note: crop out or avoid any museum labels or signs that name the land; wedge marks must be generic.
-- **Bildtext:** *We still have thousands of clay tablets.*
+- **Bildtext:** *We still have hundreds of thousands of clay tablets.*
 - **Shutterstock-sökning:** `cuneiform clay tablets collection archive`
 - **AI-prompt (alternativ):** Illustration of an ancient archive room: shelves and baskets full of flat clay tablets of many sizes covered in wedge-shaped marks, a scribe sorting them by warm lamplight, mud-brick walls, no readable modern text or labels
 

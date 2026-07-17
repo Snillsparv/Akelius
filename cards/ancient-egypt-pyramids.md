@@ -22,7 +22,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The top is one point.  
 > The biggest one is about 4,500 years old.  
 > For thousands of years, it was the tallest building on Earth.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -68,12 +67,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Thousands of workers pull heavy stones on wooden sledges.  
 > They drag the stones up long ramps of earth and stone.  
 > They cut the stone with tools of copper, a soft metal.  
-> Today, archaeologists find the workers' village near the pyramids.  
+> Today, archaeologists study the workers' village near the pyramids.  
 > The workers are not slaves.  
 > They get pay: bread, fish, and a place to sleep.  
 > How do you feed thousands of workers, day after day?  
 > Only a strong and well-planned land can do this.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -124,7 +122,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > A building can show what people believe.  
 > Think of the biggest buildings today: temples, banks, towers, stadiums.  
 > What do they say about us?  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -145,7 +142,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Dramatic photo of one large pyramid as a dark triangle against an orange evening sky, with a tiny human figure or camel near its base to show the enormous size. Production notes: no signs, labels, or text naming the country or site; reject any stock image with readable modern words anywhere.
-- **Bildtext:** *The tomb is as tall as a mountain. It is a message in stone.*
+- **Bildtext:** *The tomb is like a mountain of stone. It is a message in stone.*
 - **Shutterstock-sökning:** `pyramid silhouette sunset small person scale`
 - **AI-prompt (alternativ):** One huge ancient stone pyramid as a dark silhouette against an orange sunset sky, a tiny human figure standing at its base to show its giant size, realistic, no text
 
@@ -165,8 +162,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > In Land X, a scribe sits by a field and counts sacks of wheat.  
-> He writes picture-signs on papyrus.  
-> Picture-signs also cover the temple walls.  
+> He writes signs on papyrus.  
+> Picture-signs cover the temple walls.  
 > The scribes collect taxes for the king.  
 > Every year, the long river rises and covers the fields with water.  
 > The water leaves rich black earth on the fields.  
@@ -175,7 +172,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > All this measuring helps geometry grow.  
 > A big kingdom needs writing and mathematics.  
 > No scribes means no taxes, and no taxes means no pyramids.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -219,14 +215,13 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The signs cover temple walls and the huge stone tombs of kings.  
 > For many hundreds of years, nobody can read them.  
 > More than 200 years ago, soldiers find a special stone by the river.  
-> On the stone, the same text stands three times, in three scripts.  
+> On the stone, the same text is written three times, in three scripts.  
 > One script is old Greek, and scholars can read Greek.  
 > For many years, scholars compare the scripts, sign by sign.  
 > At last, they can read the picture-signs again.  
-> Now we can read its prayers, its laws, even its shopping lists.  
+> Now we can read the land's prayers, its laws, even its shopping lists.  
 > When a script is lost, a land's memory goes silent.  
 > Archaeology can give the voice back.  
-> Which land is this?  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -247,7 +242,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Photo or realistic illustration of a dark stone slab densely carved with three horizontal bands of different writing: picture-signs on top, a cursive script in the middle, Greek-style letters at the bottom. Production notes: no museum labels, plaques, or captions readable in the image; the carved text must not be legible enough to read any place name. Do not reuse this search query as student-facing alt text, caption metadata, or filename; alt text must not name the stone or the country (use e.g. 'a dark stone with three bands of old writing').
-- **Bildtext:** *The same text stands three times on one stone.*
+- **Bildtext:** *The same text is written three times on one stone.*
 - **Shutterstock-sökning:** `Rosetta stone three scripts dark granite slab`
 - **AI-prompt (alternativ):** A dark granite stone slab densely carved with three horizontal bands of different ancient scripts: pictorial signs on top, cursive signs in the middle, Greek-style letters at the bottom, soft museum lighting, signs not legible, no modern text or labels
 

@@ -34,7 +34,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Ordförklaringar (marginal)
 
-- **trade** — *to buy and sell things*
+- **trader** — *a person who buys and sells things*
 - **cedar** — *a tall tree with strong, good-smelling wood*
 - **dye** — *something that gives color to cloth*
 - **rare** — *very hard to find; there is only a little of it*
@@ -62,11 +62,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > The X people are traders on the Mediterranean Sea.  
-> Egyptian and Sumerian writing has hundreds of signs.  
+> Egyptian and Sumerian writing systems have hundreds of signs.  
 > Only a few scribes learn it, after years of school.  
 > But traders need fast notes in every port.  
 > They write prices, names, and lists of the things they sell.  
-> So the X people use an older writing with only 22 simple signs.  
+> So the X people use a new, simple writing with only 22 signs.  
 > One sign means one sound.  
 > Now a child can learn to read in months, not years.  
 > Their ships carry the signs to many lands.  

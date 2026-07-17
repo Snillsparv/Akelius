@@ -21,7 +21,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Why does he take poor students too?  
 > Because everyone can learn to be good, he believes.  
 > People still learn from him today.  
-> Who is Master X?  
 > **Who is Master X?**
 
 ### Svarsalternativ
@@ -71,7 +70,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Master X starts with everyday life: how we treat each other.  
 > Being good starts at home, with your family, he says.  
 > Then it grows: to the village, the town, the world.  
-> Who is Master X?  
 > **Who is Master X?**
 
 ### Svarsalternativ
@@ -121,7 +119,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Few rulers listen to him.  
 > But many centuries later, China chooses its officials with big examinations.  
 > Can a test find a good heart too?  
-> Who is Master X?  
 > **Who is Master X?**
 
 ### Svarsalternativ
@@ -172,7 +169,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > - Does so much respect for old people stop new ideas?  
 > - May a student question the teacher?  
 > People can respect a tradition and still ask questions about it.  
-> Who is Master X?  
 > **Who is Master X?**
 
 ### Svarsalternativ
@@ -185,7 +181,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Ordförklaringar (marginal)
 
-- **li** — *a Chinese word for polite ways to do things, like greeting or giving tea*
+- **li** — *a Chinese word for polite ways to do things, like greeting or eating together*
 - **glue** — *a sticky material that holds things together; here: what holds people together*
 - **society** — *all the people who live together in a country or group*
 - **tradition** — *old ways that pass from parents to children*
@@ -223,7 +219,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Modern reformers say his ideas are old-fashioned.  
 > Today, people study him and show him respect again.  
 > Ideas are like tools: each new time uses them for its own questions.  
-> Who is Master X?  
 > **Who is Master X?**
 
 ### Svarsalternativ

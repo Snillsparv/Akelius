@@ -17,6 +17,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > One day, the prince rides outside the palace walls.  
 > He sees an old man, a sick man, and a dead man.  
 > - Why do people suffer? he asks.  
+> He also sees a calm holy man with no home.  
 > He leaves the palace to understand suffering.  
 > At last, he sits under a big fig tree and thinks deeply.  
 > From that day, people call him "the awakened one".  
@@ -63,7 +64,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 > Prince X lives long ago, in what is now Nepal and India.  
 > The old stories tell us: as a young man he has every luxury.  
-> Fine food, music, soft beds - but it does not make him happy.  
+> Fine food, music, soft beds - but they do not make him happy.  
 > The stories go on: he tries the opposite and eats almost nothing.  
 > He almost dies, and he finds no answer.  
 > So he chooses a middle way.  
@@ -161,7 +162,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > Prince X lives in India, long ago.  
-> Old stories say he leaves his palace to teach.  
+> Old stories say he leaves his palace to find answers.  
+> Later, he becomes a teacher.  
 > He teaches peace and a calm mind.  
 > Long after his death, the emperor Ashoka rules India.  
 > After a terrible war, Ashoka is full of regret.  

@@ -22,7 +22,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > It stands where all people can see it.  
 > The king wants everyone to know the rules, not only powerful people.  
 > This happens almost 4,000 years ago.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -47,7 +46,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Sidobild
 
-- **Motiv:** Close-up of a stone worker's hands cutting wedge-shaped signs into a dark hard stone with simple stone and bronze tools and a wooden hammer. This image helps explain the word 'carve'. PRODUCTION NOTE: signs must be decorative cuneiform-style wedges only, no readable modern letters; show period-correct stone and bronze tools, not modern steel or copper chisels.
+- **Motiv:** Close-up of a stone worker's hands cutting wedge-shaped signs into a dark hard stone with simple stone and bronze tools and a wooden hammer. This image helps explain the word 'carve'. PRODUCTION NOTE: signs must be decorative cuneiform-style wedges only, no readable modern letters; show period-correct stone and bronze tools, not modern steel chisels.
 - **Bildtext:** *A worker carves signs into the hard stone.*
 - **Shutterstock-sökning:** `cuneiform carving stone chisel hands close up`
 - **AI-prompt (alternativ):** Close-up illustration of two hands carving wedge-shaped cuneiform-style signs into a dark hard stone, using a simple bronze and stone tool with a wooden mallet, small stone chips flying, warm ancient workshop light, no readable modern text
@@ -71,7 +70,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The king says the laws protect the weak from the strong.  
 > He says the law must also help widows and orphans.  
 > When all people can know the law, life is more fair.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -92,7 +90,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Photo of the real dark stone law stele in the museum in Paris: a tall polished dark stone (diorite, not basalt) covered with dense rows of wedge-shaped writing, with a carved relief of two figures at the top. PRODUCTION NOTE: crop out or blur any museum label or sign; the king's name must not be readable anywhere in the photo; the ancient cuneiform itself is fine. The search query names the king: internal use only - never show the query, the image filename, or derived alt-text to students.
-- **Bildtext:** *The laws stand on this tall dark stone. Everyone can see them.*
+- **Bildtext:** *The laws are carved on this tall dark stone. Everyone can see them.*
 - **Shutterstock-sökning:** `Code of Hammurabi stele Louvre`
 - **AI-prompt (alternativ):** Museum photo style: a tall polished dark diorite stele covered in dense rows of wedge-shaped cuneiform writing, softly lit against a dark background, a carved relief of a seated figure and a standing figure at the top, no readable modern text or labels
 
@@ -122,7 +120,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > From one stone, we can see how people live in old Babylon.  
 > Laws show the problems people really have: work, money, family, houses.  
 > Old laws are a window into daily life.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -173,7 +170,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Today, many lands want the same law for every person.  
 > Ideas of justice have a history.  
 > They can change, and they can get better.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ
@@ -214,7 +210,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > King X is a king of Babylon, in the land between two big rivers.  
-> His laws stand on a tall black stone.  
+> His laws are carved on a tall black stone.  
 > At the top of the stone, there is a picture.  
 > In the picture, the sun god gives King X a rod and a ring.  
 > The message is strong: this law comes with the power of a god.  
@@ -224,7 +220,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Today the stone stands in a museum in Paris.  
 > There are older laws, but no other old law stone is kept so well.  
 > One stone shows how law, power, and things travel through time.  
-> Who is King X?  
 > **Who is King X?**
 
 ### Svarsalternativ

@@ -80,7 +80,6 @@ svar (✅ = rätt) och ordlista.
 > The top is one point.  
 > The biggest one is about 4,500 years old.  
 > For thousands of years, it was the tallest building on Earth.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Mexico · ✅ Egypt · ⬜ China · ⬜ Greece · ⬜ India
@@ -98,12 +97,11 @@ svar (✅ = rätt) och ordlista.
 > Thousands of workers pull heavy stones on wooden sledges.  
 > They drag the stones up long ramps of earth and stone.  
 > They cut the stone with tools of copper, a soft metal.  
-> Today, archaeologists find the workers' village near the pyramids.  
+> Today, archaeologists study the workers' village near the pyramids.  
 > The workers are not slaves.  
 > They get pay: bread, fish, and a place to sleep.  
 > How do you feed thousands of workers, day after day?  
 > Only a strong and well-planned land can do this.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Peru · ⬜ Mesopotamia · ✅ Egypt · ⬜ Mexico · ⬜ Greece
@@ -126,7 +124,6 @@ svar (✅ = rätt) och ordlista.
 > A building can show what people believe.  
 > Think of the biggest buildings today: temples, banks, towers, stadiums.  
 > What do they say about us?  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ China · ⬜ Mexico · ⬜ India · ✅ Egypt · ⬜ Iraq
@@ -139,8 +136,8 @@ svar (✅ = rätt) och ordlista.
 <summary><b>Kort 4 · Årskurs 12 (B)</b> — The scribes and the flood</summary>
 
 > In Land X, a scribe sits by a field and counts sacks of wheat.  
-> He writes picture-signs on papyrus.  
-> Picture-signs also cover the temple walls.  
+> He writes signs on papyrus.  
+> Picture-signs cover the temple walls.  
 > The scribes collect taxes for the king.  
 > Every year, the long river rises and covers the fields with water.  
 > The water leaves rich black earth on the fields.  
@@ -149,7 +146,6 @@ svar (✅ = rätt) och ordlista.
 > All this measuring helps geometry grow.  
 > A big kingdom needs writing and mathematics.  
 > No scribes means no taxes, and no taxes means no pyramids.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Mesopotamia · ⬜ China · ✅ Egypt · ⬜ India · ⬜ Greece
@@ -165,14 +161,13 @@ svar (✅ = rätt) och ordlista.
 > The signs cover temple walls and the huge stone tombs of kings.  
 > For many hundreds of years, nobody can read them.  
 > More than 200 years ago, soldiers find a special stone by the river.  
-> On the stone, the same text stands three times, in three scripts.  
+> On the stone, the same text is written three times, in three scripts.  
 > One script is old Greek, and scholars can read Greek.  
 > For many years, scholars compare the scripts, sign by sign.  
 > At last, they can read the picture-signs again.  
-> Now we can read its prayers, its laws, even its shopping lists.  
+> Now we can read the land's prayers, its laws, even its shopping lists.  
 > When a script is lost, a land's memory goes silent.  
 > Archaeology can give the voice back.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Persia · ✅ Egypt · ⬜ Mesopotamia · ⬜ India · ⬜ China
@@ -197,7 +192,6 @@ svar (✅ = rätt) och ordlista.
 > People press small signs into wet clay.  
 > It is the first writing that we know of.  
 > The name of this land means 'between the rivers'.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Egypt · ✅ Mesopotamia · ⬜ Greece · ⬜ India · ⬜ China
@@ -220,7 +214,6 @@ svar (✅ = rätt) och ordlista.
 > Over time, the signs become little wedges.  
 > The first writing that we know of is not a poem - it is accounting.  
 > Much later, people write letters, laws, and stories.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ China · ⬜ Egypt · ✅ Mesopotamia · ⬜ Phoenicia · ⬜ Greece
@@ -243,7 +236,6 @@ svar (✅ = rätt) och ordlista.
 > Soon thousands of strangers live together in one place: the first city.  
 > Today this land is mostly in Iraq.  
 > Maybe the city is the biggest invention that people ever make.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Egypt · ⬜ the Indus Valley · ✅ Mesopotamia · ⬜ China · ⬜ Greece
@@ -266,7 +258,6 @@ svar (✅ = rätt) och ordlista.
 > He learns to live well: build your city, love your people, enjoy your bread.  
 > How do we live well, when life is short?  
 > People ask this question 4,000 years ago, and we still ask it today.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Greece · ⬜ Egypt · ⬜ India · ✅ Mesopotamia · ⬜ Persia
@@ -289,7 +280,6 @@ svar (✅ = rätt) och ordlista.
 > Scholars compare the languages and learn to read the signs.  
 > Suddenly, everyday voices speak to us from about 4,000 years ago.  
 > Durable writing materials keep the small voices alive, not only the voices of kings.  
-> Which land is this?  
 > **Which land is this?**
 
 **Svar:** ⬜ Rome · ⬜ Greece · ⬜ Egypt · ⬜ China · ✅ Mesopotamia
@@ -315,7 +305,6 @@ svar (✅ = rätt) och ordlista.
 > It stands where all people can see it.  
 > The king wants everyone to know the rules, not only powerful people.  
 > This happens almost 4,000 years ago.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ✅ Hammurabi · ⬜ Julius Caesar · ⬜ Alexander the Great · ⬜ Confucius · ⬜ Augustus
@@ -338,7 +327,6 @@ svar (✅ = rätt) och ordlista.
 > The king says the laws protect the weak from the strong.  
 > He says the law must also help widows and orphans.  
 > When all people can know the law, life is more fair.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ✅ Hammurabi · ⬜ Cyrus the Great · ⬜ Julius Caesar · ⬜ Ramses II · ⬜ Alexander the Great
@@ -361,7 +349,6 @@ svar (✅ = rätt) och ordlista.
 > From one stone, we can see how people live in old Babylon.  
 > Laws show the problems people really have: work, money, family, houses.  
 > Old laws are a window into daily life.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ✅ Hammurabi · ⬜ Augustus · ⬜ Ashoka · ⬜ Ramses II · ⬜ Alexander the Great
@@ -384,7 +371,6 @@ svar (✅ = rätt) och ordlista.
 > Today, many lands want the same law for every person.  
 > Ideas of justice have a history.  
 > They can change, and they can get better.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ✅ Hammurabi · ⬜ Moses · ⬜ Confucius · ⬜ Solon · ⬜ Julius Caesar
@@ -397,7 +383,7 @@ svar (✅ = rätt) och ordlista.
 <summary><b>Kort 5 · Universitet</b> — The Stone That Travels Through Time</summary>
 
 > King X is a king of Babylon, in the land between two big rivers.  
-> His laws stand on a tall black stone.  
+> His laws are carved on a tall black stone.  
 > At the top of the stone, there is a picture.  
 > In the picture, the sun god gives King X a rod and a ring.  
 > The message is strong: this law comes with the power of a god.  
@@ -407,7 +393,6 @@ svar (✅ = rätt) och ordlista.
 > Today the stone stands in a museum in Paris.  
 > There are older laws, but no other old law stone is kept so well.  
 > One stone shows how law, power, and things travel through time.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ✅ Hammurabi · ⬜ Gilgamesh · ⬜ Cyrus the Great · ⬜ Augustus · ⬜ Alexander the Great
@@ -437,7 +422,7 @@ svar (✅ = rätt) och ordlista.
 
 **Svar:** ⬜ The Egyptians · ✅ The Phoenicians · ⬜ The Greeks · ⬜ The Vikings · ⬜ The Babylonians
 
-**Ord:** *trade* — to buy and sell things · *cedar* — a tall tree with strong, good-smelling wood · *dye* — something that gives color to cloth · *rare* — very hard to find; there is only a little of it
+**Ord:** *trader* — a person who buys and sells things · *cedar* — a tall tree with strong, good-smelling wood · *dye* — something that gives color to cloth · *rare* — very hard to find; there is only a little of it
 
 </details>
 
@@ -445,11 +430,11 @@ svar (✅ = rätt) och ordlista.
 <summary><b>Kort 2 · Årskurs 9</b> — Twenty-two little signs</summary>
 
 > The X people are traders on the Mediterranean Sea.  
-> Egyptian and Sumerian writing has hundreds of signs.  
+> Egyptian and Sumerian writing systems have hundreds of signs.  
 > Only a few scribes learn it, after years of school.  
 > But traders need fast notes in every port.  
 > They write prices, names, and lists of the things they sell.  
-> So the X people use an older writing with only 22 simple signs.  
+> So the X people use a new, simple writing with only 22 signs.  
 > One sign means one sound.  
 > Now a child can learn to read in months, not years.  
 > Their ships carry the signs to many lands.  
@@ -601,7 +586,7 @@ svar (✅ = rätt) och ordlista.
 
 **Svar:** ✅ Socrates · ⬜ Julius Caesar · ⬜ Galileo Galilei · ⬜ Gandhi · ⬜ Nelson Mandela
 
-**Ord:** *trial* — when a court (the place of judges) decides: did a person do a crime? · *jury* — a group of normal people who vote in court: did he do it or not · *guilty* — the court says: yes, he did it · *poison* — a thing that kills you when you drink or eat it
+**Ord:** *trial* — when a court (the place of judges) decides: did a person do a crime? · *jury* — a group of normal people who vote in court: did he do it or not? · *guilty* — the court says: yes, he did it · *poison* — a thing that kills you when you drink or eat it
 
 </details>
 
@@ -619,7 +604,7 @@ svar (✅ = rätt) och ordlista.
 > He also says: the unexamined life is not worth living.  
 > He means: stop and ask yourself, do I live in a good way?  
 > His questions show that the powerful men often know little.  
-> So many powerful men become his enemies.  
+> That is why many powerful men become his enemies.  
 > **Who is Mr X?**
 
 **Svar:** ✅ Socrates · ⬜ Aristotle · ⬜ Buddha · ⬜ Confucius · ⬜ Karl Marx
@@ -660,7 +645,7 @@ svar (✅ = rätt) och ordlista.
 > Mr X lives in Athens, a city in Greece.  
 > His teacher asks people questions at the big square.  
 > His teacher does not write books.  
-> One day, the leaders of the city kill his teacher.  
+> One day, a big court in the city says his teacher must die.  
 > Mr X is very sad and travels to other countries.  
 > Later he comes back and opens a school in a quiet garden.  
 > The school is called the Academy.  
@@ -754,7 +739,7 @@ svar (✅ = rätt) och ordlista.
 > The school stays open for about three hundred years.  
 > Mr X asks a hard question: what is knowledge?  
 > A lucky guess can be true, but it is not knowledge.  
-> In one book he suggests an answer.  
+> In one book he tests an answer.  
 > You know something when your true belief has good reasons.  
 > In another book, a boy with no schooling solves a problem about a square.  
 > The boy only answers good questions, step by step.  
@@ -786,7 +771,6 @@ svar (✅ = rätt) och ordlista.
 > This prince later becomes a very famous king: Alexander the Great.  
 > He teaches his students to look closely at the world.  
 > When you look closely and compare, you learn new things.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 **Svar:** ✅ Aristotle · ⬜ Socrates · ⬜ Plato · ⬜ Alexander the Great · ⬜ Darwin
@@ -799,7 +783,7 @@ svar (✅ = rätt) och ordlista.
 <summary><b>Kort 2 · Årskurs 9</b> — Use Your Eyes</summary>
 
 > Mr X lives in Greece.  
-> It is about 2,300 years ago.  
+> It is more than 2,300 years ago.  
 > His teacher in Athens is the famous thinker Plato.  
 > Plato trusts thinking more than looking.  
 > But Mr X thinks you must also use your eyes!  
@@ -809,7 +793,6 @@ svar (✅ = rätt) och ordlista.
 > Many people call him the first biologist.  
 > His big idea: do not only think - look and check.  
 > This idea is a root of modern science.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 **Svar:** ✅ Aristotle · ⬜ Darwin · ⬜ Plato · ⬜ Socrates · ⬜ Hippocrates
@@ -832,7 +815,6 @@ svar (✅ = rätt) och ordlista.
 > If the first two sentences are true, the third must be true.  
 > People call this science logic.  
 > Mathematics and computers still build on this science today.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 **Svar:** ✅ Aristotle · ⬜ Socrates · ⬜ Plato · ⬜ Pythagoras · ⬜ Euclid
@@ -855,7 +837,6 @@ svar (✅ = rätt) och ordlista.
 > You become good by training good habits, like training a muscle.  
 > Happiness is not one moment of fun, he says.  
 > Happiness is a whole life, lived well.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 **Svar:** ✅ Aristotle · ⬜ Plato · ⬜ Socrates · ⬜ Buddha · ⬜ Confucius
@@ -870,7 +851,7 @@ svar (✅ = rätt) och ordlista.
 > Mr X is a Greek thinker.  
 > He writes many books: about logic, nature, and the good life.  
 > He loves his teacher Plato, but he loves truth more.  
-> After his death, scholars in the Arabic world save his books.  
+> After his death, scholars in the Arabic world translate and study his books.  
 > Later, the great scholar Ibn Rushd explains his ideas.  
 > For many centuries, teachers say: if he writes it, it is true.  
 > But he also writes: heavy things fall faster than light things.  
@@ -878,7 +859,6 @@ svar (✅ = rätt) och ordlista.
 > Is this bad for him?  
 > No - he himself teaches: when facts and ideas disagree, believe the facts.  
 > Check every authority - even Mr X.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 **Svar:** ✅ Aristotle · ⬜ Plato · ⬜ Galileo Galilei · ⬜ Ibn Rushd · ⬜ Copernicus
@@ -904,7 +884,6 @@ svar (✅ = rätt) och ordlista.
 > Later, he leads his army east, all the way to India.  
 > In Egypt, he builds a new city and gives it his own name.  
 > The name of this city sounds like the name of King X.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ⬜ Julius Caesar · ✅ Alexander the Great · ⬜ Augustus · ⬜ Hammurabi · ⬜ Plato
@@ -927,7 +906,6 @@ svar (✅ = rätt) och ordlista.
 > King X dies young, and his empire quickly breaks apart.  
 > An army can hold people together for a short time.  
 > A language can hold them together for hundreds of years.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ⬜ Cyrus the Great · ⬜ Genghis Khan · ✅ Alexander the Great · ⬜ Julius Caesar · ⬜ Augustus
@@ -950,7 +928,6 @@ svar (✅ = rätt) och ordlista.
 > Here a scholar measures the size of the whole Earth, with sticks, shadows, and mathematics.  
 > When knowledge from many lands meets in one place, people can do new things.  
 > The king's sword is gone, but his city of ideas still changes the world.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ✅ Alexander the Great · ⬜ Cleopatra · ⬜ Julius Caesar · ⬜ Hammurabi · ⬜ Augustus
@@ -968,12 +945,11 @@ svar (✅ = rätt) och ordlista.
 > But look at the other side of the story.  
 > His wars kill hundreds of thousands of people.  
 > He burns Persepolis, the palace city of the Persian kings.  
-> He is an enemy of the Persian kings, not one of them.  
+> He fights the Persian kings, but he is not born one of them.  
 > He dies young, and his generals break his empire into pieces.  
 > So, is he great?  
 > Great for which people - the winners, the dead, or the conquered?  
 > The names we give people in history are a choice, not a fact.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ⬜ Napoleon · ⬜ Cyrus the Great · ⬜ Genghis Khan · ✅ Alexander the Great · ⬜ Julius Caesar
@@ -993,10 +969,9 @@ svar (✅ = rätt) och ordlista.
 > In some stories, he even looks for magic water that gives life forever.  
 > Here is the problem for historians.  
 > His friends and soldiers write books about him, but all those books are lost.  
-> The oldest sources we still have are written centuries after his death.  
+> The oldest history books we still have are written centuries after his death.  
 > So historians must ask which stories are facts and which are dreams.  
 > The historian's hardest job is to find the real man behind the myth.  
-> Who is King X?  
 > **Who is King X?**
 
 **Svar:** ⬜ Hammurabi · ✅ Alexander the Great · ⬜ Genghis Khan · ⬜ Cyrus the Great · ⬜ Julius Caesar
@@ -1042,7 +1017,7 @@ svar (✅ = rätt) och ordlista.
 > A senate of old, wise men gives advice.  
 > Free men meet and vote on the laws.  
 > Women cannot vote.  
-> The people call their city res publica - 'the public thing'.  
+> The people call their state res publica - 'the public thing'.  
 > Our word 'republic' comes from this.  
 > The city lies in Italy.  
 > But many countries far from Italy still use these ideas today.  
@@ -1096,7 +1071,7 @@ svar (✅ = rätt) och ordlista.
 
 **Svar:** ✅ Rome · ⬜ Greece · ⬜ Egypt · ⬜ Persia · ⬜ The Maya
 
-**Ord:** *accusation* — when someone says: this person did a bad thing · *concrete* — a building material, like liquid stone that becomes very hard · *conquered* — taken in a war · *citizen* — a full member of a country, with rights and duties
+**Ord:** *accusation* — when someone says: this person did a bad thing · *concrete* — a building material, like liquid stone that becomes very hard · *conquered* — beaten in a war and taken over by the winners · *citizen* — a full member of a country, with rights and duties
 
 </details>
 
@@ -1225,7 +1200,7 @@ svar (✅ = rätt) och ordlista.
 > No living Roman does this before him.  
 > He takes the job of dictator, an emergency job for six months.  
 > He keeps the job until he dies.  
-> We know about him mostly from his own book.  
+> We know about the war mostly from his own book.  
 > Source criticism asks: who writes this, and why?  
 > **Who is Mr X?**
 
@@ -1251,7 +1226,6 @@ svar (✅ = rätt) och ordlista.
 > Why does he take poor students too?  
 > Because everyone can learn to be good, he believes.  
 > People still learn from him today.  
-> Who is Master X?  
 > **Who is Master X?**
 
 **Svar:** ✅ Confucius · ⬜ Buddha · ⬜ Socrates · ⬜ Plato · ⬜ Gandhi
@@ -1273,7 +1247,6 @@ svar (✅ = rätt) och ordlista.
 > Master X starts with everyday life: how we treat each other.  
 > Being good starts at home, with your family, he says.  
 > Then it grows: to the village, the town, the world.  
-> Who is Master X?  
 > **Who is Master X?**
 
 **Svar:** ⬜ Buddha · ✅ Confucius · ⬜ Socrates · ⬜ Gandhi · ⬜ Aristotle
@@ -1296,7 +1269,6 @@ svar (✅ = rätt) och ordlista.
 > Few rulers listen to him.  
 > But many centuries later, China chooses its officials with big examinations.  
 > Can a test find a good heart too?  
-> Who is Master X?  
 > **Who is Master X?**
 
 **Svar:** ⬜ Plato · ⬜ Hammurabi · ✅ Confucius · ⬜ Buddha · ⬜ Marx
@@ -1319,12 +1291,11 @@ svar (✅ = rätt) och ordlista.
 > - Does so much respect for old people stop new ideas?  
 > - May a student question the teacher?  
 > People can respect a tradition and still ask questions about it.  
-> Who is Master X?  
 > **Who is Master X?**
 
 **Svar:** ⬜ Socrates · ⬜ Buddha · ⬜ Hammurabi · ✅ Confucius · ⬜ Gandhi
 
-**Ord:** *li* — a Chinese word for polite ways to do things, like greeting or giving tea · *glue* — a sticky material that holds things together; here: what holds people together · *society* — all the people who live together in a country or group · *tradition* — old ways that pass from parents to children
+**Ord:** *li* — a Chinese word for polite ways to do things, like greeting or eating together · *glue* — a sticky material that holds things together; here: what holds people together · *society* — all the people who live together in a country or group · *tradition* — old ways that pass from parents to children
 
 </details>
 
@@ -1342,7 +1313,6 @@ svar (✅ = rätt) och ordlista.
 > Modern reformers say his ideas are old-fashioned.  
 > Today, people study him and show him respect again.  
 > Ideas are like tools: each new time uses them for its own questions.  
-> Who is Master X?  
 > **Who is Master X?**
 
 **Svar:** ⬜ Socrates · ⬜ Plato · ⬜ Buddha · ⬜ Marx · ✅ Confucius
@@ -1363,6 +1333,7 @@ svar (✅ = rätt) och ordlista.
 > One day, the prince rides outside the palace walls.  
 > He sees an old man, a sick man, and a dead man.  
 > - Why do people suffer? he asks.  
+> He also sees a calm holy man with no home.  
 > He leaves the palace to understand suffering.  
 > At last, he sits under a big fig tree and thinks deeply.  
 > From that day, people call him "the awakened one".  
@@ -1381,7 +1352,7 @@ svar (✅ = rätt) och ordlista.
 
 > Prince X lives long ago, in what is now Nepal and India.  
 > The old stories tell us: as a young man he has every luxury.  
-> Fine food, music, soft beds - but it does not make him happy.  
+> Fine food, music, soft beds - but they do not make him happy.  
 > The stories go on: he tries the opposite and eats almost nothing.  
 > He almost dies, and he finds no answer.  
 > So he chooses a middle way.  
@@ -1424,7 +1395,8 @@ svar (✅ = rätt) och ordlista.
 <summary><b>Kort 4 · Årskurs 12 (B)</b> — An idea travels without an army</summary>
 
 > Prince X lives in India, long ago.  
-> Old stories say he leaves his palace to teach.  
+> Old stories say he leaves his palace to find answers.  
+> Later, he becomes a teacher.  
 > He teaches peace and a calm mind.  
 > Long after his death, the emperor Ashoka rules India.  
 > After a terrible war, Ashoka is full of regret.  

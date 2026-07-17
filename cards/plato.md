@@ -14,7 +14,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Mr X lives in Athens, a city in Greece.  
 > His teacher asks people questions at the big square.  
 > His teacher does not write books.  
-> One day, the leaders of the city kill his teacher.  
+> One day, a big court in the city says his teacher must die.  
 > Mr X is very sad and travels to other countries.  
 > Later he comes back and opens a school in a quiet garden.  
 > The school is called the Academy.  
@@ -194,7 +194,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** The ancient Greek philosopher Plato as an older bearded man in a robe, holding a thick book with no title and pointing upward. Production notes: single figure only - do not use images that also show Aristotle (such as the full Raphael 'School of Athens' fresco), and the name Plato must not be visible anywhere in the image.
+- **Motiv:** The ancient Greek philosopher Plato as an older bearded man in a robe, holding a papyrus scroll and pointing upward. Production notes: single figure only - do not use images that also show Aristotle (such as the full Raphael 'School of Athens' fresco), and the name Plato must not be visible anywhere in the image.
 - **Bildtext:** *Mr X holds his book about a fair state.*
 - **Shutterstock-sökning:** `Plato philosopher statue portrait`
 - **AI-prompt (alternativ):** Dignified illustration of the ancient Greek philosopher Plato as an older bearded man in a robe, holding a thick closed book with no title in one hand and pointing upward with the other, classical marble hall in the background, warm classical colors, single figure, no text.
@@ -219,7 +219,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The school stays open for about three hundred years.  
 > Mr X asks a hard question: what is knowledge?  
 > A lucky guess can be true, but it is not knowledge.  
-> In one book he suggests an answer.  
+> In one book he tests an answer.  
 > You know something when your true belief has good reasons.  
 > In another book, a boy with no schooling solves a problem about a square.  
 > The boy only answers good questions, step by step.  

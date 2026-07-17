@@ -22,7 +22,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > This prince later becomes a very famous king: Alexander the Great.  
 > He teaches his students to look closely at the world.  
 > When you look closely and compare, you learn new things.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -42,7 +41,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Warm storybook illustration of a bearded teacher in simple ancient Greek clothes walking along a garden path with a small group of young students. He points at a bird in an olive tree; one student holds a leaf. Greek marble columns stand softly in the background. Production note: the man must be a generic ancient Greek teacher, not a recognizable named portrait; no text, no labels, no named busts or statues anywhere in the image.
-- **Bildtext:** *He walks and teaches. His students walk with him.*
+- **Bildtext:** *A story says: he walks when he teaches, and his students walk with him.*
 - **Shutterstock-sökning:** `ancient greek philosopher walking teaching students illustration`
 - **AI-prompt (alternativ):** Friendly storybook illustration, ancient Greece: a bearded teacher in a simple robe walks along a garden path with four young students, pointing at a bird in an olive tree, one student holds a leaf, warm sunlight, marble columns far in the background, no text or letters anywhere
 
@@ -62,7 +61,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > Mr X lives in Greece.  
-> It is about 2,300 years ago.  
+> It is more than 2,300 years ago.  
 > His teacher in Athens is the famous thinker Plato.  
 > Plato trusts thinking more than looking.  
 > But Mr X thinks you must also use your eyes!  
@@ -72,7 +71,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Many people call him the first biologist.  
 > His big idea: do not only think - look and check.  
 > This idea is a root of modern science.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -122,7 +120,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > If the first two sentences are true, the third must be true.  
 > People call this science logic.  
 > Mathematics and computers still build on this science today.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -172,7 +169,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > You become good by training good habits, like training a muscle.  
 > Happiness is not one moment of fun, he says.  
 > Happiness is a whole life, lived well.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -215,7 +211,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Mr X is a Greek thinker.  
 > He writes many books: about logic, nature, and the good life.  
 > He loves his teacher Plato, but he loves truth more.  
-> After his death, scholars in the Arabic world save his books.  
+> After his death, scholars in the Arabic world translate and study his books.  
 > Later, the great scholar Ibn Rushd explains his ideas.  
 > For many centuries, teachers say: if he writes it, it is true.  
 > But he also writes: heavy things fall faster than light things.  
@@ -223,7 +219,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Is this bad for him?  
 > No - he himself teaches: when facts and ideas disagree, believe the facts.  
 > Check every authority - even Mr X.  
-> Who is Mr X?  
 > **Who is Mr X?**
 
 ### Svarsalternativ

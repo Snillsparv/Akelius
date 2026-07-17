@@ -70,7 +70,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > A senate of old, wise men gives advice.  
 > Free men meet and vote on the laws.  
 > Women cannot vote.  
-> The people call their city res publica - 'the public thing'.  
+> The people call their state res publica - 'the public thing'.  
 > Our word 'republic' comes from this.  
 > The city lies in Italy.  
 > But many countries far from Italy still use these ideas today.  
@@ -190,7 +190,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **accusation** — *when someone says: this person did a bad thing*
 - **concrete** — *a building material, like liquid stone that becomes very hard*
-- **conquered** — *taken in a war*
+- **conquered** — *beaten in a war and taken over by the winners*
 - **citizen** — *a full member of a country, with rights and duties*
 
 ### Huvudbild
