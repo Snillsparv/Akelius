@@ -140,7 +140,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **Motiv:** A Roman general stands with his soldiers at the bank of a small, shallow river on a cold winter morning; soldiers in red cloaks wait quietly behind him. Sober mood, no fighting, no blood. Production note: no readable words on banners or standards; the subject's name must not appear.
 - **Bildtext:** *A general stands at a small river. One more step, and there is no way back.*
 - **Shutterstock-sökning:** `roman general horseback river soldiers winter illustration`
-- **AI-prompt (alternativ):** Sober historical illustration: a Roman general on a horse stops at the bank of a small shallow river in winter, soldiers in red cloaks waiting behind him, cold morning light, calm and serious mood, no fighting, no text or letters anywhere in the image.
+- **AI-prompt (alternativ):** Sober historical illustration: a Roman general stands at the bank of a small shallow river in winter, soldiers in red cloaks waiting behind him, cold morning light, calm and serious mood, no fighting, no text or letters anywhere in the image.
 
 ### Sidobild
 

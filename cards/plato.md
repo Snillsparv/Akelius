@@ -96,7 +96,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **Motiv:** Classic illustration of Plato's cave: prisoners chained at the legs, sitting and facing a wall with shadows on it, a fire burning behind them, and one free person walking up toward the bright cave opening with sunlight outside.
 - **Bildtext:** *The prisoners see only shadows on the wall.*
 - **Shutterstock-sökning:** `Plato allegory of the cave illustration`
-- **AI-prompt (alternativ):** Educational illustration of Plato's allegory of the cave: seated prisoners chained at the legs, facing a stone wall with dark shadow figures on it, a fire behind them, one free person walking toward the bright cave exit where sunlight streams in, dramatic but child-friendly, no violence, no text.
+- **AI-prompt (alternativ):** Educational illustration of Plato's allegory of the cave: seated prisoners chained so they cannot turn their heads, facing a stone wall with dark shadow figures on it, a fire behind them, one free person walking toward the bright cave exit where sunlight streams in, dramatic but child-friendly, no violence, no text.
 
 ### Sidobild
 
@@ -197,7 +197,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **Motiv:** The ancient Greek philosopher Plato as an older bearded man in a robe, holding a papyrus scroll and pointing upward. Production notes: single figure only - do not use images that also show Aristotle (such as the full Raphael 'School of Athens' fresco), and the name Plato must not be visible anywhere in the image.
 - **Bildtext:** *Mr X holds his book about a fair state.*
 - **Shutterstock-sökning:** `Plato philosopher statue portrait`
-- **AI-prompt (alternativ):** Dignified illustration of the ancient Greek philosopher Plato as an older bearded man in a robe, holding a thick closed book with no title in one hand and pointing upward with the other, classical marble hall in the background, warm classical colors, single figure, no text.
+- **AI-prompt (alternativ):** Dignified illustration of the ancient Greek philosopher Plato as an older bearded man in a robe, holding a closed papyrus scroll in one hand and pointing upward with the other, classical marble hall in the background, warm classical colors, single figure, no text.
 
 ### Sidobild
 

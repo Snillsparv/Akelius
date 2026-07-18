@@ -1550,7 +1550,7 @@
           "main_image": {
             "description": "Classic illustration of Plato's cave: prisoners chained at the legs, sitting and facing a wall with shadows on it, a fire burning behind them, and one free person walking up toward the bright cave opening with sunlight outside.",
             "shutterstock_query": "Plato allegory of the cave illustration",
-            "ai_prompt": "Educational illustration of Plato's allegory of the cave: seated prisoners chained at the legs, facing a stone wall with dark shadow figures on it, a fire behind them, one free person walking toward the bright cave exit where sunlight streams in, dramatic but child-friendly, no violence, no text.",
+            "ai_prompt": "Educational illustration of Plato's allegory of the cave: seated prisoners chained so they cannot turn their heads, facing a stone wall with dark shadow figures on it, a fire behind them, one free person walking toward the bright cave exit where sunlight streams in, dramatic but child-friendly, no violence, no text.",
             "caption": "The prisoners see only shadows on the wall."
           },
           "side_image": {
@@ -1662,7 +1662,7 @@
           "main_image": {
             "description": "The ancient Greek philosopher Plato as an older bearded man in a robe, holding a papyrus scroll and pointing upward. Production notes: single figure only - do not use images that also show Aristotle (such as the full Raphael 'School of Athens' fresco), and the name Plato must not be visible anywhere in the image.",
             "shutterstock_query": "Plato philosopher statue portrait",
-            "ai_prompt": "Dignified illustration of the ancient Greek philosopher Plato as an older bearded man in a robe, holding a thick closed book with no title in one hand and pointing upward with the other, classical marble hall in the background, warm classical colors, single figure, no text.",
+            "ai_prompt": "Dignified illustration of the ancient Greek philosopher Plato as an older bearded man in a robe, holding a closed papyrus scroll in one hand and pointing upward with the other, classical marble hall in the background, warm classical colors, single figure, no text.",
             "caption": "Mr X holds his book about a fair state."
           },
           "side_image": {
@@ -2742,7 +2742,7 @@
           "main_image": {
             "description": "A Roman general stands with his soldiers at the bank of a small, shallow river on a cold winter morning; soldiers in red cloaks wait quietly behind him. Sober mood, no fighting, no blood. Production note: no readable words on banners or standards; the subject's name must not appear.",
             "shutterstock_query": "roman general horseback river soldiers winter illustration",
-            "ai_prompt": "Sober historical illustration: a Roman general on a horse stops at the bank of a small shallow river in winter, soldiers in red cloaks waiting behind him, cold morning light, calm and serious mood, no fighting, no text or letters anywhere in the image.",
+            "ai_prompt": "Sober historical illustration: a Roman general stands at the bank of a small shallow river in winter, soldiers in red cloaks waiting behind him, cold morning light, calm and serious mood, no fighting, no text or letters anywhere in the image.",
             "caption": "A general stands at a small river. One more step, and there is no way back."
           },
           "side_image": {
