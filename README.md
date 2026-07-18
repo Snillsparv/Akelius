@@ -50,8 +50,9 @@ och växer i takt med att nya bildbatchar blir klara.
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
 (220 st för leverans 1–3: 110 kort × huvudbild + sidobild).
 
-**Status: 120 av 220 bilder klara** — samtliga kort i leverans 1–2.
-Bilderna till leverans 3 (100 st) genereras i nästa batch.
+**Status: 220 av 220 bilder klara** — samtliga kort i leverans 1–3 har
+huvudbild och sidobild. Varje batch har kvalitetsgranskats bild för bild
+mot sina briefer, och underkända bilder har genererats om.
 
 Arbetsflöde per batch:
 
