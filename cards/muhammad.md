@@ -12,7 +12,7 @@ respektfullt: "Muslims believe...".
 
 ## Kort 1 · Årskurs 6 — The Trader and the Quiet Cave
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
@@ -46,10 +46,10 @@ respektfullt: "Muslims believe...".
 
 ### Huvudbild
 
-- **Motiv:** A camel caravan crosses a rocky desert valley in western Arabia in warm evening light; a small old trading town of flat-roofed mud-brick houses lies in the far distance at the foot of dark mountains. Production note: the Prophet Muhammad must NEVER be depicted — no person in this image may be shown or interpretable as him; show riders only tiny and distant with faces not visible, or no people at all. No readable text, signs, or watermarks; no Arabic calligraphy or writing anywhere; nothing in the image may reveal the answer in text. Respectful and calm, not scary.
+- **Motiv:** A caravan of loaded camels, with no visible leader or rider, crosses a rocky desert valley in western Arabia in warm evening light; a small old trading town of flat-roofed mud-brick houses lies in the far distance at the foot of dark mountains. Production note: the Prophet Muhammad must NEVER be depicted; there must be no people at all in this image, only loaded camels. No readable text, signs, or watermarks; no Arabic calligraphy or writing anywhere; nothing in the image may reveal the answer in text. Respectful and calm, not scary.
 - **Bildtext:** *A camel caravan travels through the desert to a trading town.*
-- **Shutterstock-sökning:** `camel caravan rocky desert arabia distant town sunset`
-- **AI-prompt (alternativ):** Photorealistic golden-hour scene in ancient western Arabia near Mecca: a small camel caravan seen from far away crosses a rocky desert valley, a distant trading town of flat-roofed mud-brick houses at the foot of dark mountains, warm calm light, riders tiny and unrecognizable with faces not visible, no specific person emphasized, no text, no writing, no calligraphy.
+- **Shutterstock-sökning:** `camel caravan rocky desert arabia distant town sunset no people`
+- **AI-prompt (alternativ):** Photorealistic golden-hour scene in ancient western Arabia near Mecca: a small caravan of loaded camels seen from far away crosses a rocky desert valley, no people at all, no riders, no visible leader, a distant trading town of flat-roofed mud-brick houses at the foot of dark mountains, warm calm light, no text, no writing, no calligraphy.
 
 ### Sidobild
 
@@ -62,13 +62,13 @@ respektfullt: "Muslims believe...".
 
 ## Kort 2 · Årskurs 9 — A New Start in a New Town
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
 > Mr X is a teacher in Arabia, about 1,400 years ago.  
-> As a child, he is an orphan.  
-> Later, his message is simple and strong.  
+> As an adult, he begins to teach.  
+> His message is simple and strong.  
 > - There is only one God, he teaches.  
 > - Care for the poor and protect orphans.  
 > - Be fair when you buy and sell.  
@@ -91,7 +91,7 @@ respektfullt: "Muslims believe...".
 
 - **orphan** — *a child whose mother and father are dead*
 - **follower** — *a person who believes in a teacher and follows him*
-- **community** — *a group of people who hold together*
+- **community** — *a group of people who live together and help each other*
 - **umma** — *an Arabic word for the community of all Muslims*
 
 ### Huvudbild
@@ -104,7 +104,7 @@ respektfullt: "Muslims believe...".
 ### Sidobild
 
 - **Motiv:** Illustration that explains the word 'community': people of different ages sit in one even circle under date palms and share a simple meal; everyone in the circle is equal. Production note: the Prophet Muhammad must NEVER be depicted — no central, raised, or leader figure; only generic people, none interpretable as him. No readable text, signs, watermarks, or Arabic calligraphy. Warm and respectful.
-- **Bildtext:** *A community: people hold together like one big family.*
+- **Bildtext:** *A community: people help each other like one big family.*
 - **Shutterstock-sökning:** `people circle sharing meal palm trees community illustration`
 - **AI-prompt (alternativ):** Flat warm vertical illustration: people of different ages sit in one even circle under date palms and share a simple meal of bread and dates, no person in the middle, no leader figure, everyone equal, soft colors, friendly mood, no text, no writing, no calligraphy.
 
@@ -112,7 +112,7 @@ respektfullt: "Muslims believe...".
 
 ## Kort 3 · Årskurs 12 (A) — A Book to Learn by Heart
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
@@ -154,7 +154,7 @@ respektfullt: "Muslims believe...".
 ### Sidobild
 
 - **Motiv:** A group of children sits in a circle in a bright modern courtyard and speaks together from memory — some with eyes closed, no open books. The picture explains the word 'recite'. Production note: modern-day generic scene; the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him; no adult teacher in focus. No readable text, posters, signs, watermarks, or Arabic calligraphy.
-- **Bildtext:** *The children say the words from memory. This is to recite.*
+- **Bildtext:** *The children say the words from memory. They recite.*
 - **Shutterstock-sökning:** `children reciting from memory circle courtyard`
 - **AI-prompt (alternativ):** Warm vertical illustration: children of different backgrounds sit in a circle in a sunny modern courtyard and recite together from memory, some with eyes closed, no open books, no adult in focus, friendly calm mood, no text, no writing, no calligraphy.
 
@@ -162,7 +162,7 @@ respektfullt: "Muslims believe...".
 
 ## Kort 4 · Årskurs 12 (B) — From the Desert to a World of Knowledge
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
@@ -189,17 +189,17 @@ respektfullt: "Muslims believe...".
 
 ### Ordförklaringar (marginal)
 
-- **tribe** — *a group of families with the same leader and forefathers*
+- **tribe** — *a big group of families with one leader*
 - **scholar** — *a person who studies and knows very much*
 - **algebra** — *a part of mathematics; it uses letters for unknown numbers*
 - **astronomy** — *the study of stars and planets*
 
 ### Huvudbild
 
-- **Motiv:** Rich warm illustration of a medieval hall of learning in Baghdad: scholars in varied medieval Middle Eastern robes study with a brass astrolabe and a globe, others talk and write at low desks; arched hall decorated only with geometric tile patterns. Production note: these are later scholars, centuries after Mr X — even so, the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him. All book pages must be blank or turned away — no readable writing; no Arabic calligraphy or AI-generated imitation script (geometric patterns only); no readable text, signs, or watermarks; nothing in the image may reveal the answer in text. Calm and respectful.
+- **Motiv:** Rich warm illustration of a medieval hall of learning in Baghdad: scholars in varied medieval Middle Eastern robes study with a brass astrolabe and a celestial globe (a globe of the stars, not a modern Earth globe), others talk and write at low desks; arched hall decorated only with geometric tile patterns. Production note: these are later scholars, centuries after Mr X — even so, the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him. All book pages must be blank or turned away — no readable writing; no Arabic calligraphy or AI-generated imitation script (geometric patterns only); no readable text, signs, or watermarks; nothing in the image may reveal the answer in text. Calm and respectful.
 - **Bildtext:** *Scholars study the stars and write new books in a great library.*
 - **Shutterstock-sökning:** `islamic golden age scholars library astrolabe illustration`
-- **AI-prompt (alternativ):** Detailed warm illustration of a medieval Baghdad hall of learning, the House of Wisdom: scholars in varied medieval Middle Eastern robes and turbans study with a brass astrolabe, a globe, and stacks of books, arched hall decorated only with geometric tile patterns, soft daylight and candle light, calm scholarly mood, all book pages blank or turned away, no readable writing, no calligraphy, no text.
+- **AI-prompt (alternativ):** Detailed warm illustration of a medieval Baghdad hall of learning, the House of Wisdom: scholars in varied medieval Middle Eastern robes and turbans study with a brass astrolabe, a celestial globe (a globe of the stars, not a modern Earth globe), and stacks of books, arched hall decorated only with geometric tile patterns, soft daylight and candle light, calm scholarly mood, all book pages blank or turned away, no readable writing, no calligraphy, no text.
 
 ### Sidobild
 
@@ -212,7 +212,7 @@ respektfullt: "Muslims believe...".
 
 ## Kort 5 · Universitet — How Do Historians Know?
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
@@ -252,9 +252,9 @@ respektfullt: "Muslims believe...".
 
 ### Sidobild
 
-- **Motiv:** Simple vertical illustration in three stacked scenes that explains how stories pass on before they are written down: an elderly storyteller speaks to a listener; that listener, now older, tells a young person; the young person, now grown, writes in a book with blank pages. Timeless generic clothing. Production note: all figures are generic storytellers — the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him; the book pages must be blank or unreadable. No readable text, signs, watermarks, or Arabic calligraphy; no text in any speech bubbles.
+- **Motiv:** Simple vertical illustration in three stacked scenes that explains how stories pass on before they are written down: an elderly woman storyteller speaks to a listener; that listener, now older, tells a young person; the young person, now grown, writes in a book with blank pages. Timeless generic clothing. Production note: all figures are generic storytellers, and the first storyteller is an elderly woman so that no one can read her as the Prophet — the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him; the book pages must be blank or unreadable. No readable text, signs, watermarks, or Arabic calligraphy; no text in any speech bubbles.
 - **Bildtext:** *First people tell the story. Much later, someone writes it down.*
 - **Shutterstock-sökning:** `oral tradition storytelling generations illustration`
-- **AI-prompt (alternativ):** Flat vertical educational illustration in three stacked scenes: an elderly storyteller speaks to an adult listener; that listener, now older, tells a young person; the young person, now grown, writes in a large book with blank pages, simple timeless clothing, warm colors, calm mood, no speech-bubble text, no readable writing, no calligraphy, no text.
+- **AI-prompt (alternativ):** Flat vertical educational illustration in three stacked scenes: an elderly woman storyteller speaks to an adult listener; that listener, now older, tells a young person; the young person, now grown, writes in a large book with blank pages, simple timeless clothing, warm colors, calm mood, no speech-bubble text, no readable writing, no calligraphy, no text.
 
 ---

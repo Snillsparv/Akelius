@@ -9,12 +9,15 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**60 kort · 12 ämnen**, samtliga faktagranskade och specgranskade:
+**110 kort · 22 ämnen**, samtliga faktagranskade och specgranskade:
 
 - **Leverans 1** — Sokrates, Platon *(Rogers startförslag)*
 - **Leverans 2** — Aristoteles, Forntida Egypten (pyramiderna), Mesopotamien,
   Hammurabi, Fenicierna & alfabetet, Alexander den store, Romerska
   republiken/kejsardömet, Julius Caesar, Konfucius, Siddhartha Gautama (Buddha)
+- **Leverans 3** — Antikens Grekland, Olympiska spelen, Augustus, Jesus från
+  Nasaret, Muhammed, Bysantinska riket, Vikingarna, Korstågen, Digerdöden,
+  Djingis khan
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -45,10 +48,10 @@ och växer i takt med att nya bildbatchar blir klara.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(120 st för leverans 1–2: 60 kort × huvudbild + sidobild).
+(220 st för leverans 1–3: 110 kort × huvudbild + sidobild).
 
-**Status: 50 av 120 bilder klara** — Forntida Egypten (pyramiderna), Mesopotamien,
-Hammurabi, Fenicierna & alfabetet samt Sokrates, kort 1–5 vardera.
+**Status: 120 av 220 bilder klara** — samtliga kort i leverans 1–2.
+Bilderna till leverans 3 (100 st) genereras i nästa batch.
 
 Arbetsflöde per batch:
 
@@ -1441,6 +1444,1129 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *monk* — a man who lives a simple religious life in a group · *recite* — to say a text aloud from memory · *scholar* — a person who studies a subject very deeply · *mindfulness* — training to notice calmly what happens in your mind and body right now
 
 </details>
+
+
+### Antikens Grekland
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Mountains, islands, and the sea</summary>
+
+> Land X lies in the south of Europe.  
+> It has high mountains and hundreds of islands.  
+> The warm blue sea is never far away.  
+> The soil is thin, but olive trees and grapes grow well.  
+> Many people become fishers, sailors, and traders.  
+> Long ago, the land has no single king.  
+> Instead, people live in many small city-states.  
+> These cities are proud, and they often compete with each other.  
+> In the middle of the city lies the agora, a busy market square.  
+> People meet there, buy food, and talk about the news.  
+> High on a rock over one famous city, a white marble temple still stands today.  
+> **Which land is this?**
+
+**Svar:** ⬜ Egypt · ✅ Greece · ⬜ Rome · ⬜ Persia · ⬜ Phoenicia
+
+**Ord:** *soil* — the earth on the ground where plants grow · *city-state* — a city with its own laws and leaders, like a small country · *agora* — the open market square in the middle of the city · *marble* — a hard, shiny stone for fine buildings
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The people rule</summary>
+
+> About 2,500 years ago, one city-state in Land X tries a new idea.  
+> The free men of the city meet on a hill.  
+> They talk, and then they vote by raising their hands.  
+> They decide about laws, money, war, and peace.  
+> Many city jobs go by lot, like names from a hat.  
+> The people call this demokratia - 'the people rule'.  
+> Our word 'democracy' comes from this.  
+> But most people in the city cannot vote.  
+> Women cannot vote, and neither can slaves or people from other cities.  
+> So this democracy is a start, not the finish.  
+> Today, many lands build on the idea, and more people can vote.  
+> **Which land is this?**
+
+**Svar:** ⬜ Rome · ⬜ Egypt · ⬜ Persia · ✅ Greece · ⬜ Mesopotamia
+
+**Ord:** *vote* — to say your choice when a group decides something · *by lot* — chosen by chance, like pulling a name from a hat · *slave* — a person who is not free and is owned by another person · *democracy* — the people rule: the people of a land decide together
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — The theater on the hillside</summary>
+
+> About 2,500 years ago, the people of Land X build the first great theaters.  
+> First people sit on wooden benches.  
+> Later they cut half-circles of stone seats into their hillsides.  
+> Some theaters hold more than ten thousand people.  
+> The actors wear masks with big, clear faces.  
+> So people far up on the hill can still see who is sad or angry.  
+> A sad play is a tragedy: it shows great people who fall through their own mistakes.  
+> A funny play is a comedy: it laughs at the rich and powerful.  
+> The plays ask big questions.  
+> What is right, what is fair, and who decides?  
+> Thousands of people watch together and feel together.  
+> Our words 'theater', 'drama', 'tragedy', and 'comedy' come from the language of Land X.  
+> **Which land is this?**
+
+**Svar:** ✅ Greece · ⬜ Rome · ⬜ Persia · ⬜ Egypt · ⬜ Mesopotamia
+
+**Ord:** *mask* — a false face you wear over your own face · *tragedy* — a serious, sad play · *comedy* — a funny play · *actor* — a person who plays someone else in a play
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — Frogs around a pond</summary>
+
+> In old times, Land X is not one country.  
+> It is hundreds of proud city-states, and they often quarrel.  
+> Two of them are famous opposites.  
+> One famous city loves ships, trade, and open talk.  
+> Its rival loves order, simple food, and hard training.  
+> Yet all these cities feel like one people.  
+> They speak one language and honor the same gods.  
+> They share the same stories about gods and heroes.  
+> Many cities also send ships out and start colonies.  
+> These new towns grow on coasts from Spain to the Black Sea.  
+> A famous thinker from Land X writes: we live around the sea like frogs around a pond.  
+> **Which land is this?**
+
+**Svar:** ⬜ Phoenicia · ⬜ Egypt · ✅ Greece · ⬜ Rome · ⬜ Persia
+
+**Ord:** *city-state* — a city with its own laws and leaders, like a small country · *quarrel* — to argue and fight with each other · *honor* — to show great respect for someone · *colony* — a new town that people from a city build in a faraway land
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The white marble dream</summary>
+
+> Historians ask: how do we know the story of Land X?  
+> Its old books - plays, science, and philosophy - survive only as copies of copies.  
+> For centuries, scribes in Constantinople copy them, and scholars in Baghdad translate many science and philosophy books into Arabic.  
+> Without this long work, most of the old books are gone today.  
+> The white marble ruins tell only half the truth, too.  
+> New research shows: long ago, the temples and statues shine with bright colors.  
+> Later ages love the bare white stone and dream of a pure, perfect Land X.  
+> But real life there includes slavery and long wars between the cities.  
+> So historians see two lands: the real one, and the beautiful dream.  
+> Both of them shape our world today.  
+> **Which land is this?**
+
+**Svar:** ⬜ Rome · ⬜ Egypt · ⬜ Mesopotamia · ⬜ Persia · ✅ Greece
+
+**Ord:** *philosophy* — the study of big questions about life and thinking · *scribe* — a person whose work is copying books by hand · *ruin* — a broken old building
+
+</details>
+
+
+### De olympiska spelen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A crown of olive leaves</summary>
+
+> Games X take place in Greece, long ago.  
+> They happen every four years, at one holy place.  
+> People travel there from many Greek towns.  
+> They watch runners, wrestlers, and jumpers.  
+> The stadium has room for many thousands of people.  
+> The winner gets no gold and no money.  
+> He gets a crown of leaves from a holy olive tree.  
+> At home, people greet the winner like a hero.  
+> The games go on for more than a thousand years.  
+> Today, the biggest games in the world carry the same name.  
+> **Which games are these?**
+
+**Svar:** ⬜ The Roman gladiator games · ✅ The Olympic Games · ⬜ The Pythian Games · ⬜ The Panathenaic Games · ⬜ The Isthmian Games
+
+**Ord:** *holy* — very special for a god or a religion · *wrestler* — a sports person who tries to bring another person to the ground, without hitting · *stadium* — a big place for sport, with room for many watchers · *crown* — a ring that you wear on your head
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The holy peace</summary>
+
+> In Greece, long ago, the towns often fight each other.  
+> But every four years, something special happens.  
+> Messengers walk from town to town.  
+> They call out: Games X start soon!  
+> Games X are the oldest and greatest games in Greece.  
+> They honor the king of the Greek gods.  
+> Now a holy peace begins.  
+> Everyone who travels to the games must be safe.  
+> Athletes and visitors walk through enemy land, and no one may harm them.  
+> At the games, enemies compete in sport, not in war.  
+> For a short time, sport brings the Greek world together.  
+> **Which games are these?**
+
+**Svar:** ⬜ The Panathenaic Games · ⬜ The Pythian Games · ⬜ The Roman gladiator games · ✅ The Olympic Games · ⬜ The Isthmian Games
+
+**Ord:** *messenger* — a person who carries news from place to place · *holy* — very special for a god or a religion · *athlete* — a person who does sport, for example a runner · *compete* — to try to win against others
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — Win with honor</summary>
+
+> Games X take place at a holy place in Greece, every four years.  
+> The oldest event is simple: a short, fast run across the stadium.  
+> Later come wrestling, the long jump, and the discus throw.  
+> Before the games, every athlete swears an oath: I follow the rules.  
+> A cheater must pay money.  
+> The money pays for statues on the way into the stadium.  
+> The statues warn every new athlete: win with honor.  
+> The Greeks believe: a strong body and a sharp mind belong together.  
+> But the games are not open to everyone.  
+> Only free Greek men may compete.  
+> Girls hold their own races for a goddess, at the same holy place.  
+> **Which games are these?**
+
+**Svar:** ✅ The Olympic Games · ⬜ The Isthmian Games · ⬜ The Nemean Games · ⬜ The Pythian Games · ⬜ The Roman gladiator games
+
+**Ord:** *oath* — a very serious promise · *cheater* — a person who breaks the rules to win · *discus* — a flat, round, heavy plate that athletes throw far · *honor* — when people see you as good and fair
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — The games wake up again</summary>
+
+> Games X begin in Greece, almost 3,000 years ago.  
+> Athletes meet there every four years, for more than a thousand years.  
+> Then new rulers come, with a new religion.  
+> They do not like festivals for the old gods. Slowly, the games stop.  
+> For about 1,500 years, there are no games.  
+> At the end of the 1800s, a man in France gets a big idea.  
+> His big idea: let the young people of the world meet in sport, not in war.  
+> So the games wake up again — now for the whole world.  
+> A new city hosts them every four years.  
+> Now women compete too.  
+> Today, before the games begin, a flame travels from the old place in Greece to the new stadium.  
+> **Which games are these?**
+
+**Svar:** ⬜ The Panathenaic Games · ⬜ The Pythian Games · ✅ The Olympic Games · ⬜ The Isthmian Games · ⬜ The Roman gladiator games
+
+**Ord:** *religion* — belief in a god or gods, with its own rules and feasts · *festival* — a big feast or celebration for many people · *host* — to hold the games in your own city · *flame* — the bright, burning part of a fire
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Lists, a traveler, and a buried stadium</summary>
+
+> How do we know about Games X in old Greece?  
+> First: lists.  
+> Greek writers keep long lists of the winners.  
+> Later historians even count time with these games: four years, from games to games.  
+> Second: a traveler.  
+> About 1,800 years ago, a travel writer visits the holy place and describes its temples and statues.  
+> Third: the ground.  
+> Rivers and earthquakes bury the old place under sand and earth.  
+> In the 1800s, archaeologists start to dig it out: the temples and stones with the winners' names. Later they also uncover the stadium.  
+> One warning: many people say that all wars stop during the games.  
+> The sources show less: a holy peace protects the travelers, but wars go on in other places.  
+> **Which games are these?**
+
+**Svar:** ⬜ The Pythian Games · ⬜ The Panathenaic Games · ⬜ The Nemean Games · ⬜ The Roman gladiator games · ✅ The Olympic Games
+
+**Ord:** *source* — an old text or thing that gives us knowledge about the past · *earthquake* — when the ground shakes strongly · *bury* — to cover something with earth or sand · *archaeologist* — a person who digs in the ground to find things from the past
+
+</details>
+
+
+### Augustus
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Boy with a Powerful Name</summary>
+
+> Mr X lives in Rome, about 2,000 years ago.  
+> He is only eighteen when his famous great-uncle dies.  
+> The great-uncle is Rome's most famous leader.  
+> In his will, the great-uncle adopts Mr X as his son.  
+> Suddenly, the young man carries a very powerful name.  
+> Many older men think: he is only a boy.  
+> But Mr X is patient and careful.  
+> After many hard years, he becomes the first emperor of Rome.  
+> He rules for more than forty years, and Rome has peace.  
+> One month of the year gets his name: August.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Julius Caesar · ✅ Augustus · ⬜ Nero · ⬜ Alexander the Great · ⬜ Hammurabi
+
+**Ord:** *great-uncle* — the brother of your grandmother or grandfather · *will* — a paper that says who gets your money and things after your death · *adopt* — to take a child into your family as your own child, by law · *emperor* — like a king, but over many lands
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — From Brick to Marble</summary>
+
+> For many years, Romans fight Romans in civil wars.  
+> Then one man wins, and the fighting stops.  
+> He becomes Emperor X, the first emperor of Rome.  
+> A long time of peace begins.  
+> People later call it Pax Romana - the Roman Peace.  
+> Farmers can work, and traders can travel safely again.  
+> The emperor repairs old temples and builds many new buildings.  
+> An old writer tells us his words: "I find Rome a city of brick. I leave it a city of marble."  
+> The peace lasts, with few breaks, for about two hundred years.  
+> His long peace makes Rome richer than any war.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Julius Caesar · ⬜ Constantine · ⬜ Alexander the Great · ✅ Augustus · ⬜ Genghis Khan
+
+**Ord:** *civil war* — a war between people of the same country · *trader* — a person who buys and sells things · *brick* — a small building block of baked clay · *marble* — a fine, shiny stone for beautiful buildings
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — Power without a Crown</summary>
+
+> The people of Rome hate the word "king".  
+> Long ago, they throw their kings out.  
+> Mr X knows this well.  
+> He rules Rome alone, but he never takes the title of king.  
+> He wears no crown.  
+> He calls himself "princeps" - the first citizen.  
+> Elections and the old jobs continue, like before.  
+> But Mr X keeps control of the army and the money.  
+> He says that he gives the republic back to the senate and the people.  
+> He rules like this for more than forty years and dies as an old man.  
+> Words can hide power as well as show it.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Augustus · ⬜ Julius Caesar · ⬜ Nero · ⬜ Napoleon Bonaparte · ⬜ Constantine
+
+**Ord:** *title* — an official name for a person's job or rank · *princeps* — a Latin word: the first citizen, the first man of the state · *senate* — a group of powerful men who guide the Roman state · *republic* — a state without a king; the people choose their leaders
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — The Face That Never Grows Old</summary>
+
+> Emperor X is the first emperor of Rome, and he rules for a long time.  
+> Everywhere in the empire, people see his face.  
+> In city after city, statues show him young, calm, and strong.  
+> He grows old, but his statues never do.  
+> Coins travel through the whole empire, and his face travels with them.  
+> Great poets write that a new golden age begins with him.  
+> One famous poem says that the gods choose Rome to rule the world.  
+> The emperor and his rich friends support these poets.  
+> Is this art, or is it advertising for one man?  
+> Today we have a word for it: propaganda - pictures and words that build power.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Julius Caesar · ⬜ Alexander the Great · ✅ Augustus · ⬜ Nero · ⬜ Napoleon Bonaparte
+
+**Ord:** *statue* — a figure of a person, made of stone or metal · *golden age* — a very good and happy time · *advertising* — pictures and words that try to sell something · *propaganda* — pictures, words, and art that try to control what people think
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Carved in Stone</summary>
+
+> Near the end of his long life, Emperor X writes a short report about himself.  
+> The title means: "The things I did".  
+> After his death, workers carve the text in stone in cities across the empire.  
+> One big copy survives on a temple wall in today's Turkey.  
+> In the text, the first emperor of Rome counts his buildings, his gifts, and his honors.  
+> He writes that he saves the state and refuses to be a dictator.  
+> He does not name his old enemies, and he does not mention his mistakes.  
+> For historians, the text is a treasure: facts from the ruler himself.  
+> But it is also a story with one storyteller - the main person himself.  
+> So historians compare it with coins, ruins, and other writers.  
+> Every source answers the question: who speaks, and who is silent?  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Julius Caesar · ⬜ Hammurabi · ⬜ Alexander the Great · ⬜ Constantine · ✅ Augustus
+
+**Ord:** *carve* — to cut letters or pictures into stone or wood · *dictator* — in Rome, a leader who gets all power alone, for a short time, in an emergency · *historian* — a person who studies the past · *source* — a text or an object that gives us information about the past
+
+</details>
+
+
+### Jesus från Nasaret
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The carpenter's son</summary>
+
+> Mr X lives about 2,000 years ago.  
+> He grows up in a small, quiet village.  
+> His father is a carpenter, and Mr X learns to work with wood too.  
+> As a grown man, he becomes a teacher.  
+> He walks from village to village near a big lake.  
+> Fishermen leave their boats to hear him.  
+> He teaches with short stories from everyday life.  
+> One story is about a shepherd who looks for one lost sheep.  
+> The shepherd does not rest until he finds it.  
+> Every person matters, the story says.  
+> People all over the world still tell his stories today.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Buddha · ✅ Jesus · ⬜ Confucius · ⬜ Muhammad · ⬜ Moses
+
+**Ord:** *carpenter* — a person who builds things from wood · *fisherman* — a person who catches fish · *shepherd* — a person who takes care of sheep
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Love your enemies too</summary>
+
+> Mr X is a teacher who lives about 2,000 years ago.  
+> Crowds follow him from village to village and up a green hillside.  
+> - Love your neighbor as yourself, he teaches.  
+> And he goes further: love your enemies too, he teaches.  
+> He also teaches forgiveness: do not pay back a bad thing with a bad thing.  
+> Forgive - not once, but again and again, he says.  
+> And he gives one simple rule for daily life:  
+> - Do to other people what you want them to do to you.  
+> People later call this the golden rule.  
+> Easy to say, hard to do - then and now.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Moses · ⬜ Buddha · ⬜ Socrates · ✅ Jesus · ⬜ Muhammad
+
+**Ord:** *neighbor* — a person who lives near you; here it means every other person · *enemy* — a person who is against you · *forgiveness* — you stop being angry with a person who did a bad thing to you · *golden rule* — a famous rule: treat other people as you want them to treat you; Mr X says it with a 'do', not a 'do not'
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — The good stranger</summary>
+
+> Mr X is a famous teacher, about 2,000 years ago.  
+> He answers big questions with small stories, called parables.  
+> A man asks him: who is my neighbor?  
+> Mr X answers with a parable.  
+> A traveler is robbed and lies hurt by the road.  
+> Two respected men see him - and walk past.  
+> Then a foreigner stops, a man from a group that many people look down on.  
+> He cleans the traveler's wounds, puts him on his own donkey, and pays for his care.  
+> - Who is the neighbor in the story? Mr X asks.  
+> The listener must find the answer himself: the one who helps.  
+> A rule is easy to forget, but a good story stays with you.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Jesus · ⬜ Socrates · ⬜ Buddha · ⬜ Muhammad · ⬜ Confucius
+
+**Ord:** *parable* — a short story with a lesson inside · *foreigner* — a person from another land or group · *wound* — a hurt place on the body · *look down on* — to think that a person is less important
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — The year on the calendar</summary>
+
+> Mr X lives about 2,000 years ago, in a land ruled by Rome.  
+> He is a teacher with a small group of followers.  
+> The Roman rulers see him as a danger, and he is put to death.  
+> But his followers do not give up.  
+> His followers believe that he rises from death.  
+> This faith makes them brave, and they carry his teaching from land to land.  
+> Today, his followers form the largest religion in the world.  
+> Our calendar counts the years from his birth.  
+> But the monk who works out his birth year, many centuries later, makes a small mistake.  
+> So Mr X is probably born a few years 'before' year one!  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Muhammad · ⬜ Julius Caesar · ✅ Jesus · ⬜ Buddha · ⬜ Moses
+
+**Ord:** *follower* — a person who believes in a teacher and lives by his words · *faith* — a strong belief in a religion · *calendar* — the way we count and name days and years · *monk* — a man who lives a simple, religious life
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — How do we know?</summary>
+
+> Mr X is a teacher who lives about 2,000 years ago.  
+> He writes no book himself.  
+> So how do we know about him?  
+> Decades after his death, his followers write four short books about his life.  
+> The writers are believers, not neutral reporters.  
+> Old Roman and Jewish historians also mention him, in a few short lines.  
+> Because of this, almost all historians agree: the man is real.  
+> He teaches, he gathers followers, and he is put to death by Roman power.  
+> Believers say much more: for them, he is the Son of God.  
+> History cannot prove such faith, and it cannot show it is wrong.  
+> Historians and believers read the same old pages - with different questions.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Socrates · ⬜ Confucius · ⬜ Muhammad · ⬜ Buddha · ✅ Jesus
+
+**Ord:** *decade* — a time of ten years · *believer* — a person who belongs to a religion · *neutral* — not taking any side · *historian* — a person who studies the past
+
+</details>
+
+
+### Muhammed
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Trader and the Quiet Cave</summary>
+
+> Mr X lives in Arabia, about 1,400 years ago.  
+> His town, Mecca, is a busy trading town in the desert.  
+> Camel caravans stop there on long journeys.  
+> Mr X works as a trader.  
+> People trust him with their goods and money.  
+> He often goes to a quiet cave in the mountains to think.  
+> Muslims believe that an angel speaks to him there.  
+> The angel brings him messages from God, Muslims believe.  
+> Mr X starts to teach these messages to others.  
+> Today, almost two billion people follow his message.  
+> They are called Muslims.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Jesus · ⬜ Buddha · ✅ Muhammad · ⬜ Moses · ⬜ Confucius
+
+**Ord:** *trader* — a person who buys and sells things · *caravan* — a group of people and animals that travel together · *cave* — a big hole in a rock or mountain · *angel* — a messenger from God, in many religions
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A New Start in a New Town</summary>
+
+> Mr X is a teacher in Arabia, about 1,400 years ago.  
+> As an adult, he begins to teach.  
+> His message is simple and strong.  
+> - There is only one God, he teaches.  
+> - Care for the poor and protect orphans.  
+> - Be fair when you buy and sell.  
+> Rich leaders in his hometown, Mecca, do not like this message.  
+> They make life hard for him and his followers.  
+> So he moves to another town, Medina.  
+> There, his followers become a strong community: the umma.  
+> This new start is so important that the Muslim calendar begins in that year.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Muhammad · ⬜ Moses · ⬜ Jesus · ⬜ Buddha · ⬜ Gandhi
+
+**Ord:** *orphan* — a child whose mother and father are dead · *follower* — a person who believes in a teacher and follows him · *community* — a group of people who live together and help each other · *umma* — an Arabic word for the community of all Muslims
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — A Book to Learn by Heart</summary>
+
+> Mr X lives in Arabia, about 1,400 years ago.  
+> He brings his people a message in Arabic, in beautiful and powerful language.  
+> Muslims believe that the words come from God.  
+> Mr X speaks the words out loud to the people.  
+> His followers learn them by heart.  
+> They recite them: they say them from memory, again and again.  
+> These words become the Quran, the holy book of Islam.  
+> The name Quran means "the recitation".  
+> After the death of Mr X, his followers collect all the words in one book.  
+> Today, Muslims all over the world read it in Arabic.  
+> Many learn the whole book by heart.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Martin Luther · ⬜ Jesus · ⬜ Confucius · ✅ Muhammad · ⬜ Buddha
+
+**Ord:** *recite* — to say a text out loud from memory · *by heart* — from memory, without reading · *holy* — very special and important in a religion · *Arabic* — the language of Arabia, spoken in many countries today
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — From the Desert to a World of Knowledge</summary>
+
+> Mr X is a teacher in Arabia, about 1,400 years ago.  
+> His message unites many desert tribes into one community.  
+> After his death, this message travels far and fast.  
+> Within one century, it reaches from Spain in the west to the river Indus in the east.  
+> In this big new world, trade and learning grow.  
+> Scholars translate old books from Greek, Persian, and Indian thinkers.  
+> In the city of Baghdad, a famous library is called the House of Wisdom.  
+> Scholars there work on algebra, astronomy, and medicine.  
+> The word "algebra" comes from Arabic.  
+> Even our numbers, 1, 2, 3, come to Europe through this world.  
+> A message in the desert opens a new world of knowledge.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Alexander the Great · ✅ Muhammad · ⬜ Genghis Khan · ⬜ Jesus · ⬜ Buddha
+
+**Ord:** *tribe* — a big group of families with one leader · *scholar* — a person who studies and knows very much · *algebra* — a part of mathematics; it uses letters for unknown numbers · *astronomy* — the study of stars and planets
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — How Do Historians Know?</summary>
+
+> Mr X lives in Arabia, about 1,400 years ago.  
+> How do historians know about his life?  
+> The oldest source is the Quran, the holy book of Islam.  
+> But it says little about the events of his life.  
+> Stories about his words and actions are called hadith.  
+> For generations, people pass these stories on, from teacher to student.  
+> Only later do scholars write them down in big collections.  
+> Muslim scholars check every story: who tells it, and who heard it from whom?  
+> Modern historians ask the same kind of questions about all old sources.  
+> Some pages of the Quran that still exist today are very, very old.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Socrates · ⬜ Jesus · ⬜ Confucius · ⬜ Buddha · ✅ Muhammad
+
+**Ord:** *source* — a text or thing from the past that gives us knowledge · *hadith* — a story about the words or actions of Mr X · *generation* — parents are one generation; their children are the next · *collection* — many things gathered together in one book or place
+
+</details>
+
+
+### Bysantinska riket
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The city between two seas</summary>
+
+> Empire X is a Christian empire with a capital city between two seas.  
+> The city sits where Europe meets Asia.  
+> Water protects it on two sides.  
+> On the land side, the people build two strong walls, one behind the other.  
+> For many centuries, no enemy army can break through these land walls.  
+> Ships from many lands fill the city's great harbor.  
+> Traders bring silk from the east and furs from the north.  
+> Trade roads from Asia and Europe meet in this city.  
+> Inside the walls, churches shine with pictures made of small golden stones.  
+> People call these pictures mosaics.  
+> Travelers say: no city on earth is richer.  
+> **Which empire is this?**
+
+**Svar:** ⬜ Egypt · ⬜ Rome · ✅ The Byzantine Empire · ⬜ Persia · ⬜ The Ottoman Empire
+
+**Ord:** *capital* — the main city of a land, where the ruler lives · *harbor* — a safe place by the water where ships can stop · *silk* — a fine, soft cloth that costs very much, first made in China · *mosaic* — a picture made of many small colored stones
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The dome that seems to float</summary>
+
+> Empire X is a Christian empire in the east.  
+> In its capital stands a very famous building.  
+> The emperor wants a church greater than any other church.  
+> Workers finish it in only five years, about 1,500 years ago.  
+> Its giant dome seems to float in the air.  
+> Light falls in through a ring of windows under the dome.  
+> An old story says the emperor cries out: I have built something greater than the greatest temple!  
+> For about 900 years, the building is a church.  
+> Then new rulers take the city, and the church becomes a mosque.  
+> Much later it becomes a museum, and today it is a mosque again.  
+> One building tells the long story of its city.  
+> **Which empire is this?**
+
+**Svar:** ✅ The Byzantine Empire · ⬜ Greece · ⬜ The Ottoman Empire · ⬜ Egypt · ⬜ Persia
+
+**Ord:** *dome* — a round roof, like the top half of a ball · *emperor* — the ruler of an empire · *mosque* — a building where Muslims pray · *museum* — a building where people can look at old and important things
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — A thousand years of laws</summary>
+
+> About 1,500 years ago, an emperor rules Empire X from a rich city in the east.  
+> His empire still uses the laws of old Rome.  
+> But after a thousand years, the laws are a mess.  
+> There are too many laws, and some laws say opposite things.  
+> So the emperor calls a team of law experts.  
+> Their job: read everything, and sort the good rules into clear books.  
+> The team also writes a small first book for new law students.  
+> Empires end, but these law books survive.  
+> Many centuries later, law schools in Europe study them again.  
+> Today, the laws of many countries still stand on this old foundation.  
+> Good laws can live longer than the lands that write them.  
+> **Which empire is this?**
+
+**Svar:** ⬜ Persia · ⬜ Rome · ⬜ Egypt · ✅ The Byzantine Empire · ⬜ China
+
+**Ord:** *mess* — many things mixed up, without order · *expert* — a person who knows very much about one thing · *opposite* — totally different; the other way around · *foundation* — the strong part under a building; here: the base that something stands on
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — A bridge of books</summary>
+
+> The people of Empire X speak Greek, and they guard the old books of Greece.  
+> For about a thousand years, scribes copy these books by hand, page by page.  
+> Plays, poems, science, and philosophy survive this way.  
+> The empire also argues about holy pictures.  
+> For a time, the emperors even forbid them.  
+> Later, the pictures come back.  
+> About 600 years ago, an army from a new empire takes the capital.  
+> Many scholars flee west, to Italy.  
+> In their bags are old Greek books.  
+> In Italy, people are hungry for old knowledge.  
+> The old books feed this new age of art and learning: the Renaissance.  
+> **Which empire is this?**
+
+**Svar:** ⬜ Rome · ✅ The Byzantine Empire · ⬜ The Ottoman Empire · ⬜ Persia · ⬜ China
+
+**Ord:** *scribe* — a person whose work is to copy books by hand · *scholar* — a person who studies and knows very much · *philosophy* — thinking hard about life, truth, and right and wrong · *Renaissance* — a time in Europe when art and learning grow fast; the word means 'rebirth'
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Who names the past?</summary>
+
+> Here is a strange fact: Empire X never hears its own modern name.  
+> Its people call themselves Romans, in the Greek language.  
+> Their neighbors in the west call them Greeks.  
+> The empire lives long, but one day it falls.  
+> About a hundred years later, a scholar in the west prints a book about its history.  
+> He needs a name, so he uses the capital's very old Greek name.  
+> His new name wins: today, history books all over the world use it.  
+> Why not simply say Romans?  
+> In the west, kings and popes keep that name for themselves.  
+> Names in history are not neutral: someone chooses them, later, and for a reason.  
+> So ask: who names the past?  
+> **Which empire is this?**
+
+**Svar:** ⬜ The Ottoman Empire · ⬜ Persia · ⬜ Egypt · ⬜ China · ✅ The Byzantine Empire
+
+**Ord:** *scholar* — a person who studies and knows very much · *print* — to make many copies of a book with a machine · *neutral* — not taking any side
+
+</details>
+
+
+### Vikingarna
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Ships for sea and river</summary>
+
+> The X people live in the cold north of Europe, about 1,000 years ago.  
+> Most of them are farmers and fishers.  
+> But they are also great sailors.  
+> They build long, fast ships of wood.  
+> The bottom of the ship is almost flat.  
+> So the ship can cross the deep sea, and it can also sail up shallow rivers.  
+> The sailors can even pull the ship up on a beach.  
+> With these ships, the X people travel very far.  
+> Some travel to trade, and some travel to rob other lands.  
+> Today, you can see some of their real ships in museums.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Romans · ✅ The Vikings · ⬜ The Phoenicians · ⬜ The Greeks · ⬜ The Egyptians
+
+**Ord:** *sailor* — a person who travels and works on a ship · *shallow* — not deep · *trade* — to buy and sell things · *rob* — to take things from people with force
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — East to the big city</summary>
+
+> The X people live in the north of Europe, about 1,000 years ago.  
+> Many of them are traders.  
+> They sail east over the sea, and then they row up the big rivers.  
+> Between two rivers, they sometimes carry their boats over land.  
+> The rivers lead them south to Constantinople, a very rich city.  
+> In their own language, they call it Miklagard - 'the big city'.  
+> There they sell furs from their forests and amber from their sea.  
+> They travel home with fine cloth and bright silver coins.  
+> Archaeologists still find many old silver coins in the ground in the north.  
+> Other traders from the same people sail west, to Ireland.  
+> Their trade routes go from Ireland in the west to Constantinople in the east.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Phoenicians · ⬜ The Greeks · ⬜ The Mongols · ✅ The Vikings · ⬜ The Romans
+
+**Ord:** *trader* — a person who buys and sells things · *fur* — the warm, hairy skin of an animal · *amber* — a hard, gold-colored material from old tree sap; people make beads and jewelry from it · *archaeologist* — a person who digs in the ground to learn about the past
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — Land in the west</summary>
+
+> The X people are sailors from the north of Europe.  
+> They sail west over the open ocean in wooden ships.  
+> They have no compass and no sea maps.  
+> They read the sun, the stars, the birds, and the waves.  
+> First, they settle on Iceland, an island with volcanoes and hot springs.  
+> Later, some sail on to Greenland and build farms there.  
+> Old stories tell of one more land in the west, with wild grapes.  
+> The stories call it Vinland.  
+> For a long time, people think Vinland is only a story.  
+> Then archaeologists find remains of their houses in Canada.  
+> People already live in this land, and the old stories tell of meetings with them.  
+> So these sailors reach America about 500 years before Columbus.  
+> **Who are the X people?**
+
+**Svar:** ✅ The Vikings · ⬜ The Phoenicians · ⬜ The Greeks · ⬜ The Maya · ⬜ The Romans
+
+**Ord:** *compass* — a tool that always shows you which way is north · *settle* — to move to a new place and make your home there · *hot spring* — a place where hot water comes up out of the ground · *remains* — the parts of something old that are still there
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — Stones that remember</summary>
+
+> The X people live on farms in the north of Europe, about 1,000 years ago.  
+> They grow food, keep cows and sheep, fish, and make wool cloth.  
+> They also have their own letters, called runes.  
+> Runes have straight lines, so a knife can cut them into wood, bone, and stone.  
+> When a loved person dies, the family can raise a big stone with runes on it.  
+> The stone tells the person's name and good deeds.  
+> Many of these memory stones still stand today.  
+> A woman in this society can have real power: she can own a farm, and she can inherit land.  
+> When the men sail away on long journeys, women often lead the farm at home.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Phoenicians · ⬜ The Egyptians · ⬜ The Maya · ⬜ The Mongols · ✅ The Vikings
+
+**Ord:** *runes* — old letters made of straight lines · *deed* — a thing that a person does · *society* — all the people who live together in a country or group · *inherit* — to get land, money, or things from a family member who dies
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Who writes their story?</summary>
+
+> About 1,000 years ago, ships from the north of Europe land in many countries.  
+> Some of the X people on the ships rob churches and towns.  
+> The monks in the churches can write, and they write about the attacks.  
+> The X people themselves write only short texts.  
+> Their own long stories are written down only hundreds of years later.  
+> So most old books about them come from their victims.  
+> Of course, these books show them as wild and cruel.  
+> Much later, artists add new details to the picture.  
+> About 150 years ago, a costume designer draws horned helmets for an opera.  
+> Archaeologists never find one horned helmet from the real X people.  
+> But films and cartoons still show the horned helmets today.  
+> So when you read history, always ask: who writes this, and why?  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Mongols · ⬜ The Romans · ✅ The Vikings · ⬜ The Ottomans · ⬜ The Greeks
+
+**Ord:** *monk* — a religious man who lives simply and prays; many monks can write · *victim* — a person that something bad happens to · *cruel* — very unkind; a cruel person hurts others · *costume designer* — a person who makes the clothes for a play or a film
+
+</details>
+
+
+### Korstågen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The long journey east</summary>
+
+> The X wars begin about 900 years ago.  
+> Knights, farmers, and priests in Europe pack their bags and start walking east.  
+> Their goal is a city far away, in the lands at the east end of the Mediterranean Sea.  
+> The city is holy for Jews, for Christians, and for Muslims.  
+> The travelers sew a cross of cloth on their clothes.  
+> The name of the X wars comes from this sign.  
+> The journey takes months, over mountains and over the sea.  
+> The way is long and dangerous, and many travelers die before they arrive.  
+> The X wars come and go for about 200 years.  
+> People of all three religions suffer in them.  
+> **Which wars are these?**
+
+**Svar:** ⬜ The Viking raids · ⬜ World War I · ✅ The Crusades · ⬜ The Punic Wars · ⬜ The Mongol conquests
+
+**Ord:** *knight* — a soldier on a horse with metal clothes, long ago · *holy* — very special and important for a religion · *priest* — a man who leads prayers in a church · *sew* — to join cloth with a needle and thread
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Why do so many go?</summary>
+
+> The X wars begin about 900 years ago.  
+> A powerful church leader in Europe gives a famous speech.  
+> He asks people to march east and fight for a holy city, far away.  
+> He promises: God forgives the sins of everyone who goes.  
+> Why do so many people say yes?  
+> Some truly believe, and want to pray in the holy city.  
+> Some are poor, and hope for a better life.  
+> Some knights dream of honor and adventure.  
+> Some merchants hope for new trade.  
+> In the east, the travelers see rich cities, bigger than any city at home.  
+> But the people who live there see something else: strange armies at their gates.  
+> **Which wars are these?**
+
+**Svar:** ✅ The Crusades · ⬜ The Persian Wars · ⬜ The Viking raids · ⬜ The Mongol conquests · ⬜ World War I
+
+**Ord:** *sin* — a bad act against the rules of a religion · *forgive* — to stop being angry about a bad act · *honor* — a good name; people think highly of you · *merchant* — a person who buys and sells things
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — Goods and ideas cross the sea</summary>
+
+> The X wars begin about 900 years ago.  
+> Armies from Europe sail east, to the lands at the east end of the Mediterranean Sea.  
+> The wars return again and again, for many years.  
+> But soldiers are not the only travelers between the two shores.  
+> Ships also carry merchants, pilgrims, and ideas.  
+> Europeans taste sugar and lemons, and they want more.  
+> They buy paper, fine glass, and soft cotton cloth.  
+> Arab doctors keep old Greek and Persian medicine alive in their books, and add new knowledge of their own.  
+> Some of this knowledge slowly reaches Europe - through trade, and through translated books.  
+> Much also comes the peaceful way, through Spain and Sicily.  
+> War closes doors; trade and books open them again.  
+> **Which wars are these?**
+
+**Svar:** ⬜ The Punic Wars · ⬜ The Persian Wars · ⬜ The Mongol conquests · ✅ The Crusades · ⬜ The Viking raids
+
+**Ord:** *shore* — the land at the edge of the sea · *pilgrim* — a person who travels far to visit a holy place · *merchant* — a person who buys and sells things · *translate* — to say or write something again in another language
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — No simple story</summary>
+
+> During the X wars, about 900 years ago, an army from Europe reaches the holy city at last.  
+> The soldiers break through the walls, and many people in the city die - Muslims and Jews.  
+> Writers from both sides describe terrible days.  
+> Almost 100 years later, a famous Muslim leader takes the city back.  
+> This time, many people can buy their freedom and leave alive.  
+> The same wars - but not the same choices.  
+> There are more dark chapters.  
+> On the way east, some armies attack Jewish families in European towns.  
+> And one army attacks Constantinople, a rich Christian city, and robs it - Christians against Christians.  
+> Over 200 years, both sides show cruelty, and both sides show mercy.  
+> So the X wars are not a simple story of good against evil.  
+> In every war, ordinary people of every religion pay the highest price.  
+> **Which wars are these?**
+
+**Svar:** ⬜ World War I · ✅ The Crusades · ⬜ The Mongol conquests · ⬜ The Viking raids · ⬜ The Punic Wars
+
+**Ord:** *chapter* — one part of a book; here: one part of a story · *rob* — to take things from people with force · *Constantinople* — a big old city by the sea; today it is Istanbul in Turkey · *ordinary* — normal, not special
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Two books about the same wars</summary>
+
+> The X wars take place about 900 years ago, around a holy city at the east end of the Mediterranean Sea.  
+> European writers of that time call the fighters from Europe holy pilgrims.  
+> Arab writers of the same time call them simply "the Franks".  
+> One Arab writer, Usama ibn Munqidh, meets Franks as enemies - and some as friends.  
+> Another, Ibn al-Athir, later writes about the fall of the holy city with deep sadness.  
+> European books tell the same days as a great victory.  
+> Same city, same days - two very different stories.  
+> Today, politicians sometimes use the name of these wars as a weapon in their speeches.  
+> The old word still makes people angry or proud.  
+> A historian reads both sides and checks every story against the sources.  
+> **Which wars are these?**
+
+**Svar:** ⬜ The Persian Wars · ⬜ The Punic Wars · ⬜ The Mongol conquests · ⬜ World War I · ✅ The Crusades
+
+**Ord:** *the Franks* — an old Arabic name for people from western Europe · *politician* — a person who works with power and government in a country · *source* — an old text or thing that gives us knowledge about the past · *historian* — a person who studies the past
+
+</details>
+
+
+### Digerdöden
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The sickness on the ships</summary>
+
+> Sickness X comes about 700 years ago.  
+> It comes on ships from far away.  
+> The ships sail across the sea to busy ports.  
+> From the ports, it moves along the trade roads.  
+> It travels from town to town.  
+> It spreads very fast.  
+> Very many people fall sick.  
+> Sadly, many of them die.  
+> In these years, people do not know what makes them sick.  
+> They cannot see the real cause.  
+> They are afraid, and they cannot stop it.  
+> **Which sickness is this?**
+
+**Svar:** ✅ The Black Death · ⬜ smallpox · ⬜ cholera · ⬜ malaria · ⬜ leprosy
+
+**Ord:** *port* — a place by the sea where ships stop · *trade road* — a road where people carry things to buy and sell · *spread* — to go from one place or person to many · *cause* — the thing that makes something happen
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Guessing and knowing</summary>
+
+> About 700 years ago, Sickness X spreads across many lands.  
+> People want to know why.  
+> Some say the air is bad and full of a bad smell.  
+> Some say it is a punishment.  
+> They try many strange cures, but the cures do not work.  
+> They are only guessing.  
+> Today, we know the real cause.  
+> A tiny living thing, a germ, makes people sick.  
+> This germ lives on small fleas.  
+> The fleas ride on rats, and the rats travel with people and ships.  
+> Guessing and knowing are not the same thing.  
+> **Which sickness is this?**
+
+**Svar:** ⬜ smallpox · ⬜ malaria · ✅ The Black Death · ⬜ cholera · ⬜ leprosy
+
+**Ord:** *punishment* — trouble you get when you do something wrong · *cure* — something that makes a sick person well again · *germ* — a tiny living thing, too small to see, that can make you sick · *flea* — a very small jumping insect that bites animals and people
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — When workers become few</summary>
+
+> About 700 years ago, Sickness X spreads across many lands.  
+> So many people die that some villages stand empty.  
+> Before, there are many workers and little land.  
+> Now there are few workers and much land.  
+> But the lords still need people to work the fields.  
+> So workers can ask for more pay and better food.  
+> Some workers leave a hard lord and walk to a kinder one.  
+> Before, many farmers are bound to one lord's land.  
+> Now this old rule grows weak in many lands in western Europe.  
+> A terrible sickness changes who holds the power.  
+> When people are few, their work is worth more.  
+> **Which sickness is this?**
+
+**Svar:** ⬜ malaria · ⬜ cholera · ⬜ leprosy · ⬜ smallpox · ✅ The Black Death
+
+**Ord:** *village* — a very small town · *lord* — a rich man who owns land, and the people work for him · *bound* — tied to a place, and not free to leave · *pay* — the money you get for your work
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — Fear and forty days</summary>
+
+> About 700 years ago, Sickness X brings great fear.  
+> People are afraid, and they look for someone to blame.  
+> In some towns, people wrongly blame their Jewish neighbors.  
+> This is not true, and it is deeply unfair.  
+> Sadly, many Jewish people are hurt and killed.  
+> Fear can make people cruel to the innocent.  
+> Other towns choose a wiser way.  
+> In one city by the sea, ships must wait before they may land.  
+> This wait lasts forty days.  
+> From these "forty days" comes our word "quarantine".  
+> In hard times, fear can lead to cruelty, or to wise care.  
+> **Which sickness is this?**
+
+**Svar:** ⬜ leprosy · ✅ The Black Death · ⬜ smallpox · ⬜ malaria · ⬜ cholera
+
+**Ord:** *blame* — to say that someone did a bad thing · *innocent* — a person who did nothing wrong · *cruel* — very unkind; wanting to hurt someone · *quarantine* — to keep people or ships apart for some days, so a sickness cannot spread
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — How we know</summary>
+
+> About 700 years ago, Sickness X changes the world.  
+> But how do we know about it today?  
+> Writers of that time keep chronicles, and they tell of the sickness.  
+> Yet fear and rumor can bend their words.  
+> So historians also read old tax lists and church records that name the priests who died.  
+> When many names drop from a list, it can mean many people are gone.  
+> And now there is newer proof, from science.  
+> Scientists study very old bones from graves.  
+> In the teeth, they find the DNA of one tiny germ: Yersinia pestis.  
+> So an old guess becomes a clear fact.  
+> Many kinds of sources, put together, show us the truth.  
+> **Which sickness is this?**
+
+**Svar:** ⬜ smallpox · ⬜ leprosy · ⬜ cholera · ✅ The Black Death · ⬜ malaria
+
+**Ord:** *chronicle* — an old written record of things that happen, year by year · *tax list* — an old list of people who must pay money to the ruler · *DNA* — a tiny code inside living things that tells what they are · *source* — something from the past that tells us what happened, like a book or a bone
+
+</details>
+
+
+### Djingis khan
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Poor Boy from the Sea of Grass</summary>
+
+> Khan X lives about 800 years ago, on the wide grasslands of Asia.  
+> His people live in round felt tents and move with their horses, sheep, and goats.  
+> His father dies when he is a young boy.  
+> His family becomes poor and often has too little food.  
+> The boy learns to ride, to hunt, and to never give up.  
+> The clans of the grasslands fight each other all the time.  
+> When he grows up, he does something new.  
+> He brings the fighting clans together into one people.  
+> The clans give him a new name and title.  
+> It may mean "strong ruler" or "ruler of all".  
+> **Who is Khan X?**
+
+**Svar:** ⬜ Alexander the Great · ✅ Genghis Khan · ⬜ Julius Caesar · ⬜ Napoleon Bonaparte · ⬜ Kublai Khan
+
+**Ord:** *grassland* — big open land where grass grows · *felt* — thick cloth made of pressed wool · *clan* — a big group of families that belong together · *title* — a special name for a ruler or an important person
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Empire of Fast Horses</summary>
+
+> Khan X grows up on the grasslands of Asia and unites the riding clans.  
+> Then he and his riders build a huge empire on land.  
+> His wars are terrible for the people he conquers.  
+> After his death, his sons and grandsons make it even bigger.  
+> It becomes the largest land empire in history.  
+> It reaches from the sea in the east far into Europe.  
+> How can one ruler control such a wide land?  
+> Khan X and his family order horse stations along the big roads.  
+> At each station, fresh horses wait.  
+> A messenger rides fast, changes to a fresh horse, and rides on.  
+> Messages travel day and night, faster than ever before.  
+> This empire runs on grass, horses, and information.  
+> **Who is Khan X?**
+
+**Svar:** ⬜ Kublai Khan · ⬜ Alexander the Great · ⬜ Julius Caesar · ⬜ Napoleon Bonaparte · ✅ Genghis Khan
+
+**Ord:** *empire* — many lands and many people under one ruler · *station* — a stop-place on a long road · *messenger* — a person who carries a message
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12 (A)</b> — The Ruler Who Cannot Read</summary>
+
+> Khan X is a ruler from the grasslands of Asia.  
+> As a boy, he has no school, and he probably never learns to read.  
+> As a young man, he unites the fighting clans into one people.  
+> He orders a writing system for his people's language.  
+> He gives his empire strict laws.  
+> He chooses his generals for their skill, not for their family name.  
+> Even a poor herder's son can become a top commander.  
+> People of many religions live in his empire, and all can pray in their own way.  
+> When his army takes a city, it spares the skilled craft workers.  
+> But they must move far away and work for the empire.  
+> Many of the other people in these cities are killed or lose their homes.  
+> A ruler who cannot read builds a state that runs on writing, law, and skill.  
+> **Who is Khan X?**
+
+**Svar:** ✅ Genghis Khan · ⬜ Hammurabi · ⬜ Napoleon Bonaparte · ⬜ Kublai Khan · ⬜ Julius Caesar
+
+**Ord:** *strict* — very firm; the rules must be followed · *herder* — a person who keeps and moves animals, like sheep or horses · *commander* — a leader of soldiers · *craft worker* — a person who makes things with their hands, like pots, cloth, or tools
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12 (B)</b> — Safe Roads, Terrible Price</summary>
+
+> Khan X, a rider who unites the clans of the grasslands, builds a giant empire across Asia.  
+> Under him and his family, one power guards the long trade roads between east and west.  
+> An old saying tells: a girl can carry a bag of gold across the empire, and no one robs her.  
+> Silk, paper, and new ideas travel from land to land.  
+> But the roads carry more than goods.  
+> About a hundred years later, a deadly sickness follows them all the way to Europe.  
+> And this peace has a terrible price.  
+> The wars of Khan X kill millions of people.  
+> Cities that do not give up are destroyed.  
+> Traders remember the safe roads. The destroyed cities remember something else.  
+> The empire opens roads for the world, and destroys millions of lives to build them.  
+> **Who is Khan X?**
+
+**Svar:** ⬜ Alexander the Great · ⬜ Napoleon Bonaparte · ✅ Genghis Khan · ⬜ Kublai Khan · ⬜ Julius Caesar
+
+**Ord:** *trade* — buying and selling things · *goods* — things people buy and sell · *deadly* — so dangerous that people die from it
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Monster or State-Builder?</summary>
+
+> Khan X, a ruler from the grasslands of Asia, builds a huge empire about 800 years ago.  
+> How can we know about him today?  
+> Soon after his death, his own people write his story in their own language.  
+> That book is even called "The Secret History."  
+> It shows him from the inside: his poor childhood, his fears, and his mistakes.  
+> The peoples he conquers write about him too, in Persian, Arabic, and Chinese.  
+> They see their burned cities, and in their books he is often a monster.  
+> Later, travelers from Europe visit the empire and send home reports.  
+> Some report wild "barbarians"; others report law, order, and safe roads.  
+> So who is he — a monster, or a builder of a state?  
+> Every source stands somewhere; the historian's job is to see where.  
+> **Who is Khan X?**
+
+**Svar:** ⬜ Julius Caesar · ⬜ Alexander the Great · ⬜ Napoleon Bonaparte · ✅ Genghis Khan · ⬜ Kublai Khan
+
+**Ord:** *source* — an old text or thing that gives us information about the past · *conquer* — to take a land by force · *report* — a text that tells what a person sees and learns · *barbarian* — an unfair old word for people that writers see as wild and simple
+
+</details>
+
 
 <!-- CARDS:END -->
 

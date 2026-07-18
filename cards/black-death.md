@@ -68,8 +68,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > They try many strange cures, but the cures do not work.  
 > They are only guessing.  
 > Today, we know the real cause.  
-> A tiny living thing, a bacteria, makes people sick.  
-> This bacteria lives on small fleas.  
+> A tiny living thing, a germ, makes people sick.  
+> This germ lives on small fleas.  
 > The fleas ride on rats, and the rats travel with people and ships.  
 > Guessing and knowing are not the same thing.  
 > **Which sickness is this?**
@@ -86,7 +86,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **punishment** — *trouble you get when you do something wrong*
 - **cure** — *something that makes a sick person well again*
-- **bacteria** — *a tiny living thing, too small to see, that can make you sick*
+- **germ** — *a tiny living thing, too small to see, that can make you sick*
 - **flea** — *a very small jumping insect that bites animals and people*
 
 ### Huvudbild
@@ -119,7 +119,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > So workers can ask for more pay and better food.  
 > Some workers leave a hard lord and walk to a kinder one.  
 > Before, many farmers are bound to one lord's land.  
-> Now this old rule grows weak.  
+> Now this old rule grows weak in many lands in western Europe.  
 > A terrible sickness changes who holds the power.  
 > When people are few, their work is worth more.  
 > **Which sickness is this?**
@@ -215,11 +215,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > But how do we know about it today?  
 > Writers of that time keep chronicles, and they tell of the sickness.  
 > Yet fear and rumor can bend their words.  
-> So historians also read old tax lists and church books.  
+> So historians also read old tax lists and church records that name the priests who died.  
 > When many names drop from a list, it can mean many people are gone.  
 > And now there is newer proof, from science.  
 > Scientists study very old bones from graves.  
-> In the teeth, they find the DNA of one tiny bacteria: Yersinia pestis.  
+> In the teeth, they find the DNA of one tiny germ: Yersinia pestis.  
 > So an old guess becomes a clear fact.  
 > Many kinds of sources, put together, show us the truth.  
 > **Which sickness is this?**

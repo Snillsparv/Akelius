@@ -13,7 +13,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 > The X wars begin about 900 years ago.  
 > Knights, farmers, and priests in Europe pack their bags and start walking east.  
-> Their goal is a city far away, on the east coast of the Mediterranean Sea.  
+> Their goal is a city far away, in the lands at the east end of the Mediterranean Sea.  
 > The city is holy for Jews, for Christians, and for Muslims.  
 > The travelers sew a cross of cloth on their clothes.  
 > The name of the X wars comes from this sign.  
@@ -35,7 +35,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **knight** — *a soldier on a horse with metal clothes, long ago*
 - **holy** — *very special and important for a religion*
-- **Mediterranean Sea** — *the big sea between Europe, Africa, and Asia*
+- **priest** — *a man who leads prayers in a church*
 - **sew** — *to join cloth with a needle and thread*
 
 ### Huvudbild
@@ -66,7 +66,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He promises: God forgives the sins of everyone who goes.  
 > Why do so many people say yes?  
 > Some truly believe, and want to pray in the holy city.  
-> Some are poor, and hope for land and a better life.  
+> Some are poor, and hope for a better life.  
 > Some knights dream of honor and adventure.  
 > Some merchants hope for new trade.  
 > In the east, the travelers see rich cities, bigger than any city at home.  
@@ -117,7 +117,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Ships also carry merchants, pilgrims, and ideas.  
 > Europeans taste sugar and lemons, and they want more.  
 > They buy paper, fine glass, and soft cotton cloth.  
-> Arab doctors keep old Greek and Persian medicine alive in their books.  
+> Arab doctors keep old Greek and Persian medicine alive in their books, and add new knowledge of their own.  
 > Some of this knowledge slowly reaches Europe - through trade, and through translated books.  
 > Much also comes the peaceful way, through Spain and Sicily.  
 > War closes doors; trade and books open them again.  
@@ -148,7 +148,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Sidobild
 
 - **Motiv:** A scholar sits at a desk with two open handwritten books and copies text from one into the other with a quill. The picture explains the word 'translate'. Production note: all writing in both books must be generic and unreadable - no real letters or words in any language; calm candle-lit study, no religious confrontation imagery; neutral and factual.
-- **Bildtext:** *A scholar writes an old book again in a new language.*
+- **Bildtext:** *A man writes an old book again in a new language.*
 - **Shutterstock-sökning:** `medieval scholar writing manuscript desk quill illustration`
 - **AI-prompt (alternativ):** Quiet warm illustration: a medieval scholar at a wooden desk with two open handwritten books, copying from one into the other with a quill, candlelight, shelves with scrolls behind, all script blurred, generic and unreadable, no real letters, no text, no labels.
 
@@ -169,6 +169,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > There are more dark chapters.  
 > On the way east, some armies attack Jewish families in European towns.  
 > And one army attacks Constantinople, a rich Christian city, and robs it - Christians against Christians.  
+> Over 200 years, both sides show cruelty, and both sides show mercy.  
 > So the X wars are not a simple story of good against evil.  
 > In every war, ordinary people of every religion pay the highest price.  
 > **Which wars are these?**
@@ -214,7 +215,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > European writers of that time call the fighters from Europe holy pilgrims.  
 > Arab writers of the same time call them simply "the Franks".  
 > One Arab writer, Usama ibn Munqidh, meets Franks as enemies - and some as friends.  
-> Another, Ibn al-Athir, writes about the fall of the holy city with deep sadness.  
+> Another, Ibn al-Athir, later writes about the fall of the holy city with deep sadness.  
 > European books tell the same days as a great victory.  
 > Same city, same days - two very different stories.  
 > Today, politicians sometimes use the name of these wars as a weapon in their speeches.  

@@ -33,24 +33,24 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Ordförklaringar (marginal)
 
+- **great-uncle** — *the brother of your grandmother or grandfather*
 - **will** — *a paper that says who gets your money and things after your death*
 - **adopt** — *to take a child into your family as your own child, by law*
-- **patient** — *you can wait calmly for a long time*
 - **emperor** — *like a king, but over many lands*
 
 ### Huvudbild
 
-- **Motiv:** Friendly illustration of a young Roman man, about eighteen, in a white toga, reading an unrolled scroll; a few older men in togas stand behind him and look doubtful; Roman street and columns in the background. Calm mood, no weapons. Production note: the writing on the scroll must be unreadable; no readable text anywhere in the image; the subject's name must not appear.
-- **Bildtext:** *A young man reads a will, and his life changes.*
+- **Motiv:** Friendly illustration of a young man, about eighteen, in a white toga, reading an unrolled scroll; a few older men in togas stand behind him and look doubtful; a simple ancient courtyard in the background. Calm mood, no weapons. Production note: the setting must stay generic, with no clear city or landmark; the writing on the scroll must be unreadable; no readable text anywhere in the image; the subject's name must not appear.
+- **Bildtext:** *A young man reads an important paper.*
 - **Shutterstock-sökning:** `young roman man toga reading scroll illustration`
-- **AI-prompt (alternativ):** Warm children's book illustration: a young Roman man of about eighteen in a white toga reads an unrolled papyrus scroll, a few older men in togas watch him with doubtful faces, ancient Roman street with columns behind them, sunny day, the writing on the scroll only faint unreadable lines, no text or letters anywhere in the image.
+- **AI-prompt (alternativ):** Warm children's book illustration: a young man of about eighteen in a white toga reads an unrolled papyrus scroll, a few older men in togas watch him with doubtful faces, a simple ancient courtyard behind them, sunny day, the writing on the scroll only faint unreadable lines, no text or letters anywhere in the image.
 
 ### Sidobild
 
-- **Motiv:** A simple wall calendar page for the month of August with a bright summer sun. The word 'August' may be visible, because it is a clue in the card text, but no other names or words. Production note: the subject's name must not appear anywhere. Translator note: keep 'August' in Latin script or a close transliteration, and check that the sound link between the month and the correct option survives in each target language.
-- **Bildtext:** *The month of August has his name.*
-- **Shutterstock-sökning:** `august calendar page summer illustration`
-- **AI-prompt (alternativ):** A simple, colorful wall calendar page showing the month of August, a bright summer sun at the top, a clear grid of days, flat children's illustration style, only the word August and numbers, no other text.
+- **Motiv:** A rolled papyrus scroll, closed with a red wax seal, lies on a plain wooden table. This explains the word 'will': an important paper about who gets your money and things after your death. Production note: the seal and the scroll must carry no readable letters; the subject's name must not appear anywhere.
+- **Bildtext:** *A will says who gets your things after your death.*
+- **Shutterstock-sökning:** `rolled papyrus scroll wax seal wooden table illustration`
+- **AI-prompt (alternativ):** Simple warm illustration: a rolled papyrus scroll closed with a red wax seal lies on a plain wooden table, soft calm light, the seal plain and without letters, no text or letters anywhere in the image.
 
 ---
 
@@ -67,7 +67,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > People later call it Pax Romana - the Roman Peace.  
 > Farmers can work, and traders can travel safely again.  
 > The emperor repairs old temples and builds many new buildings.  
-> An old writer tells us that he says: "I find Rome as a city of brick, and I leave it as a city of marble."  
+> An old writer tells us his words: "I find Rome a city of brick. I leave it a city of marble."  
 > The peace lasts, with few breaks, for about two hundred years.  
 > His long peace makes Rome richer than any war.  
 > **Who is Emperor X?**
@@ -115,7 +115,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He rules Rome alone, but he never takes the title of king.  
 > He wears no crown.  
 > He calls himself "princeps" - the first citizen.  
-> The senate still meets, and the old titles remain.  
+> Elections and the old jobs continue, like before.  
 > But Mr X keeps control of the army and the money.  
 > He says that he gives the republic back to the senate and the people.  
 > He rules like this for more than forty years and dies as an old man.  
@@ -146,10 +146,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Sidobild
 
-- **Motiv:** Symbolic image: a golden crown lies on a marble table, and a man's hand gently pushes it away. This supports the key idea of the card: he refuses the title of king. Production note: symbolic scene, calm and simple; no faces, no readable text anywhere.
+- **Motiv:** Symbolic image: a simple golden diadem (a thin royal headband) lies on a marble table, and a man's hand gently pushes it away. This supports the key idea of the card: he refuses the title of king. Production note: symbolic scene, calm and simple; no faces, no readable text anywhere.
 - **Bildtext:** *He says no to a crown.*
 - **Shutterstock-sökning:** `hand refusing golden crown marble table symbolic`
-- **AI-prompt (alternativ):** Simple symbolic illustration: a golden crown lies on a marble table, a man's hand gently pushes it away, plain calm background, soft light, no faces, no text or letters anywhere in the image.
+- **AI-prompt (alternativ):** Simple symbolic illustration: a simple golden diadem (a thin royal headband) lies on a marble table, a man's hand gently pushes it away, plain calm background, soft light, no faces, no text or letters anywhere in the image.
 
 ---
 
@@ -159,7 +159,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Korttext
 
-> Emperor X rules Rome for a long time.  
+> Emperor X is the first emperor of Rome, and he rules for a long time.  
 > Everywhere in the empire, people see his face.  
 > In city after city, statues show him young, calm, and strong.  
 > He grows old, but his statues never do.  
@@ -188,7 +188,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** Photo of a famous ancient Roman marble statue of an emperor in decorated armor, right arm raised, calm ideal young face (the Augustus of Prima Porta type). IMPORTANT production note: crop out the pedestal, museum labels, and any inscriptions - nothing with his name may be visible; search keywords must never appear in student-visible text or alt-text.
+- **Motiv:** Photo of a famous ancient Roman marble statue of an emperor in decorated armor, right arm raised, calm ideal young face (the Augustus of Prima Porta type). IMPORTANT production note: crop out the pedestal, museum labels, and any inscriptions - nothing with his name may be visible; search keywords must never appear in student-visible text or alt-text; the alt-text is written manually and never contains the search keywords; the AI prompt is the primary path for this image.
 - **Bildtext:** *A marble statue shows the emperor young and strong.*
 - **Shutterstock-sökning:** `Augustus Prima Porta marble statue armor`
 - **AI-prompt (alternativ):** Photorealistic image of an ancient Roman marble statue in the style of the Augustus of Prima Porta: a man in decorated Roman armor with his right arm raised, calm ideal young face, plain neutral museum background, soft even light, no pedestal, no labels, no text or letters anywhere in the image.
@@ -202,7 +202,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ---
 
-## Kort 5 · Universitet — His Own Story, Carved in Stone
+## Kort 5 · Universitet — Carved in Stone
 
 **Kategori:** `civilizations`
 
@@ -215,7 +215,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > In the text, the first emperor of Rome counts his buildings, his gifts, and his honors.  
 > He writes that he saves the state and refuses to be a dictator.  
 > He does not name his old enemies, and he does not mention his mistakes.  
-> For historians, the text is gold: facts straight from the top.  
+> For historians, the text is a treasure: facts from the ruler himself.  
 > But it is also a story with one storyteller - the main person himself.  
 > So historians compare it with coins, ruins, and other writers.  
 > Every source answers the question: who speaks, and who is silent?  

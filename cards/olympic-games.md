@@ -119,7 +119,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The statues warn every new athlete: win with honor.  
 > The Greeks believe: a strong body and a sharp mind belong together.  
 > But the games are not open to everyone.  
-> Only free men may compete.  
+> Only free Greek men may compete.  
 > Girls hold their own races for a goddess, at the same holy place.  
 > **Which games are these?**
 
@@ -163,14 +163,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Games X begin in Greece, almost 3,000 years ago.  
 > Athletes meet there every four years, for more than a thousand years.  
 > Then new rulers come, with a new religion.  
-> They do not like festivals for the old gods, and the games stop.  
+> They do not like festivals for the old gods. Slowly, the games stop.  
 > For about 1,500 years, there are no games.  
 > At the end of the 1800s, a man in France gets a big idea.  
-> He says: let the young people of the world meet in sport, not in war.  
+> His big idea: let the young people of the world meet in sport, not in war.  
 > So the games wake up again — now for the whole world.  
 > A new city hosts them every four years.  
 > Now women compete too.  
-> Today, before each games, a flame travels from the old place in Greece to the new stadium.  
+> Today, before the games begin, a flame travels from the old place in Greece to the new stadium.  
 > **Which games are these?**
 
 ### Svarsalternativ
@@ -218,7 +218,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > About 1,800 years ago, a travel writer visits the holy place and describes its temples and statues.  
 > Third: the ground.  
 > Rivers and earthquakes bury the old place under sand and earth.  
-> In the 1800s, archaeologists dig it out: the stadium, the temples, and stones with the winners' names.  
+> In the 1800s, archaeologists start to dig it out: the temples and stones with the winners' names. Later they also uncover the stadium.  
 > One warning: many people say that all wars stop during the games.  
 > The sources show less: a holy peace protects the travelers, but wars go on in other places.  
 > **Which games are these?**
@@ -240,9 +240,9 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** Photo of the ruins of an ancient Greek sanctuary: fallen column drums and a few standing columns among green grass and pine trees, in a river valley. Production note: choose a view with no tourist signs, information boards, or readable inscriptions; the search keywords name the site and must never appear in any student-visible text or alt-text.
+- **Motiv:** Photo of the ruins of an ancient Greek sanctuary: fallen column drums and a few standing columns among green grass and pine trees, in a river valley. Production note: choose a view with no tourist signs, information boards, or readable inscriptions; the name of the site must never appear in any student-visible text or alt-text.
 - **Bildtext:** *The holy place today. Grass grows between the old stones.*
-- **Shutterstock-sökning:** `ancient Olympia Greece ruins columns palaestra`
+- **Shutterstock-sökning:** `ancient greek sanctuary ruins columns river valley`
 - **AI-prompt (alternativ):** Photorealistic image: ruins of an ancient Greek sanctuary in a green river valley, fallen column drums and a few re-erected columns among grass and pine trees, soft morning light, peaceful and thoughtful mood, no people, no signs, no readable inscriptions, no text.
 
 ### Sidobild

@@ -20,7 +20,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > When he grows up, he does something new.  
 > He brings the fighting clans together into one people.  
 > The clans give him a new name and title.  
-> It may mean "strong ruler" or "ruler of all."  
+> It may mean "strong ruler" or "ruler of all".  
 > **Who is Khan X?**
 
 ### Svarsalternativ
@@ -29,7 +29,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Genghis Khan
 - ⬜ Julius Caesar
 - ⬜ Napoleon Bonaparte
-- ⬜ Hammurabi
+- ⬜ Kublai Khan
 
 ### Ordförklaringar (marginal)
 
@@ -60,13 +60,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Korttext
 
-> Khan X grows up on the grasslands of Asia and unites their riding clans.  
+> Khan X grows up on the grasslands of Asia and unites the riding clans.  
 > Then he and his riders build a huge empire on land.  
+> His wars are terrible for the people he conquers.  
 > After his death, his sons and grandsons make it even bigger.  
 > It becomes the largest land empire in history.  
 > It reaches from the sea in the east far into Europe.  
 > How can one ruler control such a wide land?  
-> Khan X orders horse stations along the big roads.  
+> Khan X and his family order horse stations along the big roads.  
 > At each station, fresh horses wait.  
 > A messenger rides fast, changes to a fresh horse, and rides on.  
 > Messages travel day and night, faster than ever before.  
@@ -111,7 +112,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 > Khan X is a ruler from the grasslands of Asia.  
 > As a boy, he has no school, and he probably never learns to read.  
-> But he understands what writing and laws can do.  
+> As a young man, he unites the fighting clans into one people.  
 > He orders a writing system for his people's language.  
 > He gives his empire strict laws.  
 > He chooses his generals for their skill, not for their family name.  
@@ -119,6 +120,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > People of many religions live in his empire, and all can pray in their own way.  
 > When his army takes a city, it spares the skilled craft workers.  
 > But they must move far away and work for the empire.  
+> Many of the other people in these cities are killed or lose their homes.  
 > A ruler who cannot read builds a state that runs on writing, law, and skill.  
 > **Who is Khan X?**
 
@@ -159,7 +161,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Korttext
 
-> Khan X, a rider from the grasslands, builds a giant empire across Asia.  
+> Khan X, a rider who unites the clans of the grasslands, builds a giant empire across Asia.  
 > Under him and his family, one power guards the long trade roads between east and west.  
 > An old saying tells: a girl can carry a bag of gold across the empire, and no one robs her.  
 > Silk, paper, and new ideas travel from land to land.  
@@ -168,8 +170,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > And this peace has a terrible price.  
 > The wars of Khan X kill millions of people.  
 > Cities that do not give up are destroyed.  
-> Traders remember the safe roads; the conquered remember their dead.  
-> Good for the traders, deadly for the conquered — both are true at the same time.  
+> Traders remember the safe roads. The destroyed cities remember something else.  
+> The empire opens roads for the world, and destroys millions of lives to build them.  
 > **Who is Khan X?**
 
 ### Svarsalternativ
@@ -185,7 +187,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **trade** — *buying and selling things*
 - **goods** — *things people buy and sell*
 - **deadly** — *so dangerous that people die from it*
-- **conquered** — *people whose land is taken by force*
 
 ### Huvudbild
 
@@ -197,7 +198,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Sidobild
 
 - **Motiv:** A simple parchment-style map of Asia and Europe with one long road line from the east coast of Asia to Europe, with tiny caravan and horse icons along the road. The picture shows how one road system joins east and west. Production note: absolutely no letters, numbers, place names, or readable symbols on the map.
-- **Bildtext:** *One long road joins east and west. Goods and ideas travel on it — and sickness too.*
+- **Bildtext:** *Long roads join east and west. Goods and ideas travel on them.*
 - **Shutterstock-sökning:** `old parchment map asia europe blank no labels illustration`
 - **AI-prompt (alternativ):** Simple parchment-style map showing the shapes of Asia and Europe, one long road line drawn from East Asia to Eastern Europe, tiny caravan and horse icons along the road, warm paper tones; no letters, no numbers, no place names, no text.
 
@@ -214,7 +215,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Soon after his death, his own people write his story in their own language.  
 > That book is even called "The Secret History."  
 > It shows him from the inside: his poor childhood, his fears, and his mistakes.  
-> The peoples he conquers write about him too, in Persian and in Chinese.  
+> The peoples he conquers write about him too, in Persian, Arabic, and Chinese.  
 > They see their burned cities, and in their books he is often a monster.  
 > Later, travelers from Europe visit the empire and send home reports.  
 > Some report wild "barbarians"; others report law, order, and safe roads.  

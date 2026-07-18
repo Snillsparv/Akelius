@@ -11,24 +11,24 @@ status uppdateras löpande.
 | 2 | Mesopotamia – the first cities and writing | Ancient Civilizations |✅ Leverans 2 |
 | 3 | Hammurabi and his law code | Ancient Civilizations |✅ Leverans 2 |
 | 4 | The Phoenicians and the alphabet | Ancient Civilizations |✅ Leverans 2 |
-| 5 | Ancient Greece | Ancient Civilizations | |
-| 6 | The Olympic Games | Ancient Civilizations | |
+| 5 | Ancient Greece | Ancient Civilizations |✅ Leverans 3 |
+| 6 | The Olympic Games | Ancient Civilizations |✅ Leverans 3 |
 | 7 | Socrates | Ancient Civilizations | ✅ Leverans 1 |
 | 8 | Plato | Ancient Civilizations | ✅ Leverans 1 |
 | 9 | Aristotle | Ancient Civilizations |✅ Leverans 2 |
 | 10 | Alexander the Great | Ancient Civilizations |✅ Leverans 2 |
 | 11 | The Roman Republic and Roman Empire | Ancient Civilizations |✅ Leverans 2 |
 | 12 | Julius Caesar | Ancient Civilizations |✅ Leverans 2 |
-| 13 | Augustus | Ancient Civilizations | |
+| 13 | Augustus | Ancient Civilizations |✅ Leverans 3 |
 | 14 | Confucius | Religions and Beliefs |✅ Leverans 2 |
 | 15 | Siddhartha Gautama | Religions and Beliefs |✅ Leverans 2 |
-| 16 | Jesus of Nazareth | Religions and Beliefs | |
-| 17 | Muhammad | Religions and Beliefs | |
-| 18 | The Byzantine Empire | Middle Ages | |
-| 19 | The Vikings | Middle Ages | |
-| 20 | The Crusades | Middle Ages | |
-| 21 | The Black Death | Middle Ages | |
-| 22 | Genghis Khan | Middle Ages | |
+| 16 | Jesus of Nazareth | Religions and Beliefs |✅ Leverans 3 |
+| 17 | Muhammad | Religions and Beliefs |✅ Leverans 3 |
+| 18 | The Byzantine Empire | Middle Ages |✅ Leverans 3 |
+| 19 | The Vikings | Middle Ages |✅ Leverans 3 |
+| 20 | The Crusades | Middle Ages |✅ Leverans 3 |
+| 21 | The Black Death | Middle Ages |✅ Leverans 3 |
+| 22 | Genghis Khan | Middle Ages |✅ Leverans 3 |
 | 23 | Joan of Arc | Middle Ages | |
 | 24 | The Renaissance | Renaissance and Exploration | |
 | 25 | Leonardo da Vinci | Renaissance and Exploration | |

@@ -3441,6 +3441,2888 @@
           }
         }
       ]
+    },
+    {
+      "slug": "ancient-greece",
+      "person": "Ancient Greece",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Mountains, islands, and the sea",
+          "category": "civilizations",
+          "text_sentences": [
+            "Land X lies in the south of Europe.",
+            "It has high mountains and hundreds of islands.",
+            "The warm blue sea is never far away.",
+            "The soil is thin, but olive trees and grapes grow well.",
+            "Many people become fishers, sailors, and traders.",
+            "Long ago, the land has no single king.",
+            "Instead, people live in many small city-states.",
+            "These cities are proud, and they often compete with each other.",
+            "In the middle of the city lies the agora, a busy market square.",
+            "People meet there, buy food, and talk about the news.",
+            "High on a rock over one famous city, a white marble temple still stands today."
+          ],
+          "question": "Which land is this?",
+          "options": [
+            "Egypt",
+            "Greece",
+            "Rome",
+            "Persia",
+            "Phoenicia"
+          ],
+          "correct": "Greece",
+          "words": [
+            {
+              "word": "soil",
+              "explanation": "the earth on the ground where plants grow"
+            },
+            {
+              "word": "city-state",
+              "explanation": "a city with its own laws and leaders, like a small country"
+            },
+            {
+              "word": "agora",
+              "explanation": "the open market square in the middle of the city"
+            },
+            {
+              "word": "marble",
+              "explanation": "a hard, shiny stone for fine buildings"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of a Mediterranean coast landscape in Greece: rocky hills with old olive trees, the deep blue sea below, small islands on the horizon, perhaps one small wooden boat. Production note: no modern buildings, roads, signs, flags, or readable text anywhere in the image; the country must not be named in any student-visible text or alt-text.",
+            "caption": "Mountains, olive trees, islands, and the blue sea.",
+            "shutterstock_query": "greek coast olive trees blue sea islands landscape",
+            "ai_prompt": "A sunlit Mediterranean coastal landscape: rocky hills with gnarled old olive trees, deep blue sea, small rocky islands on the horizon, one small wooden sailing boat, clear sky, photorealistic, no buildings, no people, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "Warm educational illustration of an ancient agora: a busy open market square with simple stalls, clay jars (amphorae), baskets of olives and fish, people in simple tunics buying, selling, and talking, a colonnade of plain columns behind. Supports the word 'agora'. Production note: no readable letters on stalls, jars, or walls; generic ancient clothing; nothing that names the city or the land.",
+            "caption": "The agora: people buy, sell, and talk about the news.",
+            "shutterstock_query": "ancient agora market square stalls amphora illustration",
+            "ai_prompt": "Warm educational illustration of an ancient Greek agora: a lively market square with wooden stalls, clay amphorae, baskets of olives and fish, people in simple tunics talking and trading, a stoa with plain columns in the background, children's book style, friendly mood, no readable text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The people rule",
+          "category": "civilizations",
+          "text_sentences": [
+            "About 2,500 years ago, one city-state in Land X tries a new idea.",
+            "The free men of the city meet on a hill.",
+            "They talk, and then they vote by raising their hands.",
+            "They decide about laws, money, war, and peace.",
+            "Many city jobs go by lot, like names from a hat.",
+            "The people call this demokratia - 'the people rule'.",
+            "Our word 'democracy' comes from this.",
+            "But most people in the city cannot vote.",
+            "Women cannot vote, and neither can slaves or people from other cities.",
+            "So this democracy is a start, not the finish.",
+            "Today, many lands build on the idea, and more people can vote."
+          ],
+          "question": "Which land is this?",
+          "options": [
+            "Rome",
+            "Egypt",
+            "Persia",
+            "Greece",
+            "Mesopotamia"
+          ],
+          "correct": "Greece",
+          "words": [
+            {
+              "word": "vote",
+              "explanation": "to say your choice when a group decides something"
+            },
+            {
+              "word": "by lot",
+              "explanation": "chosen by chance, like pulling a name from a hat"
+            },
+            {
+              "word": "slave",
+              "explanation": "a person who is not free and is owned by another person"
+            },
+            {
+              "word": "democracy",
+              "explanation": "the people rule: the people of a land decide together"
+            }
+          ],
+          "main_image": {
+            "description": "Warm educational illustration of an ancient open-air assembly on a rocky hill: men in simple tunics sit on the ground and on stone steps, many raise their hands to vote, one speaker stands on a low stone platform. Calm and orderly, no anger. Production note: generic ancient clothing; no readable text on stones, banners, or clothing; nothing that names the city or the land.",
+            "caption": "The free men meet on a hill. They vote with their hands.",
+            "shutterstock_query": "ancient assembly citizens raising hands hill illustration",
+            "ai_prompt": "Warm educational illustration of an ancient Greek open-air assembly on a rocky hill: men in simple tunics sitting on stone steps, many raising their hands to vote, one speaker standing on a low stone platform, calm orderly mood, soft daylight, children's book style, no readable text, no letters."
+          },
+          "side_image": {
+            "description": "Illustration of choosing by lot: an official in a simple tunic pulls one small wooden token out of a large clay pot; a few men wait and watch. Supports the words 'by lot'. Production note: all tokens must be blank - no readable letters anywhere; this exact scene is unlikely as stock, so the AI prompt is the primary path and the stock query is a style reference.",
+            "caption": "Many city jobs go by lot, like names from a hat.",
+            "shutterstock_query": "ancient lottery clay pot wooden tokens illustration",
+            "ai_prompt": "Simple warm illustration of an ancient official in a plain tunic pulling one small blank wooden token from a large clay pot while a few men in tunics watch calmly, plain background, children's book style, no readable text, no letters on the tokens."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "The theater on the hillside",
+          "category": "civilizations",
+          "text_sentences": [
+            "About 2,500 years ago, the people of Land X build the first great theaters.",
+            "First people sit on wooden benches.",
+            "Later they cut half-circles of stone seats into their hillsides.",
+            "Some theaters hold more than ten thousand people.",
+            "The actors wear masks with big, clear faces.",
+            "So people far up on the hill can still see who is sad or angry.",
+            "A sad play is a tragedy: it shows great people who fall through their own mistakes.",
+            "A funny play is a comedy: it laughs at the rich and powerful.",
+            "The plays ask big questions.",
+            "What is right, what is fair, and who decides?",
+            "Thousands of people watch together and feel together.",
+            "Our words 'theater', 'drama', 'tragedy', and 'comedy' come from the language of Land X."
+          ],
+          "question": "Which land is this?",
+          "options": [
+            "Greece",
+            "Rome",
+            "Persia",
+            "Egypt",
+            "Mesopotamia"
+          ],
+          "correct": "Greece",
+          "words": [
+            {
+              "word": "mask",
+              "explanation": "a false face you wear over your own face"
+            },
+            {
+              "word": "tragedy",
+              "explanation": "a serious, sad play"
+            },
+            {
+              "word": "comedy",
+              "explanation": "a funny play"
+            },
+            {
+              "word": "actor",
+              "explanation": "a person who plays someone else in a play"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of a great ancient open-air theater in the style of Epidaurus: a huge half-circle of stone seats built into a green hillside, a round stage area below, hills in the distance. Production note: no tourist signs, information boards, ropes, or readable inscriptions; prefer a view with no people or only tiny distant figures; the theater's name and country must not appear in any student-visible text or alt-text.",
+            "caption": "Stone seats in a half-circle on a hillside. Thousands of people watch a play here.",
+            "shutterstock_query": "Epidaurus ancient theater stone seats hillside",
+            "ai_prompt": "A vast ancient open-air theater with a perfect half-circle of stone seat rows built into a green hillside, a round stage area at the bottom, soft warm evening light, distant hills, photorealistic, no people, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "Two ancient theater masks side by side on a plain background: one with a sad, crying face and one with a wide, laughing face. Supports the words 'tragedy' and 'comedy'. Production note: masks in clay, wood, or stone style, not modern plastic carnival masks; no readable text anywhere.",
+            "caption": "One mask cries, one mask laughs.",
+            "shutterstock_query": "ancient theater masks tragedy comedy pair",
+            "ai_prompt": "Two ancient theater masks side by side on a plain neutral background, one with a sad crying face, one with a wide laughing face, aged clay and wood texture, soft studio light, photorealistic, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "Frogs around a pond",
+          "category": "civilizations",
+          "text_sentences": [
+            "In old times, Land X is not one country.",
+            "It is hundreds of proud city-states, and they often quarrel.",
+            "Two of them are famous opposites.",
+            "One famous city loves ships, trade, and open talk.",
+            "Its rival loves order, simple food, and hard training.",
+            "Yet all these cities feel like one people.",
+            "They speak one language and honor the same gods.",
+            "They share the same stories about gods and heroes.",
+            "Many cities also send ships out and start colonies.",
+            "These new towns grow on coasts from Spain to the Black Sea.",
+            "A famous thinker from Land X writes: we live around the sea like frogs around a pond."
+          ],
+          "question": "Which land is this?",
+          "options": [
+            "Phoenicia",
+            "Egypt",
+            "Greece",
+            "Rome",
+            "Persia"
+          ],
+          "correct": "Greece",
+          "words": [
+            {
+              "word": "city-state",
+              "explanation": "a city with its own laws and leaders, like a small country"
+            },
+            {
+              "word": "quarrel",
+              "explanation": "to argue and fight with each other"
+            },
+            {
+              "word": "honor",
+              "explanation": "to show great respect for someone"
+            },
+            {
+              "word": "colony",
+              "explanation": "a new town that people from a city build in a faraway land"
+            }
+          ],
+          "main_image": {
+            "description": "Clean stylized map illustration of the Mediterranean Sea and the Black Sea seen from above: the coastlines in simple shapes, many small dots along the coasts from Spain to the Black Sea marking towns, a few tiny sailing ships on the water. Production note: absolutely no place names, letters, or labels anywhere on the map; this exact text-free map will not exist as stock, so the AI prompt is the primary path and the stock query is a style reference only.",
+            "caption": "New towns grow along the coasts, like frogs around a pond.",
+            "shutterstock_query": "ancient mediterranean map colonies ships flat illustration",
+            "ai_prompt": "Stylized flat map illustration of the Mediterranean Sea and Black Sea from above, simple land shapes in warm colors, many small dots along the coastlines marking ancient Greek colony towns from Spain to the Black Sea, a few tiny sailing ships on the blue sea, clean educational style, no place names, no labels, no text."
+          },
+          "side_image": {
+            "description": "Warm illustration of colonists arriving on a new shore: a wooden sailing ship pulled up on a beach, families in simple tunics carry clay jars, tools, and a young olive tree onto land, the first simple houses rise in the background. Supports the word 'colony'. Production note: hopeful and peaceful mood, no weapons, no conflict; no readable text; nothing that names the land.",
+            "caption": "People from the old city build a new town by the sea.",
+            "shutterstock_query": "ancient settlers ship beach new town illustration",
+            "ai_prompt": "Warm educational illustration of ancient colonists arriving on a sunny new shore: a wooden sailing ship pulled onto the beach, families in simple tunics carrying clay amphorae, tools, and a young olive tree, first simple houses being built in the background, hopeful peaceful mood, children's book style, no weapons, no readable text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The white marble dream",
+          "category": "civilizations",
+          "text_sentences": [
+            "Historians ask: how do we know the story of Land X?",
+            "Its old books - plays, science, and philosophy - survive only as copies of copies.",
+            "For centuries, scribes in Constantinople copy them, and scholars in Baghdad translate many science and philosophy books into Arabic.",
+            "Without this long work, most of the old books are gone today.",
+            "The white marble ruins tell only half the truth, too.",
+            "New research shows: long ago, the temples and statues shine with bright colors.",
+            "Later ages love the bare white stone and dream of a pure, perfect Land X.",
+            "But real life there includes slavery and long wars between the cities.",
+            "So historians see two lands: the real one, and the beautiful dream.",
+            "Both of them shape our world today."
+          ],
+          "question": "Which land is this?",
+          "options": [
+            "Rome",
+            "Egypt",
+            "Mesopotamia",
+            "Persia",
+            "Greece"
+          ],
+          "correct": "Greece",
+          "words": [
+            {
+              "word": "philosophy",
+              "explanation": "the study of big questions about life and thinking"
+            },
+            {
+              "word": "scribe",
+              "explanation": "a person whose work is copying books by hand"
+            },
+            {
+              "word": "ruin",
+              "explanation": "a broken old building"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of the Parthenon temple on the Acropolis rock: white marble columns in warm evening light, seen slightly from below. Production note: the site often has restoration cranes and scaffolding - choose a view without them; no tourists close to the camera, no signs, ropes with notices, or readable inscriptions; the names of the temple, city, and country must not appear in any student-visible text or alt-text.",
+            "caption": "This temple is white today. Long ago, parts of it have bright colors.",
+            "shutterstock_query": "Acropolis Parthenon marble columns evening light",
+            "ai_prompt": "A majestic ancient marble temple with tall columns on a high rocky hill, warm golden evening light, slightly low camera angle, clear sky, photorealistic, no scaffolding, no cranes, no people, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "The same ancient statue shown two times side by side: on the left in bare white marble as it looks today, on the right as a research reconstruction with bright painted colors on skin, hair, and clothes. Supports the card's key idea that the statues shine with colors long ago. Production note: respectful, museum-style presentation; a modestly dressed statue, for example a standing young woman in a painted robe; no readable text or labels; AI generation is the primary path, the stock query is a fallback.",
+            "caption": "The same statue: white today, colorful long ago.",
+            "shutterstock_query": "ancient statue painted color reconstruction museum",
+            "ai_prompt": "Museum-style image of the same ancient Greek statue of a standing young woman in a long robe shown twice side by side: left version in plain white marble, right version with a bright painted reconstruction in red, blue, and gold, neutral gray background, soft even light, photorealistic, no text, no labels."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "olympic-games",
+      "person": "The Olympic Games",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A crown of olive leaves",
+          "category": "civilizations",
+          "text_sentences": [
+            "Games X take place in Greece, long ago.",
+            "They happen every four years, at one holy place.",
+            "People travel there from many Greek towns.",
+            "They watch runners, wrestlers, and jumpers.",
+            "The stadium has room for many thousands of people.",
+            "The winner gets no gold and no money.",
+            "He gets a crown of leaves from a holy olive tree.",
+            "At home, people greet the winner like a hero.",
+            "The games go on for more than a thousand years.",
+            "Today, the biggest games in the world carry the same name."
+          ],
+          "question": "Which games are these?",
+          "options": [
+            "The Roman gladiator games",
+            "The Olympic Games",
+            "The Pythian Games",
+            "The Panathenaic Games",
+            "The Isthmian Games"
+          ],
+          "correct": "The Olympic Games",
+          "words": [
+            {
+              "word": "holy",
+              "explanation": "very special for a god or a religion"
+            },
+            {
+              "word": "wrestler",
+              "explanation": "a sports person who tries to bring another person to the ground, without hitting"
+            },
+            {
+              "word": "stadium",
+              "explanation": "a big place for sport, with room for many watchers"
+            },
+            {
+              "word": "crown",
+              "explanation": "a ring that you wear on your head"
+            }
+          ],
+          "main_image": {
+            "description": "Warm educational illustration of an ancient Greek stadium: a long, simple earth running track between grassy banks full of spectators; a group of runners races toward the finish while judges watch. Production note: athletes dressed in simple short tunics (respectful for all classrooms, no nudity); no readable text, letters, or flags; nothing in the image may name the place or the games.",
+            "caption": "The runners race. Thousands of people watch.",
+            "shutterstock_query": "ancient greek stadium runners race spectators illustration",
+            "ai_prompt": "Warm children's book illustration: an ancient Greek stadium around 500 BCE, a simple earth running track between long grassy banks full of cheering spectators in white and colorful robes, five runners in short tunics racing, sunny day, joyful mood, athletes modestly dressed, no nudity, no text, no letters, no flags."
+          },
+          "side_image": {
+            "description": "A simple crown (wreath) woven from fresh olive branches with green leaves, lying on a plain warm stone surface. The picture explains the prize: a crown of olive leaves, not gold. Production note: no text, no labels, no ribbons with writing.",
+            "caption": "The prize: a crown of olive leaves.",
+            "shutterstock_query": "olive branch wreath green leaves on stone",
+            "ai_prompt": "Photorealistic still life: a simple wreath woven from fresh olive branches with silvery-green leaves, lying on a warm ancient stone surface, soft sunlight, plain background, no people, no text, no labels."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The holy peace",
+          "category": "civilizations",
+          "text_sentences": [
+            "In Greece, long ago, the towns often fight each other.",
+            "But every four years, something special happens.",
+            "Messengers walk from town to town.",
+            "They call out: Games X start soon!",
+            "Games X are the oldest and greatest games in Greece.",
+            "They honor the king of the Greek gods.",
+            "Now a holy peace begins.",
+            "Everyone who travels to the games must be safe.",
+            "Athletes and visitors walk through enemy land, and no one may harm them.",
+            "At the games, enemies compete in sport, not in war.",
+            "For a short time, sport brings the Greek world together."
+          ],
+          "question": "Which games are these?",
+          "options": [
+            "The Panathenaic Games",
+            "The Pythian Games",
+            "The Roman gladiator games",
+            "The Olympic Games",
+            "The Isthmian Games"
+          ],
+          "correct": "The Olympic Games",
+          "words": [
+            {
+              "word": "messenger",
+              "explanation": "a person who carries news from place to place"
+            },
+            {
+              "word": "holy",
+              "explanation": "very special for a god or a religion"
+            },
+            {
+              "word": "athlete",
+              "explanation": "a person who does sport, for example a runner"
+            },
+            {
+              "word": "compete",
+              "explanation": "to try to win against others"
+            }
+          ],
+          "main_image": {
+            "description": "Warm educational illustration: an ancient Greek herald (messenger) with a wooden staff stands in a sunny stone square and calls out news; townspeople of all ages stop and listen. Peaceful, friendly mood. Production note: no readable text, letters, or signs anywhere; generic staff without symbols; nothing may name the place or the games.",
+            "caption": "A messenger calls out: the games start soon!",
+            "shutterstock_query": "ancient greek herald announcement town square illustration",
+            "ai_prompt": "Warm educational illustration: an ancient Greek herald in a white robe holding a plain wooden staff, calling out to a small crowd of townspeople in a sunlit stone square, ancient Greece, children's book style, friendly and peaceful, no text, no letters, no signs."
+          },
+          "side_image": {
+            "description": "Gentle illustration of safe travel: families and athletes with bundles walk peacefully on a dirt road between olive trees; far ahead lies a Greek temple sanctuary in a green valley. The picture explains the holy peace: everyone can travel safely. Production note: no weapons, no soldiers, no readable text; the sanctuary is generic and must not be recognizable as a specific named site.",
+            "caption": "The holy peace: everyone travels safely to the games.",
+            "shutterstock_query": "ancient travelers walking road olive trees temple illustration",
+            "ai_prompt": "Gentle warm illustration: travelers in ancient Greek clothes — families and athletes carrying bundles — walk peacefully on a dirt road between olive trees, a distant generic Greek temple sanctuary in a green valley ahead, soft evening light, calm and safe mood, no weapons, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "Win with honor",
+          "category": "civilizations",
+          "text_sentences": [
+            "Games X take place at a holy place in Greece, every four years.",
+            "The oldest event is simple: a short, fast run across the stadium.",
+            "Later come wrestling, the long jump, and the discus throw.",
+            "Before the games, every athlete swears an oath: I follow the rules.",
+            "A cheater must pay money.",
+            "The money pays for statues on the way into the stadium.",
+            "The statues warn every new athlete: win with honor.",
+            "The Greeks believe: a strong body and a sharp mind belong together.",
+            "But the games are not open to everyone.",
+            "Only free Greek men may compete.",
+            "Girls hold their own races for a goddess, at the same holy place."
+          ],
+          "question": "Which games are these?",
+          "options": [
+            "The Olympic Games",
+            "The Isthmian Games",
+            "The Nemean Games",
+            "The Pythian Games",
+            "The Roman gladiator games"
+          ],
+          "correct": "The Olympic Games",
+          "words": [
+            {
+              "word": "oath",
+              "explanation": "a very serious promise"
+            },
+            {
+              "word": "cheater",
+              "explanation": "a person who breaks the rules to win"
+            },
+            {
+              "word": "discus",
+              "explanation": "a flat, round, heavy plate that athletes throw far"
+            },
+            {
+              "word": "honor",
+              "explanation": "when people see you as good and fair"
+            }
+          ],
+          "main_image": {
+            "description": "An image in the style of ancient Greek black-figure vase painting: stylized dark athlete figures — runners in mid-stride and one discus thrower — on a warm terracotta background with a simple border pattern. Production note: figures must be stylized silhouettes without explicit detail, or shown in short tunics (respectful for all classrooms); real vases often carry painted letters, so any letters must be cropped away or unreadable; no inscription may spell a name.",
+            "caption": "Old Greek art shows the athletes.",
+            "shutterstock_query": "greek black figure vase athletes runners pottery",
+            "ai_prompt": "Ancient Greek black-figure vase painting style: stylized dark silhouette athletes — three runners in mid-stride and one discus thrower — on a warm terracotta background with a simple meander border, figures stylized and modest, no explicit detail, no nudity, no letters, no inscriptions, no text."
+          },
+          "side_image": {
+            "description": "Photorealistic close-up of a single ancient bronze discus, a flat round plate with a worn green-brown surface, lying on sandy ground. The picture explains the word 'discus'. Production note: no engraved letters, no museum labels, no readable text.",
+            "caption": "A discus. Athletes throw this flat, round plate.",
+            "shutterstock_query": "ancient greek bronze discus close up",
+            "ai_prompt": "Photorealistic close-up: an ancient round bronze discus with a worn green-brown surface, lying on warm sandy ground, soft side light, quiet museum-quality mood, no engravings, no letters, no labels, no text."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "The games wake up again",
+          "category": "civilizations",
+          "text_sentences": [
+            "Games X begin in Greece, almost 3,000 years ago.",
+            "Athletes meet there every four years, for more than a thousand years.",
+            "Then new rulers come, with a new religion.",
+            "They do not like festivals for the old gods. Slowly, the games stop.",
+            "For about 1,500 years, there are no games.",
+            "At the end of the 1800s, a man in France gets a big idea.",
+            "His big idea: let the young people of the world meet in sport, not in war.",
+            "So the games wake up again — now for the whole world.",
+            "A new city hosts them every four years.",
+            "Now women compete too.",
+            "Today, before the games begin, a flame travels from the old place in Greece to the new stadium."
+          ],
+          "question": "Which games are these?",
+          "options": [
+            "The Panathenaic Games",
+            "The Pythian Games",
+            "The Olympic Games",
+            "The Isthmian Games",
+            "The Roman gladiator games"
+          ],
+          "correct": "The Olympic Games",
+          "words": [
+            {
+              "word": "religion",
+              "explanation": "belief in a god or gods, with its own rules and feasts"
+            },
+            {
+              "word": "festival",
+              "explanation": "a big feast or celebration for many people"
+            },
+            {
+              "word": "host",
+              "explanation": "to hold the games in your own city"
+            },
+            {
+              "word": "flame",
+              "explanation": "the bright, burning part of a fire"
+            }
+          ],
+          "main_image": {
+            "description": "A big, generic modern stadium at night, full of cheering people; a large metal bowl with a bright flame burns high above the stands. Festive but calm. Production note: the five-ring symbol is a protected trademark and must NOT appear anywhere; no logos, no flags, no banners, no readable text; the stadium must be generic, not a recognizable real arena.",
+            "caption": "The flame burns. The whole world watches the games.",
+            "shutterstock_query": "modern stadium night ceremony flame cauldron crowd",
+            "ai_prompt": "Photorealistic wide shot: a vast generic modern sports stadium at night filled with a cheering crowd, a large metal bowl with a bright burning flame rising above the stands, colorful stage lights, festive mood, no ring symbols, no logos, no flags, no readable text."
+          },
+          "side_image": {
+            "description": "A young runner in plain sports clothes carries a burning torch of simple design along a sunny road; people of many ages wave and cheer. The picture explains how the flame travels to the games. Production note: torch of plain generic design; the five-ring symbol must NOT appear; no logos or readable text on clothes, torch, or banners.",
+            "caption": "A runner carries the flame to the stadium.",
+            "shutterstock_query": "torch relay runner flame street cheering crowd",
+            "ai_prompt": "Warm photorealistic image: a young runner in plain white and blue sports clothes carries a burning torch of simple silver design along a sunny road, people of many ages wave and cheer, joyful mood, no ring symbols, no logos, no readable text on clothing or banners."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Lists, a traveler, and a buried stadium",
+          "category": "civilizations",
+          "text_sentences": [
+            "How do we know about Games X in old Greece?",
+            "First: lists.",
+            "Greek writers keep long lists of the winners.",
+            "Later historians even count time with these games: four years, from games to games.",
+            "Second: a traveler.",
+            "About 1,800 years ago, a travel writer visits the holy place and describes its temples and statues.",
+            "Third: the ground.",
+            "Rivers and earthquakes bury the old place under sand and earth.",
+            "In the 1800s, archaeologists start to dig it out: the temples and stones with the winners' names. Later they also uncover the stadium.",
+            "One warning: many people say that all wars stop during the games.",
+            "The sources show less: a holy peace protects the travelers, but wars go on in other places."
+          ],
+          "question": "Which games are these?",
+          "options": [
+            "The Pythian Games",
+            "The Panathenaic Games",
+            "The Nemean Games",
+            "The Roman gladiator games",
+            "The Olympic Games"
+          ],
+          "correct": "The Olympic Games",
+          "words": [
+            {
+              "word": "source",
+              "explanation": "an old text or thing that gives us knowledge about the past"
+            },
+            {
+              "word": "earthquake",
+              "explanation": "when the ground shakes strongly"
+            },
+            {
+              "word": "bury",
+              "explanation": "to cover something with earth or sand"
+            },
+            {
+              "word": "archaeologist",
+              "explanation": "a person who digs in the ground to find things from the past"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of the ruins of an ancient Greek sanctuary: fallen column drums and a few standing columns among green grass and pine trees, in a river valley. Production note: choose a view with no tourist signs, information boards, or readable inscriptions; the name of the site must never appear in any student-visible text or alt-text.",
+            "caption": "The holy place today. Grass grows between the old stones.",
+            "shutterstock_query": "ancient greek sanctuary ruins columns river valley",
+            "ai_prompt": "Photorealistic image: ruins of an ancient Greek sanctuary in a green river valley, fallen column drums and a few re-erected columns among grass and pine trees, soft morning light, peaceful and thoughtful mood, no people, no signs, no readable inscriptions, no text."
+          },
+          "side_image": {
+            "description": "Two archaeologists kneel in a sunny excavation trench and carefully brush sand from a half-buried ancient stone block; tools and buckets nearby. The picture explains the word 'archaeologist'. Production note: any carved letters on the stone must be blurred or too worn to read and must not spell any word or name; no site signs, no readable text.",
+            "caption": "Archaeologists dig out the old stones.",
+            "shutterstock_query": "archaeologists excavation brushing ancient stone site",
+            "ai_prompt": "Photorealistic scene: two archaeologists kneeling in a sunny excavation trench, carefully brushing sand from a half-buried ancient carved stone block, tools and buckets nearby, warm light, any carvings blurred and unreadable, no signs, no readable text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "augustus",
+      "person": "Augustus",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Boy with a Powerful Name",
+          "category": "civilizations",
+          "text_sentences": [
+            "Mr X lives in Rome, about 2,000 years ago.",
+            "He is only eighteen when his famous great-uncle dies.",
+            "The great-uncle is Rome's most famous leader.",
+            "In his will, the great-uncle adopts Mr X as his son.",
+            "Suddenly, the young man carries a very powerful name.",
+            "Many older men think: he is only a boy.",
+            "But Mr X is patient and careful.",
+            "After many hard years, he becomes the first emperor of Rome.",
+            "He rules for more than forty years, and Rome has peace.",
+            "One month of the year gets his name: August."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Julius Caesar",
+            "Augustus",
+            "Nero",
+            "Alexander the Great",
+            "Hammurabi"
+          ],
+          "correct": "Augustus",
+          "words": [
+            {
+              "word": "great-uncle",
+              "explanation": "the brother of your grandmother or grandfather"
+            },
+            {
+              "word": "will",
+              "explanation": "a paper that says who gets your money and things after your death"
+            },
+            {
+              "word": "adopt",
+              "explanation": "to take a child into your family as your own child, by law"
+            },
+            {
+              "word": "emperor",
+              "explanation": "like a king, but over many lands"
+            }
+          ],
+          "main_image": {
+            "description": "Friendly illustration of a young man, about eighteen, in a white toga, reading an unrolled scroll; a few older men in togas stand behind him and look doubtful; a simple ancient courtyard in the background. Calm mood, no weapons. Production note: the setting must stay generic, with no clear city or landmark; the writing on the scroll must be unreadable; no readable text anywhere in the image; the subject's name must not appear.",
+            "caption": "A young man reads an important paper.",
+            "shutterstock_query": "young roman man toga reading scroll illustration",
+            "ai_prompt": "Warm children's book illustration: a young man of about eighteen in a white toga reads an unrolled papyrus scroll, a few older men in togas watch him with doubtful faces, a simple ancient courtyard behind them, sunny day, the writing on the scroll only faint unreadable lines, no text or letters anywhere in the image."
+          },
+          "side_image": {
+            "description": "A rolled papyrus scroll, closed with a red wax seal, lies on a plain wooden table. This explains the word 'will': an important paper about who gets your money and things after your death. Production note: the seal and the scroll must carry no readable letters; the subject's name must not appear anywhere.",
+            "caption": "A will says who gets your things after your death.",
+            "shutterstock_query": "rolled papyrus scroll wax seal wooden table illustration",
+            "ai_prompt": "Simple warm illustration: a rolled papyrus scroll closed with a red wax seal lies on a plain wooden table, soft calm light, the seal plain and without letters, no text or letters anywhere in the image."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "From Brick to Marble",
+          "category": "civilizations",
+          "text_sentences": [
+            "For many years, Romans fight Romans in civil wars.",
+            "Then one man wins, and the fighting stops.",
+            "He becomes Emperor X, the first emperor of Rome.",
+            "A long time of peace begins.",
+            "People later call it Pax Romana - the Roman Peace.",
+            "Farmers can work, and traders can travel safely again.",
+            "The emperor repairs old temples and builds many new buildings.",
+            "An old writer tells us his words: \"I find Rome a city of brick. I leave it a city of marble.\"",
+            "The peace lasts, with few breaks, for about two hundred years.",
+            "His long peace makes Rome richer than any war."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Julius Caesar",
+            "Constantine",
+            "Alexander the Great",
+            "Augustus",
+            "Genghis Khan"
+          ],
+          "correct": "Augustus",
+          "words": [
+            {
+              "word": "civil war",
+              "explanation": "a war between people of the same country"
+            },
+            {
+              "word": "trader",
+              "explanation": "a person who buys and sells things"
+            },
+            {
+              "word": "brick",
+              "explanation": "a small building block of baked clay"
+            },
+            {
+              "word": "marble",
+              "explanation": "a fine, shiny stone for beautiful buildings"
+            }
+          ],
+          "main_image": {
+            "description": "Warm illustration of a building site in ancient Rome: workers raise a white marble column with a tall wooden crane; a half-finished marble temple shines in the sun; older houses of brick stand in the background. Peaceful mood, no soldiers. Production note: no readable inscriptions on buildings or anywhere else; the subject's name must not appear. The AI prompt is the primary path for this scene; the stock query is a generic fallback.",
+            "caption": "Workers build with white marble. The city changes.",
+            "shutterstock_query": "ancient rome construction workers temple illustration",
+            "ai_prompt": "Warm historical illustration: a building site in ancient Rome, workers raise a white marble column with a tall wooden crane, a half-finished marble temple shines in the sunlight, simple brick houses in the background, calm and peaceful mood, no soldiers, no text or letters anywhere in the image."
+          },
+          "side_image": {
+            "description": "A simple two-part comparison image: on the left, a rough wall of red-brown bricks; on the right, a smooth, polished white marble wall. This explains the words 'brick' and 'marble'. Production note: this exact comparison will not exist as one stock photo - produce it with the AI prompt or an in-house illustrator; no text anywhere.",
+            "caption": "Brick is baked clay. Marble is a fine, shiny stone.",
+            "shutterstock_query": "brick wall texture and white marble texture",
+            "ai_prompt": "Clean educational image split in two halves: left half a rough wall of red-brown ancient bricks, right half a smooth polished white marble wall, even soft light, simple and clear, no text or letters anywhere in the image."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "Power without a Crown",
+          "category": "civilizations",
+          "text_sentences": [
+            "The people of Rome hate the word \"king\".",
+            "Long ago, they throw their kings out.",
+            "Mr X knows this well.",
+            "He rules Rome alone, but he never takes the title of king.",
+            "He wears no crown.",
+            "He calls himself \"princeps\" - the first citizen.",
+            "Elections and the old jobs continue, like before.",
+            "But Mr X keeps control of the army and the money.",
+            "He says that he gives the republic back to the senate and the people.",
+            "He rules like this for more than forty years and dies as an old man.",
+            "Words can hide power as well as show it."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Augustus",
+            "Julius Caesar",
+            "Nero",
+            "Napoleon Bonaparte",
+            "Constantine"
+          ],
+          "correct": "Augustus",
+          "words": [
+            {
+              "word": "title",
+              "explanation": "an official name for a person's job or rank"
+            },
+            {
+              "word": "princeps",
+              "explanation": "a Latin word: the first citizen, the first man of the state"
+            },
+            {
+              "word": "senate",
+              "explanation": "a group of powerful men who guide the Roman state"
+            },
+            {
+              "word": "republic",
+              "explanation": "a state without a king; the people choose their leaders"
+            }
+          ],
+          "main_image": {
+            "description": "Sober illustration: a calm, middle-aged Roman leader in a plain white toga sits on a simple wooden bench among senators in a marble hall; he wears no crown and has no special seat; the senators speak with him as with an equal. Dignified, quiet mood. Production note: no readable inscriptions, no 'SPQR' letters, no banners with text; the subject's name must not appear.",
+            "caption": "No crown, no throne. He sits like one citizen among many.",
+            "shutterstock_query": "roman leader toga senators marble hall illustration",
+            "ai_prompt": "Sober historical illustration: a calm middle-aged Roman leader in a plain white toga sits on a simple wooden bench among Roman senators in a marble hall, no crown, no throne, the senators talk with him as equals, dignified quiet mood, warm light, no violence, no text or letters anywhere in the image."
+          },
+          "side_image": {
+            "description": "Symbolic image: a simple golden diadem (a thin royal headband) lies on a marble table, and a man's hand gently pushes it away. This supports the key idea of the card: he refuses the title of king. Production note: symbolic scene, calm and simple; no faces, no readable text anywhere.",
+            "caption": "He says no to a crown.",
+            "shutterstock_query": "hand refusing golden crown marble table symbolic",
+            "ai_prompt": "Simple symbolic illustration: a simple golden diadem (a thin royal headband) lies on a marble table, a man's hand gently pushes it away, plain calm background, soft light, no faces, no text or letters anywhere in the image."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "The Face That Never Grows Old",
+          "category": "civilizations",
+          "text_sentences": [
+            "Emperor X is the first emperor of Rome, and he rules for a long time.",
+            "Everywhere in the empire, people see his face.",
+            "In city after city, statues show him young, calm, and strong.",
+            "He grows old, but his statues never do.",
+            "Coins travel through the whole empire, and his face travels with them.",
+            "Great poets write that a new golden age begins with him.",
+            "One famous poem says that the gods choose Rome to rule the world.",
+            "The emperor and his rich friends support these poets.",
+            "Is this art, or is it advertising for one man?",
+            "Today we have a word for it: propaganda - pictures and words that build power."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Julius Caesar",
+            "Alexander the Great",
+            "Augustus",
+            "Nero",
+            "Napoleon Bonaparte"
+          ],
+          "correct": "Augustus",
+          "words": [
+            {
+              "word": "statue",
+              "explanation": "a figure of a person, made of stone or metal"
+            },
+            {
+              "word": "golden age",
+              "explanation": "a very good and happy time"
+            },
+            {
+              "word": "advertising",
+              "explanation": "pictures and words that try to sell something"
+            },
+            {
+              "word": "propaganda",
+              "explanation": "pictures, words, and art that try to control what people think"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of a famous ancient Roman marble statue of an emperor in decorated armor, right arm raised, calm ideal young face (the Augustus of Prima Porta type). IMPORTANT production note: crop out the pedestal, museum labels, and any inscriptions - nothing with his name may be visible; search keywords must never appear in student-visible text or alt-text; the alt-text is written manually and never contains the search keywords; the AI prompt is the primary path for this image.",
+            "caption": "A marble statue shows the emperor young and strong.",
+            "shutterstock_query": "Augustus Prima Porta marble statue armor",
+            "ai_prompt": "Photorealistic image of an ancient Roman marble statue in the style of the Augustus of Prima Porta: a man in decorated Roman armor with his right arm raised, calm ideal young face, plain neutral museum background, soft even light, no pedestal, no labels, no text or letters anywhere in the image."
+          },
+          "side_image": {
+            "description": "Extreme close-up of an ancient Roman coin with a man's head in profile, worn metal texture. IMPORTANT production note: real coins of this emperor carry his name - all letters and inscriptions must be removed, blurred, or unreadable; use the AI image if no clean stock photo exists.",
+            "caption": "A small coin carries a face across the empire.",
+            "shutterstock_query": "ancient roman coin portrait profile closeup",
+            "ai_prompt": "Close-up illustration of an ancient Roman coin showing a man's head in profile, worn gold-silver metal texture, plain dark background, all letters and inscriptions removed, no text anywhere in the image."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Carved in Stone",
+          "category": "civilizations",
+          "text_sentences": [
+            "Near the end of his long life, Emperor X writes a short report about himself.",
+            "The title means: \"The things I did\".",
+            "After his death, workers carve the text in stone in cities across the empire.",
+            "One big copy survives on a temple wall in today's Turkey.",
+            "In the text, the first emperor of Rome counts his buildings, his gifts, and his honors.",
+            "He writes that he saves the state and refuses to be a dictator.",
+            "He does not name his old enemies, and he does not mention his mistakes.",
+            "For historians, the text is a treasure: facts from the ruler himself.",
+            "But it is also a story with one storyteller - the main person himself.",
+            "So historians compare it with coins, ruins, and other writers.",
+            "Every source answers the question: who speaks, and who is silent?"
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Julius Caesar",
+            "Hammurabi",
+            "Alexander the Great",
+            "Constantine",
+            "Augustus"
+          ],
+          "correct": "Augustus",
+          "words": [
+            {
+              "word": "carve",
+              "explanation": "to cut letters or pictures into stone or wood"
+            },
+            {
+              "word": "dictator",
+              "explanation": "in Rome, a leader who gets all power alone, for a short time, in an emergency"
+            },
+            {
+              "word": "historian",
+              "explanation": "a person who studies the past"
+            },
+            {
+              "word": "source",
+              "explanation": "a text or an object that gives us information about the past"
+            }
+          ],
+          "main_image": {
+            "description": "A weathered ancient temple wall covered with long lines of carved Latin text, photographed at an angle in warm light, so that the letters are visibly old but not readable. IMPORTANT production note: the real inscription carries the emperor's name and titles - in the final crop all letters must be unreadable or blurred; no museum signs or plaques; search keywords must never appear in student-visible text or alt-text. If no clean crop is possible, use the AI image.",
+            "caption": "The emperor writes his own story, and workers carve it in stone.",
+            "shutterstock_query": "temple of augustus ankara ancient wall inscription",
+            "ai_prompt": "Photorealistic image of a weathered ancient temple wall densely covered with faint, worn, unreadable carved letters, warm evening light raking across the stone, quiet and monumental mood, no people, no signs, no readable text anywhere in the image."
+          },
+          "side_image": {
+            "description": "Close-up of a stonemason's hands holding a chisel and a small hammer, cutting marks into a marble surface. This explains the word 'carve'. Production note: the marks in the stone must be generic and unreadable; no real words or names anywhere.",
+            "caption": "A worker carves signs into hard stone. Stone words last very long.",
+            "shutterstock_query": "stonemason hands chisel hammer carving marble closeup",
+            "ai_prompt": "Photorealistic close-up: a craftsman's hands hold a chisel and a small hammer and cut marks into a white marble surface, fine stone dust, warm workshop light, the marks generic and unreadable, no text or letters anywhere in the image."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "jesus-of-nazareth",
+      "person": "Jesus of Nazareth",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The carpenter's son",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X lives about 2,000 years ago.",
+            "He grows up in a small, quiet village.",
+            "His father is a carpenter, and Mr X learns to work with wood too.",
+            "As a grown man, he becomes a teacher.",
+            "He walks from village to village near a big lake.",
+            "Fishermen leave their boats to hear him.",
+            "He teaches with short stories from everyday life.",
+            "One story is about a shepherd who looks for one lost sheep.",
+            "The shepherd does not rest until he finds it.",
+            "Every person matters, the story says.",
+            "People all over the world still tell his stories today."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Buddha",
+            "Jesus",
+            "Confucius",
+            "Muhammad",
+            "Moses"
+          ],
+          "correct": "Jesus",
+          "words": [
+            {
+              "word": "carpenter",
+              "explanation": "a person who builds things from wood"
+            },
+            {
+              "word": "fisherman",
+              "explanation": "a person who catches fish"
+            },
+            {
+              "word": "shepherd",
+              "explanation": "a person who takes care of sheep"
+            }
+          ],
+          "main_image": {
+            "description": "Warm classical-style illustration: a teacher in simple robes from about 2,000 years ago sits on a stone by the shore of a calm lake with green hills behind. He is seen from behind and at a distance, so his face is not visible. The picture focuses on the small group of fishermen who sit around him and listen, on the calm lake, and on a wooden fishing boat with nets at the water's edge. Friendly daylight, peaceful mood. Production note: the teacher must be shown from behind or far away, with no clear face, because pictures of this person are sensitive for some pupils; a generic teacher only, no halo, no cross, no religious symbols; no text, names, or signs anywhere in the image.",
+            "caption": "A teacher tells stories by a big lake.",
+            "shutterstock_query": "teacher speaking to fishermen ancient lake shore classical illustration",
+            "ai_prompt": "Warm classical-style illustration: a teacher in simple first-century robes sits on a stone by the Sea of Galilee, seen from behind and at a distance so his face is not visible, the focus on a small group of fishermen listening, green hills behind, a wooden fishing boat with nets at the water's edge, soft daylight, respectful and calm, no clear face on the teacher, no halo, no cross, no religious symbols, no text."
+          },
+          "side_image": {
+            "description": "A shepherd in simple clothes from long ago carries one sheep on his shoulders; a small flock follows on a dry, hilly path. The picture explains the word 'shepherd' and the story of the lost sheep. Production note: classical, warm, and gentle; no halo, no religious symbols, no text or labels.",
+            "caption": "A shepherd finds his lost sheep and carries it home.",
+            "shutterstock_query": "shepherd carrying sheep on shoulders flock dry hills illustration",
+            "ai_prompt": "Warm classical-style illustration: a shepherd in simple ancient clothes carries a sheep on his shoulders, a small flock follows on a dry hilly path in the eastern Mediterranean, soft evening light, gentle mood, no halo, no symbols, no text."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Love your enemies too",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a teacher who lives about 2,000 years ago.",
+            "Crowds follow him from village to village and up a green hillside.",
+            "- Love your neighbor as yourself, he teaches.",
+            "And he goes further: love your enemies too, he teaches.",
+            "He also teaches forgiveness: do not pay back a bad thing with a bad thing.",
+            "Forgive - not once, but again and again, he says.",
+            "And he gives one simple rule for daily life:",
+            "- Do to other people what you want them to do to you.",
+            "People later call this the golden rule.",
+            "Easy to say, hard to do - then and now."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Moses",
+            "Buddha",
+            "Socrates",
+            "Jesus",
+            "Muhammad"
+          ],
+          "correct": "Jesus",
+          "words": [
+            {
+              "word": "neighbor",
+              "explanation": "a person who lives near you; here it means every other person"
+            },
+            {
+              "word": "enemy",
+              "explanation": "a person who is against you"
+            },
+            {
+              "word": "forgiveness",
+              "explanation": "you stop being angry with a person who did a bad thing to you"
+            },
+            {
+              "word": "golden rule",
+              "explanation": "a famous rule: treat other people as you want them to treat you; Mr X says it with a 'do', not a 'do not'"
+            }
+          ],
+          "main_image": {
+            "description": "Classical-style illustration: a teacher in simple robes stands on a green hillside above a lake and speaks to a large seated crowd - men, women, and children of all ages. The teacher is seen from behind and far away, so his face is not visible. The picture focuses on the listening crowd, the lake below, and the calm and open landscape. Spring flowers on the hill. Production note: the teacher must be shown from behind or far away, with no clear face, because pictures of this person are sensitive for some pupils; a generic teacher only, no halo, no cross, no religious symbols; no text, names, or banners anywhere in the image.",
+            "caption": "A teacher speaks to a big crowd on a green hillside.",
+            "shutterstock_query": "crowd listening to teacher green hillside ancient middle east illustration",
+            "ai_prompt": "Respectful classical-style illustration: a teacher in simple first-century robes stands on a green hillside above the Sea of Galilee, seen from behind and at a distance so his face is not visible, the focus on the large seated crowd of men, women, and children listening, spring flowers, soft light, peaceful mood, no clear face on the teacher, no halo, no cross, no religious symbols, no text."
+          },
+          "side_image": {
+            "description": "Two people stand face to face after a quarrel; one reaches out an open hand, and the other takes it. Their faces are calm and warm. The picture explains the word 'forgiveness'. Production note: simple, modern, culturally neutral clothes; no text or symbols in the image.",
+            "caption": "Forgiveness: you stop being angry.",
+            "shutterstock_query": "two people reconciliation offering hand forgiveness illustration",
+            "ai_prompt": "Simple warm illustration: two people after a quarrel, one reaches out an open hand and the other takes it, calm faces, soft colors, neutral modern clothes, hopeful mood, no text, no symbols."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "The good stranger",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a famous teacher, about 2,000 years ago.",
+            "He answers big questions with small stories, called parables.",
+            "A man asks him: who is my neighbor?",
+            "Mr X answers with a parable.",
+            "A traveler is robbed and lies hurt by the road.",
+            "Two respected men see him - and walk past.",
+            "Then a foreigner stops, a man from a group that many people look down on.",
+            "He cleans the traveler's wounds, puts him on his own donkey, and pays for his care.",
+            "- Who is the neighbor in the story? Mr X asks.",
+            "The listener must find the answer himself: the one who helps.",
+            "A rule is easy to forget, but a good story stays with you."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Jesus",
+            "Socrates",
+            "Buddha",
+            "Muhammad",
+            "Confucius"
+          ],
+          "correct": "Jesus",
+          "words": [
+            {
+              "word": "parable",
+              "explanation": "a short story with a lesson inside"
+            },
+            {
+              "word": "foreigner",
+              "explanation": "a person from another land or group"
+            },
+            {
+              "word": "wound",
+              "explanation": "a hurt place on the body"
+            },
+            {
+              "word": "look down on",
+              "explanation": "to think that a person is less important"
+            }
+          ],
+          "main_image": {
+            "description": "Classical-style illustration of the parable scene: on a dusty road between rocky hills, a man kneels beside a hurt traveler, gives him water, and wraps a clean cloth around his arm. A donkey waits nearby. Far away on the road, two figures walk on. Production note: gentle scene — no blood, no frightening details; the hurt is shown only with simple bandages; no text or signs in the image.",
+            "caption": "One man stops and helps the hurt traveler.",
+            "shutterstock_query": "good samaritan helping injured traveler road classical painting",
+            "ai_prompt": "Respectful classical-style illustration: on a dusty road between rocky hills in the ancient Middle East, a man kneels beside a hurt traveler, gives him water and wraps a cloth bandage around his arm, a donkey waits nearby, two small figures walk away in the distance, warm light, gentle mood, no blood, no text."
+          },
+          "side_image": {
+            "description": "A modern, everyday scene: on a city street, a young person helps a stranger who has fallen, picking up his dropped bags; the two look like they come from different backgrounds. The picture shows that the lesson of the parable lives today. Production note: culturally neutral, friendly; no readable text on signs, shirts, or bags.",
+            "caption": "The lesson lives today: help, even a stranger.",
+            "shutterstock_query": "person helping stranger who fell street kindness diverse illustration",
+            "ai_prompt": "Warm flat illustration: on a modern city street, a young person helps a stranger who has fallen, picking up dropped bags, the two people from visibly different backgrounds, friendly faces, soft colors, no readable text on signs, shirts, or bags, no text."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "The year on the calendar",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X lives about 2,000 years ago, in a land ruled by Rome.",
+            "He is a teacher with a small group of followers.",
+            "The Roman rulers see him as a danger, and he is put to death.",
+            "But his followers do not give up.",
+            "His followers believe that he rises from death.",
+            "This faith makes them brave, and they carry his teaching from land to land.",
+            "Today, his followers form the largest religion in the world.",
+            "Our calendar counts the years from his birth.",
+            "But the monk who works out his birth year, many centuries later, makes a small mistake.",
+            "So Mr X is probably born a few years 'before' year one!"
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Muhammad",
+            "Julius Caesar",
+            "Jesus",
+            "Buddha",
+            "Moses"
+          ],
+          "correct": "Jesus",
+          "words": [
+            {
+              "word": "follower",
+              "explanation": "a person who believes in a teacher and lives by his words"
+            },
+            {
+              "word": "faith",
+              "explanation": "a strong belief in a religion"
+            },
+            {
+              "word": "calendar",
+              "explanation": "the way we count and name days and years"
+            },
+            {
+              "word": "monk",
+              "explanation": "a man who lives a simple, religious life"
+            }
+          ],
+          "main_image": {
+            "description": "A stylized antique-looking map of the Mediterranean world with soft golden arrows: they start at the eastern shore of the sea and spread west and north around the whole sea, into Europe, North Africa, and Asia. Small simple fish symbols travel along the arrows. Production note: NO country names, city names, or any readable words on the map — only shapes, arrows, and symbols; no crosses.",
+            "caption": "From one small land, the teaching travels around a great sea.",
+            "shutterstock_query": "ancient mediterranean map spread routes arrows illustration no labels",
+            "ai_prompt": "Stylized antique-looking map of the Mediterranean world with no text or labels at all, soft golden arrows flowing from the eastern shore of the sea westward and northward around the whole Mediterranean into Europe, North Africa, and western Asia, small simple fish outline symbols along the arrows, warm educational style, no crosses, absolutely no words on the map."
+          },
+          "side_image": {
+            "description": "A simple fish outline scratched into an old stone wall, lit softly as by an oil lamp, as in an underground burial room from Roman times. A story says the early followers use this quiet sign to find each other. The picture supports the word 'follower'. Production note: only the plain fish outline — no letters inside or near the fish, no crosses, no other symbols, no readable text.",
+            "caption": "A simple fish: an old sign of the first followers.",
+            "shutterstock_query": "early christian fish symbol carved stone catacomb no letters",
+            "ai_prompt": "Photorealistic close-up: a simple fish outline scratched into an old rough stone wall in a Roman-era underground passage, warm oil-lamp light, quiet mood, only the plain fish shape, no letters, no crosses, no other symbols, no readable text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "How do we know?",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a teacher who lives about 2,000 years ago.",
+            "He writes no book himself.",
+            "So how do we know about him?",
+            "Decades after his death, his followers write four short books about his life.",
+            "The writers are believers, not neutral reporters.",
+            "Old Roman and Jewish historians also mention him, in a few short lines.",
+            "Because of this, almost all historians agree: the man is real.",
+            "He teaches, he gathers followers, and he is put to death by Roman power.",
+            "Believers say much more: for them, he is the Son of God.",
+            "History cannot prove such faith, and it cannot show it is wrong.",
+            "Historians and believers read the same old pages - with different questions."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Socrates",
+            "Confucius",
+            "Muhammad",
+            "Buddha",
+            "Jesus"
+          ],
+          "correct": "Jesus",
+          "words": [
+            {
+              "word": "decade",
+              "explanation": "a time of ten years"
+            },
+            {
+              "word": "believer",
+              "explanation": "a person who belongs to a religion"
+            },
+            {
+              "word": "neutral",
+              "explanation": "not taking any side"
+            },
+            {
+              "word": "historian",
+              "explanation": "a person who studies the past"
+            }
+          ],
+          "main_image": {
+            "description": "A scribe in simple clothes from Roman times writes with a reed pen on a papyrus sheet by the light of a small oil lamp, in a plain stone room in the eastern Mediterranean. Finished scrolls lie beside him. Production note: the writing must be decorative, generic strokes only — no real readable words or names; no religious symbols in the room.",
+            "caption": "Many years after his death, followers write his story down.",
+            "shutterstock_query": "ancient scribe writing papyrus oil lamp stone room illustration",
+            "ai_prompt": "Warm, quiet illustration: a scribe in simple first-century clothes writes with a reed pen on papyrus by the light of a small oil lamp, plain stone room in the eastern Mediterranean, finished scrolls beside him, the writing shown only as decorative unreadable strokes, no religious symbols, no readable text."
+          },
+          "side_image": {
+            "description": "A modern researcher with thin gloves studies a small, damaged papyrus fragment under glass, with a magnifying lens and soft desk light. The picture supports the word 'historian': scholars today study very old pages to learn what really happened. Production note: any letterforms on the fragment must be generic and unreadable; no names, no labels, no readable text anywhere.",
+            "caption": "A historian studies a very old page.",
+            "shutterstock_query": "researcher gloves studying ancient papyrus fragment magnifying glass",
+            "ai_prompt": "Photorealistic scene: a modern researcher with thin cotton gloves studies a small damaged papyrus fragment under glass with a magnifying lens, soft desk light, quiet library mood, the letterforms on the fragment generic and unreadable, no names, no labels, no readable text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "muhammad",
+      "person": "Muhammad",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Trader and the Quiet Cave",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X lives in Arabia, about 1,400 years ago.",
+            "His town, Mecca, is a busy trading town in the desert.",
+            "Camel caravans stop there on long journeys.",
+            "Mr X works as a trader.",
+            "People trust him with their goods and money.",
+            "He often goes to a quiet cave in the mountains to think.",
+            "Muslims believe that an angel speaks to him there.",
+            "The angel brings him messages from God, Muslims believe.",
+            "Mr X starts to teach these messages to others.",
+            "Today, almost two billion people follow his message.",
+            "They are called Muslims."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Jesus",
+            "Buddha",
+            "Muhammad",
+            "Moses",
+            "Confucius"
+          ],
+          "correct": "Muhammad",
+          "words": [
+            {
+              "word": "trader",
+              "explanation": "a person who buys and sells things"
+            },
+            {
+              "word": "caravan",
+              "explanation": "a group of people and animals that travel together"
+            },
+            {
+              "word": "cave",
+              "explanation": "a big hole in a rock or mountain"
+            },
+            {
+              "word": "angel",
+              "explanation": "a messenger from God, in many religions"
+            }
+          ],
+          "main_image": {
+            "description": "A caravan of loaded camels, with no visible leader or rider, crosses a rocky desert valley in western Arabia in warm evening light; a small old trading town of flat-roofed mud-brick houses lies in the far distance at the foot of dark mountains. Production note: the Prophet Muhammad must NEVER be depicted; there must be no people at all in this image, only loaded camels. No readable text, signs, or watermarks; no Arabic calligraphy or writing anywhere; nothing in the image may reveal the answer in text. Respectful and calm, not scary.",
+            "caption": "A camel caravan travels through the desert to a trading town.",
+            "shutterstock_query": "camel caravan rocky desert arabia distant town sunset no people",
+            "ai_prompt": "Photorealistic golden-hour scene in ancient western Arabia near Mecca: a small caravan of loaded camels seen from far away crosses a rocky desert valley, no people at all, no riders, no visible leader, a distant trading town of flat-roofed mud-brick houses at the foot of dark mountains, warm calm light, no text, no writing, no calligraphy."
+          },
+          "side_image": {
+            "description": "The dark opening of a small empty cave high in a sunlit rocky mountain (like the cave of Hira on the mountain near Mecca), seen from outside. The picture explains the word 'cave'. Production note: the cave must be empty — no people anywhere; the Prophet Muhammad must NEVER be depicted. No readable text, signs, watermarks, or Arabic calligraphy. Peaceful, not frightening.",
+            "caption": "A quiet cave high up in the mountains.",
+            "shutterstock_query": "cave opening rocky desert mountain empty",
+            "ai_prompt": "Photorealistic vertical view of a small dark cave opening high on a rocky desert mountain near Mecca, seen from outside, empty cave, no people, soft morning light, peaceful quiet mood, no text, no writing, no calligraphy."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A New Start in a New Town",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a teacher in Arabia, about 1,400 years ago.",
+            "As an adult, he begins to teach.",
+            "His message is simple and strong.",
+            "- There is only one God, he teaches.",
+            "- Care for the poor and protect orphans.",
+            "- Be fair when you buy and sell.",
+            "Rich leaders in his hometown, Mecca, do not like this message.",
+            "They make life hard for him and his followers.",
+            "So he moves to another town, Medina.",
+            "There, his followers become a strong community: the umma.",
+            "This new start is so important that the Muslim calendar begins in that year."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Muhammad",
+            "Moses",
+            "Jesus",
+            "Buddha",
+            "Gandhi"
+          ],
+          "correct": "Muhammad",
+          "words": [
+            {
+              "word": "orphan",
+              "explanation": "a child whose mother and father are dead"
+            },
+            {
+              "word": "follower",
+              "explanation": "a person who believes in a teacher and follows him"
+            },
+            {
+              "word": "community",
+              "explanation": "a group of people who live together and help each other"
+            },
+            {
+              "word": "umma",
+              "explanation": "an Arabic word for the community of all Muslims"
+            }
+          ],
+          "main_image": {
+            "description": "Warm illustration of an early oasis town in Arabia: date palms, simple mud-brick houses, and a shaded courtyard where ordinary townspeople share bread and dates with poorer neighbors and children. Production note: the Prophet Muhammad must NEVER be depicted — no central teacher or leader figure; only generic townspeople, and no one may be interpretable as him. No readable text, signs, or watermarks; no Arabic calligraphy or writing anywhere; nothing in the image may reveal the answer in text. Friendly, respectful, not scary.",
+            "caption": "In a town with palm trees, people share food and help each other.",
+            "shutterstock_query": "oasis town date palms people sharing food illustration",
+            "ai_prompt": "Warm storybook illustration of an early oasis town in Arabia, like early Medina: date palms, simple mud-brick houses, ordinary townspeople sharing bread and dates with poorer neighbors and children in a shaded courtyard, no central figure, no one shown as a prophet or leader, soft warm colors, friendly calm mood, no text, no writing, no calligraphy."
+          },
+          "side_image": {
+            "description": "Illustration that explains the word 'community': people of different ages sit in one even circle under date palms and share a simple meal; everyone in the circle is equal. Production note: the Prophet Muhammad must NEVER be depicted — no central, raised, or leader figure; only generic people, none interpretable as him. No readable text, signs, watermarks, or Arabic calligraphy. Warm and respectful.",
+            "caption": "A community: people help each other like one big family.",
+            "shutterstock_query": "people circle sharing meal palm trees community illustration",
+            "ai_prompt": "Flat warm vertical illustration: people of different ages sit in one even circle under date palms and share a simple meal of bread and dates, no person in the middle, no leader figure, everyone equal, soft colors, friendly mood, no text, no writing, no calligraphy."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "A Book to Learn by Heart",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X lives in Arabia, about 1,400 years ago.",
+            "He brings his people a message in Arabic, in beautiful and powerful language.",
+            "Muslims believe that the words come from God.",
+            "Mr X speaks the words out loud to the people.",
+            "His followers learn them by heart.",
+            "They recite them: they say them from memory, again and again.",
+            "These words become the Quran, the holy book of Islam.",
+            "The name Quran means \"the recitation\".",
+            "After the death of Mr X, his followers collect all the words in one book.",
+            "Today, Muslims all over the world read it in Arabic.",
+            "Many learn the whole book by heart."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Martin Luther",
+            "Jesus",
+            "Confucius",
+            "Muhammad",
+            "Buddha"
+          ],
+          "correct": "Muhammad",
+          "words": [
+            {
+              "word": "recite",
+              "explanation": "to say a text out loud from memory"
+            },
+            {
+              "word": "by heart",
+              "explanation": "from memory, without reading"
+            },
+            {
+              "word": "holy",
+              "explanation": "very special and important in a religion"
+            },
+            {
+              "word": "Arabic",
+              "explanation": "the language of Arabia, spoken in many countries today"
+            }
+          ],
+          "main_image": {
+            "description": "Quiet still life: a large closed old book with a plain leather cover, decorated only with a simple geometric star pattern, rests on a carved wooden book stand; a small oil lamp burns beside it in a dark room. Production note: the book must be closed — no visible script or letters; no Arabic calligraphy and no AI-generated imitation Arabic anywhere (geometric patterns only); the Prophet Muhammad must NEVER be depicted. No readable text, signs, or watermarks; nothing in the image may reveal the answer in text. Calm and respectful.",
+            "caption": "An old book on a wooden stand. Many people know every word by heart.",
+            "shutterstock_query": "closed old leather book wooden stand oil lamp",
+            "ai_prompt": "Photorealistic still life: a large closed antique book with a plain dark leather cover decorated only with a simple embossed geometric star pattern, resting on a carved wooden folding book stand, a small glowing oil lamp beside it, dark quiet room, warm light, respectful mood, no visible letters or script, no calligraphy, no text."
+          },
+          "side_image": {
+            "description": "A group of children sits in a circle in a bright modern courtyard and speaks together from memory — some with eyes closed, no open books. The picture explains the word 'recite'. Production note: modern-day generic scene; the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him; no adult teacher in focus. No readable text, posters, signs, watermarks, or Arabic calligraphy.",
+            "caption": "The children say the words from memory. They recite.",
+            "shutterstock_query": "children reciting from memory circle courtyard",
+            "ai_prompt": "Warm vertical illustration: children of different backgrounds sit in a circle in a sunny modern courtyard and recite together from memory, some with eyes closed, no open books, no adult in focus, friendly calm mood, no text, no writing, no calligraphy."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "From the Desert to a World of Knowledge",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a teacher in Arabia, about 1,400 years ago.",
+            "His message unites many desert tribes into one community.",
+            "After his death, this message travels far and fast.",
+            "Within one century, it reaches from Spain in the west to the river Indus in the east.",
+            "In this big new world, trade and learning grow.",
+            "Scholars translate old books from Greek, Persian, and Indian thinkers.",
+            "In the city of Baghdad, a famous library is called the House of Wisdom.",
+            "Scholars there work on algebra, astronomy, and medicine.",
+            "The word \"algebra\" comes from Arabic.",
+            "Even our numbers, 1, 2, 3, come to Europe through this world.",
+            "A message in the desert opens a new world of knowledge."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Alexander the Great",
+            "Muhammad",
+            "Genghis Khan",
+            "Jesus",
+            "Buddha"
+          ],
+          "correct": "Muhammad",
+          "words": [
+            {
+              "word": "tribe",
+              "explanation": "a big group of families with one leader"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows very much"
+            },
+            {
+              "word": "algebra",
+              "explanation": "a part of mathematics; it uses letters for unknown numbers"
+            },
+            {
+              "word": "astronomy",
+              "explanation": "the study of stars and planets"
+            }
+          ],
+          "main_image": {
+            "description": "Rich warm illustration of a medieval hall of learning in Baghdad: scholars in varied medieval Middle Eastern robes study with a brass astrolabe and a celestial globe (a globe of the stars, not a modern Earth globe), others talk and write at low desks; arched hall decorated only with geometric tile patterns. Production note: these are later scholars, centuries after Mr X — even so, the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him. All book pages must be blank or turned away — no readable writing; no Arabic calligraphy or AI-generated imitation script (geometric patterns only); no readable text, signs, or watermarks; nothing in the image may reveal the answer in text. Calm and respectful.",
+            "caption": "Scholars study the stars and write new books in a great library.",
+            "shutterstock_query": "islamic golden age scholars library astrolabe illustration",
+            "ai_prompt": "Detailed warm illustration of a medieval Baghdad hall of learning, the House of Wisdom: scholars in varied medieval Middle Eastern robes and turbans study with a brass astrolabe, a celestial globe (a globe of the stars, not a modern Earth globe), and stacks of books, arched hall decorated only with geometric tile patterns, soft daylight and candle light, calm scholarly mood, all book pages blank or turned away, no readable writing, no calligraphy, no text."
+          },
+          "side_image": {
+            "description": "Close-up of an antique brass astrolabe held up against a starry night sky over a dark desert horizon. The picture explains the word 'astronomy'. Production note: any engraving on the astrolabe must be blurred, generic, and unreadable — no real letters, numbers, or calligraphy; the Prophet Muhammad must NEVER be depicted — no people, or at most one anonymous hand holding the instrument. No readable text, signs, or watermarks.",
+            "caption": "An old tool for measuring the stars. The study of stars is astronomy.",
+            "shutterstock_query": "brass astrolabe night sky stars close up",
+            "ai_prompt": "Photorealistic vertical close-up: a hand holds an antique brass astrolabe up against a deep blue starry night sky over a dark desert horizon, soft moonlight reflections on the metal, all engravings blurred and unreadable, no letters, no numbers, no calligraphy, no text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "How Do Historians Know?",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X lives in Arabia, about 1,400 years ago.",
+            "How do historians know about his life?",
+            "The oldest source is the Quran, the holy book of Islam.",
+            "But it says little about the events of his life.",
+            "Stories about his words and actions are called hadith.",
+            "For generations, people pass these stories on, from teacher to student.",
+            "Only later do scholars write them down in big collections.",
+            "Muslim scholars check every story: who tells it, and who heard it from whom?",
+            "Modern historians ask the same kind of questions about all old sources.",
+            "Some pages of the Quran that still exist today are very, very old."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Socrates",
+            "Jesus",
+            "Confucius",
+            "Buddha",
+            "Muhammad"
+          ],
+          "correct": "Muhammad",
+          "words": [
+            {
+              "word": "source",
+              "explanation": "a text or thing from the past that gives us knowledge"
+            },
+            {
+              "word": "hadith",
+              "explanation": "a story about the words or actions of Mr X"
+            },
+            {
+              "word": "generation",
+              "explanation": "parents are one generation; their children are the next"
+            },
+            {
+              "word": "collection",
+              "explanation": "many things gathered together in one book or place"
+            }
+          ],
+          "main_image": {
+            "description": "A conservator with white gloves carefully studies very old, worn manuscript pages in a modern archive, with a magnifying glass and soft lamp light; the pages are angled away from the camera. Production note: no writing on the pages may be readable or reproducible — choose an angle, distance, or soft blur so no script can be seen clearly; never AI-generate imitation Arabic script; the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him. No readable text, labels, signs, or watermarks; nothing in the image may reveal the answer in text. Quiet and respectful.",
+            "caption": "A researcher studies very old pages with great care.",
+            "shutterstock_query": "conservator white gloves ancient manuscript archive",
+            "ai_prompt": "Photorealistic scene in a modern archive: a conservator in white gloves leans over very old, worn parchment pages on a table, magnifying glass in hand, soft warm lamp light, the pages angled away from the camera and softly out of focus so no writing is visible, quiet focused mood, no readable script, no calligraphy, no text."
+          },
+          "side_image": {
+            "description": "Simple vertical illustration in three stacked scenes that explains how stories pass on before they are written down: an elderly woman storyteller speaks to a listener; that listener, now older, tells a young person; the young person, now grown, writes in a book with blank pages. Timeless generic clothing. Production note: all figures are generic storytellers, and the first storyteller is an elderly woman so that no one can read her as the Prophet — the Prophet Muhammad must NEVER be depicted, and no figure may be interpretable as him; the book pages must be blank or unreadable. No readable text, signs, watermarks, or Arabic calligraphy; no text in any speech bubbles.",
+            "caption": "First people tell the story. Much later, someone writes it down.",
+            "shutterstock_query": "oral tradition storytelling generations illustration",
+            "ai_prompt": "Flat vertical educational illustration in three stacked scenes: an elderly woman storyteller speaks to an adult listener; that listener, now older, tells a young person; the young person, now grown, writes in a large book with blank pages, simple timeless clothing, warm colors, calm mood, no speech-bubble text, no readable writing, no calligraphy, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "byzantine-empire",
+      "person": "The Byzantine Empire",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The city between two seas",
+          "category": "middle ages",
+          "text_sentences": [
+            "Empire X is a Christian empire with a capital city between two seas.",
+            "The city sits where Europe meets Asia.",
+            "Water protects it on two sides.",
+            "On the land side, the people build two strong walls, one behind the other.",
+            "For many centuries, no enemy army can break through these land walls.",
+            "Ships from many lands fill the city's great harbor.",
+            "Traders bring silk from the east and furs from the north.",
+            "Trade roads from Asia and Europe meet in this city.",
+            "Inside the walls, churches shine with pictures made of small golden stones.",
+            "People call these pictures mosaics.",
+            "Travelers say: no city on earth is richer."
+          ],
+          "question": "Which empire is this?",
+          "options": [
+            "Egypt",
+            "Rome",
+            "The Byzantine Empire",
+            "Persia",
+            "The Ottoman Empire"
+          ],
+          "correct": "The Byzantine Empire",
+          "words": [
+            {
+              "word": "capital",
+              "explanation": "the main city of a land, where the ruler lives"
+            },
+            {
+              "word": "harbor",
+              "explanation": "a safe place by the water where ships can stop"
+            },
+            {
+              "word": "silk",
+              "explanation": "a fine, soft cloth that costs very much, first made in China"
+            },
+            {
+              "word": "mosaic",
+              "explanation": "a picture made of many small colored stones"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of the great late-antique land walls of Istanbul (the Theodosian walls): massive grey stone walls with square towers and thin red brick bands, two lines of wall one behind the other, grass in front, warm light. Production note: choose a stretch with no readable signs, information boards, flags, or graffiti; no modern billboards; the city name must not appear in any student-visible text or alt-text — the search query is internal use only.",
+            "caption": "Strong walls protect the city on the land side.",
+            "shutterstock_query": "Theodosian walls Istanbul ancient city walls towers",
+            "ai_prompt": "Massive ancient double city walls of grey stone with thin red brick bands and square towers, one wall line behind the other, green grass in front, warm afternoon light, photorealistic, no people, no flags, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "Extreme close-up photo of a golden mosaic surface: thousands of small square golden and colored glass stones set at slightly different angles, catching the light. Explains the word 'mosaic'. Production note: choose a detail of pattern, background, or clothing only — no letters, no inscriptions, no faces; many church mosaics carry readable letters, so crop carefully or use the AI image.",
+            "caption": "Many small golden stones make one big picture. This is a mosaic.",
+            "shutterstock_query": "Byzantine gold mosaic close up tesserae",
+            "ai_prompt": "Extreme close-up of a glittering gold mosaic: thousands of tiny square golden and colored glass stones set at slightly different angles, catching warm light, photorealistic, shallow depth of field, no letters, no readable text."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The dome that seems to float",
+          "category": "middle ages",
+          "text_sentences": [
+            "Empire X is a Christian empire in the east.",
+            "In its capital stands a very famous building.",
+            "The emperor wants a church greater than any other church.",
+            "Workers finish it in only five years, about 1,500 years ago.",
+            "Its giant dome seems to float in the air.",
+            "Light falls in through a ring of windows under the dome.",
+            "An old story says the emperor cries out: I have built something greater than the greatest temple!",
+            "For about 900 years, the building is a church.",
+            "Then new rulers take the city, and the church becomes a mosque.",
+            "Much later it becomes a museum, and today it is a mosque again.",
+            "One building tells the long story of its city."
+          ],
+          "question": "Which empire is this?",
+          "options": [
+            "The Byzantine Empire",
+            "Greece",
+            "The Ottoman Empire",
+            "Egypt",
+            "Persia"
+          ],
+          "correct": "The Byzantine Empire",
+          "words": [
+            {
+              "word": "dome",
+              "explanation": "a round roof, like the top half of a ball"
+            },
+            {
+              "word": "emperor",
+              "explanation": "the ruler of an empire"
+            },
+            {
+              "word": "mosque",
+              "explanation": "a building where Muslims pray"
+            },
+            {
+              "word": "museum",
+              "explanation": "a building where people can look at old and important things"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of Hagia Sophia in Istanbul from outside: the huge central dome, the half-domes, and the warm red-pink walls, seen from a park or across water. Production note: no readable signs, banners, flags, or tourist boards anywhere in the frame; no text on or near the minarets; the building's name and city must not appear in any student-visible text or alt-text — the search query is internal use only. The minarets are later additions and may be visible, since the card text tells that the building later becomes a mosque.",
+            "caption": "This famous building is about 1,500 years old.",
+            "shutterstock_query": "Hagia Sophia exterior dome Istanbul clear sky",
+            "ai_prompt": "A vast late-antique domed church with a huge central dome, half-domes, and warm red-pink stone walls, seen from a green park under a clear sky, majestic and calm, photorealistic, no flags, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "Photo of the interior of Hagia Sophia, looking up into the great dome: the ring of small arched windows at its base, golden light streaming in. Explains the word 'dome'. Production note: the interior holds large round boards with calligraphy — readable text — so crop tightly on the dome itself and avoid all calligraphy and inscriptions; if a clean crop is not possible, use the AI image.",
+            "caption": "Light falls in under the great dome. The dome seems to float.",
+            "shutterstock_query": "Hagia Sophia dome interior windows light",
+            "ai_prompt": "Interior view looking straight up into a vast Byzantine church dome with a ring of small arched windows at its base, golden light streaming in, soft haze, photorealistic, majestic and peaceful, no people, no calligraphy, no readable text."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "A thousand years of laws",
+          "category": "middle ages",
+          "text_sentences": [
+            "About 1,500 years ago, an emperor rules Empire X from a rich city in the east.",
+            "His empire still uses the laws of old Rome.",
+            "But after a thousand years, the laws are a mess.",
+            "There are too many laws, and some laws say opposite things.",
+            "So the emperor calls a team of law experts.",
+            "Their job: read everything, and sort the good rules into clear books.",
+            "The team also writes a small first book for new law students.",
+            "Empires end, but these law books survive.",
+            "Many centuries later, law schools in Europe study them again.",
+            "Today, the laws of many countries still stand on this old foundation.",
+            "Good laws can live longer than the lands that write them."
+          ],
+          "question": "Which empire is this?",
+          "options": [
+            "Persia",
+            "Rome",
+            "Egypt",
+            "The Byzantine Empire",
+            "China"
+          ],
+          "correct": "The Byzantine Empire",
+          "words": [
+            {
+              "word": "mess",
+              "explanation": "many things mixed up, without order"
+            },
+            {
+              "word": "expert",
+              "explanation": "a person who knows very much about one thing"
+            },
+            {
+              "word": "opposite",
+              "explanation": "totally different; the other way around"
+            },
+            {
+              "word": "foundation",
+              "explanation": "the strong part under a building; here: the base that something stands on"
+            }
+          ],
+          "main_image": {
+            "description": "Dignified illustration: in a grand palace hall, a team of scholars in simple late-antique robes sorts large piles of scrolls and bound books into neat, ordered stacks on long wooden tables; an emperor in a purple cloak watches calmly. Production note: no readable text or letters on any scroll, book, or wall; generic late-antique dress; calm working mood, no soldiers, no weapons.",
+            "caption": "The emperor's team sorts a thousand years of laws.",
+            "shutterstock_query": "ancient scholars sorting scrolls palace library illustration",
+            "ai_prompt": "Dignified illustration: a team of scholars in simple late-antique robes sorting large piles of scrolls and bound books into neat stacks on long wooden tables in a grand palace hall, an emperor in a purple cloak watching calmly, warm light, serious and orderly mood, no readable text, no letters."
+          },
+          "side_image": {
+            "description": "Photo of a row of thick, elegant law books with plain leather spines on a wooden library shelf. Supports the key idea that laws today stand on an old foundation. Production note: all spines and covers must be blank or unreadable — choose the angle or depth of field so that no titles, names, or numbers can be read.",
+            "caption": "Law books today stand on very old ground.",
+            "shutterstock_query": "old law books leather spines library shelf",
+            "ai_prompt": "A row of thick elegant books with plain leather spines on a wooden library shelf, warm quiet light, shallow depth of field, photorealistic, no readable titles, no text."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "A bridge of books",
+          "category": "middle ages",
+          "text_sentences": [
+            "The people of Empire X speak Greek, and they guard the old books of Greece.",
+            "For about a thousand years, scribes copy these books by hand, page by page.",
+            "Plays, poems, science, and philosophy survive this way.",
+            "The empire also argues about holy pictures.",
+            "For a time, the emperors even forbid them.",
+            "Later, the pictures come back.",
+            "About 600 years ago, an army from a new empire takes the capital.",
+            "Many scholars flee west, to Italy.",
+            "In their bags are old Greek books.",
+            "In Italy, people are hungry for old knowledge.",
+            "The old books feed this new age of art and learning: the Renaissance."
+          ],
+          "question": "Which empire is this?",
+          "options": [
+            "Rome",
+            "The Byzantine Empire",
+            "The Ottoman Empire",
+            "Persia",
+            "China"
+          ],
+          "correct": "The Byzantine Empire",
+          "words": [
+            {
+              "word": "scribe",
+              "explanation": "a person whose work is to copy books by hand"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows very much"
+            },
+            {
+              "word": "philosophy",
+              "explanation": "thinking hard about life, truth, and right and wrong"
+            },
+            {
+              "word": "Renaissance",
+              "explanation": "a time in Europe when art and learning grow fast; the word means 'rebirth'"
+            }
+          ],
+          "main_image": {
+            "description": "Warm illustration of a scriptorium: monks or scribes in simple dark robes sit at wooden desks in a stone room and carefully copy open handwritten books by candle and window light; shelves with bound manuscripts behind them. Production note: the writing on all pages must be faint, generic, and unreadable — no real letters in any alphabet; quiet and focused mood.",
+            "caption": "Scribes copy the old books by hand, page by page.",
+            "shutterstock_query": "medieval scribe copying manuscript candlelight illustration",
+            "ai_prompt": "Warm illustration of scribes in simple dark robes at wooden desks in a stone scriptorium, carefully copying open handwritten books by candle and window light, shelves of bound manuscripts behind them, quiet focused mood, the writing only faint unreadable lines, no real letters, no readable text."
+          },
+          "side_image": {
+            "description": "Gentle historical illustration: a scholar in a long dark robe carries a wooden chest and an armful of bound books up a plank onto a wooden sailing ship in a calm harbor at dusk; a few other travelers with bundles behind him. Supports the key idea that scholars carry the old books west. Production note: hopeful, not frightening — no fire, no smoke, no burning city, no violence; no readable text anywhere.",
+            "caption": "The scholars sail west. The old books travel with them.",
+            "shutterstock_query": "scholar carrying books boarding ship harbor historical illustration",
+            "ai_prompt": "Gentle historical illustration: a scholar in a long dark robe carrying a wooden chest and an armful of bound books up a plank onto a wooden sailing ship in a calm harbor at dusk, a few travelers with bundles behind him, thoughtful and hopeful mood, no fire, no violence, no readable text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Who names the past?",
+          "category": "middle ages",
+          "text_sentences": [
+            "Here is a strange fact: Empire X never hears its own modern name.",
+            "Its people call themselves Romans, in the Greek language.",
+            "Their neighbors in the west call them Greeks.",
+            "The empire lives long, but one day it falls.",
+            "About a hundred years later, a scholar in the west prints a book about its history.",
+            "He needs a name, so he uses the capital's very old Greek name.",
+            "His new name wins: today, history books all over the world use it.",
+            "Why not simply say Romans?",
+            "In the west, kings and popes keep that name for themselves.",
+            "Names in history are not neutral: someone chooses them, later, and for a reason.",
+            "So ask: who names the past?"
+          ],
+          "question": "Which empire is this?",
+          "options": [
+            "The Ottoman Empire",
+            "Persia",
+            "Egypt",
+            "China",
+            "The Byzantine Empire"
+          ],
+          "correct": "The Byzantine Empire",
+          "words": [
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows very much"
+            },
+            {
+              "word": "print",
+              "explanation": "to make many copies of a book with a machine"
+            },
+            {
+              "word": "neutral",
+              "explanation": "not taking any side"
+            }
+          ],
+          "main_image": {
+            "description": "Atmospheric illustration of a sixteenth-century scholar in a fur-trimmed coat at a wooden desk in a candle-lit study: an open printed book before him, quill in hand, shelves of books behind him. Shows the key idea that the empire gets its name long after its end. Production note: all pages, covers, and spines must be blank or unreadable — no letters, no names; nothing in the image may show the empire's name.",
+            "caption": "Long after the empire ends, a scholar gives it a new name.",
+            "shutterstock_query": "renaissance scholar study desk candlelight books illustration",
+            "ai_prompt": "Atmospheric illustration of a sixteenth-century scholar in a fur-trimmed coat sitting at a wooden desk in a candle-lit study, an open printed book before him, quill in hand, shelves of books behind, thoughtful quiet mood, all pages and book spines blank or unreadable, no letters, no readable text."
+          },
+          "side_image": {
+            "description": "Simple antique-style map of the eastern Mediterranean world in parchment tones: the lands around the Aegean Sea and Asia Minor shaded in one soft color, with a small golden dot at the strait between the Black Sea and the Mediterranean. Supports the clue about the capital and its very old Greek name. Production note: completely without place names or letters of any kind; this exact map will not exist as a stock photo — produce it with the AI prompt or an in-house illustrator; the stock query is a style reference only.",
+            "caption": "The empire lies in the east, around one great city between two seas.",
+            "shutterstock_query": "antique parchment style map eastern mediterranean no labels",
+            "ai_prompt": "Clean antique-style map of the eastern Mediterranean, the Balkans, and Asia Minor in warm parchment tones, the lands around the Aegean Sea shaded in one soft color, a small golden dot at the strait between the Black Sea and the Mediterranean, completely without place names, no letters, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "vikings",
+      "person": "The Vikings",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Ships for sea and river",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X people live in the cold north of Europe, about 1,000 years ago.",
+            "Most of them are farmers and fishers.",
+            "But they are also great sailors.",
+            "They build long, fast ships of wood.",
+            "The bottom of the ship is almost flat.",
+            "So the ship can cross the deep sea, and it can also sail up shallow rivers.",
+            "The sailors can even pull the ship up on a beach.",
+            "With these ships, the X people travel very far.",
+            "Some travel to trade, and some travel to rob other lands.",
+            "Today, you can see some of their real ships in museums."
+          ],
+          "question": "Who are the X people?",
+          "options": [
+            "The Romans",
+            "The Vikings",
+            "The Phoenicians",
+            "The Greeks",
+            "The Egyptians"
+          ],
+          "correct": "The Vikings",
+          "words": [
+            {
+              "word": "sailor",
+              "explanation": "a person who travels and works on a ship"
+            },
+            {
+              "word": "shallow",
+              "explanation": "not deep"
+            },
+            {
+              "word": "trade",
+              "explanation": "to buy and sell things"
+            },
+            {
+              "word": "rob",
+              "explanation": "to take things from people with force"
+            }
+          ],
+          "main_image": {
+            "description": "A long, low wooden ship with one big square sail on the open sea. The ship has overlapping planks and a high, curved front. A small crew in simple wool clothes works with the sail and the oars. Adventurous but calm mood. Production note: absolutely no horned helmets anywhere in the image; no weapons on display, no battle; no readable text, letters, or flags with signs; nothing in the image may name the people. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "A long, fast ship with one big sail.",
+            "shutterstock_query": "viking longship replica sailing open sea square sail",
+            "ai_prompt": "A long, low Viking-age wooden longship with overlapping planks, a single large square woolen sail and a high curved prow, sailing on the open sea, small crew in simple wool clothing, fresh wind and dramatic sky, photorealistic, no horned helmets, no weapons, no text, no readable letters."
+          },
+          "side_image": {
+            "description": "The same type of long wooden ship in knee-deep water at a sandy river bank; a few sailors stand in the water and pull the ship toward land with ropes. The picture shows the flat bottom idea and explains the word 'shallow'. Production note: no horned helmets; no weapons; no readable text; calm, friendly scene. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "The water is shallow here. The ship can still go on.",
+            "shutterstock_query": "viking ship replica shallow water beach crew pulling",
+            "ai_prompt": "A Viking-age wooden longship with a shallow flat bottom lying in knee-deep clear water at a sandy river bank, a few sailors in simple wool clothes pulling it toward land with ropes, green forest behind, warm daylight, photorealistic, no horned helmets, no weapons, no text."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "East to the big city",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X people live in the north of Europe, about 1,000 years ago.",
+            "Many of them are traders.",
+            "They sail east over the sea, and then they row up the big rivers.",
+            "Between two rivers, they sometimes carry their boats over land.",
+            "The rivers lead them south to Constantinople, a very rich city.",
+            "In their own language, they call it Miklagard - 'the big city'.",
+            "There they sell furs from their forests and amber from their sea.",
+            "They travel home with fine cloth and bright silver coins.",
+            "Archaeologists still find many old silver coins in the ground in the north.",
+            "Other traders from the same people sail west, to Ireland.",
+            "Their trade routes go from Ireland in the west to Constantinople in the east."
+          ],
+          "question": "Who are the X people?",
+          "options": [
+            "The Phoenicians",
+            "The Greeks",
+            "The Mongols",
+            "The Vikings",
+            "The Romans"
+          ],
+          "correct": "The Vikings",
+          "words": [
+            {
+              "word": "trader",
+              "explanation": "a person who buys and sells things"
+            },
+            {
+              "word": "fur",
+              "explanation": "the warm, hairy skin of an animal"
+            },
+            {
+              "word": "amber",
+              "explanation": "a hard, gold-colored material from old tree sap; people make beads and jewelry from it"
+            },
+            {
+              "word": "archaeologist",
+              "explanation": "a person who digs in the ground to learn about the past"
+            }
+          ],
+          "main_image": {
+            "description": "Warm educational illustration: traders row a long, open wooden boat loaded with barrels and bundles of fur along a broad, calm river between green forested banks. Peaceful trading mood, not war. Production note: no horned helmets; no weapons on display; no readable text or labels on sacks, barrels, or sails; nothing in the image may name the people. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "The traders travel on the big rivers with their goods.",
+            "shutterstock_query": "viking traders river boat cargo illustration",
+            "ai_prompt": "Warm educational illustration: Viking-age traders rowing a long open wooden boat loaded with barrels and bundles of fur along a broad calm river, green forested banks, morning light, peaceful mood, children's book style, no horned helmets, no weapons, no text, no readable labels."
+          },
+          "side_image": {
+            "description": "Close-up still life: rough pieces of raw, gold-colored amber and a string of polished amber beads on rough cloth or old wood, warm light glowing through the amber. The picture explains the word 'amber'. Production note: no text, no labels, no packaging.",
+            "caption": "Amber from the northern sea. People love its warm gold color.",
+            "shutterstock_query": "raw baltic amber pieces beads natural closeup",
+            "ai_prompt": "Photorealistic close-up still life: rough pieces of raw Baltic amber and a string of polished amber beads on rough linen cloth, warm light glowing through the amber, quiet mood, no text, no labels."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "Land in the west",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X people are sailors from the north of Europe.",
+            "They sail west over the open ocean in wooden ships.",
+            "They have no compass and no sea maps.",
+            "They read the sun, the stars, the birds, and the waves.",
+            "First, they settle on Iceland, an island with volcanoes and hot springs.",
+            "Later, some sail on to Greenland and build farms there.",
+            "Old stories tell of one more land in the west, with wild grapes.",
+            "The stories call it Vinland.",
+            "For a long time, people think Vinland is only a story.",
+            "Then archaeologists find remains of their houses in Canada.",
+            "People already live in this land, and the old stories tell of meetings with them.",
+            "So these sailors reach America about 500 years before Columbus."
+          ],
+          "question": "Who are the X people?",
+          "options": [
+            "The Vikings",
+            "The Phoenicians",
+            "The Greeks",
+            "The Maya",
+            "The Romans"
+          ],
+          "correct": "The Vikings",
+          "words": [
+            {
+              "word": "compass",
+              "explanation": "a tool that always shows you which way is north"
+            },
+            {
+              "word": "settle",
+              "explanation": "to move to a new place and make your home there"
+            },
+            {
+              "word": "hot spring",
+              "explanation": "a place where hot water comes up out of the ground"
+            },
+            {
+              "word": "remains",
+              "explanation": "the parts of something old that are still there"
+            }
+          ],
+          "main_image": {
+            "description": "A single wooden sailing ship with a square sail, small on a vast open ocean under a wide sky; seabirds fly above, and a sailor at the steering oar looks toward the horizon. The feeling of a long, brave journey. Production note: no horned helmets; no weapons; no land signs or readable text; hopeful, not frightening. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "No compass, no map - only the sun, the stars, and the birds.",
+            "shutterstock_query": "viking ship open ocean square sail seabirds",
+            "ai_prompt": "A single Viking-age wooden ship with a square sail, small on a vast open ocean under a wide dramatic sky, seabirds flying above, a sailor at the steering oar looking toward the horizon, sense of a long brave journey, photorealistic, no horned helmets, no weapons, no text."
+          },
+          "side_image": {
+            "description": "Reconstructed low houses with grass-covered walls and roofs on a green coastal meadow near the sea, like the rebuilt houses at L'Anse aux Meadows in Canada. The picture explains the word 'settle': homes in a new land. Production note: no information boards, signs, flags, or readable text; no people in modern clothes. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "Houses of earth and grass, in a new land far over the sea.",
+            "shutterstock_query": "L'Anse aux Meadows reconstructed norse turf houses",
+            "ai_prompt": "Photorealistic view of reconstructed Viking-age turf houses with grass-covered roofs and walls on a green coastal meadow near the sea, soft cloudy northern light, quiet mood, no people, no signs, no readable text."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "Stones that remember",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X people live on farms in the north of Europe, about 1,000 years ago.",
+            "They grow food, keep cows and sheep, fish, and make wool cloth.",
+            "They also have their own letters, called runes.",
+            "Runes have straight lines, so a knife can cut them into wood, bone, and stone.",
+            "When a loved person dies, the family can raise a big stone with runes on it.",
+            "The stone tells the person's name and good deeds.",
+            "Many of these memory stones still stand today.",
+            "A woman in this society can have real power: she can own a farm, and she can inherit land.",
+            "When the men sail away on long journeys, women often lead the farm at home."
+          ],
+          "question": "Who are the X people?",
+          "options": [
+            "The Phoenicians",
+            "The Egyptians",
+            "The Maya",
+            "The Mongols",
+            "The Vikings"
+          ],
+          "correct": "The Vikings",
+          "words": [
+            {
+              "word": "runes",
+              "explanation": "old letters made of straight lines"
+            },
+            {
+              "word": "deed",
+              "explanation": "a thing that a person does"
+            },
+            {
+              "word": "society",
+              "explanation": "all the people who live together in a country or group"
+            },
+            {
+              "word": "inherit",
+              "explanation": "to get land, money, or things from a family member who dies"
+            }
+          ],
+          "main_image": {
+            "description": "A tall, gray memory stone standing in a green meadow, carved with a winding decorative band filled with rune-like marks. Production note: the runes in the image must be decorative and unreadable - they must not form real readable words or names in any language; for a stock photo, choose a worn stone or a crop where the inscription cannot be read as words; no horned helmets, no signs, no plaques, no modern objects.",
+            "caption": "A memory stone. The family raises it for a dead loved one.",
+            "shutterstock_query": "runestone green field ancient carved stone scandinavia",
+            "ai_prompt": "A tall gray runestone standing in a green meadow with small flowers, carved with a winding decorative snake-band filled with rune-like marks that form no real words, soft evening light, photorealistic, no readable words, no names, no signs, no text."
+          },
+          "side_image": {
+            "description": "Warm illustration of a farm in the north of Europe about 1,000 years ago: a long wooden house with a grass roof; in front, a woman in a simple wool dress with a ring of iron keys at her belt leads the work; other people carry hay, sheep and hens in the yard. The picture supports the key idea: women lead the farm. Production note: no horned helmets; no weapons; no readable text; respectful everyday scene. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "She has the keys. She leads the farm when the men are away.",
+            "shutterstock_query": "viking age farm woman longhouse daily life illustration",
+            "ai_prompt": "Warm educational illustration of a Viking-age farm: a wooden longhouse with a grass roof, a confident woman in a simple wool dress with iron keys hanging at her belt directing the farm work, people carrying hay, sheep and hens in the yard, green hills behind, friendly daylight, no horned helmets, no weapons, no text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Who writes their story?",
+          "category": "middle ages",
+          "text_sentences": [
+            "About 1,000 years ago, ships from the north of Europe land in many countries.",
+            "Some of the X people on the ships rob churches and towns.",
+            "The monks in the churches can write, and they write about the attacks.",
+            "The X people themselves write only short texts.",
+            "Their own long stories are written down only hundreds of years later.",
+            "So most old books about them come from their victims.",
+            "Of course, these books show them as wild and cruel.",
+            "Much later, artists add new details to the picture.",
+            "About 150 years ago, a costume designer draws horned helmets for an opera.",
+            "Archaeologists never find one horned helmet from the real X people.",
+            "But films and cartoons still show the horned helmets today.",
+            "So when you read history, always ask: who writes this, and why?"
+          ],
+          "question": "Who are the X people?",
+          "options": [
+            "The Mongols",
+            "The Romans",
+            "The Vikings",
+            "The Ottomans",
+            "The Greeks"
+          ],
+          "correct": "The Vikings",
+          "words": [
+            {
+              "word": "monk",
+              "explanation": "a religious man who lives simply and prays; many monks can write"
+            },
+            {
+              "word": "victim",
+              "explanation": "a person that something bad happens to"
+            },
+            {
+              "word": "cruel",
+              "explanation": "very unkind; a cruel person hurts others"
+            },
+            {
+              "word": "costume designer",
+              "explanation": "a person who makes the clothes for a play or a film"
+            }
+          ],
+          "main_image": {
+            "description": "Close-up of a monk's hand as he writes with a feather pen on the open page of a large book by candlelight; only the hand, the feather pen, and the page fill the picture. The picture shows who writes the old texts. Calm, thoughtful mood, not frightening. Production note: the writing on the page must be blurred or unreadable and must not name any people; no horned helmets anywhere; no readable text.",
+            "caption": "A monk writes the story. But is his story the whole truth?",
+            "shutterstock_query": "medieval monk hand quill writing manuscript closeup candlelight",
+            "ai_prompt": "Atmospheric, calm close-up of a medieval monk's hand writing with a quill on the open page of a large book by candlelight, the sleeve of a plain brown robe visible, warm light on the parchment, the page showing only blurred unreadable lines, no face, no readable words, no text, no labels."
+          },
+          "side_image": {
+            "description": "Museum-style image of a simple, rounded iron helmet from about 1,000 years ago, with a small guard around the eyes and nose, on a plain dark background. The picture supports the key fact: real helmets have no horns. Production note: ABSOLUTELY no horns on the helmet; no museum labels, signs, or readable text. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "A real helmet from that time. It has no horns.",
+            "shutterstock_query": "gjermundbu viking helmet iron museum",
+            "ai_prompt": "Photorealistic museum-style image of a simple rounded iron helmet from the Viking age with a small spectacle-shaped guard around the eyes and nose, no horns of any kind, plain dark background, soft studio light, no labels, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "crusades",
+      "person": "The Crusades",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The long journey east",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X wars begin about 900 years ago.",
+            "Knights, farmers, and priests in Europe pack their bags and start walking east.",
+            "Their goal is a city far away, in the lands at the east end of the Mediterranean Sea.",
+            "The city is holy for Jews, for Christians, and for Muslims.",
+            "The travelers sew a cross of cloth on their clothes.",
+            "The name of the X wars comes from this sign.",
+            "The journey takes months, over mountains and over the sea.",
+            "The way is long and dangerous, and many travelers die before they arrive.",
+            "The X wars come and go for about 200 years.",
+            "People of all three religions suffer in them."
+          ],
+          "question": "Which wars are these?",
+          "options": [
+            "The Viking raids",
+            "World War I",
+            "The Crusades",
+            "The Punic Wars",
+            "The Mongol conquests"
+          ],
+          "correct": "The Crusades",
+          "words": [
+            {
+              "word": "knight",
+              "explanation": "a soldier on a horse with metal clothes, long ago"
+            },
+            {
+              "word": "holy",
+              "explanation": "very special and important for a religion"
+            },
+            {
+              "word": "priest",
+              "explanation": "a man who leads prayers in a church"
+            },
+            {
+              "word": "sew",
+              "explanation": "to join cloth with a needle and thread"
+            }
+          ],
+          "main_image": {
+            "description": "A long line of medieval European travelers - knights on horses, farmers and families on foot with bundles - walks on a dusty road through a hilly landscape toward a distant blue sea. Seen from a distance, calm morning light. Production note: no battle, no raised weapons, no banners or flags; a small cloth cross on a shoulder may appear, as in the card text, but keep it subtle; no cross-versus-crescent confrontation imagery of any kind; neutral, factual, and not frightening; no readable text, signs, or watermarks; nothing in the image may reveal the answer in text.",
+            "caption": "The travelers walk east for many months.",
+            "shutterstock_query": "medieval travelers pilgrims walking road hilly landscape illustration",
+            "ai_prompt": "Wide storybook illustration: a long line of medieval European travelers around the year 1100 - a few knights on horses, many farmers and families on foot with bundles and walking sticks - on a dusty road through green hills toward a distant blue sea, warm morning light, calm documentary mood, no battle, no raised weapons, no banners, no text, no writing."
+          },
+          "side_image": {
+            "description": "A single medieval knight rests beside his horse at the edge of a road, helmet off, calm and friendly face. The picture explains the word 'knight'. Production note: sword stays in its sheath; no fighting, nothing frightening; no heraldic symbols, no cross-versus-crescent imagery; neutral and factual; no readable text anywhere in the image.",
+            "caption": "A knight. He rides a horse and wears metal clothes.",
+            "shutterstock_query": "medieval knight chain mail resting horse illustration",
+            "ai_prompt": "Friendly storybook illustration: a medieval European knight in chain mail rests beside his brown horse at the edge of a country road, helmet under his arm, calm kind face, sword sheathed, soft daylight, not frightening, no battle, no heraldic symbols, no text, no labels."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Why do so many go?",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X wars begin about 900 years ago.",
+            "A powerful church leader in Europe gives a famous speech.",
+            "He asks people to march east and fight for a holy city, far away.",
+            "He promises: God forgives the sins of everyone who goes.",
+            "Why do so many people say yes?",
+            "Some truly believe, and want to pray in the holy city.",
+            "Some are poor, and hope for a better life.",
+            "Some knights dream of honor and adventure.",
+            "Some merchants hope for new trade.",
+            "In the east, the travelers see rich cities, bigger than any city at home.",
+            "But the people who live there see something else: strange armies at their gates."
+          ],
+          "question": "Which wars are these?",
+          "options": [
+            "The Crusades",
+            "The Persian Wars",
+            "The Viking raids",
+            "The Mongol conquests",
+            "World War I"
+          ],
+          "correct": "The Crusades",
+          "words": [
+            {
+              "word": "sin",
+              "explanation": "a bad act against the rules of a religion"
+            },
+            {
+              "word": "forgive",
+              "explanation": "to stop being angry about a bad act"
+            },
+            {
+              "word": "honor",
+              "explanation": "a good name; people think highly of you"
+            },
+            {
+              "word": "merchant",
+              "explanation": "a person who buys and sells things"
+            }
+          ],
+          "main_image": {
+            "description": "A medieval outdoor meeting: a church leader in plain robes speaks from a simple wooden platform in a field; a large mixed crowd of farmers, townspeople, and a few knights listens closely. Production note: no weapons raised, no banners with symbols or text; no cross-versus-crescent confrontation imagery; the mood is a speech, not a battle; neutral, factual, respectful; no readable text anywhere in the image.",
+            "caption": "A leader speaks. Many people decide to travel east.",
+            "shutterstock_query": "medieval crowd listening to speaker field illustration",
+            "ai_prompt": "Warm educational illustration: a medieval church leader in plain robes speaks from a simple wooden platform in an open field in France around 1095, a large crowd of farmers, townspeople, and a few knights listens with serious faces, autumn light, calm mood, no weapons raised, no banners, no text, no writing."
+          },
+          "side_image": {
+            "description": "A merchant at a market stall in a medieval Middle Eastern city: bowls of colorful spices, folded cloth, ceramic jars, warm light under an awning. The picture explains the word 'merchant'. Production note: respectful and everyday, not exotic caricature; no readable text on signs, sacks, or coins; no religious confrontation imagery; neutral and factual.",
+            "caption": "A merchant sells cloth and spices.",
+            "shutterstock_query": "medieval middle eastern market stall spices cloth illustration",
+            "ai_prompt": "Warm respectful illustration: a merchant at a market stall in a medieval Middle Eastern city, bowls of colorful spices, folded fine cloth, ceramic jars, shaded awning, warm sunlight, everyday calm scene, no caricature, no text, no signs, no labels."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "Goods and ideas cross the sea",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X wars begin about 900 years ago.",
+            "Armies from Europe sail east, to the lands at the east end of the Mediterranean Sea.",
+            "The wars return again and again, for many years.",
+            "But soldiers are not the only travelers between the two shores.",
+            "Ships also carry merchants, pilgrims, and ideas.",
+            "Europeans taste sugar and lemons, and they want more.",
+            "They buy paper, fine glass, and soft cotton cloth.",
+            "Arab doctors keep old Greek and Persian medicine alive in their books, and add new knowledge of their own.",
+            "Some of this knowledge slowly reaches Europe - through trade, and through translated books.",
+            "Much also comes the peaceful way, through Spain and Sicily.",
+            "War closes doors; trade and books open them again."
+          ],
+          "question": "Which wars are these?",
+          "options": [
+            "The Punic Wars",
+            "The Persian Wars",
+            "The Mongol conquests",
+            "The Crusades",
+            "The Viking raids"
+          ],
+          "correct": "The Crusades",
+          "words": [
+            {
+              "word": "shore",
+              "explanation": "the land at the edge of the sea"
+            },
+            {
+              "word": "pilgrim",
+              "explanation": "a person who travels far to visit a holy place"
+            },
+            {
+              "word": "merchant",
+              "explanation": "a person who buys and sells things"
+            },
+            {
+              "word": "translate",
+              "explanation": "to say or write something again in another language"
+            }
+          ],
+          "main_image": {
+            "description": "A busy medieval Mediterranean harbor: wooden sailing ships at the quay, workers carrying sacks, jars, and bales of cloth, traders from different lands talking together. Production note: peaceful trade scene, no soldiers in focus, no weapons; no flags or banners with symbols or text; no cross-versus-crescent imagery; people of different origins shown respectfully, no caricature; neutral and factual; no readable text anywhere in the image.",
+            "caption": "Ships carry people and goods across the sea.",
+            "shutterstock_query": "medieval harbor ships cargo merchants illustration",
+            "ai_prompt": "Detailed warm illustration: a busy medieval Mediterranean port around the year 1200, wooden sailing ships at a stone quay, workers carrying sacks, ceramic jars, and bales of cloth, merchants from Europe and the Middle East talking together peacefully, warm afternoon light, no soldiers, no weapons, no flags, no text, no writing."
+          },
+          "side_image": {
+            "description": "A scholar sits at a desk with two open handwritten books and copies text from one into the other with a quill. The picture explains the word 'translate'. Production note: all writing in both books must be generic and unreadable - no real letters or words in any language; calm candle-lit study, no religious confrontation imagery; neutral and factual.",
+            "caption": "A man writes an old book again in a new language.",
+            "shutterstock_query": "medieval scholar writing manuscript desk quill illustration",
+            "ai_prompt": "Quiet warm illustration: a medieval scholar at a wooden desk with two open handwritten books, copying from one into the other with a quill, candlelight, shelves with scrolls behind, all script blurred, generic and unreadable, no real letters, no text, no labels."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "No simple story",
+          "category": "middle ages",
+          "text_sentences": [
+            "During the X wars, about 900 years ago, an army from Europe reaches the holy city at last.",
+            "The soldiers break through the walls, and many people in the city die - Muslims and Jews.",
+            "Writers from both sides describe terrible days.",
+            "Almost 100 years later, a famous Muslim leader takes the city back.",
+            "This time, many people can buy their freedom and leave alive.",
+            "The same wars - but not the same choices.",
+            "There are more dark chapters.",
+            "On the way east, some armies attack Jewish families in European towns.",
+            "And one army attacks Constantinople, a rich Christian city, and robs it - Christians against Christians.",
+            "Over 200 years, both sides show cruelty, and both sides show mercy.",
+            "So the X wars are not a simple story of good against evil.",
+            "In every war, ordinary people of every religion pay the highest price."
+          ],
+          "question": "Which wars are these?",
+          "options": [
+            "World War I",
+            "The Crusades",
+            "The Mongol conquests",
+            "The Viking raids",
+            "The Punic Wars"
+          ],
+          "correct": "The Crusades",
+          "words": [
+            {
+              "word": "chapter",
+              "explanation": "one part of a book; here: one part of a story"
+            },
+            {
+              "word": "rob",
+              "explanation": "to take things from people with force"
+            },
+            {
+              "word": "Constantinople",
+              "explanation": "a big old city by the sea; today it is Istanbul in Turkey"
+            },
+            {
+              "word": "ordinary",
+              "explanation": "normal, not special"
+            }
+          ],
+          "main_image": {
+            "description": "Weathered medieval stone city walls with towers and a closed gate at dawn, quiet and empty, soft grey-gold light. A sober, thoughtful mood that fits a card about the cost of war. Production note: no battle, no soldiers, no fire, no damage or blood; a generic old city, not a recognizable modern skyline; no religious symbols on walls or gate; no cross-versus-crescent imagery; neutral, factual, not frightening; no readable text, signs, or plaques anywhere in the image.",
+            "caption": "High walls around an old city. War is hardest for the people inside.",
+            "shutterstock_query": "medieval stone city walls towers closed gate dawn",
+            "ai_prompt": "Photorealistic image: weathered medieval stone city walls with square towers and a closed wooden gate at dawn, empty and quiet, soft grey-gold light, somber calm mood, no people, no battle, no fire, no flags, no religious symbols, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "Medieval Constantinople seen peacefully from the water: long sea walls, a huge domed church, harbors with sailing ships, evening light. The picture explains the word 'Constantinople'. Production note: a peaceful city view only - no attack, no smoke, no fire; no minarets (they come later than this period); no flags with symbols; no cross-versus-crescent imagery; neutral and factual; no readable text anywhere in the image.",
+            "caption": "Constantinople - a rich city by the sea.",
+            "shutterstock_query": "medieval Constantinople Byzantine city sea walls illustration",
+            "ai_prompt": "Detailed illustration of medieval Constantinople around the year 1200 seen from the water: long stone sea walls, a huge domed church rising above rooftops, harbors with wooden sailing ships, warm evening light, peaceful mood, no attack, no smoke, no minarets, no flags, no text, no writing."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Two books about the same wars",
+          "category": "middle ages",
+          "text_sentences": [
+            "The X wars take place about 900 years ago, around a holy city at the east end of the Mediterranean Sea.",
+            "European writers of that time call the fighters from Europe holy pilgrims.",
+            "Arab writers of the same time call them simply \"the Franks\".",
+            "One Arab writer, Usama ibn Munqidh, meets Franks as enemies - and some as friends.",
+            "Another, Ibn al-Athir, later writes about the fall of the holy city with deep sadness.",
+            "European books tell the same days as a great victory.",
+            "Same city, same days - two very different stories.",
+            "Today, politicians sometimes use the name of these wars as a weapon in their speeches.",
+            "The old word still makes people angry or proud.",
+            "A historian reads both sides and checks every story against the sources."
+          ],
+          "question": "Which wars are these?",
+          "options": [
+            "The Persian Wars",
+            "The Punic Wars",
+            "The Mongol conquests",
+            "World War I",
+            "The Crusades"
+          ],
+          "correct": "The Crusades",
+          "words": [
+            {
+              "word": "the Franks",
+              "explanation": "an old Arabic name for people from western Europe"
+            },
+            {
+              "word": "politician",
+              "explanation": "a person who works with power and government in a country"
+            },
+            {
+              "word": "source",
+              "explanation": "an old text or thing that gives us knowledge about the past"
+            },
+            {
+              "word": "historian",
+              "explanation": "a person who studies the past"
+            }
+          ],
+          "main_image": {
+            "description": "Still life: two old handwritten books lie open side by side on a dark wooden desk - one with Latin-style script, one with Arabic-style calligraphy. Both books are the same size and get the same warm light, so neither looks more important. Production note: all script in both books must be generic and unreadable - no real words in any language, no names; no religious symbols on covers or pages; no cross-versus-crescent imagery; neutral and factual balance between the two books.",
+            "caption": "Two old books tell about the same wars.",
+            "shutterstock_query": "two medieval manuscripts open side by side wooden desk",
+            "ai_prompt": "Photorealistic still life: two old handwritten books open side by side on a dark wooden desk, one page with generic unreadable Latin-style script, one page with generic unreadable Arabic-style calligraphy, equal size, warm even light on both books, quiet scholarly mood, no real words, no names, no symbols, no readable text."
+          },
+          "side_image": {
+            "description": "A historian at a reading table in an archive, studying old manuscripts and documents under a soft lamp, focused and calm. The picture explains the words 'historian' and 'source'. Production note: all writing on the documents must be unreadable; no logos, signs, or readable text anywhere; no religious symbols in the room; neutral and factual.",
+            "caption": "A historian studies old sources from both sides.",
+            "shutterstock_query": "historian archive reading old manuscripts lamp",
+            "ai_prompt": "Photorealistic image: a historian at a wooden reading table in a quiet archive, old manuscripts and documents spread out under a soft lamp, shelves of old books behind, focused calm mood, all writing blurred and unreadable, no logos, no signs, no readable text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "black-death",
+      "person": "The Black Death",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The sickness on the ships",
+          "category": "middle ages",
+          "text_sentences": [
+            "Sickness X comes about 700 years ago.",
+            "It comes on ships from far away.",
+            "The ships sail across the sea to busy ports.",
+            "From the ports, it moves along the trade roads.",
+            "It travels from town to town.",
+            "It spreads very fast.",
+            "Very many people fall sick.",
+            "Sadly, many of them die.",
+            "In these years, people do not know what makes them sick.",
+            "They cannot see the real cause.",
+            "They are afraid, and they cannot stop it."
+          ],
+          "question": "Which sickness is this?",
+          "options": [
+            "The Black Death",
+            "smallpox",
+            "cholera",
+            "malaria",
+            "leprosy"
+          ],
+          "correct": "The Black Death",
+          "words": [
+            {
+              "word": "port",
+              "explanation": "a place by the sea where ships stop"
+            },
+            {
+              "word": "trade road",
+              "explanation": "a road where people carry things to buy and sell"
+            },
+            {
+              "word": "spread",
+              "explanation": "to go from one place or person to many"
+            },
+            {
+              "word": "cause",
+              "explanation": "the thing that makes something happen"
+            }
+          ],
+          "main_image": {
+            "description": "A wide illustration of a busy medieval harbor about 700 years ago. Wooden sailing ships with square sails arrive at a stone quay. Merchants unload barrels and sacks. A walled town with towers rises behind. Calm daytime, ordinary mood. Production note: no text, no signs, no readable letters on sails, flags, or barrels; nothing in the picture spells the answer; no dead, dying, or hurt people; no plague-doctor beak masks (those come much later).",
+            "caption": "Ships come to a busy town by the sea.",
+            "shutterstock_query": "medieval harbor sailing ships town illustration",
+            "ai_prompt": "Warm historical illustration of a busy medieval European harbor around the year 1347, wooden cog ships with square sails at a stone quay, merchants unloading barrels and sacks, a walled town with towers behind, calm daylight, ordinary and peaceful mood, no people who look sick, no beak masks, no text, no writing, no labels."
+          },
+          "side_image": {
+            "description": "A simple old-style map showing lines that cross seas and lands, joining small dots that stand for towns. The lines show the trade roads that link far places. The picture helps explain the words 'trade road'. Production note: no readable text, no place names, no letters or numbers anywhere; lines and dots only; the picture must not spell or show the answer.",
+            "caption": "Trade roads join far towns across land and sea.",
+            "shutterstock_query": "old style map trade routes lines no labels",
+            "ai_prompt": "A simple parchment-style map with curved routes crossing seas and lands, small dots for towns joined by thin lines, warm old-map colors, decorative but clean, absolutely no place names, no letters, no numbers, no text of any kind."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Guessing and knowing",
+          "category": "middle ages",
+          "text_sentences": [
+            "About 700 years ago, Sickness X spreads across many lands.",
+            "People want to know why.",
+            "Some say the air is bad and full of a bad smell.",
+            "Some say it is a punishment.",
+            "They try many strange cures, but the cures do not work.",
+            "They are only guessing.",
+            "Today, we know the real cause.",
+            "A tiny living thing, a germ, makes people sick.",
+            "This germ lives on small fleas.",
+            "The fleas ride on rats, and the rats travel with people and ships.",
+            "Guessing and knowing are not the same thing."
+          ],
+          "question": "Which sickness is this?",
+          "options": [
+            "smallpox",
+            "malaria",
+            "The Black Death",
+            "cholera",
+            "leprosy"
+          ],
+          "correct": "The Black Death",
+          "words": [
+            {
+              "word": "punishment",
+              "explanation": "trouble you get when you do something wrong"
+            },
+            {
+              "word": "cure",
+              "explanation": "something that makes a sick person well again"
+            },
+            {
+              "word": "germ",
+              "explanation": "a tiny living thing, too small to see, that can make you sick"
+            },
+            {
+              "word": "flea",
+              "explanation": "a very small jumping insect that bites animals and people"
+            }
+          ],
+          "main_image": {
+            "description": "A calm, factual picture of a single brown rat next to sacks of grain in an old wooden storehouse. Daylight comes from a small window. The rat looks natural, like in a nature book. Production note: no text, no signs; the animal is shown plainly and not made frightening; no sick or hurt people; nothing spells the answer.",
+            "caption": "Rats travel with people, ships, and food.",
+            "shutterstock_query": "brown rat grain sacks barn natural",
+            "ai_prompt": "A natural-history style illustration of a single brown rat beside sacks of grain in an old wooden storehouse, soft daylight from a small window, calm and factual mood like a nature book, realistic but not frightening, no people, no text, no writing, no labels."
+          },
+          "side_image": {
+            "description": "A clean natural-history drawing of a single flea, seen large and from the side, the way a science book shows a small insect. Plain pale background. The picture helps explain the word 'flea'. Production note: no text, no labels, no measuring numbers; just the insect, factual and calm.",
+            "caption": "A flea. This tiny insect jumps and bites.",
+            "shutterstock_query": "flea insect natural history illustration white background",
+            "ai_prompt": "A clean scientific natural-history illustration of a single flea seen from the side, enlarged like in an old biology book, fine detail, plain pale background, factual and calm, no text, no labels, no numbers."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "When workers become few",
+          "category": "middle ages",
+          "text_sentences": [
+            "About 700 years ago, Sickness X spreads across many lands.",
+            "So many people die that some villages stand empty.",
+            "Before, there are many workers and little land.",
+            "Now there are few workers and much land.",
+            "But the lords still need people to work the fields.",
+            "So workers can ask for more pay and better food.",
+            "Some workers leave a hard lord and walk to a kinder one.",
+            "Before, many farmers are bound to one lord's land.",
+            "Now this old rule grows weak in many lands in western Europe.",
+            "A terrible sickness changes who holds the power.",
+            "When people are few, their work is worth more."
+          ],
+          "question": "Which sickness is this?",
+          "options": [
+            "malaria",
+            "cholera",
+            "leprosy",
+            "smallpox",
+            "The Black Death"
+          ],
+          "correct": "The Black Death",
+          "words": [
+            {
+              "word": "village",
+              "explanation": "a very small town"
+            },
+            {
+              "word": "lord",
+              "explanation": "a rich man who owns land, and the people work for him"
+            },
+            {
+              "word": "bound",
+              "explanation": "tied to a place, and not free to leave"
+            },
+            {
+              "word": "pay",
+              "explanation": "the money you get for your work"
+            }
+          ],
+          "main_image": {
+            "description": "A wide medieval farm scene. Only one or two workers stand in a very large open field. Behind them, a small village with a few quiet houses. The picture shows a lot of empty land and few people. Calm, thoughtful mood. Production note: no text, no signs; no dead or hurt people; just open land and a couple of workers; nothing spells the answer.",
+            "caption": "Few workers, and a lot of empty land.",
+            "shutterstock_query": "medieval peasant working large empty field village illustration",
+            "ai_prompt": "A wide, calm medieval countryside illustration: one or two peasants working in a very large open field, a small quiet village with a few houses behind, lots of empty land, soft daylight, thoughtful peaceful mood, no crowds, no text, no writing, no labels."
+          },
+          "side_image": {
+            "description": "A close, warm picture of one hand placing coins into the open hand of a farm worker in simple medieval clothes. The picture helps explain the word 'pay'. Production note: no text, no readable letters or marks on the coins; faces calm and respectful; nothing spells the answer.",
+            "caption": "Now workers can ask for more pay.",
+            "shutterstock_query": "hand giving coins medieval worker illustration",
+            "ai_prompt": "A warm close illustration of one hand placing coins into the open hand of a farm worker in simple medieval clothes, soft light, calm and dignified, coins plain with no readable marks, no text, no writing, no labels."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "Fear and forty days",
+          "category": "middle ages",
+          "text_sentences": [
+            "About 700 years ago, Sickness X brings great fear.",
+            "People are afraid, and they look for someone to blame.",
+            "In some towns, people wrongly blame their Jewish neighbors.",
+            "This is not true, and it is deeply unfair.",
+            "Sadly, many Jewish people are hurt and killed.",
+            "Fear can make people cruel to the innocent.",
+            "Other towns choose a wiser way.",
+            "In one city by the sea, ships must wait before they may land.",
+            "This wait lasts forty days.",
+            "From these \"forty days\" comes our word \"quarantine\".",
+            "In hard times, fear can lead to cruelty, or to wise care."
+          ],
+          "question": "Which sickness is this?",
+          "options": [
+            "leprosy",
+            "The Black Death",
+            "smallpox",
+            "malaria",
+            "cholera"
+          ],
+          "correct": "The Black Death",
+          "words": [
+            {
+              "word": "blame",
+              "explanation": "to say that someone did a bad thing"
+            },
+            {
+              "word": "innocent",
+              "explanation": "a person who did nothing wrong"
+            },
+            {
+              "word": "cruel",
+              "explanation": "very unkind; wanting to hurt someone"
+            },
+            {
+              "word": "quarantine",
+              "explanation": "to keep people or ships apart for some days, so a sickness cannot spread"
+            }
+          ],
+          "main_image": {
+            "description": "A calm illustration of a city by the sea about 700 years ago. Wooden sailing ships wait at anchor a little way from the shore. They may not come in yet. A walled stone city with towers waits behind the water. Daytime, quiet mood. Production note: no text, no signs, no readable letters on sails or flags; no sick, dead, or hurt people; no plague-doctor beak masks (those come much later); nothing spells the answer.",
+            "caption": "Ships must wait out on the water before they can land.",
+            "shutterstock_query": "medieval sailing ships anchored harbor city illustration",
+            "ai_prompt": "A calm historical illustration of a medieval sea city around the 1300s, wooden sailing ships waiting at anchor a short way offshore, a walled stone city with towers behind the water, soft daylight, quiet and orderly mood, no beak masks, no sick people, no text, no writing, no labels."
+          },
+          "side_image": {
+            "description": "A simple picture of a low stone building on a small island by the sea, with a few sailors in simple medieval clothes waiting outside near a small wooden boat. This is a place where people from ships wait many days before they may enter the city. The picture helps explain the word 'quarantine'. Production note: no text, no signs, no readable letters; calm and orderly; no sick or hurt people; nothing spells the answer.",
+            "caption": "Sailors wait here many days before they may enter the city.",
+            "shutterstock_query": "historic quarantine station island stone building sea",
+            "ai_prompt": "A calm illustration of a low stone quarantine building on a small island by the sea, a few sailors in simple medieval clothes waiting outside near a small wooden boat, soft daylight, orderly and quiet, no sick people, no text, no writing, no labels."
+          }
+        },
+        {
+          "level": "university",
+          "title": "How we know",
+          "category": "middle ages",
+          "text_sentences": [
+            "About 700 years ago, Sickness X changes the world.",
+            "But how do we know about it today?",
+            "Writers of that time keep chronicles, and they tell of the sickness.",
+            "Yet fear and rumor can bend their words.",
+            "So historians also read old tax lists and church records that name the priests who died.",
+            "When many names drop from a list, it can mean many people are gone.",
+            "And now there is newer proof, from science.",
+            "Scientists study very old bones from graves.",
+            "In the teeth, they find the DNA of one tiny germ: Yersinia pestis.",
+            "So an old guess becomes a clear fact.",
+            "Many kinds of sources, put together, show us the truth."
+          ],
+          "question": "Which sickness is this?",
+          "options": [
+            "smallpox",
+            "leprosy",
+            "cholera",
+            "The Black Death",
+            "malaria"
+          ],
+          "correct": "The Black Death",
+          "words": [
+            {
+              "word": "chronicle",
+              "explanation": "an old written record of things that happen, year by year"
+            },
+            {
+              "word": "tax list",
+              "explanation": "an old list of people who must pay money to the ruler"
+            },
+            {
+              "word": "DNA",
+              "explanation": "a tiny code inside living things that tells what they are"
+            },
+            {
+              "word": "source",
+              "explanation": "something from the past that tells us what happened, like a book or a bone"
+            }
+          ],
+          "main_image": {
+            "description": "A bright modern science laboratory. Two or three scientists in white coats and gloves study small samples in test tubes and look into a microscope. On a clean tray lie a few small, pale old bone fragments, shown with care and from a respectful distance. Production note: no readable text on screens, papers, or labels; respectful and calm; no whole skeletons and no clear human skull in close-up; nothing spells the answer.",
+            "caption": "Scientists study very old samples to learn the truth.",
+            "shutterstock_query": "scientists laboratory analyzing samples microscope gloves",
+            "ai_prompt": "A bright modern science laboratory, two or three scientists in white coats and gloves studying test tubes and looking into a microscope, a clean tray with a few small pale bone fragments seen from a respectful distance, careful and calm mood, no close-up human skull, no whole skeleton, no text, no writing, no readable labels."
+          },
+          "side_image": {
+            "description": "An old handwritten book lies open on a wooden table. The pages are yellowed, with rows of old handwriting and a small hand-painted picture in the corner. It stands for a chronicle, where writers long ago wrote down what happened. The picture helps explain the word 'chronicle'. Production note: the writing must be blurred or generic and not readable in any language; no readable words; nothing spells the answer.",
+            "caption": "Long ago, writers wrote down what happened in books like this.",
+            "shutterstock_query": "medieval manuscript open book handwriting illumination",
+            "ai_prompt": "A photorealistic old medieval manuscript lying open on a wooden table, yellowed pages with rows of handwriting and a small painted decoration in the corner, warm soft light, the writing soft and not readable in any language, no clear words, no readable text, no labels."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "genghis-khan",
+      "person": "Genghis Khan",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Poor Boy from the Sea of Grass",
+          "category": "middle ages",
+          "text_sentences": [
+            "Khan X lives about 800 years ago, on the wide grasslands of Asia.",
+            "His people live in round felt tents and move with their horses, sheep, and goats.",
+            "His father dies when he is a young boy.",
+            "His family becomes poor and often has too little food.",
+            "The boy learns to ride, to hunt, and to never give up.",
+            "The clans of the grasslands fight each other all the time.",
+            "When he grows up, he does something new.",
+            "He brings the fighting clans together into one people.",
+            "The clans give him a new name and title.",
+            "It may mean \"strong ruler\" or \"ruler of all\"."
+          ],
+          "question": "Who is Khan X?",
+          "options": [
+            "Alexander the Great",
+            "Genghis Khan",
+            "Julius Caesar",
+            "Napoleon Bonaparte",
+            "Kublai Khan"
+          ],
+          "correct": "Genghis Khan",
+          "words": [
+            {
+              "word": "grassland",
+              "explanation": "big open land where grass grows"
+            },
+            {
+              "word": "felt",
+              "explanation": "thick cloth made of pressed wool"
+            },
+            {
+              "word": "clan",
+              "explanation": "a big group of families that belong together"
+            },
+            {
+              "word": "title",
+              "explanation": "a special name for a ruler or an important person"
+            }
+          ],
+          "main_image": {
+            "description": "A wide green steppe under a huge sky. A herd of horses grazes. Several round white felt tents stand in the middle distance. Far away, a young rider on horseback is seen from behind. Production note: no text, letters, or symbols anywhere in the image; the rider stays anonymous and far away; peaceful mood, no weapons.",
+            "caption": "The people of the grasslands ride horses and live in round tents.",
+            "shutterstock_query": "mongolia steppe horses yurts grassland landscape",
+            "ai_prompt": "Cinematic wide shot of a vast green steppe under a huge sky, a herd of horses grazing, three round white felt tents in the middle distance, a lone young rider seen from behind far away, warm evening light; no modern objects, no text, no letters."
+          },
+          "side_image": {
+            "description": "A close view of one round white felt tent on green grassland, with a simple wooden door. The picture helps explain the words 'felt' and shows the round tent as a home you can move. Production note: door and tent may have simple geometric patterns only — no letters, no symbols, no text.",
+            "caption": "A round tent of thick felt is a warm home. The family can move it.",
+            "shutterstock_query": "mongolian ger yurt white felt tent grassland",
+            "ai_prompt": "Photorealistic image of a round white felt yurt on green steppe, simple wooden door, blue sky, soft daylight; simple geometric patterns only, no letters, no symbols, no text."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Empire of Fast Horses",
+          "category": "middle ages",
+          "text_sentences": [
+            "Khan X grows up on the grasslands of Asia and unites the riding clans.",
+            "Then he and his riders build a huge empire on land.",
+            "His wars are terrible for the people he conquers.",
+            "After his death, his sons and grandsons make it even bigger.",
+            "It becomes the largest land empire in history.",
+            "It reaches from the sea in the east far into Europe.",
+            "How can one ruler control such a wide land?",
+            "Khan X and his family order horse stations along the big roads.",
+            "At each station, fresh horses wait.",
+            "A messenger rides fast, changes to a fresh horse, and rides on.",
+            "Messages travel day and night, faster than ever before.",
+            "This empire runs on grass, horses, and information."
+          ],
+          "question": "Who is Khan X?",
+          "options": [
+            "Kublai Khan",
+            "Alexander the Great",
+            "Julius Caesar",
+            "Napoleon Bonaparte",
+            "Genghis Khan"
+          ],
+          "correct": "Genghis Khan",
+          "words": [
+            {
+              "word": "empire",
+              "explanation": "many lands and many people under one ruler"
+            },
+            {
+              "word": "station",
+              "explanation": "a stop-place on a long road"
+            },
+            {
+              "word": "messenger",
+              "explanation": "a person who carries a message"
+            }
+          ],
+          "main_image": {
+            "description": "A lone messenger in simple medieval Central Asian riding clothes gallops across open steppe. Dust rises behind the horse. A leather bag hangs over his shoulder. Motion and speed, not war. Production note: no weapons, no battle, no text or letters anywhere; the rider stays anonymous.",
+            "caption": "A messenger rides fast. At the next station, a fresh horse waits.",
+            "shutterstock_query": "rider galloping horse steppe dust motion historical",
+            "ai_prompt": "Dynamic realistic illustration: a lone messenger in simple medieval Central Asian riding clothes gallops on a sturdy horse across open green-brown steppe, dust behind the hooves, leather bag over his shoulder, low warm sun; no weapons, no text, no letters."
+          },
+          "side_image": {
+            "description": "A hand holds a flat metal tablet with a rounded top and a ring through a hole — a travel pass for riders of the empire. Production note: real tablets of this kind carry writing, but here the tablet must be completely plain or worn smooth — absolutely no characters, script, or symbols may be readable; steppe background soft and blurred.",
+            "caption": "This metal pass means: the ruler sends this rider. Give him a fresh horse.",
+            "shutterstock_query": "ancient bronze tablet artifact hand closeup",
+            "ai_prompt": "Photorealistic close-up of a hand holding a worn, plain bronze tablet with a rounded top and a metal ring through a hole, blurred steppe background, warm light; the tablet surface is worn completely smooth, no characters, no symbols, no text."
+          }
+        },
+        {
+          "level": "grade 12 A",
+          "title": "The Ruler Who Cannot Read",
+          "category": "middle ages",
+          "text_sentences": [
+            "Khan X is a ruler from the grasslands of Asia.",
+            "As a boy, he has no school, and he probably never learns to read.",
+            "As a young man, he unites the fighting clans into one people.",
+            "He orders a writing system for his people's language.",
+            "He gives his empire strict laws.",
+            "He chooses his generals for their skill, not for their family name.",
+            "Even a poor herder's son can become a top commander.",
+            "People of many religions live in his empire, and all can pray in their own way.",
+            "When his army takes a city, it spares the skilled craft workers.",
+            "But they must move far away and work for the empire.",
+            "Many of the other people in these cities are killed or lose their homes.",
+            "A ruler who cannot read builds a state that runs on writing, law, and skill."
+          ],
+          "question": "Who is Khan X?",
+          "options": [
+            "Genghis Khan",
+            "Hammurabi",
+            "Napoleon Bonaparte",
+            "Kublai Khan",
+            "Julius Caesar"
+          ],
+          "correct": "Genghis Khan",
+          "words": [
+            {
+              "word": "strict",
+              "explanation": "very firm; the rules must be followed"
+            },
+            {
+              "word": "herder",
+              "explanation": "a person who keeps and moves animals, like sheep or horses"
+            },
+            {
+              "word": "commander",
+              "explanation": "a leader of soldiers"
+            },
+            {
+              "word": "craft worker",
+              "explanation": "a person who makes things with their hands, like pots, cloth, or tools"
+            }
+          ],
+          "main_image": {
+            "description": "A peaceful market day in a medieval steppe empire: traders and travelers in many different clothing styles — East Asian, Persian, European, and steppe herders — talk and trade between round felt tents and loaded animals. Friendly, respectful scene. Production note: no caricatures; no text, letters, or flags with writing; no religious symbols shown disrespectfully; nothing scary.",
+            "caption": "People from many lands meet in peace in one empire.",
+            "shutterstock_query": "silk road market traders different cultures historical illustration",
+            "ai_prompt": "Colorful respectful illustration of a peaceful market day in a medieval steppe empire: traders and travelers in clothing styles from East Asia, Persia, and Europe talk and trade between round felt tents and loaded camels, warm daylight, friendly mood; no caricatures, no flags with writing, no text, no letters."
+          },
+          "side_image": {
+            "description": "A craft worker in medieval Central Asian clothes shapes a small metal cup with a hammer at a wooden workbench, with tools and finished cups around. The picture helps explain the words 'craft worker'. Production note: no text, letters, or stamps readable anywhere in the image.",
+            "caption": "A craft worker makes fine things by hand. The empire wants this skill.",
+            "shutterstock_query": "medieval metalworker craftsman workshop hands hammer",
+            "ai_prompt": "Warm illustration: a medieval Central Asian craft worker hammers a small silver cup at a wooden workbench, tools and finished cups around, soft workshop light, calm mood; no text, no letters, no stamps."
+          }
+        },
+        {
+          "level": "grade 12 B",
+          "title": "Safe Roads, Terrible Price",
+          "category": "middle ages",
+          "text_sentences": [
+            "Khan X, a rider who unites the clans of the grasslands, builds a giant empire across Asia.",
+            "Under him and his family, one power guards the long trade roads between east and west.",
+            "An old saying tells: a girl can carry a bag of gold across the empire, and no one robs her.",
+            "Silk, paper, and new ideas travel from land to land.",
+            "But the roads carry more than goods.",
+            "About a hundred years later, a deadly sickness follows them all the way to Europe.",
+            "And this peace has a terrible price.",
+            "The wars of Khan X kill millions of people.",
+            "Cities that do not give up are destroyed.",
+            "Traders remember the safe roads. The destroyed cities remember something else.",
+            "The empire opens roads for the world, and destroys millions of lives to build them."
+          ],
+          "question": "Who is Khan X?",
+          "options": [
+            "Alexander the Great",
+            "Napoleon Bonaparte",
+            "Genghis Khan",
+            "Kublai Khan",
+            "Julius Caesar"
+          ],
+          "correct": "Genghis Khan",
+          "words": [
+            {
+              "word": "trade",
+              "explanation": "buying and selling things"
+            },
+            {
+              "word": "goods",
+              "explanation": "things people buy and sell"
+            },
+            {
+              "word": "deadly",
+              "explanation": "so dangerous that people die from it"
+            }
+          ],
+          "main_image": {
+            "description": "A historical caravan of loaded two-humped camels walks along a dry road through hills. Merchants in medieval Central Asian clothes walk beside the animals. Peaceful travel scene in warm light. Production note: no text, letters, or flags; nothing scary; no weapons in focus.",
+            "caption": "Traders carry goods along the long, safe roads.",
+            "shutterstock_query": "bactrian camel caravan silk road historical illustration",
+            "ai_prompt": "Warm historical illustration: a caravan of loaded two-humped camels walks along a dry road through golden hills, merchants in medieval Central Asian clothes walking beside them, late afternoon light, peaceful mood; no text, no letters, no flags."
+          },
+          "side_image": {
+            "description": "A simple parchment-style map of Asia and Europe with one long road line from the east coast of Asia to Europe, with tiny caravan and horse icons along the road. The picture shows how one road system joins east and west. Production note: absolutely no letters, numbers, place names, or readable symbols on the map.",
+            "caption": "Long roads join east and west. Goods and ideas travel on them.",
+            "shutterstock_query": "old parchment map asia europe blank no labels illustration",
+            "ai_prompt": "Simple parchment-style map showing the shapes of Asia and Europe, one long road line drawn from East Asia to Eastern Europe, tiny caravan and horse icons along the road, warm paper tones; no letters, no numbers, no place names, no text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Monster or State-Builder?",
+          "category": "middle ages",
+          "text_sentences": [
+            "Khan X, a ruler from the grasslands of Asia, builds a huge empire about 800 years ago.",
+            "How can we know about him today?",
+            "Soon after his death, his own people write his story in their own language.",
+            "That book is even called \"The Secret History.\"",
+            "It shows him from the inside: his poor childhood, his fears, and his mistakes.",
+            "The peoples he conquers write about him too, in Persian, Arabic, and Chinese.",
+            "They see their burned cities, and in their books he is often a monster.",
+            "Later, travelers from Europe visit the empire and send home reports.",
+            "Some report wild \"barbarians\"; others report law, order, and safe roads.",
+            "So who is he — a monster, or a builder of a state?",
+            "Every source stands somewhere; the historian's job is to see where."
+          ],
+          "question": "Who is Khan X?",
+          "options": [
+            "Julius Caesar",
+            "Alexander the Great",
+            "Napoleon Bonaparte",
+            "Genghis Khan",
+            "Kublai Khan"
+          ],
+          "correct": "Genghis Khan",
+          "words": [
+            {
+              "word": "source",
+              "explanation": "an old text or thing that gives us information about the past"
+            },
+            {
+              "word": "conquer",
+              "explanation": "to take a land by force"
+            },
+            {
+              "word": "report",
+              "explanation": "a text that tells what a person sees and learns"
+            },
+            {
+              "word": "barbarian",
+              "explanation": "an unfair old word for people that writers see as wild and simple"
+            }
+          ],
+          "main_image": {
+            "description": "A still life of three old books from three different book traditions on a dark wooden table: a stitched East Asian-style book, a leather-bound book with Persian-style geometric cover decoration, and a rolled European parchment scroll. Quiet candlelight. Production note: all books closed or blank; no readable characters in any language; do not show Mongolian or any other real script.",
+            "caption": "Three old books tell about the same man. They do not tell the same story.",
+            "shutterstock_query": "antique books scroll still life wooden table candlelight",
+            "ai_prompt": "Photorealistic still life on a dark wooden table: a stitched East Asian-style book, a leather-bound book with Persian-style geometric cover patterns, and a rolled parchment scroll, warm candlelight, quiet mood; all covers plain, no readable characters in any language, no text."
+          },
+          "side_image": {
+            "description": "At night, a traveler in a simple medieval robe sits by a small campfire near round felt tents and writes in a small book. The picture helps explain the word 'report'. Production note: the page must be blank or fully unreadable; no real script of any kind; calm and respectful scene.",
+            "caption": "A traveler from far away writes a report about all he sees.",
+            "shutterstock_query": "medieval traveler writing campfire night camp illustration",
+            "ai_prompt": "Atmospheric illustration: a traveler in a simple medieval robe sits by a small campfire at night near round felt tents on the steppe, writing in a small book, warm firelight, starry sky; the page is blank, no readable text, no letters."
+          }
+        }
+      ]
     }
   ]
 }

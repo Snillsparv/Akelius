@@ -2,19 +2,18 @@
 
 Svenskt arbetsnamn: Jesus från Nasaret. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
-("Christians believe..."), utan teologiska sanningsanspråk.
+Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av honom är känsliga, se bildernas produktionsnoter.
 
 ---
 
 ## Kort 1 · Årskurs 6 — The carpenter's son
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
 > Mr X lives about 2,000 years ago.  
-> He grows up in a small village, far from the big cities.  
+> He grows up in a small, quiet village.  
 > His father is a carpenter, and Mr X learns to work with wood too.  
 > As a grown man, he becomes a teacher.  
 > He walks from village to village near a big lake.  
@@ -42,10 +41,10 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 
 ### Huvudbild
 
-- **Motiv:** Warm classical-style illustration: a teacher in simple robes from about 2,000 years ago sits on a stone by the shore of a calm lake with green hills behind. A small group of fishermen sits around him and listens; a wooden fishing boat with nets rests at the water's edge. Friendly daylight, peaceful mood. Production note: a generic teacher only — no halo, no cross, no religious symbols; no text, names, or signs anywhere in the image.
+- **Motiv:** Warm classical-style illustration: a teacher in simple robes from about 2,000 years ago sits on a stone by the shore of a calm lake with green hills behind. He is seen from behind and at a distance, so his face is not visible. The picture focuses on the small group of fishermen who sit around him and listen, on the calm lake, and on a wooden fishing boat with nets at the water's edge. Friendly daylight, peaceful mood. Production note: the teacher must be shown from behind or far away, with no clear face, because pictures of this person are sensitive for some pupils; a generic teacher only, no halo, no cross, no religious symbols; no text, names, or signs anywhere in the image.
 - **Bildtext:** *A teacher tells stories by a big lake.*
 - **Shutterstock-sökning:** `teacher speaking to fishermen ancient lake shore classical illustration`
-- **AI-prompt (alternativ):** Warm classical-style illustration: a teacher in simple first-century robes sits on a stone by the Sea of Galilee, green hills behind, a small group of fishermen listening, a wooden fishing boat with nets at the water's edge, soft daylight, respectful and calm, no halo, no cross, no religious symbols, no text.
+- **AI-prompt (alternativ):** Warm classical-style illustration: a teacher in simple first-century robes sits on a stone by the Sea of Galilee, seen from behind and at a distance so his face is not visible, the focus on a small group of fishermen listening, green hills behind, a wooden fishing boat with nets at the water's edge, soft daylight, respectful and calm, no clear face on the teacher, no halo, no cross, no religious symbols, no text.
 
 ### Sidobild
 
@@ -58,15 +57,14 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 
 ## Kort 2 · Årskurs 9 — Love your enemies too
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
 > Mr X is a teacher who lives about 2,000 years ago.  
 > Crowds follow him from village to village and up a green hillside.  
 > - Love your neighbor as yourself, he teaches.  
-> A listener asks: even my enemy?  
-> - Yes, love your enemies too, he answers.  
+> And he goes further: love your enemies too, he teaches.  
 > He also teaches forgiveness: do not pay back a bad thing with a bad thing.  
 > Forgive - not once, but again and again, he says.  
 > And he gives one simple rule for daily life:  
@@ -77,7 +75,7 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 
 ### Svarsalternativ
 
-- ⬜ Confucius
+- ⬜ Moses
 - ⬜ Buddha
 - ⬜ Socrates
 - ✅ Jesus
@@ -88,14 +86,14 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 - **neighbor** — *a person who lives near you; here it means every other person*
 - **enemy** — *a person who is against you*
 - **forgiveness** — *you stop being angry with a person who did a bad thing to you*
-- **golden rule** — *a famous rule: treat other people as you want them to treat you*
+- **golden rule** — *a famous rule: treat other people as you want them to treat you; Mr X says it with a 'do', not a 'do not'*
 
 ### Huvudbild
 
-- **Motiv:** Classical-style illustration: a teacher in simple robes stands on a green hillside above a lake and speaks to a large seated crowd - men, women, and children of all ages. Spring flowers on the hill, calm and open landscape. Production note: a generic teacher — no halo, no cross, no religious symbols; no text, names, or banners anywhere in the image.
+- **Motiv:** Classical-style illustration: a teacher in simple robes stands on a green hillside above a lake and speaks to a large seated crowd - men, women, and children of all ages. The teacher is seen from behind and far away, so his face is not visible. The picture focuses on the listening crowd, the lake below, and the calm and open landscape. Spring flowers on the hill. Production note: the teacher must be shown from behind or far away, with no clear face, because pictures of this person are sensitive for some pupils; a generic teacher only, no halo, no cross, no religious symbols; no text, names, or banners anywhere in the image.
 - **Bildtext:** *A teacher speaks to a big crowd on a green hillside.*
 - **Shutterstock-sökning:** `crowd listening to teacher green hillside ancient middle east illustration`
-- **AI-prompt (alternativ):** Respectful classical-style illustration: a teacher in simple first-century robes stands on a green hillside above the Sea of Galilee and speaks to a large seated crowd of men, women, and children, spring flowers, soft light, peaceful mood, no halo, no cross, no religious symbols, no text.
+- **AI-prompt (alternativ):** Respectful classical-style illustration: a teacher in simple first-century robes stands on a green hillside above the Sea of Galilee, seen from behind and at a distance so his face is not visible, the focus on the large seated crowd of men, women, and children listening, spring flowers, soft light, peaceful mood, no clear face on the teacher, no halo, no cross, no religious symbols, no text.
 
 ### Sidobild
 
@@ -108,7 +106,7 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 
 ## Kort 3 · Årskurs 12 (A) — The good stranger
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
@@ -158,7 +156,7 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 
 ## Kort 4 · Årskurs 12 (B) — The year on the calendar
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
@@ -166,13 +164,12 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 > He is a teacher with a small group of followers.  
 > The Roman rulers see him as a danger, and he is put to death.  
 > But his followers do not give up.  
-> Christians believe that he rises from death.  
-> This faith gives them courage, and they carry his teaching from land to land.  
+> His followers believe that he rises from death.  
+> This faith makes them brave, and they carry his teaching from land to land.  
 > Today, his followers form the largest religion in the world.  
-> Now look at our calendar.  
-> It counts the years from his birth.  
+> Our calendar counts the years from his birth.  
 > But the monk who works out his birth year, many centuries later, makes a small mistake.  
-> So Mr X is probably born a few years "before" year one!  
+> So Mr X is probably born a few years 'before' year one!  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -199,8 +196,8 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 
 ### Sidobild
 
-- **Motiv:** A simple fish outline scratched into an old stone wall, lit softly as by an oil lamp, as in an underground burial room from Roman times. The early followers use this quiet sign to find each other. The picture supports the word 'follower'. Production note: only the plain fish outline — no letters inside or near the fish, no crosses, no other symbols, no readable text.
-- **Bildtext:** *A simple fish: a secret sign of the first followers.*
+- **Motiv:** A simple fish outline scratched into an old stone wall, lit softly as by an oil lamp, as in an underground burial room from Roman times. A story says the early followers use this quiet sign to find each other. The picture supports the word 'follower'. Production note: only the plain fish outline — no letters inside or near the fish, no crosses, no other symbols, no readable text.
+- **Bildtext:** *A simple fish: an old sign of the first followers.*
 - **Shutterstock-sökning:** `early christian fish symbol carved stone catacomb no letters`
 - **AI-prompt (alternativ):** Photorealistic close-up: a simple fish outline scratched into an old rough stone wall in a Roman-era underground passage, warm oil-lamp light, quiet mood, only the plain fish shape, no letters, no crosses, no other symbols, no readable text.
 
@@ -208,7 +205,7 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 
 ## Kort 5 · Universitet — How do we know?
 
-**Kategori:** `religions and beliefs`
+**Kategori:** `religions`
 
 ### Korttext
 
@@ -220,8 +217,8 @@ Känsligt ämne: korten beskriver vad källor säger och vad kristna tror
 > Old Roman and Jewish historians also mention him, in a few short lines.  
 > Because of this, almost all historians agree: the man is real.  
 > He teaches, he gathers followers, and he is put to death by Roman power.  
-> Christians believe much more: for them, he is the Son of God.  
-> History cannot prove or disprove such faith.  
+> Believers say much more: for them, he is the Son of God.  
+> History cannot prove such faith, and it cannot show it is wrong.  
 > Historians and believers read the same old pages - with different questions.  
 > **Who is Mr X?**
 

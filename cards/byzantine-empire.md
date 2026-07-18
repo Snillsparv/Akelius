@@ -11,11 +11,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Korttext
 
-> Empire X has a capital city between two seas.  
+> Empire X is a Christian empire with a capital city between two seas.  
 > The city sits where Europe meets Asia.  
 > Water protects it on two sides.  
 > On the land side, the people build two strong walls, one behind the other.  
-> For many centuries, no enemy army can break through these walls.  
+> For many centuries, no enemy army can break through these land walls.  
 > Ships from many lands fill the city's great harbor.  
 > Traders bring silk from the east and furs from the north.  
 > Trade roads from Asia and Europe meet in this city.  
@@ -36,7 +36,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **capital** — *the main city of a land, where the ruler lives*
 - **harbor** — *a safe place by the water where ships can stop*
-- **silk** — *a fine, soft, and costly cloth, first made in China*
+- **silk** — *a fine, soft cloth that costs very much, first made in China*
 - **mosaic** — *a picture made of many small colored stones*
 
 ### Huvudbild
@@ -77,7 +77,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Svarsalternativ
 
 - ✅ The Byzantine Empire
-- ⬜ Rome
+- ⬜ Greece
 - ⬜ The Ottoman Empire
 - ⬜ Egypt
 - ⬜ Persia
@@ -112,7 +112,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > About 1,500 years ago, an emperor rules Empire X from a rich city in the east.  
-> His empire still uses the laws of an older empire.  
+> His empire still uses the laws of old Rome.  
 > But after a thousand years, the laws are a mess.  
 > There are too many laws, and some laws say opposite things.  
 > So the emperor calls a team of law experts.  
@@ -164,14 +164,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The people of Empire X speak Greek, and they guard the old books of Greece.  
 > For about a thousand years, scribes copy these books by hand, page by page.  
 > Plays, poems, science, and philosophy survive this way.  
-> Many famous Greek books survive only because of these copies.  
 > The empire also argues about holy pictures.  
-> For a time, the emperors even forbid them; later, the pictures come back.  
+> For a time, the emperors even forbid them.  
+> Later, the pictures come back.  
 > About 600 years ago, an army from a new empire takes the capital.  
 > Many scholars flee west, to Italy.  
 > In their bags are old Greek books.  
 > In Italy, people are hungry for old knowledge.  
-> The old books help start a new age of art and learning: the Renaissance.  
+> The old books feed this new age of art and learning: the Renaissance.  
 > **Which empire is this?**
 
 ### Svarsalternativ
@@ -214,9 +214,9 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Here is a strange fact: Empire X never hears its own modern name.  
 > Its people call themselves Romans, in the Greek language.  
 > Their neighbors in the west call them Greeks.  
-> The empire lives for about a thousand years, and then it falls.  
+> The empire lives long, but one day it falls.  
 > About a hundred years later, a scholar in the west prints a book about its history.  
-> He needs a name, so he uses the capital's very old Greek name: Byzantion.  
+> He needs a name, so he uses the capital's very old Greek name.  
 > His new name wins: today, history books all over the world use it.  
 > Why not simply say Romans?  
 > In the west, kings and popes keep that name for themselves.  

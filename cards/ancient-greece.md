@@ -16,9 +16,9 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The warm blue sea is never far away.  
 > The soil is thin, but olive trees and grapes grow well.  
 > Many people become fishers, sailors, and traders.  
-> The land has no single king.  
+> Long ago, the land has no single king.  
 > Instead, people live in many small city-states.  
-> A city-state is a city with its own laws, like a small country.  
+> These cities are proud, and they often compete with each other.  
 > In the middle of the city lies the agora, a busy market square.  
 > People meet there, buy food, and talk about the news.  
 > High on a rock over one famous city, a white marble temple still stands today.  
@@ -112,7 +112,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > About 2,500 years ago, the people of Land X build the first great theaters.  
-> They cut half-circles of stone seats into their hillsides.  
+> First people sit on wooden benches.  
+> Later they cut half-circles of stone seats into their hillsides.  
 > Some theaters hold more than ten thousand people.  
 > The actors wear masks with big, clear faces.  
 > So people far up on the hill can still see who is sad or angry.  
@@ -120,7 +121,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > A funny play is a comedy: it laughs at the rich and powerful.  
 > The plays ask big questions.  
 > What is right, what is fair, and who decides?  
-> The whole city watches together and feels together.  
+> Thousands of people watch together and feel together.  
 > Our words 'theater', 'drama', 'tragedy', and 'comedy' come from the language of Land X.  
 > **Which land is this?**
 
@@ -164,14 +165,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > In old times, Land X is not one country.  
 > It is hundreds of proud city-states, and they often quarrel.  
 > Two of them are famous opposites.  
-> Athens loves ships, trade, and open talk.  
-> Sparta loves order, simple food, and hard training.  
+> One famous city loves ships, trade, and open talk.  
+> Its rival loves order, simple food, and hard training.  
 > Yet all these cities feel like one people.  
 > They speak one language and honor the same gods.  
-> They meet at big festivals and share the same stories.  
+> They share the same stories about gods and heroes.  
 > Many cities also send ships out and start colonies.  
 > These new towns grow on coasts from Spain to the Black Sea.  
-> A famous thinker from Land X jokes: we live around the sea like frogs around a pond.  
+> A famous thinker from Land X writes: we live around the sea like frogs around a pond.  
 > **Which land is this?**
 
 ### Svarsalternativ
@@ -211,10 +212,9 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Korttext
 
-> People often call Land X 'the cradle of democracy'.  
-> Historians ask: how do we know its story?  
+> Historians ask: how do we know the story of Land X?  
 > Its old books - plays, science, and philosophy - survive only as copies of copies.  
-> For centuries, scribes in Constantinople copy them, and scholars in Baghdad translate many into Arabic.  
+> For centuries, scribes in Constantinople copy them, and scholars in Baghdad translate many science and philosophy books into Arabic.  
 > Without this long work, most of the old books are gone today.  
 > The white marble ruins tell only half the truth, too.  
 > New research shows: long ago, the temples and statues shine with bright colors.  
@@ -234,7 +234,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Ordförklaringar (marginal)
 
-- **cradle** — *a bed for a baby; here: the place where something is born*
 - **philosophy** — *the study of big questions about life and thinking*
 - **scribe** — *a person whose work is copying books by hand*
 - **ruin** — *a broken old building*
