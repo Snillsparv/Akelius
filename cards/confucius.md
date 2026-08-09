@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Buddha
 - ⬜ Socrates
 - ⬜ Plato
-- ⬜ Gandhi
 
 ### Ordförklaringar (marginal)
 
@@ -77,7 +76,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Buddha
 - ✅ Confucius
 - ⬜ Socrates
-- ⬜ Gandhi
 - ⬜ Aristotle
 
 ### Ordförklaringar (marginal)
@@ -124,7 +122,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Svarsalternativ
 
 - ⬜ Plato
-- ⬜ Hammurabi
 - ✅ Confucius
 - ⬜ Buddha
 - ⬜ Marx
@@ -175,7 +172,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ Socrates
 - ⬜ Buddha
-- ⬜ Hammurabi
 - ✅ Confucius
 - ⬜ Gandhi
 
@@ -223,7 +219,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Svarsalternativ
 
-- ⬜ Socrates
 - ⬜ Plato
 - ⬜ Buddha
 - ⬜ Marx

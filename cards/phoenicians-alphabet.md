@@ -30,7 +30,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ The Phoenicians
 - ⬜ The Greeks
 - ⬜ The Vikings
-- ⬜ The Babylonians
 
 ### Ordförklaringar (marginal)
 
@@ -81,7 +80,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Egyptians
 - ✅ The Phoenicians
 - ⬜ The Greeks
-- ⬜ The Chinese
 
 ### Ordförklaringar (marginal)
 
@@ -130,7 +128,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ The Romans
 - ⬜ The Greeks
-- ⬜ The Persians
 - ✅ The Phoenicians
 - ⬜ The Egyptians
 
@@ -181,7 +178,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ The Greeks
 - ⬜ The Romans
-- ⬜ The Etruscans
 - ⬜ The Hebrews
 - ✅ The Phoenicians
 
@@ -231,7 +227,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Svarsalternativ
 
 - ⬜ The Etruscans
-- ⬜ The Greeks
 - ✅ The Phoenicians
 - ⬜ The Egyptians
 - ⬜ The Persians

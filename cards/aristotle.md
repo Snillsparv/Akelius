@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Aristotle
 - ⬜ Socrates
 - ⬜ Plato
-- ⬜ Alexander the Great
 - ⬜ Darwin
 
 ### Ordförklaringar (marginal)
@@ -77,7 +76,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ✅ Aristotle
 - ⬜ Darwin
-- ⬜ Plato
 - ⬜ Socrates
 - ⬜ Hippocrates
 
@@ -126,7 +124,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ✅ Aristotle
 - ⬜ Socrates
-- ⬜ Plato
 - ⬜ Pythagoras
 - ⬜ Euclid
 
@@ -175,7 +172,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ✅ Aristotle
 - ⬜ Plato
-- ⬜ Socrates
 - ⬜ Buddha
 - ⬜ Confucius
 
@@ -226,7 +222,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Aristotle
 - ⬜ Plato
 - ⬜ Galileo Galilei
-- ⬜ Ibn Rushd
 - ⬜ Copernicus
 
 ### Ordförklaringar (marginal)

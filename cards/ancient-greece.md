@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Egypt
 - ✅ Greece
 - ⬜ Rome
-- ⬜ Persia
 - ⬜ Phoenicia
 
 ### Ordförklaringar (marginal)
@@ -78,7 +77,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ Rome
 - ⬜ Egypt
-- ⬜ Persia
 - ✅ Greece
 - ⬜ Mesopotamia
 
@@ -129,7 +127,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ✅ Greece
 - ⬜ Rome
-- ⬜ Persia
 - ⬜ Egypt
 - ⬜ Mesopotamia
 
@@ -181,7 +178,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Egypt
 - ✅ Greece
 - ⬜ Rome
-- ⬜ Persia
 
 ### Ordförklaringar (marginal)
 
@@ -229,7 +225,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Rome
 - ⬜ Egypt
 - ⬜ Mesopotamia
-- ⬜ Persia
 - ✅ Greece
 
 ### Ordförklaringar (marginal)

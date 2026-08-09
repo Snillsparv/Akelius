@@ -31,7 +31,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Persia
 - ⬜ Egypt
 - ⬜ Carthage
-- ⬜ China
 
 ### Ordförklaringar (marginal)
 
@@ -82,7 +81,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Athens
 - ⬜ Sparta
 - ⬜ Carthage
-- ⬜ Babylon
 
 ### Ordförklaringar (marginal)
 
@@ -132,7 +130,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Rome
 - ⬜ Athens
 - ⬜ Carthage
-- ⬜ Alexandria
 - ⬜ Babylon
 
 ### Ordförklaringar (marginal)
@@ -184,7 +181,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Greece
 - ⬜ Egypt
 - ⬜ Persia
-- ⬜ The Maya
 
 ### Ordförklaringar (marginal)
 
@@ -235,7 +231,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Ottoman Empire
 - ⬜ Persia
 - ⬜ Egypt
-- ⬜ China
 
 ### Ordförklaringar (marginal)
 

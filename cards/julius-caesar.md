@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Augustus
 - ⬜ Alexander the Great
 - ⬜ Hammurabi
-- ⬜ Gutenberg
 
 ### Ordförklaringar (marginal)
 
@@ -76,7 +75,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Julius Caesar
 - ⬜ Copernicus
 - ⬜ Augustus
-- ⬜ Aristotle
 - ⬜ Leonardo da Vinci
 
 ### Ordförklaringar (marginal)
@@ -126,7 +124,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Augustus
 - ⬜ Alexander the Great
 - ⬜ Hannibal
-- ⬜ Hammurabi
 
 ### Ordförklaringar (marginal)
 
@@ -173,7 +170,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Svarsalternativ
 
 - ✅ Julius Caesar
-- ⬜ Augustus
 - ⬜ Alexander the Great
 - ⬜ Socrates
 - ⬜ Gandhi
@@ -226,7 +222,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Augustus
 - ⬜ Alexander the Great
 - ⬜ Marx
-- ⬜ Gutenberg
 
 ### Ordförklaringar (marginal)
 

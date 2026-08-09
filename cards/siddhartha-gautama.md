@@ -30,7 +30,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Siddhartha Gautama
 - ⬜ Alexander the Great
 - ⬜ Confucius
-- ⬜ Socrates
 - ⬜ Gandhi
 
 ### Ordförklaringar (marginal)
@@ -80,7 +79,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Siddhartha Gautama
 - ⬜ Confucius
 - ⬜ Socrates
-- ⬜ Plato
 - ⬜ Gandhi
 
 ### Ordförklaringar (marginal)
@@ -130,7 +128,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Confucius
 - ⬜ Gandhi
 - ⬜ Mandela
-- ⬜ Socrates
 
 ### Ordförklaringar (marginal)
 
@@ -181,7 +178,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Alexander the Great
 - ⬜ Confucius
 - ⬜ Marx
-- ⬜ Socrates
 
 ### Ordförklaringar (marginal)
 
@@ -231,7 +227,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Socrates
 - ⬜ Confucius
 - ⬜ Aristotle
-- ⬜ Gutenberg
 
 ### Ordförklaringar (marginal)
 

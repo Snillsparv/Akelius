@@ -35,7 +35,6 @@ respektfullt: "Muslims believe...".
 - ⬜ Buddha
 - ✅ Muhammad
 - ⬜ Moses
-- ⬜ Confucius
 
 ### Ordförklaringar (marginal)
 
@@ -85,7 +84,6 @@ respektfullt: "Muslims believe...".
 - ⬜ Moses
 - ⬜ Jesus
 - ⬜ Buddha
-- ⬜ Gandhi
 
 ### Ordförklaringar (marginal)
 
@@ -133,7 +131,6 @@ respektfullt: "Muslims believe...".
 
 - ⬜ Martin Luther
 - ⬜ Jesus
-- ⬜ Confucius
 - ✅ Muhammad
 - ⬜ Buddha
 
@@ -185,7 +182,6 @@ respektfullt: "Muslims believe...".
 - ✅ Muhammad
 - ⬜ Genghis Khan
 - ⬜ Jesus
-- ⬜ Buddha
 
 ### Ordförklaringar (marginal)
 
@@ -232,7 +228,6 @@ respektfullt: "Muslims believe...".
 
 - ⬜ Socrates
 - ⬜ Jesus
-- ⬜ Confucius
 - ⬜ Buddha
 - ✅ Muhammad
 

@@ -29,7 +29,6 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 
 - ⬜ Buddha
 - ✅ Jesus
-- ⬜ Confucius
 - ⬜ Muhammad
 - ⬜ Moses
 
@@ -77,7 +76,6 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 
 - ⬜ Moses
 - ⬜ Buddha
-- ⬜ Socrates
 - ✅ Jesus
 - ⬜ Muhammad
 
@@ -129,7 +127,6 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 - ⬜ Socrates
 - ⬜ Buddha
 - ⬜ Muhammad
-- ⬜ Confucius
 
 ### Ordförklaringar (marginal)
 
@@ -178,7 +175,6 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 - ⬜ Julius Caesar
 - ✅ Jesus
 - ⬜ Buddha
-- ⬜ Moses
 
 ### Ordförklaringar (marginal)
 
@@ -225,7 +221,6 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 ### Svarsalternativ
 
 - ⬜ Socrates
-- ⬜ Confucius
 - ⬜ Muhammad
 - ⬜ Buddha
 - ✅ Jesus

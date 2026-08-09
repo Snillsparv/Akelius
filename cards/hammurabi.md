@@ -30,7 +30,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Julius Caesar
 - ⬜ Alexander the Great
 - ⬜ Confucius
-- ⬜ Augustus
 
 ### Ordförklaringar (marginal)
 
@@ -77,7 +76,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Hammurabi
 - ⬜ Cyrus the Great
 - ⬜ Julius Caesar
-- ⬜ Ramses II
 - ⬜ Alexander the Great
 
 ### Ordförklaringar (marginal)
@@ -127,7 +125,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Hammurabi
 - ⬜ Augustus
 - ⬜ Ashoka
-- ⬜ Ramses II
 - ⬜ Alexander the Great
 
 ### Ordförklaringar (marginal)
@@ -176,7 +173,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ✅ Hammurabi
 - ⬜ Moses
-- ⬜ Confucius
 - ⬜ Solon
 - ⬜ Julius Caesar
 
@@ -227,7 +223,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Hammurabi
 - ⬜ Gilgamesh
 - ⬜ Cyrus the Great
-- ⬜ Augustus
 - ⬜ Alexander the Great
 
 ### Ordförklaringar (marginal)

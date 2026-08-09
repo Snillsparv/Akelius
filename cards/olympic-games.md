@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ The Olympic Games
 - ⬜ The Pythian Games
 - ⬜ The Panathenaic Games
-- ⬜ The Isthmian Games
 
 ### Ordförklaringar (marginal)
 
@@ -77,7 +76,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ The Panathenaic Games
 - ⬜ The Pythian Games
-- ⬜ The Roman gladiator games
 - ✅ The Olympic Games
 - ⬜ The Isthmian Games
 
@@ -129,7 +127,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Isthmian Games
 - ⬜ The Nemean Games
 - ⬜ The Pythian Games
-- ⬜ The Roman gladiator games
 
 ### Ordförklaringar (marginal)
 
@@ -179,7 +176,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Pythian Games
 - ✅ The Olympic Games
 - ⬜ The Isthmian Games
-- ⬜ The Roman gladiator games
 
 ### Ordförklaringar (marginal)
 
@@ -228,7 +224,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Pythian Games
 - ⬜ The Panathenaic Games
 - ⬜ The Nemean Games
-- ⬜ The Roman gladiator games
 - ✅ The Olympic Games
 
 ### Ordförklaringar (marginal)

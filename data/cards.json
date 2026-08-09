@@ -27,7 +27,6 @@
             "Mexico",
             "Egypt",
             "China",
-            "Greece",
             "India"
           ],
           "correct": "Egypt",
@@ -84,8 +83,7 @@
             "Peru",
             "Mesopotamia",
             "Egypt",
-            "Mexico",
-            "Greece"
+            "Mexico"
           ],
           "correct": "Egypt",
           "words": [
@@ -120,7 +118,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "A mountain of stone",
           "category": "civilizations",
           "text_sentences": [
@@ -140,7 +138,6 @@
           "options": [
             "China",
             "Mexico",
-            "India",
             "Egypt",
             "Iraq"
           ],
@@ -177,7 +174,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The scribes and the flood",
           "category": "civilizations",
           "text_sentences": [
@@ -198,7 +195,6 @@
             "Mesopotamia",
             "China",
             "Egypt",
-            "India",
             "Greece"
           ],
           "correct": "Egypt",
@@ -255,7 +251,6 @@
             "Persia",
             "Egypt",
             "Mesopotamia",
-            "India",
             "China"
           ],
           "correct": "Egypt",
@@ -316,7 +311,6 @@
           "options": [
             "Egypt",
             "Mesopotamia",
-            "Greece",
             "India",
             "China"
           ],
@@ -374,8 +368,7 @@
             "China",
             "Egypt",
             "Mesopotamia",
-            "Phoenicia",
-            "Greece"
+            "Phoenicia"
           ],
           "correct": "Mesopotamia",
           "words": [
@@ -410,7 +403,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The City: A Big Invention",
           "category": "civilizations",
           "text_sentences": [
@@ -431,8 +424,7 @@
             "Egypt",
             "the Indus Valley",
             "Mesopotamia",
-            "China",
-            "Greece"
+            "China"
           ],
           "correct": "Mesopotamia",
           "words": [
@@ -467,7 +459,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The First Great Story",
           "category": "civilizations",
           "text_sentences": [
@@ -488,8 +480,7 @@
             "Greece",
             "Egypt",
             "India",
-            "Mesopotamia",
-            "Persia"
+            "Mesopotamia"
           ],
           "correct": "Mesopotamia",
           "words": [
@@ -538,7 +529,6 @@
           ],
           "question": "Which land is this?",
           "options": [
-            "Rome",
             "Greece",
             "Egypt",
             "China",
@@ -604,8 +594,7 @@
             "Hammurabi",
             "Julius Caesar",
             "Alexander the Great",
-            "Confucius",
-            "Augustus"
+            "Confucius"
           ],
           "correct": "Hammurabi",
           "words": [
@@ -653,7 +642,6 @@
             "Hammurabi",
             "Cyrus the Great",
             "Julius Caesar",
-            "Ramses II",
             "Alexander the Great"
           ],
           "correct": "Hammurabi",
@@ -689,7 +677,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "A Window into Daily Life",
           "category": "civilizations",
           "text_sentences": [
@@ -710,7 +698,6 @@
             "Hammurabi",
             "Augustus",
             "Ashoka",
-            "Ramses II",
             "Alexander the Great"
           ],
           "correct": "Hammurabi",
@@ -746,7 +733,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "An Eye for an Eye?",
           "category": "civilizations",
           "text_sentences": [
@@ -766,7 +753,6 @@
           "options": [
             "Hammurabi",
             "Moses",
-            "Confucius",
             "Solon",
             "Julius Caesar"
           ],
@@ -824,7 +810,6 @@
             "Hammurabi",
             "Gilgamesh",
             "Cyrus the Great",
-            "Augustus",
             "Alexander the Great"
           ],
           "correct": "Hammurabi",
@@ -883,8 +868,7 @@
             "The Egyptians",
             "The Phoenicians",
             "The Greeks",
-            "The Vikings",
-            "The Babylonians"
+            "The Vikings"
           ],
           "correct": "The Phoenicians",
           "words": [
@@ -941,8 +925,7 @@
             "The Sumerians",
             "The Egyptians",
             "The Phoenicians",
-            "The Greeks",
-            "The Chinese"
+            "The Greeks"
           ],
           "correct": "The Phoenicians",
           "words": [
@@ -977,7 +960,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "A network, not an empire",
           "category": "civilizations",
           "text_sentences": [
@@ -998,7 +981,6 @@
           "options": [
             "The Romans",
             "The Greeks",
-            "The Persians",
             "The Phoenicians",
             "The Egyptians"
           ],
@@ -1035,7 +1017,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The journey of the letter A",
           "category": "civilizations",
           "text_sentences": [
@@ -1056,7 +1038,6 @@
           "options": [
             "The Greeks",
             "The Romans",
-            "The Etruscans",
             "The Hebrews",
             "The Phoenicians"
           ],
@@ -1113,7 +1094,6 @@
           "question": "Who are the X people?",
           "options": [
             "The Etruscans",
-            "The Greeks",
             "The Phoenicians",
             "The Egyptians",
             "The Persians"
@@ -1179,8 +1159,7 @@
             "Socrates",
             "Plato",
             "Aristotle",
-            "Confucius",
-            "Gutenberg"
+            "Confucius"
           ],
           "correct": "Socrates",
           "words": [
@@ -1229,8 +1208,7 @@
             "Socrates",
             "Plato",
             "Buddha",
-            "Aristotle",
-            "Darwin"
+            "Aristotle"
           ],
           "correct": "Socrates",
           "words": [
@@ -1265,7 +1243,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The trial of the questioner",
           "category": "civilizations",
           "text_sentences": [
@@ -1285,7 +1263,6 @@
           "question": "Who is Mr X?",
           "options": [
             "Socrates",
-            "Julius Caesar",
             "Galileo Galilei",
             "Gandhi",
             "Nelson Mandela"
@@ -1323,7 +1300,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The soul is worth more than gold",
           "category": "civilizations",
           "text_sentences": [
@@ -1345,8 +1322,7 @@
             "Socrates",
             "Aristotle",
             "Buddha",
-            "Confucius",
-            "Karl Marx"
+            "Confucius"
           ],
           "correct": "Socrates",
           "words": [
@@ -1402,7 +1378,6 @@
           "options": [
             "Socrates",
             "Plato",
-            "Aristotle",
             "Confucius",
             "Buddha"
           ],
@@ -1467,7 +1442,6 @@
             "Plato",
             "Socrates",
             "Aristotle",
-            "Pythagoras",
             "Confucius"
           ],
           "correct": "Plato",
@@ -1525,8 +1499,7 @@
             "Plato",
             "Socrates",
             "Buddha",
-            "Karl Marx",
-            "Gandhi"
+            "Karl Marx"
           ],
           "correct": "Plato",
           "words": [
@@ -1561,7 +1534,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The perfect circle",
           "category": "civilizations",
           "text_sentences": [
@@ -1583,8 +1556,7 @@
             "Plato",
             "Pythagoras",
             "Euclid",
-            "Socrates",
-            "Confucius"
+            "Socrates"
           ],
           "correct": "Plato",
           "words": [
@@ -1619,7 +1591,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Who should rule?",
           "category": "civilizations",
           "text_sentences": [
@@ -1641,8 +1613,7 @@
             "Plato",
             "Aristotle",
             "Socrates",
-            "Karl Marx",
-            "Nelson Mandela"
+            "Karl Marx"
           ],
           "correct": "Plato",
           "words": [
@@ -1695,8 +1666,7 @@
             "Plato",
             "Socrates",
             "Confucius",
-            "Buddha",
-            "Darwin"
+            "Buddha"
           ],
           "correct": "Plato",
           "words": [
@@ -1758,7 +1728,6 @@
             "Aristotle",
             "Socrates",
             "Plato",
-            "Alexander the Great",
             "Darwin"
           ],
           "correct": "Aristotle",
@@ -1810,7 +1779,6 @@
           "options": [
             "Aristotle",
             "Darwin",
-            "Plato",
             "Socrates",
             "Hippocrates"
           ],
@@ -1843,7 +1811,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The Rules of Good Thinking",
           "category": "civilizations",
           "text_sentences": [
@@ -1863,7 +1831,6 @@
           "options": [
             "Aristotle",
             "Socrates",
-            "Plato",
             "Pythagoras",
             "Euclid"
           ],
@@ -1896,7 +1863,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The Good Middle",
           "category": "civilizations",
           "text_sentences": [
@@ -1916,7 +1883,6 @@
           "options": [
             "Aristotle",
             "Plato",
-            "Socrates",
             "Buddha",
             "Confucius"
           ],
@@ -1974,7 +1940,6 @@
             "Aristotle",
             "Plato",
             "Galileo Galilei",
-            "Ibn Rushd",
             "Copernicus"
           ],
           "correct": "Aristotle",
@@ -2037,8 +2002,7 @@
             "Julius Caesar",
             "Alexander the Great",
             "Augustus",
-            "Hammurabi",
-            "Plato"
+            "Hammurabi"
           ],
           "correct": "Alexander the Great",
           "words": [
@@ -2090,8 +2054,7 @@
             "Cyrus the Great",
             "Genghis Khan",
             "Alexander the Great",
-            "Julius Caesar",
-            "Augustus"
+            "Julius Caesar"
           ],
           "correct": "Alexander the Great",
           "words": [
@@ -2122,7 +2085,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The City of Knowledge",
           "category": "civilizations",
           "text_sentences": [
@@ -2143,7 +2106,6 @@
             "Alexander the Great",
             "Cleopatra",
             "Julius Caesar",
-            "Hammurabi",
             "Augustus"
           ],
           "correct": "Alexander the Great",
@@ -2179,7 +2141,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Great for Which People?",
           "category": "civilizations",
           "text_sentences": [
@@ -2198,7 +2160,6 @@
           "question": "Who is King X?",
           "options": [
             "Napoleon",
-            "Cyrus the Great",
             "Genghis Khan",
             "Alexander the Great",
             "Julius Caesar"
@@ -2254,7 +2215,6 @@
           ],
           "question": "Who is King X?",
           "options": [
-            "Hammurabi",
             "Alexander the Great",
             "Genghis Khan",
             "Cyrus the Great",
@@ -2321,8 +2281,7 @@
             "Rome",
             "Persia",
             "Egypt",
-            "Carthage",
-            "China"
+            "Carthage"
           ],
           "correct": "Rome",
           "words": [
@@ -2379,8 +2338,7 @@
             "Rome",
             "Athens",
             "Sparta",
-            "Carthage",
-            "Babylon"
+            "Carthage"
           ],
           "correct": "Rome",
           "words": [
@@ -2415,7 +2373,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "How a republic dies",
           "category": "civilizations",
           "text_sentences": [
@@ -2437,7 +2395,6 @@
             "Rome",
             "Athens",
             "Carthage",
-            "Alexandria",
             "Babylon"
           ],
           "correct": "Rome",
@@ -2473,7 +2430,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Empires end, ideas remain",
           "category": "civilizations",
           "text_sentences": [
@@ -2495,8 +2452,7 @@
             "Rome",
             "Greece",
             "Egypt",
-            "Persia",
-            "The Maya"
+            "Persia"
           ],
           "correct": "Rome",
           "words": [
@@ -2553,8 +2509,7 @@
             "Rome",
             "The Ottoman Empire",
             "Persia",
-            "Egypt",
-            "China"
+            "Egypt"
           ],
           "correct": "Rome",
           "words": [
@@ -2615,8 +2570,7 @@
             "Julius Caesar",
             "Augustus",
             "Alexander the Great",
-            "Hammurabi",
-            "Gutenberg"
+            "Hammurabi"
           ],
           "correct": "Julius Caesar",
           "words": [
@@ -2664,7 +2618,6 @@
             "Julius Caesar",
             "Copernicus",
             "Augustus",
-            "Aristotle",
             "Leonardo da Vinci"
           ],
           "correct": "Julius Caesar",
@@ -2696,7 +2649,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The River of No Return",
           "category": "civilizations",
           "text_sentences": [
@@ -2717,8 +2670,7 @@
             "Julius Caesar",
             "Augustus",
             "Alexander the Great",
-            "Hannibal",
-            "Hammurabi"
+            "Hannibal"
           ],
           "correct": "Julius Caesar",
           "words": [
@@ -2753,7 +2705,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Can Violence Save a Republic?",
           "category": "civilizations",
           "text_sentences": [
@@ -2772,7 +2724,6 @@
           "question": "Who is Mr X?",
           "options": [
             "Julius Caesar",
-            "Augustus",
             "Alexander the Great",
             "Socrates",
             "Gandhi"
@@ -2831,8 +2782,7 @@
             "Julius Caesar",
             "Augustus",
             "Alexander the Great",
-            "Marx",
-            "Gutenberg"
+            "Marx"
           ],
           "correct": "Julius Caesar",
           "words": [
@@ -2893,8 +2843,7 @@
             "Confucius",
             "Buddha",
             "Socrates",
-            "Plato",
-            "Gandhi"
+            "Plato"
           ],
           "correct": "Confucius",
           "words": [
@@ -2949,7 +2898,6 @@
             "Buddha",
             "Confucius",
             "Socrates",
-            "Gandhi",
             "Aristotle"
           ],
           "correct": "Confucius",
@@ -2981,7 +2929,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "Lead by Good Example",
           "category": "religions",
           "text_sentences": [
@@ -3000,7 +2948,6 @@
           "question": "Who is Master X?",
           "options": [
             "Plato",
-            "Hammurabi",
             "Confucius",
             "Buddha",
             "Marx"
@@ -3038,7 +2985,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The Glue of Society",
           "category": "religions",
           "text_sentences": [
@@ -3058,7 +3005,6 @@
           "options": [
             "Socrates",
             "Buddha",
-            "Hammurabi",
             "Confucius",
             "Gandhi"
           ],
@@ -3113,7 +3059,6 @@
           ],
           "question": "Who is Master X?",
           "options": [
-            "Socrates",
             "Plato",
             "Buddha",
             "Marx",
@@ -3180,7 +3125,6 @@
             "Siddhartha Gautama",
             "Alexander the Great",
             "Confucius",
-            "Socrates",
             "Gandhi"
           ],
           "correct": "Siddhartha Gautama",
@@ -3237,7 +3181,6 @@
             "Siddhartha Gautama",
             "Confucius",
             "Socrates",
-            "Plato",
             "Gandhi"
           ],
           "correct": "Siddhartha Gautama",
@@ -3269,7 +3212,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "A quiet revolution",
           "category": "religions",
           "text_sentences": [
@@ -3290,8 +3233,7 @@
             "Siddhartha Gautama",
             "Confucius",
             "Gandhi",
-            "Mandela",
-            "Socrates"
+            "Mandela"
           ],
           "correct": "Siddhartha Gautama",
           "words": [
@@ -3326,7 +3268,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "An idea travels without an army",
           "category": "religions",
           "text_sentences": [
@@ -3348,8 +3290,7 @@
             "Siddhartha Gautama",
             "Alexander the Great",
             "Confucius",
-            "Marx",
-            "Socrates"
+            "Marx"
           ],
           "correct": "Siddhartha Gautama",
           "words": [
@@ -3405,8 +3346,7 @@
             "Siddhartha Gautama",
             "Socrates",
             "Confucius",
-            "Aristotle",
-            "Gutenberg"
+            "Aristotle"
           ],
           "correct": "Siddhartha Gautama",
           "words": [
@@ -3468,7 +3408,6 @@
             "Egypt",
             "Greece",
             "Rome",
-            "Persia",
             "Phoenicia"
           ],
           "correct": "Greece",
@@ -3524,7 +3463,6 @@
           "options": [
             "Rome",
             "Egypt",
-            "Persia",
             "Greece",
             "Mesopotamia"
           ],
@@ -3561,7 +3499,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The theater on the hillside",
           "category": "civilizations",
           "text_sentences": [
@@ -3582,7 +3520,6 @@
           "options": [
             "Greece",
             "Rome",
-            "Persia",
             "Egypt",
             "Mesopotamia"
           ],
@@ -3619,7 +3556,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Frogs around a pond",
           "category": "civilizations",
           "text_sentences": [
@@ -3640,8 +3577,7 @@
             "Phoenicia",
             "Egypt",
             "Greece",
-            "Rome",
-            "Persia"
+            "Rome"
           ],
           "correct": "Greece",
           "words": [
@@ -3696,7 +3632,6 @@
             "Rome",
             "Egypt",
             "Mesopotamia",
-            "Persia",
             "Greece"
           ],
           "correct": "Greece",
@@ -3754,8 +3689,7 @@
             "The Roman gladiator games",
             "The Olympic Games",
             "The Pythian Games",
-            "The Panathenaic Games",
-            "The Isthmian Games"
+            "The Panathenaic Games"
           ],
           "correct": "The Olympic Games",
           "words": [
@@ -3810,7 +3744,6 @@
           "options": [
             "The Panathenaic Games",
             "The Pythian Games",
-            "The Roman gladiator games",
             "The Olympic Games",
             "The Isthmian Games"
           ],
@@ -3847,7 +3780,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "Win with honor",
           "category": "civilizations",
           "text_sentences": [
@@ -3868,8 +3801,7 @@
             "The Olympic Games",
             "The Isthmian Games",
             "The Nemean Games",
-            "The Pythian Games",
-            "The Roman gladiator games"
+            "The Pythian Games"
           ],
           "correct": "The Olympic Games",
           "words": [
@@ -3904,7 +3836,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The games wake up again",
           "category": "civilizations",
           "text_sentences": [
@@ -3925,8 +3857,7 @@
             "The Panathenaic Games",
             "The Pythian Games",
             "The Olympic Games",
-            "The Isthmian Games",
-            "The Roman gladiator games"
+            "The Isthmian Games"
           ],
           "correct": "The Olympic Games",
           "words": [
@@ -3982,7 +3913,6 @@
             "The Pythian Games",
             "The Panathenaic Games",
             "The Nemean Games",
-            "The Roman gladiator games",
             "The Olympic Games"
           ],
           "correct": "The Olympic Games",
@@ -4044,8 +3974,7 @@
             "Julius Caesar",
             "Augustus",
             "Nero",
-            "Alexander the Great",
-            "Hammurabi"
+            "Alexander the Great"
           ],
           "correct": "Augustus",
           "words": [
@@ -4100,8 +4029,7 @@
             "Julius Caesar",
             "Constantine",
             "Alexander the Great",
-            "Augustus",
-            "Genghis Khan"
+            "Augustus"
           ],
           "correct": "Augustus",
           "words": [
@@ -4136,7 +4064,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "Power without a Crown",
           "category": "civilizations",
           "text_sentences": [
@@ -4157,7 +4085,6 @@
             "Augustus",
             "Julius Caesar",
             "Nero",
-            "Napoleon Bonaparte",
             "Constantine"
           ],
           "correct": "Augustus",
@@ -4193,7 +4120,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The Face That Never Grows Old",
           "category": "civilizations",
           "text_sentences": [
@@ -4213,8 +4140,7 @@
             "Julius Caesar",
             "Alexander the Great",
             "Augustus",
-            "Nero",
-            "Napoleon Bonaparte"
+            "Nero"
           ],
           "correct": "Augustus",
           "words": [
@@ -4269,7 +4195,6 @@
           "options": [
             "Julius Caesar",
             "Hammurabi",
-            "Alexander the Great",
             "Constantine",
             "Augustus"
           ],
@@ -4332,7 +4257,6 @@
           "options": [
             "Buddha",
             "Jesus",
-            "Confucius",
             "Muhammad",
             "Moses"
           ],
@@ -4384,7 +4308,6 @@
           "options": [
             "Moses",
             "Buddha",
-            "Socrates",
             "Jesus",
             "Muhammad"
           ],
@@ -4421,7 +4344,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The good stranger",
           "category": "religions",
           "text_sentences": [
@@ -4442,8 +4365,7 @@
             "Jesus",
             "Socrates",
             "Buddha",
-            "Muhammad",
-            "Confucius"
+            "Muhammad"
           ],
           "correct": "Jesus",
           "words": [
@@ -4478,7 +4400,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "The year on the calendar",
           "category": "religions",
           "text_sentences": [
@@ -4498,8 +4420,7 @@
             "Muhammad",
             "Julius Caesar",
             "Jesus",
-            "Buddha",
-            "Moses"
+            "Buddha"
           ],
           "correct": "Jesus",
           "words": [
@@ -4553,7 +4474,6 @@
           "question": "Who is Mr X?",
           "options": [
             "Socrates",
-            "Confucius",
             "Muhammad",
             "Buddha",
             "Jesus"
@@ -4618,8 +4538,7 @@
             "Jesus",
             "Buddha",
             "Muhammad",
-            "Moses",
-            "Confucius"
+            "Moses"
           ],
           "correct": "Muhammad",
           "words": [
@@ -4675,8 +4594,7 @@
             "Muhammad",
             "Moses",
             "Jesus",
-            "Buddha",
-            "Gandhi"
+            "Buddha"
           ],
           "correct": "Muhammad",
           "words": [
@@ -4711,7 +4629,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "A Book to Learn by Heart",
           "category": "religions",
           "text_sentences": [
@@ -4731,7 +4649,6 @@
           "options": [
             "Martin Luther",
             "Jesus",
-            "Confucius",
             "Muhammad",
             "Buddha"
           ],
@@ -4768,7 +4685,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "From the Desert to a World of Knowledge",
           "category": "religions",
           "text_sentences": [
@@ -4789,8 +4706,7 @@
             "Alexander the Great",
             "Muhammad",
             "Genghis Khan",
-            "Jesus",
-            "Buddha"
+            "Jesus"
           ],
           "correct": "Muhammad",
           "words": [
@@ -4844,7 +4760,6 @@
           "options": [
             "Socrates",
             "Jesus",
-            "Confucius",
             "Buddha",
             "Muhammad"
           ],
@@ -4908,7 +4823,6 @@
             "Egypt",
             "Rome",
             "The Byzantine Empire",
-            "Persia",
             "The Ottoman Empire"
           ],
           "correct": "The Byzantine Empire",
@@ -4965,8 +4879,7 @@
             "The Byzantine Empire",
             "Greece",
             "The Ottoman Empire",
-            "Egypt",
-            "Persia"
+            "Egypt"
           ],
           "correct": "The Byzantine Empire",
           "words": [
@@ -5001,7 +4914,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "A thousand years of laws",
           "category": "middle ages",
           "text_sentences": [
@@ -5022,8 +4935,7 @@
             "Persia",
             "Rome",
             "Egypt",
-            "The Byzantine Empire",
-            "China"
+            "The Byzantine Empire"
           ],
           "correct": "The Byzantine Empire",
           "words": [
@@ -5058,7 +4970,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "A bridge of books",
           "category": "middle ages",
           "text_sentences": [
@@ -5079,8 +4991,7 @@
             "Rome",
             "The Byzantine Empire",
             "The Ottoman Empire",
-            "Persia",
-            "China"
+            "Persia"
           ],
           "correct": "The Byzantine Empire",
           "words": [
@@ -5136,7 +5047,6 @@
             "The Ottoman Empire",
             "Persia",
             "Egypt",
-            "China",
             "The Byzantine Empire"
           ],
           "correct": "The Byzantine Empire",
@@ -5194,8 +5104,7 @@
             "The Romans",
             "The Vikings",
             "The Phoenicians",
-            "The Greeks",
-            "The Egyptians"
+            "The Greeks"
           ],
           "correct": "The Vikings",
           "words": [
@@ -5250,7 +5159,6 @@
           "options": [
             "The Phoenicians",
             "The Greeks",
-            "The Mongols",
             "The Vikings",
             "The Romans"
           ],
@@ -5287,7 +5195,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "Land in the west",
           "category": "middle ages",
           "text_sentences": [
@@ -5309,7 +5217,6 @@
             "The Vikings",
             "The Phoenicians",
             "The Greeks",
-            "The Maya",
             "The Romans"
           ],
           "correct": "The Vikings",
@@ -5345,7 +5252,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Stones that remember",
           "category": "middle ages",
           "text_sentences": [
@@ -5364,7 +5271,6 @@
             "The Phoenicians",
             "The Egyptians",
             "The Maya",
-            "The Mongols",
             "The Vikings"
           ],
           "correct": "The Vikings",
@@ -5422,8 +5328,7 @@
             "The Mongols",
             "The Romans",
             "The Vikings",
-            "The Ottomans",
-            "The Greeks"
+            "The Ottomans"
           ],
           "correct": "The Vikings",
           "words": [
@@ -5482,7 +5387,6 @@
           "question": "Which wars are these?",
           "options": [
             "The Viking raids",
-            "World War I",
             "The Crusades",
             "The Punic Wars",
             "The Mongol conquests"
@@ -5541,8 +5445,7 @@
             "The Crusades",
             "The Persian Wars",
             "The Viking raids",
-            "The Mongol conquests",
-            "World War I"
+            "The Mongol conquests"
           ],
           "correct": "The Crusades",
           "words": [
@@ -5577,7 +5480,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "Goods and ideas cross the sea",
           "category": "middle ages",
           "text_sentences": [
@@ -5595,7 +5498,6 @@
           ],
           "question": "Which wars are these?",
           "options": [
-            "The Punic Wars",
             "The Persian Wars",
             "The Mongol conquests",
             "The Crusades",
@@ -5634,7 +5536,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "No simple story",
           "category": "middle ages",
           "text_sentences": [
@@ -5653,7 +5555,6 @@
           ],
           "question": "Which wars are these?",
           "options": [
-            "World War I",
             "The Crusades",
             "The Mongol conquests",
             "The Viking raids",
@@ -5712,7 +5613,6 @@
             "The Persian Wars",
             "The Punic Wars",
             "The Mongol conquests",
-            "World War I",
             "The Crusades"
           ],
           "correct": "The Crusades",
@@ -5775,7 +5675,6 @@
             "The Black Death",
             "smallpox",
             "cholera",
-            "malaria",
             "leprosy"
           ],
           "correct": "The Black Death",
@@ -5832,8 +5731,7 @@
             "smallpox",
             "malaria",
             "The Black Death",
-            "cholera",
-            "leprosy"
+            "cholera"
           ],
           "correct": "The Black Death",
           "words": [
@@ -5868,7 +5766,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "When workers become few",
           "category": "middle ages",
           "text_sentences": [
@@ -5886,7 +5784,6 @@
           ],
           "question": "Which sickness is this?",
           "options": [
-            "malaria",
             "cholera",
             "leprosy",
             "smallpox",
@@ -5925,7 +5822,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Fear and forty days",
           "category": "middle ages",
           "text_sentences": [
@@ -5946,7 +5843,6 @@
             "leprosy",
             "The Black Death",
             "smallpox",
-            "malaria",
             "cholera"
           ],
           "correct": "The Black Death",
@@ -6002,7 +5898,6 @@
           "options": [
             "smallpox",
             "leprosy",
-            "cholera",
             "The Black Death",
             "malaria"
           ],
@@ -6064,7 +5959,6 @@
           "options": [
             "Alexander the Great",
             "Genghis Khan",
-            "Julius Caesar",
             "Napoleon Bonaparte",
             "Kublai Khan"
           ],
@@ -6123,7 +6017,6 @@
             "Kublai Khan",
             "Alexander the Great",
             "Julius Caesar",
-            "Napoleon Bonaparte",
             "Genghis Khan"
           ],
           "correct": "Genghis Khan",
@@ -6155,7 +6048,7 @@
           }
         },
         {
-          "level": "grade 12 A",
+          "level": "grade 12",
           "title": "The Ruler Who Cannot Read",
           "category": "middle ages",
           "text_sentences": [
@@ -6177,8 +6070,7 @@
             "Genghis Khan",
             "Hammurabi",
             "Napoleon Bonaparte",
-            "Kublai Khan",
-            "Julius Caesar"
+            "Kublai Khan"
           ],
           "correct": "Genghis Khan",
           "words": [
@@ -6213,7 +6105,7 @@
           }
         },
         {
-          "level": "grade 12 B",
+          "level": "grade 12",
           "title": "Safe Roads, Terrible Price",
           "category": "middle ages",
           "text_sentences": [
@@ -6234,8 +6126,7 @@
             "Alexander the Great",
             "Napoleon Bonaparte",
             "Genghis Khan",
-            "Kublai Khan",
-            "Julius Caesar"
+            "Kublai Khan"
           ],
           "correct": "Genghis Khan",
           "words": [
@@ -6284,7 +6175,6 @@
           ],
           "question": "Who is Khan X?",
           "options": [
-            "Julius Caesar",
             "Alexander the Great",
             "Napoleon Bonaparte",
             "Genghis Khan",

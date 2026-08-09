@@ -27,7 +27,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ Egypt
 - ✅ Mesopotamia
-- ⬜ Greece
 - ⬜ India
 - ⬜ China
 
@@ -79,7 +78,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Egypt
 - ✅ Mesopotamia
 - ⬜ Phoenicia
-- ⬜ Greece
 
 ### Ordförklaringar (marginal)
 
@@ -129,7 +127,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ the Indus Valley
 - ✅ Mesopotamia
 - ⬜ China
-- ⬜ Greece
 
 ### Ordförklaringar (marginal)
 
@@ -179,7 +176,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Egypt
 - ⬜ India
 - ✅ Mesopotamia
-- ⬜ Persia
 
 ### Ordförklaringar (marginal)
 
@@ -224,7 +220,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Svarsalternativ
 
-- ⬜ Rome
 - ⬜ Greece
 - ⬜ Egypt
 - ⬜ China

@@ -26,7 +26,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Svarsalternativ
 
 - ⬜ The Viking raids
-- ⬜ World War I
 - ✅ The Crusades
 - ⬜ The Punic Wars
 - ⬜ The Mongol conquests
@@ -79,7 +78,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Persian Wars
 - ⬜ The Viking raids
 - ⬜ The Mongol conquests
-- ⬜ World War I
 
 ### Ordförklaringar (marginal)
 
@@ -125,7 +123,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Svarsalternativ
 
-- ⬜ The Punic Wars
 - ⬜ The Persian Wars
 - ⬜ The Mongol conquests
 - ✅ The Crusades
@@ -176,7 +173,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Svarsalternativ
 
-- ⬜ World War I
 - ✅ The Crusades
 - ⬜ The Mongol conquests
 - ⬜ The Viking raids
@@ -228,7 +224,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Persian Wars
 - ⬜ The Punic Wars
 - ⬜ The Mongol conquests
-- ⬜ World War I
 - ✅ The Crusades
 
 ### Ordförklaringar (marginal)

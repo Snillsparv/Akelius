@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Augustus
 - ⬜ Nero
 - ⬜ Alexander the Great
-- ⬜ Hammurabi
 
 ### Ordförklaringar (marginal)
 
@@ -78,7 +77,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Constantine
 - ⬜ Alexander the Great
 - ✅ Augustus
-- ⬜ Genghis Khan
 
 ### Ordförklaringar (marginal)
 
@@ -127,7 +125,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ Augustus
 - ⬜ Julius Caesar
 - ⬜ Nero
-- ⬜ Napoleon Bonaparte
 - ⬜ Constantine
 
 ### Ordförklaringar (marginal)
@@ -177,7 +174,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Alexander the Great
 - ✅ Augustus
 - ⬜ Nero
-- ⬜ Napoleon Bonaparte
 
 ### Ordförklaringar (marginal)
 
@@ -225,7 +221,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ Julius Caesar
 - ⬜ Hammurabi
-- ⬜ Alexander the Great
 - ⬜ Constantine
 - ✅ Augustus
 

@@ -27,7 +27,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ Alexander the Great
 - ✅ Genghis Khan
-- ⬜ Julius Caesar
 - ⬜ Napoleon Bonaparte
 - ⬜ Kublai Khan
 
@@ -79,7 +78,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Kublai Khan
 - ⬜ Alexander the Great
 - ⬜ Julius Caesar
-- ⬜ Napoleon Bonaparte
 - ✅ Genghis Khan
 
 ### Ordförklaringar (marginal)
@@ -130,7 +128,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Hammurabi
 - ⬜ Napoleon Bonaparte
 - ⬜ Kublai Khan
-- ⬜ Julius Caesar
 
 ### Ordförklaringar (marginal)
 
@@ -180,7 +177,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Napoleon Bonaparte
 - ✅ Genghis Khan
 - ⬜ Kublai Khan
-- ⬜ Julius Caesar
 
 ### Ordförklaringar (marginal)
 
@@ -225,7 +221,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Svarsalternativ
 
-- ⬜ Julius Caesar
 - ⬜ Alexander the Great
 - ⬜ Napoleon Bonaparte
 - ✅ Genghis Khan

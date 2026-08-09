@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Egypt
 - ⬜ Rome
 - ✅ The Byzantine Empire
-- ⬜ Persia
 - ⬜ The Ottoman Empire
 
 ### Ordförklaringar (marginal)
@@ -80,7 +79,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Greece
 - ⬜ The Ottoman Empire
 - ⬜ Egypt
-- ⬜ Persia
 
 ### Ordförklaringar (marginal)
 
@@ -130,7 +128,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ Rome
 - ⬜ Egypt
 - ✅ The Byzantine Empire
-- ⬜ China
 
 ### Ordförklaringar (marginal)
 
@@ -180,7 +177,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ The Byzantine Empire
 - ⬜ The Ottoman Empire
 - ⬜ Persia
-- ⬜ China
 
 ### Ordförklaringar (marginal)
 
@@ -229,7 +225,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ The Ottoman Empire
 - ⬜ Persia
 - ⬜ Egypt
-- ⬜ China
 - ✅ The Byzantine Empire
 
 ### Ordförklaringar (marginal)

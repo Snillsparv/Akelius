@@ -16,8 +16,8 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 LEVELS = {
     'Årskurs 6': 'grade 6',
     'Årskurs 9': 'grade 9',
-    'Årskurs 12 (A)': 'grade 12 A',
-    'Årskurs 12 (B)': 'grade 12 B',
+    'Årskurs 12 (A)': 'grade 12',
+    'Årskurs 12 (B)': 'grade 12',
     'Universitet': 'university',
 }
 
@@ -59,7 +59,7 @@ def parse_set(slug):
             sys.exit(f'{slug} kort {head.group(1)}: {len(sentences)} meningar (utanför 7–12)')
 
         opts = re.findall(r'(?m)^- (✅|⬜) (.+?)[ \t]*$', block)
-        if len(opts) != 5 or sum(1 for s, _ in opts if s == '✅') != 1:
+        if len(opts) != 4 or sum(1 for s, _ in opts if s == '✅') != 1:
             sys.exit(f'{slug} kort {head.group(1)}: alternativfel ({len(opts)} st)')
         options = [o for _, o in opts]
         correct = next(o for s, o in opts if s == '✅')

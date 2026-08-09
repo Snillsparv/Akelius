@@ -92,7 +92,7 @@ svar (✅ = rätt) och ordlista.
 > For thousands of years, it was the tallest building on Earth.  
 > **Which land is this?**
 
-**Svar:** ⬜ Mexico · ✅ Egypt · ⬜ China · ⬜ Greece · ⬜ India
+**Svar:** ⬜ Mexico · ✅ Egypt · ⬜ China · ⬜ India
 
 **Ord:** *flood* — the river rises and water covers the land · *soil* — the earth where plants grow · *tomb* — a room or building for a dead person · *wheat* — a plant; people make bread from it
 
@@ -114,14 +114,14 @@ svar (✅ = rätt) och ordlista.
 > Only a strong and well-planned land can do this.  
 > **Which land is this?**
 
-**Svar:** ⬜ Peru · ⬜ Mesopotamia · ✅ Egypt · ⬜ Mexico · ⬜ Greece
+**Svar:** ⬜ Peru · ⬜ Mesopotamia · ✅ Egypt · ⬜ Mexico
 
 **Ord:** *pyramid* — a building with a square bottom and one point at the top · *sledge* — a flat wooden board for pulling heavy things · *ramp* — a road that goes up, little by little · *archaeologist* — a scientist who digs in the ground to learn about old times
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — A mountain of stone</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — A mountain of stone</summary>
 
 > Why does a land build a mountain of stone?  
 > Land X lies by a long river, at the edge of a great desert.  
@@ -136,14 +136,14 @@ svar (✅ = rätt) och ordlista.
 > What do they say about us?  
 > **Which land is this?**
 
-**Svar:** ⬜ China · ⬜ Mexico · ⬜ India · ✅ Egypt · ⬜ Iraq
+**Svar:** ⬜ China · ⬜ Mexico · ✅ Egypt · ⬜ Iraq
 
 **Ord:** *mummy* — a dead body that is dried and wrapped so it lasts a very long time · *tomb* — a room or building for a dead person · *temple* — a building where people pray to a god · *desert* — very dry land with sand and almost no rain
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The scribes and the flood</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The scribes and the flood</summary>
 
 > In Land X, a scribe sits by a field and counts sacks of wheat.  
 > He writes signs on papyrus.  
@@ -158,7 +158,7 @@ svar (✅ = rätt) och ordlista.
 > No scribes means no taxes, and no taxes means no pyramids.  
 > **Which land is this?**
 
-**Svar:** ⬜ Mesopotamia · ⬜ China · ✅ Egypt · ⬜ India · ⬜ Greece
+**Svar:** ⬜ Mesopotamia · ⬜ China · ✅ Egypt · ⬜ Greece
 
 **Ord:** *scribe* — a person whose work is writing and counting · *papyrus* — a kind of paper; people make it from a river plant · *tax* — things people must give to the king or the state, like wheat or money · *geometry* — the mathematics of shapes and of measuring land
 
@@ -180,7 +180,7 @@ svar (✅ = rätt) och ordlista.
 > Archaeology can give the voice back.  
 > **Which land is this?**
 
-**Svar:** ⬜ Persia · ✅ Egypt · ⬜ Mesopotamia · ⬜ India · ⬜ China
+**Svar:** ⬜ Persia · ✅ Egypt · ⬜ Mesopotamia · ⬜ China
 
 **Ord:** *script* — a set of signs for writing a language · *scholar* — a person who studies a subject very deeply · *archaeology* — the study of things people from long ago leave behind · *tomb* — a room or building for a dead person
 
@@ -204,7 +204,7 @@ svar (✅ = rätt) och ordlista.
 > The name of this land means 'between the rivers'.  
 > **Which land is this?**
 
-**Svar:** ⬜ Egypt · ✅ Mesopotamia · ⬜ Greece · ⬜ India · ⬜ China
+**Svar:** ⬜ Egypt · ✅ Mesopotamia · ⬜ India · ⬜ China
 
 **Ord:** *canal* — a small river that people dig; it carries water to the fields · *clay* — soft, wet earth; it gets hard when it dries · *temple* — a house for a god · *grain* — the seeds of plants like wheat; people make bread from it
 
@@ -226,14 +226,14 @@ svar (✅ = rätt) och ordlista.
 > Much later, people write letters, laws, and stories.  
 > **Which land is this?**
 
-**Svar:** ⬜ China · ⬜ Egypt · ✅ Mesopotamia · ⬜ Phoenicia · ⬜ Greece
+**Svar:** ⬜ China · ⬜ Egypt · ✅ Mesopotamia · ⬜ Phoenicia
 
 **Ord:** *token* — a small clay piece that stands for one thing, like one sheep · *reed* — a tall grass that grows by the river · *wedge* — a small shape like the tip of a nail · *accounting* — counting goods and writing the numbers down
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The City: A Big Invention</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The City: A Big Invention</summary>
 
 > In Land X, between two big rivers, the fields need canals.  
 > Families must share the river water fairly.  
@@ -248,14 +248,14 @@ svar (✅ = rätt) och ordlista.
 > Maybe the city is the biggest invention that people ever make.  
 > **Which land is this?**
 
-**Svar:** ⬜ Egypt · ⬜ the Indus Valley · ✅ Mesopotamia · ⬜ China · ⬜ Greece
+**Svar:** ⬜ Egypt · ⬜ the Indus Valley · ✅ Mesopotamia · ⬜ China
 
 **Ord:** *canal* — a small river that people dig; it brings water to the fields · *specialization* — when each person learns one job very well · *craft* — a special skill or job; you learn it with long practice · *stranger* — a person you do not know
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The First Great Story</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The First Great Story</summary>
 
 > The people of Land X write the oldest great story that we can still read.  
 > They write it on clay tablets.  
@@ -270,7 +270,7 @@ svar (✅ = rätt) och ordlista.
 > People ask this question 4,000 years ago, and we still ask it today.  
 > **Which land is this?**
 
-**Svar:** ⬜ Greece · ⬜ Egypt · ⬜ India · ✅ Mesopotamia · ⬜ Persia
+**Svar:** ⬜ Greece · ⬜ Egypt · ⬜ India · ✅ Mesopotamia
 
 **Ord:** *eternal* — forever, without end · *tablet* — a flat piece of clay for writing · *clay* — soft, wet earth; it gets hard when it dries
 
@@ -292,7 +292,7 @@ svar (✅ = rätt) och ordlista.
 > Durable writing materials keep the small voices alive, not only the voices of kings.  
 > **Which land is this?**
 
-**Svar:** ⬜ Rome · ⬜ Greece · ⬜ Egypt · ⬜ China · ✅ Mesopotamia
+**Svar:** ⬜ Greece · ⬜ Egypt · ⬜ China · ✅ Mesopotamia
 
 **Ord:** *receipt* — a note that shows what somebody buys or pays · *scholar* — a person who studies one subject very deeply · *durable* — strong; it lasts a very long time · *wedge-shaped* — looking like small triangles, wide at one end and sharp at the other
 
@@ -317,7 +317,7 @@ svar (✅ = rätt) och ordlista.
 > This happens almost 4,000 years ago.  
 > **Who is King X?**
 
-**Svar:** ✅ Hammurabi · ⬜ Julius Caesar · ⬜ Alexander the Great · ⬜ Confucius · ⬜ Augustus
+**Svar:** ✅ Hammurabi · ⬜ Julius Caesar · ⬜ Alexander the Great · ⬜ Confucius
 
 **Ord:** *carve* — to cut letters or pictures into hard stone · *powerful* — able to tell many people what to do, like a king
 
@@ -339,14 +339,14 @@ svar (✅ = rätt) och ordlista.
 > When all people can know the law, life is more fair.  
 > **Who is King X?**
 
-**Svar:** ✅ Hammurabi · ⬜ Cyrus the Great · ⬜ Julius Caesar · ⬜ Ramses II · ⬜ Alexander the Great
+**Svar:** ✅ Hammurabi · ⬜ Cyrus the Great · ⬜ Julius Caesar · ⬜ Alexander the Great
 
 **Ord:** *Mesopotamia* — an old land between two big rivers, in today's Iraq · *judge* — a person who decides who is right when people fight about rules · *widow* — a woman whose husband is dead · *orphan* — a child whose parents are dead
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — A Window into Daily Life</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — A Window into Daily Life</summary>
 
 > King X rules the city of Babylon about 3,800 years ago.  
 > His workers cut nearly 300 laws into one tall stone.  
@@ -361,14 +361,14 @@ svar (✅ = rätt) och ordlista.
 > Old laws are a window into daily life.  
 > **Who is King X?**
 
-**Svar:** ✅ Hammurabi · ⬜ Augustus · ⬜ Ashoka · ⬜ Ramses II · ⬜ Alexander the Great
+**Svar:** ✅ Hammurabi · ⬜ Augustus · ⬜ Ashoka · ⬜ Alexander the Great
 
 **Ord:** *wage* — the money you get for your work · *fee* — the money you pay for a service, for example to a doctor · *rent* — the money you pay to use a thing, like a boat or a house · *adoption* — taking a child into your family as your own child
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — An Eye for an Eye?</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — An Eye for an Eye?</summary>
 
 > King X of Babylon puts his laws on a tall stone.  
 > His laws are some of the first written laws in the world.  
@@ -383,7 +383,7 @@ svar (✅ = rätt) och ordlista.
 > They can change, and they can get better.  
 > **Who is King X?**
 
-**Svar:** ✅ Hammurabi · ⬜ Moses · ⬜ Confucius · ⬜ Solon · ⬜ Julius Caesar
+**Svar:** ✅ Hammurabi · ⬜ Moses · ⬜ Solon · ⬜ Julius Caesar
 
 **Ord:** *slave* — a person who is not free and must work for an owner · *punishment* — something bad you must accept because you broke a rule · *equal* — the same for everyone · *justice* — when people are treated in a fair and right way
 
@@ -405,7 +405,7 @@ svar (✅ = rätt) och ordlista.
 > One stone shows how law, power, and things travel through time.  
 > **Who is King X?**
 
-**Svar:** ✅ Hammurabi · ⬜ Gilgamesh · ⬜ Cyrus the Great · ⬜ Augustus · ⬜ Alexander the Great
+**Svar:** ✅ Hammurabi · ⬜ Gilgamesh · ⬜ Cyrus the Great · ⬜ Alexander the Great
 
 **Ord:** *rod* — a short straight stick · *war prize* — a special thing that the winners take home after a war · *archaeologist* — a scientist who digs in the earth to find things from the past
 
@@ -430,7 +430,7 @@ svar (✅ = rätt) och ordlista.
 > Their land is small, but the open sea makes them rich.  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Egyptians · ✅ The Phoenicians · ⬜ The Greeks · ⬜ The Vikings · ⬜ The Babylonians
+**Svar:** ⬜ The Egyptians · ✅ The Phoenicians · ⬜ The Greeks · ⬜ The Vikings
 
 **Ord:** *trader* — a person who buys and sells things · *cedar* — a tall tree with strong, good-smelling wood · *dye* — something that gives color to cloth · *rare* — very hard to find; there is only a little of it
 
@@ -453,14 +453,14 @@ svar (✅ = rätt) och ordlista.
 > A simple tool can change the world.  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Sumerians · ⬜ The Egyptians · ✅ The Phoenicians · ⬜ The Greeks · ⬜ The Chinese
+**Svar:** ⬜ The Sumerians · ⬜ The Egyptians · ✅ The Phoenicians · ⬜ The Greeks
 
 **Ord:** *sign* — a simple mark that you write, like a letter · *scribe* — a person whose job is writing · *port* — a town by the sea where ships stop · *alphabet* — a small set of letters that people use to write all words
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — A network, not an empire</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — A network, not an empire</summary>
 
 > The X people live in port cities on the east coast of the Mediterranean Sea.  
 > Each city, like Tyre or Byblos, is a city-state with its own king.  
@@ -476,14 +476,14 @@ svar (✅ = rätt) och ordlista.
 > Power can grow from trade, not from conquest.  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Romans · ⬜ The Greeks · ⬜ The Persians · ✅ The Phoenicians · ⬜ The Egyptians
+**Svar:** ⬜ The Romans · ⬜ The Greeks · ✅ The Phoenicians · ⬜ The Egyptians
 
 **Ord:** *city-state* — a city that is its own small country · *empire* — one ruler over many lands and peoples · *network* — many points joined together, like a spider web · *conquest* — taking land by war
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The journey of the letter A</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The journey of the letter A</summary>
 
 > Look at the letter A on this card.  
 > The X people are sea traders on the east coast of the Mediterranean Sea.  
@@ -499,7 +499,7 @@ svar (✅ = rätt) och ordlista.
 > A small idea can travel further than any ship.  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Greeks · ⬜ The Romans · ⬜ The Etruscans · ⬜ The Hebrews · ✅ The Phoenicians
+**Svar:** ⬜ The Greeks · ⬜ The Romans · ⬜ The Hebrews · ✅ The Phoenicians
 
 **Ord:** *trader* — a person who buys and sells things · *vowel* — a letter for an open sound, like A, E, O · *ox* — a strong farm animal, like a big cow · *sign* — a simple mark that you write, like a letter
 
@@ -522,7 +522,7 @@ svar (✅ = rätt) och ordlista.
 > When you read history, ask: who tells the story, and why?  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Etruscans · ⬜ The Greeks · ✅ The Phoenicians · ⬜ The Egyptians · ⬜ The Persians
+**Svar:** ⬜ The Etruscans · ✅ The Phoenicians · ⬜ The Egyptians · ⬜ The Persians
 
 **Ord:** *papyrus* — a kind of paper made from a river plant · *rot* — to slowly break down and fall apart, like old wet wood · *rival* — a person or group that fights or competes with you · *archaeologist* — a scientist who digs in the ground and studies old things
 
@@ -548,7 +548,7 @@ svar (✅ = rätt) och ordlista.
 > That is why we still know his ideas today.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Socrates · ⬜ Plato · ⬜ Aristotle · ⬜ Confucius · ⬜ Gutenberg
+**Svar:** ✅ Socrates · ⬜ Plato · ⬜ Aristotle · ⬜ Confucius
 
 **Ord:** *barefoot* — with no shoes on your feet · *ancient* — very old, from a time long ago
 
@@ -571,14 +571,14 @@ svar (✅ = rätt) och ordlista.
 > It also helps you check news, rumors, and advertising.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Socrates · ⬜ Plato · ⬜ Buddha · ⬜ Aristotle · ⬜ Darwin
+**Svar:** ✅ Socrates · ⬜ Plato · ⬜ Buddha · ⬜ Aristotle
 
 **Ord:** *reason* — why you think something is true · *saying* — a short sentence that many people know and repeat · *rumor* — a story people tell each other, but no one checks if it is true · *advertising* — words and pictures that try to make you buy something
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The trial of the questioner</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The trial of the questioner</summary>
 
 > Athens loses a long war.  
 > The people are afraid and angry.  
@@ -594,14 +594,14 @@ svar (✅ = rätt) och ordlista.
 > His trial leaves us a big question: what may a country do to a thinker?  
 > **Who is Mr X?**
 
-**Svar:** ✅ Socrates · ⬜ Julius Caesar · ⬜ Galileo Galilei · ⬜ Gandhi · ⬜ Nelson Mandela
+**Svar:** ✅ Socrates · ⬜ Galileo Galilei · ⬜ Gandhi · ⬜ Nelson Mandela
 
 **Ord:** *trial* — when a court (the place of judges) decides: did a person do a crime? · *jury* — a group of normal people who vote in court: did he do it or not? · *guilty* — the court says: yes, he did it · *poison* — a thing that kills you when you drink or eat it
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The soul is worth more than gold</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The soul is worth more than gold</summary>
 
 > Mr X walks through Athens.  
 > He stops people and talks with them.  
@@ -617,7 +617,7 @@ svar (✅ = rätt) och ordlista.
 > That is why many powerful men become his enemies.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Socrates · ⬜ Aristotle · ⬜ Buddha · ⬜ Confucius · ⬜ Karl Marx
+**Svar:** ✅ Socrates · ⬜ Aristotle · ⬜ Buddha · ⬜ Confucius
 
 **Ord:** *soul* — the inner part of you: your thoughts, feelings, and character · *fame* — when many people know your name · *unexamined* — not checked, not looked at · *cheat* — to lie or trick people to win or get money
 
@@ -640,7 +640,7 @@ svar (✅ = rätt) och ordlista.
 > Later, Aristotle turns this testing into logic, the study of good arguments.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Socrates · ⬜ Plato · ⬜ Aristotle · ⬜ Confucius · ⬜ Buddha
+**Svar:** ✅ Socrates · ⬜ Plato · ⬜ Confucius · ⬜ Buddha
 
 **Ord:** *dialogue* — a written talk between two or more people · *expert* — a person who knows very much about one thing · *refutation* — showing, step by step, that an idea cannot stand · *claim* — something a person says is true
 
@@ -666,7 +666,7 @@ svar (✅ = rätt) och ordlista.
 > Mr X writes, so his teacher's ideas never die.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Plato · ⬜ Socrates · ⬜ Aristotle · ⬜ Pythagoras · ⬜ Confucius
+**Svar:** ✅ Plato · ⬜ Socrates · ⬜ Aristotle · ⬜ Confucius
 
 **Ord:** *Academy* — the name of his school. Many schools use this name today. · *conversation* — two or more people talking together · *square* — an open place in the middle of a town · *scroll* — a long piece of paper that you roll up
 
@@ -689,14 +689,14 @@ svar (✅ = rätt) och ordlista.
 > Today, a phone screen can be like that wall.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Plato · ⬜ Socrates · ⬜ Buddha · ⬜ Karl Marx · ⬜ Gandhi
+**Svar:** ✅ Plato · ⬜ Socrates · ⬜ Buddha · ⬜ Karl Marx
 
 **Ord:** *cave* — a big dark hole in a rock or under the ground · *prisoner* — a person who is not free and cannot go out · *shadow* — the dark shape a thing makes when it blocks light · *chained* — tied with metal rings, so you cannot move away
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The perfect circle</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The perfect circle</summary>
 
 > Mr X starts a famous school in Athens.  
 > He is a student of Socrates.  
@@ -712,14 +712,14 @@ svar (✅ = rätt) och ordlista.
 > Ask yourself: do you trust your eyes, or your mind?  
 > **Who is Mr X?**
 
-**Svar:** ✅ Plato · ⬜ Pythagoras · ⬜ Euclid · ⬜ Socrates · ⬜ Confucius
+**Svar:** ✅ Plato · ⬜ Pythagoras · ⬜ Euclid · ⬜ Socrates
 
 **Ord:** *philosopher* — a person who thinks hard about big questions · *mathematician* — a person who works with numbers and shapes · *geometry* — mathematics about shapes, like circles and triangles · *imperfect* — not perfect; with small mistakes
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Who should rule?</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Who should rule?</summary>
 
 > Mr X lives in Athens.  
 > One day, a big jury judges his teacher, Socrates.  
@@ -735,7 +735,7 @@ svar (✅ = rätt) och ordlista.
 > His question is still alive today: how should we choose our leaders?  
 > **Who is Mr X?**
 
-**Svar:** ✅ Plato · ⬜ Aristotle · ⬜ Socrates · ⬜ Karl Marx · ⬜ Nelson Mandela
+**Svar:** ✅ Plato · ⬜ Aristotle · ⬜ Socrates · ⬜ Karl Marx
 
 **Ord:** *jury* — a group of people who decide if someone did wrong · *state* — a country and the people who lead it · *ruler* — a person who leads a country
 
@@ -758,7 +758,7 @@ svar (✅ = rätt) och ordlista.
 > So when you read the news, ask: do I know this, or do I only believe it?  
 > **Who is Mr X?**
 
-**Svar:** ✅ Plato · ⬜ Socrates · ⬜ Confucius · ⬜ Buddha · ⬜ Darwin
+**Svar:** ✅ Plato · ⬜ Socrates · ⬜ Confucius · ⬜ Buddha
 
 **Ord:** *belief* — something you think is true · *knowledge* — the things you really know, not only believe · *philosophy* — thinking hard about big questions · *footnote* — a small extra note at the bottom of a page
 
@@ -783,7 +783,7 @@ svar (✅ = rätt) och ordlista.
 > When you look closely and compare, you learn new things.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Aristotle · ⬜ Socrates · ⬜ Plato · ⬜ Alexander the Great · ⬜ Darwin
+**Svar:** ✅ Aristotle · ⬜ Socrates · ⬜ Plato · ⬜ Darwin
 
 **Ord:** *collect* — to bring many things together in one place · *compare* — to look at two things and see what is the same and what is different · *prince* — the son of a king
 
@@ -805,14 +805,14 @@ svar (✅ = rätt) och ordlista.
 > This idea is a root of modern science.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Aristotle · ⬜ Darwin · ⬜ Plato · ⬜ Socrates · ⬜ Hippocrates
+**Svar:** ✅ Aristotle · ⬜ Darwin · ⬜ Socrates · ⬜ Hippocrates
 
 **Ord:** *octopus* — a sea animal with eight arms · *biologist* — a scientist who studies living things · *root* — the place where something begins, like the root of a plant
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The Rules of Good Thinking</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The Rules of Good Thinking</summary>
 
 > Mr X is a student at Plato's school in Athens.  
 > After many years, he opens his own school.  
@@ -827,14 +827,14 @@ svar (✅ = rätt) och ordlista.
 > Mathematics and computers still build on this science today.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Aristotle · ⬜ Socrates · ⬜ Plato · ⬜ Pythagoras · ⬜ Euclid
+**Svar:** ✅ Aristotle · ⬜ Socrates · ⬜ Pythagoras · ⬜ Euclid
 
 **Ord:** *argument* — reasons that you give to show that something is true · *mortal* — somebody who must die one day · *logic* — the rules for good, clear thinking
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The Good Middle</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The Good Middle</summary>
 
 > Mr X is a Greek thinker.  
 > He learns from Plato for many years.  
@@ -849,7 +849,7 @@ svar (✅ = rätt) och ordlista.
 > Happiness is a whole life, lived well.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Aristotle · ⬜ Plato · ⬜ Socrates · ⬜ Buddha · ⬜ Confucius
+**Svar:** ✅ Aristotle · ⬜ Plato · ⬜ Buddha · ⬜ Confucius
 
 **Ord:** *courage* — being brave when something is hard · *coward* — a person who is too afraid to act · *reckless* — doing wild, dangerous things without thinking · *generosity* — giving gladly to other people
 
@@ -871,7 +871,7 @@ svar (✅ = rätt) och ordlista.
 > Check every authority - even Mr X.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Aristotle · ⬜ Plato · ⬜ Galileo Galilei · ⬜ Ibn Rushd · ⬜ Copernicus
+**Svar:** ✅ Aristotle · ⬜ Plato · ⬜ Galileo Galilei · ⬜ Copernicus
 
 **Ord:** *scholar* — a person who studies books deeply · *authority* — a person or a book that many people trust and follow · *century* — one hundred years · *logic* — the rules for good, clear thinking
 
@@ -896,7 +896,7 @@ svar (✅ = rätt) och ordlista.
 > The name of this city sounds like the name of King X.  
 > **Who is King X?**
 
-**Svar:** ⬜ Julius Caesar · ✅ Alexander the Great · ⬜ Augustus · ⬜ Hammurabi · ⬜ Plato
+**Svar:** ⬜ Julius Caesar · ✅ Alexander the Great · ⬜ Augustus · ⬜ Hammurabi
 
 **Ord:** *shadow* — the dark shape you make on the ground when you stand in the sun · *force* — strong power; when you push or fight to make something happen · *understanding* — when you watch and learn why something happens
 
@@ -918,14 +918,14 @@ svar (✅ = rätt) och ordlista.
 > A language can hold them together for hundreds of years.  
 > **Who is King X?**
 
-**Svar:** ⬜ Cyrus the Great · ⬜ Genghis Khan · ✅ Alexander the Great · ⬜ Julius Caesar · ⬜ Augustus
+**Svar:** ⬜ Cyrus the Great · ⬜ Genghis Khan · ✅ Alexander the Great · ⬜ Julius Caesar
 
 **Ord:** *customs* — the ways people usually do things, for example food, clothes, and holidays · *empire* — many lands and many people under one king · *marketplace* — an open place where people buy and sell things
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The City of Knowledge</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The City of Knowledge</summary>
 
 > King X, a king from the Greek world, takes lands from Greece to India.  
 > In Egypt, he builds a new city by the sea and gives it his own name.  
@@ -940,14 +940,14 @@ svar (✅ = rätt) och ordlista.
 > The king's sword is gone, but his city of ideas still changes the world.  
 > **Who is King X?**
 
-**Svar:** ✅ Alexander the Great · ⬜ Cleopatra · ⬜ Julius Caesar · ⬜ Hammurabi · ⬜ Augustus
+**Svar:** ✅ Alexander the Great · ⬜ Cleopatra · ⬜ Julius Caesar · ⬜ Augustus
 
 **Ord:** *lighthouse* — a tall tower with a fire or light on top; it shows ships the way · *scholar* — a person whose work is to study and learn · *harbor* — a safe place by the sea where ships stop · *wonder* — an amazing building or thing; old lists name seven wonders of the world
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Great for Which People?</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Great for Which People?</summary>
 
 > People call King X "the Great".  
 > He wants to be like Achilles, a hero from the old Greek poems.  
@@ -962,7 +962,7 @@ svar (✅ = rätt) och ordlista.
 > The names we give people in history are a choice, not a fact.  
 > **Who is King X?**
 
-**Svar:** ⬜ Napoleon · ⬜ Cyrus the Great · ⬜ Genghis Khan · ✅ Alexander the Great · ⬜ Julius Caesar
+**Svar:** ⬜ Napoleon · ⬜ Genghis Khan · ✅ Alexander the Great · ⬜ Julius Caesar
 
 **Ord:** *conquered* — people whose land is taken by force · *general* — a leader in an army · *palace* — a very big and fine house of a king · *empire* — many lands under one king
 
@@ -984,7 +984,7 @@ svar (✅ = rätt) och ordlista.
 > The historian's hardest job is to find the real man behind the myth.  
 > **Who is King X?**
 
-**Svar:** ⬜ Hammurabi · ✅ Alexander the Great · ⬜ Genghis Khan · ⬜ Cyrus the Great · ⬜ Julius Caesar
+**Svar:** ✅ Alexander the Great · ⬜ Genghis Khan · ⬜ Cyrus the Great · ⬜ Julius Caesar
 
 **Ord:** *legend* — an old famous story; it may be true or not true · *myth* — a story many people tell, but it is not a proven fact · *source* — an old text or thing that gives us information about the past · *historian* — a person who studies the past
 
@@ -1010,7 +1010,7 @@ svar (✅ = rätt) och ordlista.
 > Today, that first town is the capital of Italy.  
 > **Which empire is this?**
 
-**Svar:** ✅ Rome · ⬜ Persia · ⬜ Egypt · ⬜ Carthage · ⬜ China
+**Svar:** ✅ Rome · ⬜ Persia · ⬜ Egypt · ⬜ Carthage
 
 **Ord:** *empire* — many lands and people under one ruler · *channel* — a long open way made for water to run in · *aqueduct* — a stone channel that carries fresh water into a city, sometimes on tall arches · *Mediterranean Sea* — the big sea between Europe, Africa, and Asia
 
@@ -1033,14 +1033,14 @@ svar (✅ = rätt) och ordlista.
 > But many countries far from Italy still use these ideas today.  
 > **Which city is this?**
 
-**Svar:** ✅ Rome · ⬜ Athens · ⬜ Sparta · ⬜ Carthage · ⬜ Babylon
+**Svar:** ✅ Rome · ⬜ Athens · ⬜ Sparta · ⬜ Carthage
 
 **Ord:** *consul* — one of the two chosen leaders of the city · *senate* — a group of old, wise men who give advice · *vote* — to say your choice when a group decides something · *republic* — a country without a king; the people choose their leaders
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — How a republic dies</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — How a republic dies</summary>
 
 > At first, kings rule City X.  
 > Then the people send the kings away.  
@@ -1056,14 +1056,14 @@ svar (✅ = rätt) och ordlista.
 > Institutions last only when people protect them.  
 > **Which city is this?**
 
-**Svar:** ✅ Rome · ⬜ Athens · ⬜ Carthage · ⬜ Alexandria · ⬜ Babylon
+**Svar:** ✅ Rome · ⬜ Athens · ⬜ Carthage · ⬜ Babylon
 
 **Ord:** *republic* — a country without a king; the people choose their leaders · *general* — a leader of soldiers · *civil war* — a war between people of the same country · *institution* — a rule or group of a country that lasts a long time, for example a court
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Empires end, ideas remain</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Empires end, ideas remain</summary>
 
 > Empire X rules the lands around the Mediterranean Sea for centuries.  
 > Then it ends, slowly, like all empires end.  
@@ -1079,7 +1079,7 @@ svar (✅ = rätt) och ordlista.
 > Empires end, but ideas and words remain.  
 > **Which empire is this?**
 
-**Svar:** ✅ Rome · ⬜ Greece · ⬜ Egypt · ⬜ Persia · ⬜ The Maya
+**Svar:** ✅ Rome · ⬜ Greece · ⬜ Egypt · ⬜ Persia
 
 **Ord:** *accusation* — when someone says: this person did a bad thing · *concrete* — a building material, like liquid stone that becomes very hard · *conquered* — beaten in a war and taken over by the winners · *citizen* — a full member of a country, with rights and duties
 
@@ -1102,7 +1102,7 @@ svar (✅ = rätt) och ordlista.
 > You choose the lesson.  
 > **Which empire is this?**
 
-**Svar:** ✅ Rome · ⬜ The Ottoman Empire · ⬜ Persia · ⬜ Egypt · ⬜ China
+**Svar:** ✅ Rome · ⬜ The Ottoman Empire · ⬜ Persia · ⬜ Egypt
 
 **Ord:** *border* — the line where one land ends and another land begins · *plague* — a sickness that spreads fast and kills many people · *historian* — a person who studies the past · *transformation* — a big, slow change from one form into another
 
@@ -1126,7 +1126,7 @@ svar (✅ = rätt) och ordlista.
 > People still use his name today, in everyday words.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Julius Caesar · ⬜ Augustus · ⬜ Alexander the Great · ⬜ Hammurabi · ⬜ Gutenberg
+**Svar:** ✅ Julius Caesar · ⬜ Augustus · ⬜ Alexander the Great · ⬜ Hammurabi
 
 **Ord:** *emperor* — like a king, but over many lands · *adopted* — an adopted son is not born in the family; the family takes him in as their child, by law
 
@@ -1148,14 +1148,14 @@ svar (✅ = rätt) och ordlista.
 > Today, after one small change, most of the world uses this calendar.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Julius Caesar · ⬜ Copernicus · ⬜ Augustus · ⬜ Aristotle · ⬜ Leonardo da Vinci
+**Svar:** ✅ Julius Caesar · ⬜ Copernicus · ⬜ Augustus · ⬜ Leonardo da Vinci
 
 **Ord:** *mess* — things in bad order; nothing is in its right place · *astronomer* — a scientist who studies the sun, the moon, and the stars · *leap day* — one extra day, 29 February; it comes every four years
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The River of No Return</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The River of No Return</summary>
 
 > Rome is a republic, a state without a king.  
 > One rule protects it.  
@@ -1170,14 +1170,14 @@ svar (✅ = rätt) och ordlista.
 > When one man breaks the rule that protects the state, the state changes forever.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Julius Caesar · ⬜ Augustus · ⬜ Alexander the Great · ⬜ Hannibal · ⬜ Hammurabi
+**Svar:** ✅ Julius Caesar · ⬜ Augustus · ⬜ Alexander the Great · ⬜ Hannibal
 
 **Ord:** *republic* — a state without a king; the people choose their leaders · *general* — a leader of an army · *civil war* — a war between people of the same country · *the die is cast* — a die is a small cube for games; you throw it, and you cannot take the throw back
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Can Violence Save a Republic?</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Can Violence Save a Republic?</summary>
 
 > Mr X rules Rome alone.  
 > Rome is a republic, and Romans do not want a king.  
@@ -1192,7 +1192,7 @@ svar (✅ = rätt) och ordlista.
 > Violence almost never builds the future that people plan.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Julius Caesar · ⬜ Augustus · ⬜ Alexander the Great · ⬜ Socrates · ⬜ Gandhi
+**Svar:** ✅ Julius Caesar · ⬜ Alexander the Great · ⬜ Socrates · ⬜ Gandhi
 
 **Ord:** *senate* — a group of powerful men who guide the Roman state; the men in this group are senators · *republic* — a state without a king; the people choose their leaders · *heir* — the person who gets your money and property after your death · *emperor* — like a king, but over many lands
 
@@ -1214,7 +1214,7 @@ svar (✅ = rätt) och ordlista.
 > Source criticism asks: who writes this, and why?  
 > **Who is Mr X?**
 
-**Svar:** ✅ Julius Caesar · ⬜ Augustus · ⬜ Alexander the Great · ⬜ Marx · ⬜ Gutenberg
+**Svar:** ✅ Julius Caesar · ⬜ Augustus · ⬜ Alexander the Great · ⬜ Marx
 
 **Ord:** *dictator* — in Rome, a leader who gets all power alone, for a short time, in an emergency · *emergency* — a sudden time of danger · *source* — a text or an object that gives us information about the past · *source criticism* — asking who makes a source, and why, before you trust it
 
@@ -1238,7 +1238,7 @@ svar (✅ = rätt) och ordlista.
 > People still learn from him today.  
 > **Who is Master X?**
 
-**Svar:** ✅ Confucius · ⬜ Buddha · ⬜ Socrates · ⬜ Plato · ⬜ Gandhi
+**Svar:** ✅ Confucius · ⬜ Buddha · ⬜ Socrates · ⬜ Plato
 
 **Ord:** *school fee* — money or a gift you give so you can learn at a school · *kindness* — being good and friendly to other people · *honesty* — telling the truth · *respect* — you show that a person is important to you
 
@@ -1259,14 +1259,14 @@ svar (✅ = rätt) och ordlista.
 > Then it grows: to the village, the town, the world.  
 > **Who is Master X?**
 
-**Svar:** ⬜ Buddha · ✅ Confucius · ⬜ Socrates · ⬜ Gandhi · ⬜ Aristotle
+**Svar:** ⬜ Buddha · ✅ Confucius · ⬜ Socrates · ⬜ Aristotle
 
 **Ord:** *golden rule* — a famous rule: treat other people as you want them to treat you - Master X says it with a 'do not' · *culture* — the way of life of a group of people · *treat* — how you act toward a person, good or bad
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — Lead by Good Example</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — Lead by Good Example</summary>
 
 > Master X teaches in China, about 2,500 years ago.  
 > Some rulers ask him for advice.  
@@ -1281,14 +1281,14 @@ svar (✅ = rätt) och ordlista.
 > Can a test find a good heart too?  
 > **Who is Master X?**
 
-**Svar:** ⬜ Plato · ⬜ Hammurabi · ✅ Confucius · ⬜ Buddha · ⬜ Marx
+**Svar:** ⬜ Plato · ✅ Confucius · ⬜ Buddha · ⬜ Marx
 
 **Ord:** *official* — a person who does work for the country and its ruler · *punishment* — trouble you get when you break a rule · *examination* — a big, important test · *honest* — you say what is true; you do not lie or cheat
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The Glue of Society</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The Glue of Society</summary>
 
 > Master X lives in China, long ago.  
 > He teaches "li" - the polite forms of daily life.  
@@ -1303,7 +1303,7 @@ svar (✅ = rätt) och ordlista.
 > People can respect a tradition and still ask questions about it.  
 > **Who is Master X?**
 
-**Svar:** ⬜ Socrates · ⬜ Buddha · ⬜ Hammurabi · ✅ Confucius · ⬜ Gandhi
+**Svar:** ⬜ Socrates · ⬜ Buddha · ✅ Confucius · ⬜ Gandhi
 
 **Ord:** *li* — a Chinese word for polite ways to do things, like greeting or eating together · *glue* — a sticky material that holds things together; here: what holds people together · *society* — all the people who live together in a country or group · *tradition* — old ways that pass from parents to children
 
@@ -1325,7 +1325,7 @@ svar (✅ = rätt) och ordlista.
 > Ideas are like tools: each new time uses them for its own questions.  
 > **Who is Master X?**
 
-**Svar:** ⬜ Socrates · ⬜ Plato · ⬜ Buddha · ⬜ Marx · ✅ Confucius
+**Svar:** ⬜ Plato · ⬜ Buddha · ⬜ Marx · ✅ Confucius
 
 **Ord:** *sayings* — short wise sentences that a person says · *century* — a time of one hundred years · *reformer* — a person who wants to change the old ways · *old-fashioned* — from an old time; not fitting the new time
 
@@ -1351,7 +1351,7 @@ svar (✅ = rätt) och ordlista.
 > Try to understand them.  
 > **Who is Prince X?**
 
-**Svar:** ✅ Siddhartha Gautama · ⬜ Alexander the Great · ⬜ Confucius · ⬜ Socrates · ⬜ Gandhi
+**Svar:** ✅ Siddhartha Gautama · ⬜ Alexander the Great · ⬜ Confucius · ⬜ Gandhi
 
 **Ord:** *palace* — a very big and rich house for a king's family · *suffer* — to feel pain in the body or the heart · *fig tree* — a tree with fig fruits. The tree in this story has heart-shaped leaves. · *awakened* — awake, not asleep. Here it means: a person who sees life clearly.
 
@@ -1373,14 +1373,14 @@ svar (✅ = rätt) och ordlista.
 > Not too much, not too little - people still find this idea wise today.  
 > **Who is Prince X?**
 
-**Svar:** ✅ Siddhartha Gautama · ⬜ Confucius · ⬜ Socrates · ⬜ Plato · ⬜ Gandhi
+**Svar:** ✅ Siddhartha Gautama · ⬜ Confucius · ⬜ Socrates · ⬜ Gandhi
 
 **Ord:** *luxury* — many fine and expensive things · *opposite* — the other side of something. Hot is the opposite of cold. · *suffering* — pain in the body or the heart
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — A quiet revolution</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — A quiet revolution</summary>
 
 > Prince X lives in India, about 2,500 years ago.  
 > In his land, people are born into fixed groups.  
@@ -1395,14 +1395,14 @@ svar (✅ = rätt) och ordlista.
 > It is a quiet revolution: change through ideas, not weapons.  
 > **Who is Prince X?**
 
-**Svar:** ✅ Siddhartha Gautama · ⬜ Confucius · ⬜ Gandhi · ⬜ Mandela · ⬜ Socrates
+**Svar:** ✅ Siddhartha Gautama · ⬜ Confucius · ⬜ Gandhi · ⬜ Mandela
 
 **Ord:** *caste* — a fixed group of people. You are born into it. · *priest* — a person who leads people in their religion · *nun* — a woman who lives a simple religious life · *revolution* — a big change in how people live or think
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — An idea travels without an army</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — An idea travels without an army</summary>
 
 > Prince X lives in India, long ago.  
 > Old stories say he leaves his palace to find answers.  
@@ -1418,7 +1418,7 @@ svar (✅ = rätt) och ordlista.
 > Ideas can travel farther than any sword.  
 > **Who is Prince X?**
 
-**Svar:** ✅ Siddhartha Gautama · ⬜ Alexander the Great · ⬜ Confucius · ⬜ Marx · ⬜ Socrates
+**Svar:** ✅ Siddhartha Gautama · ⬜ Alexander the Great · ⬜ Confucius · ⬜ Marx
 
 **Ord:** *emperor* — a ruler of many lands and peoples · *conquest* — taking land from others by war · *regret* — a sad feeling about something you did · *trade road* — a road that people use to carry things to sell, from land to land
 
@@ -1440,7 +1440,7 @@ svar (✅ = rätt) och ordlista.
 > An old idea lives on: first in memory, then on leaves, now in hospitals.  
 > **Who is Prince X?**
 
-**Svar:** ✅ Siddhartha Gautama · ⬜ Socrates · ⬜ Confucius · ⬜ Aristotle · ⬜ Gutenberg
+**Svar:** ✅ Siddhartha Gautama · ⬜ Socrates · ⬜ Confucius · ⬜ Aristotle
 
 **Ord:** *monk* — a man who lives a simple religious life in a group · *recite* — to say a text aloud from memory · *scholar* — a person who studies a subject very deeply · *mindfulness* — training to notice calmly what happens in your mind and body right now
 
@@ -1465,7 +1465,7 @@ svar (✅ = rätt) och ordlista.
 > High on a rock over one famous city, a white marble temple still stands today.  
 > **Which land is this?**
 
-**Svar:** ⬜ Egypt · ✅ Greece · ⬜ Rome · ⬜ Persia · ⬜ Phoenicia
+**Svar:** ⬜ Egypt · ✅ Greece · ⬜ Rome · ⬜ Phoenicia
 
 **Ord:** *soil* — the earth on the ground where plants grow · *city-state* — a city with its own laws and leaders, like a small country · *agora* — the open market square in the middle of the city · *marble* — a hard, shiny stone for fine buildings
 
@@ -1487,14 +1487,14 @@ svar (✅ = rätt) och ordlista.
 > Today, many lands build on the idea, and more people can vote.  
 > **Which land is this?**
 
-**Svar:** ⬜ Rome · ⬜ Egypt · ⬜ Persia · ✅ Greece · ⬜ Mesopotamia
+**Svar:** ⬜ Rome · ⬜ Egypt · ✅ Greece · ⬜ Mesopotamia
 
 **Ord:** *vote* — to say your choice when a group decides something · *by lot* — chosen by chance, like pulling a name from a hat · *slave* — a person who is not free and is owned by another person · *democracy* — the people rule: the people of a land decide together
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The theater on the hillside</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The theater on the hillside</summary>
 
 > About 2,500 years ago, the people of Land X build the first great theaters.  
 > First people sit on wooden benches.  
@@ -1510,14 +1510,14 @@ svar (✅ = rätt) och ordlista.
 > Our words 'theater', 'drama', 'tragedy', and 'comedy' come from the language of Land X.  
 > **Which land is this?**
 
-**Svar:** ✅ Greece · ⬜ Rome · ⬜ Persia · ⬜ Egypt · ⬜ Mesopotamia
+**Svar:** ✅ Greece · ⬜ Rome · ⬜ Egypt · ⬜ Mesopotamia
 
 **Ord:** *mask* — a false face you wear over your own face · *tragedy* — a serious, sad play · *comedy* — a funny play · *actor* — a person who plays someone else in a play
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Frogs around a pond</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Frogs around a pond</summary>
 
 > In old times, Land X is not one country.  
 > It is hundreds of proud city-states, and they often quarrel.  
@@ -1532,7 +1532,7 @@ svar (✅ = rätt) och ordlista.
 > A famous thinker from Land X writes: we live around the sea like frogs around a pond.  
 > **Which land is this?**
 
-**Svar:** ⬜ Phoenicia · ⬜ Egypt · ✅ Greece · ⬜ Rome · ⬜ Persia
+**Svar:** ⬜ Phoenicia · ⬜ Egypt · ✅ Greece · ⬜ Rome
 
 **Ord:** *city-state* — a city with its own laws and leaders, like a small country · *quarrel* — to argue and fight with each other · *honor* — to show great respect for someone · *colony* — a new town that people from a city build in a faraway land
 
@@ -1553,7 +1553,7 @@ svar (✅ = rätt) och ordlista.
 > Both of them shape our world today.  
 > **Which land is this?**
 
-**Svar:** ⬜ Rome · ⬜ Egypt · ⬜ Mesopotamia · ⬜ Persia · ✅ Greece
+**Svar:** ⬜ Rome · ⬜ Egypt · ⬜ Mesopotamia · ✅ Greece
 
 **Ord:** *philosophy* — the study of big questions about life and thinking · *scribe* — a person whose work is copying books by hand · *ruin* — a broken old building
 
@@ -1577,7 +1577,7 @@ svar (✅ = rätt) och ordlista.
 > Today, the biggest games in the world carry the same name.  
 > **Which games are these?**
 
-**Svar:** ⬜ The Roman gladiator games · ✅ The Olympic Games · ⬜ The Pythian Games · ⬜ The Panathenaic Games · ⬜ The Isthmian Games
+**Svar:** ⬜ The Roman gladiator games · ✅ The Olympic Games · ⬜ The Pythian Games · ⬜ The Panathenaic Games
 
 **Ord:** *holy* — very special for a god or a religion · *wrestler* — a sports person who tries to bring another person to the ground, without hitting · *stadium* — a big place for sport, with room for many watchers · *crown* — a ring that you wear on your head
 
@@ -1599,14 +1599,14 @@ svar (✅ = rätt) och ordlista.
 > For a short time, sport brings the Greek world together.  
 > **Which games are these?**
 
-**Svar:** ⬜ The Panathenaic Games · ⬜ The Pythian Games · ⬜ The Roman gladiator games · ✅ The Olympic Games · ⬜ The Isthmian Games
+**Svar:** ⬜ The Panathenaic Games · ⬜ The Pythian Games · ✅ The Olympic Games · ⬜ The Isthmian Games
 
 **Ord:** *messenger* — a person who carries news from place to place · *holy* — very special for a god or a religion · *athlete* — a person who does sport, for example a runner · *compete* — to try to win against others
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — Win with honor</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — Win with honor</summary>
 
 > Games X take place at a holy place in Greece, every four years.  
 > The oldest event is simple: a short, fast run across the stadium.  
@@ -1621,14 +1621,14 @@ svar (✅ = rätt) och ordlista.
 > Girls hold their own races for a goddess, at the same holy place.  
 > **Which games are these?**
 
-**Svar:** ✅ The Olympic Games · ⬜ The Isthmian Games · ⬜ The Nemean Games · ⬜ The Pythian Games · ⬜ The Roman gladiator games
+**Svar:** ✅ The Olympic Games · ⬜ The Isthmian Games · ⬜ The Nemean Games · ⬜ The Pythian Games
 
 **Ord:** *oath* — a very serious promise · *cheater* — a person who breaks the rules to win · *discus* — a flat, round, heavy plate that athletes throw far · *honor* — when people see you as good and fair
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The games wake up again</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The games wake up again</summary>
 
 > Games X begin in Greece, almost 3,000 years ago.  
 > Athletes meet there every four years, for more than a thousand years.  
@@ -1643,7 +1643,7 @@ svar (✅ = rätt) och ordlista.
 > Today, before the games begin, a flame travels from the old place in Greece to the new stadium.  
 > **Which games are these?**
 
-**Svar:** ⬜ The Panathenaic Games · ⬜ The Pythian Games · ✅ The Olympic Games · ⬜ The Isthmian Games · ⬜ The Roman gladiator games
+**Svar:** ⬜ The Panathenaic Games · ⬜ The Pythian Games · ✅ The Olympic Games · ⬜ The Isthmian Games
 
 **Ord:** *religion* — belief in a god or gods, with its own rules and feasts · *festival* — a big feast or celebration for many people · *host* — to hold the games in your own city · *flame* — the bright, burning part of a fire
 
@@ -1665,7 +1665,7 @@ svar (✅ = rätt) och ordlista.
 > The sources show less: a holy peace protects the travelers, but wars go on in other places.  
 > **Which games are these?**
 
-**Svar:** ⬜ The Pythian Games · ⬜ The Panathenaic Games · ⬜ The Nemean Games · ⬜ The Roman gladiator games · ✅ The Olympic Games
+**Svar:** ⬜ The Pythian Games · ⬜ The Panathenaic Games · ⬜ The Nemean Games · ✅ The Olympic Games
 
 **Ord:** *source* — an old text or thing that gives us knowledge about the past · *earthquake* — when the ground shakes strongly · *bury* — to cover something with earth or sand · *archaeologist* — a person who digs in the ground to find things from the past
 
@@ -1689,7 +1689,7 @@ svar (✅ = rätt) och ordlista.
 > One month of the year gets his name: August.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Julius Caesar · ✅ Augustus · ⬜ Nero · ⬜ Alexander the Great · ⬜ Hammurabi
+**Svar:** ⬜ Julius Caesar · ✅ Augustus · ⬜ Nero · ⬜ Alexander the Great
 
 **Ord:** *great-uncle* — the brother of your grandmother or grandfather · *will* — a paper that says who gets your money and things after your death · *adopt* — to take a child into your family as your own child, by law · *emperor* — like a king, but over many lands
 
@@ -1710,14 +1710,14 @@ svar (✅ = rätt) och ordlista.
 > His long peace makes Rome richer than any war.  
 > **Who is Emperor X?**
 
-**Svar:** ⬜ Julius Caesar · ⬜ Constantine · ⬜ Alexander the Great · ✅ Augustus · ⬜ Genghis Khan
+**Svar:** ⬜ Julius Caesar · ⬜ Constantine · ⬜ Alexander the Great · ✅ Augustus
 
 **Ord:** *civil war* — a war between people of the same country · *trader* — a person who buys and sells things · *brick* — a small building block of baked clay · *marble* — a fine, shiny stone for beautiful buildings
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — Power without a Crown</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — Power without a Crown</summary>
 
 > The people of Rome hate the word "king".  
 > Long ago, they throw their kings out.  
@@ -1732,14 +1732,14 @@ svar (✅ = rätt) och ordlista.
 > Words can hide power as well as show it.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Augustus · ⬜ Julius Caesar · ⬜ Nero · ⬜ Napoleon Bonaparte · ⬜ Constantine
+**Svar:** ✅ Augustus · ⬜ Julius Caesar · ⬜ Nero · ⬜ Constantine
 
 **Ord:** *title* — an official name for a person's job or rank · *princeps* — a Latin word: the first citizen, the first man of the state · *senate* — a group of powerful men who guide the Roman state · *republic* — a state without a king; the people choose their leaders
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The Face That Never Grows Old</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The Face That Never Grows Old</summary>
 
 > Emperor X is the first emperor of Rome, and he rules for a long time.  
 > Everywhere in the empire, people see his face.  
@@ -1753,7 +1753,7 @@ svar (✅ = rätt) och ordlista.
 > Today we have a word for it: propaganda - pictures and words that build power.  
 > **Who is Emperor X?**
 
-**Svar:** ⬜ Julius Caesar · ⬜ Alexander the Great · ✅ Augustus · ⬜ Nero · ⬜ Napoleon Bonaparte
+**Svar:** ⬜ Julius Caesar · ⬜ Alexander the Great · ✅ Augustus · ⬜ Nero
 
 **Ord:** *statue* — a figure of a person, made of stone or metal · *golden age* — a very good and happy time · *advertising* — pictures and words that try to sell something · *propaganda* — pictures, words, and art that try to control what people think
 
@@ -1775,7 +1775,7 @@ svar (✅ = rätt) och ordlista.
 > Every source answers the question: who speaks, and who is silent?  
 > **Who is Emperor X?**
 
-**Svar:** ⬜ Julius Caesar · ⬜ Hammurabi · ⬜ Alexander the Great · ⬜ Constantine · ✅ Augustus
+**Svar:** ⬜ Julius Caesar · ⬜ Hammurabi · ⬜ Constantine · ✅ Augustus
 
 **Ord:** *carve* — to cut letters or pictures into stone or wood · *dictator* — in Rome, a leader who gets all power alone, for a short time, in an emergency · *historian* — a person who studies the past · *source* — a text or an object that gives us information about the past
 
@@ -1800,7 +1800,7 @@ svar (✅ = rätt) och ordlista.
 > People all over the world still tell his stories today.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Buddha · ✅ Jesus · ⬜ Confucius · ⬜ Muhammad · ⬜ Moses
+**Svar:** ⬜ Buddha · ✅ Jesus · ⬜ Muhammad · ⬜ Moses
 
 **Ord:** *carpenter* — a person who builds things from wood · *fisherman* — a person who catches fish · *shepherd* — a person who takes care of sheep
 
@@ -1821,14 +1821,14 @@ svar (✅ = rätt) och ordlista.
 > Easy to say, hard to do - then and now.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Moses · ⬜ Buddha · ⬜ Socrates · ✅ Jesus · ⬜ Muhammad
+**Svar:** ⬜ Moses · ⬜ Buddha · ✅ Jesus · ⬜ Muhammad
 
 **Ord:** *neighbor* — a person who lives near you; here it means every other person · *enemy* — a person who is against you · *forgiveness* — you stop being angry with a person who did a bad thing to you · *golden rule* — a famous rule: treat other people as you want them to treat you; Mr X says it with a 'do', not a 'do not'
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The good stranger</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The good stranger</summary>
 
 > Mr X is a famous teacher, about 2,000 years ago.  
 > He answers big questions with small stories, called parables.  
@@ -1843,14 +1843,14 @@ svar (✅ = rätt) och ordlista.
 > A rule is easy to forget, but a good story stays with you.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Jesus · ⬜ Socrates · ⬜ Buddha · ⬜ Muhammad · ⬜ Confucius
+**Svar:** ✅ Jesus · ⬜ Socrates · ⬜ Buddha · ⬜ Muhammad
 
 **Ord:** *parable* — a short story with a lesson inside · *foreigner* — a person from another land or group · *wound* — a hurt place on the body · *look down on* — to think that a person is less important
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — The year on the calendar</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — The year on the calendar</summary>
 
 > Mr X lives about 2,000 years ago, in a land ruled by Rome.  
 > He is a teacher with a small group of followers.  
@@ -1864,7 +1864,7 @@ svar (✅ = rätt) och ordlista.
 > So Mr X is probably born a few years 'before' year one!  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Muhammad · ⬜ Julius Caesar · ✅ Jesus · ⬜ Buddha · ⬜ Moses
+**Svar:** ⬜ Muhammad · ⬜ Julius Caesar · ✅ Jesus · ⬜ Buddha
 
 **Ord:** *follower* — a person who believes in a teacher and lives by his words · *faith* — a strong belief in a religion · *calendar* — the way we count and name days and years · *monk* — a man who lives a simple, religious life
 
@@ -1886,7 +1886,7 @@ svar (✅ = rätt) och ordlista.
 > Historians and believers read the same old pages - with different questions.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Socrates · ⬜ Confucius · ⬜ Muhammad · ⬜ Buddha · ✅ Jesus
+**Svar:** ⬜ Socrates · ⬜ Muhammad · ⬜ Buddha · ✅ Jesus
 
 **Ord:** *decade* — a time of ten years · *believer* — a person who belongs to a religion · *neutral* — not taking any side · *historian* — a person who studies the past
 
@@ -1911,7 +1911,7 @@ svar (✅ = rätt) och ordlista.
 > They are called Muslims.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Jesus · ⬜ Buddha · ✅ Muhammad · ⬜ Moses · ⬜ Confucius
+**Svar:** ⬜ Jesus · ⬜ Buddha · ✅ Muhammad · ⬜ Moses
 
 **Ord:** *trader* — a person who buys and sells things · *caravan* — a group of people and animals that travel together · *cave* — a big hole in a rock or mountain · *angel* — a messenger from God, in many religions
 
@@ -1933,14 +1933,14 @@ svar (✅ = rätt) och ordlista.
 > This new start is so important that the Muslim calendar begins in that year.  
 > **Who is Mr X?**
 
-**Svar:** ✅ Muhammad · ⬜ Moses · ⬜ Jesus · ⬜ Buddha · ⬜ Gandhi
+**Svar:** ✅ Muhammad · ⬜ Moses · ⬜ Jesus · ⬜ Buddha
 
 **Ord:** *orphan* — a child whose mother and father are dead · *follower* — a person who believes in a teacher and follows him · *community* — a group of people who live together and help each other · *umma* — an Arabic word for the community of all Muslims
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — A Book to Learn by Heart</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — A Book to Learn by Heart</summary>
 
 > Mr X lives in Arabia, about 1,400 years ago.  
 > He brings his people a message in Arabic, in beautiful and powerful language.  
@@ -1955,14 +1955,14 @@ svar (✅ = rätt) och ordlista.
 > Many learn the whole book by heart.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Martin Luther · ⬜ Jesus · ⬜ Confucius · ✅ Muhammad · ⬜ Buddha
+**Svar:** ⬜ Martin Luther · ⬜ Jesus · ✅ Muhammad · ⬜ Buddha
 
 **Ord:** *recite* — to say a text out loud from memory · *by heart* — from memory, without reading · *holy* — very special and important in a religion · *Arabic* — the language of Arabia, spoken in many countries today
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — From the Desert to a World of Knowledge</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — From the Desert to a World of Knowledge</summary>
 
 > Mr X is a teacher in Arabia, about 1,400 years ago.  
 > His message unites many desert tribes into one community.  
@@ -1977,7 +1977,7 @@ svar (✅ = rätt) och ordlista.
 > A message in the desert opens a new world of knowledge.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Alexander the Great · ✅ Muhammad · ⬜ Genghis Khan · ⬜ Jesus · ⬜ Buddha
+**Svar:** ⬜ Alexander the Great · ✅ Muhammad · ⬜ Genghis Khan · ⬜ Jesus
 
 **Ord:** *tribe* — a big group of families with one leader · *scholar* — a person who studies and knows very much · *algebra* — a part of mathematics; it uses letters for unknown numbers · *astronomy* — the study of stars and planets
 
@@ -1998,7 +1998,7 @@ svar (✅ = rätt) och ordlista.
 > Some pages of the Quran that still exist today are very, very old.  
 > **Who is Mr X?**
 
-**Svar:** ⬜ Socrates · ⬜ Jesus · ⬜ Confucius · ⬜ Buddha · ✅ Muhammad
+**Svar:** ⬜ Socrates · ⬜ Jesus · ⬜ Buddha · ✅ Muhammad
 
 **Ord:** *source* — a text or thing from the past that gives us knowledge · *hadith* — a story about the words or actions of Mr X · *generation* — parents are one generation; their children are the next · *collection* — many things gathered together in one book or place
 
@@ -2023,7 +2023,7 @@ svar (✅ = rätt) och ordlista.
 > Travelers say: no city on earth is richer.  
 > **Which empire is this?**
 
-**Svar:** ⬜ Egypt · ⬜ Rome · ✅ The Byzantine Empire · ⬜ Persia · ⬜ The Ottoman Empire
+**Svar:** ⬜ Egypt · ⬜ Rome · ✅ The Byzantine Empire · ⬜ The Ottoman Empire
 
 **Ord:** *capital* — the main city of a land, where the ruler lives · *harbor* — a safe place by the water where ships can stop · *silk* — a fine, soft cloth that costs very much, first made in China · *mosaic* — a picture made of many small colored stones
 
@@ -2045,14 +2045,14 @@ svar (✅ = rätt) och ordlista.
 > One building tells the long story of its city.  
 > **Which empire is this?**
 
-**Svar:** ✅ The Byzantine Empire · ⬜ Greece · ⬜ The Ottoman Empire · ⬜ Egypt · ⬜ Persia
+**Svar:** ✅ The Byzantine Empire · ⬜ Greece · ⬜ The Ottoman Empire · ⬜ Egypt
 
 **Ord:** *dome* — a round roof, like the top half of a ball · *emperor* — the ruler of an empire · *mosque* — a building where Muslims pray · *museum* — a building where people can look at old and important things
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — A thousand years of laws</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — A thousand years of laws</summary>
 
 > About 1,500 years ago, an emperor rules Empire X from a rich city in the east.  
 > His empire still uses the laws of old Rome.  
@@ -2067,14 +2067,14 @@ svar (✅ = rätt) och ordlista.
 > Good laws can live longer than the lands that write them.  
 > **Which empire is this?**
 
-**Svar:** ⬜ Persia · ⬜ Rome · ⬜ Egypt · ✅ The Byzantine Empire · ⬜ China
+**Svar:** ⬜ Persia · ⬜ Rome · ⬜ Egypt · ✅ The Byzantine Empire
 
 **Ord:** *mess* — many things mixed up, without order · *expert* — a person who knows very much about one thing · *opposite* — totally different; the other way around · *foundation* — the strong part under a building; here: the base that something stands on
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — A bridge of books</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — A bridge of books</summary>
 
 > The people of Empire X speak Greek, and they guard the old books of Greece.  
 > For about a thousand years, scribes copy these books by hand, page by page.  
@@ -2089,7 +2089,7 @@ svar (✅ = rätt) och ordlista.
 > The old books feed this new age of art and learning: the Renaissance.  
 > **Which empire is this?**
 
-**Svar:** ⬜ Rome · ✅ The Byzantine Empire · ⬜ The Ottoman Empire · ⬜ Persia · ⬜ China
+**Svar:** ⬜ Rome · ✅ The Byzantine Empire · ⬜ The Ottoman Empire · ⬜ Persia
 
 **Ord:** *scribe* — a person whose work is to copy books by hand · *scholar* — a person who studies and knows very much · *philosophy* — thinking hard about life, truth, and right and wrong · *Renaissance* — a time in Europe when art and learning grow fast; the word means 'rebirth'
 
@@ -2111,7 +2111,7 @@ svar (✅ = rätt) och ordlista.
 > So ask: who names the past?  
 > **Which empire is this?**
 
-**Svar:** ⬜ The Ottoman Empire · ⬜ Persia · ⬜ Egypt · ⬜ China · ✅ The Byzantine Empire
+**Svar:** ⬜ The Ottoman Empire · ⬜ Persia · ⬜ Egypt · ✅ The Byzantine Empire
 
 **Ord:** *scholar* — a person who studies and knows very much · *print* — to make many copies of a book with a machine · *neutral* — not taking any side
 
@@ -2135,7 +2135,7 @@ svar (✅ = rätt) och ordlista.
 > Today, you can see some of their real ships in museums.  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Romans · ✅ The Vikings · ⬜ The Phoenicians · ⬜ The Greeks · ⬜ The Egyptians
+**Svar:** ⬜ The Romans · ✅ The Vikings · ⬜ The Phoenicians · ⬜ The Greeks
 
 **Ord:** *sailor* — a person who travels and works on a ship · *shallow* — not deep · *trade* — to buy and sell things · *rob* — to take things from people with force
 
@@ -2157,14 +2157,14 @@ svar (✅ = rätt) och ordlista.
 > Their trade routes go from Ireland in the west to Constantinople in the east.  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Phoenicians · ⬜ The Greeks · ⬜ The Mongols · ✅ The Vikings · ⬜ The Romans
+**Svar:** ⬜ The Phoenicians · ⬜ The Greeks · ✅ The Vikings · ⬜ The Romans
 
 **Ord:** *trader* — a person who buys and sells things · *fur* — the warm, hairy skin of an animal · *amber* — a hard, gold-colored material from old tree sap; people make beads and jewelry from it · *archaeologist* — a person who digs in the ground to learn about the past
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — Land in the west</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — Land in the west</summary>
 
 > The X people are sailors from the north of Europe.  
 > They sail west over the open ocean in wooden ships.  
@@ -2180,14 +2180,14 @@ svar (✅ = rätt) och ordlista.
 > So these sailors reach America about 500 years before Columbus.  
 > **Who are the X people?**
 
-**Svar:** ✅ The Vikings · ⬜ The Phoenicians · ⬜ The Greeks · ⬜ The Maya · ⬜ The Romans
+**Svar:** ✅ The Vikings · ⬜ The Phoenicians · ⬜ The Greeks · ⬜ The Romans
 
 **Ord:** *compass* — a tool that always shows you which way is north · *settle* — to move to a new place and make your home there · *hot spring* — a place where hot water comes up out of the ground · *remains* — the parts of something old that are still there
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Stones that remember</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Stones that remember</summary>
 
 > The X people live on farms in the north of Europe, about 1,000 years ago.  
 > They grow food, keep cows and sheep, fish, and make wool cloth.  
@@ -2200,7 +2200,7 @@ svar (✅ = rätt) och ordlista.
 > When the men sail away on long journeys, women often lead the farm at home.  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Phoenicians · ⬜ The Egyptians · ⬜ The Maya · ⬜ The Mongols · ✅ The Vikings
+**Svar:** ⬜ The Phoenicians · ⬜ The Egyptians · ⬜ The Maya · ✅ The Vikings
 
 **Ord:** *runes* — old letters made of straight lines · *deed* — a thing that a person does · *society* — all the people who live together in a country or group · *inherit* — to get land, money, or things from a family member who dies
 
@@ -2223,7 +2223,7 @@ svar (✅ = rätt) och ordlista.
 > So when you read history, always ask: who writes this, and why?  
 > **Who are the X people?**
 
-**Svar:** ⬜ The Mongols · ⬜ The Romans · ✅ The Vikings · ⬜ The Ottomans · ⬜ The Greeks
+**Svar:** ⬜ The Mongols · ⬜ The Romans · ✅ The Vikings · ⬜ The Ottomans
 
 **Ord:** *monk* — a religious man who lives simply and prays; many monks can write · *victim* — a person that something bad happens to · *cruel* — very unkind; a cruel person hurts others · *costume designer* — a person who makes the clothes for a play or a film
 
@@ -2247,7 +2247,7 @@ svar (✅ = rätt) och ordlista.
 > People of all three religions suffer in them.  
 > **Which wars are these?**
 
-**Svar:** ⬜ The Viking raids · ⬜ World War I · ✅ The Crusades · ⬜ The Punic Wars · ⬜ The Mongol conquests
+**Svar:** ⬜ The Viking raids · ✅ The Crusades · ⬜ The Punic Wars · ⬜ The Mongol conquests
 
 **Ord:** *knight* — a soldier on a horse with metal clothes, long ago · *holy* — very special and important for a religion · *priest* — a man who leads prayers in a church · *sew* — to join cloth with a needle and thread
 
@@ -2269,14 +2269,14 @@ svar (✅ = rätt) och ordlista.
 > But the people who live there see something else: strange armies at their gates.  
 > **Which wars are these?**
 
-**Svar:** ✅ The Crusades · ⬜ The Persian Wars · ⬜ The Viking raids · ⬜ The Mongol conquests · ⬜ World War I
+**Svar:** ✅ The Crusades · ⬜ The Persian Wars · ⬜ The Viking raids · ⬜ The Mongol conquests
 
 **Ord:** *sin* — a bad act against the rules of a religion · *forgive* — to stop being angry about a bad act · *honor* — a good name; people think highly of you · *merchant* — a person who buys and sells things
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — Goods and ideas cross the sea</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — Goods and ideas cross the sea</summary>
 
 > The X wars begin about 900 years ago.  
 > Armies from Europe sail east, to the lands at the east end of the Mediterranean Sea.  
@@ -2291,14 +2291,14 @@ svar (✅ = rätt) och ordlista.
 > War closes doors; trade and books open them again.  
 > **Which wars are these?**
 
-**Svar:** ⬜ The Punic Wars · ⬜ The Persian Wars · ⬜ The Mongol conquests · ✅ The Crusades · ⬜ The Viking raids
+**Svar:** ⬜ The Persian Wars · ⬜ The Mongol conquests · ✅ The Crusades · ⬜ The Viking raids
 
 **Ord:** *shore* — the land at the edge of the sea · *pilgrim* — a person who travels far to visit a holy place · *merchant* — a person who buys and sells things · *translate* — to say or write something again in another language
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — No simple story</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — No simple story</summary>
 
 > During the X wars, about 900 years ago, an army from Europe reaches the holy city at last.  
 > The soldiers break through the walls, and many people in the city die - Muslims and Jews.  
@@ -2314,7 +2314,7 @@ svar (✅ = rätt) och ordlista.
 > In every war, ordinary people of every religion pay the highest price.  
 > **Which wars are these?**
 
-**Svar:** ⬜ World War I · ✅ The Crusades · ⬜ The Mongol conquests · ⬜ The Viking raids · ⬜ The Punic Wars
+**Svar:** ✅ The Crusades · ⬜ The Mongol conquests · ⬜ The Viking raids · ⬜ The Punic Wars
 
 **Ord:** *chapter* — one part of a book; here: one part of a story · *rob* — to take things from people with force · *Constantinople* — a big old city by the sea; today it is Istanbul in Turkey · *ordinary* — normal, not special
 
@@ -2335,7 +2335,7 @@ svar (✅ = rätt) och ordlista.
 > A historian reads both sides and checks every story against the sources.  
 > **Which wars are these?**
 
-**Svar:** ⬜ The Persian Wars · ⬜ The Punic Wars · ⬜ The Mongol conquests · ⬜ World War I · ✅ The Crusades
+**Svar:** ⬜ The Persian Wars · ⬜ The Punic Wars · ⬜ The Mongol conquests · ✅ The Crusades
 
 **Ord:** *the Franks* — an old Arabic name for people from western Europe · *politician* — a person who works with power and government in a country · *source* — an old text or thing that gives us knowledge about the past · *historian* — a person who studies the past
 
@@ -2360,7 +2360,7 @@ svar (✅ = rätt) och ordlista.
 > They are afraid, and they cannot stop it.  
 > **Which sickness is this?**
 
-**Svar:** ✅ The Black Death · ⬜ smallpox · ⬜ cholera · ⬜ malaria · ⬜ leprosy
+**Svar:** ✅ The Black Death · ⬜ smallpox · ⬜ cholera · ⬜ leprosy
 
 **Ord:** *port* — a place by the sea where ships stop · *trade road* — a road where people carry things to buy and sell · *spread* — to go from one place or person to many · *cause* — the thing that makes something happen
 
@@ -2382,14 +2382,14 @@ svar (✅ = rätt) och ordlista.
 > Guessing and knowing are not the same thing.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ smallpox · ⬜ malaria · ✅ The Black Death · ⬜ cholera · ⬜ leprosy
+**Svar:** ⬜ smallpox · ⬜ malaria · ✅ The Black Death · ⬜ cholera
 
 **Ord:** *punishment* — trouble you get when you do something wrong · *cure* — something that makes a sick person well again · *germ* — a tiny living thing, too small to see, that can make you sick · *flea* — a very small jumping insect that bites animals and people
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — When workers become few</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — When workers become few</summary>
 
 > About 700 years ago, Sickness X spreads across many lands.  
 > So many people die that some villages stand empty.  
@@ -2404,14 +2404,14 @@ svar (✅ = rätt) och ordlista.
 > When people are few, their work is worth more.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ malaria · ⬜ cholera · ⬜ leprosy · ⬜ smallpox · ✅ The Black Death
+**Svar:** ⬜ cholera · ⬜ leprosy · ⬜ smallpox · ✅ The Black Death
 
 **Ord:** *village* — a very small town · *lord* — a rich man who owns land, and the people work for him · *bound* — tied to a place, and not free to leave · *pay* — the money you get for your work
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Fear and forty days</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Fear and forty days</summary>
 
 > About 700 years ago, Sickness X brings great fear.  
 > People are afraid, and they look for someone to blame.  
@@ -2426,7 +2426,7 @@ svar (✅ = rätt) och ordlista.
 > In hard times, fear can lead to cruelty, or to wise care.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ leprosy · ✅ The Black Death · ⬜ smallpox · ⬜ malaria · ⬜ cholera
+**Svar:** ⬜ leprosy · ✅ The Black Death · ⬜ smallpox · ⬜ cholera
 
 **Ord:** *blame* — to say that someone did a bad thing · *innocent* — a person who did nothing wrong · *cruel* — very unkind; wanting to hurt someone · *quarantine* — to keep people or ships apart for some days, so a sickness cannot spread
 
@@ -2448,7 +2448,7 @@ svar (✅ = rätt) och ordlista.
 > Many kinds of sources, put together, show us the truth.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ smallpox · ⬜ leprosy · ⬜ cholera · ✅ The Black Death · ⬜ malaria
+**Svar:** ⬜ smallpox · ⬜ leprosy · ✅ The Black Death · ⬜ malaria
 
 **Ord:** *chronicle* — an old written record of things that happen, year by year · *tax list* — an old list of people who must pay money to the ruler · *DNA* — a tiny code inside living things that tells what they are · *source* — something from the past that tells us what happened, like a book or a bone
 
@@ -2472,7 +2472,7 @@ svar (✅ = rätt) och ordlista.
 > It may mean "strong ruler" or "ruler of all".  
 > **Who is Khan X?**
 
-**Svar:** ⬜ Alexander the Great · ✅ Genghis Khan · ⬜ Julius Caesar · ⬜ Napoleon Bonaparte · ⬜ Kublai Khan
+**Svar:** ⬜ Alexander the Great · ✅ Genghis Khan · ⬜ Napoleon Bonaparte · ⬜ Kublai Khan
 
 **Ord:** *grassland* — big open land where grass grows · *felt* — thick cloth made of pressed wool · *clan* — a big group of families that belong together · *title* — a special name for a ruler or an important person
 
@@ -2495,14 +2495,14 @@ svar (✅ = rätt) och ordlista.
 > This empire runs on grass, horses, and information.  
 > **Who is Khan X?**
 
-**Svar:** ⬜ Kublai Khan · ⬜ Alexander the Great · ⬜ Julius Caesar · ⬜ Napoleon Bonaparte · ✅ Genghis Khan
+**Svar:** ⬜ Kublai Khan · ⬜ Alexander the Great · ⬜ Julius Caesar · ✅ Genghis Khan
 
 **Ord:** *empire* — many lands and many people under one ruler · *station* — a stop-place on a long road · *messenger* — a person who carries a message
 
 </details>
 
 <details>
-<summary><b>Kort 3 · Årskurs 12 (A)</b> — The Ruler Who Cannot Read</summary>
+<summary><b>Kort 3 · Årskurs 12</b> — The Ruler Who Cannot Read</summary>
 
 > Khan X is a ruler from the grasslands of Asia.  
 > As a boy, he has no school, and he probably never learns to read.  
@@ -2518,14 +2518,14 @@ svar (✅ = rätt) och ordlista.
 > A ruler who cannot read builds a state that runs on writing, law, and skill.  
 > **Who is Khan X?**
 
-**Svar:** ✅ Genghis Khan · ⬜ Hammurabi · ⬜ Napoleon Bonaparte · ⬜ Kublai Khan · ⬜ Julius Caesar
+**Svar:** ✅ Genghis Khan · ⬜ Hammurabi · ⬜ Napoleon Bonaparte · ⬜ Kublai Khan
 
 **Ord:** *strict* — very firm; the rules must be followed · *herder* — a person who keeps and moves animals, like sheep or horses · *commander* — a leader of soldiers · *craft worker* — a person who makes things with their hands, like pots, cloth, or tools
 
 </details>
 
 <details>
-<summary><b>Kort 4 · Årskurs 12 (B)</b> — Safe Roads, Terrible Price</summary>
+<summary><b>Kort 4 · Årskurs 12</b> — Safe Roads, Terrible Price</summary>
 
 > Khan X, a rider who unites the clans of the grasslands, builds a giant empire across Asia.  
 > Under him and his family, one power guards the long trade roads between east and west.  
@@ -2540,7 +2540,7 @@ svar (✅ = rätt) och ordlista.
 > The empire opens roads for the world, and destroys millions of lives to build them.  
 > **Who is Khan X?**
 
-**Svar:** ⬜ Alexander the Great · ⬜ Napoleon Bonaparte · ✅ Genghis Khan · ⬜ Kublai Khan · ⬜ Julius Caesar
+**Svar:** ⬜ Alexander the Great · ⬜ Napoleon Bonaparte · ✅ Genghis Khan · ⬜ Kublai Khan
 
 **Ord:** *trade* — buying and selling things · *goods* — things people buy and sell · *deadly* — so dangerous that people die from it
 
@@ -2562,7 +2562,7 @@ svar (✅ = rätt) och ordlista.
 > Every source stands somewhere; the historian's job is to see where.  
 > **Who is Khan X?**
 
-**Svar:** ⬜ Julius Caesar · ⬜ Alexander the Great · ⬜ Napoleon Bonaparte · ✅ Genghis Khan · ⬜ Kublai Khan
+**Svar:** ⬜ Alexander the Great · ⬜ Napoleon Bonaparte · ✅ Genghis Khan · ⬜ Kublai Khan
 
 **Ord:** *source* — an old text or thing that gives us information about the past · *conquer* — to take a land by force · *report* — a text that tells what a person sees and learns · *barbarian* — an unfair old word for people that writers see as wild and simple
 
@@ -2584,8 +2584,8 @@ Varje kort innehåller:
 
 - **Korttext**: 7–12 superkorta meningar på superenkel engelska, i presens.
   Personen anonymiseras som "Mr X" och frågan är "Who is Mr X?".
-- **Fem svarsalternativ**, varav ett rätt. Distraktorerna hämtas i möjligaste mån
-  från masterlistans övriga namn, så att eleven möter fler historiska personer.
+- **Fyra svarsalternativ**, varav ett rätt (Rogers regeldokument aug 2026).
+  Distraktorerna hämtas i möjligaste mån från masterlistans övriga namn.
 - **Ordlista**: 1–4 svåra ord med superenkla förklaringar (som i exempelkorten).
 - **Två bildbriefer** (huvudbild + sidobild): beskrivning, Shutterstock-sökning,
   AI-prompt som alternativ, samt bildtext på enkel engelska. Sidobilden förklarar
@@ -2613,9 +2613,9 @@ Varje kort har passerat tre steg:
 
 ## Öppna frågor till Roger/Claes
 
-- Roger skriver "fyra multiple-choice svar", men exempelkorten (Akelius mall) har
-  **fem** alternativ. Korten här följer mallen med fem — att stryka en distraktor
-  är trivialt om fyra är det som gäller.
+- ~~Fyra eller fem svarsalternativ?~~ **Avgjort** i Rogers regeldokument aug 2026:
+  fyra gäller. Samtliga kort har uppdaterats (svagaste distraktorn struken).
+  Se `docs/regler-2026-08-sammanfattning.md` för övriga nya regler och öppna frågor.
 - Vilket filformat vill Akelius produktion ha i slutänden? `data/cards.json` är
   strukturerad så att den lätt kan omvandlas; be gärna om Akelius mallfil.
 - Bildlicenser: briefer med Shutterstock-sökningar och AI-prompter ingår per kort;

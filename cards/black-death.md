@@ -29,7 +29,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ✅ The Black Death
 - ⬜ smallpox
 - ⬜ cholera
-- ⬜ malaria
 - ⬜ leprosy
 
 ### Ordförklaringar (marginal)
@@ -80,7 +79,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ malaria
 - ✅ The Black Death
 - ⬜ cholera
-- ⬜ leprosy
 
 ### Ordförklaringar (marginal)
 
@@ -126,7 +124,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Svarsalternativ
 
-- ⬜ malaria
 - ⬜ cholera
 - ⬜ leprosy
 - ⬜ smallpox
@@ -179,7 +176,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - ⬜ leprosy
 - ✅ The Black Death
 - ⬜ smallpox
-- ⬜ malaria
 - ⬜ cholera
 
 ### Ordförklaringar (marginal)
@@ -228,7 +224,6 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ smallpox
 - ⬜ leprosy
-- ⬜ cholera
 - ✅ The Black Death
 - ⬜ malaria
 
