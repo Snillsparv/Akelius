@@ -45,6 +45,23 @@ och växer i takt med att nya bildbatchar blir klara.
 | `docs/uppdrag-spec.md` | Kravspecen destillerad ur Rogers mejl |
 | `docs/master-lista-50.md` | Listan med 50 personer/skeenden + produktionsstatus |
 
+## Poängpromenaden i Vara (aug 2026)
+
+Sidospår på Rogers begäran (mejl 2026-08-22): 2 × 10 historiefrågor till
+poängpromenaden vid invigningen av Akelius Math Factory i Vara. Tio skyltar
+med en lätt (åk 6-9) och en normal (åk 9-12) fråga vardera, hämtade ur
+åk 6- och åk 9-korten, översatta till svenska och nedkortade till
+tipspromenadformat. Allt ligger i `poangpromenad/`:
+
+- `stationer.md` — källfilen med alla frågor, alternativ, facit och regler
+- `Historia-poangpromenad-Vara.docx` (+ pdf) — skyltunderlag till layout, utan facit
+- `Historia-poangpromenad-facit.docx` (+ pdf) — separat facit
+- `bilder/` + `historia-bilder-vara.zip` — de 20 bilderna som JPEG i full upplösning
+- byggs om med `node tools/build_poangpromenad_docx.js` efter ändring i `stationer.md`
+
+Frågorna är parade så att de två frågorna på samma skylt aldrig har varandras
+svar bland alternativen, och svaren krockar inte med geografidelens facit.
+
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`

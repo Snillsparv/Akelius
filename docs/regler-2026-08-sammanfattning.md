@@ -28,17 +28,27 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
   buntar om ca 30 kort (online 18); fel kort läggs underst.
 - Online: svarssidan visas bara vid fel svar; ordförklaringar före svarsalternativen.
 
+## Rogers svar 2026-08-23 (dikterat i tråden om poängpromenaden)
+
+1. **Religion**: "Religionshistoria är ett måste. Religion har påverkat mänskligheten.
+   Men inte att pingstvänner är det enda rätta." Religionsseten behålls som
+   historia/idéhistoria med tro markerad som tro. **Avgjord.**
+2. **Sjuordsmeningar**: "Sju ord per mening är inte lag. Det är lättläst."
+   Riktmärke för läsbarhet, ingen retroaktiv omskrivning. **Avgjord.**
+3. **Upprepning**: "Med samma bilder menar jag att det räcker med en bild på
+   Sokrates staty." Regeln gäller alltså främst att inte upprepa samma bildmotiv;
+   textkontext hanteras med vår linje (max en kort återetableringsrad). **Avgjord.**
+4. Nya besked i samma svar:
+   - Antal kort per ämne får varieras fritt: "Det är du som är historieläraren."
+   - Målbild: **över 600 kort**. Idéhistoria och utveckling viktigast.
+   - Ta gärna med **matematiker, fysiker etc. och några nobelpristagare**.
+   - Målgrupp att ha i huvudet: eleverna i Tanzania och Bhutan.
+   - Faktafel är AI:s största problem och sänker användningen — granskningskedjan
+     ska fortsätta vara hård.
+
 ## Öppna frågor till Roger (ej åtgärdade)
 
-1. **Religion**: dokumentet säger "Akelius will not teach ... religion", men Jesus,
-   Muhammed, Buddha och Konfucius finns i Rogers egen 50-lista och "Religions –
-   40 cards" i hans fördelning. Våra fyra religionsset är producerade och granskade.
-   Behålls de som historia/idéhistoria?
-2. **Sjuordsmeningar** retroaktivt: skriva om alla befintliga kort eller gäller
-   främst ny produktion?
-3. **"Upprepa inte mellan kort"** vs tidigare kravet "korten är oberoende av
-   varandra" — hur mycket kontext får varje kort återetablera?
-4. **"about X years ago"**: krocken mellan "skip circa" och "använd århundraden,
+1. **"about X years ago"**: krocken mellan "skip circa" och "använd århundraden,
    inte årtal" — är "in the fifth century BC" att föredra?
-5. Baksidestexter ("extra comments", bakgrund) — ska vi producera dem för de 110
-   befintliga korten?
+2. Baksidestexter ("extra comments", bakgrund) — ska vi producera dem för de 110
+   befintliga korten? (Ej uttryckligen besvarad i svaret 2026-08-23.)
