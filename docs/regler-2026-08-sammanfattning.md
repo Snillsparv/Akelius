@@ -46,6 +46,14 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
    - Faktafel är AI:s största problem och sänker användningen — granskningskedjan
      ska fortsätta vara hård.
 
+## Rogers svar 2026-08-24 (efter poängpromenadleveransen)
+
+- "Snyggt. Utmärkta texter." — poängpromenadmaterialet godkänt.
+- **Ny stilregel: kommatecken i stället för parenteser.** "Det blir luftigare,
+  och lättare att läsa." Gäller all kommande produktion; befintliga korttexter
+  sveps vid nästa produktionspass.
+- Målet bekräftat igen: "ytterligare kanske femhundra kort" (totalt ~600+).
+
 ## Öppna frågor till Roger (ej åtgärdade)
 
 1. **"about X years ago"**: krocken mellan "skip circa" och "använd århundraden,
