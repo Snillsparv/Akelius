@@ -30,7 +30,7 @@ Destillerad ur Roger Akelius mejl till Jonas von Essen, 2026-07-12
 | Regel | Källa i mejlet |
 |---|---|
 | Superenkel engelska | "Du skriver på superenkel engelska" |
-| Presens | "Skriv helst i presens" |
+| ~~Presens~~ | "Skriv helst i presens" — **hävd i Rogers mejl 2026-08-26**: "Du behöver inte begränsa till presens" |
 | Superkorta meningar | "Skriv superkorta meningar" |
 | 7–12 meningar per kort | "normalfall sju till tolv meningar" |
 | Flervalsfrågor | "fyra multiple-choice svar" (exempelkorten har fem alternativ — se öppen fråga i README) |

@@ -2599,14 +2599,20 @@ Varje person får fem oberoende kort med stigande svårighetsgrad:
 
 Varje kort innehåller:
 
-- **Korttext**: 7–12 superkorta meningar på superenkel engelska, i presens.
+- **Korttext**: 7–12 superkorta meningar på superenkel engelska.
   Personen anonymiseras som "Mr X" och frågan är "Who is Mr X?".
+  (De befintliga korten är skrivna i presens; kravet hävdes av Roger
+  2026-08-26, så tempus är fritt i kommande produktion.)
 - **Fyra svarsalternativ**, varav ett rätt (Rogers regeldokument aug 2026).
   Distraktorerna hämtas i möjligaste mån från masterlistans övriga namn.
 - **Ordlista**: 1–4 svåra ord med superenkla förklaringar (som i exempelkorten).
 - **Två bildbriefer** (huvudbild + sidobild): beskrivning, Shutterstock-sökning,
   AI-prompt som alternativ, samt bildtext på enkel engelska. Sidobilden förklarar
   där det går ett svårt ord eller nyckelbegrepp.
+- **Svensk översättning** av korttext, fråga, svarsalternativ, ordförklaringar
+  och bildtexter (nytt upplägg 2026-08-26: varje kort levereras på både
+  engelska och svenska). Svenska fält för befintliga kort produceras löpande;
+  de 20 granskade översättningarna i `poangpromenad/stationer.md` återanvänds.
 
 Pedagogiska principer från Roger som styrt skrivandet:
 

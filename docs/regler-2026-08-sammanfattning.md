@@ -18,7 +18,10 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
   + fyra svar nere till höger. Baksida: svar, ordförklaringar, bakgrund/"varför".
 - Berätta de 99 procentens historia, inte bara kungarna; förklara varför (baksidan).
 - Förklara alla ord utanför de 1 000 vanligaste.
-- Sikta på ca sju ord per mening; max ca sju meningar per stycke; presens.
+- Sikta på ca sju ord per mening; max ca sju meningar per stycke.
+- ~~Presens~~ — **hävd 2026-08-26**: "Du behöver inte begränsa till presens.
+  Vi får lära eleverna andra tempus före de lär historia." Tempus är fritt;
+  befintliga kort i presens behöver inte skrivas om.
 - Skippa åsiktsord: bigger, circa, many, much, beautiful (eller kvalificera: "biggest in what").
 - Ingen upprepning av text/bild mellan kort i samma ämne (t.ex. Aten nämns en gång
   per Sokrates-set; endast en bild på Sokrates ansikte).
@@ -53,6 +56,19 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
   och lättare att läsa." Gäller all kommande produktion; befintliga korttexter
   sveps vid nästa produktionspass.
 - Målet bekräftat igen: "ytterligare kanske femhundra kort" (totalt ~600+).
+
+## Nytt upplägg 2026-08-26 (Rogers förslag, godkänt av Jonas 2026-08-27)
+
+- **Tvåspråkig leverans**: varje kort levereras med bild samt text på engelska
+  **och** översatt till svenska, samma kvalitet som hittills.
+  (Ersättningsvillkoren bekräftades i samma mejlväxling; de dokumenteras
+  inte här eftersom repot är publikt.)
+- **Tempuskravet hävt** (se ovan): fritt tempus i historietexterna.
+- Konsekvens för produktionen: datamodellen behöver svenska textfält
+  (korttext, fråga, alternativ, ordförklaringar, bildtexter) och de
+  110 befintliga korten behöver översättas. De 20 poängpromenadfrågorna
+  i `poangpromenad/stationer.md` är redan granskade svenska översättningar
+  av sina kort och kan återanvändas som utgångspunkt.
 
 ## Öppna frågor till Roger (ej åtgärdade)
 
