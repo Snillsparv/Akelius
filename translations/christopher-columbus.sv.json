@@ -1,0 +1,226 @@
+{
+  "slug": "christopher-columbus",
+  "person_sv": "Christofer Columbus",
+  "cards": [
+    {
+      "title": "Tre skepp på ett okänt hav",
+      "text_sentences": [
+        "Kapten X lever för ungefär 500 år sedan, i Europa.",
+        "Spaniens drottning och kung ger honom tre små skepp av trä.",
+        "Han seglar västerut, ut på det öppna havet.",
+        "Ingen karta visar hur långt vattnet sträcker sig.",
+        "Ungefär nittio sjömän är ombord.",
+        "De äter hårt bröd, saltat kött och torkade ärtor.",
+        "De dricker vatten och vin ur tunnor av trä.",
+        "De flesta sjömän sover på däck, under stjärnorna.",
+        "Efter mer än fyra veckor blir besättningen rädd.",
+        "Så en natt ser en utkik land där framme.",
+        "Skeppen når land vid en grön ö i ett varmt hav.",
+        "Människor bor redan där, och de möter sjömännen på stranden."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Christofer Columbus",
+        "Leif Eriksson"
+      ],
+      "words": [
+        {
+          "word": "tunna",
+          "explanation": "ett stort, runt kärl av trä för mat eller dryck"
+        },
+        {
+          "word": "däck",
+          "explanation": "skeppets öppna golv"
+        },
+        {
+          "word": "besättning",
+          "explanation": "alla människor som arbetar på ett skepp"
+        },
+        {
+          "word": "utkik",
+          "explanation": "en sjöman vars uppgift är att spana efter land eller fara"
+        }
+      ],
+      "main_caption": "Tre små skepp seglar västerut. Ingen karta visar vägen.",
+      "side_caption": "Mat och vatten för den långa resan färdas i tunnor av trä."
+    },
+    {
+      "title": "Fel storlek på världen",
+      "text_sentences": [
+        "Kapten X är en sjöman från en hamnstad i Italien.",
+        "På hans tid vet bildade människor mycket väl att jorden är rund.",
+        "Den öppna frågan är hur stor jorden är.",
+        "Kapten X läser gamla reseböcker och gör sin egen beräkning.",
+        "Hans svar är alldeles för litet.",
+        "Därför tror han att Asien ligger bara några veckor väster om Europa.",
+        "Experter i Portugal och i Spanien granskar hans siffror och säger att havet är alldeles för brett.",
+        "Experterna har rätt, men Spaniens härskare betalar ändå för hans sjöresa.",
+        "Han seglar västerut, och han hittar verkligen öar.",
+        "Han tror att de ligger nära Indien, så han kallar människorna där för indianer.",
+        "Han gör fyra sjöresor, och han dör fortfarande säker på att han har varit i Asien.",
+        "Han får aldrig veta att en kontinent, okänd för Europa, ligger i vägen för honom."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Christofer Columbus",
+        "Marco Polo",
+        "Vasco da Gama",
+        "Amerigo Vespucci"
+      ],
+      "words": [
+        {
+          "word": "beräkning",
+          "explanation": "att hitta ett svar med hjälp av siffror"
+        },
+        {
+          "word": "expert",
+          "explanation": "en person som kan ett ämne mycket väl"
+        },
+        {
+          "word": "sjöresa",
+          "explanation": "en lång resa med skepp"
+        },
+        {
+          "word": "kontinent",
+          "explanation": "ett av jordens största landområden, som Afrika eller Asien"
+        }
+      ],
+      "main_caption": "Hur stor är jorden? Han litar på sitt eget svar.",
+      "side_caption": "Han mäter och räknar. Ett litet fel växer sig mycket stort."
+    },
+    {
+      "title": "Öarna är inte tomma",
+      "text_sentences": [
+        "För ungefär 500 år sedan når skepp från Spanien under kapten X öar i Karibiska havet.",
+        "Öarna är inte tomma.",
+        "Tainofolket har bott där i mer än tusen år.",
+        "De odlar kassava och majs, fiskar från kanoter och sover i hängmattor.",
+        "Ord som hängmatta, kanot och orkan kommer från deras språk.",
+        "Detta möte förenar världens två halvor.",
+        "Under åren som följer fraktar skepp majs, tomater, kakao och potatis österut till Europa.",
+        "Andra skepp fraktar hästar, kor, sockerrör och vete västerut.",
+        "Men skeppen bär också på något osynligt.",
+        "Smittkoppor och mässling är nya här, och öbornas kroppar har inget försvar.",
+        "Inom ungefär femtio år har de flesta av tainofolket dött.",
+        "Sjukdom dödar mycket fler människor än något vapen."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Ferdinand Magellan",
+        "Leif Eriksson",
+        "Amerigo Vespucci",
+        "Christofer Columbus"
+      ],
+      "words": [
+        {
+          "word": "kassava",
+          "explanation": "en rotväxt; människor gör mjöl och bröd av den"
+        },
+        {
+          "word": "hängmatta",
+          "explanation": "en hängande säng av vävt tyg eller nät"
+        },
+        {
+          "word": "smittkoppor",
+          "explanation": "en dödlig sjukdom med hög feber och sår på huden"
+        },
+        {
+          "word": "försvar",
+          "explanation": "skydd mot ett anfall eller en sjukdom"
+        }
+      ],
+      "main_caption": "Människor odlar, fiskar och bygger sina hem på öarna.",
+      "side_caption": "En hängmatta, en hängande säng. Ordet kommer från tainofolkets språk."
+    },
+    {
+      "title": "Guld, en koloni och en prästs penna",
+      "text_sentences": [
+        "På sin andra sjöresa västerut återvänder kapten X till de karibiska öarna med sjutton skepp.",
+        "Mer än tusen män seglar med honom, och den här gången kommer de för att stanna.",
+        "Spanien gör öarna till en koloni, och kapten X blir dess guvernör.",
+        "Han befaller tainofolket att skaffa fram guld åt honom.",
+        "De som misslyckas straffas, och familjer måste vaska flodsand efter guld, dag efter dag.",
+        "Några av tainofolkets ledare gör motstånd, men pilbågar kan inte stoppa stålvapen och hästar.",
+        "Flera år senare når rapporter om hårt styre Spanien.",
+        "En kunglig ämbetsman skickar då hem kapten X i kedjor.",
+        "Hur vet vi allt detta?",
+        "En ung kolonist vid namn Bartolomé de las Casas kommer till öarna.",
+        "Senare blir han präst och vänder sig mot systemet.",
+        "Han skriver ner grymheten han ser, och genom hans böcker når tainofolkets berättelse oss i dag."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Vasco da Gama",
+        "Christofer Columbus",
+        "Hernán Cortés",
+        "Ferdinand Magellan"
+      ],
+      "words": [
+        {
+          "word": "koloni",
+          "explanation": "ett land som människor från ett annat land tar och styr"
+        },
+        {
+          "word": "guvernör",
+          "explanation": "ledaren som styr en koloni"
+        },
+        {
+          "word": "straffa",
+          "explanation": "att låta en person lida för något"
+        },
+        {
+          "word": "grymhet",
+          "explanation": "mycket elaka handlingar som skadar människor"
+        }
+      ],
+      "main_caption": "En ung kolonist ser tvångsarbetet. Senare berättar han det för världen.",
+      "side_caption": "Sida efter sida, år efter år. Hans böcker talar än i dag."
+    },
+    {
+      "title": "Upptäckten inför rätta",
+      "text_sentences": [
+        "För ungefär 500 år sedan seglar kapten X västerut från Spanien och når länder okända för Europa.",
+        "I århundraden berättar skolböckerna att han upptäcker en ny värld.",
+        "Historiker ifrågasätter nu varje ord i den meningen.",
+        "Kan någon upptäcka ett land där miljontals människor redan bor?",
+        "Sjömän från den kalla Norden når samma länder ungefär 500 år före honom.",
+        "Arkeologer hittar lämningar av deras hus på Kanadas kust.",
+        "Till och med kaptenens egen loggbok är ett problem: originalet är försvunnet.",
+        "Vi läser hans ord bara i en senare kopia.",
+        "En annan författare ändrar delar av texten.",
+        "Statyer av honom reses i städer på båda sidor om havet, och nu tas några ner.",
+        "Länderna själva får senare sitt namn efter en annan sjöman, inte efter honom.",
+        "I delar av Nord- och Sydamerika hedrar hans gamla högtidsdag nu urfolken i stället."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Leif Eriksson",
+        "Amerigo Vespucci",
+        "Christofer Columbus",
+        "Ferdinand Magellan"
+      ],
+      "words": [
+        {
+          "word": "loggbok",
+          "explanation": "en bok där ett skepps kapten skriver vad som händer varje dag"
+        },
+        {
+          "word": "arkeolog",
+          "explanation": "en person som gräver i marken för att studera hur människor levde för länge sedan"
+        },
+        {
+          "word": "staty",
+          "explanation": "en figur av en person, gjord av sten eller metall"
+        },
+        {
+          "word": "urfolk",
+          "explanation": "de folk som bodde först i ett land"
+        }
+      ],
+      "main_caption": "Under lång tid berättar statyerna bara den ena sidan av historien.",
+      "side_caption": "Gräsklädda huslämningar i Kanada. Arkeologer läser marken som en bok."
+    }
+  ]
+}

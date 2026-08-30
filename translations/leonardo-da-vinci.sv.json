@@ -1,0 +1,221 @@
+{
+  "slug": "leonardo-da-vinci",
+  "person_sv": "Leonardo da Vinci",
+  "cards": [
+    {
+      "title": "Lärlingen som frågar varför",
+      "text_sentences": [
+        "Herr X lever i Italien för mer än femhundra år sedan.",
+        "Han föds i en liten by bland kullar.",
+        "Som pojke ritar han allt han ser.",
+        "Hans far tar honom till den rika staden Florens.",
+        "Där blir han lärling i en berömd verkstad.",
+        "Han lär sig att måla, att blanda färger och att forma metall.",
+        "Men han ställer frågor om allting.",
+        "Han frågar varför fåglar flyger och hur vatten rör sig.",
+        "En berättelse säger: en dag målar eleven bättre än sin mästare.",
+        "Senare målar han ett porträtt av en kvinna med ett stilla leende.",
+        "I dag är det kanske världens mest berömda målning."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Rafael",
+        "Galileo Galilei"
+      ],
+      "words": [
+        {
+          "word": "lärling",
+          "explanation": "en ung person som lär sig ett yrke av en mästare"
+        },
+        {
+          "word": "verkstad",
+          "explanation": "ett rum där människor gör saker med händerna"
+        },
+        {
+          "word": "porträtt",
+          "explanation": "en målning av en person"
+        }
+      ],
+      "main_caption": "En ung lärling lär sig av en mästare i verkstaden.",
+      "side_caption": "En lärling mal och blandar färgerna till målarfärgen."
+    },
+    {
+      "title": "Anteckningsböckerna som skrivs baklänges",
+      "text_sentences": [
+        "Herr X är en konstnär och tänkare i Italien för ungefär femhundra år sedan.",
+        "Han bär en liten anteckningsbok i bältet.",
+        "Han fyller sida efter sida med teckningar och anteckningar.",
+        "Maskiner, floder, växter, ansikten: han ritar allt.",
+        "Sammanlagt finns tusentals sidor kvar i dag.",
+        "Men hans skrift löper från höger till vänster.",
+        "Varje bokstav är vänd, som i en spegel.",
+        "För att läsa skriften kan du hålla sidan mot en spegel.",
+        "Kanske gömmer han sina idéer för nyfikna ögon.",
+        "Eller så är det helt enkelt lättare för hans vänsterhand.",
+        "När han skriver på det här sättet smetar inte det våta bläcket.",
+        "Han planerar stora böcker, men han gör dem aldrig färdiga."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Johannes Gutenberg",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Leonardo da Vinci"
+      ],
+      "words": [
+        {
+          "word": "anteckningsbok",
+          "explanation": "en liten bok med tomma sidor att skriva och rita i"
+        },
+        {
+          "word": "spegel",
+          "explanation": "glas där du kan se dig själv"
+        },
+        {
+          "word": "nyfiken",
+          "explanation": "som väldigt gärna vill veta saker"
+        },
+        {
+          "word": "smeta",
+          "explanation": "att göra vått bläck suddigt genom att röra vid det"
+        }
+      ],
+      "main_caption": "Han fyller sida efter sida med teckningar och anteckningar.",
+      "side_caption": "Håll sidan mot en spegel, så vänds skriften rätt."
+    },
+    {
+      "title": "Det som finns under huden",
+      "text_sentences": [
+        "Herr X, en målare i Italien, lever för ungefär femhundra år sedan.",
+        "Han vill måla människor som de verkligen är.",
+        "Så han frågar: vad finns under huden?",
+        "Läkare på ett sjukhus låter honom studera de döda.",
+        "Han arbetar om natten, försiktigt, lager för lager.",
+        "Han ritar varje muskel, varje ben, varje åder.",
+        "Han ritar hjärtat och dess små dörrar.",
+        "Han ritar hur ett barn ligger i livmodern.",
+        "Hans teckningar av kroppens anatomi är århundraden före sin tid.",
+        "Men han behåller dem bland sina privata papper.",
+        "Läkare lär sig ingenting av dem på flera hundra år.",
+        "Konstnärens öga ser det som vetenskapen ännu inte har sett."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Charles Darwin",
+        "Isaac Newton"
+      ],
+      "words": [
+        {
+          "word": "muskel",
+          "explanation": "en del av kroppen som får skelettets ben att röra sig"
+        },
+        {
+          "word": "åder",
+          "explanation": "ett tunt rör som leder blodet i kroppen"
+        },
+        {
+          "word": "livmoder",
+          "explanation": "platsen inuti en mamma där ett barn växer"
+        },
+        {
+          "word": "anatomi",
+          "explanation": "vetenskapen om hur kroppen är byggd"
+        }
+      ],
+      "main_caption": "Om natten ritar han det som finns under huden.",
+      "side_caption": "Han ritar hjärtat och dess små dörrar."
+    },
+    {
+      "title": "Vingar på papper",
+      "text_sentences": [
+        "Herr X lever i Italien för ungefär femhundra år sedan.",
+        "Rika härskare betalar honom som sin ingenjör.",
+        "Åt dem planerar han broar, kanaler och krigsmaskiner.",
+        "Ändå skriver han: krig är en djurisk galenskap.",
+        "Men han har en egen dröm: människor ska flyga.",
+        "Han iakttar fåglar och fladdermöss i timmar.",
+        "Han ritar vingar som en människa ska flaxa med.",
+        "Han ritar en skruv som ska klättra i luften.",
+        "Han ritar ett tält av tyg för att falla långsamt: en fallskärm.",
+        "Nästan ingen av de här maskinerna byggs under hans livstid.",
+        "Människans muskler är för svaga, och det finns ingen motor.",
+        "Århundraden senare provar människor vissa av ritningarna, och några fungerar verkligen."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Isaac Newton",
+        "Johannes Gutenberg",
+        "Leonardo da Vinci",
+        "Galileo Galilei"
+      ],
+      "words": [
+        {
+          "word": "ingenjör",
+          "explanation": "en person som planerar och bygger maskiner, vägar eller broar"
+        },
+        {
+          "word": "kanal",
+          "explanation": "en flod som människor gräver, för båtar eller vatten"
+        },
+        {
+          "word": "djurisk",
+          "explanation": "vild och grym, som ett farligt djur"
+        },
+        {
+          "word": "fallskärm",
+          "explanation": "ett stort tygstycke som låter en människa falla långsamt och säkert"
+        }
+      ],
+      "main_caption": "Han ritar vingar, men människans muskler är för svaga.",
+      "side_caption": "Ett tält av tyg låter en människa falla långsamt."
+    },
+    {
+      "title": "De skingrade sidorna",
+      "text_sentences": [
+        "Herr X, en italiensk konstnär och tänkare, dör för ungefär femhundra år sedan.",
+        "Hur kan vi känna till hans idéer i dag?",
+        "Han efterlämnar tusentals sidor ur sina anteckningsböcker till en trogen elev.",
+        "Efter elevens död börjar sidorna vandra.",
+        "Samlare köper dem, klipper isär dem och blandar ihop ordningen.",
+        "I dag ligger sidorna i bibliotek i flera länder.",
+        "Två försvunna anteckningsböcker dyker upp igen i Spanien, för bara ungefär sextio år sedan.",
+        "De lärda tror att kanske hälften av alla sidor är borta.",
+        "Historiker måste datera varje sida och återskapa ordningen.",
+        "Människor säger att han är skicklig inom nästan varje område.",
+        "Men forskare frågar fortfarande: ensamt geni, eller en man med en stor verkstad full av medhjälpare?",
+        "Varje påstående om honom vilar på de skingrade sidorna."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Nicolaus Copernicus",
+        "Galileo Galilei"
+      ],
+      "words": [
+        {
+          "word": "samlare",
+          "explanation": "en person som köper och sparar gamla eller sällsynta saker"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar böcker på djupet"
+        },
+        {
+          "word": "geni",
+          "explanation": "en person med ett mycket stort och skarpt förstånd"
+        },
+        {
+          "word": "skingrad",
+          "explanation": "utspridd på många olika platser"
+        }
+      ],
+      "main_caption": "En lärd frågar: var hör den här sidan hemma?",
+      "side_caption": "Sidorna vandrar till många länder, sönderklippta och sålda."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "renaissance",
+  "person_sv": "Renässansen",
+  "cards": [
+    {
+      "title": "Siden, kryddor och ny konst",
+      "text_sentences": [
+        "Perioden X börjar för ungefär 600 år sedan, i Italiens handelsstäder.",
+        "Städerna blir rika genom siden, kryddor, ull och banker.",
+        "Skepp och vägar för mulåsnor binder samman dem med avlägsna länder.",
+        "De rikaste familjerna vill ha fin konst i sina hem och kyrkor.",
+        "De betalar konstnärer för att måla väggar och bygga kupoler.",
+        "Konstnärerna lär sig av gamla romerska statyer och byggnader.",
+        "En ung konstnär börjar som hjälpreda i en mästares verkstad.",
+        "Han rengör penslar, blandar färger och kopierar teckningar.",
+        "Efter många år kan han också bli mästare.",
+        "Varje stad vill ha finare kyrkor och statyer än sina grannar.",
+        "Så städerna tävlar med konst, inte bara med skepp och guld."
+      ],
+      "question": "Vilken period är detta?",
+      "options": [
+        "Medeltiden",
+        "Renässansen",
+        "Industriella revolutionen",
+        "Upplysningen"
+      ],
+      "words": [
+        {
+          "word": "kryddor",
+          "explanation": "delar av växter som ger maten en stark smak"
+        },
+        {
+          "word": "verkstad",
+          "explanation": "ett rum där en mästare och hans hjälpredor gör saker"
+        },
+        {
+          "word": "mästare",
+          "explanation": "en färdigutbildad konstnär eller hantverkare som lär upp andra"
+        },
+        {
+          "word": "kupol",
+          "explanation": "ett runt tak, som ett halvt klot"
+        }
+      ],
+      "main_caption": "Skepp kommer med siden och kryddor. Handelsstäderna blir rika.",
+      "side_caption": "En kupol, ett runt tak som ett halvt klot, reser sig över kyrkan."
+    },
+    {
+      "title": "Jakten på gamla böcker",
+      "text_sentences": [
+        "Perioden X börjar i Italien för ungefär 600 år sedan och sprider sig över Europa.",
+        "Under den här perioden jagar de lärda gamla böcker.",
+        "De letar i klostrens dammiga bokrum.",
+        "Där hittar de texter från det antika Rom, kopierade av munkar för länge sedan.",
+        "Några av texterna ligger nästan bortglömda i tusen år.",
+        "Grekiska lärda från öst för med sig fler gamla texter till Italien.",
+        "Nu kan människor läsa berömda grekiska tänkare igen.",
+        "De lärda jämför kopiorna och rättar fel i dem.",
+        "Rika män betalar för nya bibliotek, öppna för läsare.",
+        "De gamla texterna är fulla av idéer om lag, natur och ett gott liv.",
+        "Läsarna börjar ställa nya frågor om sin egen tid."
+      ],
+      "question": "Vilken period är detta?",
+      "options": [
+        "Reformationen",
+        "Medeltiden",
+        "Renässansen",
+        "Upplysningen"
+      ],
+      "words": [
+        {
+          "word": "lärd",
+          "explanation": "en person som arbetar med att studera och lära sig"
+        },
+        {
+          "word": "kloster",
+          "explanation": "ett hus där munkar bor, arbetar och ber"
+        },
+        {
+          "word": "munk",
+          "explanation": "en religiös man som lever enkelt i ett kloster"
+        }
+      ],
+      "main_caption": "I ett kloster hittar en lärd man en text som är tusen år gammal.",
+      "side_caption": "Munkar bevarar de gamla texterna, några till och med fastkedjade vid hyllan."
+    },
+    {
+      "title": "Ett fönster i väggen",
+      "text_sentences": [
+        "Perioden X för med sig ny konst till Italien för ungefär 600 år sedan.",
+        "Målarna på den här tiden står inför ett gammalt problem.",
+        "En vägg eller en pannå av trä är platt.",
+        "Hur kan en målning se djup ut, som en utsikt genom ett fönster?",
+        "En arkitekt i Florens hittar exakta regler för detta.",
+        "Saker långt borta måste målas mindre, efter fasta regler.",
+        "Linjer som löper bort från betraktaren måste mötas i en enda punkt.",
+        "Målare ritar golv, gator och salar med de här reglerna.",
+        "Nu öppnar sig bilden som ett fönster i väggen.",
+        "Målarna studerar också ljus, skugga och människokroppen.",
+        "Rummen i deras målningar ser så verkliga ut att man skulle kunna kliva in i dem."
+      ],
+      "question": "Vilken period är detta?",
+      "options": [
+        "Renässansen",
+        "Medeltiden",
+        "Upplysningen",
+        "Reformationen"
+      ],
+      "words": [
+        {
+          "word": "pannå",
+          "explanation": "en platt träskiva som konstnärer målar på"
+        },
+        {
+          "word": "arkitekt",
+          "explanation": "en person som planerar och ritar byggnader"
+        },
+        {
+          "word": "skugga",
+          "explanation": "den mörka platsen dit ljuset inte når"
+        }
+      ],
+      "main_caption": "Saker långt borta ser mindre ut. Linjerna som löper in i djupet möts i en enda punkt.",
+      "side_caption": "Målaren ritar efter regler. Den platta pannån börjar se djup ut."
+    },
+    {
+      "title": "Tillbaka till källorna",
+      "text_sentences": [
+        "Perioden X sprider sig från Italien över Europa för ungefär 500 år sedan.",
+        "Mitt i den här perioden dyker en ny maskin upp i Europa.",
+        "I Tyskland bygger boktryckare pressar med lösa metallbokstäver.",
+        "Människor i Kina och Korea trycker med lösa bokstäver mycket tidigare.",
+        "I Europa är detta nytt, och det förändrar hur idéer färdas.",
+        "En tryckt bok kostar mycket mindre än en handskriven kopia.",
+        "En lärd man i Italien skriver om en gammal romersk text.",
+        "Några månader senare läser studenter i Paris de tryckta sidorna.",
+        "Lärda som han kallas humanister.",
+        "De studerar språk, historia, poesi och det goda livet.",
+        "Deras regel är: gå tillbaka till källorna, läs själv de äldsta texterna."
+      ],
+      "question": "Vilken period är detta?",
+      "options": [
+        "Reformationen",
+        "Industriella revolutionen",
+        "Upplysningen",
+        "Renässansen"
+      ],
+      "words": [
+        {
+          "word": "press",
+          "explanation": "en maskin som pressar färg mot papperet"
+        },
+        {
+          "word": "lös",
+          "explanation": "lätt att flytta och använda igen på ett nytt ställe"
+        },
+        {
+          "word": "humanist",
+          "explanation": "en lärd person som studerar språk, historia och poesi"
+        },
+        {
+          "word": "källa",
+          "explanation": "den äldsta texten, där en idé först kommer ifrån"
+        }
+      ],
+      "main_caption": "Tryckta böcker kostar lite. Idéer färdas snabbt nu.",
+      "side_caption": "Långt från Italien läser en ung lärd man de tryckta sidorna."
+    },
+    {
+      "title": "Skarpt brott eller långsam förändring?",
+      "text_sentences": [
+        "Historiker ger namn åt det förflutnas perioder.",
+        "Men vem väljer namnen, och var går gränserna?",
+        "Perioden X visar hur svårt detta är.",
+        "För ungefär 160 år sedan skriver den schweiziske historikern Jacob Burckhardt en berömd bok om den.",
+        "Han säger: i Italien, för sex- eller sjuhundra år sedan, föds den gamla konsten och lärdomen på nytt.",
+        "Människorna där upptäcker världen och sig själva, skriver han.",
+        "Senare historiker tvivlar på detta skarpa, rena brott.",
+        "Livet för de flesta bönder förändras knappt under de här åren.",
+        "Även de lärda under århundradena innan läser gamla romerska texter.",
+        "Några historiker säger: det skarpa brottet är en berättelse som berättas långt efteråt.",
+        "I dag ser många både kontinuitet och verkligt nya saker i konsten och lärdomen."
+      ],
+      "question": "Vilken period är detta?",
+      "options": [
+        "Medeltiden",
+        "Upplysningen",
+        "Renässansen",
+        "Reformationen"
+      ],
+      "words": [
+        {
+          "word": "historiker",
+          "explanation": "en person som studerar och skriver om det förflutna"
+        },
+        {
+          "word": "tvivla",
+          "explanation": "att inte känna sig säker på att något är sant"
+        },
+        {
+          "word": "kontinuitet",
+          "explanation": "när livet fortsätter utan någon skarp förändring"
+        }
+      ],
+      "main_caption": "Ett skarpt brott, eller en långsam förändring? Historikerna är inte överens.",
+      "side_caption": "En historiker skriver om en period hundratals år efter att den tar slut."
+    }
+  ]
+}

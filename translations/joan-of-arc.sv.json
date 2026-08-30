@@ -1,0 +1,213 @@
+{
+  "slug": "joan-of-arc",
+  "person_sv": "Jeanne d'Arc",
+  "cards": [
+    {
+      "title": "Bondflickan i rustning",
+      "text_sentences": [
+        "Flickan X lever i Frankrike för ungefär 600 år sedan.",
+        "Hon är en bondflicka i en liten by.",
+        "Hon vaktar djuren och hjälper till hemma.",
+        "Hon kan inte läsa eller skriva.",
+        "Hennes land är i krig med England, år efter år.",
+        "En dag berättar hon en märklig sak för människorna omkring henne.",
+        "Hon säger att heliga röster talar till henne.",
+        "Rösterna säger åt henne att rädda Frankrike, säger hon.",
+        "Hon är bara ungefär sjutton år gammal.",
+        "Ändå får hon en rustning, en häst och en plats i armén.",
+        "Snart följer vuxna soldater bondflickan in i striden."
+      ],
+      "question": "Vem är flickan X?",
+      "options": [
+        "Mulan",
+        "Jeanne d'Arc",
+        "Kleopatra",
+        "Boudicca"
+      ],
+      "words": [
+        {
+          "word": "rustning",
+          "explanation": "hårda kläder av metall som skyddar en soldat"
+        },
+        {
+          "word": "helig",
+          "explanation": "som kommer från Gud eller är nära Gud"
+        },
+        {
+          "word": "strid",
+          "explanation": "en kamp mellan arméer"
+        }
+      ],
+      "main_caption": "En bondflicka vaktar djuren nära sin lilla by.",
+      "side_caption": "Rustning: hårda kläder av metall som skyddar en soldat."
+    },
+    {
+      "title": "Belägringen som vänder ett krig",
+      "text_sentences": [
+        "Flickan X är en ung kvinna i Frankrike för ungefär 600 år sedan.",
+        "Frankrike och England utkämpar ett krig som varar i ungefär hundra år.",
+        "Nu omringar en engelsk armé Orléans, en viktig stad vid en flod.",
+        "Belägringen varar i många månader, och maten börjar ta slut.",
+        "Om staden faller kan hela Frankrike falla.",
+        "Flickan X säger att Gud sänder henne för att rädda staden.",
+        "Hon rider in med utvilade soldater och mat.",
+        "Hon bär en vit fana in i striden.",
+        "Hon älskar den mer än sitt svärd, säger hon.",
+        "De trötta försvararna får nytt hopp och går till anfall.",
+        "Inom ungefär en vecka ger sig den engelska armén av.",
+        "Det långa kriget börjar långsamt vända."
+      ],
+      "question": "Vem är flickan X?",
+      "options": [
+        "Boudicca",
+        "Isabella I av Kastilien",
+        "Elisabet I",
+        "Jeanne d'Arc"
+      ],
+      "words": [
+        {
+          "word": "belägring",
+          "explanation": "en armé väntar runt en stad så att ingen mat och ingen hjälp kan komma in"
+        },
+        {
+          "word": "fana",
+          "explanation": "en flagga på en stång som soldaterna följer"
+        },
+        {
+          "word": "försvarare",
+          "explanation": "en person som strider för att skydda en plats"
+        }
+      ],
+      "main_caption": "En armé slår läger runt staden. Ingen mat kommer in.",
+      "side_caption": "Soldaterna letar efter sin ledares fana på slagfältet."
+    },
+    {
+      "title": "Varje ord skrivs ner",
+      "text_sentences": [
+        "Flickan X är en ung fransk kvinna, känd från ett långt krig.",
+        "Hon tas till fånga i strid och säljs till den engelska sidan.",
+        "Att bara döda en berömd fånge räcker inte för dem.",
+        "De tillsätter en kyrklig domstol för att döma henne.",
+        "Domarna frågar om rösterna som hon säger att hon hör.",
+        "De hoppas kunna bevisa att hennes röster inte kommer från Gud.",
+        "Skrivare skriver ner varje fråga och varje svar.",
+        "I veckor förhör de henne, dag efter dag.",
+        "Hon kan inte läsa, men hon svarar med omsorg.",
+        "En fråga är en fälla: är hon i Guds nåd?",
+        "- Om jag inte är det, må Gud föra mig dit, svarar hon.",
+        "Ändå finner domstolen henne skyldig, och hon avrättas."
+      ],
+      "question": "Vem är flickan X?",
+      "options": [
+        "Jeanne d'Arc",
+        "Anne Boleyn",
+        "Marie-Antoinette",
+        "Maria Stuart"
+      ],
+      "words": [
+        {
+          "word": "ta till fånga",
+          "explanation": "att göra en person till fånge"
+        },
+        {
+          "word": "skrivare",
+          "explanation": "en person vars arbete är att skriva ner saker"
+        },
+        {
+          "word": "nåd",
+          "explanation": "Guds kärlek och hjälp, enligt kristen tro"
+        },
+        {
+          "word": "skyldig",
+          "explanation": "domstolen säger: den här personen har gjort det onda"
+        }
+      ],
+      "main_caption": "En ung fånge står ensam inför många domare.",
+      "side_caption": "En skrivare skriver ner varje fråga och varje svar."
+    },
+    {
+      "title": "Prinsen som behöver ett tecken",
+      "text_sentences": [
+        "För ungefär 600 år sedan slits Frankrike sönder av krig.",
+        "Englands kung säger att den franska kronan är hans.",
+        "Många franska stormän ställer sig på den engelska sidan.",
+        "Den unge franske prinsen är fattig och full av tvivel.",
+        "Han är inte ens krönt i Reims, kungarnas stad.",
+        "Då kommer flickan X, en byflicka, till hans hov.",
+        "Hon säger att Gud sänder henne för att göra honom till riktig kung.",
+        "På den tiden är ett tecken från Gud stark politik.",
+        "Prinsen bestämmer sig för att pröva hennes hjälp, och det fungerar.",
+        "Efter en stor seger leder hon honom till Reims.",
+        "Han kröns där, och många tvivlare accepterar honom.",
+        "När hon senare tas till fånga sänder hennes kung ingen hjälp."
+      ],
+      "question": "Vem är flickan X?",
+      "options": [
+        "Eleonora av Akvitanien",
+        "Margareta av Anjou",
+        "Jeanne d'Arc",
+        "Isabella I av Kastilien"
+      ],
+      "words": [
+        {
+          "word": "kröna",
+          "explanation": "att göra en person till kung eller drottning i en helig ceremoni"
+        },
+        {
+          "word": "storman",
+          "explanation": "en rik och mäktig man som styr över land"
+        },
+        {
+          "word": "tvivel",
+          "explanation": "en känsla av att något kanske inte är sant eller verkligt"
+        }
+      ],
+      "main_caption": "I kungarnas stad blir en prins en krönt kung.",
+      "side_caption": "En krona är inte bara guld. Den säger: detta styre är heligt."
+    },
+    {
+      "title": "Två domstolar, två berättelser",
+      "text_sentences": [
+        "Flickan X är en fransk byflicka som lever för ungefär 600 år sedan.",
+        "De flesta byflickor på hennes tid lämnar inga spår.",
+        "Ändå känner historikerna henne bättre än de flesta kungar.",
+        "Orsaken: hennes berömda rättegång skrivs ner, ord för ord.",
+        "Ungefär tjugofem år senare tar en ny domstol upp hennes fall igen.",
+        "Den lyssnar på hennes barndomsvänner och hennes gamla soldater.",
+        "Deras minnen fyller sida efter sida.",
+        "Den första domstolen vill se henne skyldig; den andra vill se henne oskyldig.",
+        "Därför läser historikerna båda protokollen med noggranna, svala ögon.",
+        "Nästan femhundra år efter hennes död helgonförklarar kyrkan henne.",
+        "I dag är hon en nationell symbol för Frankrike.",
+        "Många politiska grupper, till vänster och till höger, använder henne som sitt tecken."
+      ],
+      "question": "Vem är flickan X?",
+      "options": [
+        "Bernadette av Lourdes",
+        "Jeanne d'Arc",
+        "Katarina av Siena",
+        "Hildegard av Bingen"
+      ],
+      "words": [
+        {
+          "word": "spår",
+          "explanation": "ett litet tecken på att en person eller sak har funnits där"
+        },
+        {
+          "word": "protokoll",
+          "explanation": "en nedskriven text som bevarar vad människor säger och gör"
+        },
+        {
+          "word": "oskyldig",
+          "explanation": "inte skyldig; personen har inte gjort det onda"
+        },
+        {
+          "word": "symbol",
+          "explanation": "en person eller sak som står för en större idé"
+        }
+      ],
+      "main_caption": "De gamla rättegångsprotokollen finns kvar. Historiker läser varje sida.",
+      "side_caption": "En staty kan göra en enda människa till en symbol för ett helt land."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "johannes-gutenberg",
+  "person_sv": "Johannes Gutenberg",
+  "cards": [
+    {
+      "title": "Boken som kostar en bondgård",
+      "text_sentences": [
+        "Herr X lever i Europa för ungefär 600 år sedan.",
+        "På den här tiden skrivs varje bok för hand.",
+        "En arbetare som kallas skrivare kopierar varje sida.",
+        "En enda tjock bok kan ta flera år av arbete.",
+        "En bok kan kosta lika mycket som en bondgård.",
+        "Några bibliotek kedjar till och med fast sina böcker vid hyllan.",
+        "De flesta människor äger aldrig en bok.",
+        "Herr X är en metallarbetare med en ny idé.",
+        "I sin verkstad bygger han en maskin som gör boksidor.",
+        "Maskinen gör hundratals kopior av en sida på en dag.",
+        "Långsamt blir böcker billiga nog för fler hem."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Leonardo da Vinci",
+        "Johannes Gutenberg",
+        "Martin Luther",
+        "Nicolaus Copernicus"
+      ],
+      "words": [
+        {
+          "word": "skrivare",
+          "explanation": "en person vars arbete är att skriva"
+        },
+        {
+          "word": "kedja fast",
+          "explanation": "att låsa fast något vid en plats med ringar av metall"
+        },
+        {
+          "word": "verkstad",
+          "explanation": "ett rum eller hus där människor gör saker"
+        }
+      ],
+      "main_caption": "En skrivare kopierar en sida i taget. En hel bok tar flera år.",
+      "side_caption": "En bok är så dyr att biblioteket kedjar fast den vid hyllan."
+    },
+    {
+      "title": "En vinpress för ord",
+      "text_sentences": [
+        "Herr X är en guldsmed i den tyska staden Mainz.",
+        "För ungefär 600 år sedan skapar han ett nytt sätt att göra böcker.",
+        "Han gör små block av metall, en bokstav på varje block.",
+        "Med en gjutform i handen gjuter han tusentals likadana block.",
+        "En arbetare sätter blocken i rader för att bygga en sida.",
+        "Arbetaren täcker blocken med tjock, klibbig trycksvärta.",
+        "En stark press, som en vinpress, trycker papperet mot blocken.",
+        "Ett enda drag i pressen trycker en hel sida.",
+        "Pressen gör kopia efter kopia av samma sida.",
+        "Sedan tar arbetarna isär raderna.",
+        "Samma block bygger nu nästa sida.",
+        "En låda med metallbokstäver kan trycka vilken bok som helst på hans språk."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Aldus Manutius",
+        "Leonardo da Vinci",
+        "Nicolaus Copernicus",
+        "Johannes Gutenberg"
+      ],
+      "words": [
+        {
+          "word": "guldsmed",
+          "explanation": "en person som gör fina saker av guld och andra metaller"
+        },
+        {
+          "word": "gjutform",
+          "explanation": "en ihålig form; du häller i något, och det får den formen"
+        },
+        {
+          "word": "trycksvärta",
+          "explanation": "den tjocka färg som används för att trycka text på papper"
+        },
+        {
+          "word": "press",
+          "explanation": "en maskin som trycker två saker hårt mot varandra"
+        }
+      ],
+      "main_caption": "En stark press trycker papperet mot de svärtade bokstavsblocken.",
+      "side_caption": "Ett litet metallblock för varje bokstav. Rader av block bygger en sida."
+    },
+    {
+      "title": "Inte den förste i världen",
+      "text_sentences": [
+        "I Mainz bygger herr X sitt berömda tryckeri för ungefär 600 år sedan.",
+        "Men han är inte den förste som trycker med lösa bokstäver.",
+        "I Kina trycker boktryckare hela boksidor med snidade träblock, århundraden före honom.",
+        "En kinesisk boktryckare gör till och med enskilda bokstäver av bränd lera.",
+        "I Korea gjuter boktryckare bokstäver av metall innan herr X föds.",
+        "En koreansk bok tryckt på det här sättet finns kvar än i dag.",
+        "Så vad tillför herr X egentligen?",
+        "Kinesisk skrift använder tusentals olika tecken.",
+        "Ett europeiskt alfabet behöver bara ungefär två dussin bokstäver.",
+        "Herr X packar ihop hela hantverket till ett enda billigt och snabbt system.",
+        "Vilken stad som helst med pengar kan starta ett eget tryckeri.",
+        "Inom femtio år öppnar tryckerier över hela Europa."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Johannes Gutenberg",
+        "Aldus Manutius",
+        "Leonardo da Vinci",
+        "Galileo Galilei"
+      ],
+      "words": [
+        {
+          "word": "snida",
+          "explanation": "att skära en form i trä eller sten med ett verktyg"
+        },
+        {
+          "word": "lera",
+          "explanation": "mjuk jord som blir hård när man bränner den"
+        },
+        {
+          "word": "gjuta",
+          "explanation": "att göra en sak genom att hälla het metall i en form"
+        }
+      ],
+      "main_caption": "I Östasien gör boktryckare boksidor århundraden före herr X.",
+      "side_caption": "En boktryckare i Kina gör enskilda bokstäver av lera, långt före herr X."
+    },
+    {
+      "title": "Idéer för snabba att stoppa",
+      "text_sentences": [
+        "Herr X från Mainz inleder Europas tid av billiga tryckta böcker.",
+        "En tryckt bok kostar mycket mindre än en handskriven bok.",
+        "Boktryckare säljer också små nyhetshäften för lite pengar.",
+        "En ny idé kan nu korsa ett land på några veckor.",
+        "Ungefär femtio år efter att herr X dör blir en tysk munk arg.",
+        "Kyrkan säljer särskilda brev, och köparna tror att breven ger Guds förlåtelse.",
+        "Munken skriver skarpa punkter mot den här försäljningen.",
+        "Boktryckare gör hans protest till tusentals billiga kopior.",
+        "Grälet växer och splittrar kyrkan i Västeuropa.",
+        "Kungar och kyrkans ledare försöker kontrollera tryckpressarna.",
+        "De lär sig att tryckta idéer är svåra att stoppa.",
+        "Utan herr X:s maskin förblir protesten kanske liten."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Martin Luther",
+        "Aldus Manutius",
+        "Johannes Gutenberg",
+        "Nicolaus Copernicus"
+      ],
+      "words": [
+        {
+          "word": "munk",
+          "explanation": "en religiös man som lever ett enkelt liv för sin tro"
+        },
+        {
+          "word": "förlåtelse",
+          "explanation": "när någon slutar vara arg för något fel du har gjort"
+        },
+        {
+          "word": "protest",
+          "explanation": "starka ord eller handlingar mot något"
+        },
+        {
+          "word": "gräl",
+          "explanation": "en lång och arg strid med ord"
+        }
+      ],
+      "main_caption": "Billiga tryckta blad bär nya idéer från stad till stad.",
+      "side_caption": "Tunna tryckta blad går från hand till hand på marknaden."
+    },
+    {
+      "title": "Den berömde mannen vi knappt känner",
+      "text_sentences": [
+        "Herr X från Mainz kallas den europeiska boktryckarkonstens fader.",
+        "Ändå vet historikerna mycket lite om mannen.",
+        "Inget dokument berättar om hans födelse, och inget äkta porträtt av honom finns.",
+        "Inte ens hans berömda tryckta bibel nämner sin tillverkare.",
+        "Vi känner honom mest genom papper om pengar och genom domstolsprotokoll.",
+        "Han lånar en förmögenhet av en affärspartner till sin verkstad.",
+        "Senare drar partnern honom inför domstol för pengarna.",
+        "Herr X förlorar målet.",
+        "Historiker tror att partnern då tar över bibelverkstaden.",
+        "Forskare debatterar också ordet ”revolution”.",
+        "En berömd studie säger att boktrycket förändrar Europa snabbt och djupt.",
+        "Kritiker svarar att människor, inte maskiner, skapar förändring, och långsamt."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Laurens Janszoon Coster",
+        "Johannes Gutenberg",
+        "Aldus Manutius",
+        "Leonardo da Vinci"
+      ],
+      "words": [
+        {
+          "word": "dokument",
+          "explanation": "ett officiellt papper med information"
+        },
+        {
+          "word": "porträtt",
+          "explanation": "en bild av en persons ansikte"
+        },
+        {
+          "word": "domstol",
+          "explanation": "platsen där en domare avgör vem som har rätt"
+        },
+        {
+          "word": "debattera",
+          "explanation": "att strida offentligt med argument, inte med vapen"
+        }
+      ],
+      "main_caption": "En historiker studerar gamla papper om pengar och gamla domstolsprotokoll.",
+      "side_caption": "Inget äkta porträtt av herr X finns. Ramen förblir tom."
+    }
+  ]
+}
