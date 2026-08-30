@@ -203,7 +203,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ---
 
-## Kort 5 · Universitet — The Socratic problem
+## Kort 5 · Universitet — Three pictures of one man
 
 **Kategori:** `civilizations`
 

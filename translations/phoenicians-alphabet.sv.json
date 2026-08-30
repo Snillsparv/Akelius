@@ -18,12 +18,29 @@
         "Deras land är litet, men det öppna havet gör dem rika."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Egyptierna", "Fenicierna", "Grekerna", "Vikingarna"],
+      "options": [
+        "Egyptierna",
+        "Fenicierna",
+        "Grekerna",
+        "Vikingarna"
+      ],
       "words": [
-        {"word": "handelsman", "explanation": "en person som köper och säljer saker"},
-        {"word": "ceder", "explanation": "ett högt träd med starkt trä som luktar gott"},
-        {"word": "purpurfärg", "explanation": "ett ämne som ger tyg en röd-lila färg"},
-        {"word": "sällsynt", "explanation": "mycket svår att hitta, det finns bara lite av den"}
+        {
+          "word": "handelsman",
+          "explanation": "en person som köper och säljer saker"
+        },
+        {
+          "word": "ceder",
+          "explanation": "ett högt träd med starkt trä som luktar gott"
+        },
+        {
+          "word": "purpurfärg",
+          "explanation": "ett ämne som ger tyg en röd-lila färg"
+        },
+        {
+          "word": "sällsynt",
+          "explanation": "mycket svår att hitta, det finns bara lite av den"
+        }
       ],
       "main_caption": "Ett starkt träskepp fraktar saker att sälja över havet.",
       "side_caption": "Havssnäckor ger en sällsynt purpurfärg."
@@ -45,12 +62,29 @@
         "Ett enkelt verktyg kan förändra världen."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Sumererna", "Egyptierna", "Fenicierna", "Grekerna"],
+      "options": [
+        "Sumererna",
+        "Egyptierna",
+        "Fenicierna",
+        "Grekerna"
+      ],
       "words": [
-        {"word": "tecken", "explanation": "ett enkelt märke som du skriver, som en bokstav"},
-        {"word": "skrivare", "explanation": "en person vars arbete är att skriva"},
-        {"word": "hamn", "explanation": "en stad vid havet där skeppen stannar"},
-        {"word": "alfabet", "explanation": "en liten uppsättning bokstäver som människor skriver alla ord med"}
+        {
+          "word": "tecken",
+          "explanation": "ett enkelt märke som du skriver, som en bokstav"
+        },
+        {
+          "word": "skrivare",
+          "explanation": "en person vars arbete är att skriva"
+        },
+        {
+          "word": "hamn",
+          "explanation": "en stad vid havet där skeppen stannar"
+        },
+        {
+          "word": "alfabet",
+          "explanation": "en liten uppsättning bokstäver som människor skriver alla ord med"
+        }
       ],
       "main_caption": "En handelsman skriver en snabb anteckning i hamnen.",
       "side_caption": "Den gamla skriften har hundratals tecken. Den nya skriften har bara 22."
@@ -72,12 +106,29 @@
         "Makt kan växa ur handel, inte ur erövring."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Romarna", "Grekerna", "Fenicierna", "Egyptierna"],
+      "options": [
+        "Romarna",
+        "Grekerna",
+        "Fenicierna",
+        "Egyptierna"
+      ],
       "words": [
-        {"word": "stadsstat", "explanation": "en stad som är ett eget litet land"},
-        {"word": "imperium", "explanation": "en härskare som styr över många länder och folk"},
-        {"word": "nätverk", "explanation": "många punkter som hänger ihop, som ett spindelnät"},
-        {"word": "erövring", "explanation": "att ta land med krig"}
+        {
+          "word": "stadsstat",
+          "explanation": "en stad som är ett eget litet land"
+        },
+        {
+          "word": "imperium",
+          "explanation": "en härskare som styr över många länder och folk"
+        },
+        {
+          "word": "nätverk",
+          "explanation": "många punkter som hänger ihop, som ett spindelnät"
+        },
+        {
+          "word": "erövring",
+          "explanation": "att ta land med krig"
+        }
       ],
       "main_caption": "Arbetare lastar skepp med glas, tyg och metall i en livlig hamn.",
       "side_caption": "Sjövägar knyter samman många städer till ett enda stort nätverk."
@@ -99,12 +150,29 @@
         "En liten idé kan resa längre än något skepp."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Grekerna", "Romarna", "Hebréerna", "Fenicierna"],
+      "options": [
+        "Grekerna",
+        "Romarna",
+        "Hebréerna",
+        "Fenicierna"
+      ],
       "words": [
-        {"word": "handelsman", "explanation": "en person som köper och säljer saker"},
-        {"word": "vokal", "explanation": "en bokstav för ett öppet ljud, som A, E, O"},
-        {"word": "oxe", "explanation": "ett starkt djur på en bondgård, som en stor ko"},
-        {"word": "tecken", "explanation": "ett enkelt märke som du skriver, som en bokstav"}
+        {
+          "word": "handelsman",
+          "explanation": "en person som köper och säljer saker"
+        },
+        {
+          "word": "vokal",
+          "explanation": "en bokstav för ett öppet ljud, som A, E, O"
+        },
+        {
+          "word": "oxe",
+          "explanation": "ett starkt djur på en bondgård, som en stor ko"
+        },
+        {
+          "word": "tecken",
+          "explanation": "ett enkelt märke som du skriver, som en bokstav"
+        }
       ],
       "main_caption": "Ett oxhuvud blir långsamt bokstaven A.",
       "side_caption": "Vänd på A:et. Kan du se hornen?"
@@ -126,12 +194,29 @@
         "När du läser historia, fråga dig: vem berättar historien, och varför?"
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Etruskerna", "Fenicierna", "Egyptierna", "Perserna"],
+      "options": [
+        "Etruskerna",
+        "Fenicierna",
+        "Egyptierna",
+        "Perserna"
+      ],
       "words": [
-        {"word": "papyrus", "explanation": "ett slags papper som görs av en flodväxt"},
-        {"word": "ruttna", "explanation": "att långsamt brytas ner och falla sönder, som gammalt vått trä"},
-        {"word": "rival", "explanation": "en person eller grupp som slåss eller tävlar med dig"},
-        {"word": "arkeolog", "explanation": "en forskare som gräver i marken och studerar gamla saker"}
+        {
+          "word": "papyrus",
+          "explanation": "ett slags papper som görs av en flodväxt"
+        },
+        {
+          "word": "ruttna",
+          "explanation": "att långsamt brytas ner och falla sönder, som gammalt vått trä"
+        },
+        {
+          "word": "rival",
+          "explanation": "en person eller grupp som slåss eller tävlar med dig"
+        },
+        {
+          "word": "arkeolog",
+          "explanation": "en forskare som gräver i marken och studerar gamla saker"
+        }
       ],
       "main_caption": "Arkeologer läser en historia ur krossade krukor.",
       "side_caption": "Papyrus ruttnar snabbt i fuktig luft. De gamla böckerna är förlorade."

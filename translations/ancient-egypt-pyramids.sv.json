@@ -1,6 +1,6 @@
 {
   "slug": "ancient-egypt-pyramids",
-  "person_sv": "Forntida Egypten – pyramiderna",
+  "person_sv": "Forntida Egypten: pyramiderna",
   "cards": [
     {
       "title": "Ett land vid en enda lång flod",
@@ -18,12 +18,29 @@
         "I tusentals år var den jordens högsta byggnad."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Mexiko", "Egypten", "Kina", "Indien"],
+      "options": [
+        "Mexiko",
+        "Egypten",
+        "Kina",
+        "Indien"
+      ],
       "words": [
-        {"word": "översvämning", "explanation": "när floden stiger och vatten täcker marken"},
-        {"word": "jord", "explanation": "marken som växterna växer i"},
-        {"word": "grav", "explanation": "ett rum eller en byggnad för en död människa"},
-        {"word": "vete", "explanation": "en växt, människor gör bröd av den"}
+        {
+          "word": "översvämning",
+          "explanation": "när floden stiger och vatten täcker marken"
+        },
+        {
+          "word": "jord",
+          "explanation": "marken som växterna växer i"
+        },
+        {
+          "word": "grav",
+          "explanation": "ett rum eller en byggnad för en död människa"
+        },
+        {
+          "word": "vete",
+          "explanation": "en växt, människor gör bröd av den"
+        }
       ],
       "main_caption": "Enorma gravar av sten står i den torra sanden.",
       "side_caption": "Floden gör en grön linje av liv i det torra landet."
@@ -44,12 +61,29 @@
         "Bara ett starkt och välplanerat land klarar det."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Peru", "Mesopotamien", "Egypten", "Mexiko"],
+      "options": [
+        "Peru",
+        "Mesopotamien",
+        "Egypten",
+        "Mexiko"
+      ],
       "words": [
-        {"word": "pyramid", "explanation": "en byggnad med fyrkantig botten och en spets högst upp"},
-        {"word": "släde", "explanation": "en platt skiva av trä som man drar tunga saker på"},
-        {"word": "ramp", "explanation": "en väg som går uppåt, lite i taget"},
-        {"word": "arkeolog", "explanation": "en forskare som gräver i marken för att lära sig om gamla tider"}
+        {
+          "word": "pyramid",
+          "explanation": "en byggnad med fyrkantig botten och en spets högst upp"
+        },
+        {
+          "word": "släde",
+          "explanation": "en platt skiva av trä som man drar tunga saker på"
+        },
+        {
+          "word": "ramp",
+          "explanation": "en väg som går uppåt, lite i taget"
+        },
+        {
+          "word": "arkeolog",
+          "explanation": "en forskare som gräver i marken för att lära sig om gamla tider"
+        }
       ],
       "main_caption": "Arbetare drar tunga stenar på slädar uppför en ramp.",
       "side_caption": "Arbetarna får bröd och fisk som lön."
@@ -70,12 +104,29 @@
         "Vad säger de om oss?"
       ],
       "question": "Vilket land är detta?",
-      "options": ["Kina", "Mexiko", "Egypten", "Irak"],
+      "options": [
+        "Kina",
+        "Mexiko",
+        "Egypten",
+        "Irak"
+      ],
       "words": [
-        {"word": "mumie", "explanation": "en död kropp som torkas och lindas så att den håller mycket länge"},
-        {"word": "grav", "explanation": "ett rum eller en byggnad för en död människa"},
-        {"word": "tempel", "explanation": "en byggnad där människor ber till en gud"},
-        {"word": "öken", "explanation": "mycket torrt land med sand och nästan inget regn"}
+        {
+          "word": "mumie",
+          "explanation": "en död kropp som torkas och lindas så att den håller mycket länge"
+        },
+        {
+          "word": "grav",
+          "explanation": "ett rum eller en byggnad för en död människa"
+        },
+        {
+          "word": "tempel",
+          "explanation": "en byggnad där människor ber till en gud"
+        },
+        {
+          "word": "öken",
+          "explanation": "mycket torrt land med sand och nästan inget regn"
+        }
       ],
       "main_caption": "Graven är som ett berg av sten. Den är ett budskap i sten.",
       "side_caption": "Mumien ligger inuti den här målade kistan. Människor tror att kroppen måste hålla för nästa liv."
@@ -96,12 +147,29 @@
         "Utan skrivare ingen skatt, och utan skatt inga pyramider."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Mesopotamien", "Kina", "Egypten", "Grekland"],
+      "options": [
+        "Mesopotamien",
+        "Kina",
+        "Egypten",
+        "Grekland"
+      ],
       "words": [
-        {"word": "skrivare", "explanation": "en person vars arbete är att skriva och räkna"},
-        {"word": "papyrus", "explanation": "ett slags papper, människor gör det av en flodväxt"},
-        {"word": "skatt", "explanation": "saker som människor måste ge till kungen eller staten, till exempel vete eller pengar"},
-        {"word": "geometri", "explanation": "matematiken om former och om att mäta mark"}
+        {
+          "word": "skrivare",
+          "explanation": "en person vars arbete är att skriva och räkna"
+        },
+        {
+          "word": "papyrus",
+          "explanation": "ett slags papper, människor gör det av en flodväxt"
+        },
+        {
+          "word": "skatt",
+          "explanation": "saker som människor måste ge till kungen eller staten, till exempel vete eller pengar"
+        },
+        {
+          "word": "geometri",
+          "explanation": "matematiken om former och om att mäta mark"
+        }
       ],
       "main_caption": "En skrivare räknar säckarna med vete och skriver ner siffrorna.",
       "side_caption": "Människor gör ett slags papper av den här flodväxten."
@@ -122,12 +190,29 @@
         "Arkeologin kan ge rösten tillbaka."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Persien", "Egypten", "Mesopotamien", "Kina"],
+      "options": [
+        "Persien",
+        "Egypten",
+        "Mesopotamien",
+        "Kina"
+      ],
       "words": [
-        {"word": "skrift", "explanation": "en uppsättning tecken för att skriva ett språk"},
-        {"word": "lärd", "explanation": "en person som studerar ett ämne mycket djupt"},
-        {"word": "arkeologi", "explanation": "läran om de saker som människor från förr lämnar efter sig"},
-        {"word": "grav", "explanation": "ett rum eller en byggnad för en död människa"}
+        {
+          "word": "skrift",
+          "explanation": "en uppsättning tecken för att skriva ett språk"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar ett ämne mycket djupt"
+        },
+        {
+          "word": "arkeologi",
+          "explanation": "läran om de saker som människor från förr lämnar efter sig"
+        },
+        {
+          "word": "grav",
+          "explanation": "ett rum eller en byggnad för en död människa"
+        }
       ],
       "main_caption": "Samma text står skriven tre gånger på en enda sten.",
       "side_caption": "Bildtecken täcker de gamla väggarna. Under lång tid kunde ingen läsa dem."

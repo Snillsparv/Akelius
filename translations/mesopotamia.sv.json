@@ -1,6 +1,6 @@
 {
   "slug": "mesopotamia",
-  "person_sv": "Mesopotamien – de första städerna och skriften",
+  "person_sv": "Mesopotamien: de första städerna och skriften",
   "cards": [
     {
       "title": "Landet mellan två floder",
@@ -14,15 +14,32 @@
         "Med tiden får städerna murar, marknader och höga tempeltorn.",
         "Människorna trycker små tecken i våt lera.",
         "Det är den äldsta skrift vi känner till.",
-        "Landets namn betyder \"mellan floderna\"."
+        "Landets namn betyder ”mellan floderna”."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Egypten", "Mesopotamien", "Indien", "Kina"],
+      "options": [
+        "Egypten",
+        "Mesopotamien",
+        "Indien",
+        "Kina"
+      ],
       "words": [
-        {"word": "kanal", "explanation": "en liten flod som människor gräver, den leder vatten till åkrarna"},
-        {"word": "lera", "explanation": "mjuk, våt jord, den blir hård när den torkar"},
-        {"word": "tempeltorn", "explanation": "ett högt torn, ett hus för en gud"},
-        {"word": "säd", "explanation": "frön från växter som vete, människor gör bröd av dem"}
+        {
+          "word": "kanal",
+          "explanation": "en liten flod som människor gräver, den leder vatten till åkrarna"
+        },
+        {
+          "word": "lera",
+          "explanation": "mjuk, våt jord, den blir hård när den torkar"
+        },
+        {
+          "word": "tempeltorn",
+          "explanation": "ett högt torn, ett hus för en gud"
+        },
+        {
+          "word": "säd",
+          "explanation": "frön från växter som vete, människor gör bröd av dem"
+        }
       ],
       "main_caption": "En stor stad växer mellan två floder.",
       "side_caption": "Människor trycker tecken i våt lera."
@@ -43,12 +60,29 @@
         "Långt senare skriver människorna brev, lagar och berättelser."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Kina", "Egypten", "Mesopotamien", "Fenicien"],
+      "options": [
+        "Kina",
+        "Egypten",
+        "Mesopotamien",
+        "Fenicien"
+      ],
       "words": [
-        {"word": "räknemärke", "explanation": "en liten bit lera som betyder en sak, till exempel ett får"},
-        {"word": "vass", "explanation": "ett högt gräs som växer vid floden"},
-        {"word": "kil", "explanation": "en liten form som spetsen på en spik"},
-        {"word": "bokföring", "explanation": "att räkna varor och skriva ner siffrorna"}
+        {
+          "word": "räknemärke",
+          "explanation": "en liten bit lera som betyder en sak, till exempel ett får"
+        },
+        {
+          "word": "vass",
+          "explanation": "ett högt gräs som växer vid floden"
+        },
+        {
+          "word": "kil",
+          "explanation": "en liten form som spetsen på en spik"
+        },
+        {
+          "word": "bokföring",
+          "explanation": "att räkna varor och skriva ner siffrorna"
+        }
       ],
       "main_caption": "En skrivare räknar får och skriver siffrorna på lera.",
       "side_caption": "Först räknar människor med räknemärken av lera, senare skriver de med kiltecken."
@@ -69,12 +103,29 @@
         "Kanske är staden den största uppfinning som människor någonsin gör."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Egypten", "Indusdalen", "Mesopotamien", "Kina"],
+      "options": [
+        "Egypten",
+        "Indusdalen",
+        "Mesopotamien",
+        "Kina"
+      ],
       "words": [
-        {"word": "kanal", "explanation": "en liten flod som människor gräver, den leder vatten till åkrarna"},
-        {"word": "specialisering", "explanation": "när varje person lär sig ett arbete mycket väl"},
-        {"word": "hantverk", "explanation": "en särskild färdighet eller ett särskilt arbete, man lär sig det genom lång övning"},
-        {"word": "främling", "explanation": "en person som du inte känner"}
+        {
+          "word": "kanal",
+          "explanation": "en liten flod som människor gräver, den leder vatten till åkrarna"
+        },
+        {
+          "word": "specialisering",
+          "explanation": "när varje person lär sig ett arbete mycket väl"
+        },
+        {
+          "word": "hantverk",
+          "explanation": "en särskild färdighet eller ett särskilt arbete, man lär sig det genom lång övning"
+        },
+        {
+          "word": "främling",
+          "explanation": "en person som du inte känner"
+        }
       ],
       "main_caption": "Kanaler leder vatten, och en stad växer fram.",
       "side_caption": "Var och en lär sig ett hantverk."
@@ -95,11 +146,25 @@
         "Människor ställer den frågan för 4 000 år sedan, och vi ställer den än i dag."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Grekland", "Egypten", "Indien", "Mesopotamien"],
+      "options": [
+        "Grekland",
+        "Egypten",
+        "Indien",
+        "Mesopotamien"
+      ],
       "words": [
-        {"word": "evig", "explanation": "för alltid, utan slut"},
-        {"word": "lertavla", "explanation": "en platt skiva av lera som man skriver på"},
-        {"word": "lera", "explanation": "mjuk, våt jord, den blir hård när den torkar"}
+        {
+          "word": "evig",
+          "explanation": "för alltid, utan slut"
+        },
+        {
+          "word": "lertavla",
+          "explanation": "en platt skiva av lera som man skriver på"
+        },
+        {
+          "word": "lera",
+          "explanation": "mjuk, våt jord, den blir hård när den torkar"
+        }
       ],
       "main_caption": "En kung reser långt för att finna evigt liv.",
       "side_caption": "Människor skriver berättelsen på tavlor av lera."
@@ -120,12 +185,29 @@
         "Hållbara skrivmaterial håller de små rösterna vid liv, inte bara kungarnas röster."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Grekland", "Egypten", "Kina", "Mesopotamien"],
+      "options": [
+        "Grekland",
+        "Egypten",
+        "Kina",
+        "Mesopotamien"
+      ],
       "words": [
-        {"word": "kvitto", "explanation": "en lapp som visar vad någon köper eller betalar"},
-        {"word": "lärd", "explanation": "en person som studerar ett ämne mycket djupt"},
-        {"word": "hållbar", "explanation": "stark, den håller mycket länge"},
-        {"word": "kilformad", "explanation": "som ser ut som små trianglar, breda i ena änden och spetsiga i den andra"}
+        {
+          "word": "kvitto",
+          "explanation": "en lapp som visar vad någon köper eller betalar"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar ett ämne mycket djupt"
+        },
+        {
+          "word": "hållbar",
+          "explanation": "stark, den håller mycket länge"
+        },
+        {
+          "word": "kilformad",
+          "explanation": "som ser ut som små trianglar, breda i ena änden och spetsiga i den andra"
+        }
       ],
       "main_caption": "Vi har fortfarande hundratusentals lertavlor kvar.",
       "side_caption": "En kungs budskap på en klippa står på tre språk."

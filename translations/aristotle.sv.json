@@ -18,11 +18,25 @@
         "När du tittar noga och jämför lär du dig nya saker."
       ],
       "question": "Vem är herr X?",
-      "options": ["Aristoteles", "Sokrates", "Platon", "Darwin"],
+      "options": [
+        "Aristoteles",
+        "Sokrates",
+        "Platon",
+        "Darwin"
+      ],
       "words": [
-        {"word": "samla", "explanation": "att föra ihop många saker på ett ställe"},
-        {"word": "jämföra", "explanation": "att titta på två saker och se vad som är lika och vad som är olika"},
-        {"word": "prins", "explanation": "en kungs son"}
+        {
+          "word": "samla",
+          "explanation": "att föra ihop många saker på ett ställe"
+        },
+        {
+          "word": "jämföra",
+          "explanation": "att titta på två saker och se vad som är lika och vad som är olika"
+        },
+        {
+          "word": "prins",
+          "explanation": "en kungs son"
+        }
       ],
       "main_caption": "En historia säger: han går när han undervisar, och hans elever går med honom.",
       "side_caption": "Han samlar saker och jämför dem."
@@ -43,11 +57,25 @@
         "Den idén är en rot till modern vetenskap."
       ],
       "question": "Vem är herr X?",
-      "options": ["Aristoteles", "Darwin", "Sokrates", "Hippokrates"],
+      "options": [
+        "Aristoteles",
+        "Darwin",
+        "Sokrates",
+        "Hippokrates"
+      ],
       "words": [
-        {"word": "bläckfisk", "explanation": "ett havsdjur med åtta armar"},
-        {"word": "biolog", "explanation": "en forskare som studerar levande varelser"},
-        {"word": "rot", "explanation": "platsen där något börjar, som roten på en växt"}
+        {
+          "word": "bläckfisk",
+          "explanation": "ett havsdjur med åtta armar"
+        },
+        {
+          "word": "biolog",
+          "explanation": "en forskare som studerar levande varelser"
+        },
+        {
+          "word": "rot",
+          "explanation": "platsen där något börjar, som roten på en växt"
+        }
       ],
       "main_caption": "Han tittar noga på små havsdjur.",
       "side_caption": "En bläckfisk är ett havsdjur med åtta armar."
@@ -68,11 +96,25 @@
         "Matematik och datorer bygger än i dag på denna vetenskap."
       ],
       "question": "Vem är herr X?",
-      "options": ["Aristoteles", "Sokrates", "Pythagoras", "Euklides"],
+      "options": [
+        "Aristoteles",
+        "Sokrates",
+        "Pythagoras",
+        "Euklides"
+      ],
       "words": [
-        {"word": "argument", "explanation": "skäl som du ger för att visa att något är sant"},
-        {"word": "dödlig", "explanation": "någon som måste dö en dag"},
-        {"word": "logik", "explanation": "reglerna för gott, klart tänkande"}
+        {
+          "word": "argument",
+          "explanation": "skäl som du ger för att visa att något är sant"
+        },
+        {
+          "word": "dödlig",
+          "explanation": "någon som måste dö en dag"
+        },
+        {
+          "word": "logik",
+          "explanation": "reglerna för gott, klart tänkande"
+        }
       ],
       "main_caption": "Om de två första meningarna är sanna måste den tredje vara sann.",
       "side_caption": "Datorer arbetar med logikens regler."
@@ -93,12 +135,29 @@
         "Lycka är ett helt liv som levs väl."
       ],
       "question": "Vem är herr X?",
-      "options": ["Aristoteles", "Platon", "Buddha", "Konfucius"],
+      "options": [
+        "Aristoteles",
+        "Platon",
+        "Buddha",
+        "Konfucius"
+      ],
       "words": [
-        {"word": "mod", "explanation": "att våga när något är svårt"},
-        {"word": "feg", "explanation": "att vara för rädd för att våga handla"},
-        {"word": "dumdristig", "explanation": "att göra vilda, farliga saker utan att tänka"},
-        {"word": "generositet", "explanation": "att gärna ge till andra människor"}
+        {
+          "word": "mod",
+          "explanation": "att våga när något är svårt"
+        },
+        {
+          "word": "feg",
+          "explanation": "att vara för rädd för att våga handla"
+        },
+        {
+          "word": "dumdristig",
+          "explanation": "att göra vilda, farliga saker utan att tänka"
+        },
+        {
+          "word": "generositet",
+          "explanation": "att gärna ge till andra människor"
+        }
       ],
       "main_caption": "Den goda vägen ligger ofta i mitten.",
       "side_caption": "Du tränar en vana som en muskel: om och om igen."
@@ -119,12 +178,29 @@
         "Granska varje auktoritet, även herr X."
       ],
       "question": "Vem är herr X?",
-      "options": ["Aristoteles", "Platon", "Galileo Galilei", "Kopernikus"],
+      "options": [
+        "Aristoteles",
+        "Platon",
+        "Galileo Galilei",
+        "Kopernikus"
+      ],
       "words": [
-        {"word": "lärd", "explanation": "en person som studerar böcker på djupet"},
-        {"word": "auktoritet", "explanation": "en person eller en bok som många litar på och följer"},
-        {"word": "århundrade", "explanation": "hundra år"},
-        {"word": "logik", "explanation": "reglerna för gott, klart tänkande"}
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar böcker på djupet"
+        },
+        {
+          "word": "auktoritet",
+          "explanation": "en person eller en bok som många litar på och följer"
+        },
+        {
+          "word": "århundrade",
+          "explanation": "hundra år"
+        },
+        {
+          "word": "logik",
+          "explanation": "reglerna för gott, klart tänkande"
+        }
       ],
       "main_caption": "Hans böcker färdas genom många språk och många århundraden.",
       "side_caption": "Ett försök visar: den tunga kulan och den lätta kulan faller tillsammans."

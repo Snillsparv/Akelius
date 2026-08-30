@@ -18,10 +18,21 @@
         "Det här händer för nästan 4 000 år sedan."
       ],
       "question": "Vem är kung X?",
-      "options": ["Hammurabi", "Julius Caesar", "Alexander den store", "Konfucius"],
+      "options": [
+        "Hammurabi",
+        "Julius Caesar",
+        "Alexander den store",
+        "Konfucius"
+      ],
       "words": [
-        {"word": "hugga in", "explanation": "att skära in bokstäver eller bilder i hård sten"},
-        {"word": "mäktig", "explanation": "att kunna bestämma över många människor, precis som en kung"}
+        {
+          "word": "hugga in",
+          "explanation": "att skära in bokstäver eller bilder i hård sten"
+        },
+        {
+          "word": "mäktig",
+          "explanation": "att kunna bestämma över många människor, precis som en kung"
+        }
       ],
       "main_caption": "Människor tittar på den höga lagstenen i staden.",
       "side_caption": "En arbetare hugger in tecken i den hårda stenen."
@@ -42,12 +53,29 @@
         "När alla människor kan känna till lagen blir livet rättvisare."
       ],
       "question": "Vem är kung X?",
-      "options": ["Hammurabi", "Kyros den store", "Julius Caesar", "Alexander den store"],
+      "options": [
+        "Hammurabi",
+        "Kyros den store",
+        "Julius Caesar",
+        "Alexander den store"
+      ],
       "words": [
-        {"word": "Mesopotamien", "explanation": "ett gammalt land mellan två stora floder, i dagens Irak"},
-        {"word": "domare", "explanation": "en person som avgör vem som har rätt när människor bråkar om regler"},
-        {"word": "änka", "explanation": "en kvinna vars man är död"},
-        {"word": "föräldralös", "explanation": "ett barn vars föräldrar är döda"}
+        {
+          "word": "Mesopotamien",
+          "explanation": "ett gammalt land mellan två stora floder, i dagens Irak"
+        },
+        {
+          "word": "domare",
+          "explanation": "en person som avgör vem som har rätt när människor bråkar om regler"
+        },
+        {
+          "word": "änka",
+          "explanation": "en kvinna vars man är död"
+        },
+        {
+          "word": "föräldralös",
+          "explanation": "ett barn vars föräldrar är döda"
+        }
       ],
       "main_caption": "Lagarna är inhuggna i den här höga mörka stenen. Alla kan se dem.",
       "side_caption": "En domare lyssnar på två bönder. Vem har rätt?"
@@ -68,12 +96,29 @@
         "Gamla lagar är ett fönster mot vardagslivet."
       ],
       "question": "Vem är kung X?",
-      "options": ["Hammurabi", "Augustus", "Ashoka", "Alexander den store"],
+      "options": [
+        "Hammurabi",
+        "Augustus",
+        "Ashoka",
+        "Alexander den store"
+      ],
       "words": [
-        {"word": "lön", "explanation": "pengarna du får för ditt arbete"},
-        {"word": "arvode", "explanation": "pengarna du betalar för en tjänst, till exempel till en läkare"},
-        {"word": "hyra", "explanation": "pengarna du betalar för att använda en sak, som en båt eller ett hus"},
-        {"word": "adoption", "explanation": "att ta emot ett barn i sin familj som sitt eget barn"}
+        {
+          "word": "lön",
+          "explanation": "pengarna du får för ditt arbete"
+        },
+        {
+          "word": "arvode",
+          "explanation": "pengarna du betalar för en tjänst, till exempel till en läkare"
+        },
+        {
+          "word": "hyra",
+          "explanation": "pengarna du betalar för att använda en sak, som en båt eller ett hus"
+        },
+        {
+          "word": "adoption",
+          "explanation": "att ta emot ett barn i sin familj som sitt eget barn"
+        }
       ],
       "main_caption": "Människor seglar, handlar och bygger i det gamla Babylon.",
       "side_caption": "Tecknen är inhuggna i hård mörk sten. Så här ser lagarna ut."
@@ -94,12 +139,29 @@
         "De kan förändras, och de kan bli bättre."
       ],
       "question": "Vem är kung X?",
-      "options": ["Hammurabi", "Mose", "Solon", "Julius Caesar"],
+      "options": [
+        "Hammurabi",
+        "Mose",
+        "Solon",
+        "Julius Caesar"
+      ],
       "words": [
-        {"word": "slav", "explanation": "en människa som inte är fri och måste arbeta åt en ägare"},
-        {"word": "straff", "explanation": "något ont som du måste ta emot när du bryter mot en regel"},
-        {"word": "jämlik", "explanation": "när alla är lika mycket värda och har samma regler"},
-        {"word": "rättvisa", "explanation": "när människor behandlas rätt och lika"}
+        {
+          "word": "slav",
+          "explanation": "en människa som inte är fri och måste arbeta åt en ägare"
+        },
+        {
+          "word": "straff",
+          "explanation": "något ont som du måste ta emot när du bryter mot en regel"
+        },
+        {
+          "word": "jämlik",
+          "explanation": "när alla är lika mycket värda och har samma regler"
+        },
+        {
+          "word": "rättvisa",
+          "explanation": "när människor behandlas rätt och lika"
+        }
       ],
       "main_caption": "Han skadar en slav, och han betalar bara silver. Är det rättvist?",
       "side_caption": "Hennes ögon är förbundna. I dag måste lagen vara densamma för varje människa."
@@ -120,11 +182,25 @@
         "En enda sten visar hur lagar, makt och föremål reser genom tiden."
       ],
       "question": "Vem är kung X?",
-      "options": ["Hammurabi", "Gilgamesh", "Kyros den store", "Alexander den store"],
+      "options": [
+        "Hammurabi",
+        "Gilgamesh",
+        "Kyros den store",
+        "Alexander den store"
+      ],
       "words": [
-        {"word": "stav", "explanation": "en kort rak käpp"},
-        {"word": "krigsbyte", "explanation": "en särskild sak som segrarna tar med sig hem efter ett krig"},
-        {"word": "arkeolog", "explanation": "en forskare som gräver i jorden för att hitta saker från det förflutna"}
+        {
+          "word": "stav",
+          "explanation": "en kort rak käpp"
+        },
+        {
+          "word": "krigsbyte",
+          "explanation": "en särskild sak som segrarna tar med sig hem efter ett krig"
+        },
+        {
+          "word": "arkeolog",
+          "explanation": "en forskare som gräver i jorden för att hitta saker från det förflutna"
+        }
       ],
       "main_caption": "En gud räcker kungen en stav och en ring.",
       "side_caption": "Arkeologer gräver fram gamla saker ur jorden."

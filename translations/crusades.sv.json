@@ -17,12 +17,29 @@
         "Människor från alla tre religionerna lider i dessa krig."
       ],
       "question": "Vilka krig är detta?",
-      "options": ["Vikingatågen", "Korstågen", "Puniska krigen", "Mongolernas erövringar"],
+      "options": [
+        "Vikingatågen",
+        "Korstågen",
+        "Puniska krigen",
+        "Mongolernas erövringar"
+      ],
       "words": [
-        {"word": "riddare", "explanation": "en soldat till häst med kläder av metall, för länge sedan"},
-        {"word": "helig", "explanation": "mycket speciell och viktig för en religion"},
-        {"word": "präst", "explanation": "en man som leder böner i en kyrka"},
-        {"word": "sy", "explanation": "att sätta ihop tyg med nål och tråd"}
+        {
+          "word": "riddare",
+          "explanation": "en soldat till häst med kläder av metall, för länge sedan"
+        },
+        {
+          "word": "helig",
+          "explanation": "mycket speciell och viktig för en religion"
+        },
+        {
+          "word": "präst",
+          "explanation": "en man som leder böner i en kyrka"
+        },
+        {
+          "word": "sy",
+          "explanation": "att sätta ihop tyg med nål och tråd"
+        }
       ],
       "main_caption": "Resenärerna vandrar österut i många månader.",
       "side_caption": "En riddare. Han rider på en häst och bär kläder av metall."
@@ -43,12 +60,29 @@
         "Men människorna som bor där ser något annat: främmande arméer utanför sina portar."
       ],
       "question": "Vilka krig är detta?",
-      "options": ["Korstågen", "Perserkrigen", "Vikingatågen", "Mongolernas erövringar"],
+      "options": [
+        "Korstågen",
+        "Perserkrigen",
+        "Vikingatågen",
+        "Mongolernas erövringar"
+      ],
       "words": [
-        {"word": "synd", "explanation": "en dålig handling mot religionens regler"},
-        {"word": "förlåter", "explanation": "slutar vara arg över en dålig handling"},
-        {"word": "ära", "explanation": "ett gott namn; människor ser upp till dig"},
-        {"word": "köpman", "explanation": "en person som köper och säljer saker"}
+        {
+          "word": "synd",
+          "explanation": "en dålig handling mot religionens regler"
+        },
+        {
+          "word": "förlåter",
+          "explanation": "slutar vara arg över en dålig handling"
+        },
+        {
+          "word": "ära",
+          "explanation": "ett gott namn; människor ser upp till dig"
+        },
+        {
+          "word": "köpman",
+          "explanation": "en person som köper och säljer saker"
+        }
       ],
       "main_caption": "En ledare talar. Många människor bestämmer sig för att resa österut.",
       "side_caption": "En köpman säljer tyg och kryddor."
@@ -69,12 +103,29 @@
         "Krig stänger dörrar; handel och böcker öppnar dem igen."
       ],
       "question": "Vilka krig är detta?",
-      "options": ["Perserkrigen", "Mongolernas erövringar", "Korstågen", "Vikingatågen"],
+      "options": [
+        "Perserkrigen",
+        "Mongolernas erövringar",
+        "Korstågen",
+        "Vikingatågen"
+      ],
       "words": [
-        {"word": "kust", "explanation": "landet vid havets kant"},
-        {"word": "pilgrim", "explanation": "en person som reser långt för att besöka en helig plats"},
-        {"word": "köpmän", "explanation": "personer som köper och säljer saker"},
-        {"word": "översatta", "explanation": "skrivna en gång till på ett annat språk"}
+        {
+          "word": "kust",
+          "explanation": "landet vid havets kant"
+        },
+        {
+          "word": "pilgrim",
+          "explanation": "en person som reser långt för att besöka en helig plats"
+        },
+        {
+          "word": "köpmän",
+          "explanation": "personer som köper och säljer saker"
+        },
+        {
+          "word": "översatta",
+          "explanation": "skrivna en gång till på ett annat språk"
+        }
       ],
       "main_caption": "Skepp för människor och varor över havet.",
       "side_caption": "En man skriver en gammal bok igen, på ett nytt språk."
@@ -96,12 +147,29 @@
         "I varje krig betalar vanliga människor ur varje religion det högsta priset."
       ],
       "question": "Vilka krig är detta?",
-      "options": ["Korstågen", "Mongolernas erövringar", "Vikingatågen", "Puniska krigen"],
+      "options": [
+        "Korstågen",
+        "Mongolernas erövringar",
+        "Vikingatågen",
+        "Puniska krigen"
+      ],
       "words": [
-        {"word": "kapitel", "explanation": "en del av en bok; här: en del av en berättelse"},
-        {"word": "plundra", "explanation": "att ta saker från människor med våld"},
-        {"word": "Konstantinopel", "explanation": "en stor gammal stad vid havet; i dag heter den Istanbul och ligger i Turkiet"},
-        {"word": "vanlig", "explanation": "normal, inte speciell"}
+        {
+          "word": "kapitel",
+          "explanation": "en del av en bok; här: en del av en berättelse"
+        },
+        {
+          "word": "plundra",
+          "explanation": "att ta saker från människor med våld"
+        },
+        {
+          "word": "Konstantinopel",
+          "explanation": "en stor gammal stad vid havet; i dag heter den Istanbul och ligger i Turkiet"
+        },
+        {
+          "word": "vanlig",
+          "explanation": "normal, inte speciell"
+        }
       ],
       "main_caption": "Höga murar runt en gammal stad. Kriget är hårdast mot människorna där inne.",
       "side_caption": "Konstantinopel: en rik stad vid havet."
@@ -111,7 +179,7 @@
       "text_sentences": [
         "Krigen X utspelar sig för ungefär 900 år sedan, kring en helig stad vid Medelhavets östra ände.",
         "Europeiska författare från den tiden kallar krigarna från Europa heliga pilgrimer.",
-        "Arabiska författare från samma tid kallar dem helt enkelt \"frankerna\".",
+        "Arabiska författare från samma tid kallar dem helt enkelt ”frankerna”.",
         "En arabisk författare, Usama ibn Munqidh, möter franker som fiender, och några som vänner.",
         "En annan, Ibn al-Athir, skriver senare om den heliga stadens fall med djup sorg.",
         "Europeiska böcker berättar om samma dagar som en stor seger.",
@@ -121,12 +189,29 @@
         "En historiker läser båda sidor och prövar varje berättelse mot källorna."
       ],
       "question": "Vilka krig är detta?",
-      "options": ["Perserkrigen", "Puniska krigen", "Mongolernas erövringar", "Korstågen"],
+      "options": [
+        "Perserkrigen",
+        "Puniska krigen",
+        "Mongolernas erövringar",
+        "Korstågen"
+      ],
       "words": [
-        {"word": "frankerna", "explanation": "ett gammalt arabiskt namn på människor från västra Europa"},
-        {"word": "politiker", "explanation": "en person som arbetar med makt och styre i ett land"},
-        {"word": "källor", "explanation": "gamla texter eller saker som ger oss kunskap om det förflutna"},
-        {"word": "historiker", "explanation": "en person som studerar det förflutna"}
+        {
+          "word": "frankerna",
+          "explanation": "ett gammalt arabiskt namn på människor från västra Europa"
+        },
+        {
+          "word": "politiker",
+          "explanation": "en person som arbetar med makt och styre i ett land"
+        },
+        {
+          "word": "källor",
+          "explanation": "gamla texter eller saker som ger oss kunskap om det förflutna"
+        },
+        {
+          "word": "historiker",
+          "explanation": "en person som studerar det förflutna"
+        }
       ],
       "main_caption": "Två gamla böcker berättar om samma krig.",
       "side_caption": "En historiker studerar gamla källor från båda sidor."

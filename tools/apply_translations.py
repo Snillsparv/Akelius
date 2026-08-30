@@ -116,7 +116,6 @@ def main():
                 'main_caption': sv['main_caption'],
                 'side_caption': sv['side_caption'],
             }
-        applied += 1
     for p in problems:
         print('PROBLEM:', p)
     if problems and not check_only:

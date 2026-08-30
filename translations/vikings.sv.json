@@ -17,12 +17,29 @@
         "I dag kan du se några av deras riktiga skepp på museum."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Romarna", "Vikingarna", "Fenicierna", "Grekerna"],
+      "options": [
+        "Romarna",
+        "Vikingarna",
+        "Fenicierna",
+        "Grekerna"
+      ],
       "words": [
-        {"word": "sjömän", "explanation": "personer som reser och arbetar på ett skepp"},
-        {"word": "grund", "explanation": "inte djup"},
-        {"word": "handla", "explanation": "att köpa och sälja saker"},
-        {"word": "plundra", "explanation": "att ta saker från människor med våld"}
+        {
+          "word": "sjömän",
+          "explanation": "personer som reser och arbetar på ett skepp"
+        },
+        {
+          "word": "grund",
+          "explanation": "inte djup"
+        },
+        {
+          "word": "handla",
+          "explanation": "att köpa och sälja saker"
+        },
+        {
+          "word": "plundra",
+          "explanation": "att ta saker från människor med våld"
+        }
       ],
       "main_caption": "Ett långt, snabbt skepp med ett stort segel.",
       "side_caption": "Vattnet är grunt här. Skeppet kan ändå ta sig fram."
@@ -35,7 +52,7 @@
         "De seglar österut över havet, och sedan ror de uppför de stora floderna.",
         "Mellan två floder bär de ibland sina båtar över land.",
         "Floderna leder dem söderut till Konstantinopel, en mycket rik stad.",
-        "På sitt eget språk kallar de staden Miklagård: \"den stora staden\".",
+        "På sitt eget språk kallar de staden Miklagård: ”den stora staden”.",
         "Där säljer de pälsar från sina skogar och bärnsten från sitt hav.",
         "De reser hem med fina tyger och blanka silvermynt.",
         "Arkeologer hittar än i dag många gamla silvermynt i marken i norr.",
@@ -43,12 +60,29 @@
         "Deras handelsvägar går från Irland i väster till Konstantinopel i öster."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Fenicierna", "Grekerna", "Vikingarna", "Romarna"],
+      "options": [
+        "Fenicierna",
+        "Grekerna",
+        "Vikingarna",
+        "Romarna"
+      ],
       "words": [
-        {"word": "handelsmän", "explanation": "personer som köper och säljer saker"},
-        {"word": "päls", "explanation": "ett djurs varma, håriga skinn"},
-        {"word": "bärnsten", "explanation": "ett hårt, guldfärgat material av gammal trädkåda; människor gör pärlor och smycken av det"},
-        {"word": "arkeolog", "explanation": "en person som gräver i marken för att lära sig om det förflutna"}
+        {
+          "word": "handelsmän",
+          "explanation": "personer som köper och säljer saker"
+        },
+        {
+          "word": "päls",
+          "explanation": "ett djurs varma, håriga skinn"
+        },
+        {
+          "word": "bärnsten",
+          "explanation": "ett hårt, guldfärgat material av gammal trädkåda; människor gör pärlor och smycken av det"
+        },
+        {
+          "word": "arkeolog",
+          "explanation": "en person som gräver i marken för att lära sig om det förflutna"
+        }
       ],
       "main_caption": "Handelsmännen färdas på de stora floderna med sina varor.",
       "side_caption": "Bärnsten från havet i norr. Människor älskar dess varma guldfärg."
@@ -70,12 +104,29 @@
         "Alltså når dessa sjömän Amerika ungefär 500 år före Columbus."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Vikingarna", "Fenicierna", "Grekerna", "Romarna"],
+      "options": [
+        "Vikingarna",
+        "Fenicierna",
+        "Grekerna",
+        "Romarna"
+      ],
       "words": [
-        {"word": "kompass", "explanation": "ett verktyg som alltid visar var norr är"},
-        {"word": "bosätter sig", "explanation": "flyttar till en ny plats och gör sitt hem där"},
-        {"word": "heta källor", "explanation": "platser där hett vatten kommer upp ur marken"},
-        {"word": "lämningar", "explanation": "delar av något gammalt som fortfarande finns kvar"}
+        {
+          "word": "kompass",
+          "explanation": "ett verktyg som alltid visar var norr är"
+        },
+        {
+          "word": "bosätter sig",
+          "explanation": "flyttar till en ny plats och gör sitt hem där"
+        },
+        {
+          "word": "heta källor",
+          "explanation": "platser där hett vatten kommer upp ur marken"
+        },
+        {
+          "word": "lämningar",
+          "explanation": "delar av något gammalt som fortfarande finns kvar"
+        }
       ],
       "main_caption": "Ingen kompass, ingen karta: bara solen, stjärnorna och fåglarna.",
       "side_caption": "Hus av jord och gräs, i ett nytt land långt bortom havet."
@@ -94,12 +145,29 @@
         "När männen seglar bort på långa resor leder kvinnorna ofta gården där hemma."
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Fenicierna", "Egyptierna", "Mayafolket", "Vikingarna"],
+      "options": [
+        "Fenicierna",
+        "Egyptierna",
+        "Mayafolket",
+        "Vikingarna"
+      ],
       "words": [
-        {"word": "runor", "explanation": "gamla bokstäver av raka linjer"},
-        {"word": "gärning", "explanation": "en sak som en person gör"},
-        {"word": "samhälle", "explanation": "alla människor som lever tillsammans i ett land eller en grupp"},
-        {"word": "ärva", "explanation": "att få mark, pengar eller saker från en familjemedlem som dör"}
+        {
+          "word": "runor",
+          "explanation": "gamla bokstäver av raka linjer"
+        },
+        {
+          "word": "gärning",
+          "explanation": "en sak som en person gör"
+        },
+        {
+          "word": "samhälle",
+          "explanation": "alla människor som lever tillsammans i ett land eller en grupp"
+        },
+        {
+          "word": "ärva",
+          "explanation": "att få mark, pengar eller saker från en familjemedlem som dör"
+        }
       ],
       "main_caption": "En minnessten. Familjen reser den för en älskad människa som har dött.",
       "side_caption": "Hon har nycklarna. Hon leder gården när männen är borta."
@@ -121,12 +189,29 @@
         "Så när du läser historia, fråga alltid: vem skriver detta, och varför?"
       ],
       "question": "Vilket folk är folket X?",
-      "options": ["Mongolerna", "Romarna", "Vikingarna", "Osmanerna"],
+      "options": [
+        "Mongolerna",
+        "Romarna",
+        "Vikingarna",
+        "Osmanerna"
+      ],
       "words": [
-        {"word": "munk", "explanation": "en religiös man som lever enkelt och ber; många munkar kan skriva"},
-        {"word": "offer", "explanation": "en person som drabbas av något ont"},
-        {"word": "grym", "explanation": "mycket elak; en grym person skadar andra"},
-        {"word": "kostymtecknare", "explanation": "en person som gör kläderna till en pjäs eller en film"}
+        {
+          "word": "munk",
+          "explanation": "en religiös man som lever enkelt och ber; många munkar kan skriva"
+        },
+        {
+          "word": "offer",
+          "explanation": "en person som drabbas av något ont"
+        },
+        {
+          "word": "grym",
+          "explanation": "mycket elak; en grym person skadar andra"
+        },
+        {
+          "word": "kostymtecknare",
+          "explanation": "en person som gör kläderna till en pjäs eller en film"
+        }
       ],
       "main_caption": "En munk skriver historien. Men är hans berättelse hela sanningen?",
       "side_caption": "En riktig hjälm från den tiden. Den har inga horn."
