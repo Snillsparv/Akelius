@@ -99,7 +99,10 @@ def main():
         eng_set = by_slug[slug]
         before = len(problems)
         validate(slug, tr, eng_set, problems)
-        if check_only or len(problems) > before:
+        if len(problems) > before:
+            continue
+        applied += 1
+        if check_only:
             continue
         eng_set['person_sv'] = tr['person_sv']
         for sv, en in zip(tr['cards'], eng_set['cards']):

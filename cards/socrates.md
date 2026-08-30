@@ -40,7 +40,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Illustration of Socrates, an older bearded man in a simple robe, walking barefoot through the market of ancient Athens and talking in a friendly way with a young man and a worker.
-- **Bildtext:** *Socrates walks in Athens and talks with everyone.*
+- **Bildtext:** *Mr X walks in Athens and talks with everyone.*
 - **Shutterstock-sökning:** `Socrates ancient Athens market talking illustration`
 - **AI-prompt (alternativ):** Warm educational illustration of the ancient Greek philosopher Socrates, an older bearded man in a plain robe, barefoot, walking through a lively market in ancient Athens, talking in a friendly way with a young man and a worker, marble buildings in the background, children's book style.
 
@@ -90,7 +90,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Socrates sits on stone steps in ancient Athens with a small group of young Athenians in conversation; he raises a finger and asks a question back; question marks float in the air. Note: show an informal street conversation, not a school class - Socrates took no pupils for pay.
-- **Bildtext:** *Socrates answers a question with a question.*
+- **Bildtext:** *Mr X answers a question with a question.*
 - **Shutterstock-sökning:** `Socrates conversation young Athenians agora illustration`
 - **AI-prompt (alternativ):** Educational flat illustration of Socrates in ancient Athens sitting on stone steps with a small group of young Athenians in friendly conversation, he answers with a question, large question marks floating in the air, marble columns behind, clean friendly style.
 
@@ -140,7 +140,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** The famous painting 'The Death of Socrates' by Jacques-Louis David: Socrates sits upright on a bed, one hand raised while he still teaches, the other hand reaching toward the cup of poison, sad friends around him.
-- **Bildtext:** *Socrates reaches for the cup of poison and still teaches his friends.*
+- **Bildtext:** *Mr X reaches for the cup of poison and still teaches his friends.*
 - **Shutterstock-sökning:** `Death of Socrates Jacques-Louis David painting`
 - **AI-prompt (alternativ):** Classical painting style, calm and dignified: the old philosopher Socrates sits upright on a bed in a prison cell, one hand raised as he teaches, the other hand reaching for a simple cup, sad friends around him, soft dramatic light, no blood, no violence.
 
@@ -190,7 +190,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Socrates, an old barefoot man in a plain worn cloak, calmly asks questions of wealthy Athenian men in fine wool robes with purple borders; the rich men look uncomfortable; ancient Athens street in the background. Historical note for production: no gold necklaces, bracelets, or earrings on the men - classical Athenian men wore at most a signet ring; show wealth through fine cloth, groomed hair, and an attendant.
-- **Bildtext:** *Socrates asks a rich man about his soul.*
+- **Bildtext:** *Mr X asks a rich man about his soul.*
 - **Shutterstock-sökning:** `Socrates philosopher talking rich men ancient Greece illustration`
 - **AI-prompt (alternativ):** Educational illustration of Socrates, an old man in a plain worn cloak, barefoot, calmly asking questions to wealthy ancient Athenian men in fine white wool himations with purple borders, groomed hair and beards, at most a gold signet ring, no necklaces or earrings; the rich men look uncomfortable; ancient Athens street in the background.
 
@@ -240,7 +240,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** Three different portraits of the same bearded Greek philosopher side by side: one noble and wise, one plain and simple, one as a comic stage mask; a question mark above them shows that the old sources disagree. AI generation is the primary path for this concept; as a stock fallback, use several different antique busts of Socrates side by side.
-- **Bildtext:** *Old books show three different pictures of Socrates.*
+- **Bildtext:** *Old books show three different pictures of Mr X.*
 - **Shutterstock-sökning:** `Socrates bust ancient Greek philosopher statue collection`
 - **AI-prompt (alternativ):** Conceptual illustration: three different portraits of the same ancient Greek philosopher side by side, one noble and wise, one plain and simple, one as a comedy stage mask caricature, a large question mark above, symbolizing that old sources disagree about the real man.
 

@@ -4,7 +4,6 @@
   "cards": [
     {
       "title": "Mannen som aldrig skriver en bok",
-      "leak_ok": true,
       "text_sentences": [
         "Herr X bor för länge sedan i Aten.",
         "Aten är en berömd stad i antikens Grekland.",
@@ -20,17 +19,27 @@
         "Därför känner vi till hans idéer än i dag."
       ],
       "question": "Vem är herr X?",
-      "options": ["Sokrates", "Platon", "Aristoteles", "Konfucius"],
-      "words": [
-        {"word": "barfota", "explanation": "utan skor på fötterna"},
-        {"word": "antiken", "explanation": "en tid för mycket länge sedan"}
+      "options": [
+        "Sokrates",
+        "Platon",
+        "Aristoteles",
+        "Konfucius"
       ],
-      "main_caption": "Sokrates går omkring i Aten och pratar med alla.",
+      "words": [
+        {
+          "word": "barfota",
+          "explanation": "utan skor på fötterna"
+        },
+        {
+          "word": "antiken",
+          "explanation": "en tid för mycket länge sedan"
+        }
+      ],
+      "main_caption": "Herr X går omkring i Aten och pratar med alla.",
       "side_caption": "En elev skriver ner orden."
     },
     {
       "title": "Svara med en fråga",
-      "leak_ok": true,
       "text_sentences": [
         "Herr X bor i Aten för nästan 2 500 år sedan.",
         "När du ställer en fråga till honom svarar han inte.",
@@ -46,19 +55,35 @@
         "Det hjälper dig också att granska nyheter, rykten och reklam."
       ],
       "question": "Vem är herr X?",
-      "options": ["Sokrates", "Platon", "Buddha", "Aristoteles"],
-      "words": [
-        {"word": "skäl", "explanation": "varför du tror att något är sant"},
-        {"word": "talesätt", "explanation": "en kort mening som många människor känner till och upprepar"},
-        {"word": "rykte", "explanation": "en historia som människor berättar för varandra, men ingen kontrollerar om den är sann"},
-        {"word": "reklam", "explanation": "ord och bilder som försöker få dig att köpa något"}
+      "options": [
+        "Sokrates",
+        "Platon",
+        "Buddha",
+        "Aristoteles"
       ],
-      "main_caption": "Sokrates svarar på en fråga med en fråga.",
+      "words": [
+        {
+          "word": "skäl",
+          "explanation": "varför du tror att något är sant"
+        },
+        {
+          "word": "talesätt",
+          "explanation": "en kort mening som många människor känner till och upprepar"
+        },
+        {
+          "word": "rykte",
+          "explanation": "en historia som människor berättar för varandra, men ingen kontrollerar om den är sann"
+        },
+        {
+          "word": "reklam",
+          "explanation": "ord och bilder som försöker få dig att köpa något"
+        }
+      ],
+      "main_caption": "Herr X svarar på en fråga med en fråga.",
       "side_caption": "Är det här sant? Kontrollera först."
     },
     {
       "title": "Rättegången mot mannen som frågar",
-      "leak_ok": true,
       "text_sentences": [
         "Aten förlorar ett långt krig.",
         "Människorna är rädda och arga.",
@@ -74,19 +99,35 @@
         "Hans rättegång lämnar oss med en stor fråga: vad får ett land göra med en tänkare?"
       ],
       "question": "Vem är herr X?",
-      "options": ["Sokrates", "Galileo Galilei", "Gandhi", "Nelson Mandela"],
-      "words": [
-        {"word": "rättegång", "explanation": "när en domstol, domarnas plats, avgör: har en person begått ett brott?"},
-        {"word": "jury", "explanation": "en grupp vanliga människor som röstar i domstolen: gjorde han det eller inte?"},
-        {"word": "skyldig", "explanation": "domstolen säger: ja, han gjorde det"},
-        {"word": "gift", "explanation": "något som dödar dig när du dricker eller äter det"}
+      "options": [
+        "Sokrates",
+        "Galileo Galilei",
+        "Gandhi",
+        "Nelson Mandela"
       ],
-      "main_caption": "Sokrates sträcker sig efter bägaren med gift och undervisar fortfarande sina vänner.",
+      "words": [
+        {
+          "word": "rättegång",
+          "explanation": "när en domstol, domarnas plats, avgör: har en person begått ett brott?"
+        },
+        {
+          "word": "jury",
+          "explanation": "en grupp vanliga människor som röstar i domstolen: gjorde han det eller inte?"
+        },
+        {
+          "word": "skyldig",
+          "explanation": "domstolen säger: ja, han gjorde det"
+        },
+        {
+          "word": "gift",
+          "explanation": "något som dödar dig när du dricker eller äter det"
+        }
+      ],
+      "main_caption": "Herr X sträcker sig efter bägaren med gift och undervisar fortfarande sina vänner.",
       "side_caption": "Juryn röstar med små stenar."
     },
     {
       "title": "Själen är värd mer än guld",
-      "leak_ok": true,
       "text_sentences": [
         "Herr X går genom Aten.",
         "Han hejdar människor och pratar med dem.",
@@ -102,19 +143,35 @@
         "Därför blir många mäktiga män hans fiender."
       ],
       "question": "Vem är herr X?",
-      "options": ["Sokrates", "Aristoteles", "Buddha", "Konfucius"],
-      "words": [
-        {"word": "själ", "explanation": "det inre hos dig: dina tankar, känslor och din karaktär"},
-        {"word": "berömmelse", "explanation": "när många människor känner till ditt namn"},
-        {"word": "outrannsakad", "explanation": "inte granskad, inte genomtänkt"},
-        {"word": "fuska", "explanation": "att ljuga eller lura människor för att vinna eller få pengar"}
+      "options": [
+        "Sokrates",
+        "Aristoteles",
+        "Buddha",
+        "Konfucius"
       ],
-      "main_caption": "Sokrates frågar en rik man om hans själ.",
+      "words": [
+        {
+          "word": "själ",
+          "explanation": "det inre hos dig: dina tankar, känslor och din karaktär"
+        },
+        {
+          "word": "berömmelse",
+          "explanation": "när många människor känner till ditt namn"
+        },
+        {
+          "word": "outrannsakad",
+          "explanation": "inte granskad, inte genomtänkt"
+        },
+        {
+          "word": "fuska",
+          "explanation": "att ljuga eller lura människor för att vinna eller få pengar"
+        }
+      ],
+      "main_caption": "Herr X frågar en rik man om hans själ.",
       "side_caption": "En god själ väger mer än guld."
     },
     {
       "title": "Det sokratiska problemet",
-      "leak_ok": true,
       "text_sentences": [
         "Herr X skriver ingenting.",
         "Men han förändrar tänkandet för alltid.",
@@ -130,14 +187,31 @@
         "Senare gör Aristoteles denna prövning till logik, läran om goda argument."
       ],
       "question": "Vem är herr X?",
-      "options": ["Sokrates", "Platon", "Konfucius", "Buddha"],
-      "words": [
-        {"word": "dialog", "explanation": "ett nedskrivet samtal mellan två eller flera personer"},
-        {"word": "expert", "explanation": "en person som vet mycket om en enda sak"},
-        {"word": "vederläggning", "explanation": "att steg för steg visa att en idé inte håller"},
-        {"word": "påstående", "explanation": "något som en person säger är sant"}
+      "options": [
+        "Sokrates",
+        "Platon",
+        "Konfucius",
+        "Buddha"
       ],
-      "main_caption": "Gamla böcker visar tre olika bilder av Sokrates.",
+      "words": [
+        {
+          "word": "dialog",
+          "explanation": "ett nedskrivet samtal mellan två eller flera personer"
+        },
+        {
+          "word": "expert",
+          "explanation": "en person som vet mycket om en enda sak"
+        },
+        {
+          "word": "vederläggning",
+          "explanation": "att steg för steg visa att en idé inte håller"
+        },
+        {
+          "word": "påstående",
+          "explanation": "något som en person säger är sant"
+        }
+      ],
+      "main_caption": "Gamla böcker visar tre olika bilder av herr X.",
       "side_caption": "En dialog är ett nedskrivet samtal mellan människor."
     }
   ]
