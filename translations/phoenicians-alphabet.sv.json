@@ -1,0 +1,140 @@
+{
+  "slug": "phoenicians-alphabet",
+  "person_sv": "Fenicierna och alfabetet",
+  "cards": [
+    {
+      "title": "Skepp, ceder och purpur",
+      "text_sentences": [
+        "Folket X lever för ungefär 3 000 år sedan.",
+        "Deras hem ligger vid Medelhavets östra kust.",
+        "Bakom deras städer är bergen fulla av höga cedrar.",
+        "De bygger starka skepp av cederträet.",
+        "De är skickliga sjömän och handelsmän.",
+        "De seglar från stad till stad med trä, olja och tyg.",
+        "De gör också en berömd purpurfärg av havssnäckor.",
+        "Purpurtyg är så sällsynt att kungar betalar guld för det.",
+        "De säljer purpurtyget till grekerna och till Egyptens kungar.",
+        "Deras handelsstäder skickar skepp över hela havet.",
+        "Deras land är litet, men det öppna havet gör dem rika."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Egyptierna", "Fenicierna", "Grekerna", "Vikingarna"],
+      "words": [
+        {"word": "handelsman", "explanation": "en person som köper och säljer saker"},
+        {"word": "ceder", "explanation": "ett högt träd med starkt trä som luktar gott"},
+        {"word": "purpurfärg", "explanation": "ett ämne som ger tyg en röd-lila färg"},
+        {"word": "sällsynt", "explanation": "mycket svår att hitta, det finns bara lite av den"}
+      ],
+      "main_caption": "Ett starkt träskepp fraktar saker att sälja över havet.",
+      "side_caption": "Havssnäckor ger en sällsynt purpurfärg."
+    },
+    {
+      "title": "Tjugotvå små tecken",
+      "text_sentences": [
+        "Folket X är handelsmän på Medelhavet.",
+        "Egyptiska och sumeriska skriftsystem har hundratals tecken.",
+        "Bara några få skrivare lär sig dem, efter många års skola.",
+        "Men handelsmän behöver snabba anteckningar i varje hamn.",
+        "De skriver priser, namn och listor över de saker de säljer.",
+        "Därför använder folket X en ny, enkel skrift med bara 22 tecken.",
+        "Ett tecken betyder ett ljud.",
+        "Nu kan ett barn lära sig läsa på några månader, inte på flera år.",
+        "Deras skepp för tecknen till många länder.",
+        "Senare lär sig grekerna tecknen av folket X.",
+        "De flesta alfabet i dag bygger på de tecknen.",
+        "Ett enkelt verktyg kan förändra världen."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Sumererna", "Egyptierna", "Fenicierna", "Grekerna"],
+      "words": [
+        {"word": "tecken", "explanation": "ett enkelt märke som du skriver, som en bokstav"},
+        {"word": "skrivare", "explanation": "en person vars arbete är att skriva"},
+        {"word": "hamn", "explanation": "en stad vid havet där skeppen stannar"},
+        {"word": "alfabet", "explanation": "en liten uppsättning bokstäver som människor skriver alla ord med"}
+      ],
+      "main_caption": "En handelsman skriver en snabb anteckning i hamnen.",
+      "side_caption": "Den gamla skriften har hundratals tecken. Den nya skriften har bara 22."
+    },
+    {
+      "title": "Ett nätverk, inte ett imperium",
+      "text_sentences": [
+        "Folket X bor i hamnstäder på Medelhavets östra kust.",
+        "Varje stad, som Tyros eller Byblos, är en stadsstat med sin egen kung.",
+        "Städerna går aldrig samman till ett enda stort imperium.",
+        "I stället grundar folket X små handelsstäder på många kuster, från Cypern till Spanien.",
+        "En av dessa städer är Karthago, i Nordafrika.",
+        "Karthago växer senare till en egen stormakt.",
+        "Deras skepp fraktar glas, purpurtyg och metaller.",
+        "Skeppen för också med sig sådant som man inte kan lägga i en låda.",
+        "De för med sig kunskaper, idéer och bokstäver att skriva med.",
+        "Till och med grekerna lär sig dessa bokstäver av folket X.",
+        "Stora städer, små städer och sjövägar bildar ett enda stort nätverk.",
+        "Makt kan växa ur handel, inte ur erövring."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Romarna", "Grekerna", "Fenicierna", "Egyptierna"],
+      "words": [
+        {"word": "stadsstat", "explanation": "en stad som är ett eget litet land"},
+        {"word": "imperium", "explanation": "en härskare som styr över många länder och folk"},
+        {"word": "nätverk", "explanation": "många punkter som hänger ihop, som ett spindelnät"},
+        {"word": "erövring", "explanation": "att ta land med krig"}
+      ],
+      "main_caption": "Arbetare lastar skepp med glas, tyg och metall i en livlig hamn.",
+      "side_caption": "Sjövägar knyter samman många städer till ett enda stort nätverk."
+    },
+    {
+      "title": "Bokstaven A:s resa",
+      "text_sentences": [
+        "Titta på bokstaven A på det här kortet.",
+        "Folket X är handelsmän till sjöss på Medelhavets östra kust.",
+        "De skriver med bara 22 enkla tecken.",
+        "Deras första tecken heter alef.",
+        "Långt före deras tid börjar alef som bilden av huvudet på en oxe.",
+        "Vänd ett stort A upp och ner.",
+        "Du kan fortfarande se de två hornen.",
+        "Grekiska sjömän lånar tecknen av handelsmännen från folket X.",
+        "Grekerna lägger till vokaler, som A, E och O.",
+        "Senare, i Italien, formar etruskerna och därefter romarna bokstäverna på nytt.",
+        "Hebreiska och arabiska bokstäver kommer också från de gamla tecknen.",
+        "En liten idé kan resa längre än något skepp."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Grekerna", "Romarna", "Hebréerna", "Fenicierna"],
+      "words": [
+        {"word": "handelsman", "explanation": "en person som köper och säljer saker"},
+        {"word": "vokal", "explanation": "en bokstav för ett öppet ljud, som A, E, O"},
+        {"word": "oxe", "explanation": "ett starkt djur på en bondgård, som en stor ko"},
+        {"word": "tecken", "explanation": "ett enkelt märke som du skriver, som en bokstav"}
+      ],
+      "main_caption": "Ett oxhuvud blir långsamt bokstaven A.",
+      "side_caption": "Vänd på A:et. Kan du se hornen?"
+    },
+    {
+      "title": "Folket utan röst",
+      "text_sentences": [
+        "Folket X sprider enkla bokstäver runt hela Medelhavet.",
+        "Deras hem är den smala kusten där Libanon ligger i dag.",
+        "Men något märkligt händer med deras historia.",
+        "De skriver sina anteckningar och böcker på papyrus.",
+        "Papyrus ruttnar snabbt i kustens fuktiga luft.",
+        "Därför är nästan alla deras egna böcker förlorade.",
+        "Vi känner dem mest genom deras grannar, som grekerna och romarna.",
+        "Grannarna är ofta rivaler, så deras ord är inte alltid rättvisa.",
+        "Till och med namnet vi använder om folket X kommer från ett grekiskt ord.",
+        "Det är troligen det grekiska ordet för purpurfärgen som de tillverkar och säljer.",
+        "Arkeologer läser deras historia ur krossade krukor, gamla skepp och korta texter på sten.",
+        "När du läser historia, fråga dig: vem berättar historien, och varför?"
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Etruskerna", "Fenicierna", "Egyptierna", "Perserna"],
+      "words": [
+        {"word": "papyrus", "explanation": "ett slags papper som görs av en flodväxt"},
+        {"word": "ruttna", "explanation": "att långsamt brytas ner och falla sönder, som gammalt vått trä"},
+        {"word": "rival", "explanation": "en person eller grupp som slåss eller tävlar med dig"},
+        {"word": "arkeolog", "explanation": "en forskare som gräver i marken och studerar gamla saker"}
+      ],
+      "main_caption": "Arkeologer läser en historia ur krossade krukor.",
+      "side_caption": "Papyrus ruttnar snabbt i fuktig luft. De gamla böckerna är förlorade."
+    }
+  ]
+}

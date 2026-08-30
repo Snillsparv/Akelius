@@ -19,7 +19,7 @@
       "question": "Vilket folk är folket X?",
       "options": ["Romarna", "Vikingarna", "Fenicierna", "Grekerna"],
       "words": [
-        {"word": "sjöman", "explanation": "en person som reser och arbetar på ett skepp"},
+        {"word": "sjömän", "explanation": "personer som reser och arbetar på ett skepp"},
         {"word": "grund", "explanation": "inte djup"},
         {"word": "handla", "explanation": "att köpa och sälja saker"},
         {"word": "plundra", "explanation": "att ta saker från människor med våld"}
