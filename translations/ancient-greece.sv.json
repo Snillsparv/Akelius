@@ -18,7 +18,12 @@
         "Högt på en klippa över en berömd stad står ett vitt marmortempel kvar än i dag."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Egypten", "Grekland", "Rom", "Fenicien"],
+      "options": [
+        "Egypten",
+        "Grekland",
+        "Rom",
+        "Fenicien"
+      ],
       "words": [
         {
           "word": "jord",
@@ -56,7 +61,12 @@
         "I dag bygger många länder vidare på idén, och fler människor får rösta."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Rom", "Egypten", "Grekland", "Mesopotamien"],
+      "options": [
+        "Rom",
+        "Egypten",
+        "Grekland",
+        "Mesopotamien"
+      ],
       "words": [
         {
           "word": "rösta",
@@ -95,7 +105,12 @@
         "Våra ord 'teater', 'drama', 'tragedi' och 'komedi' kommer från språket i land X."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Grekland", "Rom", "Egypten", "Mesopotamien"],
+      "options": [
+        "Grekland",
+        "Rom",
+        "Egypten",
+        "Mesopotamien"
+      ],
       "words": [
         {
           "word": "mask",
@@ -126,14 +141,19 @@
         "En berömd stad älskar skepp, handel och öppna samtal.",
         "Dess rival älskar ordning, enkel mat och hård träning.",
         "Ändå känner sig alla dessa städer som ett enda folk.",
-        "De talar ett språk och ärar samma gudar.",
+        "De talar ett och samma språk och ärar samma gudar.",
         "De delar samma berättelser om gudar och hjältar.",
         "Många städer sänder också ut skepp och grundar kolonier.",
         "De nya städerna växer längs kuster från Spanien till Svarta havet.",
         "En berömd tänkare från land X skriver: vi bor runt havet som grodor runt en damm."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Fenicien", "Egypten", "Grekland", "Rom"],
+      "options": [
+        "Fenicien",
+        "Egypten",
+        "Grekland",
+        "Rom"
+      ],
       "words": [
         {
           "word": "stadsstat",
@@ -170,7 +190,12 @@
         "Båda formar vår värld i dag."
       ],
       "question": "Vilket land är detta?",
-      "options": ["Rom", "Egypten", "Mesopotamien", "Grekland"],
+      "options": [
+        "Rom",
+        "Egypten",
+        "Mesopotamien",
+        "Grekland"
+      ],
       "words": [
         {
           "word": "filosofi",

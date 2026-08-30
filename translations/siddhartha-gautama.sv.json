@@ -1,6 +1,6 @@
 {
   "slug": "siddhartha-gautama",
-  "person_sv": "Siddhartha Gautama (Buddha)",
+  "person_sv": "Siddhartha Gautama",
   "cards": [
     {
       "title": "Prinsen som lämnar palatset",
@@ -19,7 +19,12 @@
         "Försök att förstå det."
       ],
       "question": "Vem är prins X?",
-      "options": ["Siddhartha Gautama", "Alexander den store", "Konfucius", "Gandhi"],
+      "options": [
+        "Siddhartha Gautama",
+        "Alexander den store",
+        "Konfucius",
+        "Gandhi"
+      ],
       "words": [
         {
           "word": "palats",
@@ -57,7 +62,12 @@
         "Inte för mycket, inte för lite: människor tycker än i dag att den tanken är klok."
       ],
       "question": "Vem är prins X?",
-      "options": ["Siddhartha Gautama", "Konfucius", "Sokrates", "Gandhi"],
+      "options": [
+        "Siddhartha Gautama",
+        "Konfucius",
+        "Sokrates",
+        "Gandhi"
+      ],
       "words": [
         {
           "word": "lyx",
@@ -91,7 +101,12 @@
         "Det är en stilla revolution: förändring genom idéer, inte vapen."
       ],
       "question": "Vem är prins X?",
-      "options": ["Siddhartha Gautama", "Konfucius", "Gandhi", "Mandela"],
+      "options": [
+        "Siddhartha Gautama",
+        "Konfucius",
+        "Gandhi",
+        "Mandela"
+      ],
       "words": [
         {
           "word": "kast",
@@ -130,7 +145,12 @@
         "Idéer kan färdas längre än något svärd."
       ],
       "question": "Vem är prins X?",
-      "options": ["Siddhartha Gautama", "Alexander den store", "Konfucius", "Marx"],
+      "options": [
+        "Siddhartha Gautama",
+        "Alexander den store",
+        "Konfucius",
+        "Marx"
+      ],
       "words": [
         {
           "word": "kejsare",
@@ -168,7 +188,12 @@
         "En gammal idé lever vidare: först i minnet, sedan på blad, nu på sjukhus."
       ],
       "question": "Vem är prins X?",
-      "options": ["Siddhartha Gautama", "Sokrates", "Konfucius", "Aristoteles"],
+      "options": [
+        "Siddhartha Gautama",
+        "Sokrates",
+        "Konfucius",
+        "Aristoteles"
+      ],
       "words": [
         {
           "word": "munk",

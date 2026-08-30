@@ -17,7 +17,12 @@
         "I dag bär världens största spel samma namn."
       ],
       "question": "Vilka spel är detta?",
-      "options": ["Gladiatorspelen i Rom", "Olympiska spelen", "Pythiska spelen", "Panathenéiska spelen"],
+      "options": [
+        "Gladiatorspelen i Rom",
+        "Olympiska spelen",
+        "Pythiska spelen",
+        "Panathenéiska spelen"
+      ],
       "words": [
         {
           "word": "helig",
@@ -52,10 +57,15 @@
         "Alla som reser till spelen ska vara trygga.",
         "Idrottare och besökare vandrar genom fiendeland, och ingen får skada dem.",
         "Vid spelen tävlar fiender i idrott, inte i krig.",
-        "För en kort tid för idrotten samman den grekiska världen."
+        "Under en kort tid för idrotten samman den grekiska världen."
       ],
       "question": "Vilka spel är detta?",
-      "options": ["Panathenéiska spelen", "Pythiska spelen", "Olympiska spelen", "Isthmiska spelen"],
+      "options": [
+        "Panathenéiska spelen",
+        "Pythiska spelen",
+        "Olympiska spelen",
+        "Isthmiska spelen"
+      ],
       "words": [
         {
           "word": "budbärare",
@@ -93,7 +103,12 @@
         "Flickor håller sina egna lopp för en gudinna, på samma heliga plats."
       ],
       "question": "Vilka spel är detta?",
-      "options": ["Olympiska spelen", "Isthmiska spelen", "Nemeiska spelen", "Pythiska spelen"],
+      "options": [
+        "Olympiska spelen",
+        "Isthmiska spelen",
+        "Nemeiska spelen",
+        "Pythiska spelen"
+      ],
       "words": [
         {
           "word": "ed",
@@ -131,7 +146,12 @@
         "I dag, innan spelen börjar, färdas en låga från den gamla platsen i Grekland till den nya arenan."
       ],
       "question": "Vilka spel är detta?",
-      "options": ["Panathenéiska spelen", "Pythiska spelen", "Olympiska spelen", "Isthmiska spelen"],
+      "options": [
+        "Panathenéiska spelen",
+        "Pythiska spelen",
+        "Olympiska spelen",
+        "Isthmiska spelen"
+      ],
       "words": [
         {
           "word": "religion",
@@ -158,7 +178,7 @@
       "text_sentences": [
         "Hur känner vi till spelen X i det gamla Grekland?",
         "För det första: listor.",
-        "Grekiska författare för långa listor över segrarna.",
+        "Grekiska författare skriver långa listor över segrarna.",
         "Senare historiker räknar till och med tiden med hjälp av spelen: fyra år, från spel till spel.",
         "För det andra: en resenär.",
         "För ungefär 1 800 år sedan besöker en reseskildrare den heliga platsen och beskriver dess tempel och statyer.",
@@ -169,7 +189,12 @@
         "Källorna visar mindre: en helig fred skyddar de resande, men krigen fortsätter på andra platser."
       ],
       "question": "Vilka spel är detta?",
-      "options": ["Pythiska spelen", "Panathenéiska spelen", "Nemeiska spelen", "Olympiska spelen"],
+      "options": [
+        "Pythiska spelen",
+        "Panathenéiska spelen",
+        "Nemeiska spelen",
+        "Olympiska spelen"
+      ],
       "words": [
         {
           "word": "källa",

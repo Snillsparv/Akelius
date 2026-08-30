@@ -17,7 +17,12 @@
         "Människor lär sig av honom än i dag."
       ],
       "question": "Vem är mästare X?",
-      "options": ["Konfucius", "Buddha", "Sokrates", "Platon"],
+      "options": [
+        "Konfucius",
+        "Buddha",
+        "Sokrates",
+        "Platon"
+      ],
       "words": [
         {
           "word": "skolavgift",
@@ -54,7 +59,12 @@
         "Sedan växer det: till byn, till staden, till världen."
       ],
       "question": "Vem är mästare X?",
-      "options": ["Buddha", "Konfucius", "Sokrates", "Aristoteles"],
+      "options": [
+        "Buddha",
+        "Konfucius",
+        "Sokrates",
+        "Aristoteles"
+      ],
       "words": [
         {
           "word": "den gyllene regeln",
@@ -88,7 +98,12 @@
         "Kan ett prov också hitta ett gott hjärta?"
       ],
       "question": "Vem är mästare X?",
-      "options": ["Platon", "Konfucius", "Buddha", "Marx"],
+      "options": [
+        "Platon",
+        "Konfucius",
+        "Buddha",
+        "Marx"
+      ],
       "words": [
         {
           "word": "ämbetsman",
@@ -121,12 +136,17 @@
         "Han talar inte mycket om gudar.",
         "Han talar om hur människor lever tillsammans.",
         "Men några människor ställer frågor.",
-        "- Hindrar så stor respekt för gamla människor nya idéer?",
+        "- Kan så stor respekt för gamla människor hindra nya idéer?",
         "- Får en elev ifrågasätta läraren?",
         "Människor kan respektera en tradition och ändå ställa frågor om den."
       ],
       "question": "Vem är mästare X?",
-      "options": ["Sokrates", "Buddha", "Konfucius", "Gandhi"],
+      "options": [
+        "Sokrates",
+        "Buddha",
+        "Konfucius",
+        "Gandhi"
+      ],
       "words": [
         {
           "word": "li",
@@ -164,7 +184,12 @@
         "Idéer är som verktyg: varje ny tid använder dem för sina egna frågor."
       ],
       "question": "Vem är mästare X?",
-      "options": ["Platon", "Buddha", "Marx", "Konfucius"],
+      "options": [
+        "Platon",
+        "Buddha",
+        "Marx",
+        "Konfucius"
+      ],
       "words": [
         {
           "word": "tänkespråk",
