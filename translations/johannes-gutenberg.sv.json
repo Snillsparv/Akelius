@@ -22,7 +22,7 @@
         "Leonardo da Vinci",
         "Johannes Gutenberg",
         "Martin Luther",
-        "Nicolaus Copernicus"
+        "Kopernikus"
       ],
       "words": [
         {
@@ -61,7 +61,7 @@
       "options": [
         "Aldus Manutius",
         "Leonardo da Vinci",
-        "Nicolaus Copernicus",
+        "Kopernikus",
         "Johannes Gutenberg"
       ],
       "words": [
@@ -126,7 +126,7 @@
       "side_caption": "En boktryckare i Kina gör enskilda bokstäver av lera, långt före herr X."
     },
     {
-      "title": "Idéer för snabba att stoppa",
+      "title": "Idéer, för snabba att stoppa",
       "text_sentences": [
         "Herr X från Mainz inleder Europas tid av billiga tryckta böcker.",
         "En tryckt bok kostar mycket mindre än en handskriven bok.",
@@ -146,7 +146,7 @@
         "Martin Luther",
         "Aldus Manutius",
         "Johannes Gutenberg",
-        "Nicolaus Copernicus"
+        "Kopernikus"
       ],
       "words": [
         {

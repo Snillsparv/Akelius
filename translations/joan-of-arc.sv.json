@@ -5,19 +5,19 @@
     {
       "title": "Bondflickan i rustning",
       "text_sentences": [
-        "Flickan X lever i Frankrike för ungefär 600 år sedan.",
+        "Fröken X lever i Frankrike för ungefär 600 år sedan.",
         "Hon är en bondflicka i en liten by.",
         "Hon vaktar djuren och hjälper till hemma.",
         "Hon kan inte läsa eller skriva.",
         "Hennes land är i krig med England, år efter år.",
-        "En dag berättar hon en märklig sak för människorna omkring henne.",
+        "En dag berättar hon en märklig sak för folk.",
         "Hon säger att heliga röster talar till henne.",
         "Rösterna säger åt henne att rädda Frankrike, säger hon.",
         "Hon är bara ungefär sjutton år gammal.",
         "Ändå får hon en rustning, en häst och en plats i armén.",
         "Snart följer vuxna soldater bondflickan in i striden."
       ],
-      "question": "Vem är flickan X?",
+      "question": "Vem är fröken X?",
       "options": [
         "Mulan",
         "Jeanne d'Arc",
@@ -44,12 +44,12 @@
     {
       "title": "Belägringen som vänder ett krig",
       "text_sentences": [
-        "Flickan X är en ung kvinna i Frankrike för ungefär 600 år sedan.",
+        "Fröken X är en ung kvinna i Frankrike för ungefär 600 år sedan.",
         "Frankrike och England utkämpar ett krig som varar i ungefär hundra år.",
         "Nu omringar en engelsk armé Orléans, en viktig stad vid en flod.",
         "Belägringen varar i många månader, och maten börjar ta slut.",
         "Om staden faller kan hela Frankrike falla.",
-        "Flickan X säger att Gud sänder henne för att rädda staden.",
+        "Fröken X säger att Gud sänder henne för att rädda staden.",
         "Hon rider in med utvilade soldater och mat.",
         "Hon bär en vit fana in i striden.",
         "Hon älskar den mer än sitt svärd, säger hon.",
@@ -57,7 +57,7 @@
         "Inom ungefär en vecka ger sig den engelska armén av.",
         "Det långa kriget börjar långsamt vända."
       ],
-      "question": "Vem är flickan X?",
+      "question": "Vem är fröken X?",
       "options": [
         "Boudicca",
         "Isabella I av Kastilien",
@@ -84,7 +84,7 @@
     {
       "title": "Varje ord skrivs ner",
       "text_sentences": [
-        "Flickan X är en ung fransk kvinna, känd från ett långt krig.",
+        "Fröken X är en ung fransk kvinna, känd från ett långt krig.",
         "Hon tas till fånga i strid och säljs till den engelska sidan.",
         "Att bara döda en berömd fånge räcker inte för dem.",
         "De tillsätter en kyrklig domstol för att döma henne.",
@@ -97,7 +97,7 @@
         "- Om jag inte är det, må Gud föra mig dit, svarar hon.",
         "Ändå finner domstolen henne skyldig, och hon avrättas."
       ],
-      "question": "Vem är flickan X?",
+      "question": "Vem är fröken X?",
       "options": [
         "Jeanne d'Arc",
         "Anne Boleyn",
@@ -133,7 +133,7 @@
         "Många franska stormän ställer sig på den engelska sidan.",
         "Den unge franske prinsen är fattig och full av tvivel.",
         "Han är inte ens krönt i Reims, kungarnas stad.",
-        "Då kommer flickan X, en byflicka, till hans hov.",
+        "Då kommer fröken X, en byflicka, till hans hov.",
         "Hon säger att Gud sänder henne för att göra honom till riktig kung.",
         "På den tiden är ett tecken från Gud stark politik.",
         "Prinsen bestämmer sig för att pröva hennes hjälp, och det fungerar.",
@@ -141,7 +141,7 @@
         "Han kröns där, och många tvivlare accepterar honom.",
         "När hon senare tas till fånga sänder hennes kung ingen hjälp."
       ],
-      "question": "Vem är flickan X?",
+      "question": "Vem är fröken X?",
       "options": [
         "Eleonora av Akvitanien",
         "Margareta av Anjou",
@@ -168,7 +168,7 @@
     {
       "title": "Två domstolar, två berättelser",
       "text_sentences": [
-        "Flickan X är en fransk byflicka som lever för ungefär 600 år sedan.",
+        "Fröken X är en fransk byflicka som lever för ungefär 600 år sedan.",
         "De flesta byflickor på hennes tid lämnar inga spår.",
         "Ändå känner historikerna henne bättre än de flesta kungar.",
         "Orsaken: hennes berömda rättegång skrivs ner, ord för ord.",
@@ -176,12 +176,12 @@
         "Den lyssnar på hennes barndomsvänner och hennes gamla soldater.",
         "Deras minnen fyller sida efter sida.",
         "Den första domstolen vill se henne skyldig; den andra vill se henne oskyldig.",
-        "Därför läser historikerna båda protokollen med noggranna, svala ögon.",
+        "Därför läser historikerna båda protokollen med noggrann och sval blick.",
         "Nästan femhundra år efter hennes död helgonförklarar kyrkan henne.",
         "I dag är hon en nationell symbol för Frankrike.",
         "Många politiska grupper, till vänster och till höger, använder henne som sitt tecken."
       ],
-      "question": "Vem är flickan X?",
+      "question": "Vem är fröken X?",
       "options": [
         "Bernadette av Lourdes",
         "Jeanne d'Arc",

@@ -11051,6 +11051,46 @@
             "caption": "Armor: hard metal clothes that keep a soldier safe.",
             "shutterstock_query": "medieval armor breastplate helmet wooden stand workshop",
             "ai_prompt": "Photorealistic image of a small plain suit of medieval armor on a wooden stand in a dim smith's workshop, breastplate, helmet and metal gloves, simple tools on a wooden bench, warm light from a small window; completely plain metal, no marks, no symbols, no letters, no text."
+          },
+          "sv": {
+            "title": "Bondflickan i rustning",
+            "text_sentences": [
+              "Fröken X lever i Frankrike för ungefär 600 år sedan.",
+              "Hon är en bondflicka i en liten by.",
+              "Hon vaktar djuren och hjälper till hemma.",
+              "Hon kan inte läsa eller skriva.",
+              "Hennes land är i krig med England, år efter år.",
+              "En dag berättar hon en märklig sak för folk.",
+              "Hon säger att heliga röster talar till henne.",
+              "Rösterna säger åt henne att rädda Frankrike, säger hon.",
+              "Hon är bara ungefär sjutton år gammal.",
+              "Ändå får hon en rustning, en häst och en plats i armén.",
+              "Snart följer vuxna soldater bondflickan in i striden."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Mulan",
+              "Jeanne d'Arc",
+              "Kleopatra",
+              "Boudicca"
+            ],
+            "correct": "Jeanne d'Arc",
+            "words": [
+              {
+                "word": "rustning",
+                "explanation": "hårda kläder av metall som skyddar en soldat"
+              },
+              {
+                "word": "helig",
+                "explanation": "som kommer från Gud eller är nära Gud"
+              },
+              {
+                "word": "strid",
+                "explanation": "en kamp mellan arméer"
+              }
+            ],
+            "main_caption": "En bondflicka vaktar djuren nära sin lilla by.",
+            "side_caption": "Rustning: hårda kläder av metall som skyddar en soldat."
           }
         },
         {
@@ -11104,6 +11144,47 @@
             "caption": "Soldiers look for the banner of their leader in the field.",
             "shutterstock_query": "white banner flag pole blue sky medieval hands",
             "ai_prompt": "Photorealistic low-angle image of a plain white cloth banner on a long wooden pole against a blue sky with light clouds, two hands in simple medieval gloves holding the pole at the bottom edge, wind in the cloth, hopeful mood; the banner completely plain, no symbols, no letters, no text."
+          },
+          "sv": {
+            "title": "Belägringen som vänder ett krig",
+            "text_sentences": [
+              "Fröken X är en ung kvinna i Frankrike för ungefär 600 år sedan.",
+              "Frankrike och England utkämpar ett krig som varar i ungefär hundra år.",
+              "Nu omringar en engelsk armé Orléans, en viktig stad vid en flod.",
+              "Belägringen varar i många månader, och maten börjar ta slut.",
+              "Om staden faller kan hela Frankrike falla.",
+              "Fröken X säger att Gud sänder henne för att rädda staden.",
+              "Hon rider in med utvilade soldater och mat.",
+              "Hon bär en vit fana in i striden.",
+              "Hon älskar den mer än sitt svärd, säger hon.",
+              "De trötta försvararna får nytt hopp och går till anfall.",
+              "Inom ungefär en vecka ger sig den engelska armén av.",
+              "Det långa kriget börjar långsamt vända."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Boudicca",
+              "Isabella I av Kastilien",
+              "Elisabet I",
+              "Jeanne d'Arc"
+            ],
+            "correct": "Jeanne d'Arc",
+            "words": [
+              {
+                "word": "belägring",
+                "explanation": "en armé väntar runt en stad så att ingen mat och ingen hjälp kan komma in"
+              },
+              {
+                "word": "fana",
+                "explanation": "en flagga på en stång som soldaterna följer"
+              },
+              {
+                "word": "försvarare",
+                "explanation": "en person som strider för att skydda en plats"
+              }
+            ],
+            "main_caption": "En armé slår läger runt staden. Ingen mat kommer in.",
+            "side_caption": "Soldaterna letar efter sin ledares fana på slagfältet."
           }
         },
         {
@@ -11161,6 +11242,51 @@
             "caption": "A scribe writes down every question and every answer.",
             "shutterstock_query": "medieval scribe quill writing register candle closeup",
             "ai_prompt": "Photorealistic close-up of a medieval scribe's hands writing with a quill pen in a thick open register, ink pot and burning candle on the wooden desk, warm candlelight; the writing only decorative unreadable strokes at an angle, no real words, no letters, no numbers, no text."
+          },
+          "sv": {
+            "title": "Varje ord skrivs ner",
+            "text_sentences": [
+              "Fröken X är en ung fransk kvinna, känd från ett långt krig.",
+              "Hon tas till fånga i strid och säljs till den engelska sidan.",
+              "Att bara döda en berömd fånge räcker inte för dem.",
+              "De tillsätter en kyrklig domstol för att döma henne.",
+              "Domarna frågar om rösterna som hon säger att hon hör.",
+              "De hoppas kunna bevisa att hennes röster inte kommer från Gud.",
+              "Skrivare skriver ner varje fråga och varje svar.",
+              "I veckor förhör de henne, dag efter dag.",
+              "Hon kan inte läsa, men hon svarar med omsorg.",
+              "En fråga är en fälla: är hon i Guds nåd?",
+              "- Om jag inte är det, må Gud föra mig dit, svarar hon.",
+              "Ändå finner domstolen henne skyldig, och hon avrättas."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Jeanne d'Arc",
+              "Anne Boleyn",
+              "Marie-Antoinette",
+              "Maria Stuart"
+            ],
+            "correct": "Jeanne d'Arc",
+            "words": [
+              {
+                "word": "ta till fånga",
+                "explanation": "att göra en person till fånge"
+              },
+              {
+                "word": "skrivare",
+                "explanation": "en person vars arbete är att skriva ner saker"
+              },
+              {
+                "word": "nåd",
+                "explanation": "Guds kärlek och hjälp, enligt kristen tro"
+              },
+              {
+                "word": "skyldig",
+                "explanation": "domstolen säger: den här personen har gjort det onda"
+              }
+            ],
+            "main_caption": "En ung fånge står ensam inför många domare.",
+            "side_caption": "En skrivare skriver ner varje fråga och varje svar."
           }
         },
         {
@@ -11214,6 +11340,47 @@
             "caption": "A crown is not just gold. It says: this rule is holy.",
             "shutterstock_query": "golden royal crown red cushion dark background",
             "ai_prompt": "Photorealistic still life of a plain golden crown on a red velvet cushion on a stone table, soft warm light in a dark room, quiet and solemn mood; simple shapes only, no writing, no letters, no symbols, no text."
+          },
+          "sv": {
+            "title": "Prinsen som behöver ett tecken",
+            "text_sentences": [
+              "För ungefär 600 år sedan slits Frankrike sönder av krig.",
+              "Englands kung säger att den franska kronan är hans.",
+              "Många franska stormän ställer sig på den engelska sidan.",
+              "Den unge franske prinsen är fattig och full av tvivel.",
+              "Han är inte ens krönt i Reims, kungarnas stad.",
+              "Då kommer fröken X, en byflicka, till hans hov.",
+              "Hon säger att Gud sänder henne för att göra honom till riktig kung.",
+              "På den tiden är ett tecken från Gud stark politik.",
+              "Prinsen bestämmer sig för att pröva hennes hjälp, och det fungerar.",
+              "Efter en stor seger leder hon honom till Reims.",
+              "Han kröns där, och många tvivlare accepterar honom.",
+              "När hon senare tas till fånga sänder hennes kung ingen hjälp."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Eleonora av Akvitanien",
+              "Margareta av Anjou",
+              "Jeanne d'Arc",
+              "Isabella I av Kastilien"
+            ],
+            "correct": "Jeanne d'Arc",
+            "words": [
+              {
+                "word": "kröna",
+                "explanation": "att göra en person till kung eller drottning i en helig ceremoni"
+              },
+              {
+                "word": "storman",
+                "explanation": "en rik och mäktig man som styr över land"
+              },
+              {
+                "word": "tvivel",
+                "explanation": "en känsla av att något kanske inte är sant eller verkligt"
+              }
+            ],
+            "main_caption": "I kungarnas stad blir en prins en krönt kung.",
+            "side_caption": "En krona är inte bara guld. Den säger: detta styre är heligt."
           }
         },
         {
@@ -11271,9 +11438,55 @@
             "caption": "A statue can turn one person into a symbol for a whole land.",
             "shutterstock_query": "gilded equestrian statue city square evening low angle",
             "ai_prompt": "Photorealistic photo of a gilded statue of a rider on a horse holding a plain raised banner, on a stone base on a European city square, seen from a distance at a low angle against warm evening sky; generic rider, face not detailed, plain banner, no inscription, no letters, no numbers, no text."
+          },
+          "sv": {
+            "title": "Två domstolar, två berättelser",
+            "text_sentences": [
+              "Fröken X är en fransk byflicka som lever för ungefär 600 år sedan.",
+              "De flesta byflickor på hennes tid lämnar inga spår.",
+              "Ändå känner historikerna henne bättre än de flesta kungar.",
+              "Orsaken: hennes berömda rättegång skrivs ner, ord för ord.",
+              "Ungefär tjugofem år senare tar en ny domstol upp hennes fall igen.",
+              "Den lyssnar på hennes barndomsvänner och hennes gamla soldater.",
+              "Deras minnen fyller sida efter sida.",
+              "Den första domstolen vill se henne skyldig; den andra vill se henne oskyldig.",
+              "Därför läser historikerna båda protokollen med noggrann och sval blick.",
+              "Nästan femhundra år efter hennes död helgonförklarar kyrkan henne.",
+              "I dag är hon en nationell symbol för Frankrike.",
+              "Många politiska grupper, till vänster och till höger, använder henne som sitt tecken."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Bernadette av Lourdes",
+              "Jeanne d'Arc",
+              "Katarina av Siena",
+              "Hildegard av Bingen"
+            ],
+            "correct": "Jeanne d'Arc",
+            "words": [
+              {
+                "word": "spår",
+                "explanation": "ett litet tecken på att en person eller sak har funnits där"
+              },
+              {
+                "word": "protokoll",
+                "explanation": "en nedskriven text som bevarar vad människor säger och gör"
+              },
+              {
+                "word": "oskyldig",
+                "explanation": "inte skyldig; personen har inte gjort det onda"
+              },
+              {
+                "word": "symbol",
+                "explanation": "en person eller sak som står för en större idé"
+              }
+            ],
+            "main_caption": "De gamla rättegångsprotokollen finns kvar. Historiker läser varje sida.",
+            "side_caption": "En staty kan göra en enda människa till en symbol för ett helt land."
           }
         }
-      ]
+      ],
+      "person_sv": "Jeanne d'Arc"
     },
     {
       "slug": "renaissance",
@@ -11333,6 +11546,50 @@
             "caption": "A dome, a round roof like half a ball, rises over the church.",
             "shutterstock_query": "brick dome construction church scaffolding renaissance illustration",
             "ai_prompt": "Warm vertical illustration of a fifteenth-century Italian city: a great brick dome rising over a church roof, wooden scaffolding around the unfinished top, tiny workers on the high platforms, red tiled roofs below, soft afternoon light; no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Siden, kryddor och ny konst",
+            "text_sentences": [
+              "Perioden X börjar för ungefär 600 år sedan, i Italiens handelsstäder.",
+              "Städerna blir rika genom siden, kryddor, ull och banker.",
+              "Skepp och vägar för mulåsnor binder samman dem med avlägsna länder.",
+              "De rikaste familjerna vill ha fin konst i sina hem och kyrkor.",
+              "De betalar konstnärer för att måla väggar och bygga kupoler.",
+              "Konstnärerna lär sig av gamla romerska statyer och byggnader.",
+              "En ung konstnär börjar som hjälpreda i en mästares verkstad.",
+              "Han rengör penslar, blandar färger och kopierar teckningar.",
+              "Efter många år kan han också bli mästare.",
+              "Varje stad vill ha finare kyrkor och statyer än sina grannar.",
+              "Så tävlar städerna med konst, inte bara med skepp och guld."
+            ],
+            "question": "Vilken period är detta?",
+            "options": [
+              "Medeltiden",
+              "Renässansen",
+              "Industriella revolutionen",
+              "Upplysningen"
+            ],
+            "correct": "Renässansen",
+            "words": [
+              {
+                "word": "kryddor",
+                "explanation": "delar av växter som ger maten en stark smak"
+              },
+              {
+                "word": "verkstad",
+                "explanation": "ett rum där en mästare och hans hjälpredor gör saker"
+              },
+              {
+                "word": "mästare",
+                "explanation": "en färdigutbildad konstnär eller hantverkare som lär upp andra"
+              },
+              {
+                "word": "kupol",
+                "explanation": "ett runt tak, som ett halvt klot"
+              }
+            ],
+            "main_caption": "Skepp kommer med siden och kryddor. Handelsstäderna blir rika.",
+            "side_caption": "En kupol, ett runt tak som ett halvt klot, reser sig över kyrkan."
           }
         },
         {
@@ -11385,6 +11642,46 @@
             "caption": "Monks keep the old texts safe, some even chained to the shelf.",
             "shutterstock_query": "monk monastery library chained books shelf chest illustration",
             "ai_prompt": "Calm vertical illustration of a monk in a simple robe reaching for a heavy chained book on a tall wooden shelf in a dim monastery book room, an open wooden chest with old volumes at his feet, soft light from a small window, stone wall behind; no writing scene, plain covers, pages angled away, no script, no text, no letters."
+          },
+          "sv": {
+            "title": "Jakten på gamla böcker",
+            "text_sentences": [
+              "Perioden X börjar i Italien för ungefär 600 år sedan och sprider sig över Europa.",
+              "Under den här perioden jagar de lärda gamla böcker.",
+              "De letar i klostrens dammiga bokrum.",
+              "Där hittar de texter från det antika Rom, kopierade av munkar för länge sedan.",
+              "Några av texterna ligger nästan bortglömda i tusen år.",
+              "Lärda från den grekiska östern för med sig fler gamla texter till Italien.",
+              "Nu kan människor läsa berömda grekiska tänkare igen.",
+              "De lärda jämför kopiorna och rättar fel i dem.",
+              "Rika män betalar för nya bibliotek, öppna för läsare.",
+              "De gamla texterna är fulla av idéer om lag, natur och ett gott liv.",
+              "Läsarna börjar ställa nya frågor om sin egen tid."
+            ],
+            "question": "Vilken period är detta?",
+            "options": [
+              "Reformationen",
+              "Medeltiden",
+              "Renässansen",
+              "Upplysningen"
+            ],
+            "correct": "Renässansen",
+            "words": [
+              {
+                "word": "lärd",
+                "explanation": "en person som arbetar med att studera och lära sig"
+              },
+              {
+                "word": "kloster",
+                "explanation": "ett hus där munkar bor, arbetar och ber"
+              },
+              {
+                "word": "munk",
+                "explanation": "en religiös man som lever enkelt i ett kloster"
+              }
+            ],
+            "main_caption": "I ett kloster hittar en lärd man en text som är tusen år gammal.",
+            "side_caption": "Munkar bevarar de gamla texterna, några till och med fastkedjade vid hyllan."
           }
         },
         {
@@ -11437,6 +11734,46 @@
             "caption": "The painter draws by rule. The flat panel starts to look deep.",
             "shutterstock_query": "artist hands ruler drawing lines wooden panel closeup",
             "ai_prompt": "Vertical close-up of a renaissance artist's hands drawing on a pale wooden panel with a ruler, thin strings stretched from one small nail guiding the lines, a simple line drawing of a street and houses taking shape, warm workshop light; no letters, no numbers, no text."
+          },
+          "sv": {
+            "title": "Ett fönster i väggen",
+            "text_sentences": [
+              "Perioden X för med sig ny konst till Italien för ungefär 600 år sedan.",
+              "Målarna på den här tiden står inför ett gammalt problem.",
+              "En vägg eller en pannå av trä är platt.",
+              "Hur kan en målning se djup ut, som en utsikt genom ett fönster?",
+              "En arkitekt i Florens hittar exakta regler för detta.",
+              "Saker långt borta måste målas mindre, efter fasta regler.",
+              "Linjer som löper bort från betraktaren måste mötas i en enda punkt.",
+              "Målare ritar golv, gator och salar med de här reglerna.",
+              "Nu öppnar sig bilden som ett fönster i väggen.",
+              "Målarna studerar också ljus, skugga och människokroppen.",
+              "Rummen i deras målningar ser så verkliga ut att man skulle kunna kliva in i dem."
+            ],
+            "question": "Vilken period är detta?",
+            "options": [
+              "Renässansen",
+              "Medeltiden",
+              "Upplysningen",
+              "Reformationen"
+            ],
+            "correct": "Renässansen",
+            "words": [
+              {
+                "word": "pannå",
+                "explanation": "en platt träskiva som konstnärer målar på"
+              },
+              {
+                "word": "arkitekt",
+                "explanation": "en person som planerar och ritar byggnader"
+              },
+              {
+                "word": "skugga",
+                "explanation": "den mörka platsen dit ljuset inte når"
+              }
+            ],
+            "main_caption": "Saker långt borta ser mindre ut. Linjerna som löper in i djupet möts i en enda punkt.",
+            "side_caption": "Målaren ritar efter regler. Den platta pannån börjar se djup ut."
           }
         },
         {
@@ -11493,6 +11830,50 @@
             "caption": "Far from Italy, a young scholar reads the printed pages.",
             "shutterstock_query": "young scholar reading small book window fifteenth century illustration",
             "ai_prompt": "Calm vertical illustration of a young scholar in a plain fifteenth-century robe reading a small printed book by a window, simple wooden table, soft daylight on his face and hands; the pages angled away or out of focus, no readable text, no letters."
+          },
+          "sv": {
+            "title": "Tillbaka till källorna",
+            "text_sentences": [
+              "Perioden X sprider sig från Italien över Europa för ungefär 500 år sedan.",
+              "Mitt i den här perioden dyker en ny maskin upp i Europa.",
+              "I Tyskland bygger boktryckare pressar med lösa metallbokstäver.",
+              "Människor i Kina och Korea trycker med lösa bokstäver mycket tidigare.",
+              "I Europa är detta nytt, och det förändrar hur idéer färdas.",
+              "En tryckt bok kostar mycket mindre än en handskriven kopia.",
+              "En lärd man i Italien skriver om en gammal romersk text.",
+              "Några månader senare läser studenter i Paris de tryckta sidorna.",
+              "Sådana lärda kallas humanister.",
+              "De studerar språk, historia, poesi och det goda livet.",
+              "Deras regel är: gå tillbaka till källorna, läs själv de äldsta texterna."
+            ],
+            "question": "Vilken period är detta?",
+            "options": [
+              "Reformationen",
+              "Industriella revolutionen",
+              "Upplysningen",
+              "Renässansen"
+            ],
+            "correct": "Renässansen",
+            "words": [
+              {
+                "word": "press",
+                "explanation": "en maskin som pressar färg mot papperet"
+              },
+              {
+                "word": "lös",
+                "explanation": "lätt att flytta och använda igen på ett nytt ställe"
+              },
+              {
+                "word": "humanist",
+                "explanation": "en lärd person som studerar språk, historia och poesi"
+              },
+              {
+                "word": "källa",
+                "explanation": "den äldsta texten, där en idé först kommer ifrån"
+              }
+            ],
+            "main_caption": "Tryckta böcker kostar lite. Idéer färdas snabbt nu.",
+            "side_caption": "Långt från Italien läser en ung lärd man de tryckta sidorna."
           }
         },
         {
@@ -11545,9 +11926,50 @@
             "caption": "A historian writes about a period hundreds of years after it ends.",
             "shutterstock_query": "nineteenth century desk notebook ink pen globe lamp still life",
             "ai_prompt": "Photorealistic vertical still life of a nineteenth-century scholar's desk: an open notebook with blank pages, an ink pen, a small brass oil lamp, a globe, and eyeglasses on dark polished wood, warm evening light; all pages and book spines blank, no readable text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Skarpt brott eller långsam förändring?",
+            "text_sentences": [
+              "Historiker ger namn åt det förflutnas perioder.",
+              "Men vem väljer namnen, och var går gränserna?",
+              "Perioden X visar hur svårt detta är.",
+              "För ungefär 160 år sedan skriver den schweiziske historikern Jacob Burckhardt en berömd bok om den.",
+              "Han säger: i Italien, för sex- eller sjuhundra år sedan, föds den gamla konsten och lärdomen på nytt.",
+              "Människorna där upptäcker världen och sig själva, skriver han.",
+              "Senare historiker tvivlar på detta skarpa, rena brott.",
+              "Livet för de flesta bönder förändras knappt under de här åren.",
+              "Även de lärda under århundradena innan läser gamla romerska texter.",
+              "Några historiker säger: det skarpa brottet är en berättelse som berättas långt efteråt.",
+              "I dag ser många både kontinuitet och verkligt nya saker i konsten och lärdomen."
+            ],
+            "question": "Vilken period är detta?",
+            "options": [
+              "Medeltiden",
+              "Upplysningen",
+              "Renässansen",
+              "Reformationen"
+            ],
+            "correct": "Renässansen",
+            "words": [
+              {
+                "word": "historiker",
+                "explanation": "en person som studerar och skriver om det förflutna"
+              },
+              {
+                "word": "tvivla",
+                "explanation": "att inte känna sig säker på att något är sant"
+              },
+              {
+                "word": "kontinuitet",
+                "explanation": "när livet fortsätter utan någon skarp förändring"
+              }
+            ],
+            "main_caption": "Ett skarpt brott, eller en långsam förändring? Historikerna är inte överens.",
+            "side_caption": "En historiker skriver om en period hundratals år efter att den tar slut."
           }
         }
-      ]
+      ],
+      "person_sv": "Renässansen"
     },
     {
       "slug": "leonardo-da-vinci",
@@ -11603,6 +12025,46 @@
             "caption": "An apprentice grinds and mixes the colors for the paint.",
             "shutterstock_query": "grinding pigment powder historical paint making hands closeup",
             "ai_prompt": "Photorealistic close-up of young hands grinding bright blue pigment powder with a grinding stone on a stone slab, small bowls of red and yellow powdered color nearby, warm workshop light; no faces, no text, no letters."
+          },
+          "sv": {
+            "title": "Lärlingen som frågar varför",
+            "text_sentences": [
+              "Herr X lever i Italien för mer än femhundra år sedan.",
+              "Han föds i en liten by bland kullar.",
+              "Som pojke ritar han allt han ser.",
+              "Hans far tar honom till den rika staden Florens.",
+              "Där blir han lärling i en berömd verkstad.",
+              "Han lär sig att måla, att blanda färger och att forma metall.",
+              "Men han ställer frågor om allting.",
+              "Han frågar varför fåglar flyger och hur vatten rör sig.",
+              "En berättelse säger: en dag målar eleven bättre än sin mästare.",
+              "Senare målar han ett porträtt av en kvinna med ett stilla leende.",
+              "I dag är det kanske världens mest berömda målning."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Michelangelo",
+              "Leonardo da Vinci",
+              "Rafael",
+              "Galileo Galilei"
+            ],
+            "correct": "Leonardo da Vinci",
+            "words": [
+              {
+                "word": "lärling",
+                "explanation": "en ung person som lär sig ett yrke av en mästare"
+              },
+              {
+                "word": "verkstad",
+                "explanation": "ett rum där människor gör saker med händerna"
+              },
+              {
+                "word": "porträtt",
+                "explanation": "en målning av en person"
+              }
+            ],
+            "main_caption": "En ung lärling lär sig av en mästare i verkstaden.",
+            "side_caption": "En lärling mal och blandar färgpulvret till målarfärgen."
           }
         },
         {
@@ -11660,6 +12122,51 @@
             "caption": "Hold the page to a mirror, and the writing turns the right way.",
             "shutterstock_query": "hand holding small mirror old manuscript page reflection",
             "ai_prompt": "Photorealistic close-up of a hand holding a small round mirror beside an old handwritten page, the reflection visible in the glass, warm library light; all writing on page and in reflection is soft unreadable decorative strokes only, no real letters, no text."
+          },
+          "sv": {
+            "title": "Anteckningsböckerna som skrivs baklänges",
+            "text_sentences": [
+              "Herr X är en konstnär och tänkare i Italien för ungefär femhundra år sedan.",
+              "Han bär en liten anteckningsbok i bältet.",
+              "Han fyller sida efter sida med teckningar och anteckningar.",
+              "Maskiner, floder, växter, ansikten: han ritar allt.",
+              "Sammanlagt finns tusentals sidor kvar i dag.",
+              "Men hans skrift löper från höger till vänster.",
+              "Varje bokstav är vänd, som i en spegel.",
+              "För att läsa skriften kan du hålla sidan mot en spegel.",
+              "Kanske gömmer han sina idéer för nyfikna ögon.",
+              "Eller så är det helt enkelt lättare för hans vänsterhand.",
+              "När han skriver på det här sättet smetar inte det våta bläcket.",
+              "Han planerar stora böcker, men han gör dem aldrig färdiga."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Johannes Gutenberg",
+              "Galileo Galilei",
+              "Isaac Newton",
+              "Leonardo da Vinci"
+            ],
+            "correct": "Leonardo da Vinci",
+            "words": [
+              {
+                "word": "anteckningsbok",
+                "explanation": "en liten bok med tomma sidor att skriva och rita i"
+              },
+              {
+                "word": "spegel",
+                "explanation": "glas där du kan se dig själv"
+              },
+              {
+                "word": "nyfiken",
+                "explanation": "som väldigt gärna vill veta saker"
+              },
+              {
+                "word": "smeta",
+                "explanation": "att göra vått bläck suddigt genom att röra vid det"
+              }
+            ],
+            "main_caption": "Han fyller sida efter sida med teckningar och anteckningar.",
+            "side_caption": "Håll sidan mot en spegel, så vänds skriften rätt."
           }
         },
         {
@@ -11717,6 +12224,51 @@
             "caption": "He draws the heart and its small doors.",
             "shutterstock_query": "red chalk anatomical heart drawing old paper renaissance style",
             "ai_prompt": "A red chalk anatomical drawing of a human heart on worn old paper, Renaissance study style, calm scientific mood, soft light; no blood, no letters, no numbers, no labels, no text."
+          },
+          "sv": {
+            "title": "Det som finns under huden",
+            "text_sentences": [
+              "Herr X, en målare i Italien, lever för ungefär femhundra år sedan.",
+              "Han vill måla människor som de verkligen är.",
+              "Så han frågar: vad finns under huden?",
+              "Läkare på ett sjukhus låter honom studera de döda.",
+              "Han arbetar om natten, försiktigt, lager för lager.",
+              "Han ritar varje muskel, varje ben, varje åder.",
+              "Han ritar hjärtat och dess små dörrar.",
+              "Han ritar hur ett barn ligger i livmodern.",
+              "Hans teckningar av kroppens anatomi är århundraden före sin tid.",
+              "Men han behåller dem bland sina privata papper.",
+              "Läkare lär sig ingenting av dem på flera hundra år.",
+              "Konstnärens öga ser det som vetenskapen ännu inte har sett."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Leonardo da Vinci",
+              "Michelangelo",
+              "Charles Darwin",
+              "Isaac Newton"
+            ],
+            "correct": "Leonardo da Vinci",
+            "words": [
+              {
+                "word": "muskel",
+                "explanation": "en del av kroppen som får skelettets ben att röra sig"
+              },
+              {
+                "word": "åder",
+                "explanation": "ett tunt rör som leder blodet i kroppen"
+              },
+              {
+                "word": "livmoder",
+                "explanation": "platsen inuti en mamma där ett barn växer"
+              },
+              {
+                "word": "anatomi",
+                "explanation": "vetenskapen om hur kroppen är byggd"
+              }
+            ],
+            "main_caption": "Om natten ritar han det som finns under huden.",
+            "side_caption": "Han ritar hjärtat och dess små dörrar."
           }
         },
         {
@@ -11774,6 +12326,51 @@
             "caption": "A tent of cloth lets a person fall slowly.",
             "shutterstock_query": "pyramid parachute cloth sky historical design test",
             "ai_prompt": "Photorealistic image of a pyramid-shaped parachute of pale linen cloth floating high in a clear blue sky, a tiny anonymous figure hanging below on ropes, calm and safe mood, soft daylight; no text, no letters, no logos."
+          },
+          "sv": {
+            "title": "Vingar på papper",
+            "text_sentences": [
+              "Herr X lever i Italien för ungefär femhundra år sedan.",
+              "Rika härskare betalar honom som sin ingenjör.",
+              "Åt dem planerar han broar, kanaler och krigsmaskiner.",
+              "Ändå skriver han: krig är en djurisk galenskap.",
+              "Men han har en egen dröm: människor ska flyga.",
+              "Han iakttar fåglar och fladdermöss i timmar.",
+              "Han ritar vingar som en människa ska flaxa med.",
+              "Han ritar en skruv som ska klättra i luften.",
+              "Han ritar ett tält av tyg för att falla långsamt: en fallskärm.",
+              "Nästan ingen av de här maskinerna byggs under hans livstid.",
+              "Människans muskler är för svaga, och det finns ingen motor.",
+              "Århundraden senare provar människor vissa av ritningarna, och några fungerar verkligen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Isaac Newton",
+              "Johannes Gutenberg",
+              "Leonardo da Vinci",
+              "Galileo Galilei"
+            ],
+            "correct": "Leonardo da Vinci",
+            "words": [
+              {
+                "word": "ingenjör",
+                "explanation": "en person som planerar och bygger maskiner, vägar eller broar"
+              },
+              {
+                "word": "kanal",
+                "explanation": "en flod som människor gräver, för båtar eller vatten"
+              },
+              {
+                "word": "djurisk",
+                "explanation": "vild och grym, som ett farligt djur"
+              },
+              {
+                "word": "fallskärm",
+                "explanation": "ett stort tygstycke som låter en människa falla långsamt och säkert"
+              }
+            ],
+            "main_caption": "Han ritar vingar, men människans muskler är för svaga.",
+            "side_caption": "Ett tält av tyg låter en människa falla långsamt."
           }
         },
         {
@@ -11831,9 +12428,55 @@
             "caption": "The pages travel to many lands, cut and sold.",
             "shutterstock_query": "old parchment map europe paper fragments concept no labels",
             "ai_prompt": "A simple parchment-style map showing the shape of Europe, small worn blank paper fragments lying on different countries, thin dotted lines joining them, warm paper tones, soft light; no letters, no numbers, no place names, no readable symbols, no text."
+          },
+          "sv": {
+            "title": "De skingrade sidorna",
+            "text_sentences": [
+              "Herr X, en italiensk konstnär och tänkare, dör för ungefär femhundra år sedan.",
+              "Hur kan vi känna till hans idéer i dag?",
+              "Han efterlämnar tusentals sidor ur sina anteckningsböcker till en trogen elev.",
+              "Efter elevens död börjar sidorna vandra.",
+              "Samlare köper dem, klipper isär dem och blandar ihop ordningen.",
+              "I dag ligger sidorna i bibliotek i flera länder.",
+              "Två försvunna anteckningsböcker dyker upp igen i Spanien, för bara ungefär sextio år sedan.",
+              "De lärda tror att kanske hälften av alla sidor är borta.",
+              "Historiker måste datera varje sida och återskapa ordningen.",
+              "Människor säger att han är skicklig inom nästan varje område.",
+              "Men forskare frågar fortfarande: ensamt geni, eller en man med en stor verkstad full av medhjälpare?",
+              "Varje påstående om honom vilar på de skingrade sidorna."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Michelangelo",
+              "Leonardo da Vinci",
+              "Kopernikus",
+              "Galileo Galilei"
+            ],
+            "correct": "Leonardo da Vinci",
+            "words": [
+              {
+                "word": "samlare",
+                "explanation": "en person som köper och sparar gamla eller sällsynta saker"
+              },
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar böcker på djupet"
+              },
+              {
+                "word": "geni",
+                "explanation": "en person med ett mycket stort och skarpt förstånd"
+              },
+              {
+                "word": "skingrad",
+                "explanation": "utspridd på många olika platser"
+              }
+            ],
+            "main_caption": "En lärd frågar: var hör den här sidan hemma?",
+            "side_caption": "Sidorna vandrar till många länder, sönderklippta och sålda."
           }
         }
-      ]
+      ],
+      "person_sv": "Leonardo da Vinci"
     },
     {
       "slug": "johannes-gutenberg",
@@ -11889,6 +12532,46 @@
             "caption": "A book is so costly that the library chains it to the shelf.",
             "shutterstock_query": "chained library medieval book iron chain shelf",
             "ai_prompt": "Photorealistic close-up of a thick leather-bound medieval book with brass clasps on a dark wooden shelf, an iron chain locking it to the shelf, soft window light; plain cover, no letters, no titles, no text."
+          },
+          "sv": {
+            "title": "Boken som kostar en bondgård",
+            "text_sentences": [
+              "Herr X lever i Europa för ungefär 600 år sedan.",
+              "På den här tiden skrivs varje bok för hand.",
+              "En arbetare som kallas skrivare kopierar varje sida.",
+              "En enda tjock bok kan ta flera år av arbete.",
+              "En bok kan kosta lika mycket som en bondgård.",
+              "Några bibliotek kedjar till och med fast sina böcker vid hyllan.",
+              "De flesta människor äger aldrig en bok.",
+              "Herr X är en metallarbetare med en ny idé.",
+              "I sin verkstad bygger han en maskin som gör boksidor.",
+              "Maskinen gör hundratals kopior av en sida på en dag.",
+              "Långsamt blir böcker billiga nog för fler hem."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Leonardo da Vinci",
+              "Johannes Gutenberg",
+              "Martin Luther",
+              "Kopernikus"
+            ],
+            "correct": "Johannes Gutenberg",
+            "words": [
+              {
+                "word": "skrivare",
+                "explanation": "en person vars arbete är att skriva"
+              },
+              {
+                "word": "kedja fast",
+                "explanation": "att låsa fast något vid en plats med ringar av metall"
+              },
+              {
+                "word": "verkstad",
+                "explanation": "ett rum eller hus där människor gör saker"
+              }
+            ],
+            "main_caption": "En skrivare kopierar en sida i taget. En hel bok tar flera år.",
+            "side_caption": "En bok är så dyr att biblioteket kedjar fast den vid hyllan."
           }
         },
         {
@@ -11946,6 +12629,51 @@
             "caption": "One small metal block for each letter. Rows of blocks build a page.",
             "shutterstock_query": "metal movable type block hand closeup letterpress tray",
             "ai_prompt": "Photorealistic close-up of fingers holding a small rectangular metal block seen from the side, a wooden tray full of similar metal blocks blurred in the background, warm workshop light; block faces turned away or out of focus, no readable letters, no text."
+          },
+          "sv": {
+            "title": "En vinpress för ord",
+            "text_sentences": [
+              "Herr X är en guldsmed i den tyska staden Mainz.",
+              "För ungefär 600 år sedan skapar han ett nytt sätt att göra böcker.",
+              "Han gör små block av metall, en bokstav på varje block.",
+              "Med en gjutform i handen gjuter han tusentals likadana block.",
+              "En arbetare sätter blocken i rader för att bygga en sida.",
+              "Arbetaren täcker blocken med tjock, klibbig trycksvärta.",
+              "En stark press, som en vinpress, trycker papperet mot blocken.",
+              "Ett enda drag i pressen trycker en hel sida.",
+              "Pressen gör kopia efter kopia av samma sida.",
+              "Sedan tar arbetarna isär raderna.",
+              "Samma block bygger nu nästa sida.",
+              "En låda med metallbokstäver kan trycka vilken bok som helst på hans språk."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Aldus Manutius",
+              "Leonardo da Vinci",
+              "Kopernikus",
+              "Johannes Gutenberg"
+            ],
+            "correct": "Johannes Gutenberg",
+            "words": [
+              {
+                "word": "guldsmed",
+                "explanation": "en person som gör fina saker av guld och andra metaller"
+              },
+              {
+                "word": "gjutform",
+                "explanation": "en ihålig form; du häller i något, och det får den formen"
+              },
+              {
+                "word": "trycksvärta",
+                "explanation": "den tjocka färg som används för att trycka text på papper"
+              },
+              {
+                "word": "press",
+                "explanation": "en maskin som trycker två saker hårt mot varandra"
+              }
+            ],
+            "main_caption": "En stark press trycker papperet mot de svärtade bokstavsblocken.",
+            "side_caption": "Ett litet metallblock för varje bokstav. Rader av block bygger en sida."
           }
         },
         {
@@ -11999,6 +12727,47 @@
             "caption": "A printer in China makes single letters from clay, long before Mr X.",
             "shutterstock_query": "hands shaping small clay blocks craft closeup",
             "ai_prompt": "Photorealistic close-up of hands shaping a small square block of soft brown clay at a wooden table, a tray of similar small clay blocks drying beside, warm light; all block faces blank or turned away, no characters, no letters, no text."
+          },
+          "sv": {
+            "title": "Inte den förste i världen",
+            "text_sentences": [
+              "I Mainz bygger herr X sitt berömda tryckeri för ungefär 600 år sedan.",
+              "Men han är inte den förste som trycker med lösa bokstäver.",
+              "I Kina trycker boktryckare hela boksidor med snidade träblock, århundraden före honom.",
+              "En kinesisk boktryckare gör till och med enskilda bokstäver av bränd lera.",
+              "I Korea gjuter boktryckare bokstäver av metall innan herr X föds.",
+              "En koreansk bok tryckt på det här sättet finns kvar än i dag.",
+              "Så vad tillför herr X egentligen?",
+              "Kinesisk skrift använder tusentals olika tecken.",
+              "Ett europeiskt alfabet behöver bara ungefär två dussin bokstäver.",
+              "Herr X packar ihop hela hantverket till ett enda billigt och snabbt system.",
+              "Vilken stad som helst med pengar kan starta ett eget tryckeri.",
+              "Inom femtio år öppnar tryckerier över hela Europa."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Johannes Gutenberg",
+              "Aldus Manutius",
+              "Leonardo da Vinci",
+              "Galileo Galilei"
+            ],
+            "correct": "Johannes Gutenberg",
+            "words": [
+              {
+                "word": "snida",
+                "explanation": "att skära en form i trä eller sten med ett verktyg"
+              },
+              {
+                "word": "lera",
+                "explanation": "mjuk jord som blir hård när man bränner den"
+              },
+              {
+                "word": "gjuta",
+                "explanation": "att göra en sak genom att hälla het metall i en form"
+              }
+            ],
+            "main_caption": "I Östasien gör boktryckare boksidor århundraden före herr X.",
+            "side_caption": "En boktryckare i Kina gör enskilda bokstäver av lera, långt före herr X."
           }
         },
         {
@@ -12056,6 +12825,51 @@
             "caption": "Thin printed papers pass from hand to hand in the market.",
             "shutterstock_query": "historical market stall printed pamphlets seller buyer illustration",
             "ai_prompt": "Warm vertical illustration of a printer's stall at the edge of a sixteenth-century town square, a seller handing a thin printed booklet to a buyer, low stacks of thin booklets on the wooden counter, townspeople passing behind, soft daylight; all pages at sharp angles or out of focus, no readable letters, no text."
+          },
+          "sv": {
+            "title": "Idéer, för snabba att stoppa",
+            "text_sentences": [
+              "Herr X från Mainz inleder Europas tid av billiga tryckta böcker.",
+              "En tryckt bok kostar mycket mindre än en handskriven bok.",
+              "Boktryckare säljer också små nyhetshäften för lite pengar.",
+              "En ny idé kan nu korsa ett land på några veckor.",
+              "Ungefär femtio år efter att herr X dör blir en tysk munk arg.",
+              "Kyrkan säljer särskilda brev, och köparna tror att breven ger Guds förlåtelse.",
+              "Munken skriver skarpa punkter mot den här försäljningen.",
+              "Boktryckare gör hans protest till tusentals billiga kopior.",
+              "Grälet växer och splittrar kyrkan i Västeuropa.",
+              "Kungar och kyrkans ledare försöker kontrollera tryckpressarna.",
+              "De lär sig att tryckta idéer är svåra att stoppa.",
+              "Utan herr X:s maskin förblir protesten kanske liten."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Martin Luther",
+              "Aldus Manutius",
+              "Johannes Gutenberg",
+              "Kopernikus"
+            ],
+            "correct": "Johannes Gutenberg",
+            "words": [
+              {
+                "word": "munk",
+                "explanation": "en religiös man som lever ett enkelt liv för sin tro"
+              },
+              {
+                "word": "förlåtelse",
+                "explanation": "när någon slutar vara arg för något fel du har gjort"
+              },
+              {
+                "word": "protest",
+                "explanation": "starka ord eller handlingar mot något"
+              },
+              {
+                "word": "gräl",
+                "explanation": "en lång och arg strid med ord"
+              }
+            ],
+            "main_caption": "Billiga tryckta blad bär nya idéer från stad till stad.",
+            "side_caption": "Tunna tryckta blad går från hand till hand på marknaden."
           }
         },
         {
@@ -12113,9 +12927,55 @@
             "caption": "No true portrait of Mr X exists. The frame stays empty.",
             "shutterstock_query": "empty ornate gilded picture frame dark wall",
             "ai_prompt": "Photorealistic image of an ornate empty gilded picture frame hanging on a dark wood-paneled wall, museum-style spotlight, only shadowed wall inside the frame, quiet mood; no plaque, no label, no letters, no text."
+          },
+          "sv": {
+            "title": "Den berömde mannen vi knappt känner",
+            "text_sentences": [
+              "Herr X från Mainz kallas den europeiska boktryckarkonstens fader.",
+              "Ändå vet historikerna mycket lite om mannen.",
+              "Inget dokument berättar om hans födelse, och inget äkta porträtt av honom finns.",
+              "Inte ens hans berömda tryckta bibel nämner sin tillverkare.",
+              "Vi känner honom mest genom papper om pengar och genom domstolsprotokoll.",
+              "Han lånar en förmögenhet av en affärspartner till sin verkstad.",
+              "Senare drar partnern honom inför domstol för pengarna.",
+              "Herr X förlorar målet.",
+              "Historiker tror att partnern då tar över bibelverkstaden.",
+              "Forskare debatterar också ordet ”revolution”.",
+              "En berömd studie säger att boktrycket förändrar Europa snabbt och djupt.",
+              "Kritiker svarar att människor, inte maskiner, skapar förändring, och långsamt."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Laurens Janszoon Coster",
+              "Johannes Gutenberg",
+              "Aldus Manutius",
+              "Leonardo da Vinci"
+            ],
+            "correct": "Johannes Gutenberg",
+            "words": [
+              {
+                "word": "dokument",
+                "explanation": "ett officiellt papper med information"
+              },
+              {
+                "word": "porträtt",
+                "explanation": "en bild av en persons ansikte"
+              },
+              {
+                "word": "domstol",
+                "explanation": "platsen där en domare avgör vem som har rätt"
+              },
+              {
+                "word": "debattera",
+                "explanation": "att strida offentligt med argument, inte med vapen"
+              }
+            ],
+            "main_caption": "En historiker studerar gamla papper om pengar och gamla domstolsprotokoll.",
+            "side_caption": "Inget äkta porträtt av herr X finns. Ramen förblir tom."
           }
         }
-      ]
+      ],
+      "person_sv": "Johannes Gutenberg"
     },
     {
       "slug": "christopher-columbus",
@@ -12176,6 +13036,51 @@
             "caption": "Food and water for the long voyage travel in wooden barrels.",
             "shutterstock_query": "wooden barrel old ship deck ropes closeup",
             "ai_prompt": "Photorealistic close-up on the wooden deck of a historical sailing ship: a large wooden barrel, hard round bread on a cloth, coiled ropes, soft morning light at sea, calm mood; no people in focus, no stamps, no symbols, no text, no letters."
+          },
+          "sv": {
+            "title": "Tre skepp på ett okänt hav",
+            "text_sentences": [
+              "Kapten X lever för ungefär 500 år sedan, i Europa.",
+              "Spaniens drottning och kung ger honom tre små skepp av trä.",
+              "Han seglar västerut, ut på det öppna havet.",
+              "Ingen karta visar hur långt vattnet sträcker sig.",
+              "Ungefär nittio sjömän är ombord.",
+              "De äter hårt bröd, saltat kött och torkade ärtor.",
+              "De dricker vatten och vin ur tunnor av trä.",
+              "De flesta sjömän sover på däck, under stjärnorna.",
+              "Efter mer än fyra veckor blir besättningen rädd.",
+              "Så en natt ser en utkik land där framme.",
+              "Skeppen når land vid en grön ö i ett varmt hav.",
+              "Människor bor redan där, och de möter sjömännen på stranden."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Ferdinand Magellan",
+              "Vasco da Gama",
+              "Christofer Columbus",
+              "Leif Eriksson"
+            ],
+            "correct": "Christofer Columbus",
+            "words": [
+              {
+                "word": "tunna",
+                "explanation": "ett stort, runt kärl av trä för mat eller dryck"
+              },
+              {
+                "word": "däck",
+                "explanation": "skeppets öppna golv"
+              },
+              {
+                "word": "besättning",
+                "explanation": "alla människor som arbetar på ett skepp"
+              },
+              {
+                "word": "utkik",
+                "explanation": "en sjöman vars uppgift är att spana efter land eller fara"
+              }
+            ],
+            "main_caption": "Tre små skepp seglar västerut. Ingen karta visar vägen.",
+            "side_caption": "Mat och vatten för den långa resan färdas i tunnor av trä."
           }
         },
         {
@@ -12233,6 +13138,51 @@
             "caption": "He measures and counts. A small mistake grows very big.",
             "shutterstock_query": "hands divider tool parchment nautical chart vintage closeup",
             "ai_prompt": "Photorealistic close-up: two hands use a metal divider tool to measure a distance on an old parchment sea chart, warm candlelight, quiet mood; the chart shows only faint coast lines, no place names, no numbers, no grid, no text, no letters."
+          },
+          "sv": {
+            "title": "Fel storlek på världen",
+            "text_sentences": [
+              "Kapten X är en sjöman från en hamnstad i Italien.",
+              "På hans tid vet bildade människor mycket väl att jorden är rund.",
+              "Den öppna frågan är hur stor jorden är.",
+              "Kapten X läser gamla reseböcker och gör sin egen beräkning.",
+              "Hans svar är alldeles för litet.",
+              "Därför tror han att Asien ligger bara några veckor väster om Europa.",
+              "Experter i Portugal och i Spanien granskar hans siffror och säger att havet är alldeles för brett.",
+              "Experterna har rätt, men Spaniens härskare betalar ändå för hans sjöresa.",
+              "Han seglar västerut, och han hittar verkligen öar.",
+              "Han tror att de ligger nära Indien, så han kallar människorna där för ”indianer”.",
+              "Han gör fyra sjöresor, och han dör fortfarande säker på att han har varit i Asien.",
+              "Han får aldrig veta att en kontinent, okänd för Europa, ligger i vägen för honom."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Christofer Columbus",
+              "Marco Polo",
+              "Vasco da Gama",
+              "Amerigo Vespucci"
+            ],
+            "correct": "Christofer Columbus",
+            "words": [
+              {
+                "word": "beräkning",
+                "explanation": "att hitta ett svar med hjälp av siffror"
+              },
+              {
+                "word": "expert",
+                "explanation": "en person som kan ett ämne mycket väl"
+              },
+              {
+                "word": "sjöresa",
+                "explanation": "en lång resa med skepp"
+              },
+              {
+                "word": "kontinent",
+                "explanation": "ett av jordens största landområden, som Afrika eller Asien"
+              }
+            ],
+            "main_caption": "Hur stor är jorden? Han litar på sitt eget svar.",
+            "side_caption": "Han mäter och räknar. Ett litet fel växer sig mycket stort."
           }
         },
         {
@@ -12290,6 +13240,51 @@
             "caption": "A hammock, a hanging bed. The word comes from the Taíno language.",
             "shutterstock_query": "woven hammock palm trees tropical village traditional",
             "ai_prompt": "Photorealistic image: a hand-woven hammock hangs between two palm trees near a round house with a palm-leaf roof, soft tropical afternoon light, calm mood; no people in focus, no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Öarna är inte tomma",
+            "text_sentences": [
+              "För ungefär 500 år sedan når skepp från Spanien under kapten X öar i Karibiska havet.",
+              "Öarna är inte tomma.",
+              "Tainofolket har bott där i mer än tusen år.",
+              "De odlar kassava och majs, fiskar från kanoter och sover i hängmattor.",
+              "Ord som hängmatta, kanot och orkan kommer från deras språk.",
+              "Detta möte förenar världens två halvor.",
+              "Under åren som följer fraktar skepp majs, tomater, kakao och potatis österut till Europa.",
+              "Andra skepp fraktar hästar, kor, sockerrör och vete västerut.",
+              "Men skeppen bär också på något osynligt.",
+              "Smittkoppor och mässling är nya här, och öbornas kroppar har inget försvar.",
+              "Inom ungefär femtio år har de flesta av tainofolket dött.",
+              "Sjukdom dödar mycket fler människor än något vapen."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Ferdinand Magellan",
+              "Leif Eriksson",
+              "Amerigo Vespucci",
+              "Christofer Columbus"
+            ],
+            "correct": "Christofer Columbus",
+            "words": [
+              {
+                "word": "kassava",
+                "explanation": "en rotväxt; människor gör mjöl och bröd av den"
+              },
+              {
+                "word": "hängmatta",
+                "explanation": "en hängande säng av vävt tyg eller nät"
+              },
+              {
+                "word": "smittkoppor",
+                "explanation": "en dödlig sjukdom med hög feber och sår på huden"
+              },
+              {
+                "word": "försvar",
+                "explanation": "skydd mot ett anfall eller en sjukdom"
+              }
+            ],
+            "main_caption": "Människor odlar, fiskar och bygger sina hem på öarna.",
+            "side_caption": "En hängmatta, en hängande säng. Ordet kommer från tainofolkets språk."
           }
         },
         {
@@ -12347,6 +13342,51 @@
             "caption": "Page after page, year after year. His books still speak.",
             "shutterstock_query": "quill ink pot stack handwritten pages candlelight still life",
             "ai_prompt": "Quiet warm vertical still life: a tall stack of finished handwritten pages on a wooden desk by candlelight, a quill resting in an ink pot beside it, a small window showing a tropical night sky, calm mood; no person, no writing hand, all script blurred and unreadable, no real words, no religious symbols, no text, no letters."
+          },
+          "sv": {
+            "title": "Guld, en koloni och en prästs penna",
+            "text_sentences": [
+              "På sin andra sjöresa västerut återvänder kapten X till de karibiska öarna med sjutton skepp.",
+              "Mer än tusen män seglar med honom, och den här gången kommer de för att stanna.",
+              "Spanien gör öarna till en koloni, och kapten X blir dess guvernör.",
+              "Han befaller tainofolket att skaffa fram guld åt honom.",
+              "De som misslyckas straffas, och familjer måste vaska flodsand efter guld, dag efter dag.",
+              "Några av tainofolkets ledare gör motstånd, men pilbågar kan inte stoppa stålvapen och hästar.",
+              "Flera år senare når rapporter om hårt styre Spanien.",
+              "En kunglig ämbetsman skickar då hem kapten X i kedjor.",
+              "Hur vet vi allt detta?",
+              "En ung kolonist vid namn Bartolomé de las Casas kommer till öarna.",
+              "Senare blir han präst och vänder sig mot systemet.",
+              "Han skriver ner grymheten han ser, och genom hans böcker når tainofolkets berättelse oss i dag."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Vasco da Gama",
+              "Christofer Columbus",
+              "Hernán Cortés",
+              "Ferdinand Magellan"
+            ],
+            "correct": "Christofer Columbus",
+            "words": [
+              {
+                "word": "koloni",
+                "explanation": "ett land som människor från ett annat land tar och styr"
+              },
+              {
+                "word": "guvernör",
+                "explanation": "ledaren som styr en koloni"
+              },
+              {
+                "word": "straffa",
+                "explanation": "att låta en person lida för något"
+              },
+              {
+                "word": "grymhet",
+                "explanation": "mycket elaka handlingar som skadar människor"
+              }
+            ],
+            "main_caption": "En ung kolonist ser tvångsarbetet. Senare berättar han om det för världen.",
+            "side_caption": "Sida efter sida, år efter år. Hans böcker talar än i dag."
           }
         },
         {
@@ -12404,9 +13444,55 @@
             "caption": "Grass-covered house remains in Canada. Archaeologists read the ground like a book.",
             "shutterstock_query": "viking turf house remains grassy mounds newfoundland coast",
             "ai_prompt": "Photorealistic landscape: low grassy mounds, the remains of ancient turf houses, on a green coastal meadow under a cool cloudy northern sky, calm sea in the background, quiet timeless mood; no signs, no markers, no fences, no people, no text, no letters."
+          },
+          "sv": {
+            "title": "Upptäckten inför rätta",
+            "text_sentences": [
+              "För ungefär 500 år sedan seglar kapten X västerut från Spanien och når länder okända för Europa.",
+              "I århundraden berättar skolböckerna att han upptäcker en ny värld.",
+              "Historiker ifrågasätter nu varje ord i den meningen.",
+              "Kan någon upptäcka ett land där miljontals människor redan bor?",
+              "Sjömän från det kalla norr når samma länder ungefär 500 år före honom.",
+              "Arkeologer hittar lämningar av deras hus på Kanadas kust.",
+              "Till och med kaptenens egen loggbok är ett problem: originalet är försvunnet.",
+              "Vi läser hans ord bara i en senare kopia.",
+              "En annan författare ändrar delar av texten.",
+              "Statyer av honom reses i städer på båda sidor om havet, och nu tas några ner.",
+              "Länderna själva får senare sitt namn efter en annan sjöman, inte efter honom.",
+              "I delar av Nord- och Sydamerika hedrar hans gamla högtidsdag nu urfolken i stället."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Leif Eriksson",
+              "Amerigo Vespucci",
+              "Christofer Columbus",
+              "Ferdinand Magellan"
+            ],
+            "correct": "Christofer Columbus",
+            "words": [
+              {
+                "word": "loggbok",
+                "explanation": "en bok där ett skepps kapten skriver vad som händer varje dag"
+              },
+              {
+                "word": "arkeolog",
+                "explanation": "en person som gräver i marken för att studera hur människor levde för länge sedan"
+              },
+              {
+                "word": "staty",
+                "explanation": "en figur av en person, gjord av sten eller metall"
+              },
+              {
+                "word": "urfolk",
+                "explanation": "de folk som bodde först i ett land"
+              }
+            ],
+            "main_caption": "Under lång tid berättar statyerna bara den ena sidan av historien.",
+            "side_caption": "Gräsklädda huslämningar i Kanada. Arkeologer läser marken som en bok."
           }
         }
-      ]
+      ],
+      "person_sv": "Christofer Columbus"
     }
   ]
 }

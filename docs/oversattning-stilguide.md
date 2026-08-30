@@ -33,7 +33,7 @@ svaret identifieras via sin position.
 1. **Fullständig översättning, mening för mening.** Samma antal meningar som
    engelskan, samma innehåll. Detta är inte tipspromenadens nedkortade format;
    `poangpromenad/stationer.md` används bara som termbank och stilreferens.
-2. **Anonymiseringen bevaras**: Mr X → herr X, King X → kung X, Master X →
+2. **Anonymiseringen bevaras**: Mr X → herr X, Miss X → fröken X, King X → kung X, Captain X → kapten X, Master X →
    mästare X, Prince X → prins X, Khan X → khan X, Land X → land X, Empire X →
    rike X, the X people → folket X, Games X → spelen X, City X → staden X.
 3. **Svarsläckan**: kortets rätta svar får aldrig förekomma i kortets egen
