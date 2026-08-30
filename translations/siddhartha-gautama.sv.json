@@ -1,0 +1,194 @@
+{
+  "slug": "siddhartha-gautama",
+  "person_sv": "Siddhartha Gautama (Buddha)",
+  "cards": [
+    {
+      "title": "Prinsen som lämnar palatset",
+      "text_sentences": [
+        "Hans anhängare berättar den här historien om prins X.",
+        "För länge sedan bor en prins i ett palats nära bergskedjan Himalaya.",
+        "Hans far gömmer allt sorgligt för honom.",
+        "En dag rider prinsen utanför palatsets murar.",
+        "Han ser en gammal man, en sjuk man och en död man.",
+        "- Varför lider människor? frågar han.",
+        "Han ser också en lugn helig man utan hem.",
+        "Han lämnar palatset för att förstå lidandet.",
+        "Till sist sitter han under ett stort fikonträd och tänker djupt.",
+        "Från den dagen kallar människor honom \"den uppvaknade\".",
+        "Hans lära, med enkla ord: göm dig inte för det sorgliga.",
+        "Försök att förstå det."
+      ],
+      "question": "Vem är prins X?",
+      "options": ["Siddhartha Gautama", "Alexander den store", "Konfucius", "Gandhi"],
+      "words": [
+        {
+          "word": "palats",
+          "explanation": "ett mycket stort och rikt hus för en kungs familj"
+        },
+        {
+          "word": "lida",
+          "explanation": "att känna smärta i kroppen eller i hjärtat"
+        },
+        {
+          "word": "fikonträd",
+          "explanation": "ett träd med frukten fikon. Trädet i den här berättelsen har hjärtformade blad."
+        },
+        {
+          "word": "uppvaknade",
+          "explanation": "vaken, inte sovande. Här betyder det: en person som ser livet klart."
+        }
+      ],
+      "main_caption": "Utanför murarna ser prinsen en gammal man och en sjuk man för första gången.",
+      "side_caption": "Han sitter under ett stort fikonträd och tänker djupt."
+    },
+    {
+      "title": "Inte för mycket, inte för lite",
+      "text_sentences": [
+        "Prins X lever för länge sedan, i det som i dag är Nepal och Indien.",
+        "De gamla berättelserna säger: som ung man har han all lyx.",
+        "Fin mat, musik, mjuka sängar, men de gör honom inte lycklig.",
+        "Berättelserna fortsätter: han prövar motsatsen och äter nästan ingenting.",
+        "Han dör nästan, och han finner inget svar.",
+        "Därför väljer han en medelväg.",
+        "Lev enkelt, skada ingen, träna ett lugnt och klart sinne.",
+        "Hans lära börjar med en ärlig blick på livet.",
+        "Lidandet är verkligt, det har orsaker, och det finns en väg att göra slut på det.",
+        "En stor orsak, säger han, är att vi alltid vill ha mer.",
+        "Inte för mycket, inte för lite: människor tycker än i dag att den tanken är klok."
+      ],
+      "question": "Vem är prins X?",
+      "options": ["Siddhartha Gautama", "Konfucius", "Sokrates", "Gandhi"],
+      "words": [
+        {
+          "word": "lyx",
+          "explanation": "många fina och dyra saker"
+        },
+        {
+          "word": "motsats",
+          "explanation": "den andra sidan av något. Varmt är motsatsen till kallt."
+        },
+        {
+          "word": "lidande",
+          "explanation": "smärta i kroppen eller i hjärtat"
+        }
+      ],
+      "main_caption": "För mycket fungerar inte. För lite fungerar inte. Han väljer medelvägen.",
+      "side_caption": "Han tränar ett lugnt och klart sinne."
+    },
+    {
+      "title": "En stilla revolution",
+      "text_sentences": [
+        "Prins X lever i Indien för ungefär 2 500 år sedan.",
+        "I hans land föds människor in i fasta grupper.",
+        "Grupperna kallas kaster.",
+        "Prästerna säger att de själva är den högsta gruppen.",
+        "Prins X blir lärare.",
+        "Han undervisar alla på samma sätt: bönder, barberare, kungar.",
+        "- Det du gör betyder mer än gruppen du föds i, säger han.",
+        "Hans anhängare berättar att en fattig barberare blir en av hans bästa elever.",
+        "Kvinnor ansluter sig också till honom och blir nunnor.",
+        "På den här tiden tar få lärare emot kvinnor som elever.",
+        "Det är en stilla revolution: förändring genom idéer, inte vapen."
+      ],
+      "question": "Vem är prins X?",
+      "options": ["Siddhartha Gautama", "Konfucius", "Gandhi", "Mandela"],
+      "words": [
+        {
+          "word": "kast",
+          "explanation": "en fast grupp av människor. Du föds in i den."
+        },
+        {
+          "word": "präst",
+          "explanation": "en person som leder människor i deras religion"
+        },
+        {
+          "word": "nunna",
+          "explanation": "en kvinna som lever ett enkelt religiöst liv"
+        },
+        {
+          "word": "revolution",
+          "explanation": "en stor förändring i hur människor lever eller tänker"
+        }
+      ],
+      "main_caption": "Bönder, barberare och kungar lär sig alla på samma sätt.",
+      "side_caption": "Kvinnor ansluter sig också till hans grupp. De lever enkelt och lär sig."
+    },
+    {
+      "title": "En idé reser utan armé",
+      "text_sentences": [
+        "Prins X lever i Indien för länge sedan.",
+        "Gamla berättelser säger att han lämnar sitt palats för att finna svar.",
+        "Senare blir han lärare.",
+        "Han lär ut fred och ett lugnt sinne.",
+        "Långt efter hans död styr kejsaren Ashoka Indien.",
+        "Efter ett fruktansvärt krig är Ashoka full av ånger.",
+        "Han avstår från nya erövringar.",
+        "Han sänder lärare till många länder.",
+        "Under hundratals år färdas läran från prins X längs handelsvägarna.",
+        "Den når Sri Lanka, sedan Kina, Japan och Sydostasien.",
+        "I varje land tar den en ny form: ny konst, nya tempel.",
+        "Idéer kan färdas längre än något svärd."
+      ],
+      "question": "Vem är prins X?",
+      "options": ["Siddhartha Gautama", "Alexander den store", "Konfucius", "Marx"],
+      "words": [
+        {
+          "word": "kejsare",
+          "explanation": "en härskare över många länder och folk"
+        },
+        {
+          "word": "erövring",
+          "explanation": "att ta land från andra genom krig"
+        },
+        {
+          "word": "ånger",
+          "explanation": "en sorgsen känsla över något du har gjort"
+        },
+        {
+          "word": "handelsväg",
+          "explanation": "en väg där människor fraktar varor att sälja, från land till land"
+        }
+      ],
+      "main_caption": "Läran färdas längs handelsvägarna, land för land.",
+      "side_caption": "Varje land ger idén en ny form."
+    },
+    {
+      "title": "Levande böcker",
+      "text_sentences": [
+        "Prins X undervisar i Indien för länge sedan, men han skriver ingenting ner.",
+        "I ungefär fyrahundra år lär sig munkar hans ord utantill.",
+        "De reciterar texterna tillsammans, i grupper.",
+        "Om en munk gör ett fel hör de andra det och rättar det.",
+        "De fungerar som levande böcker.",
+        "Sedan skriver munkar på Sri Lanka ner den äldsta fullständiga samlingen på palmblad.",
+        "Bladen åldras, så munkarna kopierar dem om och om igen.",
+        "Forskare i dag jämför gamla avskrifter för att finna hans verkliga ord.",
+        "En del av hans träning av sinnet kallas mindfulness.",
+        "Sjukhus runt om i världen använder den i dag för att hjälpa människor med stress och smärta.",
+        "En gammal idé lever vidare: först i minnet, sedan på blad, nu på sjukhus."
+      ],
+      "question": "Vem är prins X?",
+      "options": ["Siddhartha Gautama", "Sokrates", "Konfucius", "Aristoteles"],
+      "words": [
+        {
+          "word": "munk",
+          "explanation": "en man som lever ett enkelt religiöst liv i en grupp"
+        },
+        {
+          "word": "recitera",
+          "explanation": "att säga en text högt ur minnet"
+        },
+        {
+          "word": "forskare",
+          "explanation": "en person som studerar ett ämne mycket djupt"
+        },
+        {
+          "word": "mindfulness",
+          "explanation": "träning i att lugnt lägga märke till vad som händer i ditt sinne och din kropp just nu"
+        }
+      ],
+      "main_caption": "Munkarna säger orden tillsammans, ur minnet.",
+      "side_caption": "Långt senare skrivs orden ner på palmblad."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "vikings",
+  "person_sv": "Vikingarna",
+  "cards": [
+    {
+      "title": "Skepp för hav och flod",
+      "text_sentences": [
+        "Folket X lever i norra Europas kyla för ungefär 1 000 år sedan.",
+        "De flesta av dem är bönder och fiskare.",
+        "Men de är också skickliga sjömän.",
+        "De bygger långa, snabba skepp av trä.",
+        "Skeppets botten är nästan platt.",
+        "Därför kan skeppet korsa det djupa havet, och det kan också segla uppför grunda floder.",
+        "Sjömännen kan till och med dra upp skeppet på en strand.",
+        "Med de här skeppen reser folket X mycket långt.",
+        "Några reser för att handla, och några reser för att plundra andra länder.",
+        "I dag kan du se några av deras riktiga skepp på museum."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Romarna", "Vikingarna", "Fenicierna", "Grekerna"],
+      "words": [
+        {"word": "sjöman", "explanation": "en person som reser och arbetar på ett skepp"},
+        {"word": "grund", "explanation": "inte djup"},
+        {"word": "handla", "explanation": "att köpa och sälja saker"},
+        {"word": "plundra", "explanation": "att ta saker från människor med våld"}
+      ],
+      "main_caption": "Ett långt, snabbt skepp med ett stort segel.",
+      "side_caption": "Vattnet är grunt här. Skeppet kan ändå ta sig fram."
+    },
+    {
+      "title": "Österut till den stora staden",
+      "text_sentences": [
+        "Folket X lever i norra Europa för ungefär 1 000 år sedan.",
+        "Många av dem är handelsmän.",
+        "De seglar österut över havet, och sedan ror de uppför de stora floderna.",
+        "Mellan två floder bär de ibland sina båtar över land.",
+        "Floderna leder dem söderut till Konstantinopel, en mycket rik stad.",
+        "På sitt eget språk kallar de staden Miklagård: \"den stora staden\".",
+        "Där säljer de pälsar från sina skogar och bärnsten från sitt hav.",
+        "De reser hem med fina tyger och blanka silvermynt.",
+        "Arkeologer hittar än i dag många gamla silvermynt i marken i norr.",
+        "Andra handelsmän från samma folk seglar västerut, till Irland.",
+        "Deras handelsvägar går från Irland i väster till Konstantinopel i öster."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Fenicierna", "Grekerna", "Vikingarna", "Romarna"],
+      "words": [
+        {"word": "handelsmän", "explanation": "personer som köper och säljer saker"},
+        {"word": "päls", "explanation": "ett djurs varma, håriga skinn"},
+        {"word": "bärnsten", "explanation": "ett hårt, guldfärgat material av gammal trädkåda; människor gör pärlor och smycken av det"},
+        {"word": "arkeolog", "explanation": "en person som gräver i marken för att lära sig om det förflutna"}
+      ],
+      "main_caption": "Handelsmännen färdas på de stora floderna med sina varor.",
+      "side_caption": "Bärnsten från havet i norr. Människor älskar dess varma guldfärg."
+    },
+    {
+      "title": "Land i väster",
+      "text_sentences": [
+        "Folket X är sjömän från norra Europa.",
+        "De seglar västerut över det öppna havet i skepp av trä.",
+        "De har ingen kompass och inga sjökort.",
+        "De läser solen, stjärnorna, fåglarna och vågorna.",
+        "De bosätter sig först på Island, en ö med vulkaner och heta källor.",
+        "Senare seglar några vidare till Grönland och bygger gårdar där.",
+        "Gamla berättelser talar om ännu ett land i väster, med vilda vindruvor.",
+        "Berättelserna kallar det Vinland.",
+        "Länge tror människor att Vinland bara är en saga.",
+        "Då hittar arkeologer lämningar av deras hus i Kanada.",
+        "Det bor redan människor i detta land, och de gamla berättelserna talar om möten med dem.",
+        "Alltså når dessa sjömän Amerika ungefär 500 år före Columbus."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Vikingarna", "Fenicierna", "Grekerna", "Romarna"],
+      "words": [
+        {"word": "kompass", "explanation": "ett verktyg som alltid visar var norr är"},
+        {"word": "bosätter sig", "explanation": "flyttar till en ny plats och gör sitt hem där"},
+        {"word": "heta källor", "explanation": "platser där hett vatten kommer upp ur marken"},
+        {"word": "lämningar", "explanation": "delar av något gammalt som fortfarande finns kvar"}
+      ],
+      "main_caption": "Ingen kompass, ingen karta: bara solen, stjärnorna och fåglarna.",
+      "side_caption": "Hus av jord och gräs, i ett nytt land långt bortom havet."
+    },
+    {
+      "title": "Stenar som minns",
+      "text_sentences": [
+        "Folket X lever på gårdar i norra Europa för ungefär 1 000 år sedan.",
+        "De odlar mat, har kor och får, fiskar och gör tyg av ull.",
+        "De har också egna bokstäver, som kallas runor.",
+        "Runor har raka linjer, så en kniv kan rista dem i trä, ben och sten.",
+        "När en älskad människa dör kan familjen resa en stor sten med runor på.",
+        "På stenen står personens namn och goda gärningar.",
+        "Många av dessa minnesstenar står kvar än i dag.",
+        "En kvinna i detta samhälle kan ha verklig makt: hon kan äga en gård, och hon kan ärva mark.",
+        "När männen seglar bort på långa resor leder kvinnorna ofta gården där hemma."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Fenicierna", "Egyptierna", "Mayafolket", "Vikingarna"],
+      "words": [
+        {"word": "runor", "explanation": "gamla bokstäver av raka linjer"},
+        {"word": "gärning", "explanation": "en sak som en person gör"},
+        {"word": "samhälle", "explanation": "alla människor som lever tillsammans i ett land eller en grupp"},
+        {"word": "ärva", "explanation": "att få mark, pengar eller saker från en familjemedlem som dör"}
+      ],
+      "main_caption": "En minnessten. Familjen reser den för en älskad människa som har dött.",
+      "side_caption": "Hon har nycklarna. Hon leder gården när männen är borta."
+    },
+    {
+      "title": "Vem skriver deras historia?",
+      "text_sentences": [
+        "För ungefär 1 000 år sedan lägger skepp från norra Europa till i många länder.",
+        "Några av folket X på skeppen plundrar kyrkor och städer.",
+        "Munkarna i kyrkorna kan skriva, och de skriver om anfallen.",
+        "Folket X skriver själva bara korta texter.",
+        "Deras egna långa berättelser skrivs ner först flera hundra år senare.",
+        "Därför kommer de flesta gamla böcker om dem från deras offer.",
+        "Naturligtvis visar dessa böcker dem som vilda och grymma.",
+        "Långt senare lägger konstnärer till nya detaljer i bilden.",
+        "För ungefär 150 år sedan ritar en kostymtecknare hjälmar med horn till en opera.",
+        "Arkeologer hittar aldrig en enda hjälm med horn från det verkliga folket X.",
+        "Men filmer och tecknade serier visar fortfarande hjälmarna med horn i dag.",
+        "Så när du läser historia, fråga alltid: vem skriver detta, och varför?"
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": ["Mongolerna", "Romarna", "Vikingarna", "Osmanerna"],
+      "words": [
+        {"word": "munk", "explanation": "en religiös man som lever enkelt och ber; många munkar kan skriva"},
+        {"word": "offer", "explanation": "en person som drabbas av något ont"},
+        {"word": "grym", "explanation": "mycket elak; en grym person skadar andra"},
+        {"word": "kostymtecknare", "explanation": "en person som gör kläderna till en pjäs eller en film"}
+      ],
+      "main_caption": "En munk skriver historien. Men är hans berättelse hela sanningen?",
+      "side_caption": "En riktig hjälm från den tiden. Den har inga horn."
+    }
+  ]
+}

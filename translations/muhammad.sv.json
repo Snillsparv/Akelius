@@ -1,0 +1,135 @@
+{
+  "slug": "muhammad",
+  "person_sv": "Muhammed",
+  "cards": [
+    {
+      "title": "Handelsmannen och den tysta grottan",
+      "text_sentences": [
+        "Herr X bor i Arabien för ungefär 1 400 år sedan.",
+        "Hans stad Mecka är en livlig handelsstad i öknen.",
+        "Karavaner med kameler rastar där på sina långa resor.",
+        "Herr X arbetar som handelsman.",
+        "Människor vågar anförtro honom sina varor och pengar.",
+        "Han drar sig ofta undan till en tyst grotta i bergen för att tänka.",
+        "Muslimer tror att en ängel talar till honom där.",
+        "Ängeln ger honom budskap från Gud, tror muslimerna.",
+        "Herr X börjar lära ut budskapen till andra.",
+        "I dag följer nästan två miljarder människor hans budskap.",
+        "De kallas muslimer."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Jesus", "Buddha", "Muhammed", "Mose"],
+      "words": [
+        {"word": "handelsman", "explanation": "en person som köper och säljer saker"},
+        {"word": "karavan", "explanation": "en grupp människor och djur som reser tillsammans"},
+        {"word": "grotta", "explanation": "ett stort hål i ett berg eller en klippa"},
+        {"word": "ängel", "explanation": "en budbärare från Gud, i många religioner"}
+      ],
+      "main_caption": "En karavan med kameler färdas genom öknen till en handelsstad.",
+      "side_caption": "En tyst grotta högt uppe i bergen."
+    },
+    {
+      "title": "En ny början i en ny stad",
+      "text_sentences": [
+        "Herr X är en lärare i Arabien för ungefär 1 400 år sedan.",
+        "Som vuxen börjar han undervisa.",
+        "Hans budskap är enkelt och starkt.",
+        "- Det finns bara en Gud, lär han ut.",
+        "- Ta hand om de fattiga och skydda föräldralösa barn.",
+        "- Var rättvis när du köper och säljer.",
+        "Rika ledare i hans hemstad Mecka tycker inte om detta budskap.",
+        "De gör livet svårt för honom och hans anhängare.",
+        "Därför flyttar han till en annan stad, Medina.",
+        "Där blir hans anhängare en stark gemenskap: umma.",
+        "Denna nya början är så viktig att den muslimska kalendern börjar det året."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Muhammed", "Mose", "Jesus", "Buddha"],
+      "words": [
+        {"word": "föräldralös", "explanation": "ett barn vars mamma och pappa är döda"},
+        {"word": "anhängare", "explanation": "en person som tror på en lärare och följer honom"},
+        {"word": "gemenskap", "explanation": "en grupp människor som lever tillsammans och hjälper varandra"},
+        {"word": "umma", "explanation": "ett arabiskt ord för alla muslimers gemenskap"}
+      ],
+      "main_caption": "I en stad med palmer delar människor mat och hjälper varandra.",
+      "side_caption": "En gemenskap: människor hjälper varandra som en enda stor familj."
+    },
+    {
+      "title": "En bok att lära sig utantill",
+      "text_sentences": [
+        "Herr X bor i Arabien för ungefär 1 400 år sedan.",
+        "Han ger sitt folk ett budskap på arabiska, på ett vackert och kraftfullt språk.",
+        "Muslimer tror att orden kommer från Gud.",
+        "Herr X säger orden högt för människorna.",
+        "Hans anhängare lär sig dem utantill.",
+        "De reciterar dem: de säger dem ur minnet, om och om igen.",
+        "Dessa ord blir Koranen, islams heliga bok.",
+        "Namnet Koranen betyder ”recitationen”.",
+        "Efter herr X:s död samlar hans anhängare alla orden i en enda bok.",
+        "I dag läser muslimer över hela världen den på arabiska.",
+        "Många lär sig hela boken utantill."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Martin Luther", "Jesus", "Muhammed", "Buddha"],
+      "words": [
+        {"word": "recitera", "explanation": "att säga en text högt ur minnet"},
+        {"word": "utantill", "explanation": "ur minnet, utan att läsa"},
+        {"word": "helig", "explanation": "mycket speciell och viktig i en religion"},
+        {"word": "arabiska", "explanation": "Arabiens språk, som i dag talas i många länder"}
+      ],
+      "main_caption": "En gammal bok på ett träställ. Många människor kan varje ord utantill.",
+      "side_caption": "Barnen säger orden ur minnet. De reciterar."
+    },
+    {
+      "title": "Från öknen till en värld av kunskap",
+      "text_sentences": [
+        "Herr X är en lärare i Arabien för ungefär 1 400 år sedan.",
+        "Hans budskap enar många stammar i öknen till en enda gemenskap.",
+        "Efter hans död färdas detta budskap långt och snabbt.",
+        "Inom ett århundrade når det från Spanien i väster till floden Indus i öster.",
+        "I denna stora nya värld växer handel och lärdom.",
+        "Lärda översätter gamla böcker av grekiska, persiska och indiska tänkare.",
+        "I staden Bagdad kallas ett berömt bibliotek Visdomens hus.",
+        "De lärda där arbetar med algebra, astronomi och medicin.",
+        "Ordet ”algebra” kommer från arabiskan.",
+        "Även våra siffror, 1, 2, 3, kommer till Europa genom denna värld.",
+        "Ett budskap i öknen öppnar en ny värld av kunskap."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Alexander den store", "Muhammed", "Djingis khan", "Jesus"],
+      "words": [
+        {"word": "stam", "explanation": "en stor grupp familjer med en gemensam ledare"},
+        {"word": "lärd", "explanation": "en person som studerar och kan mycket"},
+        {"word": "algebra", "explanation": "en del av matematiken: den använder bokstäver för okända tal"},
+        {"word": "astronomi", "explanation": "läran om stjärnor och planeter"}
+      ],
+      "main_caption": "Lärda studerar stjärnorna och skriver nya böcker i ett stort bibliotek.",
+      "side_caption": "Ett gammalt verktyg för att mäta stjärnorna. Läran om stjärnorna är astronomi."
+    },
+    {
+      "title": "Hur kan historikerna veta?",
+      "text_sentences": [
+        "Herr X bor i Arabien för ungefär 1 400 år sedan.",
+        "Hur vet historiker något om hans liv?",
+        "Den äldsta källan är Koranen, islams heliga bok.",
+        "Men den berättar bara lite om händelserna i hans liv.",
+        "Berättelser om hans ord och handlingar kallas hadither.",
+        "I generationer för människor dessa berättelser vidare, från lärare till elev.",
+        "Först senare skriver lärda ner dem i stora samlingar.",
+        "Muslimska lärda granskar varje berättelse: vem berättar den, och vem hörde den av vem?",
+        "Moderna historiker ställer samma slags frågor om alla gamla källor.",
+        "Några sidor av Koranen som finns kvar i dag är mycket, mycket gamla."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Sokrates", "Jesus", "Buddha", "Muhammed"],
+      "words": [
+        {"word": "källa", "explanation": "en text eller ett föremål från det förflutna som ger oss kunskap"},
+        {"word": "hadith", "explanation": "en berättelse om herr X:s ord eller handlingar"},
+        {"word": "generation", "explanation": "föräldrar är en generation, deras barn är nästa"},
+        {"word": "samling", "explanation": "många saker samlade tillsammans i en bok eller på en plats"}
+      ],
+      "main_caption": "En forskare studerar mycket gamla sidor med stor omsorg.",
+      "side_caption": "Först berättar människor historien. Långt senare skriver någon ner den."
+    }
+  ]
+}

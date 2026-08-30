@@ -1,0 +1,195 @@
+{
+  "slug": "olympic-games",
+  "person_sv": "De olympiska spelen",
+  "cards": [
+    {
+      "title": "En krans av olivblad",
+      "text_sentences": [
+        "Spelen X äger rum i Grekland för länge sedan.",
+        "De hålls vart fjärde år, på en och samma heliga plats.",
+        "Människor reser dit från många grekiska städer.",
+        "De ser löpare, brottare och hoppare.",
+        "Arenan har plats för många tusen människor.",
+        "Segraren får inget guld och inga pengar.",
+        "Han får en krans av blad från ett heligt olivträd.",
+        "Hemma hyllar människor segraren som en hjälte.",
+        "Spelen fortsätter i mer än tusen år.",
+        "I dag bär världens största spel samma namn."
+      ],
+      "question": "Vilka spel är detta?",
+      "options": ["Gladiatorspelen i Rom", "Olympiska spelen", "Pythiska spelen", "Panathenéiska spelen"],
+      "words": [
+        {
+          "word": "helig",
+          "explanation": "mycket speciell för en gud eller en religion"
+        },
+        {
+          "word": "brottare",
+          "explanation": "en idrottare som försöker få ner en annan person på marken, utan att slå"
+        },
+        {
+          "word": "arena",
+          "explanation": "en stor plats för idrott, med plats för många åskådare"
+        },
+        {
+          "word": "krans",
+          "explanation": "en ring som du bär på huvudet"
+        }
+      ],
+      "main_caption": "Löparna tävlar. Tusentals människor ser på.",
+      "side_caption": "Priset: en krans av olivblad."
+    },
+    {
+      "title": "Den heliga freden",
+      "text_sentences": [
+        "I Grekland för länge sedan strider städerna ofta mot varandra.",
+        "Men vart fjärde år händer något speciellt.",
+        "Budbärare vandrar från stad till stad.",
+        "De ropar ut: spelen X börjar snart!",
+        "Spelen X är de äldsta och största spelen i Grekland.",
+        "De ärar de grekiska gudarnas kung.",
+        "Nu börjar en helig fred.",
+        "Alla som reser till spelen ska vara trygga.",
+        "Idrottare och besökare vandrar genom fiendeland, och ingen får skada dem.",
+        "Vid spelen tävlar fiender i idrott, inte i krig.",
+        "För en kort tid för idrotten samman den grekiska världen."
+      ],
+      "question": "Vilka spel är detta?",
+      "options": ["Panathenéiska spelen", "Pythiska spelen", "Olympiska spelen", "Isthmiska spelen"],
+      "words": [
+        {
+          "word": "budbärare",
+          "explanation": "en person som bär nyheter från plats till plats"
+        },
+        {
+          "word": "helig",
+          "explanation": "mycket speciell för en gud eller en religion"
+        },
+        {
+          "word": "idrottare",
+          "explanation": "en person som håller på med idrott, till exempel en löpare"
+        },
+        {
+          "word": "tävla",
+          "explanation": "att försöka vinna över andra"
+        }
+      ],
+      "main_caption": "En budbärare ropar ut: spelen börjar snart!",
+      "side_caption": "Den heliga freden: alla reser tryggt till spelen."
+    },
+    {
+      "title": "Vinn med heder",
+      "text_sentences": [
+        "Spelen X äger rum på en helig plats i Grekland, vart fjärde år.",
+        "Den äldsta grenen är enkel: ett kort, snabbt lopp över arenan.",
+        "Senare kommer brottning, längdhopp och diskuskastning.",
+        "Före spelen svär varje idrottare en ed: jag följer reglerna.",
+        "En fuskare måste betala pengar.",
+        "Pengarna bekostar statyer på vägen in till arenan.",
+        "Statyerna varnar varje ny idrottare: vinn med heder.",
+        "Grekerna tror: en stark kropp och ett skarpt sinne hör ihop.",
+        "Men spelen är inte öppna för alla.",
+        "Bara fria grekiska män får tävla.",
+        "Flickor håller sina egna lopp för en gudinna, på samma heliga plats."
+      ],
+      "question": "Vilka spel är detta?",
+      "options": ["Olympiska spelen", "Isthmiska spelen", "Nemeiska spelen", "Pythiska spelen"],
+      "words": [
+        {
+          "word": "ed",
+          "explanation": "ett mycket allvarligt löfte"
+        },
+        {
+          "word": "fuskare",
+          "explanation": "en person som bryter mot reglerna för att vinna"
+        },
+        {
+          "word": "diskus",
+          "explanation": "en platt, rund, tung skiva som idrottare kastar långt"
+        },
+        {
+          "word": "heder",
+          "explanation": "när människor ser dig som god och rättvis"
+        }
+      ],
+      "main_caption": "Gammal grekisk konst visar idrottarna.",
+      "side_caption": "En diskus. Idrottare kastar denna platta, runda skiva."
+    },
+    {
+      "title": "Spelen vaknar igen",
+      "text_sentences": [
+        "Spelen X börjar i Grekland för nästan 3 000 år sedan.",
+        "Idrottare möts där vart fjärde år, i mer än tusen år.",
+        "Sedan kommer nya härskare, med en ny religion.",
+        "De tycker inte om fester för de gamla gudarna. Långsamt upphör spelen.",
+        "I ungefär 1 500 år finns det inga spel.",
+        "I slutet av 1800-talet får en man i Frankrike en stor idé.",
+        "Hans stora idé: låt världens unga mötas i idrott, inte i krig.",
+        "Så vaknar spelen igen, nu för hela världen.",
+        "En ny stad står värd för dem vart fjärde år.",
+        "Nu tävlar också kvinnor.",
+        "I dag, innan spelen börjar, färdas en låga från den gamla platsen i Grekland till den nya arenan."
+      ],
+      "question": "Vilka spel är detta?",
+      "options": ["Panathenéiska spelen", "Pythiska spelen", "Olympiska spelen", "Isthmiska spelen"],
+      "words": [
+        {
+          "word": "religion",
+          "explanation": "tro på en gud eller gudar, med egna regler och högtider"
+        },
+        {
+          "word": "fest",
+          "explanation": "en stor högtid eller ett stort firande för många människor"
+        },
+        {
+          "word": "stå värd",
+          "explanation": "att hålla spelen i sin egen stad"
+        },
+        {
+          "word": "låga",
+          "explanation": "den ljusa, brinnande delen av en eld"
+        }
+      ],
+      "main_caption": "Lågan brinner. Hela världen ser spelen.",
+      "side_caption": "En löpare bär lågan till arenan."
+    },
+    {
+      "title": "Listor, en resenär och en begravd arena",
+      "text_sentences": [
+        "Hur känner vi till spelen X i det gamla Grekland?",
+        "För det första: listor.",
+        "Grekiska författare för långa listor över segrarna.",
+        "Senare historiker räknar till och med tiden med hjälp av spelen: fyra år, från spel till spel.",
+        "För det andra: en resenär.",
+        "För ungefär 1 800 år sedan besöker en reseskildrare den heliga platsen och beskriver dess tempel och statyer.",
+        "För det tredje: marken.",
+        "Floder och jordbävningar begraver den gamla platsen under sand och jord.",
+        "På 1800-talet börjar arkeologer gräva fram den: templen och stenarna med segrarnas namn. Senare gräver de också fram arenan.",
+        "En varning: många säger att alla krig upphör under spelen.",
+        "Källorna visar mindre: en helig fred skyddar de resande, men krigen fortsätter på andra platser."
+      ],
+      "question": "Vilka spel är detta?",
+      "options": ["Pythiska spelen", "Panathenéiska spelen", "Nemeiska spelen", "Olympiska spelen"],
+      "words": [
+        {
+          "word": "källa",
+          "explanation": "en gammal text eller sak som ger oss kunskap om det förflutna"
+        },
+        {
+          "word": "jordbävning",
+          "explanation": "när marken skakar kraftigt"
+        },
+        {
+          "word": "begrava",
+          "explanation": "att täcka något med jord eller sand"
+        },
+        {
+          "word": "arkeolog",
+          "explanation": "en person som gräver i marken för att hitta saker från det förflutna"
+        }
+      ],
+      "main_caption": "Den heliga platsen i dag. Gräs växer mellan de gamla stenarna.",
+      "side_caption": "Arkeologer gräver fram de gamla stenarna."
+    }
+  ]
+}

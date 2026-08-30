@@ -1,0 +1,190 @@
+{
+  "slug": "confucius",
+  "person_sv": "Konfucius",
+  "cards": [
+    {
+      "title": "En skola för rika och fattiga",
+      "text_sentences": [
+        "Mästare X lever i Kina för ungefär 2 500 år sedan.",
+        "Han är lärare.",
+        "Han tar emot alla elever som verkligen vill lära sig.",
+        "Rik eller fattig, det spelar ingen roll.",
+        "En liten gåva av torkat kött räcker, säger han.",
+        "Det är hans skolavgift.",
+        "Han undervisar i vänlighet, ärlighet och respekt för föräldrar och gamla människor.",
+        "Varför tar han emot fattiga elever också?",
+        "Därför att alla kan lära sig att vara goda, tror han.",
+        "Människor lär sig av honom än i dag."
+      ],
+      "question": "Vem är mästare X?",
+      "options": ["Konfucius", "Buddha", "Sokrates", "Platon"],
+      "words": [
+        {
+          "word": "skolavgift",
+          "explanation": "pengar eller en gåva som du ger för att få gå i en skola"
+        },
+        {
+          "word": "vänlighet",
+          "explanation": "att vara god och snäll mot andra människor"
+        },
+        {
+          "word": "ärlighet",
+          "explanation": "att tala sanning"
+        },
+        {
+          "word": "respekt",
+          "explanation": "du visar att en person är viktig för dig"
+        }
+      ],
+      "main_caption": "Mästare X undervisar rika och fattiga elever.",
+      "side_caption": "I det gamla Kina är en gåva av torkat kött en skolavgift."
+    },
+    {
+      "title": "En enda regel för livet",
+      "text_sentences": [
+        "Mästare X är lärare i Kina för länge sedan.",
+        "En elev ställer en fråga till honom.",
+        "- Finns det en enda regel för hela livet?",
+        "- Ja, säger mästare X.",
+        "- Gör inte mot andra det du inte vill att de ska göra mot dig.",
+        "I dag kallar människor detta den gyllene regeln.",
+        "Människor i många kulturer lär ut samma regel.",
+        "Mästare X börjar med vardagslivet: hur vi behandlar varandra.",
+        "Att vara god börjar hemma, med familjen, säger han.",
+        "Sedan växer det: till byn, till staden, till världen."
+      ],
+      "question": "Vem är mästare X?",
+      "options": ["Buddha", "Konfucius", "Sokrates", "Aristoteles"],
+      "words": [
+        {
+          "word": "den gyllene regeln",
+          "explanation": "en berömd regel: behandla andra så som du vill att de ska behandla dig. Mästare X säger den med ett 'inte'."
+        },
+        {
+          "word": "kultur",
+          "explanation": "en grupp människors sätt att leva"
+        },
+        {
+          "word": "behandla",
+          "explanation": "hur du är mot en person, bra eller dåligt"
+        }
+      ],
+      "main_caption": "En elev frågar mästare X om det rätta sättet att leva.",
+      "side_caption": "Människor i många kulturer delar samma regel: var god mot andra."
+    },
+    {
+      "title": "Föregå med gott exempel",
+      "text_sentences": [
+        "Mästare X undervisar i Kina för ungefär 2 500 år sedan.",
+        "Några härskare ber honom om råd.",
+        "- Föregå med gott exempel, säger han.",
+        "- Ta hand om folket som en god förälder.",
+        "- Styr inte genom rädsla och hårda straff.",
+        "- Om härskaren är ärlig blir folket ärligt.",
+        "- Välj ämbetsmän som studerar och lever ärligt.",
+        "- Välj dem inte för att de är födda i mäktiga familjer.",
+        "Få härskare lyssnar på honom.",
+        "Men många århundraden senare väljer Kina sina ämbetsmän genom stora examensprov.",
+        "Kan ett prov också hitta ett gott hjärta?"
+      ],
+      "question": "Vem är mästare X?",
+      "options": ["Platon", "Konfucius", "Buddha", "Marx"],
+      "words": [
+        {
+          "word": "ämbetsman",
+          "explanation": "en person som arbetar för landet och dess härskare"
+        },
+        {
+          "word": "straff",
+          "explanation": "något obehagligt du får när du bryter mot en regel"
+        },
+        {
+          "word": "examensprov",
+          "explanation": "ett stort, viktigt prov"
+        },
+        {
+          "word": "ärlig",
+          "explanation": "du säger det som är sant, du ljuger inte och du fuskar inte"
+        }
+      ],
+      "main_caption": "Mästare X säger: föregå med gott exempel.",
+      "side_caption": "I det gamla Kina skriver människor ett stort prov för att få arbeta för landet."
+    },
+    {
+      "title": "Samhällets lim",
+      "text_sentences": [
+        "Mästare X lever i Kina för länge sedan.",
+        "Han lär ut \"li\", vardagslivets artiga former.",
+        "Hur man hälsar, hur man äter tillsammans, hur man talar med gamla människor.",
+        "För honom är dessa små former samhällets lim.",
+        "De visar respekt, och respekt håller ihop människor.",
+        "Han talar inte mycket om gudar.",
+        "Han talar om hur människor lever tillsammans.",
+        "Men några människor ställer frågor.",
+        "- Hindrar så stor respekt för gamla människor nya idéer?",
+        "- Får en elev ifrågasätta läraren?",
+        "Människor kan respektera en tradition och ändå ställa frågor om den."
+      ],
+      "question": "Vem är mästare X?",
+      "options": ["Sokrates", "Buddha", "Konfucius", "Gandhi"],
+      "words": [
+        {
+          "word": "li",
+          "explanation": "ett kinesiskt ord för artiga sätt att göra saker, som att hälsa eller äta tillsammans"
+        },
+        {
+          "word": "lim",
+          "explanation": "ett klibbigt material som håller ihop saker. Här: det som håller ihop människor."
+        },
+        {
+          "word": "samhälle",
+          "explanation": "alla människor som lever tillsammans i ett land eller en grupp"
+        },
+        {
+          "word": "tradition",
+          "explanation": "gamla sätt som går vidare från föräldrar till barn"
+        }
+      ],
+      "main_caption": "Familjen äter tillsammans och visar respekt.",
+      "side_caption": "En ung person räcker te till en gammal person med båda händerna."
+    },
+    {
+      "title": "Idéernas långa liv",
+      "text_sentences": [
+        "Mästare X är lärare i Kina för länge sedan.",
+        "Liksom Sokrates i Grekland skriver han ingen egen bok.",
+        "Långt senare samlar hans elever och deras elever hans tänkespråk.",
+        "Denna lilla bok med tänkespråk bär hans röst genom tiden.",
+        "Han undervisar om familjen, respekt och goda härskare.",
+        "Århundraden efter hans död väljer Kinas härskare hans lära.",
+        "De följer den i ungefär 2 000 år.",
+        "Sedan förändras tiderna.",
+        "Moderna reformatorer säger att hans idéer är gammaldags.",
+        "I dag studerar människor honom och visar honom respekt igen.",
+        "Idéer är som verktyg: varje ny tid använder dem för sina egna frågor."
+      ],
+      "question": "Vem är mästare X?",
+      "options": ["Platon", "Buddha", "Marx", "Konfucius"],
+      "words": [
+        {
+          "word": "tänkespråk",
+          "explanation": "korta kloka meningar som en person säger"
+        },
+        {
+          "word": "århundrade",
+          "explanation": "en tid på hundra år"
+        },
+        {
+          "word": "reformator",
+          "explanation": "en person som vill förändra det gamla"
+        },
+        {
+          "word": "gammaldags",
+          "explanation": "från en gammal tid, passar inte den nya tiden"
+        }
+      ],
+      "main_caption": "Hans tänkespråk färdas från bambustavar till moderna böcker.",
+      "side_caption": "Människor visar den gamle läraren respekt i ett tempel i dag."
+    }
+  ]
+}

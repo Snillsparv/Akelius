@@ -1,0 +1,140 @@
+{
+  "slug": "plato",
+  "person_sv": "Platon",
+  "cards": [
+    {
+      "title": "Eleven som skriver ner allt i böcker",
+      "text_sentences": [
+        "Herr X bor i Aten, en stad i Grekland.",
+        "Hans lärare ställer frågor till människor på det stora torget.",
+        "Hans lärare skriver inga böcker.",
+        "En dag säger en stor domstol i staden att hans lärare måste dö.",
+        "Herr X blir mycket ledsen och reser till andra länder.",
+        "Senare kommer han tillbaka och öppnar en skola i en lugn trädgård.",
+        "Skolan kallas Akademien.",
+        "En ung elev som heter Aristoteles går i hans skola.",
+        "Herr X skriver många böcker.",
+        "Hans böcker ser ut som samtal.",
+        "I hans böcker ställer hans lärare frågor, precis som i verkligheten.",
+        "Herr X skriver, så att hans lärares idéer aldrig dör."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Platon", "Sokrates", "Aristoteles", "Konfucius"],
+      "words": [
+        {"word": "Akademien", "explanation": "namnet på hans skola. Många skolor använder det namnet i dag."},
+        {"word": "samtal", "explanation": "när två eller flera personer pratar med varandra"},
+        {"word": "torg", "explanation": "en öppen plats mitt i en stad"},
+        {"word": "bokrulle", "explanation": "ett långt papper som man rullar ihop"}
+      ],
+      "main_caption": "Herr X undervisar elever i en trädgård i Aten.",
+      "side_caption": "Han skriver sina böcker på en bokrulle."
+    },
+    {
+      "title": "Grottan och skuggorna",
+      "text_sentences": [
+        "Herr X bor i Aten för ungefär 2 400 år sedan.",
+        "Hans lärare är Sokrates.",
+        "Herr X skriver en berömd berättelse om en grotta.",
+        "Fångar sitter i en mörk grotta.",
+        "De är fastkedjade, så de kan bara se på väggen.",
+        "En eld bakom dem kastar skuggor på väggen.",
+        "De tror att skuggorna är hela världen.",
+        "En fånge blir fri och ser solen.",
+        "Han går tillbaka för att berätta för de andra.",
+        "De tror honom inte.",
+        "Herr X säger: att lära sig är som att vandra ut ur grottan.",
+        "I dag kan en mobilskärm vara som den där väggen."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Platon", "Sokrates", "Buddha", "Karl Marx"],
+      "words": [
+        {"word": "grotta", "explanation": "ett stort mörkt hål i ett berg eller under marken"},
+        {"word": "fånge", "explanation": "en person som inte är fri och inte kan gå ut"},
+        {"word": "skugga", "explanation": "den mörka form som något gör när det står i vägen för ljuset"},
+        {"word": "fastkedjad", "explanation": "fastbunden med kedjor av metall, så att man inte kan flytta sig"}
+      ],
+      "main_caption": "Fångarna ser bara skuggor på väggen.",
+      "side_caption": "En hand gör en skugga på väggen."
+    },
+    {
+      "title": "Den perfekta cirkeln",
+      "text_sentences": [
+        "Herr X grundar en berömd skola i Aten.",
+        "Han är elev till Sokrates.",
+        "Herr X är filosof, inte matematiker.",
+        "Men hans skola älskar geometri.",
+        "Prova själv: rita en cirkel.",
+        "Titta noga: linjen är alltid lite fel.",
+        "Ingen teckning är någonsin en perfekt cirkel.",
+        "Men idén om en cirkel är perfekt.",
+        "Herr X lär ut att våra ögon bara ser ofullkomliga kopior.",
+        "Bara tanken kan se de perfekta idéerna.",
+        "Geometrin tränar tanken att arbeta med perfekta idéer.",
+        "Fråga dig själv: litar du på dina ögon eller på din tanke?"
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Platon", "Pythagoras", "Euklides", "Sokrates"],
+      "words": [
+        {"word": "filosof", "explanation": "en person som tänker djupt om stora frågor"},
+        {"word": "matematiker", "explanation": "en person som arbetar med tal och former"},
+        {"word": "geometri", "explanation": "matematik om former, som cirklar och trianglar"},
+        {"word": "ofullkomlig", "explanation": "inte perfekt, med små fel"}
+      ],
+      "main_caption": "En elev ritar en cirkel i sanden.",
+      "side_caption": "Varje cirkel på papper är lite fel."
+    },
+    {
+      "title": "Vem ska styra?",
+      "text_sentences": [
+        "Herr X bor i Aten.",
+        "En dag ska en stor jury döma hans lärare Sokrates.",
+        "Hundratals människor röstar, och läraren måste dö.",
+        "Därför litar herr X inte på varje beslut som folkmassan fattar.",
+        "En skicklig talare kan lura en folkmassa.",
+        "Senare skriver herr X en berömd bok som heter Staten.",
+        "Boken frågar: vad gör en stat rättvis?",
+        "Han säger: härskare måste vara visa och älska kunskap.",
+        "Inte de rikaste människorna, inte de mest högljudda.",
+        "En god härskare älskar sanningen mer än makten.",
+        "Herr X lär ut detta till sin elev Aristoteles.",
+        "Hans fråga lever än i dag: hur ska vi välja våra ledare?"
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Platon", "Aristoteles", "Sokrates", "Karl Marx"],
+      "words": [
+        {"word": "jury", "explanation": "en grupp människor som avgör om någon har gjort fel"},
+        {"word": "stat", "explanation": "ett land och de som styr det"},
+        {"word": "härskare", "explanation": "en person som styr ett land"}
+      ],
+      "main_caption": "Herr X håller sin bok om en rättvis stat.",
+      "side_caption": "Folket röstar med höjda händer."
+    },
+    {
+      "title": "Vad är kunskap?",
+      "text_sentences": [
+        "Herr X grundar en skola i Aten.",
+        "Hans lärare är Sokrates.",
+        "Skolan är öppen i ungefär trehundra år.",
+        "Herr X ställer en svår fråga: vad är kunskap?",
+        "En lyckad gissning kan vara sann, men den är inte kunskap.",
+        "I en bok prövar han ett svar.",
+        "Du vet något när din sanna övertygelse har goda skäl.",
+        "I en annan bok löser en pojke utan skolgång ett problem om en kvadrat.",
+        "Pojken svarar bara på bra frågor, steg för steg.",
+        "Herr X säger: frågor väcker tanken, så att lära sig är som att minnas.",
+        "En berömd modern tänkare säger: den europeiska filosofin är fotnoter till herr X:s böcker.",
+        "Så när du läser nyheterna, fråga dig: vet jag detta, eller tror jag det bara?"
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Platon", "Sokrates", "Konfucius", "Buddha"],
+      "words": [
+        {"word": "övertygelse", "explanation": "något som du tror är sant"},
+        {"word": "kunskap", "explanation": "det du verkligen vet, inte bara tror"},
+        {"word": "filosofi", "explanation": "att tänka djupt om stora frågor"},
+        {"word": "fotnot", "explanation": "en liten extra anteckning längst ner på en sida"}
+      ],
+      "main_caption": "Herr X frågar: vad är kunskap?",
+      "side_caption": "Pojken löser problemet med kvadraten genom att svara på frågor."
+    }
+  ]
+}

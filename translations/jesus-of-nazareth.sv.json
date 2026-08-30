@@ -1,0 +1,133 @@
+{
+  "slug": "jesus-of-nazareth",
+  "person_sv": "Jesus från Nasaret",
+  "cards": [
+    {
+      "title": "Snickarens son",
+      "text_sentences": [
+        "Herr X lever för ungefär 2 000 år sedan.",
+        "Han växer upp i en liten, stillsam by.",
+        "Hans far är snickare, och herr X lär sig också att arbeta med trä.",
+        "Som vuxen blir han lärare.",
+        "Han vandrar från by till by nära en stor sjö.",
+        "Fiskare lämnar sina båtar för att lyssna på honom.",
+        "Han undervisar med korta berättelser ur vardagen.",
+        "En berättelse handlar om en herde som letar efter ett enda förlorat får.",
+        "Herden vilar inte förrän han hittar det.",
+        "Varje människa är viktig, säger berättelsen.",
+        "Människor över hela världen berättar hans berättelser än i dag."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Buddha", "Jesus", "Muhammed", "Mose"],
+      "words": [
+        {"word": "snickare", "explanation": "en person som bygger saker av trä"},
+        {"word": "fiskare", "explanation": "en person som fångar fisk"},
+        {"word": "herde", "explanation": "en person som tar hand om får"}
+      ],
+      "main_caption": "En lärare berättar historier vid en stor sjö.",
+      "side_caption": "En herde hittar sitt förlorade får och bär hem det."
+    },
+    {
+      "title": "Älska också dina fiender",
+      "text_sentences": [
+        "Herr X är en lärare som lever för ungefär 2 000 år sedan.",
+        "Stora folkskaror följer honom från by till by och uppför en grön bergssluttning.",
+        "- Älska din nästa som dig själv, lär han ut.",
+        "Och han går längre: älska också dina fiender, lär han ut.",
+        "Han lär också ut förlåtelse: löna inte ont med ont.",
+        "Förlåt, inte bara en gång utan om och om igen, säger han.",
+        "Och han ger en enkel regel för det dagliga livet:",
+        "- Gör mot andra människor det du vill att de ska göra mot dig.",
+        "Senare kallar människor detta den gyllene regeln.",
+        "Lätt att säga, svårt att göra, då som nu."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Mose", "Buddha", "Jesus", "Muhammed"],
+      "words": [
+        {"word": "nästa", "explanation": "en person som finns nära dig; här betyder det varje annan människa"},
+        {"word": "fiende", "explanation": "en person som är emot dig"},
+        {"word": "förlåtelse", "explanation": "du slutar vara arg på en person som har gjort dig något ont"},
+        {"word": "gyllene regeln", "explanation": "en berömd regel: behandla andra så som du vill att de ska behandla dig; herr X säger den med ett ”gör”, inte med ett ”gör inte”"}
+      ],
+      "main_caption": "En lärare talar till en stor folkskara på en grön bergssluttning.",
+      "side_caption": "Förlåtelse: du slutar vara arg."
+    },
+    {
+      "title": "Den gode främlingen",
+      "text_sentences": [
+        "Herr X är en berömd lärare för ungefär 2 000 år sedan.",
+        "Han besvarar stora frågor med små berättelser, som kallas liknelser.",
+        "En man frågar honom: vem är min nästa?",
+        "Herr X svarar med en liknelse.",
+        "En resenär blir rånad och ligger skadad vid vägen.",
+        "Två respekterade män ser honom, men de går förbi.",
+        "Då stannar en främling, en man från en grupp som många ser ner på.",
+        "Han tvättar resenärens sår, sätter honom på sin egen åsna och betalar för hans vård.",
+        "- Vem i berättelsen är den skadade mannens nästa? frågar herr X.",
+        "Lyssnaren måste själv hitta svaret: den som hjälper.",
+        "En regel är lätt att glömma, men en bra berättelse stannar kvar hos dig."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Jesus", "Sokrates", "Buddha", "Muhammed"],
+      "words": [
+        {"word": "liknelse", "explanation": "en kort berättelse med en lärdom inuti"},
+        {"word": "främling", "explanation": "en person från ett annat land eller en annan grupp"},
+        {"word": "sår", "explanation": "ett skadat ställe på kroppen"},
+        {"word": "se ner på", "explanation": "att tycka att en person är mindre värd"}
+      ],
+      "main_caption": "En man stannar och hjälper den skadade resenären.",
+      "side_caption": "Lärdomen lever än i dag: hjälp även en främling."
+    },
+    {
+      "title": "Året i kalendern",
+      "text_sentences": [
+        "Herr X lever för ungefär 2 000 år sedan, i ett land som styrs av Rom.",
+        "Han är en lärare med en liten grupp anhängare.",
+        "De romerska härskarna ser honom som en fara, och han avrättas.",
+        "Men hans anhängare ger inte upp.",
+        "Hans anhängare tror att han uppstår från döden.",
+        "Denna tro gör dem modiga, och de bär hans lära från land till land.",
+        "I dag utgör hans anhängare världens största religion.",
+        "Vår kalender räknar åren från hans födelse.",
+        "Men munken som många århundraden senare räknar ut hans födelseår gör ett litet misstag.",
+        "Så herr X föds troligen några år ”före” år ett!"
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Muhammed", "Julius Caesar", "Jesus", "Buddha"],
+      "words": [
+        {"word": "anhängare", "explanation": "en person som tror på en lärare och lever efter hans ord"},
+        {"word": "tro", "explanation": "en stark övertygelse inom en religion"},
+        {"word": "kalender", "explanation": "vårt sätt att räkna och namnge dagar och år"},
+        {"word": "munk", "explanation": "en man som lever ett enkelt, religiöst liv"}
+      ],
+      "main_caption": "Från ett enda litet land färdas läran runt ett stort hav.",
+      "side_caption": "En enkel fisk: ett gammalt tecken för de första anhängarna."
+    },
+    {
+      "title": "Hur vet vi det?",
+      "text_sentences": [
+        "Herr X är en lärare som lever för ungefär 2 000 år sedan.",
+        "Själv skriver han ingen bok.",
+        "Så hur vet vi något om honom?",
+        "Årtionden efter hans död skriver hans anhängare fyra korta böcker om hans liv.",
+        "Författarna är troende, inte neutrala rapportörer.",
+        "Gamla romerska och judiska historiker nämner honom också, på några korta rader.",
+        "Därför är nästan alla historiker överens: mannen är en verklig person.",
+        "Han undervisar, han samlar anhängare, och han avrättas av den romerska makten.",
+        "Troende säger mycket mer: för dem är han Guds son.",
+        "Historievetenskapen kan inte bevisa en sådan tro, och den kan inte heller visa att den är fel.",
+        "Historiker och troende läser samma gamla sidor, med olika frågor."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Sokrates", "Muhammed", "Buddha", "Jesus"],
+      "words": [
+        {"word": "årtionde", "explanation": "en tid på tio år"},
+        {"word": "troende", "explanation": "en person som tillhör en religion"},
+        {"word": "neutral", "explanation": "som inte tar någons parti"},
+        {"word": "historiker", "explanation": "en person som studerar det förflutna"}
+      ],
+      "main_caption": "Många år efter hans död skriver anhängare ner hans historia.",
+      "side_caption": "En historiker studerar en mycket gammal sida."
+    }
+  ]
+}

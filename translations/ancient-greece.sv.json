@@ -1,0 +1,192 @@
+{
+  "slug": "ancient-greece",
+  "person_sv": "Antikens Grekland",
+  "cards": [
+    {
+      "title": "Berg, öar och havet",
+      "text_sentences": [
+        "Land X ligger i södra Europa.",
+        "Det har höga berg och hundratals öar.",
+        "Det varma, blå havet är aldrig långt borta.",
+        "Jorden är mager, men olivträd och vindruvor växer bra.",
+        "Många människor blir fiskare, sjömän och handelsmän.",
+        "För länge sedan har landet ingen gemensam kung.",
+        "I stället lever människorna i många små stadsstater.",
+        "Städerna är stolta, och de tävlar ofta med varandra.",
+        "Mitt i staden ligger agoran, ett myllrande torg.",
+        "Där möts människor, köper mat och pratar om nyheter.",
+        "Högt på en klippa över en berömd stad står ett vitt marmortempel kvar än i dag."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Egypten", "Grekland", "Rom", "Fenicien"],
+      "words": [
+        {
+          "word": "jord",
+          "explanation": "det översta lagret av marken, där växter växer"
+        },
+        {
+          "word": "stadsstat",
+          "explanation": "en stad med egna lagar och ledare, som ett litet land"
+        },
+        {
+          "word": "agora",
+          "explanation": "det öppna torget mitt i staden"
+        },
+        {
+          "word": "marmor",
+          "explanation": "en hård, blank sten för fina byggnader"
+        }
+      ],
+      "main_caption": "Berg, olivträd, öar och det blå havet.",
+      "side_caption": "Agoran: människor köper, säljer och pratar om nyheter."
+    },
+    {
+      "title": "Folket styr",
+      "text_sentences": [
+        "För ungefär 2 500 år sedan prövar en stadsstat i land X en ny idé.",
+        "Stadens fria män möts på en kulle.",
+        "De talar, och sedan röstar de genom att räcka upp händerna.",
+        "De beslutar om lagar, pengar, krig och fred.",
+        "Många uppdrag i staden lottas ut, som namn ur en hatt.",
+        "Folket kallar detta demokratia: 'folket styr'.",
+        "Vårt ord 'demokrati' kommer från detta.",
+        "Men de flesta människor i staden får inte rösta.",
+        "Kvinnor får inte rösta, och inte heller slavar eller människor från andra städer.",
+        "Så denna demokrati är en början, inte målet.",
+        "I dag bygger många länder vidare på idén, och fler människor får rösta."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Rom", "Egypten", "Grekland", "Mesopotamien"],
+      "words": [
+        {
+          "word": "rösta",
+          "explanation": "att säga ditt val när en grupp bestämmer något"
+        },
+        {
+          "word": "lottas ut",
+          "explanation": "väljs av slumpen, som när man drar ett namn ur en hatt"
+        },
+        {
+          "word": "slav",
+          "explanation": "en person som inte är fri och som ägs av en annan person"
+        },
+        {
+          "word": "demokrati",
+          "explanation": "folket styr: folket i ett land bestämmer tillsammans"
+        }
+      ],
+      "main_caption": "De fria männen möts på en kulle. De röstar med händerna.",
+      "side_caption": "Många uppdrag i staden lottas ut, som namn ur en hatt."
+    },
+    {
+      "title": "Teatern på sluttningen",
+      "text_sentences": [
+        "För ungefär 2 500 år sedan bygger människorna i land X de första stora teatrarna.",
+        "Först sitter människorna på träbänkar.",
+        "Senare hugger de ut halvcirklar av sittplatser i sten i sina sluttningar.",
+        "Några teatrar rymmer mer än tiotusen människor.",
+        "Skådespelarna bär masker med stora, tydliga ansikten.",
+        "Så kan människor långt upp i sluttningen ändå se vem som är ledsen eller arg.",
+        "En sorglig pjäs är en tragedi: den visar stora människor som faller genom sina egna misstag.",
+        "En rolig pjäs är en komedi: den skrattar åt de rika och mäktiga.",
+        "Pjäserna ställer stora frågor.",
+        "Vad är rätt, vad är rättvist, och vem bestämmer?",
+        "Tusentals människor ser tillsammans och känner tillsammans.",
+        "Våra ord 'teater', 'drama', 'tragedi' och 'komedi' kommer från språket i land X."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Grekland", "Rom", "Egypten", "Mesopotamien"],
+      "words": [
+        {
+          "word": "mask",
+          "explanation": "ett falskt ansikte som du bär över ditt eget"
+        },
+        {
+          "word": "tragedi",
+          "explanation": "en allvarlig, sorglig pjäs"
+        },
+        {
+          "word": "komedi",
+          "explanation": "en rolig pjäs"
+        },
+        {
+          "word": "skådespelare",
+          "explanation": "en person som spelar någon annan i en pjäs"
+        }
+      ],
+      "main_caption": "Sittplatser i sten i en halvcirkel i en sluttning. Tusentals människor ser en pjäs här.",
+      "side_caption": "En mask gråter, en mask skrattar."
+    },
+    {
+      "title": "Grodor runt en damm",
+      "text_sentences": [
+        "I gamla tider är land X inte ett enda land.",
+        "Det är hundratals stolta stadsstater, och de grälar ofta.",
+        "Två av dem är berömda motsatser.",
+        "En berömd stad älskar skepp, handel och öppna samtal.",
+        "Dess rival älskar ordning, enkel mat och hård träning.",
+        "Ändå känner sig alla dessa städer som ett enda folk.",
+        "De talar ett språk och ärar samma gudar.",
+        "De delar samma berättelser om gudar och hjältar.",
+        "Många städer sänder också ut skepp och grundar kolonier.",
+        "De nya städerna växer längs kuster från Spanien till Svarta havet.",
+        "En berömd tänkare från land X skriver: vi bor runt havet som grodor runt en damm."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Fenicien", "Egypten", "Grekland", "Rom"],
+      "words": [
+        {
+          "word": "stadsstat",
+          "explanation": "en stad med egna lagar och ledare, som ett litet land"
+        },
+        {
+          "word": "gräla",
+          "explanation": "att bråka och strida med varandra"
+        },
+        {
+          "word": "ära",
+          "explanation": "att visa stor respekt för någon"
+        },
+        {
+          "word": "koloni",
+          "explanation": "en ny stad som människor från en stad bygger i ett land långt borta"
+        }
+      ],
+      "main_caption": "Nya städer växer längs kusterna, som grodor runt en damm.",
+      "side_caption": "Människor från den gamla staden bygger en ny stad vid havet."
+    },
+    {
+      "title": "Den vita marmordrömmen",
+      "text_sentences": [
+        "Historiker frågar: hur känner vi till berättelsen om land X?",
+        "Dess gamla böcker överlever bara som avskrifter av avskrifter: pjäser, vetenskap och filosofi.",
+        "I århundraden kopierar skrivare i Konstantinopel dem, och lärda i Bagdad översätter många böcker om vetenskap och filosofi till arabiska.",
+        "Utan detta långa arbete är de flesta av de gamla böckerna borta i dag.",
+        "De vita marmorruinerna berättar också bara halva sanningen.",
+        "Ny forskning visar: för länge sedan lyser templen och statyerna i klara färger.",
+        "Senare tider älskar den nakna vita stenen och drömmer om ett rent, fulländat land X.",
+        "Men det verkliga livet där rymmer slaveri och långa krig mellan städerna.",
+        "Historiker ser alltså två länder: det verkliga och den vackra drömmen.",
+        "Båda formar vår värld i dag."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Rom", "Egypten", "Mesopotamien", "Grekland"],
+      "words": [
+        {
+          "word": "filosofi",
+          "explanation": "läran om de stora frågorna om livet och tänkandet"
+        },
+        {
+          "word": "skrivare",
+          "explanation": "en person som arbetar med att kopiera böcker för hand"
+        },
+        {
+          "word": "ruin",
+          "explanation": "en gammal, sönderfallen byggnad"
+        }
+      ],
+      "main_caption": "Detta tempel är vitt i dag. För länge sedan har delar av det klara färger.",
+      "side_caption": "Samma staty: vit i dag, färggrann för länge sedan."
+    }
+  ]
+}

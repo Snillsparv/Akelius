@@ -1,0 +1,134 @@
+{
+  "slug": "augustus",
+  "person_sv": "Augustus",
+  "cards": [
+    {
+      "title": "En pojke med ett mäktigt namn",
+      "leak_ok": true,
+      "text_sentences": [
+        "Herr X bor i Rom för ungefär 2 000 år sedan.",
+        "Han är bara arton år när hans berömda gammelmorbror dör.",
+        "Gammelmorbrodern är Roms mest berömda ledare.",
+        "I sitt testamente adopterar gammelmorbrodern herr X som sin son.",
+        "Plötsligt bär den unge mannen ett mycket mäktigt namn.",
+        "Många äldre män tänker: han är bara en pojke.",
+        "Men herr X är tålmodig och försiktig.",
+        "Efter många hårda år blir han Roms första kejsare.",
+        "Han styr i mer än fyrtio år, och Rom har fred.",
+        "En månad på året får hans namn: augusti."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Julius Caesar", "Augustus", "Nero", "Alexander den store"],
+      "words": [
+        {"word": "gammelmorbror", "explanation": "en bror till din mormor eller morfar"},
+        {"word": "testamente", "explanation": "ett papper som säger vem som får dina pengar och saker efter din död"},
+        {"word": "adoptera", "explanation": "att ta ett barn in i sin familj som sitt eget barn, enligt lagen"},
+        {"word": "kejsare", "explanation": "som en kung, men över många länder"}
+      ],
+      "main_caption": "En ung man läser ett viktigt papper.",
+      "side_caption": "Ett testamente säger vem som får dina saker efter din död."
+    },
+    {
+      "title": "Från tegel till marmor",
+      "text_sentences": [
+        "I många år strider romare mot romare i inbördeskrig.",
+        "Så vinner en man, och striderna tar slut.",
+        "Han blir kejsare X, Roms allra första kejsare.",
+        "En lång fredstid börjar.",
+        "Senare kallar människor den Pax Romana, den romerska freden.",
+        "Bönder kan arbeta och handelsmän kan resa tryggt igen.",
+        "Kejsaren lagar gamla tempel och bygger många nya byggnader.",
+        "En gammal författare återger hans ord: ”Jag fann ett Rom av tegel, jag lämnar ett Rom av marmor.”",
+        "Freden varar, med få avbrott, i ungefär tvåhundra år.",
+        "Hans långa fred gör Rom rikare än något krig."
+      ],
+      "question": "Vem är kejsare X?",
+      "options": ["Julius Caesar", "Konstantin", "Alexander den store", "Augustus"],
+      "words": [
+        {"word": "inbördeskrig", "explanation": "ett krig mellan människor i samma land"},
+        {"word": "handelsman", "explanation": "en person som köper och säljer saker"},
+        {"word": "tegel", "explanation": "små byggstenar av bränd lera"},
+        {"word": "marmor", "explanation": "en fin, blank sten för vackra byggnader"}
+      ],
+      "main_caption": "Arbetare bygger med vit marmor. Staden förändras.",
+      "side_caption": "Tegel är bränd lera. Marmor är en fin, blank sten."
+    },
+    {
+      "title": "Makt utan krona",
+      "text_sentences": [
+        "Folket i Rom hatar ordet ”kung”.",
+        "För länge sedan driver de bort sina kungar.",
+        "Herr X vet detta mycket väl.",
+        "Han styr Rom ensam, men han tar aldrig titeln kung.",
+        "Han bär ingen krona.",
+        "Han kallar sig ”princeps”, den främste medborgaren.",
+        "Val och de gamla ämbetena fortsätter som förut.",
+        "Men herr X behåller kontrollen över armén och pengarna.",
+        "Han säger att han ger tillbaka republiken till senaten och folket.",
+        "Han styr på det sättet i mer än fyrtio år och dör som en gammal man.",
+        "Ord kan dölja makt lika väl som visa den."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Augustus", "Julius Caesar", "Nero", "Konstantin"],
+      "words": [
+        {"word": "titel", "explanation": "ett officiellt namn på en persons ämbete eller rang"},
+        {"word": "princeps", "explanation": "ett latinskt ord: den främste medborgaren, statens främste man"},
+        {"word": "senaten", "explanation": "en grupp mäktiga män som leder den romerska staten"},
+        {"word": "republik", "explanation": "en stat utan kung: folket väljer sina ledare"}
+      ],
+      "main_caption": "Ingen krona, ingen tron. Han sitter som en medborgare bland många.",
+      "side_caption": "Han säger nej till en krona."
+    },
+    {
+      "title": "Ansiktet som aldrig åldras",
+      "text_sentences": [
+        "Kejsare X är Roms första kejsare, och han styr under lång tid.",
+        "Överallt i riket ser människor hans ansikte.",
+        "I stad efter stad visar statyer honom ung, lugn och stark.",
+        "Han åldras, men hans statyer gör det aldrig.",
+        "Mynt färdas genom hela riket, och hans ansikte färdas med dem.",
+        "Stora diktare skriver att en ny guldålder börjar med honom.",
+        "En berömd dikt säger att gudarna utser Rom till att härska över världen.",
+        "Kejsaren och hans rika vänner stöder dessa diktare.",
+        "Är detta konst, eller är det reklam för en enda man?",
+        "I dag har vi ett ord för det: propaganda, bilder och ord som bygger makt."
+      ],
+      "question": "Vem är kejsare X?",
+      "options": ["Julius Caesar", "Alexander den store", "Augustus", "Nero"],
+      "words": [
+        {"word": "staty", "explanation": "en figur av en person, gjord av sten eller metall"},
+        {"word": "guldålder", "explanation": "en mycket god och lycklig tid"},
+        {"word": "reklam", "explanation": "bilder och ord som försöker sälja något"},
+        {"word": "propaganda", "explanation": "bilder, ord och konst som försöker styra vad människor tänker"}
+      ],
+      "main_caption": "En marmorstaty visar kejsaren ung och stark.",
+      "side_caption": "Ett litet mynt bär ett ansikte genom hela riket."
+    },
+    {
+      "title": "Hugget i sten",
+      "text_sentences": [
+        "Mot slutet av sitt långa liv skriver kejsare X en kort redogörelse om sig själv.",
+        "Titeln betyder: ”Det jag har gjort”.",
+        "Efter hans död hugger arbetare in texten i sten i städer över hela riket.",
+        "En stor kopia finns bevarad på en tempelvägg i dagens Turkiet.",
+        "I texten räknar Roms första kejsare upp sina byggnader, sina gåvor och sina hedersbetygelser.",
+        "Han skriver att han räddar staten och vägrar att bli diktator.",
+        "Han namnger inte sina gamla fiender, och han nämner inte sina misstag.",
+        "För historiker är texten en skatt: fakta från härskaren själv.",
+        "Men den är också en berättelse med en enda berättare: huvudpersonen själv.",
+        "Därför jämför historiker den med mynt, ruiner och andra författare.",
+        "Varje källa besvarar frågan: vem talar, och vem tiger?"
+      ],
+      "question": "Vem är kejsare X?",
+      "options": ["Julius Caesar", "Hammurabi", "Konstantin", "Augustus"],
+      "words": [
+        {"word": "hugga in", "explanation": "att skära bokstäver eller bilder i sten eller trä"},
+        {"word": "diktator", "explanation": "i Rom: en ledare som ensam får all makt, under kort tid, i ett nödläge"},
+        {"word": "historiker", "explanation": "en person som studerar det förflutna"},
+        {"word": "källa", "explanation": "en text eller ett föremål som ger oss information om det förflutna"}
+      ],
+      "main_caption": "Kejsaren skriver sin egen historia, och arbetare hugger in den i sten.",
+      "side_caption": "En arbetare hugger in tecken i hård sten. Ord i sten finns kvar mycket länge."
+    }
+  ]
+}
