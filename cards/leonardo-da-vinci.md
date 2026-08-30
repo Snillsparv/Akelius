@@ -11,7 +11,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Korttext
 
-> Mr X lives in Italy about five hundred years ago.  
+> Mr X lives in Italy more than five hundred years ago.  
 > He is born in a small village among hills.  
 > As a boy, he draws everything he sees.  
 > His father takes him to the rich city of Florence.  
@@ -64,7 +64,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He fills page after page with drawings and notes.  
 > Machines, rivers, plants, faces: he draws everything.  
 > In all, thousands of pages survive today.  
-> But his writing runs the wrong way, from right to left.  
+> But his writing runs from right to left.  
 > Every letter is turned, as in a mirror.  
 > To read it, you can hold the page to a mirror.  
 > Maybe he hides his ideas from curious eyes.  
@@ -163,7 +163,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Rich rulers pay him as their engineer.  
 > For them he plans bridges, canals, and machines of war.  
 > Yet he writes: war is a beastly madness.  
-> His own dream is bigger: humans should fly.  
+> But he has a dream of his own: humans should fly.  
 > He watches birds and bats for hours.  
 > He draws wings for a man to flap.  
 > He draws a screw to climb the air.  
@@ -189,10 +189,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** A wooden flying machine with large bat-like wings of wood, rope, and cloth stands in a bright historical workshop, built as a full-size model of a Renaissance design. Soft light from a high window. Production note: machine and workshop only, no pilot, no crash, nothing scary; no text, letters, numbers, or labels anywhere.
+- **Motiv:** A workbench in a bright historical workshop: large paper sheets with faint sketch lines of bat-like wings, and on the bench one small unfinished test wing of thin wood, rope, and cloth, with simple tools beside it. No finished machine, no pilot. Production note: the wing is clearly a small model, not a whole aircraft; all sketch lines vague; no text, letters, numbers, or labels anywhere.
 - **Bildtext:** *He draws wings, but human muscles are too weak.*
-- **Shutterstock-sökning:** `renaissance flying machine wooden model bat wings workshop`
-- **AI-prompt (alternativ):** Photorealistic image of a full-size wooden flying machine with large bat-like wings of wood, rope and canvas, standing in a bright historical workshop, soft light from a high window, calm mood; no people, no text, no letters, no labels.
+- **Shutterstock-sökning:** `historical workshop bench wing model wood cloth sketches`
+- **AI-prompt (alternativ):** Photorealistic image of a workbench in a bright historical workshop, large paper sheets with faint sketch lines of bat-like wings, one small unfinished test wing of thin wood, rope and cloth lying on the bench, simple hand tools beside it, soft light from a high window, calm mood; no finished machine, no people, all sketches vague, no text, no letters, no labels.
 
 ### Sidobild
 
@@ -218,7 +218,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Two lost notebooks appear again in Spain, only about sixty years ago.  
 > Scholars think that perhaps half of all pages are gone.  
 > Historians must date every page and rebuild the order.  
-> People call him a Renaissance man, good in many fields.  
+> People say he is good in almost every field.  
 > But researchers still ask: lone genius, or man of a big workshop full of helpers?  
 > Every claim about him rides on the scattered pages.  
 > **Who is Mr X?**
@@ -239,10 +239,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** A modern archive reading room: a researcher in white gloves holds a fragile old sketch page up to soft light, with acid-free boxes and more loose worn pages of different sizes on the table. Production note: the researcher can be any gender, face calm and generic; all sketch lines and writing on the pages are vague and unreadable, no real letters in any language, no recognizable famous artwork.
+- **Motiv:** A conservator in white gloves arranges loose worn sketch pages of different sizes on a glowing light table, trying to fit them together like a puzzle, a dark room around the bright table. Production note: the conservator can be any gender, face calm and generic or out of frame; all sketch lines and writing on the pages are vague and unreadable, no real letters in any language, no recognizable famous artwork.
 - **Bildtext:** *A scholar asks: where does this page belong?*
-- **Shutterstock-sökning:** `archivist white gloves old manuscript page archive reading room`
-- **AI-prompt (alternativ):** Photorealistic image of a modern archive reading room, a researcher in white gloves holding a fragile old sketch page up to soft light, archival boxes and loose worn pages of different sizes on the table, quiet concentrated mood; all writing and sketches vague and unreadable, no real letters, no text.
+- **Shutterstock-sökning:** `conservator light table old paper fragments gloves restoration`
+- **AI-prompt (alternativ):** Photorealistic image of a conservator in white gloves arranging loose worn sketch pages of different sizes on a glowing light table, fitting them together like a puzzle, dark room around the bright table, quiet concentrated mood; all writing and sketches vague and unreadable, no real letters, no text.
 
 ### Sidobild
 

@@ -70,7 +70,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The press makes copy after copy of the same page.  
 > Then the workers take the rows apart.  
 > The same blocks now build the next page.  
-> A box of metal letters can print every book in the world.  
+> A box of metal letters can print any book in his language.  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -163,7 +163,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Printers also sell small news booklets for little money.  
 > A new idea can now cross a land in weeks.  
 > About fifty years after Mr X dies, a German monk gets angry.  
-> The church sells special letters, and buyers believe the letters bring God's forgiveness.  
+> The church sells special papers, and buyers believe the papers bring God's forgiveness.  
 > The monk writes sharp points against this sale.  
 > Printers turn his protest into thousands of cheap copies.  
 > The quarrel grows and splits the church in western Europe.  
@@ -195,10 +195,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Sidobild
 
-- **Motiv:** A single printed paper nailed to a heavy wooden church door, seen from the side at a sharp angle in soft light. The picture supports the word 'protest'. Production note: the paper must be at such an angle or blur that nothing on it can be read — no letters, no numbers; the door plain and heavy, no signs.
-- **Bildtext:** *Sharp points on a church door. Printers spread them across the land.*
-- **Shutterstock-sökning:** `old paper nailed wooden church door historical`
-- **AI-prompt (alternativ):** Atmospheric photorealistic image of one printed paper sheet nailed to a massive old wooden church door, seen from the side at a sharp angle, soft morning light, stone wall around the door; the sheet is unreadable at this angle, no visible letters, no text.
+- **Motiv:** A printer's stall at the edge of a town square: a seller hands a thin printed booklet to a buyer, more thin booklets in low stacks on the wooden counter, townspeople passing behind. The picture supports the card's idea of cheap printed booklets spreading ideas. Production note: all pages and covers at a sharp angle, blurred, or out of focus — no readable letters anywhere; calm everyday mood.
+- **Bildtext:** *Thin printed papers pass from hand to hand in the market.*
+- **Shutterstock-sökning:** `historical market stall printed pamphlets seller buyer illustration`
+- **AI-prompt (alternativ):** Warm vertical illustration of a printer's stall at the edge of a sixteenth-century town square, a seller handing a thin printed booklet to a buyer, low stacks of thin booklets on the wooden counter, townspeople passing behind, soft daylight; all pages at sharp angles or out of focus, no readable letters, no text.
 
 ---
 
@@ -215,8 +215,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > We know him mostly from money papers and court records.  
 > He borrows a fortune from a business partner for his workshop.  
 > Later, the partner takes him to court over the money.  
-> Mr X loses the case, and with it his printing tools.  
-> For historians, the court record is a key source about his craft.  
+> Mr X loses the case.  
+> Historians think the partner then takes over the Bible workshop.  
 > Scholars also debate the word "revolution".  
 > One famous study says print changes Europe fast and deeply.  
 > Critics answer that people, not machines, make change, and slowly.  
@@ -224,7 +224,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Svarsalternativ
 
-- ⬜ Tim Berners-Lee
+- ⬜ Laurens Janszoon Coster
 - ✅ Johannes Gutenberg
 - ⬜ Aldus Manutius
 - ⬜ Leonardo da Vinci
@@ -238,10 +238,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** A historian in a quiet archive reading room studies an old folded paper with a hanging wax seal, wearing thin white gloves, a magnifying glass and document boxes on the table. Production note: all script on the papers must be faded, blurred, or unreadable — no readable words, names, or numbers; no labels on the boxes.
+- **Motiv:** Close view of an old folded parchment document with a hanging red wax seal on a dark wooden table, a magnifying glass beside it, soft lamp light. No person in the image. Production note: all script on the document must be faded, blurred, or unreadable — no readable words, names, or numbers; the seal plain, no readable symbols.
 - **Bildtext:** *A historian studies old money papers and court records.*
-- **Shutterstock-sökning:** `historian archive white gloves old document wax seal`
-- **AI-prompt (alternativ):** Photorealistic scene of a historian in a quiet archive studying an old folded parchment document with a hanging red wax seal, thin white gloves, magnifying glass and plain document boxes on the table, soft lamp light; all script faded and unreadable, no readable words, no text.
+- **Shutterstock-sökning:** `old parchment document hanging wax seal magnifying glass table`
+- **AI-prompt (alternativ):** Photorealistic close view of an old folded parchment document with a hanging red wax seal on a dark wooden table, a magnifying glass beside it, soft lamp light, quiet mood; no person, all script faded and unreadable, plain seal, no readable words, no letters, no numbers, no text.
 
 ### Sidobild
 

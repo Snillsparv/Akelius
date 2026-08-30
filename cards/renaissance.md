@@ -7,7 +7,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ## Kort 1 · Årskurs 6 — Silk, spices, and new art
 
-**Kategori:** `renaissance`
+**Kategori:** `exploration`
 
 ### Korttext
 
@@ -16,6 +16,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Ships and mule roads connect them with faraway lands.  
 > The richest families want fine art in their homes and churches.  
 > They pay artists to paint walls and build domes.  
+> The artists learn from old Roman statues and buildings.  
 > A young artist starts as a helper in a master's workshop.  
 > He cleans brushes, mixes colors, and copies drawings.  
 > After many years, he can become a master too.  
@@ -46,16 +47,16 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Sidobild
 
-- **Motiv:** Inside an artist's workshop: a young helper grinds colored powder on a stone slab, bowls of bright pigments and brushes around him, while an older master paints a large picture in the background. Supports the words 'workshop' and 'master'. Production note: the picture being painted shows only a simple landscape, no writing; no readable text or letters anywhere.
-- **Bildtext:** *A young helper mixes colors in the workshop of a master.*
-- **Shutterstock-sökning:** `renaissance artist workshop apprentice grinding pigments illustration`
-- **AI-prompt (alternativ):** Warm vertical illustration of a fifteenth-century Italian artist's workshop: a young apprentice grinds blue pigment on a stone slab, bowls of bright color powders and brushes on the wooden table, an older master painting a simple landscape panel in the background, soft window light; no text, no letters, no signatures.
+- **Motiv:** A great brick dome rises over a church roof in an Italian city, wooden scaffolding all around it, workers tiny on the high platforms, red roofs of the city below. Supports the word 'dome'. Production note: no text, no letters, no banners with symbols anywhere in the image.
+- **Bildtext:** *A dome, a round roof like half a ball, rises over the church.*
+- **Shutterstock-sökning:** `brick dome construction church scaffolding renaissance illustration`
+- **AI-prompt (alternativ):** Warm vertical illustration of a fifteenth-century Italian city: a great brick dome rising over a church roof, wooden scaffolding around the unfinished top, tiny workers on the high platforms, red tiled roofs below, soft afternoon light; no text, no letters, no symbols.
 
 ---
 
 ## Kort 2 · Årskurs 9 — The hunt for old books
 
-**Kategori:** `renaissance`
+**Kategori:** `exploration`
 
 ### Korttext
 
@@ -87,23 +88,23 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** A scholar in a long fifteenth-century robe stands in the dim book room of a monastery. He holds an old bound manuscript up toward the light from a small window. Around him: wooden shelves, chests, and stacked old books. Production note: all pages seen at a sharp angle, blurred or in shadow — no readable script in any language; quiet, wondering mood.
+- **Motiv:** A scholar in a long fifteenth-century robe stands in the dim book room of a monastery. He holds an old bound manuscript up toward the light from a small window. Around him: wooden shelves, open chests, stacked old books, and a few heavy volumes chained to a reading shelf. No one is writing. Production note: all pages seen at a sharp angle, blurred or in shadow — no readable script in any language; quiet, wondering mood.
 - **Bildtext:** *In a monastery, a scholar finds a text a thousand years old.*
 - **Shutterstock-sökning:** `scholar old manuscript monastery library historical illustration`
-- **AI-prompt (alternativ):** Atmospheric illustration of a renaissance scholar in a long robe standing in a dim monastery book room, holding an old bound manuscript toward the light of a small window, wooden shelves and chests with old books around him, dust in the light beam; all pages angled away or blurred, no readable script, no text, no letters.
+- **AI-prompt (alternativ):** Atmospheric illustration of a scholar in a long fifteenth-century robe standing in a dim monastery book room, holding an old bound manuscript toward the light of a small window, wooden shelves, open chests and a few chained volumes around him, dust in the light beam, no one writing; all pages angled away or blurred, no readable script, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A monk in a simple robe sits at a sloped writing desk and copies a book by hand, with a quill, an ink pot, and a candle. Supports the words 'monk' and 'monastery'. Production note: both books open at a steep angle, pages blank or fully unreadable — no real script of any kind; calm and respectful scene.
-- **Bildtext:** *For a thousand years, monks copy the old texts by hand.*
-- **Shutterstock-sökning:** `medieval monk scriptorium copying manuscript candlelight illustration`
-- **AI-prompt (alternativ):** Calm vertical illustration of a medieval monk in a simple robe at a sloped wooden writing desk, copying from one book into another with a quill, ink pot and candle beside him, stone wall behind; both books angled steeply with blank unreadable pages, no script, no text, no letters.
+- **Motiv:** A monk in a simple robe reaches for a heavy chained book on a tall wooden shelf in a dim monastery book room, an open chest with more old volumes at his feet. He searches; he does not write. Supports the words 'monk' and 'monastery'. Production note: all covers plain and all pages angled away or in shadow — no real script of any kind; calm and respectful scene.
+- **Bildtext:** *Monks keep the old texts safe, some even chained to the shelf.*
+- **Shutterstock-sökning:** `monk monastery library chained books shelf chest illustration`
+- **AI-prompt (alternativ):** Calm vertical illustration of a monk in a simple robe reaching for a heavy chained book on a tall wooden shelf in a dim monastery book room, an open wooden chest with old volumes at his feet, soft light from a small window, stone wall behind; no writing scene, plain covers, pages angled away, no script, no text, no letters.
 
 ---
 
 ## Kort 3 · Årskurs 12 (A) — A window in the wall
 
-**Kategori:** `renaissance`
+**Kategori:** `exploration`
 
 ### Korttext
 
@@ -113,7 +114,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > How can a painting look deep, like a view through a window?  
 > An architect in Florence finds exact rules for this.  
 > Far things must be painted smaller, by fixed rules.  
-> All long, straight lines must meet in one point, deep in the picture.  
+> Lines that run away from the viewer must meet in one point.  
 > Painters draw floors, streets, and halls with these rules.  
 > Now the picture opens like a window in the wall.  
 > Painters also study light, shadow, and the human body.  
@@ -135,14 +136,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** A long renaissance arcade: a covered walk with rows of round arches and columns and a tiled floor, seen straight down its middle so that all lines run toward one far point. Production note: photo of real architecture works well; no signs, plaques, or readable inscriptions; no people, or only tiny distant figures.
-- **Bildtext:** *Far things look smaller. All long lines meet in one point.*
+- **Motiv:** A long renaissance arcade: a covered walk with rows of round arches and columns and a tiled floor, seen straight down its middle so that the lines running into the depth lead toward one far point. Production note: photo of real architecture works well; no signs, plaques, or readable inscriptions; no people, or only tiny distant figures.
+- **Bildtext:** *Far things look smaller. The lines that run into the depth meet in one point.*
 - **Shutterstock-sökning:** `renaissance arcade colonnade arches perspective vanishing point`
-- **AI-prompt (alternativ):** Photorealistic view straight down a long renaissance arcade: rows of round arches and slim columns, a tiled stone floor, all lines running toward one far vanishing point, soft morning light; no people, no signs, no readable text, no letters.
+- **AI-prompt (alternativ):** Photorealistic view straight down a long renaissance arcade: rows of round arches and slim columns, a tiled stone floor, the receding lines running toward one far vanishing point, soft morning light; no people, no signs, no readable text, no letters.
 
 ### Sidobild
 
-- **Motiv:** Close vertical view of an artist's hands drawing a street scene on a wooden panel: a ruler, and thin strings stretched from a small nail so that all drawn lines meet in one point. Supports the word 'panel' and the card's rule idea. Production note: the drawing shows only simple line shapes of houses and a street, no letters or numbers; this exact scene is unlikely as stock, so the AI prompt is the primary path.
+- **Motiv:** Close vertical view of an artist's hands drawing a street scene on a wooden panel: a ruler, and thin strings stretched from a small nail so that the lines running into the depth meet in one point. Supports the word 'panel' and the card's rule idea. Production note: the drawing shows only simple line shapes of houses and a street, no letters or numbers; this exact scene is unlikely as stock, so the AI prompt is the primary path.
 - **Bildtext:** *The painter draws by rule. The flat panel starts to look deep.*
 - **Shutterstock-sökning:** `artist hands ruler drawing lines wooden panel closeup`
 - **AI-prompt (alternativ):** Vertical close-up of a renaissance artist's hands drawing on a pale wooden panel with a ruler, thin strings stretched from one small nail guiding the lines, a simple line drawing of a street and houses taking shape, warm workshop light; no letters, no numbers, no text.
@@ -151,12 +152,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ## Kort 4 · Årskurs 12 (B) — Back to the sources
 
-**Kategori:** `renaissance`
+**Kategori:** `exploration`
 
 ### Korttext
 
 > Period X spreads from Italy across Europe about 500 years ago.  
-> In the middle of this period, a new machine arrives in Europe.  
+> In the middle of this period, a new machine appears in Europe.  
 > In Germany, printers build presses with movable metal letters.  
 > People in China and Korea print with movable letters much earlier.  
 > In Europe this is new, and it changes how ideas travel.  
@@ -184,23 +185,23 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** An early print shop: one worker pulls the long bar of a heavy wooden press, another hangs freshly printed sheets on a line to dry, a third prepares paper. Production note: all printed sheets seen from a distance, at a sharp angle, or out of focus — absolutely no readable letters; busy but calm working mood.
-- **Bildtext:** *The press makes page after page. Ideas travel fast now.*
-- **Shutterstock-sökning:** `early printing press workshop wooden press historical illustration`
-- **AI-prompt (alternativ):** Warm historical illustration of a fifteenth-century print shop: a worker pulling the long bar of a heavy wooden printing press, another hanging freshly printed sheets on a line to dry, stacks of paper around, soft window light; all sheets at sharp angles or out of focus, no readable letters, no text.
+- **Motiv:** A book stall in a university town square: students in fifteenth-century clothes leaf through small printed books laid out on the stall, the seller talks with one of them, town houses behind. Production note: all pages at sharp angles or out of focus — absolutely no readable letters; busy but calm mood.
+- **Bildtext:** *Printed books cost little. Ideas travel fast now.*
+- **Shutterstock-sökning:** `medieval book stall town square students market historical illustration`
+- **AI-prompt (alternativ):** Warm historical illustration of a book stall in a fifteenth-century university town square: students in long robes leafing through small printed books on the stall, the seller talking with one of them, town houses and soft daylight behind; all pages at sharp angles or out of focus, no readable letters, no text.
 
 ### Sidobild
 
-- **Motiv:** Close vertical view of a printer's hand picking one small metal letter block from a wooden case full of them. Supports the word 'movable'. Production note: the letter faces must be worn, turned away, or out of focus — absolutely no readable characters on any block; warm workshop light.
-- **Bildtext:** *Small metal letters. The printer moves them and uses them again.*
-- **Shutterstock-sökning:** `metal movable type case printer hand closeup`
-- **AI-prompt (alternativ):** Photorealistic vertical close-up of a printer's hand lifting one small metal type block from a wooden case filled with type, shallow depth of field, warm workshop light; all letter faces worn smooth, turned away, or out of focus, no readable characters, no text.
+- **Motiv:** A young scholar in a plain fifteenth-century robe reads a small printed book by a window, sitting at a simple wooden table. Supports the card's idea that printed pages now reach students far away. Production note: the pages angled away from the viewer or out of focus — no readable text of any kind.
+- **Bildtext:** *Far from Italy, a young scholar reads the printed pages.*
+- **Shutterstock-sökning:** `young scholar reading small book window fifteenth century illustration`
+- **AI-prompt (alternativ):** Calm vertical illustration of a young scholar in a plain fifteenth-century robe reading a small printed book by a window, simple wooden table, soft daylight on his face and hands; the pages angled away or out of focus, no readable text, no letters.
 
 ---
 
 ## Kort 5 · Universitet — Sharp break or slow change?
 
-**Kategori:** `renaissance`
+**Kategori:** `exploration`
 
 ### Korttext
 
@@ -208,9 +209,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > But who chooses the names, and where do the lines go?  
 > Period X shows how hard this is.  
 > About 160 years ago, the Swiss historian Jacob Burckhardt writes a famous book about it.  
-> He says: in Italy, about 600 years ago, a new age begins.  
+> He says: in Italy, six or seven hundred years ago, old art and learning are born again.  
 > People there discover the world and themselves, he writes.  
-> The period's French name says that old art and learning are born again.  
 > Later historians doubt this sharp, clean break.  
 > Life for most farmers changes little in these years.  
 > Scholars in the centuries before also read old Roman texts.  

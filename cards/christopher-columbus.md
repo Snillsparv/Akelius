@@ -43,7 +43,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **Motiv:** Three small wooden sailing ships of about 500 years ago cross a vast open ocean, seen from behind and from a distance, sailing toward the far horizon in warm evening light. No land in sight. Production note: the crews stay tiny and anonymous; all sails and flags completely plain, no crosses, symbols, letters, or text anywhere in the image.
 - **Bildtext:** *Three small ships sail west. No map shows the way.*
-- **Shutterstock-sökning:** `three caravel sailing ships open ocean horizon historical`
+- **Shutterstock-sökning:** `three small wooden sailing ships 15th century open ocean historical`
 - **AI-prompt (alternativ):** Cinematic wide shot of three small wooden sailing ships from about 500 years ago crossing a vast open ocean, seen from behind at a distance, sailing toward the horizon in warm evening light, no land visible, calm epic mood; all sails plain, no crosses, no symbols, no flags with markings, no text, no letters.
 
 ### Sidobild
@@ -91,10 +91,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** A candlelit study of about 500 years ago: a large old globe on a wooden table, rolled sea charts, and simple metal instruments; a man in period clothes stands with his back to us, studying the globe. Production note: the man stays anonymous, face not visible; globe and charts show only vague land shapes, absolutely no place names, letters, numbers, or readable symbols.
+- **Motiv:** A candlelit study of about 500 years ago: rolled parchment sea charts on a wooden table, one chart spread open, an astrolabe and a quadrant of brass beside it; a man in period clothes stands with his back to us, studying the open chart. Production note: the man stays anonymous, face not visible; the charts show only vague coast lines, absolutely no place names, letters, numbers, or readable symbols.
 - **Bildtext:** *How big is the earth? He trusts his own answer.*
-- **Shutterstock-sökning:** `antique globe candlelight old sea charts study room`
-- **AI-prompt (alternativ):** Atmospheric realistic scene: a candlelit study from about 500 years ago, a large antique globe on a wooden table, rolled parchment sea charts and simple metal instruments, a man in period clothes seen from behind studying the globe, warm candlelight, quiet mood; face not visible, globe and charts show only vague land shapes, no place names, no numbers, no text, no letters.
+- **Shutterstock-sökning:** `rolled nautical charts astrolabe quadrant candlelight study room`
+- **AI-prompt (alternativ):** Atmospheric realistic scene: a candlelit study from about 500 years ago, rolled parchment sea charts on a wooden table, one chart spread open, a brass astrolabe and a quadrant beside it, a man in period clothes seen from behind studying the chart, warm candlelight, quiet mood; face not visible, charts show only vague coast lines, no place names, no numbers, no text, no letters.
 
 ### Sidobild
 
@@ -165,14 +165,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > More than a thousand men sail with him, and this time they come to stay.  
 > Spain makes the islands a colony, and Captain X becomes its governor.  
 > He orders the Taíno people to bring him gold.  
-> Those who fail are punished, and families are forced to work for the newcomers.  
-> Men must wash river sand for gold, day after day.  
+> Those who fail are punished, and families must wash river sand for gold, day after day.  
 > Some Taíno leaders fight back, but bows cannot stop steel weapons and horses.  
-> Reports of harsh rule reach Spain, and a royal officer sends Captain X home in chains.  
+> Years later, reports of harsh rule reach Spain.  
+> A royal officer then sends Captain X home in chains.  
 > How do we know all this?  
-> A priest named Bartolomé de las Casas comes to the islands as a young colonist.  
-> Later he turns against the system and writes down the cruelty he sees.  
-> Through his books, the Taíno story reaches us today.  
+> A young colonist named Bartolomé de las Casas comes to the islands.  
+> Later he becomes a priest and turns against the system.  
+> He writes down the cruelty he sees, and through his books the Taíno story reaches us today.  
 > **Who is Captain X?**
 
 ### Svarsalternativ
@@ -191,17 +191,17 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** An early colonial settlement being built on a Caribbean shore about 500 years ago: a stone tower half finished, Taíno men carrying heavy stones and timber, European colonists in period clothes directing the work, sailing ships at anchor in the bay, somber evening light. Production note: factual and somber, not graphic; no violence, no whips, no chains shown; respectful faces, no caricature; all flags and sails plain; no text, letters, or symbols anywhere.
-- **Bildtext:** *The newcomers build a colony. The islanders must do the heavy work.*
-- **Shutterstock-sökning:** `spanish colonial settlement construction caribbean historical illustration`
-- **AI-prompt (alternativ):** Somber realistic illustration: an early colonial settlement on a Caribbean shore about 500 years ago, a half-finished stone tower, indigenous men carrying heavy stones and timber, European colonists in period clothes directing the work, wooden sailing ships at anchor in the bay, muted evening light, serious documentary mood; no violence, no whips, no chains, no caricature, plain flags and sails, no text, no letters.
+- **Motiv:** A wide field on a Caribbean island about 500 years ago: Taíno families work the ground and carry heavy baskets while a few European colonists in period clothes stand watching over them; in the foreground, at a distance from the work, a young colonist stands still and only watches, his face thoughtful. Production note: calm, factual, and somber, not dramatic; no violence, no whips, no chains, no gore; no writing hand, no quill; respectful faces, no caricature; no text, letters, or symbols anywhere.
+- **Bildtext:** *A young colonist watches the forced work. Later he tells the world.*
+- **Shutterstock-sökning:** `colonial era field labor caribbean overseers historical illustration`
+- **AI-prompt (alternativ):** Somber realistic illustration: a wide field on a Caribbean island about 500 years ago, indigenous families working the ground and carrying heavy baskets, a few European colonists in period clothes standing watch, in the foreground a young colonist standing at a distance and only watching, muted daylight, calm documentary mood; no violence, no whips, no chains, no writing hand, no caricature, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A priest in a simple dark robe writes with a quill at a wooden desk by candlelight, a stack of finished pages beside him, a small window showing a tropical night. The picture helps explain the word 'priest' and how one witness can save a story. Production note: all writing on every page must be blurred and unreadable, no real words in any language; calm respectful mood; no religious symbols in focus; no text, letters, or labels readable anywhere.
-- **Bildtext:** *A priest writes down what he sees. His books still speak.*
-- **Shutterstock-sökning:** `priest monk writing quill candlelight desk manuscript`
-- **AI-prompt (alternativ):** Quiet warm illustration: a priest in a simple dark robe writes with a quill at a wooden desk by candlelight, a stack of handwritten pages beside him, a small window showing a tropical night sky, calm focused mood; all script blurred and unreadable, no real words, no religious symbols in focus, no text, no letters.
+- **Motiv:** A vertical still life on a wooden desk by candlelight: a tall stack of finished handwritten pages, a quill resting in an ink pot beside it, a small window showing a tropical night. No person, no writing hand. The picture shows how one witness's pages can save a story. Production note: all script on every page must be blurred and unreadable, no real words in any language; calm respectful mood; no religious symbols; no text, letters, or labels readable anywhere.
+- **Bildtext:** *Page after page, year after year. His books still speak.*
+- **Shutterstock-sökning:** `quill ink pot stack handwritten pages candlelight still life`
+- **AI-prompt (alternativ):** Quiet warm vertical still life: a tall stack of finished handwritten pages on a wooden desk by candlelight, a quill resting in an ink pot beside it, a small window showing a tropical night sky, calm mood; no person, no writing hand, all script blurred and unreadable, no real words, no religious symbols, no text, no letters.
 
 ---
 
@@ -215,14 +215,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > For centuries, schoolbooks tell that he discovers a new world.  
 > Historians now question every word in that sentence.  
 > Can anyone discover a land where millions of people already live?  
-> Viking sailors from Greenland reach the same lands about 500 years before him.  
+> Sailors from the cold north reach the same lands about 500 years before him.  
 > Archaeologists find the remains of their houses on the coast of Canada.  
-> Even the captain's own logbook is a problem.  
-> The original is lost, and we read his words only in a later copy, changed by another writer's hand.  
-> Statues of him rise in cities on both sides of the ocean.  
-> Now some statues come down, and some holidays change their names.  
+> Even the captain's own logbook is a problem: the original is lost.  
+> We read his words only in a later copy.  
+> Another writer changes parts of the text.  
+> Statues of him rise in cities on both sides of the ocean, and now some come down.  
 > The lands themselves later get the name of a different sailor, not his.  
-> And in parts of the Americas, his old holiday now honors the indigenous peoples instead.  
+> In parts of the Americas, his old holiday now honors the indigenous peoples instead.  
 > **Who is Captain X?**
 
 ### Svarsalternativ

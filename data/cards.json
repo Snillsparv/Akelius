@@ -10996,6 +10996,1417 @@
         }
       ],
       "person_sv": "Djingis khan"
+    },
+    {
+      "slug": "joan-of-arc",
+      "person": "Joan of Arc",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Farm Girl in Armor",
+          "category": "middle ages",
+          "text_sentences": [
+            "Miss X lives in France about 600 years ago.",
+            "She is a farm girl in a small village.",
+            "She watches the animals and helps at home.",
+            "She cannot read or write.",
+            "Her land is at war with England, year after year.",
+            "One day she tells people a strange thing.",
+            "She says holy voices speak to her.",
+            "The voices tell her to save France, she says.",
+            "She is only about seventeen years old.",
+            "Yet she gets armor, a horse, and a place in the army.",
+            "Soon grown soldiers follow the farm girl into battle."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Mulan",
+            "Joan of Arc",
+            "Cleopatra",
+            "Boudicca"
+          ],
+          "correct": "Joan of Arc",
+          "words": [
+            {
+              "word": "armor",
+              "explanation": "hard metal clothes that keep a soldier safe"
+            },
+            {
+              "word": "holy",
+              "explanation": "of God, or close to God"
+            },
+            {
+              "word": "battle",
+              "explanation": "a fight between armies"
+            }
+          ],
+          "main_image": {
+            "description": "A green valley in medieval France in soft morning light. A young farm girl in simple medieval clothes stands with her back to the viewer and watches a few sheep near a small village with low houses and a little church tower far behind. Calm, everyday mood. Production note: the girl is seen from behind and stays anonymous; no armor, no weapons, no text, letters, or symbols anywhere in the image.",
+            "caption": "A farm girl watches the animals near her small village.",
+            "shutterstock_query": "medieval village girl sheep green valley france illustration",
+            "ai_prompt": "Warm storybook illustration: a young farm girl in simple medieval clothes seen from behind, watching a few sheep in a green valley, a small medieval French village with low houses and a little church tower in the distance, soft morning light, peaceful mood; no armor, no weapons, no text, no letters."
+          },
+          "side_image": {
+            "description": "A close view of a small, plain suit of medieval armor on a wooden stand in a smith's workshop: breastplate, helmet, and gloves, with simple tools on a bench beside it. The picture helps explain the word 'armor'. Production note: no person in the image; the armor is plain, with no marks, symbols, letters, or text anywhere.",
+            "caption": "Armor: hard metal clothes that keep a soldier safe.",
+            "shutterstock_query": "medieval armor breastplate helmet wooden stand workshop",
+            "ai_prompt": "Photorealistic image of a small plain suit of medieval armor on a wooden stand in a dim smith's workshop, breastplate, helmet and metal gloves, simple tools on a wooden bench, warm light from a small window; completely plain metal, no marks, no symbols, no letters, no text."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Siege That Turns a War",
+          "category": "middle ages",
+          "text_sentences": [
+            "Miss X is a young woman in France, about 600 years ago.",
+            "France and England fight a war that lasts about a hundred years.",
+            "Now an English army surrounds Orléans, a key city on a river.",
+            "The siege lasts many months, and food runs low.",
+            "If this city falls, all France may fall.",
+            "Miss X says God sends her to save the city.",
+            "She rides in with fresh soldiers and food.",
+            "She carries a white banner into the fight.",
+            "She loves it more than her sword, she says.",
+            "The tired defenders find new hope and attack.",
+            "Within about a week, the English army leaves.",
+            "The long war slowly begins to turn."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Boudicca",
+            "Isabella I of Castile",
+            "Elizabeth I",
+            "Joan of Arc"
+          ],
+          "correct": "Joan of Arc",
+          "words": [
+            {
+              "word": "siege",
+              "explanation": "an army waits around a city so no food or help can come in"
+            },
+            {
+              "word": "banner",
+              "explanation": "a flag on a pole that soldiers follow"
+            },
+            {
+              "word": "defender",
+              "explanation": "a person who fights to keep a place safe"
+            }
+          ],
+          "main_image": {
+            "description": "A medieval walled city on a wide river at dawn, seen from a distance. Outside the walls stand rows of army tents with thin smoke from campfires. The city gates are closed. Quiet, tense mood, no fighting. Production note: no battle, no fire on buildings, no wounded people; no flags with readable symbols, no text or letters anywhere.",
+            "caption": "An army camps around the city. No food comes in.",
+            "shutterstock_query": "medieval walled city river siege army camp tents illustration",
+            "ai_prompt": "Atmospheric historical illustration: a medieval walled city on a wide river at dawn, seen from a distance, rows of simple army tents with thin campfire smoke outside the closed gates, cool morning light, quiet tense mood; no battle, no fire on buildings, no readable flags, no text, no letters."
+          },
+          "side_image": {
+            "description": "A plain white banner on a long wooden pole, held high against a blue sky with light clouds. Only two hands in simple medieval gloves are visible at the bottom of the picture. The picture helps explain the word 'banner'. Production note: the banner is completely plain white cloth — no pictures, symbols, letters, or text on it.",
+            "caption": "Soldiers look for the banner of their leader in the field.",
+            "shutterstock_query": "white banner flag pole blue sky medieval hands",
+            "ai_prompt": "Photorealistic low-angle image of a plain white cloth banner on a long wooden pole against a blue sky with light clouds, two hands in simple medieval gloves holding the pole at the bottom edge, wind in the cloth, hopeful mood; the banner completely plain, no symbols, no letters, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Every Word Is Written Down",
+          "category": "middle ages",
+          "text_sentences": [
+            "Miss X is a young French woman, famous from a long war.",
+            "She is captured in battle and sold to the English side.",
+            "Simply killing a famous prisoner is not enough for them.",
+            "They set up a church court to judge her.",
+            "The judges ask about the voices she says she hears.",
+            "They hope to prove that her voices are not from God.",
+            "Scribes write down every question and every answer.",
+            "For weeks, they question her, day after day.",
+            "She cannot read, yet she answers with care.",
+            "One question is a trap: is she in God's grace?",
+            "- If I am not, may God put me there, she answers.",
+            "Still, the court finds her guilty, and she is put to death."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Joan of Arc",
+            "Anne Boleyn",
+            "Marie Antoinette",
+            "Mary, Queen of Scots"
+          ],
+          "correct": "Joan of Arc",
+          "words": [
+            {
+              "word": "capture",
+              "explanation": "to take a person prisoner"
+            },
+            {
+              "word": "scribe",
+              "explanation": "a person whose job is to write things down"
+            },
+            {
+              "word": "grace",
+              "explanation": "God's love and help, in Christian belief"
+            },
+            {
+              "word": "guilty",
+              "explanation": "the court says: this person did the bad thing"
+            }
+          ],
+          "main_image": {
+            "description": "A large medieval stone hall as a church courtroom: a young prisoner in simple dark clothes stands alone in the middle, seen from behind, facing rows of seated judges in dark robes on wooden benches. Cool daylight from high windows. Calm, serious mood. Production note: no chains, no violence, nothing frightening; the prisoner is seen from behind and stays anonymous; no crosses in focus, no readable books or papers, no text or letters anywhere.",
+            "caption": "One young prisoner stands alone before many judges.",
+            "shutterstock_query": "medieval church court judges stone hall trial illustration",
+            "ai_prompt": "Serious historical illustration: a young prisoner in simple dark medieval clothes stands alone in a large stone hall, seen from behind, facing rows of seated judges in dark robes, cool light from high windows, calm and quiet mood; no chains, no violence, no readable books or papers, no text, no letters."
+          },
+          "side_image": {
+            "description": "A close view of a medieval scribe's hands writing with a quill pen in a thick open register on a wooden desk, with an ink pot and a burning candle beside it. The picture helps explain the word 'scribe'. Production note: the writing on the pages must be decorative, generic strokes only, seen at an angle — no real readable words, names, letters, or numbers.",
+            "caption": "A scribe writes down every question and every answer.",
+            "shutterstock_query": "medieval scribe quill writing register candle closeup",
+            "ai_prompt": "Photorealistic close-up of a medieval scribe's hands writing with a quill pen in a thick open register, ink pot and burning candle on the wooden desk, warm candlelight; the writing only decorative unreadable strokes at an angle, no real words, no letters, no numbers, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Prince Who Needs a Sign",
+          "category": "middle ages",
+          "text_sentences": [
+            "About 600 years ago, France is torn by war.",
+            "The king of England says the French crown is his.",
+            "Many French lords take the English side.",
+            "The young French prince is poor and full of doubt.",
+            "He is not even crowned in Reims, the city of kings.",
+            "Then Miss X, a village girl, comes to his court.",
+            "She says God sends her to make him true king.",
+            "In that age, a sign from God is strong politics.",
+            "The prince decides to try her help, and it works.",
+            "After a big victory, she leads him to Reims.",
+            "He is crowned there, and many doubters accept him.",
+            "When she is taken prisoner later, her king sends no help."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Eleanor of Aquitaine",
+            "Margaret of Anjou",
+            "Joan of Arc",
+            "Isabella I of Castile"
+          ],
+          "correct": "Joan of Arc",
+          "words": [
+            {
+              "word": "crown",
+              "explanation": "to make a person king or queen in a holy ceremony"
+            },
+            {
+              "word": "lord",
+              "explanation": "a rich and powerful man who rules land"
+            },
+            {
+              "word": "doubt",
+              "explanation": "a feeling that a thing may not be true or real"
+            }
+          ],
+          "main_image": {
+            "description": "A crowning ceremony in a great gothic cathedral: a young man kneels on the steps before a bishop, who holds a golden crown above his head. Lords and church men stand around in fine medieval clothes. High pillars and colored light from tall windows. Respectful and solemn mood. Production note: faces generic, no portrait of any real person; no armored woman in the scene; church setting shown with respect; no readable text, banners with letters, or symbols in focus.",
+            "caption": "In the city of kings, a prince becomes a crowned king.",
+            "shutterstock_query": "medieval coronation cathedral bishop crown ceremony illustration",
+            "ai_prompt": "Solemn historical illustration inside a great gothic cathedral: a young man kneels before a bishop who holds a golden crown above his head, lords in fine medieval clothes standing around, high pillars, soft colored light from tall windows, respectful mood; generic faces, no readable text, no letters, no lettered banners."
+          },
+          "side_image": {
+            "description": "A golden crown resting on a red cushion on a stone table, lit by soft light in a dark room. The picture helps explain the word 'crown' as a holy ceremony, not just a golden thing. Production note: the crown is plain gold with simple shapes only — no writing, no letters, no readable symbols anywhere.",
+            "caption": "A crown is not just gold. It says: this rule is holy.",
+            "shutterstock_query": "golden royal crown red cushion dark background",
+            "ai_prompt": "Photorealistic still life of a plain golden crown on a red velvet cushion on a stone table, soft warm light in a dark room, quiet and solemn mood; simple shapes only, no writing, no letters, no symbols, no text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Two Courts, Two Stories",
+          "category": "middle ages",
+          "text_sentences": [
+            "Miss X is a French village girl from about 600 years ago.",
+            "Most village girls of her time leave no trace.",
+            "Yet historians know her better than most kings.",
+            "The reason: her famous trial is written down, word for word.",
+            "About twenty-five years later, a new court reopens her case.",
+            "It listens to her childhood friends and her old soldiers.",
+            "Their memories fill page after page.",
+            "The first court wants her guilty; the second wants her innocent.",
+            "So historians read both records with careful, cool eyes.",
+            "Almost five hundred years after her death, the Church names her a saint.",
+            "Today she is a national symbol of France.",
+            "Many political groups, left and right, use her as their sign."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Bernadette of Lourdes",
+            "Joan of Arc",
+            "Catherine of Siena",
+            "Hildegard of Bingen"
+          ],
+          "correct": "Joan of Arc",
+          "words": [
+            {
+              "word": "trace",
+              "explanation": "a small sign that a person or thing was there"
+            },
+            {
+              "word": "record",
+              "explanation": "a written text that saves what people say and do"
+            },
+            {
+              "word": "innocent",
+              "explanation": "not guilty; the person did not do the bad thing"
+            },
+            {
+              "word": "symbol",
+              "explanation": "a person or thing that stands for a bigger idea"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet modern archive reading room: a researcher with thin white gloves carefully turns a page in a thick medieval register bound in worn leather. More old volumes lie on the table, soft desk light. The picture shows that the old trial records still exist. Production note: any writing on the pages must be generic, unreadable strokes seen at an angle or out of focus — no real words, names, letters, or numbers anywhere.",
+            "caption": "The old trial records still exist. Historians read every page.",
+            "shutterstock_query": "archivist white gloves medieval manuscript register archive",
+            "ai_prompt": "Photorealistic scene in a quiet archive reading room: a researcher with thin white gloves turns a page in a thick leather-bound medieval register, more worn volumes on the table, soft desk light, calm scholarly mood; the writing only generic unreadable strokes at an angle, no real words, no letters, no numbers, no text."
+          },
+          "side_image": {
+            "description": "A gilded statue of a rider on a horse with a plain raised banner, standing on a stone base on a city square, seen from a distance and from a low angle against the evening sky. The picture helps explain the word 'symbol'. Production note: the rider is generic and seen from far away, face not visible in detail; the banner is plain; no inscription, letters, numbers, or readable text on the statue or the base.",
+            "caption": "A statue can turn one person into a symbol for a whole land.",
+            "shutterstock_query": "gilded equestrian statue city square evening low angle",
+            "ai_prompt": "Photorealistic photo of a gilded statue of a rider on a horse holding a plain raised banner, on a stone base on a European city square, seen from a distance at a low angle against warm evening sky; generic rider, face not detailed, plain banner, no inscription, no letters, no numbers, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "renaissance",
+      "person": "The Renaissance",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Silk, spices, and new art",
+          "category": "exploration",
+          "text_sentences": [
+            "Period X begins about 600 years ago, in the trading cities of Italy.",
+            "These cities grow rich from silk, spices, wool, and banks.",
+            "Ships and mule roads connect them with faraway lands.",
+            "The richest families want fine art in their homes and churches.",
+            "They pay artists to paint walls and build domes.",
+            "The artists learn from old Roman statues and buildings.",
+            "A young artist starts as a helper in a master's workshop.",
+            "He cleans brushes, mixes colors, and copies drawings.",
+            "After many years, he can become a master too.",
+            "Each city wants finer churches and statues than its neighbors.",
+            "So the cities compete with art, not only with ships and gold."
+          ],
+          "question": "Which period is this?",
+          "options": [
+            "The Middle Ages",
+            "The Renaissance",
+            "The Industrial Revolution",
+            "The Enlightenment"
+          ],
+          "correct": "The Renaissance",
+          "words": [
+            {
+              "word": "spices",
+              "explanation": "parts of plants that give food a strong taste"
+            },
+            {
+              "word": "workshop",
+              "explanation": "a room where a master and helpers make things"
+            },
+            {
+              "word": "master",
+              "explanation": "a fully trained artist or craftsman who teaches others"
+            },
+            {
+              "word": "dome",
+              "explanation": "a round roof, like half a ball"
+            }
+          ],
+          "main_image": {
+            "description": "A busy Italian trading port about 600 years ago: wooden sailing ships are unloaded, workers carry bales of cloth and sacks of spices, merchants in long fifteenth-century clothes talk on the quay, stone towers and one great dome rise in the background. Production note: no flags or signs with writing, no readable text or letters anywhere; peaceful everyday mood, no weapons.",
+            "caption": "Ships bring silk and spices. The trading cities grow rich.",
+            "shutterstock_query": "renaissance italian port harbor ships merchants historical illustration",
+            "ai_prompt": "Warm historical illustration of a busy Italian trading port around the fifteenth century: wooden sailing ships being unloaded, workers carrying bales of cloth and sacks of spices, merchants in long robes talking on a stone quay, towers and a great dome in the background, golden afternoon light; no flags with writing, no text, no letters."
+          },
+          "side_image": {
+            "description": "A great brick dome rises over a church roof in an Italian city, wooden scaffolding all around it, workers tiny on the high platforms, red roofs of the city below. Supports the word 'dome'. Production note: no text, no letters, no banners with symbols anywhere in the image.",
+            "caption": "A dome, a round roof like half a ball, rises over the church.",
+            "shutterstock_query": "brick dome construction church scaffolding renaissance illustration",
+            "ai_prompt": "Warm vertical illustration of a fifteenth-century Italian city: a great brick dome rising over a church roof, wooden scaffolding around the unfinished top, tiny workers on the high platforms, red tiled roofs below, soft afternoon light; no text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The hunt for old books",
+          "category": "exploration",
+          "text_sentences": [
+            "Period X starts in Italy about 600 years ago and spreads across Europe.",
+            "In this period, scholars hunt for old books.",
+            "They search in the dusty book rooms of monasteries.",
+            "There they find texts from ancient Rome, copied by monks long ago.",
+            "Some of these texts lie almost forgotten for a thousand years.",
+            "Scholars from the Greek east bring more old texts to Italy.",
+            "Now people can read famous Greek thinkers again.",
+            "The scholars compare the copies and fix mistakes in them.",
+            "Rich men pay for new libraries, open to readers.",
+            "The old texts are full of ideas about law, nature, and a good life.",
+            "Readers begin to ask new questions about their own time."
+          ],
+          "question": "Which period is this?",
+          "options": [
+            "The Reformation",
+            "The Middle Ages",
+            "The Renaissance",
+            "The Enlightenment"
+          ],
+          "correct": "The Renaissance",
+          "words": [
+            {
+              "word": "scholar",
+              "explanation": "a person whose work is studying and learning"
+            },
+            {
+              "word": "monastery",
+              "explanation": "a house where monks live, work, and pray"
+            },
+            {
+              "word": "monk",
+              "explanation": "a religious man who lives simply in a monastery"
+            }
+          ],
+          "main_image": {
+            "description": "A scholar in a long fifteenth-century robe stands in the dim book room of a monastery. He holds an old bound manuscript up toward the light from a small window. Around him: wooden shelves, open chests, stacked old books, and a few heavy volumes chained to a reading shelf. No one is writing. Production note: all pages seen at a sharp angle, blurred or in shadow — no readable script in any language; quiet, wondering mood.",
+            "caption": "In a monastery, a scholar finds a text a thousand years old.",
+            "shutterstock_query": "scholar old manuscript monastery library historical illustration",
+            "ai_prompt": "Atmospheric illustration of a scholar in a long fifteenth-century robe standing in a dim monastery book room, holding an old bound manuscript toward the light of a small window, wooden shelves, open chests and a few chained volumes around him, dust in the light beam, no one writing; all pages angled away or blurred, no readable script, no text, no letters."
+          },
+          "side_image": {
+            "description": "A monk in a simple robe reaches for a heavy chained book on a tall wooden shelf in a dim monastery book room, an open chest with more old volumes at his feet. He searches; he does not write. Supports the words 'monk' and 'monastery'. Production note: all covers plain and all pages angled away or in shadow — no real script of any kind; calm and respectful scene.",
+            "caption": "Monks keep the old texts safe, some even chained to the shelf.",
+            "shutterstock_query": "monk monastery library chained books shelf chest illustration",
+            "ai_prompt": "Calm vertical illustration of a monk in a simple robe reaching for a heavy chained book on a tall wooden shelf in a dim monastery book room, an open wooden chest with old volumes at his feet, soft light from a small window, stone wall behind; no writing scene, plain covers, pages angled away, no script, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A window in the wall",
+          "category": "exploration",
+          "text_sentences": [
+            "Period X brings new art to Italy about 600 years ago.",
+            "The painters of this time face an old problem.",
+            "A wall or a wood panel is flat.",
+            "How can a painting look deep, like a view through a window?",
+            "An architect in Florence finds exact rules for this.",
+            "Far things must be painted smaller, by fixed rules.",
+            "Lines that run away from the viewer must meet in one point.",
+            "Painters draw floors, streets, and halls with these rules.",
+            "Now the picture opens like a window in the wall.",
+            "Painters also study light, shadow, and the human body.",
+            "Rooms in their paintings look real enough to step into."
+          ],
+          "question": "Which period is this?",
+          "options": [
+            "The Renaissance",
+            "The Middle Ages",
+            "The Enlightenment",
+            "The Reformation"
+          ],
+          "correct": "The Renaissance",
+          "words": [
+            {
+              "word": "panel",
+              "explanation": "a flat piece of wood that artists paint on"
+            },
+            {
+              "word": "architect",
+              "explanation": "a person who plans and designs buildings"
+            },
+            {
+              "word": "shadow",
+              "explanation": "the dark place where light does not reach"
+            }
+          ],
+          "main_image": {
+            "description": "A long renaissance arcade: a covered walk with rows of round arches and columns and a tiled floor, seen straight down its middle so that the lines running into the depth lead toward one far point. Production note: photo of real architecture works well; no signs, plaques, or readable inscriptions; no people, or only tiny distant figures.",
+            "caption": "Far things look smaller. The lines that run into the depth meet in one point.",
+            "shutterstock_query": "renaissance arcade colonnade arches perspective vanishing point",
+            "ai_prompt": "Photorealistic view straight down a long renaissance arcade: rows of round arches and slim columns, a tiled stone floor, the receding lines running toward one far vanishing point, soft morning light; no people, no signs, no readable text, no letters."
+          },
+          "side_image": {
+            "description": "Close vertical view of an artist's hands drawing a street scene on a wooden panel: a ruler, and thin strings stretched from a small nail so that the lines running into the depth meet in one point. Supports the word 'panel' and the card's rule idea. Production note: the drawing shows only simple line shapes of houses and a street, no letters or numbers; this exact scene is unlikely as stock, so the AI prompt is the primary path.",
+            "caption": "The painter draws by rule. The flat panel starts to look deep.",
+            "shutterstock_query": "artist hands ruler drawing lines wooden panel closeup",
+            "ai_prompt": "Vertical close-up of a renaissance artist's hands drawing on a pale wooden panel with a ruler, thin strings stretched from one small nail guiding the lines, a simple line drawing of a street and houses taking shape, warm workshop light; no letters, no numbers, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Back to the sources",
+          "category": "exploration",
+          "text_sentences": [
+            "Period X spreads from Italy across Europe about 500 years ago.",
+            "In the middle of this period, a new machine appears in Europe.",
+            "In Germany, printers build presses with movable metal letters.",
+            "People in China and Korea print with movable letters much earlier.",
+            "In Europe this is new, and it changes how ideas travel.",
+            "A printed book costs much less than a hand-written copy.",
+            "A scholar in Italy writes about an old Roman text.",
+            "A few months later, students in Paris read the printed pages.",
+            "Scholars like him are called humanists.",
+            "They study language, history, poetry, and the good life.",
+            "Their rule is: go back to the sources, read the oldest texts yourself."
+          ],
+          "question": "Which period is this?",
+          "options": [
+            "The Reformation",
+            "The Industrial Revolution",
+            "The Enlightenment",
+            "The Renaissance"
+          ],
+          "correct": "The Renaissance",
+          "words": [
+            {
+              "word": "press",
+              "explanation": "a machine that pushes ink onto paper"
+            },
+            {
+              "word": "movable",
+              "explanation": "easy to move and use again in a new place"
+            },
+            {
+              "word": "humanist",
+              "explanation": "a scholar who studies language, history, and poetry"
+            },
+            {
+              "word": "source",
+              "explanation": "the oldest text, where an idea first comes from"
+            }
+          ],
+          "main_image": {
+            "description": "A book stall in a university town square: students in fifteenth-century clothes leaf through small printed books laid out on the stall, the seller talks with one of them, town houses behind. Production note: all pages at sharp angles or out of focus — absolutely no readable letters; busy but calm mood.",
+            "caption": "Printed books cost little. Ideas travel fast now.",
+            "shutterstock_query": "medieval book stall town square students market historical illustration",
+            "ai_prompt": "Warm historical illustration of a book stall in a fifteenth-century university town square: students in long robes leafing through small printed books on the stall, the seller talking with one of them, town houses and soft daylight behind; all pages at sharp angles or out of focus, no readable letters, no text."
+          },
+          "side_image": {
+            "description": "A young scholar in a plain fifteenth-century robe reads a small printed book by a window, sitting at a simple wooden table. Supports the card's idea that printed pages now reach students far away. Production note: the pages angled away from the viewer or out of focus — no readable text of any kind.",
+            "caption": "Far from Italy, a young scholar reads the printed pages.",
+            "shutterstock_query": "young scholar reading small book window fifteenth century illustration",
+            "ai_prompt": "Calm vertical illustration of a young scholar in a plain fifteenth-century robe reading a small printed book by a window, simple wooden table, soft daylight on his face and hands; the pages angled away or out of focus, no readable text, no letters."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Sharp break or slow change?",
+          "category": "exploration",
+          "text_sentences": [
+            "Historians give names to the periods of the past.",
+            "But who chooses the names, and where do the lines go?",
+            "Period X shows how hard this is.",
+            "About 160 years ago, the Swiss historian Jacob Burckhardt writes a famous book about it.",
+            "He says: in Italy, six or seven hundred years ago, old art and learning are born again.",
+            "People there discover the world and themselves, he writes.",
+            "Later historians doubt this sharp, clean break.",
+            "Life for most farmers changes little in these years.",
+            "Scholars in the centuries before also read old Roman texts.",
+            "Some historians say: the sharp break is a story told long afterwards.",
+            "Today, many see both continuity and real new things in art and learning."
+          ],
+          "question": "Which period is this?",
+          "options": [
+            "The Middle Ages",
+            "The Enlightenment",
+            "The Renaissance",
+            "The Reformation"
+          ],
+          "correct": "The Renaissance",
+          "words": [
+            {
+              "word": "historian",
+              "explanation": "a person who studies and writes about the past"
+            },
+            {
+              "word": "doubt",
+              "explanation": "to not feel sure that something is true"
+            },
+            {
+              "word": "continuity",
+              "explanation": "when life goes on without a sharp change"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet museum wall with two framed paintings side by side: on the left, an older-style painting of a standing woman in a long robe, flat against a plain gold background; on the right, a painting of a woman in a long robe inside a deep room with a tiled floor and a window. One visitor stands between them, seen from behind. Production note: both artworks are invented and generic, not real famous paintings; the figures are modestly dressed and not identifiable holy persons; no museum labels, signs, or readable text anywhere; AI generation is the primary path, the stock query is a style reference.",
+            "caption": "A sharp break, or a slow change? Historians do not agree.",
+            "shutterstock_query": "museum wall two framed paintings visitor comparison",
+            "ai_prompt": "Photorealistic museum scene: two framed paintings side by side on a plain wall — left, a flat medieval-style portrait of a standing woman in a long robe on a gold background; right, a renaissance-style painting of a woman in a long robe in a deep room with tiled floor and window — one visitor seen from behind between them, soft gallery light; both artworks invented and generic, no labels, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "A historian's desk from about 160 years ago, vertical composition: an open notebook with blank pages, an ink pen, a small brass lamp, a globe, and eyeglasses on dark wood. Supports the word 'historian'. Production note: the notebook pages and all book spines must be blank — no readable text, letters, or numbers; calm evening light.",
+            "caption": "A historian writes about a period hundreds of years after it ends.",
+            "shutterstock_query": "nineteenth century desk notebook ink pen globe lamp still life",
+            "ai_prompt": "Photorealistic vertical still life of a nineteenth-century scholar's desk: an open notebook with blank pages, an ink pen, a small brass oil lamp, a globe, and eyeglasses on dark polished wood, warm evening light; all pages and book spines blank, no readable text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "leonardo-da-vinci",
+      "person": "Leonardo da Vinci",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Apprentice Who Asks Why",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X lives in Italy more than five hundred years ago.",
+            "He is born in a small village among hills.",
+            "As a boy, he draws everything he sees.",
+            "His father takes him to the rich city of Florence.",
+            "There he becomes an apprentice in a famous workshop.",
+            "He learns to paint, to mix colors, and to shape metal.",
+            "But he asks questions about everything.",
+            "He asks why birds fly and how water moves.",
+            "A story tells: one day the student paints better than his master.",
+            "Later he paints a portrait of a woman with a quiet smile.",
+            "Today it may be the most famous painting in the world."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Raphael",
+            "Galileo Galilei"
+          ],
+          "correct": "Leonardo da Vinci",
+          "words": [
+            {
+              "word": "apprentice",
+              "explanation": "a young person who learns a job from a master"
+            },
+            {
+              "word": "workshop",
+              "explanation": "a room where people make things with their hands"
+            },
+            {
+              "word": "portrait",
+              "explanation": "a painting of a person"
+            }
+          ],
+          "main_image": {
+            "description": "A warm Renaissance workshop scene in Florence: a young apprentice in simple clothes watches an older master paint at a wooden easel, while other helpers grind colors and shape a small metal figure in the background. Production note: all faces generic, no recognizable named portrait, no famous painting visible or copied; no text, letters, or signatures anywhere in the image.",
+            "caption": "A young apprentice learns from a master in the workshop.",
+            "shutterstock_query": "renaissance painter workshop apprentice easel historical illustration",
+            "ai_prompt": "Warm storybook illustration of a Renaissance workshop in Italy: a young apprentice watches an older master paint at a wooden easel, helpers grind pigments and shape a small metal figure in the background, soft window light; all faces generic, the canvas shows only vague unfinished shapes, no text, no letters, no signatures."
+          },
+          "side_image": {
+            "description": "Close-up of young hands grinding bright blue and red pigment powder with a stone on a stone slab, small bowls of powdered color around. The picture helps explain the words 'apprentice' and 'workshop': mixing colors is the apprentice's daily work. Production note: hands and tools only, no faces, no text or letters.",
+            "caption": "An apprentice grinds and mixes the colors for the paint.",
+            "shutterstock_query": "grinding pigment powder historical paint making hands closeup",
+            "ai_prompt": "Photorealistic close-up of young hands grinding bright blue pigment powder with a grinding stone on a stone slab, small bowls of red and yellow powdered color nearby, warm workshop light; no faces, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Notebooks Written Backwards",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X is an artist and thinker in Italy, about five hundred years ago.",
+            "He carries a small notebook on his belt.",
+            "He fills page after page with drawings and notes.",
+            "Machines, rivers, plants, faces: he draws everything.",
+            "In all, thousands of pages survive today.",
+            "But his writing runs from right to left.",
+            "Every letter is turned, as in a mirror.",
+            "To read it, you can hold the page to a mirror.",
+            "Maybe he hides his ideas from curious eyes.",
+            "Or maybe it is simply easier for his left hand.",
+            "Writing this way, the wet ink does not smear.",
+            "He plans big books, but he never finishes them."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Johannes Gutenberg",
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Leonardo da Vinci"
+          ],
+          "correct": "Leonardo da Vinci",
+          "words": [
+            {
+              "word": "notebook",
+              "explanation": "a small book with empty pages for writing and drawing"
+            },
+            {
+              "word": "mirror",
+              "explanation": "glass in which you can see yourself"
+            },
+            {
+              "word": "curious",
+              "explanation": "wanting very much to know things"
+            },
+            {
+              "word": "smear",
+              "explanation": "to make wet ink dirty by touching it"
+            }
+          ],
+          "main_image": {
+            "description": "An old notebook lies open on a dark wooden table, seen at an angle in warm candlelight. The pages show small sketches of a water wheel, swirling water, and a plant, surrounded by dense lines of handwriting. IMPORTANT production note: the mirror-writing motif must carry no readable letters — all script is rendered as vague, blurred, decorative flowing marks only, not readable in any language, not even when mirrored; no real alphabet, no signatures.",
+            "caption": "He fills page after page with drawings and notes.",
+            "shutterstock_query": "old notebook sketches manuscript candlelight wooden table",
+            "ai_prompt": "Atmospheric photorealistic image of an old open notebook on a dark wooden table at an angle, pages with small ink sketches of a water wheel, swirling water and a plant, dense handwriting rendered only as vague blurred decorative marks, warm candlelight; no readable letters in any language, no signatures, no text."
+          },
+          "side_image": {
+            "description": "A hand holds a small round mirror next to an old handwritten page, so the page and its reflection are both visible. The picture helps explain the word 'mirror' and the idea of backwards writing. IMPORTANT production note: the writing on the page and in the reflection must be completely unreadable — soft, out-of-focus decorative strokes only, no real letters in any direction.",
+            "caption": "Hold the page to a mirror, and the writing turns the right way.",
+            "shutterstock_query": "hand holding small mirror old manuscript page reflection",
+            "ai_prompt": "Photorealistic close-up of a hand holding a small round mirror beside an old handwritten page, the reflection visible in the glass, warm library light; all writing on page and in reflection is soft unreadable decorative strokes only, no real letters, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "What Is Under the Skin",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X, a painter in Italy, lives about five hundred years ago.",
+            "He wants to paint people as they really are.",
+            "So he asks: what is under the skin?",
+            "Doctors at a hospital let him study the dead.",
+            "He works at night, carefully, layer by layer.",
+            "He draws every muscle, every bone, every vein.",
+            "He draws the heart and its small doors.",
+            "He draws how a baby lies in the womb.",
+            "His anatomy drawings are centuries ahead of their time.",
+            "But he keeps them in his private papers.",
+            "Doctors learn nothing from them for hundreds of years.",
+            "The artist's eye sees what science has not yet seen."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Leonardo da Vinci",
+            "Michelangelo",
+            "Charles Darwin",
+            "Isaac Newton"
+          ],
+          "correct": "Leonardo da Vinci",
+          "words": [
+            {
+              "word": "muscle",
+              "explanation": "a part of the body that moves your bones"
+            },
+            {
+              "word": "vein",
+              "explanation": "a thin tube that carries blood in the body"
+            },
+            {
+              "word": "womb",
+              "explanation": "the place inside a mother where a baby grows"
+            },
+            {
+              "word": "anatomy",
+              "explanation": "the science of how the body is built"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet night study in Renaissance Italy: a man in simple period clothes, seen from behind, sits at a candlelit desk and draws on large sheets of paper. On the sheets, only faint sketch lines of an arm and a hand are suggested. Production note: the man stays anonymous, seen from behind; no dead body, no blood, nothing scary in the room; all sketch lines vague, no readable letters, numbers, or labels anywhere.",
+            "caption": "At night he draws what is under the skin.",
+            "shutterstock_query": "renaissance scholar candlelit desk drawing night study illustration",
+            "ai_prompt": "Atmospheric realistic illustration: a man in simple Renaissance clothes seen from behind at a candlelit wooden desk, drawing on large paper sheets with faint suggested sketch lines of an arm and a hand, dark calm room, warm candlelight; no body, no blood, no readable letters or labels, no text."
+          },
+          "side_image": {
+            "description": "An old-paper style red chalk drawing of a human heart, shown alone on a worn sheet, in the manner of a Renaissance anatomical study. The picture helps explain the line about the heart and its small doors, the valves. Production note: drawing only, calm and scientific, not bloody; absolutely no letters, numbers, or labels on the sheet.",
+            "caption": "He draws the heart and its small doors.",
+            "shutterstock_query": "red chalk anatomical heart drawing old paper renaissance style",
+            "ai_prompt": "A red chalk anatomical drawing of a human heart on worn old paper, Renaissance study style, calm scientific mood, soft light; no blood, no letters, no numbers, no labels, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Wings on Paper",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X lives in Italy about five hundred years ago.",
+            "Rich rulers pay him as their engineer.",
+            "For them he plans bridges, canals, and machines of war.",
+            "Yet he writes: war is a beastly madness.",
+            "But he has a dream of his own: humans should fly.",
+            "He watches birds and bats for hours.",
+            "He draws wings for a man to flap.",
+            "He draws a screw to climb the air.",
+            "He draws a cloth tent to fall slowly: a parachute.",
+            "Almost none of these machines are built in his lifetime.",
+            "Human muscles are too weak, and there is no motor.",
+            "Centuries later, people test some designs, and a few really work."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Isaac Newton",
+            "Johannes Gutenberg",
+            "Leonardo da Vinci",
+            "Galileo Galilei"
+          ],
+          "correct": "Leonardo da Vinci",
+          "words": [
+            {
+              "word": "engineer",
+              "explanation": "a person who plans and builds machines, roads, or bridges"
+            },
+            {
+              "word": "canal",
+              "explanation": "a river dug by people, for boats or water"
+            },
+            {
+              "word": "beastly",
+              "explanation": "wild and cruel, like a dangerous animal"
+            },
+            {
+              "word": "parachute",
+              "explanation": "a big cloth that lets a person fall slowly and safely"
+            }
+          ],
+          "main_image": {
+            "description": "A workbench in a bright historical workshop: large paper sheets with faint sketch lines of bat-like wings, and on the bench one small unfinished test wing of thin wood, rope, and cloth, with simple tools beside it. No finished machine, no pilot. Production note: the wing is clearly a small model, not a whole aircraft; all sketch lines vague; no text, letters, numbers, or labels anywhere.",
+            "caption": "He draws wings, but human muscles are too weak.",
+            "shutterstock_query": "historical workshop bench wing model wood cloth sketches",
+            "ai_prompt": "Photorealistic image of a workbench in a bright historical workshop, large paper sheets with faint sketch lines of bat-like wings, one small unfinished test wing of thin wood, rope and cloth lying on the bench, simple hand tools beside it, soft light from a high window, calm mood; no finished machine, no people, all sketches vague, no text, no letters, no labels."
+          },
+          "side_image": {
+            "description": "A pyramid-shaped parachute of pale cloth floats high in a clear blue sky, with a small anonymous figure hanging far below it. The picture helps explain the word 'parachute' and shows the old design really working. Production note: the figure is tiny and anonymous; peaceful scene, clearly safe; no text, letters, or logos on the cloth.",
+            "caption": "A tent of cloth lets a person fall slowly.",
+            "shutterstock_query": "pyramid parachute cloth sky historical design test",
+            "ai_prompt": "Photorealistic image of a pyramid-shaped parachute of pale linen cloth floating high in a clear blue sky, a tiny anonymous figure hanging below on ropes, calm and safe mood, soft daylight; no text, no letters, no logos."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The Scattered Pages",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X, an Italian artist and thinker, dies about five hundred years ago.",
+            "How can we know his ideas today?",
+            "He leaves thousands of notebook pages to a loyal student.",
+            "After that student's death, the pages begin to travel.",
+            "Collectors buy them, cut them, and mix their order.",
+            "Today the pages lie in libraries in several lands.",
+            "Two lost notebooks appear again in Spain, only about sixty years ago.",
+            "Scholars think that perhaps half of all pages are gone.",
+            "Historians must date every page and rebuild the order.",
+            "People say he is good in almost every field.",
+            "But researchers still ask: lone genius, or man of a big workshop full of helpers?",
+            "Every claim about him rides on the scattered pages."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Michelangelo",
+            "Leonardo da Vinci",
+            "Nicolaus Copernicus",
+            "Galileo Galilei"
+          ],
+          "correct": "Leonardo da Vinci",
+          "words": [
+            {
+              "word": "collector",
+              "explanation": "a person who buys and keeps old or rare things"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies books deeply"
+            },
+            {
+              "word": "genius",
+              "explanation": "a person with a very great mind"
+            },
+            {
+              "word": "scattered",
+              "explanation": "spread out to many different places"
+            }
+          ],
+          "main_image": {
+            "description": "A conservator in white gloves arranges loose worn sketch pages of different sizes on a glowing light table, trying to fit them together like a puzzle, a dark room around the bright table. Production note: the conservator can be any gender, face calm and generic or out of frame; all sketch lines and writing on the pages are vague and unreadable, no real letters in any language, no recognizable famous artwork.",
+            "caption": "A scholar asks: where does this page belong?",
+            "shutterstock_query": "conservator light table old paper fragments gloves restoration",
+            "ai_prompt": "Photorealistic image of a conservator in white gloves arranging loose worn sketch pages of different sizes on a glowing light table, fitting them together like a puzzle, dark room around the bright table, quiet concentrated mood; all writing and sketches vague and unreadable, no real letters, no text."
+          },
+          "side_image": {
+            "description": "A simple parchment-style map of Europe with small worn paper fragments lying on different countries, joined by thin dotted travel lines. The picture shows how the scattered pages travel to collectors in many lands. IMPORTANT production note: absolutely no letters, numbers, place names, or readable symbols on the map or on the fragments.",
+            "caption": "The pages travel to many lands, cut and sold.",
+            "shutterstock_query": "old parchment map europe paper fragments concept no labels",
+            "ai_prompt": "A simple parchment-style map showing the shape of Europe, small worn blank paper fragments lying on different countries, thin dotted lines joining them, warm paper tones, soft light; no letters, no numbers, no place names, no readable symbols, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "johannes-gutenberg",
+      "person": "Johannes Gutenberg",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Book That Costs a Farm",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X lives in Europe, about 600 years ago.",
+            "At this time, every book is written by hand.",
+            "A worker called a scribe copies every page.",
+            "One thick book can take years of work.",
+            "A book can cost as much as a farm.",
+            "Some libraries even chain their books to the shelf.",
+            "Most people never own a book.",
+            "Mr X is a metal worker with a new idea.",
+            "In his workshop, he builds a machine that makes book pages.",
+            "The machine makes hundreds of copies of a page in one day.",
+            "Slowly, books become cheap enough for more homes."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Leonardo da Vinci",
+            "Johannes Gutenberg",
+            "Martin Luther",
+            "Nicolaus Copernicus"
+          ],
+          "correct": "Johannes Gutenberg",
+          "words": [
+            {
+              "word": "scribe",
+              "explanation": "a person whose job is writing"
+            },
+            {
+              "word": "chain",
+              "explanation": "to lock something to a place with metal rings"
+            },
+            {
+              "word": "workshop",
+              "explanation": "a room or building where people make things"
+            }
+          ],
+          "main_image": {
+            "description": "A medieval scriptorium: a scribe in a simple robe sits at a slanted wooden desk and writes with a feather pen by candlelight, shelves with a few closed books behind him. Production note: the page he writes on must be blank or turned away at a sharp angle — no readable letters, words, or numbers anywhere in the image. Reject any stock result with readable script or museum labels.",
+            "caption": "A scribe copies one page at a time. A whole book takes years.",
+            "shutterstock_query": "medieval scriptorium monk scribe writing candlelight illustration",
+            "ai_prompt": "Warm historical illustration of a medieval scribe in a simple robe writing with a feather pen at a slanted wooden desk, candlelight, a few closed books on shelves behind, quiet mood; the page is blank, no readable letters, no text."
+          },
+          "side_image": {
+            "description": "Close view of one thick leather book with metal clasps on a dark wooden shelf, locked to the shelf with an iron chain. The picture helps explain the word 'chain' and shows how costly a book is. Production note: book closed, cover plain or with simple tooling only — no letters, titles, or symbols.",
+            "caption": "A book is so costly that the library chains it to the shelf.",
+            "shutterstock_query": "chained library medieval book iron chain shelf",
+            "ai_prompt": "Photorealistic close-up of a thick leather-bound medieval book with brass clasps on a dark wooden shelf, an iron chain locking it to the shelf, soft window light; plain cover, no letters, no titles, no text."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A Wine Press for Words",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X is a goldsmith in the German city of Mainz.",
+            "About 600 years ago, he builds a new way to make books.",
+            "He makes small metal blocks, one letter on each block.",
+            "With a hand mold, he pours thousands of equal blocks.",
+            "A worker sets the blocks in rows to build a page.",
+            "The worker covers the blocks with thick, sticky ink.",
+            "A strong press, like a wine press, pushes paper onto the blocks.",
+            "One pull of the press prints a whole page.",
+            "The press makes copy after copy of the same page.",
+            "Then the workers take the rows apart.",
+            "The same blocks now build the next page.",
+            "A box of metal letters can print any book in his language."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Aldus Manutius",
+            "Leonardo da Vinci",
+            "Nicolaus Copernicus",
+            "Johannes Gutenberg"
+          ],
+          "correct": "Johannes Gutenberg",
+          "words": [
+            {
+              "word": "goldsmith",
+              "explanation": "a person who makes fine things from gold and other metals"
+            },
+            {
+              "word": "mold",
+              "explanation": "a hollow form; you pour something in, and it takes that shape"
+            },
+            {
+              "word": "ink",
+              "explanation": "the colored liquid used for writing and printing"
+            },
+            {
+              "word": "press",
+              "explanation": "a machine that pushes two things hard together"
+            }
+          ],
+          "main_image": {
+            "description": "Interior of a 15th-century printing workshop: a large wooden screw press in the middle, one worker pulls the long press bar, another hangs fresh pages up to dry in the background. Production note: all printed pages must be blank, out of focus, or seen at a sharp angle — no readable letters anywhere; reject stock photos where words or museum signs can be read.",
+            "caption": "A strong press pushes the paper onto the inked letter blocks.",
+            "shutterstock_query": "historical printing press workshop wooden screw press reenactment",
+            "ai_prompt": "Warm realistic illustration of a 15th-century printing workshop, a large wooden screw press in the center, one worker pulling the press bar, another hanging fresh paper sheets to dry, window light, wood tones; all sheets blank or unreadable, no letters, no text."
+          },
+          "side_image": {
+            "description": "A hand holds one small rectangular metal letter block seen from the side, with rows of similar blocks in a wooden tray blurred behind. The picture supports the card's key idea of single letter blocks. Production note: the top face of every block must be turned away from the camera, worn, or out of focus — no readable letter shapes at all.",
+            "caption": "One small metal block for each letter. Rows of blocks build a page.",
+            "shutterstock_query": "metal movable type block hand closeup letterpress tray",
+            "ai_prompt": "Photorealistic close-up of fingers holding a small rectangular metal block seen from the side, a wooden tray full of similar metal blocks blurred in the background, warm workshop light; block faces turned away or out of focus, no readable letters, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Not the First in the World",
+          "category": "renaissance",
+          "text_sentences": [
+            "In Mainz, Mr X builds his famous printing workshop, about 600 years ago.",
+            "But he is not the first to print with movable letters.",
+            "In China, printers press whole book pages from carved wood blocks, centuries before him.",
+            "One Chinese printer even makes single letters of baked clay.",
+            "In Korea, printers cast letters of metal before Mr X is born.",
+            "One Korean book printed this way still exists today.",
+            "So what does Mr X really add?",
+            "Chinese writing uses thousands of different signs.",
+            "A European alphabet needs only about two dozen letters.",
+            "Mr X packs the whole craft into one cheap, fast system.",
+            "Any town with money can start its own workshop.",
+            "Within fifty years, printing workshops open all across Europe."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Johannes Gutenberg",
+            "Aldus Manutius",
+            "Leonardo da Vinci",
+            "Galileo Galilei"
+          ],
+          "correct": "Johannes Gutenberg",
+          "words": [
+            {
+              "word": "carve",
+              "explanation": "to cut a shape into wood or stone with a tool"
+            },
+            {
+              "word": "clay",
+              "explanation": "soft earth that becomes hard when you bake it"
+            },
+            {
+              "word": "cast",
+              "explanation": "to make a thing by pouring hot metal into a form"
+            }
+          ],
+          "main_image": {
+            "description": "A traditional East Asian printing workshop: a craftsman in historical Korean or Chinese dress brushes ink onto a carved wooden printing block and rubs a paper sheet on it by hand; finished sheets lie beside him. Respectful, skilled, calm scene. Production note: no caricatures; all carved signs and printed sheets must be abstract, worn, or unreadable — no real characters of any script.",
+            "caption": "In East Asia, printers make book pages centuries before Mr X.",
+            "shutterstock_query": "traditional east asian woodblock printing craftsman workshop",
+            "ai_prompt": "Respectful realistic illustration of a historical East Asian printing workshop, a craftsman in traditional dress brushing ink onto a carved wooden block and rubbing a paper sheet onto it by hand, finished sheets beside him, soft daylight; all carvings and sheets abstract and unreadable, no real characters, no text."
+          },
+          "side_image": {
+            "description": "Close view of hands shaping small square blocks of soft clay, with a tray of finished clay blocks drying beside them. The picture helps explain the word 'clay' and the idea of single letters. Production note: the block faces must be blank, turned away, or unreadable — no characters or letters of any script. Stock is unlikely to match; use the AI prompt as the primary route.",
+            "caption": "A printer in China makes single letters from clay, long before Mr X.",
+            "shutterstock_query": "hands shaping small clay blocks craft closeup",
+            "ai_prompt": "Photorealistic close-up of hands shaping a small square block of soft brown clay at a wooden table, a tray of similar small clay blocks drying beside, warm light; all block faces blank or turned away, no characters, no letters, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Ideas Too Fast to Stop",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X of Mainz starts Europe's age of cheap printed books.",
+            "A printed book costs far less than a hand-written book.",
+            "Printers also sell small news booklets for little money.",
+            "A new idea can now cross a land in weeks.",
+            "About fifty years after Mr X dies, a German monk gets angry.",
+            "The church sells special papers, and buyers believe the papers bring God's forgiveness.",
+            "The monk writes sharp points against this sale.",
+            "Printers turn his protest into thousands of cheap copies.",
+            "The quarrel grows and splits the church in western Europe.",
+            "Kings and church leaders try to control the presses.",
+            "They learn that printed ideas are hard to stop.",
+            "Without the machine of Mr X, the protest may stay small."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Martin Luther",
+            "Aldus Manutius",
+            "Johannes Gutenberg",
+            "Nicolaus Copernicus"
+          ],
+          "correct": "Johannes Gutenberg",
+          "words": [
+            {
+              "word": "monk",
+              "explanation": "a religious man who lives a simple life for his faith"
+            },
+            {
+              "word": "forgiveness",
+              "explanation": "when someone stops being angry about a wrong thing you did"
+            },
+            {
+              "word": "protest",
+              "explanation": "strong words or actions against something"
+            },
+            {
+              "word": "quarrel",
+              "explanation": "a long, angry fight with words"
+            }
+          ],
+          "main_image": {
+            "description": "A lively 16th-century town square: a man stands on a step and reads aloud from a printed sheet while a mixed crowd of townspeople listens; a small stall sells thin booklets nearby. Production note: every sheet and booklet must be blank, at a sharp angle, or out of focus — no readable words; calm and curious mood, no anger or violence in the scene.",
+            "caption": "Cheap printed sheets carry new ideas from town to town.",
+            "shutterstock_query": "renaissance town square crowd listening reader illustration",
+            "ai_prompt": "Warm historical illustration of a 16th-century European town square, a man on a step reading aloud from a printed sheet, a mixed crowd of townspeople listening with interest, a small stall with thin booklets nearby, daylight; all paper blank or unreadable, no letters, no text."
+          },
+          "side_image": {
+            "description": "A printer's stall at the edge of a town square: a seller hands a thin printed booklet to a buyer, more thin booklets in low stacks on the wooden counter, townspeople passing behind. The picture supports the card's idea of cheap printed booklets spreading ideas. Production note: all pages and covers at a sharp angle, blurred, or out of focus — no readable letters anywhere; calm everyday mood.",
+            "caption": "Thin printed papers pass from hand to hand in the market.",
+            "shutterstock_query": "historical market stall printed pamphlets seller buyer illustration",
+            "ai_prompt": "Warm vertical illustration of a printer's stall at the edge of a sixteenth-century town square, a seller handing a thin printed booklet to a buyer, low stacks of thin booklets on the wooden counter, townspeople passing behind, soft daylight; all pages at sharp angles or out of focus, no readable letters, no text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The Famous Man We Hardly Know",
+          "category": "renaissance",
+          "text_sentences": [
+            "Mr X of Mainz is called the father of European printing.",
+            "Yet historians know very little about the man.",
+            "No document records his birth, and no true portrait of him exists.",
+            "Even his famous printed Bible does not name its maker.",
+            "We know him mostly from money papers and court records.",
+            "He borrows a fortune from a business partner for his workshop.",
+            "Later, the partner takes him to court over the money.",
+            "Mr X loses the case.",
+            "Historians think the partner then takes over the Bible workshop.",
+            "Scholars also debate the word \"revolution\".",
+            "One famous study says print changes Europe fast and deeply.",
+            "Critics answer that people, not machines, make change, and slowly."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Laurens Janszoon Coster",
+            "Johannes Gutenberg",
+            "Aldus Manutius",
+            "Leonardo da Vinci"
+          ],
+          "correct": "Johannes Gutenberg",
+          "words": [
+            {
+              "word": "document",
+              "explanation": "an official paper with information"
+            },
+            {
+              "word": "portrait",
+              "explanation": "a picture of a person's face"
+            },
+            {
+              "word": "court",
+              "explanation": "the place where a judge decides who is right"
+            },
+            {
+              "word": "debate",
+              "explanation": "a public fight with arguments, not weapons"
+            }
+          ],
+          "main_image": {
+            "description": "Close view of an old folded parchment document with a hanging red wax seal on a dark wooden table, a magnifying glass beside it, soft lamp light. No person in the image. Production note: all script on the document must be faded, blurred, or unreadable — no readable words, names, or numbers; the seal plain, no readable symbols.",
+            "caption": "A historian studies old money papers and court records.",
+            "shutterstock_query": "old parchment document hanging wax seal magnifying glass table",
+            "ai_prompt": "Photorealistic close view of an old folded parchment document with a hanging red wax seal on a dark wooden table, a magnifying glass beside it, soft lamp light, quiet mood; no person, all script faded and unreadable, plain seal, no readable words, no letters, no numbers, no text."
+          },
+          "side_image": {
+            "description": "An ornate, empty gilded picture frame hanging on a dark paneled wall in museum-like light, nothing inside the frame but shadowed wall. The picture supports the word 'portrait' and the card's key idea. Production note: no plaque, label, or lettering anywhere; the frame is clearly empty.",
+            "caption": "No true portrait of Mr X exists. The frame stays empty.",
+            "shutterstock_query": "empty ornate gilded picture frame dark wall",
+            "ai_prompt": "Photorealistic image of an ornate empty gilded picture frame hanging on a dark wood-paneled wall, museum-style spotlight, only shadowed wall inside the frame, quiet mood; no plaque, no label, no letters, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "christopher-columbus",
+      "person": "Christopher Columbus",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Three Ships on an Unknown Sea",
+          "category": "renaissance",
+          "text_sentences": [
+            "Captain X lives about 500 years ago, in Europe.",
+            "The queen and king of Spain give him three small wooden ships.",
+            "He sails west, into the open ocean.",
+            "No map shows how far the water goes.",
+            "About ninety sailors are on board.",
+            "They eat hard bread, salted meat, and dried peas.",
+            "They drink water and wine from wooden barrels.",
+            "Most sailors sleep on the deck, under the stars.",
+            "After more than four weeks, the crew grows afraid.",
+            "Then, one night, a lookout sees land ahead.",
+            "The ships land on a green island in a warm sea.",
+            "People already live there, and they meet the sailors on the beach."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Ferdinand Magellan",
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Leif Eriksson"
+          ],
+          "correct": "Christopher Columbus",
+          "words": [
+            {
+              "word": "barrel",
+              "explanation": "a big round wooden container for food or drink"
+            },
+            {
+              "word": "deck",
+              "explanation": "the open floor of a ship"
+            },
+            {
+              "word": "crew",
+              "explanation": "all the people who work on a ship"
+            },
+            {
+              "word": "lookout",
+              "explanation": "a sailor whose job is to watch for land or danger"
+            }
+          ],
+          "main_image": {
+            "description": "Three small wooden sailing ships of about 500 years ago cross a vast open ocean, seen from behind and from a distance, sailing toward the far horizon in warm evening light. No land in sight. Production note: the crews stay tiny and anonymous; all sails and flags completely plain, no crosses, symbols, letters, or text anywhere in the image.",
+            "caption": "Three small ships sail west. No map shows the way.",
+            "shutterstock_query": "three small wooden sailing ships 15th century open ocean historical",
+            "ai_prompt": "Cinematic wide shot of three small wooden sailing ships from about 500 years ago crossing a vast open ocean, seen from behind at a distance, sailing toward the horizon in warm evening light, no land visible, calm epic mood; all sails plain, no crosses, no symbols, no flags with markings, no text, no letters."
+          },
+          "side_image": {
+            "description": "Close view of the wooden deck of an old sailing ship: a large wooden barrel, hard round bread, and coiled ropes in soft morning light. The picture helps explain the words 'barrel' and 'deck'. Production note: no people in focus, no text, letters, stamps, or symbols on the barrel or anywhere else.",
+            "caption": "Food and water for the long voyage travel in wooden barrels.",
+            "shutterstock_query": "wooden barrel old ship deck ropes closeup",
+            "ai_prompt": "Photorealistic close-up on the wooden deck of a historical sailing ship: a large wooden barrel, hard round bread on a cloth, coiled ropes, soft morning light at sea, calm mood; no people in focus, no stamps, no symbols, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Wrong Size of the World",
+          "category": "renaissance",
+          "text_sentences": [
+            "Captain X is a sailor from a port city in Italy.",
+            "In his time, educated people know well that the earth is round.",
+            "The open question is how big the earth is.",
+            "Captain X reads old travel books and makes his own calculation.",
+            "His answer is far too small.",
+            "So he believes Asia lies only a few weeks west of Europe.",
+            "Experts in Portugal and in Spain check his numbers and say the ocean is far too wide.",
+            "The experts are right, but the rulers of Spain pay for his voyage anyway.",
+            "He sails west, and he does find islands.",
+            "He believes they lie near India, so he calls the people there Indians.",
+            "He makes four voyages, and he dies still sure that he has been to Asia.",
+            "He never learns that a continent unknown to Europe blocks his way."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Christopher Columbus",
+            "Marco Polo",
+            "Vasco da Gama",
+            "Amerigo Vespucci"
+          ],
+          "correct": "Christopher Columbus",
+          "words": [
+            {
+              "word": "calculation",
+              "explanation": "finding an answer with numbers"
+            },
+            {
+              "word": "expert",
+              "explanation": "a person who knows one subject very well"
+            },
+            {
+              "word": "voyage",
+              "explanation": "a long journey by ship"
+            },
+            {
+              "word": "continent",
+              "explanation": "one of the biggest land areas of the earth, like Africa or Asia"
+            }
+          ],
+          "main_image": {
+            "description": "A candlelit study of about 500 years ago: rolled parchment sea charts on a wooden table, one chart spread open, an astrolabe and a quadrant of brass beside it; a man in period clothes stands with his back to us, studying the open chart. Production note: the man stays anonymous, face not visible; the charts show only vague coast lines, absolutely no place names, letters, numbers, or readable symbols.",
+            "caption": "How big is the earth? He trusts his own answer.",
+            "shutterstock_query": "rolled nautical charts astrolabe quadrant candlelight study room",
+            "ai_prompt": "Atmospheric realistic scene: a candlelit study from about 500 years ago, rolled parchment sea charts on a wooden table, one chart spread open, a brass astrolabe and a quadrant beside it, a man in period clothes seen from behind studying the chart, warm candlelight, quiet mood; face not visible, charts show only vague coast lines, no place names, no numbers, no text, no letters."
+          },
+          "side_image": {
+            "description": "Close-up of two hands measuring a distance on a blank parchment sea chart with a metal divider tool, candlelight. The picture helps explain the word 'calculation'. Production note: the chart shows only faint coast lines, absolutely no place names, letters, numbers, or grid text; hands anonymous.",
+            "caption": "He measures and counts. A small mistake grows very big.",
+            "shutterstock_query": "hands divider tool parchment nautical chart vintage closeup",
+            "ai_prompt": "Photorealistic close-up: two hands use a metal divider tool to measure a distance on an old parchment sea chart, warm candlelight, quiet mood; the chart shows only faint coast lines, no place names, no numbers, no grid, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Islands Are Not Empty",
+          "category": "renaissance",
+          "text_sentences": [
+            "About 500 years ago, ships from Spain under Captain X reach islands in the Caribbean Sea.",
+            "The islands are not empty.",
+            "The Taíno people have lived there for more than a thousand years.",
+            "They farm cassava and maize, fish from canoes, and sleep in hammocks.",
+            "Words like hammock, canoe, and hurricane come from their language.",
+            "This meeting joins two halves of the world.",
+            "In the years that follow, ships carry maize, tomatoes, cacao, and potatoes east to Europe.",
+            "Other ships carry horses, cows, sugar cane, and wheat west.",
+            "But the ships also carry something invisible.",
+            "Smallpox and measles are new here, and the islanders' bodies have no defense.",
+            "Within about fifty years, most of the Taíno have died.",
+            "Sickness kills far more people than any weapon."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Ferdinand Magellan",
+            "Leif Eriksson",
+            "Amerigo Vespucci",
+            "Christopher Columbus"
+          ],
+          "correct": "Christopher Columbus",
+          "words": [
+            {
+              "word": "cassava",
+              "explanation": "a root plant; people make flour and bread from it"
+            },
+            {
+              "word": "hammock",
+              "explanation": "a hanging bed made of woven cloth or net"
+            },
+            {
+              "word": "smallpox",
+              "explanation": "a deadly sickness with high fever and sores on the skin"
+            },
+            {
+              "word": "defense",
+              "explanation": "protection against an attack or a sickness"
+            }
+          ],
+          "main_image": {
+            "description": "Everyday life in a Taíno village on a Caribbean island before the ships arrive: round wooden houses with palm-leaf roofs, people tending garden plots, cooking, and carrying baskets, dugout canoes pulled up on a white beach, green hills behind. Production note: respectful and realistic, no caricature; no Europeans, no ships on the horizon; peaceful daily life; no text, letters, or symbols anywhere in the image.",
+            "caption": "People farm, fish, and build their homes on these islands.",
+            "shutterstock_query": "taino village caribbean indigenous palm huts canoes illustration",
+            "ai_prompt": "Warm respectful illustration of everyday life in a Taíno village on a Caribbean island: round wooden houses with palm-leaf roofs, people tending garden plots and cooking, dugout canoes on a white beach, green hills, soft tropical light, peaceful documentary mood; no caricature, no Europeans, no ships, no text, no letters."
+          },
+          "side_image": {
+            "description": "A woven hammock hangs between two palm trees near a round house with a palm-leaf roof, gentle tropical light. The picture helps explain the word 'hammock'. Production note: calm and respectful; no people in focus; no text, letters, or symbols anywhere.",
+            "caption": "A hammock, a hanging bed. The word comes from the Taíno language.",
+            "shutterstock_query": "woven hammock palm trees tropical village traditional",
+            "ai_prompt": "Photorealistic image: a hand-woven hammock hangs between two palm trees near a round house with a palm-leaf roof, soft tropical afternoon light, calm mood; no people in focus, no text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Gold, a Colony, and a Priest's Pen",
+          "category": "renaissance",
+          "text_sentences": [
+            "On his second voyage west, Captain X returns to the Caribbean islands with seventeen ships.",
+            "More than a thousand men sail with him, and this time they come to stay.",
+            "Spain makes the islands a colony, and Captain X becomes its governor.",
+            "He orders the Taíno people to bring him gold.",
+            "Those who fail are punished, and families must wash river sand for gold, day after day.",
+            "Some Taíno leaders fight back, but bows cannot stop steel weapons and horses.",
+            "Years later, reports of harsh rule reach Spain.",
+            "A royal officer then sends Captain X home in chains.",
+            "How do we know all this?",
+            "A young colonist named Bartolomé de las Casas comes to the islands.",
+            "Later he becomes a priest and turns against the system.",
+            "He writes down the cruelty he sees, and through his books the Taíno story reaches us today."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Hernán Cortés",
+            "Ferdinand Magellan"
+          ],
+          "correct": "Christopher Columbus",
+          "words": [
+            {
+              "word": "colony",
+              "explanation": "a land that people from another country take and rule"
+            },
+            {
+              "word": "governor",
+              "explanation": "the leader who rules a colony"
+            },
+            {
+              "word": "punish",
+              "explanation": "to make a person suffer for something"
+            },
+            {
+              "word": "cruelty",
+              "explanation": "very unkind acts that hurt people"
+            }
+          ],
+          "main_image": {
+            "description": "A wide field on a Caribbean island about 500 years ago: Taíno families work the ground and carry heavy baskets while a few European colonists in period clothes stand watching over them; in the foreground, at a distance from the work, a young colonist stands still and only watches, his face thoughtful. Production note: calm, factual, and somber, not dramatic; no violence, no whips, no chains, no gore; no writing hand, no quill; respectful faces, no caricature; no text, letters, or symbols anywhere.",
+            "caption": "A young colonist watches the forced work. Later he tells the world.",
+            "shutterstock_query": "colonial era field labor caribbean overseers historical illustration",
+            "ai_prompt": "Somber realistic illustration: a wide field on a Caribbean island about 500 years ago, indigenous families working the ground and carrying heavy baskets, a few European colonists in period clothes standing watch, in the foreground a young colonist standing at a distance and only watching, muted daylight, calm documentary mood; no violence, no whips, no chains, no writing hand, no caricature, no text, no letters."
+          },
+          "side_image": {
+            "description": "A vertical still life on a wooden desk by candlelight: a tall stack of finished handwritten pages, a quill resting in an ink pot beside it, a small window showing a tropical night. No person, no writing hand. The picture shows how one witness's pages can save a story. Production note: all script on every page must be blurred and unreadable, no real words in any language; calm respectful mood; no religious symbols; no text, letters, or labels readable anywhere.",
+            "caption": "Page after page, year after year. His books still speak.",
+            "shutterstock_query": "quill ink pot stack handwritten pages candlelight still life",
+            "ai_prompt": "Quiet warm vertical still life: a tall stack of finished handwritten pages on a wooden desk by candlelight, a quill resting in an ink pot beside it, a small window showing a tropical night sky, calm mood; no person, no writing hand, all script blurred and unreadable, no real words, no religious symbols, no text, no letters."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Discovery on Trial",
+          "category": "renaissance",
+          "text_sentences": [
+            "About 500 years ago, Captain X sails west from Spain and reaches lands unknown to Europe.",
+            "For centuries, schoolbooks tell that he discovers a new world.",
+            "Historians now question every word in that sentence.",
+            "Can anyone discover a land where millions of people already live?",
+            "Sailors from the cold north reach the same lands about 500 years before him.",
+            "Archaeologists find the remains of their houses on the coast of Canada.",
+            "Even the captain's own logbook is a problem: the original is lost.",
+            "We read his words only in a later copy.",
+            "Another writer changes parts of the text.",
+            "Statues of him rise in cities on both sides of the ocean, and now some come down.",
+            "The lands themselves later get the name of a different sailor, not his.",
+            "In parts of the Americas, his old holiday now honors the indigenous peoples instead."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Leif Eriksson",
+            "Amerigo Vespucci",
+            "Christopher Columbus",
+            "Ferdinand Magellan"
+          ],
+          "correct": "Christopher Columbus",
+          "words": [
+            {
+              "word": "logbook",
+              "explanation": "a book where a ship's captain writes what happens every day"
+            },
+            {
+              "word": "archaeologist",
+              "explanation": "a person who digs in the ground to study how people lived long ago"
+            },
+            {
+              "word": "statue",
+              "explanation": "a figure of a person, made of stone or metal"
+            },
+            {
+              "word": "indigenous",
+              "explanation": "belonging to the first peoples of a land"
+            }
+          ],
+          "main_image": {
+            "description": "A weathered stone statue of a sailor from about 500 years ago on a completely plain pedestal, seen from behind in silhouette against a bright evening sky, one arm pointing toward a distant sea. Production note: a generic anonymous figure, face not visible and not detailed; the pedestal is bare stone with absolutely no plaque, letters, numbers, or symbols; thoughtful, questioning mood, not heroic celebration; no text anywhere in the image.",
+            "caption": "For a long time, statues tell only one side of the story.",
+            "shutterstock_query": "old sailor statue pedestal silhouette evening sky monument",
+            "ai_prompt": "Photorealistic image: a weathered stone statue of a sailor from about 500 years ago on a plain bare pedestal, seen from behind in silhouette against a bright evening sky, one arm pointing toward a distant sea, thoughtful somber mood; generic anonymous figure, face not visible, no plaque, no letters, no numbers, no symbols, no text."
+          },
+          "side_image": {
+            "description": "Low grassy mounds, the remains of Viking turf houses, on a green coastal meadow under a cool northern sky, the sea behind. The picture helps explain the word 'archaeologist' and shows that others cross the ocean much earlier. Production note: an empty, quiet landscape; no reconstruction signs, markers, fences, or visitors; no text, letters, or symbols anywhere.",
+            "caption": "Grass-covered house remains in Canada. Archaeologists read the ground like a book.",
+            "shutterstock_query": "viking turf house remains grassy mounds newfoundland coast",
+            "ai_prompt": "Photorealistic landscape: low grassy mounds, the remains of ancient turf houses, on a green coastal meadow under a cool cloudy northern sky, calm sea in the background, quiet timeless mood; no signs, no markers, no fences, no people, no text, no letters."
+          }
+        }
+      ]
     }
   ]
 }

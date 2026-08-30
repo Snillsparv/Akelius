@@ -15,7 +15,7 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 > Miss X lives in France about 600 years ago.  
 > She is a farm girl in a small village.  
 > She watches the animals and helps at home.  
-> She never learns to read or write.  
+> She cannot read or write.  
 > Her land is at war with England, year after year.  
 > One day she tells people a strange thing.  
 > She says holy voices speak to her.  
@@ -62,13 +62,13 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 
 > Miss X is a young woman in France, about 600 years ago.  
 > France and England fight a war that lasts about a hundred years.  
-> English soldiers hold much of northern France.  
-> Now their army surrounds Orléans, a key city on a river.  
+> Now an English army surrounds Orléans, a key city on a river.  
 > The siege lasts many months, and food runs low.  
 > If this city falls, all France may fall.  
 > Miss X says God sends her to save the city.  
 > She rides in with fresh soldiers and food.  
-> She carries a white banner instead of a sword.  
+> She carries a white banner into the fight.  
+> She loves it more than her sword, she says.  
 > The tired defenders find new hope and attack.  
 > Within about a week, the English army leaves.  
 > The long war slowly begins to turn.  
@@ -116,7 +116,7 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 > The judges ask about the voices she says she hears.  
 > They hope to prove that her voices are not from God.  
 > Scribes write down every question and every answer.  
-> The judges want a record that proves them right.  
+> For weeks, they question her, day after day.  
 > She cannot read, yet she answers with care.  
 > One question is a trap: is she in God's grace?  
 > - If I am not, may God put me there, she answers.  
@@ -167,7 +167,7 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 > Then Miss X, a village girl, comes to his court.  
 > She says God sends her to make him true king.  
 > In that age, a sign from God is strong politics.  
-> The prince decides to use her, and it works.  
+> The prince decides to try her help, and it works.  
 > After a big victory, she leads him to Reims.  
 > He is crowned there, and many doubters accept him.  
 > When she is taken prisoner later, her king sends no help.  

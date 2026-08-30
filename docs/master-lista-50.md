@@ -29,11 +29,11 @@ status uppdateras löpande.
 | 20 | The Crusades | Middle Ages |✅ Leverans 3 |
 | 21 | The Black Death | Middle Ages |✅ Leverans 3 |
 | 22 | Genghis Khan | Middle Ages |✅ Leverans 3 |
-| 23 | Joan of Arc | Middle Ages | |
-| 24 | The Renaissance | Renaissance and Exploration | |
-| 25 | Leonardo da Vinci | Renaissance and Exploration | |
-| 26 | Johannes Gutenberg | Renaissance and Exploration | |
-| 27 | Christopher Columbus | Renaissance and Exploration | |
+| 23 | Joan of Arc | Middle Ages |✅ Leverans 4 |
+| 24 | The Renaissance | Renaissance and Exploration |✅ Leverans 4 |
+| 25 | Leonardo da Vinci | Renaissance and Exploration |✅ Leverans 4 |
+| 26 | Johannes Gutenberg | Renaissance and Exploration |✅ Leverans 4 |
+| 27 | Christopher Columbus | Renaissance and Exploration |✅ Leverans 4 |
 | 28 | Ferdinand Magellan | Renaissance and Exploration | |
 | 29 | Nicolaus Copernicus | Renaissance and Exploration | |
 | 30 | Galileo Galilei | Renaissance and Exploration | |
