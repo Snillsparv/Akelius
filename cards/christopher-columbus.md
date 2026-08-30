@@ -151,7 +151,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **Motiv:** A woven hammock hangs between two palm trees near a round house with a palm-leaf roof, gentle tropical light. The picture helps explain the word 'hammock'. Production note: calm and respectful; no people in focus; no text, letters, or symbols anywhere.
 - **Bildtext:** *A hammock, a hanging bed. The word comes from the Taíno language.*
 - **Shutterstock-sökning:** `woven hammock palm trees tropical village traditional`
-- **AI-prompt (alternativ):** Photorealistic image: a hand-woven hammock hangs between two palm trees near a round house with a palm-leaf roof, soft tropical afternoon light, calm mood; no people in focus, no text, no letters, no symbols.
+- **AI-prompt (alternativ):** A traditional hand-woven cotton hammock without wooden spreader bars, tied directly to two palm tree trunks with simple rope knots, gently sagging, beside a simple round dwelling of wooden poles with a palm-leaf thatched roof standing directly on sandy ground, no stairs, no masonry, no plastered walls, warm Caribbean afternoon light, calm and quiet, no people.
 
 ---
 

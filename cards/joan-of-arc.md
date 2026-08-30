@@ -248,6 +248,6 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 - **Motiv:** A gilded statue of a rider on a horse with a plain raised banner, standing on a stone base on a city square, seen from a distance and from a low angle against the evening sky. The picture helps explain the word 'symbol'. Production note: the rider is generic and seen from far away, face not visible in detail; the banner is plain; no inscription, letters, numbers, or readable text on the statue or the base.
 - **Bildtext:** *A statue can turn one person into a symbol for a whole land.*
 - **Shutterstock-sökning:** `gilded equestrian statue city square evening low angle`
-- **AI-prompt (alternativ):** Photorealistic photo of a gilded statue of a rider on a horse holding a plain raised banner, on a stone base on a European city square, seen from a distance at a low angle against warm evening sky; generic rider, face not detailed, plain banner, no inscription, no letters, no numbers, no text.
+- **AI-prompt (alternativ):** Wide view of a quiet old European town square at dusk, a gilded equestrian statue standing small in the upper part of the frame on a plain stone base, seen from a distance at a low angle against the fading evening sky so the rider is almost a silhouette, the rider a generic figure in a simple cloak holding a plain smooth banner, face not visible, generic old European stone buildings around the square, calm evening light, a few pigeons on the cobblestones. No inscription or plaque on the base.
 
 ---

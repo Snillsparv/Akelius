@@ -9,7 +9,9 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**110 kort · 22 ämnen**, samtliga faktagranskade och specgranskade:
+**135 kort · 27 ämnen**, samtliga faktagranskade och specgranskade.
+Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
+svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
 - **Leverans 1** — Sokrates, Platon *(Rogers startförslag)*
 - **Leverans 2** — Aristoteles, Forntida Egypten (pyramiderna), Mesopotamien,
@@ -18,6 +20,8 @@ Akelius översätter till tio andra språk.
 - **Leverans 3** — Antikens Grekland, Olympiska spelen, Augustus, Jesus från
   Nasaret, Muhammed, Bysantinska riket, Vikingarna, Korstågen, Digerdöden,
   Djingis khan
+- **Leverans 4** — Jeanne d'Arc, Renässansen, Leonardo da Vinci, Johannes
+  Gutenberg, Christofer Columbus
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -65,9 +69,9 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(220 st för leverans 1–3: 110 kort × huvudbild + sidobild).
+(270 st för leverans 1–4: 135 kort × huvudbild + sidobild).
 
-**Status: 220 av 220 bilder klara** — samtliga kort i leverans 1–3 har
+**Status: 270 av 270 bilder klara** — samtliga kort i leverans 1–4 har
 huvudbild och sidobild. Varje batch har kvalitetsgranskats bild för bild
 mot sina briefer, och underkända bilder har genererats om.
 
@@ -86,12 +90,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 
 ## Korten
 
-Fullständiga kort med bildbriefer finns i `cards/`-mappen; här visas text,
-svar (✅ = rätt) och ordlista.
-
-<!-- CARDS:START -->
-
-### Forntida Egypten – pyramiderna
+### Forntida Egypten: pyramiderna
 
 <details>
 <summary><b>Kort 1 · Årskurs 6</b> — A land by one long river</summary>
@@ -203,8 +202,7 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
-### Mesopotamien – de första städerna och skriften
+### Mesopotamien: de första städerna och skriften
 
 <details>
 <summary><b>Kort 1 · Årskurs 6</b> — The Land Between Two Rivers</summary>
@@ -314,7 +312,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *receipt* — a note that shows what somebody buys or pays · *scholar* — a person who studies one subject very deeply · *durable* — strong; it lasts a very long time · *wedge-shaped* — looking like small triangles, wide at one end and sharp at the other
 
 </details>
-
 
 ### Hammurabi och hans lagar
 
@@ -427,7 +424,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *rod* — a short straight stick · *war prize* — a special thing that the winners take home after a war · *archaeologist* — a scientist who digs in the earth to find things from the past
 
 </details>
-
 
 ### Fenicierna och alfabetet
 
@@ -545,7 +541,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Sokrates
 
 <details>
@@ -641,7 +636,7 @@ svar (✅ = rätt) och ordlista.
 </details>
 
 <details>
-<summary><b>Kort 5 · Universitet</b> — The Socratic problem</summary>
+<summary><b>Kort 5 · Universitet</b> — Three pictures of one man</summary>
 
 > Mr X writes nothing.  
 > But he changes thinking forever.  
@@ -662,7 +657,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *dialogue* — a written talk between two or more people · *expert* — a person who knows very much about one thing · *refutation* — showing, step by step, that an idea cannot stand · *claim* — something a person says is true
 
 </details>
-
 
 ### Platon
 
@@ -781,7 +775,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Aristoteles
 
 <details>
@@ -894,7 +887,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Alexander den store
 
 <details>
@@ -1006,7 +998,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *legend* — an old famous story; it may be true or not true · *myth* — a story many people tell, but it is not a proven fact · *source* — an old text or thing that gives us information about the past · *historian* — a person who studies the past
 
 </details>
-
 
 ### Romerska republiken och kejsardömet
 
@@ -1125,7 +1116,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Julius Caesar
 
 <details>
@@ -1237,7 +1227,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Konfucius
 
 <details>
@@ -1348,8 +1337,7 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
-### Siddhartha Gautama (Buddha)
+### Siddhartha Gautama
 
 <details>
 <summary><b>Kort 1 · Årskurs 6</b> — The prince who leaves the palace</summary>
@@ -1463,7 +1451,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Antikens Grekland
 
 <details>
@@ -1576,7 +1563,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### De olympiska spelen
 
 <details>
@@ -1688,7 +1674,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Augustus
 
 <details>
@@ -1797,7 +1782,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *carve* — to cut letters or pictures into stone or wood · *dictator* — in Rome, a leader who gets all power alone, for a short time, in an emergency · *historian* — a person who studies the past · *source* — a text or an object that gives us information about the past
 
 </details>
-
 
 ### Jesus från Nasaret
 
@@ -1909,7 +1893,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Muhammed
 
 <details>
@@ -2020,7 +2003,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *source* — a text or thing from the past that gives us knowledge · *hadith* — a story about the words or actions of Mr X · *generation* — parents are one generation; their children are the next · *collection* — many things gathered together in one book or place
 
 </details>
-
 
 ### Bysantinska riket
 
@@ -2134,7 +2116,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Vikingarna
 
 <details>
@@ -2245,7 +2226,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *monk* — a religious man who lives simply and prays; many monks can write · *victim* — a person that something bad happens to · *cruel* — very unkind; a cruel person hurts others · *costume designer* — a person who makes the clothes for a play or a film
 
 </details>
-
 
 ### Korstågen
 
@@ -2358,7 +2338,6 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
-
 ### Digerdöden
 
 <details>
@@ -2470,7 +2449,6 @@ svar (✅ = rätt) och ordlista.
 **Ord:** *chronicle* — an old written record of things that happen, year by year · *tax list* — an old list of people who must pay money to the ruler · *DNA* — a tiny code inside living things that tells what they are · *source* — something from the past that tells us what happened, like a book or a bone
 
 </details>
-
 
 ### Djingis khan
 
@@ -2585,8 +2563,582 @@ svar (✅ = rätt) och ordlista.
 
 </details>
 
+### Jeanne d'Arc
 
-<!-- CARDS:END -->
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Farm Girl in Armor</summary>
+
+> Miss X lives in France about 600 years ago.  
+> She is a farm girl in a small village.  
+> She watches the animals and helps at home.  
+> She cannot read or write.  
+> Her land is at war with England, year after year.  
+> One day she tells people a strange thing.  
+> She says holy voices speak to her.  
+> The voices tell her to save France, she says.  
+> She is only about seventeen years old.  
+> Yet she gets armor, a horse, and a place in the army.  
+> Soon grown soldiers follow the farm girl into battle.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Mulan · ✅ Joan of Arc · ⬜ Cleopatra · ⬜ Boudicca
+
+**Ord:** *armor* — hard metal clothes that keep a soldier safe · *holy* — of God, or close to God · *battle* — a fight between armies
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Siege That Turns a War</summary>
+
+> Miss X is a young woman in France, about 600 years ago.  
+> France and England fight a war that lasts about a hundred years.  
+> Now an English army surrounds Orléans, a key city on a river.  
+> The siege lasts many months, and food runs low.  
+> If this city falls, all France may fall.  
+> Miss X says God sends her to save the city.  
+> She rides in with fresh soldiers and food.  
+> She carries a white banner into the fight.  
+> She loves it more than her sword, she says.  
+> The tired defenders find new hope and attack.  
+> Within about a week, the English army leaves.  
+> The long war slowly begins to turn.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Boudicca · ⬜ Isabella I of Castile · ⬜ Elizabeth I · ✅ Joan of Arc
+
+**Ord:** *siege* — an army waits around a city so no food or help can come in · *banner* — a flag on a pole that soldiers follow · *defender* — a person who fights to keep a place safe
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Every Word Is Written Down</summary>
+
+> Miss X is a young French woman, famous from a long war.  
+> She is captured in battle and sold to the English side.  
+> Simply killing a famous prisoner is not enough for them.  
+> They set up a church court to judge her.  
+> The judges ask about the voices she says she hears.  
+> They hope to prove that her voices are not from God.  
+> Scribes write down every question and every answer.  
+> For weeks, they question her, day after day.  
+> She cannot read, yet she answers with care.  
+> One question is a trap: is she in God's grace?  
+> - If I am not, may God put me there, she answers.  
+> Still, the court finds her guilty, and she is put to death.  
+> **Who is Miss X?**
+
+**Svar:** ✅ Joan of Arc · ⬜ Anne Boleyn · ⬜ Marie Antoinette · ⬜ Mary, Queen of Scots
+
+**Ord:** *capture* — to take a person prisoner · *scribe* — a person whose job is to write things down · *grace* — God's love and help, in Christian belief · *guilty* — the court says: this person did the bad thing
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The Prince Who Needs a Sign</summary>
+
+> About 600 years ago, France is torn by war.  
+> The king of England says the French crown is his.  
+> Many French lords take the English side.  
+> The young French prince is poor and full of doubt.  
+> He is not even crowned in Reims, the city of kings.  
+> Then Miss X, a village girl, comes to his court.  
+> She says God sends her to make him true king.  
+> In that age, a sign from God is strong politics.  
+> The prince decides to try her help, and it works.  
+> After a big victory, she leads him to Reims.  
+> He is crowned there, and many doubters accept him.  
+> When she is taken prisoner later, her king sends no help.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Eleanor of Aquitaine · ⬜ Margaret of Anjou · ✅ Joan of Arc · ⬜ Isabella I of Castile
+
+**Ord:** *crown* — to make a person king or queen in a holy ceremony · *lord* — a rich and powerful man who rules land · *doubt* — a feeling that a thing may not be true or real
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Two Courts, Two Stories</summary>
+
+> Miss X is a French village girl from about 600 years ago.  
+> Most village girls of her time leave no trace.  
+> Yet historians know her better than most kings.  
+> The reason: her famous trial is written down, word for word.  
+> About twenty-five years later, a new court reopens her case.  
+> It listens to her childhood friends and her old soldiers.  
+> Their memories fill page after page.  
+> The first court wants her guilty; the second wants her innocent.  
+> So historians read both records with careful, cool eyes.  
+> Almost five hundred years after her death, the Church names her a saint.  
+> Today she is a national symbol of France.  
+> Many political groups, left and right, use her as their sign.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Bernadette of Lourdes · ✅ Joan of Arc · ⬜ Catherine of Siena · ⬜ Hildegard of Bingen
+
+**Ord:** *trace* — a small sign that a person or thing was there · *record* — a written text that saves what people say and do · *innocent* — not guilty; the person did not do the bad thing · *symbol* — a person or thing that stands for a bigger idea
+
+</details>
+
+### Renässansen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Silk, spices, and new art</summary>
+
+> Period X begins about 600 years ago, in the trading cities of Italy.  
+> These cities grow rich from silk, spices, wool, and banks.  
+> Ships and mule roads connect them with faraway lands.  
+> The richest families want fine art in their homes and churches.  
+> They pay artists to paint walls and build domes.  
+> The artists learn from old Roman statues and buildings.  
+> A young artist starts as a helper in a master's workshop.  
+> He cleans brushes, mixes colors, and copies drawings.  
+> After many years, he can become a master too.  
+> Each city wants finer churches and statues than its neighbors.  
+> So the cities compete with art, not only with ships and gold.  
+> **Which period is this?**
+
+**Svar:** ⬜ The Middle Ages · ✅ The Renaissance · ⬜ The Industrial Revolution · ⬜ The Enlightenment
+
+**Ord:** *spices* — parts of plants that give food a strong taste · *workshop* — a room where a master and helpers make things · *master* — a fully trained artist or craftsman who teaches others · *dome* — a round roof, like half a ball
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The hunt for old books</summary>
+
+> Period X starts in Italy about 600 years ago and spreads across Europe.  
+> In this period, scholars hunt for old books.  
+> They search in the dusty book rooms of monasteries.  
+> There they find texts from ancient Rome, copied by monks long ago.  
+> Some of these texts lie almost forgotten for a thousand years.  
+> Scholars from the Greek east bring more old texts to Italy.  
+> Now people can read famous Greek thinkers again.  
+> The scholars compare the copies and fix mistakes in them.  
+> Rich men pay for new libraries, open to readers.  
+> The old texts are full of ideas about law, nature, and a good life.  
+> Readers begin to ask new questions about their own time.  
+> **Which period is this?**
+
+**Svar:** ⬜ The Reformation · ⬜ The Middle Ages · ✅ The Renaissance · ⬜ The Enlightenment
+
+**Ord:** *scholar* — a person whose work is studying and learning · *monastery* — a house where monks live, work, and pray · *monk* — a religious man who lives simply in a monastery
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A window in the wall</summary>
+
+> Period X brings new art to Italy about 600 years ago.  
+> The painters of this time face an old problem.  
+> A wall or a wood panel is flat.  
+> How can a painting look deep, like a view through a window?  
+> An architect in Florence finds exact rules for this.  
+> Far things must be painted smaller, by fixed rules.  
+> Lines that run away from the viewer must meet in one point.  
+> Painters draw floors, streets, and halls with these rules.  
+> Now the picture opens like a window in the wall.  
+> Painters also study light, shadow, and the human body.  
+> Rooms in their paintings look real enough to step into.  
+> **Which period is this?**
+
+**Svar:** ✅ The Renaissance · ⬜ The Middle Ages · ⬜ The Enlightenment · ⬜ The Reformation
+
+**Ord:** *panel* — a flat piece of wood that artists paint on · *architect* — a person who plans and designs buildings · *shadow* — the dark place where light does not reach
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Back to the sources</summary>
+
+> Period X spreads from Italy across Europe about 500 years ago.  
+> In the middle of this period, a new machine appears in Europe.  
+> In Germany, printers build presses with movable metal letters.  
+> People in China and Korea print with movable letters much earlier.  
+> In Europe this is new, and it changes how ideas travel.  
+> A printed book costs much less than a hand-written copy.  
+> A scholar in Italy writes about an old Roman text.  
+> A few months later, students in Paris read the printed pages.  
+> Scholars like him are called humanists.  
+> They study language, history, poetry, and the good life.  
+> Their rule is: go back to the sources, read the oldest texts yourself.  
+> **Which period is this?**
+
+**Svar:** ⬜ The Reformation · ⬜ The Industrial Revolution · ⬜ The Enlightenment · ✅ The Renaissance
+
+**Ord:** *press* — a machine that pushes ink onto paper · *movable* — easy to move and use again in a new place · *humanist* — a scholar who studies language, history, and poetry · *source* — the oldest text, where an idea first comes from
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Sharp break or slow change?</summary>
+
+> Historians give names to the periods of the past.  
+> But who chooses the names, and where do the lines go?  
+> Period X shows how hard this is.  
+> About 160 years ago, the Swiss historian Jacob Burckhardt writes a famous book about it.  
+> He says: in Italy, six or seven hundred years ago, old art and learning are born again.  
+> People there discover the world and themselves, he writes.  
+> Later historians doubt this sharp, clean break.  
+> Life for most farmers changes little in these years.  
+> Scholars in the centuries before also read old Roman texts.  
+> Some historians say: the sharp break is a story told long afterwards.  
+> Today, many see both continuity and real new things in art and learning.  
+> **Which period is this?**
+
+**Svar:** ⬜ The Middle Ages · ⬜ The Enlightenment · ✅ The Renaissance · ⬜ The Reformation
+
+**Ord:** *historian* — a person who studies and writes about the past · *doubt* — to not feel sure that something is true · *continuity* — when life goes on without a sharp change
+
+</details>
+
+### Leonardo da Vinci
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Apprentice Who Asks Why</summary>
+
+> Mr X lives in Italy more than five hundred years ago.  
+> He is born in a small village among hills.  
+> As a boy, he draws everything he sees.  
+> His father takes him to the rich city of Florence.  
+> There he becomes an apprentice in a famous workshop.  
+> He learns to paint, to mix colors, and to shape metal.  
+> But he asks questions about everything.  
+> He asks why birds fly and how water moves.  
+> A story tells: one day the student paints better than his master.  
+> Later he paints a portrait of a woman with a quiet smile.  
+> Today it may be the most famous painting in the world.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Michelangelo · ✅ Leonardo da Vinci · ⬜ Raphael · ⬜ Galileo Galilei
+
+**Ord:** *apprentice* — a young person who learns a job from a master · *workshop* — a room where people make things with their hands · *portrait* — a painting of a person
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Notebooks Written Backwards</summary>
+
+> Mr X is an artist and thinker in Italy, about five hundred years ago.  
+> He carries a small notebook on his belt.  
+> He fills page after page with drawings and notes.  
+> Machines, rivers, plants, faces: he draws everything.  
+> In all, thousands of pages survive today.  
+> But his writing runs from right to left.  
+> Every letter is turned, as in a mirror.  
+> To read it, you can hold the page to a mirror.  
+> Maybe he hides his ideas from curious eyes.  
+> Or maybe it is simply easier for his left hand.  
+> Writing this way, the wet ink does not smear.  
+> He plans big books, but he never finishes them.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Johannes Gutenberg · ⬜ Galileo Galilei · ⬜ Isaac Newton · ✅ Leonardo da Vinci
+
+**Ord:** *notebook* — a small book with empty pages for writing and drawing · *mirror* — glass in which you can see yourself · *curious* — wanting very much to know things · *smear* — to make wet ink dirty by touching it
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — What Is Under the Skin</summary>
+
+> Mr X, a painter in Italy, lives about five hundred years ago.  
+> He wants to paint people as they really are.  
+> So he asks: what is under the skin?  
+> Doctors at a hospital let him study the dead.  
+> He works at night, carefully, layer by layer.  
+> He draws every muscle, every bone, every vein.  
+> He draws the heart and its small doors.  
+> He draws how a baby lies in the womb.  
+> His anatomy drawings are centuries ahead of their time.  
+> But he keeps them in his private papers.  
+> Doctors learn nothing from them for hundreds of years.  
+> The artist's eye sees what science has not yet seen.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Leonardo da Vinci · ⬜ Michelangelo · ⬜ Charles Darwin · ⬜ Isaac Newton
+
+**Ord:** *muscle* — a part of the body that moves your bones · *vein* — a thin tube that carries blood in the body · *womb* — the place inside a mother where a baby grows · *anatomy* — the science of how the body is built
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Wings on Paper</summary>
+
+> Mr X lives in Italy about five hundred years ago.  
+> Rich rulers pay him as their engineer.  
+> For them he plans bridges, canals, and machines of war.  
+> Yet he writes: war is a beastly madness.  
+> But he has a dream of his own: humans should fly.  
+> He watches birds and bats for hours.  
+> He draws wings for a man to flap.  
+> He draws a screw to climb the air.  
+> He draws a cloth tent to fall slowly: a parachute.  
+> Almost none of these machines are built in his lifetime.  
+> Human muscles are too weak, and there is no motor.  
+> Centuries later, people test some designs, and a few really work.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Isaac Newton · ⬜ Johannes Gutenberg · ✅ Leonardo da Vinci · ⬜ Galileo Galilei
+
+**Ord:** *engineer* — a person who plans and builds machines, roads, or bridges · *canal* — a river dug by people, for boats or water · *beastly* — wild and cruel, like a dangerous animal · *parachute* — a big cloth that lets a person fall slowly and safely
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Scattered Pages</summary>
+
+> Mr X, an Italian artist and thinker, dies about five hundred years ago.  
+> How can we know his ideas today?  
+> He leaves thousands of notebook pages to a loyal student.  
+> After that student's death, the pages begin to travel.  
+> Collectors buy them, cut them, and mix their order.  
+> Today the pages lie in libraries in several lands.  
+> Two lost notebooks appear again in Spain, only about sixty years ago.  
+> Scholars think that perhaps half of all pages are gone.  
+> Historians must date every page and rebuild the order.  
+> People say he is good in almost every field.  
+> But researchers still ask: lone genius, or man of a big workshop full of helpers?  
+> Every claim about him rides on the scattered pages.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Michelangelo · ✅ Leonardo da Vinci · ⬜ Nicolaus Copernicus · ⬜ Galileo Galilei
+
+**Ord:** *collector* — a person who buys and keeps old or rare things · *scholar* — a person who studies books deeply · *genius* — a person with a very great mind · *scattered* — spread out to many different places
+
+</details>
+
+### Johannes Gutenberg
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Book That Costs a Farm</summary>
+
+> Mr X lives in Europe, about 600 years ago.  
+> At this time, every book is written by hand.  
+> A worker called a scribe copies every page.  
+> One thick book can take years of work.  
+> A book can cost as much as a farm.  
+> Some libraries even chain their books to the shelf.  
+> Most people never own a book.  
+> Mr X is a metal worker with a new idea.  
+> In his workshop, he builds a machine that makes book pages.  
+> The machine makes hundreds of copies of a page in one day.  
+> Slowly, books become cheap enough for more homes.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Leonardo da Vinci · ✅ Johannes Gutenberg · ⬜ Martin Luther · ⬜ Nicolaus Copernicus
+
+**Ord:** *scribe* — a person whose job is writing · *chain* — to lock something to a place with metal rings · *workshop* — a room or building where people make things
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Wine Press for Words</summary>
+
+> Mr X is a goldsmith in the German city of Mainz.  
+> About 600 years ago, he builds a new way to make books.  
+> He makes small metal blocks, one letter on each block.  
+> With a hand mold, he pours thousands of equal blocks.  
+> A worker sets the blocks in rows to build a page.  
+> The worker covers the blocks with thick, sticky ink.  
+> A strong press, like a wine press, pushes paper onto the blocks.  
+> One pull of the press prints a whole page.  
+> The press makes copy after copy of the same page.  
+> Then the workers take the rows apart.  
+> The same blocks now build the next page.  
+> A box of metal letters can print any book in his language.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Aldus Manutius · ⬜ Leonardo da Vinci · ⬜ Nicolaus Copernicus · ✅ Johannes Gutenberg
+
+**Ord:** *goldsmith* — a person who makes fine things from gold and other metals · *mold* — a hollow form; you pour something in, and it takes that shape · *ink* — the colored liquid used for writing and printing · *press* — a machine that pushes two things hard together
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Not the First in the World</summary>
+
+> In Mainz, Mr X builds his famous printing workshop, about 600 years ago.  
+> But he is not the first to print with movable letters.  
+> In China, printers press whole book pages from carved wood blocks, centuries before him.  
+> One Chinese printer even makes single letters of baked clay.  
+> In Korea, printers cast letters of metal before Mr X is born.  
+> One Korean book printed this way still exists today.  
+> So what does Mr X really add?  
+> Chinese writing uses thousands of different signs.  
+> A European alphabet needs only about two dozen letters.  
+> Mr X packs the whole craft into one cheap, fast system.  
+> Any town with money can start its own workshop.  
+> Within fifty years, printing workshops open all across Europe.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Johannes Gutenberg · ⬜ Aldus Manutius · ⬜ Leonardo da Vinci · ⬜ Galileo Galilei
+
+**Ord:** *carve* — to cut a shape into wood or stone with a tool · *clay* — soft earth that becomes hard when you bake it · *cast* — to make a thing by pouring hot metal into a form
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Ideas Too Fast to Stop</summary>
+
+> Mr X of Mainz starts Europe's age of cheap printed books.  
+> A printed book costs far less than a hand-written book.  
+> Printers also sell small news booklets for little money.  
+> A new idea can now cross a land in weeks.  
+> About fifty years after Mr X dies, a German monk gets angry.  
+> The church sells special papers, and buyers believe the papers bring God's forgiveness.  
+> The monk writes sharp points against this sale.  
+> Printers turn his protest into thousands of cheap copies.  
+> The quarrel grows and splits the church in western Europe.  
+> Kings and church leaders try to control the presses.  
+> They learn that printed ideas are hard to stop.  
+> Without the machine of Mr X, the protest may stay small.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Martin Luther · ⬜ Aldus Manutius · ✅ Johannes Gutenberg · ⬜ Nicolaus Copernicus
+
+**Ord:** *monk* — a religious man who lives a simple life for his faith · *forgiveness* — when someone stops being angry about a wrong thing you did · *protest* — strong words or actions against something · *quarrel* — a long, angry fight with words
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Famous Man We Hardly Know</summary>
+
+> Mr X of Mainz is called the father of European printing.  
+> Yet historians know very little about the man.  
+> No document records his birth, and no true portrait of him exists.  
+> Even his famous printed Bible does not name its maker.  
+> We know him mostly from money papers and court records.  
+> He borrows a fortune from a business partner for his workshop.  
+> Later, the partner takes him to court over the money.  
+> Mr X loses the case.  
+> Historians think the partner then takes over the Bible workshop.  
+> Scholars also debate the word "revolution".  
+> One famous study says print changes Europe fast and deeply.  
+> Critics answer that people, not machines, make change, and slowly.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Laurens Janszoon Coster · ✅ Johannes Gutenberg · ⬜ Aldus Manutius · ⬜ Leonardo da Vinci
+
+**Ord:** *document* — an official paper with information · *portrait* — a picture of a person's face · *court* — the place where a judge decides who is right · *debate* — a public fight with arguments, not weapons
+
+</details>
+
+### Christofer Columbus
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Three Ships on an Unknown Sea</summary>
+
+> Captain X lives about 500 years ago, in Europe.  
+> The queen and king of Spain give him three small wooden ships.  
+> He sails west, into the open ocean.  
+> No map shows how far the water goes.  
+> About ninety sailors are on board.  
+> They eat hard bread, salted meat, and dried peas.  
+> They drink water and wine from wooden barrels.  
+> Most sailors sleep on the deck, under the stars.  
+> After more than four weeks, the crew grows afraid.  
+> Then, one night, a lookout sees land ahead.  
+> The ships land on a green island in a warm sea.  
+> People already live there, and they meet the sailors on the beach.  
+> **Who is Captain X?**
+
+**Svar:** ⬜ Ferdinand Magellan · ⬜ Vasco da Gama · ✅ Christopher Columbus · ⬜ Leif Eriksson
+
+**Ord:** *barrel* — a big round wooden container for food or drink · *deck* — the open floor of a ship · *crew* — all the people who work on a ship · *lookout* — a sailor whose job is to watch for land or danger
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Wrong Size of the World</summary>
+
+> Captain X is a sailor from a port city in Italy.  
+> In his time, educated people know well that the earth is round.  
+> The open question is how big the earth is.  
+> Captain X reads old travel books and makes his own calculation.  
+> His answer is far too small.  
+> So he believes Asia lies only a few weeks west of Europe.  
+> Experts in Portugal and in Spain check his numbers and say the ocean is far too wide.  
+> The experts are right, but the rulers of Spain pay for his voyage anyway.  
+> He sails west, and he does find islands.  
+> He believes they lie near India, so he calls the people there Indians.  
+> He makes four voyages, and he dies still sure that he has been to Asia.  
+> He never learns that a continent unknown to Europe blocks his way.  
+> **Who is Captain X?**
+
+**Svar:** ✅ Christopher Columbus · ⬜ Marco Polo · ⬜ Vasco da Gama · ⬜ Amerigo Vespucci
+
+**Ord:** *calculation* — finding an answer with numbers · *expert* — a person who knows one subject very well · *voyage* — a long journey by ship · *continent* — one of the biggest land areas of the earth, like Africa or Asia
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — The Islands Are Not Empty</summary>
+
+> About 500 years ago, ships from Spain under Captain X reach islands in the Caribbean Sea.  
+> The islands are not empty.  
+> The Taíno people have lived there for more than a thousand years.  
+> They farm cassava and maize, fish from canoes, and sleep in hammocks.  
+> Words like hammock, canoe, and hurricane come from their language.  
+> This meeting joins two halves of the world.  
+> In the years that follow, ships carry maize, tomatoes, cacao, and potatoes east to Europe.  
+> Other ships carry horses, cows, sugar cane, and wheat west.  
+> But the ships also carry something invisible.  
+> Smallpox and measles are new here, and the islanders' bodies have no defense.  
+> Within about fifty years, most of the Taíno have died.  
+> Sickness kills far more people than any weapon.  
+> **Who is Captain X?**
+
+**Svar:** ⬜ Ferdinand Magellan · ⬜ Leif Eriksson · ⬜ Amerigo Vespucci · ✅ Christopher Columbus
+
+**Ord:** *cassava* — a root plant; people make flour and bread from it · *hammock* — a hanging bed made of woven cloth or net · *smallpox* — a deadly sickness with high fever and sores on the skin · *defense* — protection against an attack or a sickness
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Gold, a Colony, and a Priest's Pen</summary>
+
+> On his second voyage west, Captain X returns to the Caribbean islands with seventeen ships.  
+> More than a thousand men sail with him, and this time they come to stay.  
+> Spain makes the islands a colony, and Captain X becomes its governor.  
+> He orders the Taíno people to bring him gold.  
+> Those who fail are punished, and families must wash river sand for gold, day after day.  
+> Some Taíno leaders fight back, but bows cannot stop steel weapons and horses.  
+> Years later, reports of harsh rule reach Spain.  
+> A royal officer then sends Captain X home in chains.  
+> How do we know all this?  
+> A young colonist named Bartolomé de las Casas comes to the islands.  
+> Later he becomes a priest and turns against the system.  
+> He writes down the cruelty he sees, and through his books the Taíno story reaches us today.  
+> **Who is Captain X?**
+
+**Svar:** ⬜ Vasco da Gama · ✅ Christopher Columbus · ⬜ Hernán Cortés · ⬜ Ferdinand Magellan
+
+**Ord:** *colony* — a land that people from another country take and rule · *governor* — the leader who rules a colony · *punish* — to make a person suffer for something · *cruelty* — very unkind acts that hurt people
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Discovery on Trial</summary>
+
+> About 500 years ago, Captain X sails west from Spain and reaches lands unknown to Europe.  
+> For centuries, schoolbooks tell that he discovers a new world.  
+> Historians now question every word in that sentence.  
+> Can anyone discover a land where millions of people already live?  
+> Sailors from the cold north reach the same lands about 500 years before him.  
+> Archaeologists find the remains of their houses on the coast of Canada.  
+> Even the captain's own logbook is a problem: the original is lost.  
+> We read his words only in a later copy.  
+> Another writer changes parts of the text.  
+> Statues of him rise in cities on both sides of the ocean, and now some come down.  
+> The lands themselves later get the name of a different sailor, not his.  
+> In parts of the Americas, his old holiday now honors the indigenous peoples instead.  
+> **Who is Captain X?**
+
+**Svar:** ⬜ Leif Eriksson · ⬜ Amerigo Vespucci · ✅ Christopher Columbus · ⬜ Ferdinand Magellan
+
+**Ord:** *logbook* — a book where a ship's captain writes what happens every day · *archaeologist* — a person who digs in the ground to study how people lived long ago · *statue* — a figure of a person, made of stone or metal · *indigenous* — belonging to the first peoples of a land
+
+</details>
 
 ## Kortens struktur
 
