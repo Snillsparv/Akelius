@@ -193,7 +193,7 @@ document.getElementById('subline').textContent =
   DATA.length + ' ämnen · ' + nCards + ' kort · ' + HAVE.size + ' av ' + nCards * 2 + ' bilder · Jonas von Essen';
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const LVL_SV = {'grade 6': 'årskurs 6', 'grade 9': 'årskurs 9', 'grade 12': 'årskurs 12', 'university': 'universitet'};
-const CAT_SV = {'civilizations': 'civilisation', 'religions': 'religion', 'middle ages': 'medeltiden'};
+const CAT_SV = {'civilizations': 'civilisation', 'religions': 'religion', 'middle ages': 'medeltiden', 'renaissance': 'renässansen', 'exploration': 'upptäcktsresor'};
 let lang = 'en';
 const personName = set => lang === 'sv' && set.person_sv ? set.person_sv : set.person;
 function loc(c) {
