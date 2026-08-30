@@ -1,0 +1,135 @@
+{
+  "slug": "genghis-khan",
+  "person_sv": "Djingis khan",
+  "cards": [
+    {
+      "title": "Den fattiga pojken från gräshavet",
+      "text_sentences": [
+        "Khan X lever för ungefär 800 år sedan, på Asiens vidsträckta grässlätter.",
+        "Hans folk bor i runda tält av filt och flyttar med sina hästar, får och getter.",
+        "Hans far dör när han är en liten pojke.",
+        "Hans familj blir fattig och har ofta för lite mat.",
+        "Pojken lär sig att rida, att jaga och att aldrig ge upp.",
+        "Klanerna på grässlätterna strider mot varandra hela tiden.",
+        "När han blir vuxen gör han något nytt.",
+        "Han förenar de stridande klanerna till ett enda folk.",
+        "Klanerna ger honom ett nytt namn och en ny titel.",
+        "Det betyder kanske \"stark härskare\" eller \"härskare över alla\"."
+      ],
+      "question": "Vem är khan X?",
+      "options": ["Alexander den store", "Djingis khan", "Napoleon Bonaparte", "Kublai khan"],
+      "words": [
+        {"word": "grässlätt", "explanation": "stort öppet land där gräs växer"},
+        {"word": "filt", "explanation": "tjockt tyg av pressad ull"},
+        {"word": "klan", "explanation": "en stor grupp familjer som hör ihop"},
+        {"word": "titel", "explanation": "ett särskilt namn för en härskare eller en viktig person"}
+      ],
+      "main_caption": "Folket på grässlätterna rider hästar och bor i runda tält.",
+      "side_caption": "Ett runt tält av tjock filt är ett varmt hem. Familjen kan flytta det."
+    },
+    {
+      "title": "De snabba hästarnas rike",
+      "text_sentences": [
+        "Khan X växer upp på Asiens grässlätter och enar ryttarklanerna.",
+        "Sedan bygger han och hans ryttare ett väldigt rike på land.",
+        "Hans krig är fruktansvärda för de folk han erövrar.",
+        "Efter hans död gör hans söner och sonsöner riket ännu större.",
+        "Det blir historiens största landrike.",
+        "Det sträcker sig från havet i öster långt in i Europa.",
+        "Hur kan en enda härskare styra ett så vidsträckt land?",
+        "Khan X och hans familj låter bygga häststationer längs de stora vägarna.",
+        "Vid varje station väntar utvilade hästar.",
+        "En budbärare rider fort, byter till en utvilad häst och rider vidare.",
+        "Budskap färdas dag och natt, snabbare än någonsin förr.",
+        "Detta rike drivs av gräs, hästar och information."
+      ],
+      "question": "Vem är khan X?",
+      "options": ["Kublai khan", "Alexander den store", "Julius Caesar", "Djingis khan"],
+      "words": [
+        {"word": "rike", "explanation": "många länder och många människor under en enda härskare"},
+        {"word": "station", "explanation": "en plats att stanna på längs en lång väg"},
+        {"word": "budbärare", "explanation": "en person som bär fram ett meddelande"}
+      ],
+      "main_caption": "En budbärare rider fort. Vid nästa station väntar en utvilad häst.",
+      "side_caption": "Detta pass av metall betyder: härskaren sänder denna ryttare. Ge honom en utvilad häst."
+    },
+    {
+      "title": "Härskaren som inte kan läsa",
+      "text_sentences": [
+        "Khan X är en härskare från Asiens grässlätter.",
+        "Som pojke går han inte i skolan, och han lär sig troligen aldrig att läsa.",
+        "Som ung man enar han de stridande klanerna till ett enda folk.",
+        "Han låter skapa ett skriftsystem för sitt folks språk.",
+        "Han ger sitt rike stränga lagar.",
+        "Han väljer sina generaler efter deras skicklighet, inte efter deras familjenamn.",
+        "Även en fattig herdes son kan bli en hög befälhavare.",
+        "Människor från många religioner lever i hans rike, och alla får be på sitt eget sätt.",
+        "När hans armé intar en stad skonar den de skickliga hantverkarna.",
+        "Men de måste flytta långt bort och arbeta för riket.",
+        "Många av de andra människorna i dessa städer dödas eller förlorar sina hem.",
+        "En härskare som inte kan läsa bygger en stat som drivs av skrift, lag och skicklighet."
+      ],
+      "question": "Vem är khan X?",
+      "options": ["Djingis khan", "Hammurabi", "Napoleon Bonaparte", "Kublai khan"],
+      "words": [
+        {"word": "sträng", "explanation": "mycket bestämd; reglerna måste följas"},
+        {"word": "herde", "explanation": "en person som sköter och flyttar djur, som får eller hästar"},
+        {"word": "befälhavare", "explanation": "en ledare för soldater"},
+        {"word": "hantverkare", "explanation": "en person som gör saker med händerna, som krukor, tyg eller verktyg"}
+      ],
+      "main_caption": "Människor från många länder möts i fred i ett enda rike.",
+      "side_caption": "En hantverkare gör fina saker för hand. Riket vill ha denna skicklighet."
+    },
+    {
+      "title": "Trygga vägar, fruktansvärt pris",
+      "text_sentences": [
+        "Khan X, en ryttare som enar grässlätternas klaner, bygger ett jättelikt rike tvärs över Asien.",
+        "Under honom och hans familj vaktar en enda makt de långa handelsvägarna mellan öst och väst.",
+        "Ett gammalt talesätt säger: en flicka kan bära en påse guld genom hela riket, och ingen rånar henne.",
+        "Siden, papper och nya idéer färdas från land till land.",
+        "Men vägarna bär mer än varor.",
+        "Ungefär hundra år senare följer en dödlig sjukdom dem ända till Europa.",
+        "Och denna fred har ett fruktansvärt pris.",
+        "Khan X:s krig dödar miljontals människor.",
+        "Städer som inte ger upp förstörs.",
+        "Handelsmännen minns de trygga vägarna. De förstörda städerna minns något annat.",
+        "Riket öppnar vägar för världen, och förstör miljontals liv för att bygga dem."
+      ],
+      "question": "Vem är khan X?",
+      "options": ["Alexander den store", "Napoleon Bonaparte", "Djingis khan", "Kublai khan"],
+      "words": [
+        {"word": "handel", "explanation": "att köpa och sälja saker"},
+        {"word": "varor", "explanation": "saker som människor köper och säljer"},
+        {"word": "dödlig", "explanation": "så farlig att människor dör av den"}
+      ],
+      "main_caption": "Handelsmän fraktar varor längs de långa, trygga vägarna.",
+      "side_caption": "Långa vägar binder samman öst och väst. Varor och idéer färdas på dem."
+    },
+    {
+      "title": "Monster eller statsbyggare?",
+      "text_sentences": [
+        "Khan X, en härskare från Asiens grässlätter, bygger ett väldigt rike för ungefär 800 år sedan.",
+        "Hur kan vi veta något om honom i dag?",
+        "Kort efter hans död skriver hans eget folk ner hans historia på sitt eget språk.",
+        "Den boken kallas till och med \"Den hemliga historien\".",
+        "Den visar honom inifrån: hans fattiga barndom, hans rädslor och hans misstag.",
+        "Folken han erövrar skriver också om honom, på persiska, arabiska och kinesiska.",
+        "De ser sina brända städer, och i deras böcker är han ofta ett monster.",
+        "Senare besöker resenärer från Europa riket och skickar hem rapporter.",
+        "Några rapporterar om vilda \"barbarer\"; andra rapporterar om lag, ordning och trygga vägar.",
+        "Så vem är han: ett monster eller en statsbyggare?",
+        "Varje källa står någonstans; historikerns uppgift är att se var."
+      ],
+      "question": "Vem är khan X?",
+      "options": ["Alexander den store", "Napoleon Bonaparte", "Djingis khan", "Kublai khan"],
+      "words": [
+        {"word": "källa", "explanation": "en gammal text eller sak som ger oss information om det förflutna"},
+        {"word": "erövra", "explanation": "att ta ett land med våld"},
+        {"word": "rapport", "explanation": "en text som berättar vad en person ser och lär sig"},
+        {"word": "barbar", "explanation": "ett orättvist gammalt ord för människor som författare ser som vilda och enkla"}
+      ],
+      "main_caption": "Tre gamla böcker berättar om samma man. De berättar inte samma historia.",
+      "side_caption": "En resenär långt hemifrån skriver en rapport om allt han ser."
+    }
+  ]
+}

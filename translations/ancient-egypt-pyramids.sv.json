@@ -1,0 +1,136 @@
+{
+  "slug": "ancient-egypt-pyramids",
+  "person_sv": "Forntida Egypten – pyramiderna",
+  "cards": [
+    {
+      "title": "Ett land vid en enda lång flod",
+      "text_sentences": [
+        "Land X ligger längs en enda lång flod i Afrika.",
+        "Det regnar nästan aldrig där.",
+        "Men för länge sedan svämmade floden över varje år.",
+        "Översvämningen lämnade svart jord på åkrarna.",
+        "Bönderna odlade vete i den svarta jorden.",
+        "Floden ger liv åt hela landet än i dag.",
+        "Kungarna i land X byggde enorma gravar av sten.",
+        "De mest berömda gravarna har en fyrkantig botten.",
+        "Högst upp är det en spets.",
+        "Den största är ungefär 4 500 år gammal.",
+        "I tusentals år var den jordens högsta byggnad."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Mexiko", "Egypten", "Kina", "Indien"],
+      "words": [
+        {"word": "översvämning", "explanation": "när floden stiger och vatten täcker marken"},
+        {"word": "jord", "explanation": "marken som växterna växer i"},
+        {"word": "grav", "explanation": "ett rum eller en byggnad för en död människa"},
+        {"word": "vete", "explanation": "en växt, människor gör bröd av den"}
+      ],
+      "main_caption": "Enorma gravar av sten står i den torra sanden.",
+      "side_caption": "Floden gör en grön linje av liv i det torra landet."
+    },
+    {
+      "title": "Tusentals arbetare, inga moderna maskiner",
+      "text_sentences": [
+        "Land X är ett torrt land vid en lång flod.",
+        "Kungen vill ha en pyramid för sin kropp efter döden.",
+        "Det finns inga moderna maskiner.",
+        "Tusentals arbetare drar tunga stenar på slädar av trä.",
+        "De släpar stenarna uppför långa ramper av jord och sten.",
+        "De hugger stenen med verktyg av koppar, en mjuk metall.",
+        "I dag undersöker arkeologer arbetarnas by nära pyramiderna.",
+        "Arbetarna är inte slavar.",
+        "De får lön: bröd, fisk och en plats att sova på.",
+        "Hur ger man mat åt tusentals arbetare, dag efter dag?",
+        "Bara ett starkt och välplanerat land klarar det."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Peru", "Mesopotamien", "Egypten", "Mexiko"],
+      "words": [
+        {"word": "pyramid", "explanation": "en byggnad med fyrkantig botten och en spets högst upp"},
+        {"word": "släde", "explanation": "en platt skiva av trä som man drar tunga saker på"},
+        {"word": "ramp", "explanation": "en väg som går uppåt, lite i taget"},
+        {"word": "arkeolog", "explanation": "en forskare som gräver i marken för att lära sig om gamla tider"}
+      ],
+      "main_caption": "Arbetare drar tunga stenar på slädar uppför en ramp.",
+      "side_caption": "Arbetarna får bröd och fisk som lön."
+    },
+    {
+      "title": "Ett berg av sten",
+      "text_sentences": [
+        "Varför bygger ett land ett berg av sten?",
+        "Land X ligger vid en lång flod, vid kanten av en stor öken.",
+        "Folket där tror att deras kung står nära gudarna.",
+        "Medan kungen ännu lever bygger de en enorm grav av sten åt honom.",
+        "Den har en fyrkantig botten och en spets högst upp.",
+        "När kungen dör gör de hans kropp till en mumie.",
+        "De tror att kroppen måste hålla för nästa liv.",
+        "Graven är ett budskap i sten: vår kung lever vidare.",
+        "En byggnad kan visa vad människor tror på.",
+        "Tänk på de största byggnaderna i dag: tempel, banker, torn, arenor.",
+        "Vad säger de om oss?"
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Kina", "Mexiko", "Egypten", "Irak"],
+      "words": [
+        {"word": "mumie", "explanation": "en död kropp som torkas och lindas så att den håller mycket länge"},
+        {"word": "grav", "explanation": "ett rum eller en byggnad för en död människa"},
+        {"word": "tempel", "explanation": "en byggnad där människor ber till en gud"},
+        {"word": "öken", "explanation": "mycket torrt land med sand och nästan inget regn"}
+      ],
+      "main_caption": "Graven är som ett berg av sten. Den är ett budskap i sten.",
+      "side_caption": "Mumien ligger inuti den här målade kistan. Människor tror att kroppen måste hålla för nästa liv."
+    },
+    {
+      "title": "Skrivarna och översvämningen",
+      "text_sentences": [
+        "I land X sitter en skrivare vid en åker och räknar säckar med vete.",
+        "Han skriver tecken på papyrus.",
+        "Bildtecken täcker templens väggar.",
+        "Skrivarna samlar in skatt åt kungen.",
+        "Varje år stiger den långa floden och täcker åkrarna med vatten.",
+        "Vattnet lämnar bördig svart jord på åkrarna.",
+        "Men vattnet sköljer också bort gränserna mellan åkrarna.",
+        "Därför måste människorna varje år mäta marken igen.",
+        "Allt detta mätande hjälper geometrin att växa.",
+        "Ett stort rike behöver skrift och matematik.",
+        "Utan skrivare ingen skatt, och utan skatt inga pyramider."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Mesopotamien", "Kina", "Egypten", "Grekland"],
+      "words": [
+        {"word": "skrivare", "explanation": "en person vars arbete är att skriva och räkna"},
+        {"word": "papyrus", "explanation": "ett slags papper, människor gör det av en flodväxt"},
+        {"word": "skatt", "explanation": "saker som människor måste ge till kungen eller staten, till exempel vete eller pengar"},
+        {"word": "geometri", "explanation": "matematiken om former och om att mäta mark"}
+      ],
+      "main_caption": "En skrivare räknar säckarna med vete och skriver ner siffrorna.",
+      "side_caption": "Människor gör ett slags papper av den här flodväxten."
+    },
+    {
+      "title": "Stenen med tre skrifter",
+      "text_sentences": [
+        "Land X är fullt av gammal bildskrift.",
+        "Tecknen täcker tempelväggar och kungarnas enorma gravar av sten.",
+        "Under många hundra år kan ingen läsa dem.",
+        "För mer än 200 år sedan hittar soldater en särskild sten vid floden.",
+        "På stenen står samma text skriven tre gånger, med tre olika skrifter.",
+        "En skrift är gammal grekiska, och de lärda kan läsa grekiska.",
+        "I många år jämför de lärda skrifterna, tecken för tecken.",
+        "Till sist kan de läsa bildtecknen igen.",
+        "Nu kan vi läsa landets böner, dess lagar, till och med dess inköpslistor.",
+        "När en skrift går förlorad tystnar ett lands minne.",
+        "Arkeologin kan ge rösten tillbaka."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Persien", "Egypten", "Mesopotamien", "Kina"],
+      "words": [
+        {"word": "skrift", "explanation": "en uppsättning tecken för att skriva ett språk"},
+        {"word": "lärd", "explanation": "en person som studerar ett ämne mycket djupt"},
+        {"word": "arkeologi", "explanation": "läran om de saker som människor från förr lämnar efter sig"},
+        {"word": "grav", "explanation": "ett rum eller en byggnad för en död människa"}
+      ],
+      "main_caption": "Samma text står skriven tre gånger på en enda sten.",
+      "side_caption": "Bildtecken täcker de gamla väggarna. Under lång tid kunde ingen läsa dem."
+    }
+  ]
+}

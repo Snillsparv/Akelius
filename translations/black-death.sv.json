@@ -1,0 +1,136 @@
+{
+  "slug": "black-death",
+  "person_sv": "Digerdöden",
+  "cards": [
+    {
+      "title": "Sjukdomen på skeppen",
+      "text_sentences": [
+        "Sjukdomen X kommer för ungefär 700 år sedan.",
+        "Den kommer med skepp långt bortifrån.",
+        "Skeppen seglar över havet till livliga hamnar.",
+        "Från hamnarna rör den sig längs handelsvägarna.",
+        "Den färdas från stad till stad.",
+        "Den sprider sig mycket snabbt.",
+        "Väldigt många människor blir sjuka.",
+        "Sorgligt nog dör många av dem.",
+        "Under de här åren vet människor inte vad som gör dem sjuka.",
+        "De kan inte se den verkliga orsaken.",
+        "De är rädda, och de kan inte stoppa den."
+      ],
+      "question": "Vilken sjukdom är detta?",
+      "options": ["Digerdöden", "smittkoppor", "kolera", "spetälska"],
+      "words": [
+        {"word": "hamn", "explanation": "en plats vid havet där skepp stannar"},
+        {"word": "handelsväg", "explanation": "en väg där människor fraktar saker för att köpa och sälja"},
+        {"word": "sprider sig", "explanation": "går från en plats eller en person till många"},
+        {"word": "orsak", "explanation": "det som gör att något händer"}
+      ],
+      "main_caption": "Skepp kommer till en livlig stad vid havet.",
+      "side_caption": "Handelsvägar binder samman avlägsna städer över land och hav."
+    },
+    {
+      "title": "Att gissa och att veta",
+      "text_sentences": [
+        "För ungefär 700 år sedan sprider sig sjukdomen X över många länder.",
+        "Människor vill veta varför.",
+        "Några säger att luften är dålig och full av dålig lukt.",
+        "Några säger att den är ett straff.",
+        "De prövar många konstiga botemedel, men botemedlen fungerar inte.",
+        "De bara gissar.",
+        "I dag känner vi till den verkliga orsaken.",
+        "En pytteliten levande varelse, en bakterie, gör människor sjuka.",
+        "Bakterien lever på små loppor.",
+        "Lopporna åker med råttorna, och råttorna reser med människor och skepp.",
+        "Att gissa och att veta är inte samma sak."
+      ],
+      "question": "Vilken sjukdom är detta?",
+      "options": ["smittkoppor", "malaria", "Digerdöden", "kolera"],
+      "words": [
+        {"word": "straff", "explanation": "det du får när du har gjort något fel"},
+        {"word": "botemedel", "explanation": "något som gör en sjuk person frisk igen"},
+        {"word": "bakterie", "explanation": "en pytteliten levande varelse, alldeles för liten att se, som kan göra dig sjuk"},
+        {"word": "loppa", "explanation": "en mycket liten hoppande insekt som biter djur och människor"}
+      ],
+      "main_caption": "Råttor reser med människor, skepp och mat.",
+      "side_caption": "En loppa. Den här pyttelilla insekten hoppar och biter."
+    },
+    {
+      "title": "När arbetarna blir få",
+      "text_sentences": [
+        "För ungefär 700 år sedan sprider sig sjukdomen X över många länder.",
+        "Så många människor dör att somliga byar står tomma.",
+        "Innan dess finns det många arbetare och lite jord.",
+        "Nu finns det få arbetare och mycket jord.",
+        "Men godsherrarna behöver fortfarande människor som brukar åkrarna.",
+        "Därför kan arbetarna begära högre lön och bättre mat.",
+        "Några arbetare lämnar en hård godsherre och går till en snällare.",
+        "Tidigare är många bönder bundna till en enda godsherres jord.",
+        "Nu försvagas denna gamla regel i många länder i västra Europa.",
+        "En fruktansvärd sjukdom förändrar vem som har makten.",
+        "När människorna är få är deras arbete värt mer."
+      ],
+      "question": "Vilken sjukdom är detta?",
+      "options": ["kolera", "spetälska", "smittkoppor", "Digerdöden"],
+      "words": [
+        {"word": "by", "explanation": "en mycket liten stad"},
+        {"word": "godsherre", "explanation": "en rik man som äger jord, och människorna arbetar för honom"},
+        {"word": "bundna", "explanation": "tvingade att stanna på en plats, inte fria att ge sig av"},
+        {"word": "lön", "explanation": "pengarna du får för ditt arbete"}
+      ],
+      "main_caption": "Få arbetare, och mycket tom jord.",
+      "side_caption": "Nu kan arbetare begära högre lön."
+    },
+    {
+      "title": "Rädsla och fyrtio dagar",
+      "text_sentences": [
+        "För ungefär 700 år sedan för sjukdomen X med sig stor rädsla.",
+        "Människor är rädda, och de letar efter någon att skylla på.",
+        "I några städer skyller människor felaktigt på sina judiska grannar.",
+        "Det är inte sant, och det är djupt orättvist.",
+        "Sorgligt nog blir många judar skadade och dödade.",
+        "Rädsla kan göra människor grymma mot oskyldiga.",
+        "Andra städer väljer en klokare väg.",
+        "I en stad vid havet måste skeppen vänta innan de får lägga till.",
+        "Denna väntan varar i fyrtio dagar.",
+        "Från dessa \"fyrtio dagar\" kommer vårt ord \"karantän\".",
+        "I svåra tider kan rädsla leda till grymhet, eller till klok omsorg."
+      ],
+      "question": "Vilken sjukdom är detta?",
+      "options": ["spetälska", "Digerdöden", "smittkoppor", "kolera"],
+      "words": [
+        {"word": "skylla på", "explanation": "att säga att någon har gjort något ont"},
+        {"word": "oskyldig", "explanation": "en person som inte har gjort något fel"},
+        {"word": "grym", "explanation": "mycket elak; vill skada någon"},
+        {"word": "karantän", "explanation": "att hålla människor eller skepp åtskilda i några dagar, så att en sjukdom inte kan sprida sig"}
+      ],
+      "main_caption": "Skeppen måste vänta ute på vattnet innan de kan lägga till.",
+      "side_caption": "Sjömän väntar här i många dagar innan de får gå in i staden."
+    },
+    {
+      "title": "Hur vi vet",
+      "text_sentences": [
+        "För ungefär 700 år sedan förändrar sjukdomen X världen.",
+        "Men hur känner vi till den i dag?",
+        "Författare från den tiden skriver krönikor, och de berättar om sjukdomen.",
+        "Men rädsla och rykten kan förvrida deras ord.",
+        "Därför läser historiker också gamla skattelistor och kyrkböcker som namnger de präster som dog.",
+        "När många namn försvinner ur en lista kan det betyda att många människor är borta.",
+        "Och nu finns det nyare bevis, från vetenskapen.",
+        "Forskare studerar mycket gamla ben från gravar.",
+        "I tänderna hittar de DNA från en enda liten bakterie: Yersinia pestis.",
+        "Så blir en gammal gissning ett tydligt faktum.",
+        "Många olika slags källor visar oss tillsammans sanningen."
+      ],
+      "question": "Vilken sjukdom är detta?",
+      "options": ["smittkoppor", "spetälska", "Digerdöden", "malaria"],
+      "words": [
+        {"word": "krönikor", "explanation": "gamla skrivna berättelser om det som händer, år för år"},
+        {"word": "skattelistor", "explanation": "gamla listor över människor som måste betala pengar till härskaren"},
+        {"word": "DNA", "explanation": "en pytteliten kod inuti allt levande som talar om vad det är"},
+        {"word": "källor", "explanation": "saker från det förflutna som berättar vad som hände, som en bok eller ett ben"}
+      ],
+      "main_caption": "Forskare studerar mycket gamla prover för att få veta sanningen.",
+      "side_caption": "För länge sedan skrev författare ner det som hände i böcker som den här."
+    }
+  ]
+}

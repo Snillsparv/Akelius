@@ -1,0 +1,133 @@
+{
+  "slug": "aristotle",
+  "person_sv": "Aristoteles",
+  "cards": [
+    {
+      "title": "Läraren som studerar allt",
+      "text_sentences": [
+        "För länge sedan bor herr X i Grekland.",
+        "Han vill lära sig om allting.",
+        "Han studerar djur, fiskar, fåglar, stjärnor och vädret.",
+        "Han samlar många saker och jämför dem.",
+        "Han har en skola med en trädgård i Aten.",
+        "Människor berättar en historia: han går när han undervisar.",
+        "Hans elever går med honom.",
+        "Han undervisar också en ung prins.",
+        "Prinsen blir senare en mycket berömd kung: Alexander den store.",
+        "Han lär sina elever att titta noga på världen.",
+        "När du tittar noga och jämför lär du dig nya saker."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Aristoteles", "Sokrates", "Platon", "Darwin"],
+      "words": [
+        {"word": "samla", "explanation": "att föra ihop många saker på ett ställe"},
+        {"word": "jämföra", "explanation": "att titta på två saker och se vad som är lika och vad som är olika"},
+        {"word": "prins", "explanation": "en kungs son"}
+      ],
+      "main_caption": "En historia säger: han går när han undervisar, och hans elever går med honom.",
+      "side_caption": "Han samlar saker och jämför dem."
+    },
+    {
+      "title": "Använd ögonen",
+      "text_sentences": [
+        "Herr X bor i Grekland.",
+        "Det är för mer än 2 300 år sedan.",
+        "Hans lärare i Aten är den berömde tänkaren Platon.",
+        "Platon litar mer på att tänka än på att titta.",
+        "Men herr X menar att man också måste använda ögonen!",
+        "Han iakttar bin och bläckfiskar i många timmar.",
+        "Han öppnar döda djur för att se hur de ser ut inuti.",
+        "Han beskriver hundratals djurarter.",
+        "Många kallar honom den första biologen.",
+        "Hans stora idé: tänk inte bara, utan titta och kontrollera.",
+        "Den idén är en rot till modern vetenskap."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Aristoteles", "Darwin", "Sokrates", "Hippokrates"],
+      "words": [
+        {"word": "bläckfisk", "explanation": "ett havsdjur med åtta armar"},
+        {"word": "biolog", "explanation": "en forskare som studerar levande varelser"},
+        {"word": "rot", "explanation": "platsen där något börjar, som roten på en växt"}
+      ],
+      "main_caption": "Han tittar noga på små havsdjur.",
+      "side_caption": "En bläckfisk är ett havsdjur med åtta armar."
+    },
+    {
+      "title": "Reglerna för gott tänkande",
+      "text_sentences": [
+        "Herr X är elev vid Platons skola i Aten.",
+        "Efter många år öppnar han en egen skola.",
+        "Han frågar: när är ett argument bra?",
+        "Han skriver tydliga regler för tänkandet.",
+        "Långt senare ger lärare ett berömt exempel på hans regler:",
+        "Alla människor är dödliga.",
+        "Sokrates är en människa.",
+        "Alltså är Sokrates dödlig.",
+        "Om de två första meningarna är sanna måste den tredje vara sann.",
+        "Människor kallar den här vetenskapen logik.",
+        "Matematik och datorer bygger än i dag på denna vetenskap."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Aristoteles", "Sokrates", "Pythagoras", "Euklides"],
+      "words": [
+        {"word": "argument", "explanation": "skäl som du ger för att visa att något är sant"},
+        {"word": "dödlig", "explanation": "någon som måste dö en dag"},
+        {"word": "logik", "explanation": "reglerna för gott, klart tänkande"}
+      ],
+      "main_caption": "Om de två första meningarna är sanna måste den tredje vara sann.",
+      "side_caption": "Datorer arbetar med logikens regler."
+    },
+    {
+      "title": "Den gyllene medelvägen",
+      "text_sentences": [
+        "Herr X är en grekisk tänkare.",
+        "Han lär sig av Platon i många år.",
+        "Platons egen lärare är Sokrates.",
+        "Senare öppnar herr X en egen skola i Aten.",
+        "Han frågar: vad är ett gott liv?",
+        "Hans svar: leta efter den gyllene medelvägen.",
+        "Modet ligger i mitten, mellan att vara feg och att vara dumdristig.",
+        "Generositet ligger mellan att slösa bort pengar och att inte ge någonting alls.",
+        "Du blir god genom att träna goda vanor, som att träna en muskel.",
+        "Lycka är inte en enda rolig stund, säger han.",
+        "Lycka är ett helt liv som levs väl."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Aristoteles", "Platon", "Buddha", "Konfucius"],
+      "words": [
+        {"word": "mod", "explanation": "att våga när något är svårt"},
+        {"word": "feg", "explanation": "att vara för rädd för att våga handla"},
+        {"word": "dumdristig", "explanation": "att göra vilda, farliga saker utan att tänka"},
+        {"word": "generositet", "explanation": "att gärna ge till andra människor"}
+      ],
+      "main_caption": "Den goda vägen ligger ofta i mitten.",
+      "side_caption": "Du tränar en vana som en muskel: om och om igen."
+    },
+    {
+      "title": "Granska varje auktoritet",
+      "text_sentences": [
+        "Herr X är en grekisk tänkare.",
+        "Han skriver många böcker: om logik, om naturen och om det goda livet.",
+        "Han älskar sin lärare Platon, men han älskar sanningen mer.",
+        "Efter hans död översätter lärda i den arabiska världen hans böcker och studerar dem.",
+        "Senare förklarar den store lärde Ibn Rushd hans idéer.",
+        "I många århundraden säger lärare: om han skriver det, är det sant.",
+        "Men han skriver också: tunga saker faller fortare än lätta saker.",
+        "Långt senare prövar forskare detta, och det är fel.",
+        "Är det här dåligt för honom?",
+        "Nej, han lär ju själv ut: när fakta och idéer säger emot varandra, tro på fakta.",
+        "Granska varje auktoritet, även herr X."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Aristoteles", "Platon", "Galileo Galilei", "Kopernikus"],
+      "words": [
+        {"word": "lärd", "explanation": "en person som studerar böcker på djupet"},
+        {"word": "auktoritet", "explanation": "en person eller en bok som många litar på och följer"},
+        {"word": "århundrade", "explanation": "hundra år"},
+        {"word": "logik", "explanation": "reglerna för gott, klart tänkande"}
+      ],
+      "main_caption": "Hans böcker färdas genom många språk och många århundraden.",
+      "side_caption": "Ett försök visar: den tunga kulan och den lätta kulan faller tillsammans."
+    }
+  ]
+}

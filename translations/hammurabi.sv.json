@@ -1,0 +1,133 @@
+{
+  "slug": "hammurabi",
+  "person_sv": "Hammurabi och hans lagar",
+  "cards": [
+    {
+      "title": "Kungen och den höga lagstenen",
+      "text_sentences": [
+        "Kung X bor i staden Babylon.",
+        "Babylon ligger i ett land mellan två stora floder.",
+        "Bönderna använder vatten från floderna för att odla mat.",
+        "Kung X leder Babylon och många andra städer.",
+        "Han samlar ihop lagar för hela landet.",
+        "En lag är en regel som alla måste följa.",
+        "Arbetare hugger in lagarna i en hög svart sten.",
+        "Stenen är högre än en människa.",
+        "Den står där alla människor kan se den.",
+        "Kungen vill att alla ska känna till reglerna, inte bara mäktiga människor.",
+        "Det här händer för nästan 4 000 år sedan."
+      ],
+      "question": "Vem är kung X?",
+      "options": ["Hammurabi", "Julius Caesar", "Alexander den store", "Konfucius"],
+      "words": [
+        {"word": "hugga in", "explanation": "att skära in bokstäver eller bilder i hård sten"},
+        {"word": "mäktig", "explanation": "en som kan bestämma över många människor, som en kung"}
+      ],
+      "main_caption": "Människor tittar på den höga lagstenen i staden.",
+      "side_caption": "En arbetare hugger in tecken i den hårda stenen."
+    },
+    {
+      "title": "Lagar som alla kan se",
+      "text_sentences": [
+        "Kung X är kung i Babylon, en rik stad i Mesopotamien.",
+        "Hans land är stort, och varje stad har sina egna gamla regler.",
+        "Reglerna är inte likadana överallt.",
+        "Kung X vill ha en enda lagsamling för hela landet.",
+        "Arbetare skriver hans lagar på en hög sten, där alla kan se dem.",
+        "Vem som helst kan peka på stenen.",
+        "- Titta, det här är lagen.",
+        "En domare kan inte ändra den som han vill.",
+        "Kungen säger att lagarna skyddar de svaga mot de starka.",
+        "Han säger att lagen också måste hjälpa änkor och föräldralösa barn.",
+        "När alla människor kan känna till lagen blir livet rättvisare."
+      ],
+      "question": "Vem är kung X?",
+      "options": ["Hammurabi", "Kyros den store", "Julius Caesar", "Alexander den store"],
+      "words": [
+        {"word": "Mesopotamien", "explanation": "ett gammalt land mellan två stora floder, i dagens Irak"},
+        {"word": "domare", "explanation": "en person som avgör vem som har rätt när människor bråkar om regler"},
+        {"word": "änka", "explanation": "en kvinna vars man är död"},
+        {"word": "föräldralös", "explanation": "ett barn vars föräldrar är döda"}
+      ],
+      "main_caption": "Lagarna är inhuggna i den här höga mörka stenen. Alla kan se dem.",
+      "side_caption": "En domare lyssnar på två bönder. Vem har rätt?"
+    },
+    {
+      "title": "Ett fönster mot vardagslivet",
+      "text_sentences": [
+        "Kung X styr staden Babylon för ungefär 3 800 år sedan.",
+        "Hans arbetare hugger in nästan 300 lagar i en enda hög sten.",
+        "Lagarna handlar om löner för arbetare och priser på marknaden.",
+        "De handlar om läkares arvoden, hyran för en båt, äktenskap och adoption.",
+        "En lag säger: en byggare bygger en dålig mur.",
+        "Muren rasar.",
+        "Då måste byggaren betala.",
+        "Varför är den här stenen så spännande för oss i dag?",
+        "Från en enda sten kan vi se hur människor lever i det gamla Babylon.",
+        "Lagar visar vilka problem människor verkligen har: arbete, pengar, familj, hus.",
+        "Gamla lagar är ett fönster mot vardagslivet."
+      ],
+      "question": "Vem är kung X?",
+      "options": ["Hammurabi", "Augustus", "Ashoka", "Alexander den store"],
+      "words": [
+        {"word": "lön", "explanation": "pengarna du får för ditt arbete"},
+        {"word": "arvode", "explanation": "pengarna du betalar för en tjänst, till exempel till en läkare"},
+        {"word": "hyra", "explanation": "pengarna du betalar för att använda en sak, som en båt eller ett hus"},
+        {"word": "adoption", "explanation": "att ta emot ett barn i sin familj som sitt eget barn"}
+      ],
+      "main_caption": "Människor seglar, handlar och bygger i det gamla Babylon.",
+      "side_caption": "Tecknen är inhuggna i hård mörk sten. Så här ser lagarna ut."
+    },
+    {
+      "title": "Öga för öga?",
+      "text_sentences": [
+        "Kung X av Babylon sätter upp sina lagar på en hög sten.",
+        "Hans lagar är några av de första nedskrivna lagarna i världen.",
+        "En berömd regel säger: öga för öga.",
+        "Men i Babylon är människorna inte jämlika.",
+        "Några människor är fria, och några är slavar.",
+        "Straffet är inte detsamma för varje människa.",
+        "Om en man gör en fri man blind kan han förlora sitt eget öga.",
+        "Om han gör en slav blind betalar han bara silver till slavens ägare.",
+        "I dag vill många länder ha samma lag för varje människa.",
+        "Idéer om rättvisa har en historia.",
+        "De kan förändras, och de kan bli bättre."
+      ],
+      "question": "Vem är kung X?",
+      "options": ["Hammurabi", "Mose", "Solon", "Julius Caesar"],
+      "words": [
+        {"word": "slav", "explanation": "en människa som inte är fri och måste arbeta åt en ägare"},
+        {"word": "straff", "explanation": "något ont som du måste ta emot när du bryter mot en regel"},
+        {"word": "jämlik", "explanation": "när alla är lika mycket värda och har samma regler"},
+        {"word": "rättvisa", "explanation": "när människor behandlas rätt och lika"}
+      ],
+      "main_caption": "Han skadar en slav, och han betalar bara silver. Är det rättvist?",
+      "side_caption": "Hennes ögon är förbundna. I dag måste lagen vara densamma för varje människa."
+    },
+    {
+      "title": "Stenen som reser genom tiden",
+      "text_sentences": [
+        "Kung X är en kung i Babylon, i landet mellan två stora floder.",
+        "Hans lagar är inhuggna i en hög svart sten.",
+        "Högst upp på stenen finns en bild.",
+        "På bilden ger solguden kung X en stav och en ring.",
+        "Budskapet är starkt: den här lagen kommer med en guds makt.",
+        "Århundraden senare för en armé från ett annat land bort den tunga stenen.",
+        "För dem är den ett krigsbyte.",
+        "För mer än hundra år sedan gräver arkeologer fram stenen ur jorden.",
+        "I dag står stenen på ett museum i Paris.",
+        "Det finns äldre lagar, men ingen annan gammal lagsten är så väl bevarad.",
+        "En enda sten visar hur lagar, makt och föremål reser genom tiden."
+      ],
+      "question": "Vem är kung X?",
+      "options": ["Hammurabi", "Gilgamesh", "Kyros den store", "Alexander den store"],
+      "words": [
+        {"word": "stav", "explanation": "en kort rak käpp"},
+        {"word": "krigsbyte", "explanation": "en särskild sak som segrarna tar med sig hem efter ett krig"},
+        {"word": "arkeolog", "explanation": "en forskare som gräver i jorden för att hitta saker från det förflutna"}
+      ],
+      "main_caption": "En gud räcker kungen en stav och en ring.",
+      "side_caption": "Arkeologer gräver fram gamla saker ur jorden."
+    }
+  ]
+}

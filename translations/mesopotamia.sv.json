@@ -1,0 +1,134 @@
+{
+  "slug": "mesopotamia",
+  "person_sv": "Mesopotamien – de första städerna och skriften",
+  "cards": [
+    {
+      "title": "Landet mellan två floder",
+      "text_sentences": [
+        "Land X ligger mellan två stora floder, Tigris och Eufrat.",
+        "Solen är het, och det regnar sällan.",
+        "Därför gräver människorna kanaler.",
+        "Kanalerna leder flodvatten till åkrarna.",
+        "Åkrarna ger mycket säd, och byarna växer.",
+        "Byarna blir de första stora städerna på jorden.",
+        "Med tiden får städerna murar, marknader och höga tempeltorn.",
+        "Människorna trycker små tecken i våt lera.",
+        "Det är den äldsta skrift vi känner till.",
+        "Landets namn betyder \"mellan floderna\"."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Egypten", "Mesopotamien", "Indien", "Kina"],
+      "words": [
+        {"word": "kanal", "explanation": "en liten flod som människor gräver, den leder vatten till åkrarna"},
+        {"word": "lera", "explanation": "mjuk, våt jord, den blir hård när den torkar"},
+        {"word": "tempeltorn", "explanation": "ett högt torn, ett hus för en gud"},
+        {"word": "säd", "explanation": "frön från växter som vete, människor gör bröd av dem"}
+      ],
+      "main_caption": "En stor stad växer mellan två floder.",
+      "side_caption": "Människor trycker tecken i våt lera."
+    },
+    {
+      "title": "Därför uppfinner människor skriften",
+      "text_sentences": [
+        "Tempelförråden i land X är fulla: säd, ull, olja och får.",
+        "Arbetarna måste räkna allt.",
+        "Vem kommer med tio får?",
+        "Vem får tre krukor olja?",
+        "Bara minnet räcker inte till.",
+        "Först räknar människorna med små räknemärken av lera.",
+        "De två stora floderna, Eufrat och Tigris, ger oändligt med slam, och slammet ger lera.",
+        "Senare trycker människorna tecken i våt lera med en tillskuren bit vass.",
+        "Med tiden blir tecknen små kilar.",
+        "Den äldsta skrift vi känner till är ingen dikt, den är bokföring.",
+        "Långt senare skriver människorna brev, lagar och berättelser."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Kina", "Egypten", "Mesopotamien", "Fenicien"],
+      "words": [
+        {"word": "räknemärke", "explanation": "en liten bit lera som betyder en sak, till exempel ett får"},
+        {"word": "vass", "explanation": "ett högt gräs som växer vid floden"},
+        {"word": "kil", "explanation": "en liten form som spetsen på en spik"},
+        {"word": "bokföring", "explanation": "att räkna varor och skriva ner siffrorna"}
+      ],
+      "main_caption": "En skrivare räknar får och skriver siffrorna på lera.",
+      "side_caption": "Först räknar människor med räknemärken av lera, senare skriver de med kiltecken."
+    },
+    {
+      "title": "Staden: en stor uppfinning",
+      "text_sentences": [
+        "I land X, mellan två stora floder, behöver åkrarna kanaler.",
+        "Familjerna måste dela rättvist på flodvattnet.",
+        "Därför enas de om gemensamma regler och arbetar tillsammans.",
+        "De bevattnade åkrarna ger mer mat än bönderna kan äta.",
+        "Den extra maten förändrar allt: en del människor kan sluta odla.",
+        "De blir byggare, krukmakare, präster och handelsmän.",
+        "Var och en lär sig ett hantverk väl.",
+        "Detta är specialisering.",
+        "Snart lever tusentals främlingar tillsammans på en och samma plats: den första staden.",
+        "I dag ligger det här landet till största delen i Irak.",
+        "Kanske är staden den största uppfinning som människor någonsin gör."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Egypten", "Indusdalen", "Mesopotamien", "Kina"],
+      "words": [
+        {"word": "kanal", "explanation": "en liten flod som människor gräver, den leder vatten till åkrarna"},
+        {"word": "specialisering", "explanation": "när varje person lär sig ett arbete mycket väl"},
+        {"word": "hantverk", "explanation": "en särskild färdighet eller ett särskilt arbete, man lär sig det genom lång övning"},
+        {"word": "främling", "explanation": "en person som du inte känner"}
+      ],
+      "main_caption": "Kanaler leder vatten, och en stad växer fram.",
+      "side_caption": "Var och en lär sig ett hantverk."
+    },
+    {
+      "title": "Den första stora berättelsen",
+      "text_sentences": [
+        "Folket i land X skriver den äldsta stora berättelse som vi fortfarande kan läsa.",
+        "De skriver den på lertavlor.",
+        "Den handlar om Gilgamesh, en kung i staden Uruk, mellan floderna Eufrat och Tigris.",
+        "Gilgamesh förlorar sin bästa vän, och nu är han rädd för döden.",
+        "Han reser till världens ände för att finna evigt liv.",
+        "Han misslyckas.",
+        "En vis man säger till honom: ingen människa lever för evigt.",
+        "Då reser Gilgamesh hem.",
+        "Han lär sig att leva väl: bygg din stad, älska ditt folk, njut av ditt bröd.",
+        "Hur lever vi väl, när livet är kort?",
+        "Människor ställer den frågan för 4 000 år sedan, och vi ställer den än i dag."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Grekland", "Egypten", "Indien", "Mesopotamien"],
+      "words": [
+        {"word": "evig", "explanation": "för alltid, utan slut"},
+        {"word": "lertavla", "explanation": "en platt skiva av lera som man skriver på"},
+        {"word": "lera", "explanation": "mjuk, våt jord, den blir hård när den torkar"}
+      ],
+      "main_caption": "En kung reser långt för att finna evigt liv.",
+      "side_caption": "Människor skriver berättelsen på tavlor av lera."
+    },
+    {
+      "title": "Lera håller längre än papper",
+      "text_sentences": [
+        "Papper brinner, men lera blir hård när den torkar och håller nästan för evigt.",
+        "Land X är en het slätt mellan två floder, Tigris och Eufrat.",
+        "Slätten har gott om flodslam, men få träd och få stenar.",
+        "Därför skriver människorna på mjuka lertavlor, och de lämnar hundratusentals tavlor efter sig till oss.",
+        "Där finns lagar och kungalängder, men också kvitton, brev och skolövningar.",
+        "En arg kund klagar till och med på dålig koppar.",
+        "Under lång tid kan ingen läsa de kilformade tecknen.",
+        "På en hög klippa i Persien finns en kungs budskap på tre språk.",
+        "De lärda jämför språken och lär sig läsa tecknen.",
+        "Plötsligt talar vardagens röster till oss från en tid för ungefär 4 000 år sedan.",
+        "Hållbara skrivmaterial håller de små rösterna vid liv, inte bara kungarnas röster."
+      ],
+      "question": "Vilket land är detta?",
+      "options": ["Grekland", "Egypten", "Kina", "Mesopotamien"],
+      "words": [
+        {"word": "kvitto", "explanation": "en lapp som visar vad någon köper eller betalar"},
+        {"word": "lärd", "explanation": "en person som studerar ett ämne mycket djupt"},
+        {"word": "hållbar", "explanation": "stark, den håller mycket länge"},
+        {"word": "kilformad", "explanation": "som ser ut som små trianglar, breda i ena änden och spetsiga i den andra"}
+      ],
+      "main_caption": "Vi har fortfarande hundratusentals lertavlor kvar.",
+      "side_caption": "En kungs budskap på en klippa står på tre språk."
+    }
+  ]
+}

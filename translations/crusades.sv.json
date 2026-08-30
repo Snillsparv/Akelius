@@ -1,0 +1,135 @@
+{
+  "slug": "crusades",
+  "person_sv": "Korstågen",
+  "cards": [
+    {
+      "title": "Den långa resan österut",
+      "text_sentences": [
+        "Krigen X börjar för ungefär 900 år sedan.",
+        "Riddare, bönder och präster i Europa packar sina saker och börjar vandra österut.",
+        "Deras mål är en stad långt borta, i länderna vid Medelhavets östra ände.",
+        "Staden är helig för judar, för kristna och för muslimer.",
+        "Resenärerna syr fast ett kors av tyg på sina kläder.",
+        "Namnet på krigen X kommer från det tecknet.",
+        "Resan tar månader, över berg och över hav.",
+        "Vägen är lång och farlig, och många resenärer dör innan de kommer fram.",
+        "Krigen X kommer och går i ungefär 200 år.",
+        "Människor från alla tre religionerna lider i dessa krig."
+      ],
+      "question": "Vilka krig är detta?",
+      "options": ["Vikingatågen", "Korstågen", "Puniska krigen", "Mongolernas erövringar"],
+      "words": [
+        {"word": "riddare", "explanation": "en soldat till häst med kläder av metall, för länge sedan"},
+        {"word": "helig", "explanation": "mycket speciell och viktig för en religion"},
+        {"word": "präst", "explanation": "en man som leder böner i en kyrka"},
+        {"word": "sy", "explanation": "att sätta ihop tyg med nål och tråd"}
+      ],
+      "main_caption": "Resenärerna vandrar österut i många månader.",
+      "side_caption": "En riddare. Han rider på en häst och bär kläder av metall."
+    },
+    {
+      "title": "Varför ger sig så många av?",
+      "text_sentences": [
+        "Krigen X börjar för ungefär 900 år sedan.",
+        "En mäktig kyrklig ledare i Europa håller ett berömt tal.",
+        "Han uppmanar människor att tåga österut och strida för en helig stad, långt borta.",
+        "Han lovar: Gud förlåter synderna för alla som ger sig av.",
+        "Varför säger så många människor ja?",
+        "Några tror av hela sitt hjärta och vill be i den heliga staden.",
+        "Några är fattiga och hoppas på ett bättre liv.",
+        "Några riddare drömmer om ära och äventyr.",
+        "Några köpmän hoppas på ny handel.",
+        "I öster ser resenärerna rika städer, större än någon stad där hemma.",
+        "Men människorna som bor där ser något annat: främmande arméer utanför sina portar."
+      ],
+      "question": "Vilka krig är detta?",
+      "options": ["Korstågen", "Perserkrigen", "Vikingatågen", "Mongolernas erövringar"],
+      "words": [
+        {"word": "synd", "explanation": "en dålig handling mot religionens regler"},
+        {"word": "förlåter", "explanation": "slutar vara arg över en dålig handling"},
+        {"word": "ära", "explanation": "ett gott namn; människor ser upp till dig"},
+        {"word": "köpman", "explanation": "en person som köper och säljer saker"}
+      ],
+      "main_caption": "En ledare talar. Många människor bestämmer sig för att resa österut.",
+      "side_caption": "En köpman säljer tyg och kryddor."
+    },
+    {
+      "title": "Varor och idéer korsar havet",
+      "text_sentences": [
+        "Krigen X börjar för ungefär 900 år sedan.",
+        "Arméer från Europa seglar österut, till länderna vid Medelhavets östra ände.",
+        "Krigen återkommer gång på gång, under många år.",
+        "Men soldater är inte de enda resenärerna mellan de två kusterna.",
+        "Skeppen för också med sig köpmän, pilgrimer och idéer.",
+        "Européer smakar socker och citroner, och de vill ha mer.",
+        "De köper papper, fint glas och mjukt bomullstyg.",
+        "Arabiska läkare håller gammal grekisk och persisk läkekonst vid liv i sina böcker och lägger till egen ny kunskap.",
+        "En del av denna kunskap når långsamt Europa, genom handel och genom översatta böcker.",
+        "Mycket kommer också den fredliga vägen, genom Spanien och Sicilien.",
+        "Krig stänger dörrar; handel och böcker öppnar dem igen."
+      ],
+      "question": "Vilka krig är detta?",
+      "options": ["Perserkrigen", "Mongolernas erövringar", "Korstågen", "Vikingatågen"],
+      "words": [
+        {"word": "kust", "explanation": "landet vid havets kant"},
+        {"word": "pilgrim", "explanation": "en person som reser långt för att besöka en helig plats"},
+        {"word": "köpmän", "explanation": "personer som köper och säljer saker"},
+        {"word": "översatta", "explanation": "skrivna en gång till på ett annat språk"}
+      ],
+      "main_caption": "Skepp för människor och varor över havet.",
+      "side_caption": "En man skriver en gammal bok igen, på ett nytt språk."
+    },
+    {
+      "title": "Ingen enkel berättelse",
+      "text_sentences": [
+        "Under krigen X, för ungefär 900 år sedan, når en armé från Europa till sist den heliga staden.",
+        "Soldaterna bryter igenom murarna, och många människor i staden dör: muslimer och judar.",
+        "Författare från båda sidor beskriver fruktansvärda dagar.",
+        "Nästan 100 år senare tar en berömd muslimsk ledare staden tillbaka.",
+        "Den här gången kan många människor köpa sin frihet och lämna staden levande.",
+        "Samma krig, men inte samma val.",
+        "Det finns fler mörka kapitel.",
+        "På vägen österut angriper några arméer judiska familjer i europeiska städer.",
+        "Och en armé angriper Konstantinopel, en rik kristen stad, och plundrar den: kristna mot kristna.",
+        "Under 200 år visar båda sidor grymhet, och båda sidor visar nåd.",
+        "Krigen X är alltså ingen enkel berättelse om gott mot ont.",
+        "I varje krig betalar vanliga människor ur varje religion det högsta priset."
+      ],
+      "question": "Vilka krig är detta?",
+      "options": ["Korstågen", "Mongolernas erövringar", "Vikingatågen", "Puniska krigen"],
+      "words": [
+        {"word": "kapitel", "explanation": "en del av en bok; här: en del av en berättelse"},
+        {"word": "plundra", "explanation": "att ta saker från människor med våld"},
+        {"word": "Konstantinopel", "explanation": "en stor gammal stad vid havet; i dag heter den Istanbul och ligger i Turkiet"},
+        {"word": "vanlig", "explanation": "normal, inte speciell"}
+      ],
+      "main_caption": "Höga murar runt en gammal stad. Kriget är hårdast mot människorna där inne.",
+      "side_caption": "Konstantinopel: en rik stad vid havet."
+    },
+    {
+      "title": "Två böcker om samma krig",
+      "text_sentences": [
+        "Krigen X utspelar sig för ungefär 900 år sedan, kring en helig stad vid Medelhavets östra ände.",
+        "Europeiska författare från den tiden kallar krigarna från Europa heliga pilgrimer.",
+        "Arabiska författare från samma tid kallar dem helt enkelt \"frankerna\".",
+        "En arabisk författare, Usama ibn Munqidh, möter franker som fiender, och några som vänner.",
+        "En annan, Ibn al-Athir, skriver senare om den heliga stadens fall med djup sorg.",
+        "Europeiska böcker berättar om samma dagar som en stor seger.",
+        "Samma stad, samma dagar: två mycket olika berättelser.",
+        "I dag använder politiker ibland namnet på dessa krig som ett vapen i sina tal.",
+        "Det gamla ordet gör fortfarande människor arga eller stolta.",
+        "En historiker läser båda sidor och prövar varje berättelse mot källorna."
+      ],
+      "question": "Vilka krig är detta?",
+      "options": ["Perserkrigen", "Puniska krigen", "Mongolernas erövringar", "Korstågen"],
+      "words": [
+        {"word": "frankerna", "explanation": "ett gammalt arabiskt namn på människor från västra Europa"},
+        {"word": "politiker", "explanation": "en person som arbetar med makt och styre i ett land"},
+        {"word": "källor", "explanation": "gamla texter eller saker som ger oss kunskap om det förflutna"},
+        {"word": "historiker", "explanation": "en person som studerar det förflutna"}
+      ],
+      "main_caption": "Två gamla böcker berättar om samma krig.",
+      "side_caption": "En historiker studerar gamla källor från båda sidor."
+    }
+  ]
+}
