@@ -151,10 +151,12 @@
     Här är de första ämnena med färdiga bilder. Varje person eller skeende har fem frågekort:
     ett för årskurs&nbsp;6, ett för årskurs&nbsp;9, två för årskurs&nbsp;12 och ett för universitetsnivå.
     Korten är oberoende av varandra. Rätt svar är markerat med en grön bock,
-    och knappen nedan döljer facit. Fler ämnen är redan skrivna och faktagranskade,
+    och knappen nedan döljer facit. Kortens text finns på engelska och svenska,
+    knappen nedan växlar språk. Fler ämnen är redan skrivna och faktagranskade,
     och bilderna produceras i omgångar.
   </p>
   <div class="controls">
+    <button id="langBtn" type="button" aria-pressed="false">Visa på svenska</button>
     <button id="facitBtn" type="button" aria-pressed="true">Facit: på</button>
     <span>Vid utskrift hamnar varje kort på en egen sida.</span>
   </div>
@@ -176,59 +178,91 @@ const nCards = READY.reduce((n, s) => n + s.cards.length, 0);
 document.getElementById('subline').textContent =
   READY.length + ' ämnen · ' + nCards + ' kort · Jonas von Essen';
 
-const toc = document.getElementById('toc');
-READY.forEach(set => {
-  const li = document.createElement('li');
-  li.innerHTML = '<a href="#' + esc(set.slug) + '">' + esc(set.person) + '</a>';
-  toc.appendChild(li);
-});
-
-function fig(kind, img, imgId) {
-  const key = imgId + '-' + kind;
-  return '<figure class="img img-' + kind + '">' +
-    '<img src="images/web/' + key + '.jpg" alt="' + esc(img.caption) + '" loading="lazy">' +
-    '<figcaption class="caption">' + esc(img.caption) + '</figcaption></figure>';
+const LVL_SV = {'grade 6': 'årskurs 6', 'grade 9': 'årskurs 9', 'grade 12': 'årskurs 12', 'university': 'universitet'};
+const CAT_SV = {'civilizations': 'civilisation', 'religions': 'religion', 'middle ages': 'medeltiden'};
+let lang = 'en';
+const personName = set => lang === 'sv' && set.person_sv ? set.person_sv : set.person;
+function loc(c) {
+  const sv = lang === 'sv' && c.sv;
+  return {
+    title: sv ? c.sv.title : c.title,
+    sentences: sv ? c.sv.text_sentences : c.text_sentences,
+    question: sv ? c.sv.question : c.question,
+    options: sv ? c.sv.options : c.options,
+    correct: sv ? c.sv.correct : c.correct,
+    words: sv ? c.sv.words : c.words,
+    level: lang === 'sv' ? (LVL_SV[c.level] || c.level) : c.level,
+    category: lang === 'sv' ? (CAT_SV[c.category] || c.category) : c.category,
+    mainCap: sv ? c.sv.main_caption : c.main_image.caption,
+    sideCap: sv ? c.sv.side_caption : c.side_image.caption,
+  };
 }
 
+function fig(kind, caption, imgId) {
+  const key = imgId + '-' + kind;
+  return '<figure class="img img-' + kind + '">' +
+    '<img src="images/web/' + key + '.jpg" alt="' + esc(caption) + '" loading="lazy">' +
+    '<figcaption class="caption">' + esc(caption) + '</figcaption></figure>';
+}
+
+const toc = document.getElementById('toc');
 const app = document.getElementById('app');
-let cardNo = 0;
-READY.forEach(set => {
-  const h = document.createElement('h2');
-  h.className = 'person-head';
-  h.id = set.slug;
-  h.innerHTML = '<strong>' + esc(set.person) + '</strong>' +
-    '<span class="count">' + set.cards.length + ' kort</span>';
-  app.appendChild(h);
-  set.cards.forEach((c, i) => {
-    const color = CAT_COLORS[(cardNo++) % CAT_COLORS.length];
-    const sec = document.createElement('section');
-    sec.className = 'sheet';
-    sec.innerHTML =
-      '<div class="sheet-meta">' +
-        '<span class="lvl">' + esc(c.level) + '</span>' +
-        '<span>' + esc(set.person) + ' · kort ' + (i + 1) + ' av 5</span>' +
-        '<span>' + esc(c.title) + '</span>' +
-      '</div>' +
-      '<article class="card" style="--cat:' + color + '">' +
-        '<div>' +
-          fig('main', c.main_image, set.slug + '-' + (i + 1)) +
-          '<div class="card-text">' +
-            c.text_sentences.map(s => '<p>' + esc(s) + '</p>').join('') +
-            '<p class="q">' + esc(c.question) + '</p>' +
-          '</div>' +
-        '</div>' +
-        '<aside>' +
-          fig('side', c.side_image, set.slug + '-' + (i + 1)) +
-          (c.words.length ? '<dl class="words">' + c.words.map(w =>
-            '<dt>' + esc(w.word) + '</dt><dd>' + esc(w.explanation) + '</dd>').join('') + '</dl>' : '') +
-          '<h2 class="category">' + esc(c.category) + '</h2>' +
-          '<ul class="options">' + c.options.map(o =>
-            '<li' + (o === c.correct ? ' class="is-correct"' : '') + '><span class="sq"></span>' +
-            esc(o) + '<span class="tick">✓ rätt svar</span></li>').join('') + '</ul>' +
-        '</aside>' +
-      '</article>';
-    app.appendChild(sec);
+function render() {
+  toc.innerHTML = '';
+  app.innerHTML = '';
+  READY.forEach(set => {
+    const li = document.createElement('li');
+    li.innerHTML = '<a href="#' + esc(set.slug) + '">' + esc(personName(set)) + '</a>';
+    toc.appendChild(li);
   });
+  let cardNo = 0;
+  READY.forEach(set => {
+    const h = document.createElement('h2');
+    h.className = 'person-head';
+    h.id = set.slug;
+    h.innerHTML = '<strong>' + esc(personName(set)) + '</strong>' +
+      '<span class="count">' + set.cards.length + ' kort</span>';
+    app.appendChild(h);
+    set.cards.forEach((c, i) => {
+      const L = loc(c);
+      const color = CAT_COLORS[(cardNo++) % CAT_COLORS.length];
+      const sec = document.createElement('section');
+      sec.className = 'sheet';
+      sec.innerHTML =
+        '<div class="sheet-meta">' +
+          '<span class="lvl">' + esc(L.level) + '</span>' +
+          '<span>' + esc(personName(set)) + ' · kort ' + (i + 1) + ' av 5</span>' +
+          '<span>' + esc(L.title) + '</span>' +
+        '</div>' +
+        '<article class="card" style="--cat:' + color + '">' +
+          '<div>' +
+            fig('main', L.mainCap, set.slug + '-' + (i + 1)) +
+            '<div class="card-text">' +
+              L.sentences.map(s => '<p>' + esc(s) + '</p>').join('') +
+              '<p class="q">' + esc(L.question) + '</p>' +
+            '</div>' +
+          '</div>' +
+          '<aside>' +
+            fig('side', L.sideCap, set.slug + '-' + (i + 1)) +
+            (L.words.length ? '<dl class="words">' + L.words.map(w =>
+              '<dt>' + esc(w.word) + '</dt><dd>' + esc(w.explanation) + '</dd>').join('') + '</dl>' : '') +
+            '<h2 class="category">' + esc(L.category) + '</h2>' +
+            '<ul class="options">' + L.options.map(o =>
+              '<li' + (o === L.correct ? ' class="is-correct"' : '') + '><span class="sq"></span>' +
+              esc(o) + '<span class="tick">✓ rätt svar</span></li>').join('') + '</ul>' +
+          '</aside>' +
+        '</article>';
+      app.appendChild(sec);
+    });
+  });
+}
+render();
+const langBtn = document.getElementById('langBtn');
+langBtn.addEventListener('click', () => {
+  lang = lang === 'en' ? 'sv' : 'en';
+  langBtn.textContent = lang === 'en' ? 'Visa på svenska' : 'Show in English';
+  langBtn.setAttribute('aria-pressed', String(lang === 'sv'));
+  render();
 });
 const facitBtn = document.getElementById('facitBtn');
 facitBtn.addEventListener('click', () => {

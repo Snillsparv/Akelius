@@ -177,6 +177,7 @@
     <span class="sub" id="subline">Jonas von Essen</span>
   </header>
   <div class="controls">
+    <button id="langBtn" type="button" aria-pressed="false">Visa på svenska</button>
     <button id="facitBtn" type="button" aria-pressed="true">Facit: på</button>
     <span>Kort med färdiga bilder visar dem — klicka på en bild för originalfilen i full upplösning. Övriga bildytor är briefer; slutbilder AI-ritas eller hämtas från Shutterstock enligt blocket under varje kort.</span>
   </div>
@@ -191,65 +192,96 @@ const nCards = DATA.reduce((n, s) => n + s.cards.length, 0);
 document.getElementById('subline').textContent =
   DATA.length + ' ämnen · ' + nCards + ' kort · ' + HAVE.size + ' av ' + nCards * 2 + ' bilder · Jonas von Essen';
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-function fig(kind, img, imgId) {
+const LVL_SV = {'grade 6': 'årskurs 6', 'grade 9': 'årskurs 9', 'grade 12': 'årskurs 12', 'university': 'universitet'};
+const CAT_SV = {'civilizations': 'civilisation', 'religions': 'religion', 'middle ages': 'medeltiden'};
+let lang = 'en';
+const personName = set => lang === 'sv' && set.person_sv ? set.person_sv : set.person;
+function loc(c) {
+  const sv = lang === 'sv' && c.sv;
+  return {
+    title: sv ? c.sv.title : c.title,
+    sentences: sv ? c.sv.text_sentences : c.text_sentences,
+    question: sv ? c.sv.question : c.question,
+    options: sv ? c.sv.options : c.options,
+    correct: sv ? c.sv.correct : c.correct,
+    words: sv ? c.sv.words : c.words,
+    level: lang === 'sv' ? (LVL_SV[c.level] || c.level) : c.level,
+    category: lang === 'sv' ? (CAT_SV[c.category] || c.category) : c.category,
+    mainCap: sv ? c.sv.main_caption : c.main_image.caption,
+    sideCap: sv ? c.sv.side_caption : c.side_image.caption,
+  };
+}
+function fig(kind, img, caption, imgId) {
   const key = imgId + '-' + kind;
   if (HAVE.has(key)) {
     return '<figure class="img img-' + kind + '">' +
       '<a href="images/' + key + '.png" title="Öppna originalfilen (PNG)">' +
-      '<img src="images/web/' + key + '.jpg" alt="' + esc(img.caption) + '" loading="lazy"></a>' +
-      '<figcaption class="caption">' + esc(img.caption) + '</figcaption></figure>';
+      '<img src="images/web/' + key + '.jpg" alt="' + esc(caption) + '" loading="lazy"></a>' +
+      '<figcaption class="caption">' + esc(caption) + '</figcaption></figure>';
   }
   const tag = kind === 'main' ? 'Huvudbild' : 'Sidobild';
   return '<figure class="ph' + (kind === 'main' ? ' ph-main' : '') + '">' +
     '<span class="ph-tag">' + tag + '</span>' + esc(img.description) + '</figure>' +
-    (kind === 'side' ? '<p class="caption">' + esc(img.caption) + '</p>' : '');
+    (kind === 'side' ? '<p class="caption">' + esc(caption) + '</p>' : '');
 }
-let cardNo = 0;
-DATA.forEach(set => {
-  const h = document.createElement('h2');
-  h.className = 'person-head';
-  h.innerHTML = '<strong>' + esc(set.person) + '</strong> ' + set.cards.length + ' kort';
-  app.appendChild(h);
-  set.cards.forEach((c, i) => {
-    const color = CAT_COLORS[(cardNo++) % CAT_COLORS.length];
-    const sec = document.createElement('section');
-    sec.className = 'sheet';
-    sec.innerHTML =
-      '<div class="sheet-meta">' +
-        '<span class="lvl">' + esc(c.level) + '</span>' +
-        '<span>' + esc(set.person) + ' · kort ' + (i + 1) + ' av 5</span>' +
-        '<span>' + esc(c.title) + '</span>' +
-      '</div>' +
-      '<article class="card" style="--cat:' + color + '">' +
-        '<div>' +
-          fig('main', c.main_image, set.slug + '-' + (i + 1)) +
-          '<div class="card-text">' +
-            c.text_sentences.map(s => '<p>' + esc(s) + '</p>').join('') +
-            '<p class="q">' + esc(c.question) + '</p>' +
-          '</div>' +
+function render() {
+  app.innerHTML = '';
+  let cardNo = 0;
+  DATA.forEach(set => {
+    const h = document.createElement('h2');
+    h.className = 'person-head';
+    h.innerHTML = '<strong>' + esc(personName(set)) + '</strong> ' + set.cards.length + ' kort';
+    app.appendChild(h);
+    set.cards.forEach((c, i) => {
+      const L = loc(c);
+      const color = CAT_COLORS[(cardNo++) % CAT_COLORS.length];
+      const sec = document.createElement('section');
+      sec.className = 'sheet';
+      sec.innerHTML =
+        '<div class="sheet-meta">' +
+          '<span class="lvl">' + esc(L.level) + '</span>' +
+          '<span>' + esc(personName(set)) + ' · kort ' + (i + 1) + ' av 5</span>' +
+          '<span>' + esc(L.title) + '</span>' +
         '</div>' +
-        '<aside>' +
-          fig('side', c.side_image, set.slug + '-' + (i + 1)) +
-          (c.words.length ? '<dl class="words">' + c.words.map(w =>
-            '<dt>' + esc(w.word) + '</dt><dd>' + esc(w.explanation) + '</dd>').join('') + '</dl>' : '') +
-          '<h2 class="category">' + esc(c.category) + '</h2>' +
-          '<ul class="options">' + c.options.map(o =>
-            '<li' + (o === c.correct ? ' class="is-correct"' : '') + '><span class="sq"></span>' +
-            esc(o) + '<span class="tick">✓ rätt svar</span></li>').join('') + '</ul>' +
-        '</aside>' +
-      '</article>' +
-      '<details class="brief"><summary>Bildbriefer &amp; bildtexter</summary><div class="brief-body">' +
-        ['main_image', 'side_image'].map((k, j) => {
-          const img = c[k];
-          return '<div><h3>' + (j ? 'Sidobild' : 'Huvudbild') + '</h3>' +
-            '<p><b>Motiv:</b> ' + esc(img.description) + '</p>' +
-            '<p><b>Bildtext:</b> ' + esc(img.caption) + '</p>' +
-            '<p><b>Shutterstock:</b> ' + esc(img.shutterstock_query) + '</p>' +
-            '<p><b>AI-prompt:</b> ' + esc(img.ai_prompt) + '</p></div>';
-        }).join('') +
-      '</div></details>';
-    app.appendChild(sec);
+        '<article class="card" style="--cat:' + color + '">' +
+          '<div>' +
+            fig('main', c.main_image, L.mainCap, set.slug + '-' + (i + 1)) +
+            '<div class="card-text">' +
+              L.sentences.map(s => '<p>' + esc(s) + '</p>').join('') +
+              '<p class="q">' + esc(L.question) + '</p>' +
+            '</div>' +
+          '</div>' +
+          '<aside>' +
+            fig('side', c.side_image, L.sideCap, set.slug + '-' + (i + 1)) +
+            (L.words.length ? '<dl class="words">' + L.words.map(w =>
+              '<dt>' + esc(w.word) + '</dt><dd>' + esc(w.explanation) + '</dd>').join('') + '</dl>' : '') +
+            '<h2 class="category">' + esc(L.category) + '</h2>' +
+            '<ul class="options">' + L.options.map(o =>
+              '<li' + (o === L.correct ? ' class="is-correct"' : '') + '><span class="sq"></span>' +
+              esc(o) + '<span class="tick">✓ rätt svar</span></li>').join('') + '</ul>' +
+          '</aside>' +
+        '</article>' +
+        '<details class="brief"><summary>Bildbriefer &amp; bildtexter</summary><div class="brief-body">' +
+          ['main_image', 'side_image'].map((k, j) => {
+            const img = c[k];
+            return '<div><h3>' + (j ? 'Sidobild' : 'Huvudbild') + '</h3>' +
+              '<p><b>Motiv:</b> ' + esc(img.description) + '</p>' +
+              '<p><b>Bildtext:</b> ' + esc(img.caption) + '</p>' +
+              '<p><b>Shutterstock:</b> ' + esc(img.shutterstock_query) + '</p>' +
+              '<p><b>AI-prompt:</b> ' + esc(img.ai_prompt) + '</p></div>';
+          }).join('') +
+        '</div></details>';
+      app.appendChild(sec);
+    });
   });
+}
+render();
+const langBtn = document.getElementById('langBtn');
+langBtn.addEventListener('click', () => {
+  lang = lang === 'en' ? 'sv' : 'en';
+  langBtn.textContent = lang === 'en' ? 'Visa på svenska' : 'Show in English';
+  langBtn.setAttribute('aria-pressed', String(lang === 'sv'));
+  render();
 });
 const facitBtn = document.getElementById('facitBtn');
 facitBtn.addEventListener('click', () => {
