@@ -11,19 +11,36 @@
         "På landsidan bygger människorna två starka murar, den ena bakom den andra.",
         "Under många århundraden kan ingen fiendearmé bryta igenom dessa landmurar.",
         "Skepp från många länder fyller stadens stora hamn.",
-        "Handelsmän för med sig siden från öster och pälsverk från norr.",
+        "Handelsmän för med sig siden från öster och pälsar från norr.",
         "Handelsvägar från Asien och Europa möts i denna stad.",
         "Innanför murarna lyser kyrkorna av bilder gjorda av små gyllene stenar.",
         "Människor kallar dessa bilder mosaiker.",
         "Resenärer säger: ingen stad på jorden är rikare."
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Egypten", "Rom", "Bysantinska riket", "Osmanska riket"],
+      "options": [
+        "Egypten",
+        "Rom",
+        "Bysantinska riket",
+        "Osmanska riket"
+      ],
       "words": [
-        {"word": "huvudstad", "explanation": "den viktigaste staden i ett land, där härskaren bor"},
-        {"word": "hamn", "explanation": "en säker plats vid vattnet där skepp kan lägga till"},
-        {"word": "siden", "explanation": "ett fint, mjukt tyg som kostar mycket, först tillverkat i Kina"},
-        {"word": "mosaik", "explanation": "en bild gjord av många små färgade stenar"}
+        {
+          "word": "huvudstad",
+          "explanation": "den viktigaste staden i ett land, där härskaren bor"
+        },
+        {
+          "word": "hamn",
+          "explanation": "en säker plats vid vattnet där skepp kan lägga till"
+        },
+        {
+          "word": "siden",
+          "explanation": "ett fint, mjukt tyg som kostar mycket, först tillverkat i Kina"
+        },
+        {
+          "word": "mosaik",
+          "explanation": "en bild gjord av många små färgade stenar"
+        }
       ],
       "main_caption": "Starka murar skyddar staden på landsidan.",
       "side_caption": "Många små gyllene stenar bildar en enda stor bild. Detta är en mosaik."
@@ -44,12 +61,29 @@
         "En enda byggnad berättar sin stads långa historia."
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Bysantinska riket", "Grekland", "Osmanska riket", "Egypten"],
+      "options": [
+        "Bysantinska riket",
+        "Grekland",
+        "Osmanska riket",
+        "Egypten"
+      ],
       "words": [
-        {"word": "kupol", "explanation": "ett runt tak, som den övre halvan av ett klot"},
-        {"word": "kejsare", "explanation": "härskaren över ett kejsarrike"},
-        {"word": "moské", "explanation": "en byggnad där muslimer ber"},
-        {"word": "museum", "explanation": "en byggnad där människor kan titta på gamla och viktiga saker"}
+        {
+          "word": "kupol",
+          "explanation": "ett runt tak, som den övre halvan av ett klot"
+        },
+        {
+          "word": "kejsare",
+          "explanation": "härskaren över ett kejsarrike"
+        },
+        {
+          "word": "moské",
+          "explanation": "en byggnad där muslimer ber"
+        },
+        {
+          "word": "museum",
+          "explanation": "en byggnad där människor kan titta på gamla och viktiga saker"
+        }
       ],
       "main_caption": "Denna berömda byggnad är ungefär 1 500 år gammal.",
       "side_caption": "Ljuset faller in under den stora kupolen. Kupolen tycks sväva."
@@ -65,17 +99,34 @@
         "Deras uppgift: att läsa allt och sortera de goda reglerna i tydliga böcker.",
         "Gruppen skriver också en liten första bok för nya juridikstudenter.",
         "Riken går under, men dessa lagböcker överlever.",
-        "Många århundraden senare studerar juridikskolor i Europa dem igen.",
+        "Många århundraden senare studerar man dem igen vid Europas juristutbildningar.",
         "I dag vilar många länders lagar fortfarande på denna gamla grund.",
         "Goda lagar kan leva längre än de länder som skriver dem."
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Persien", "Rom", "Egypten", "Bysantinska riket"],
+      "options": [
+        "Persien",
+        "Rom",
+        "Egypten",
+        "Bysantinska riket"
+      ],
       "words": [
-        {"word": "röra", "explanation": "många saker huller om buller, utan ordning"},
-        {"word": "expert", "explanation": "en person som kan mycket om en enda sak"},
-        {"word": "motsatt", "explanation": "helt annorlunda, tvärtom"},
-        {"word": "grund", "explanation": "den starka delen under en byggnad, här: det som något annat vilar på"}
+        {
+          "word": "röra",
+          "explanation": "många saker huller om buller, utan ordning"
+        },
+        {
+          "word": "expert",
+          "explanation": "en person som kan mycket om en enda sak"
+        },
+        {
+          "word": "motsatt",
+          "explanation": "helt annorlunda, tvärtom"
+        },
+        {
+          "word": "grund",
+          "explanation": "den starka delen under en byggnad, här: det som något annat vilar på"
+        }
       ],
       "main_caption": "Kejsarens grupp sorterar tusen år av lagar.",
       "side_caption": "Dagens lagböcker vilar på mycket gammal grund."
@@ -87,7 +138,7 @@
         "I ungefär tusen år kopierar skrivare dessa böcker för hand, sida för sida.",
         "Pjäser, dikter, vetenskap och filosofi överlever på det sättet.",
         "I riket tvistar man också om heliga bilder.",
-        "Under en tid förbjuder kejsarna dem till och med.",
+        "Under en tid förbjuder kejsarna till och med bilderna.",
         "Senare kommer bilderna tillbaka.",
         "För ungefär 600 år sedan tar en armé från ett nytt rike huvudstaden.",
         "Många lärda flyr västerut, till Italien.",
@@ -96,12 +147,29 @@
         "De gamla böckerna ger näring åt denna nya tid av konst och lärande: renässansen."
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Rom", "Bysantinska riket", "Osmanska riket", "Persien"],
+      "options": [
+        "Rom",
+        "Bysantinska riket",
+        "Osmanska riket",
+        "Persien"
+      ],
       "words": [
-        {"word": "skrivare", "explanation": "en person som arbetar med att kopiera böcker för hand"},
-        {"word": "lärd", "explanation": "en person som studerar och kan mycket"},
-        {"word": "filosofi", "explanation": "att tänka djupt om livet, sanningen och rätt och fel"},
-        {"word": "renässansen", "explanation": "en tid i Europa när konst och lärande växer snabbt, ordet betyder ”pånyttfödelse”"}
+        {
+          "word": "skrivare",
+          "explanation": "en person som arbetar med att kopiera böcker för hand"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar och kan mycket"
+        },
+        {
+          "word": "filosofi",
+          "explanation": "att tänka djupt om livet, sanningen och rätt och fel"
+        },
+        {
+          "word": "renässansen",
+          "explanation": "en tid i Europa när konst och lärande växer snabbt, ordet betyder ”pånyttfödelse”"
+        }
       ],
       "main_caption": "Skrivare kopierar de gamla böckerna för hand, sida för sida.",
       "side_caption": "De lärda seglar västerut. De gamla böckerna följer med dem."
@@ -115,18 +183,32 @@
         "Riket lever länge, men en dag faller det.",
         "Ungefär hundra år senare trycker en lärd i väst en bok om dess historia.",
         "Han behöver ett namn, så han använder huvudstadens mycket gamla grekiska namn.",
-        "Hans nya namn vinner: i dag använder historieböcker över hela världen det.",
+        "Hans nya namn vinner: i dag använder världens historieböcker det.",
         "Varför inte helt enkelt säga romare?",
         "I väst behåller kungar och påvar det namnet för sig själva.",
-        "Namn i historien är inte neutrala: någon väljer dem, senare, och av en anledning.",
+        "Namn i historien är inte neutrala: någon väljer dem, senare, och det av en bestämd anledning.",
         "Så fråga: vem sätter namn på det förflutna?"
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Osmanska riket", "Persien", "Egypten", "Bysantinska riket"],
+      "options": [
+        "Osmanska riket",
+        "Persien",
+        "Egypten",
+        "Bysantinska riket"
+      ],
       "words": [
-        {"word": "lärd", "explanation": "en person som studerar och kan mycket"},
-        {"word": "trycka", "explanation": "att göra många exemplar av en bok med en maskin"},
-        {"word": "neutral", "explanation": "som inte tar någons parti"}
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar och kan mycket"
+        },
+        {
+          "word": "trycka",
+          "explanation": "att göra många exemplar av en bok med en maskin"
+        },
+        {
+          "word": "neutral",
+          "explanation": "som inte tar någons parti"
+        }
       ],
       "main_caption": "Långt efter rikets slut ger en lärd det ett nytt namn.",
       "side_caption": "Riket ligger i öster, runt en enda stor stad mellan två hav."

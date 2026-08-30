@@ -18,11 +18,25 @@
         "Människor över hela världen berättar hans berättelser än i dag."
       ],
       "question": "Vem är herr X?",
-      "options": ["Buddha", "Jesus", "Muhammed", "Mose"],
+      "options": [
+        "Buddha",
+        "Jesus",
+        "Muhammed",
+        "Mose"
+      ],
       "words": [
-        {"word": "snickare", "explanation": "en person som bygger saker av trä"},
-        {"word": "fiskare", "explanation": "en person som fångar fisk"},
-        {"word": "herde", "explanation": "en person som tar hand om får"}
+        {
+          "word": "snickare",
+          "explanation": "en person som bygger saker av trä"
+        },
+        {
+          "word": "fiskare",
+          "explanation": "en person som fångar fisk"
+        },
+        {
+          "word": "herde",
+          "explanation": "en person som tar hand om får"
+        }
       ],
       "main_caption": "En lärare berättar historier vid en stor sjö.",
       "side_caption": "En herde hittar sitt förlorade får och bär hem det."
@@ -31,7 +45,7 @@
       "title": "Älska också dina fiender",
       "text_sentences": [
         "Herr X är en lärare som lever för ungefär 2 000 år sedan.",
-        "Stora folkskaror följer honom från by till by och uppför en grön bergssluttning.",
+        "Folkskaror följer honom från by till by och uppför en grön bergssluttning.",
         "- Älska din nästa som dig själv, lär han ut.",
         "Och han går längre: älska också dina fiender, lär han ut.",
         "Han lär också ut förlåtelse: löna inte ont med ont.",
@@ -42,12 +56,29 @@
         "Lätt att säga, svårt att göra, då som nu."
       ],
       "question": "Vem är herr X?",
-      "options": ["Mose", "Buddha", "Jesus", "Muhammed"],
+      "options": [
+        "Mose",
+        "Buddha",
+        "Jesus",
+        "Muhammed"
+      ],
       "words": [
-        {"word": "nästa", "explanation": "en person som finns nära dig; här betyder det varje annan människa"},
-        {"word": "fiende", "explanation": "en person som är emot dig"},
-        {"word": "förlåtelse", "explanation": "du slutar vara arg på en person som har gjort dig något ont"},
-        {"word": "gyllene regeln", "explanation": "en berömd regel: behandla andra så som du vill att de ska behandla dig; herr X säger den med ett ”gör”, inte med ett ”gör inte”"}
+        {
+          "word": "nästa",
+          "explanation": "en person som finns nära dig; här betyder det varje annan människa"
+        },
+        {
+          "word": "fiende",
+          "explanation": "en person som är emot dig"
+        },
+        {
+          "word": "förlåtelse",
+          "explanation": "du slutar vara arg på en person som har gjort dig något ont"
+        },
+        {
+          "word": "gyllene regeln",
+          "explanation": "en berömd regel: behandla andra så som du vill att de ska behandla dig; herr X säger den med ett ”gör”, inte med ett ”gör inte”"
+        }
       ],
       "main_caption": "En lärare talar till en stor folkskara på en grön bergssluttning.",
       "side_caption": "Förlåtelse: du slutar vara arg."
@@ -68,12 +99,29 @@
         "En regel är lätt att glömma, men en bra berättelse stannar kvar hos dig."
       ],
       "question": "Vem är herr X?",
-      "options": ["Jesus", "Sokrates", "Buddha", "Muhammed"],
+      "options": [
+        "Jesus",
+        "Sokrates",
+        "Buddha",
+        "Muhammed"
+      ],
       "words": [
-        {"word": "liknelse", "explanation": "en kort berättelse med en lärdom inuti"},
-        {"word": "främling", "explanation": "en person från ett annat land eller en annan grupp"},
-        {"word": "sår", "explanation": "ett skadat ställe på kroppen"},
-        {"word": "se ner på", "explanation": "att tycka att en person är mindre värd"}
+        {
+          "word": "liknelse",
+          "explanation": "en kort berättelse med en lärdom inuti"
+        },
+        {
+          "word": "främling",
+          "explanation": "en person från ett annat land eller en annan grupp"
+        },
+        {
+          "word": "sår",
+          "explanation": "ett skadat ställe på kroppen"
+        },
+        {
+          "word": "se ner på",
+          "explanation": "att tycka att en person är mindre värd"
+        }
       ],
       "main_caption": "En man stannar och hjälper den skadade resenären.",
       "side_caption": "Lärdomen lever än i dag: hjälp även en främling."
@@ -93,12 +141,29 @@
         "Så herr X föds troligen några år ”före” år ett!"
       ],
       "question": "Vem är herr X?",
-      "options": ["Muhammed", "Julius Caesar", "Jesus", "Buddha"],
+      "options": [
+        "Muhammed",
+        "Julius Caesar",
+        "Jesus",
+        "Buddha"
+      ],
       "words": [
-        {"word": "anhängare", "explanation": "en person som tror på en lärare och lever efter hans ord"},
-        {"word": "tro", "explanation": "en stark övertygelse inom en religion"},
-        {"word": "kalender", "explanation": "vårt sätt att räkna och namnge dagar och år"},
-        {"word": "munk", "explanation": "en man som lever ett enkelt, religiöst liv"}
+        {
+          "word": "anhängare",
+          "explanation": "en person som tror på en lärare och lever efter hans ord"
+        },
+        {
+          "word": "tro",
+          "explanation": "en stark övertygelse inom en religion"
+        },
+        {
+          "word": "kalender",
+          "explanation": "vårt sätt att räkna och namnge dagar och år"
+        },
+        {
+          "word": "munk",
+          "explanation": "en man som lever ett enkelt, religiöst liv"
+        }
       ],
       "main_caption": "Från ett enda litet land färdas läran runt ett stort hav.",
       "side_caption": "En enkel fisk: ett gammalt tecken för de första anhängarna."
@@ -110,7 +175,7 @@
         "Själv skriver han ingen bok.",
         "Så hur vet vi något om honom?",
         "Årtionden efter hans död skriver hans anhängare fyra korta böcker om hans liv.",
-        "Författarna är troende, inte neutrala rapportörer.",
+        "Författarna är troende, inte neutrala journalister.",
         "Gamla romerska och judiska historiker nämner honom också, på några korta rader.",
         "Därför är nästan alla historiker överens: mannen är en verklig person.",
         "Han undervisar, han samlar anhängare, och han avrättas av den romerska makten.",
@@ -119,12 +184,29 @@
         "Historiker och troende läser samma gamla sidor, med olika frågor."
       ],
       "question": "Vem är herr X?",
-      "options": ["Sokrates", "Muhammed", "Buddha", "Jesus"],
+      "options": [
+        "Sokrates",
+        "Muhammed",
+        "Buddha",
+        "Jesus"
+      ],
       "words": [
-        {"word": "årtionde", "explanation": "en tid på tio år"},
-        {"word": "troende", "explanation": "en person som tillhör en religion"},
-        {"word": "neutral", "explanation": "som inte tar någons parti"},
-        {"word": "historiker", "explanation": "en person som studerar det förflutna"}
+        {
+          "word": "årtionde",
+          "explanation": "en tid på tio år"
+        },
+        {
+          "word": "troende",
+          "explanation": "en person som tillhör en religion"
+        },
+        {
+          "word": "neutral",
+          "explanation": "som inte tar någons parti"
+        },
+        {
+          "word": "historiker",
+          "explanation": "en person som studerar det förflutna"
+        }
       ],
       "main_caption": "Många år efter hans död skriver anhängare ner hans historia.",
       "side_caption": "En historiker studerar en mycket gammal sida."

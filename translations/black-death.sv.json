@@ -18,15 +18,32 @@
         "De är rädda, och de kan inte stoppa den."
       ],
       "question": "Vilken sjukdom är detta?",
-      "options": ["Digerdöden", "smittkoppor", "kolera", "spetälska"],
+      "options": [
+        "Digerdöden",
+        "smittkoppor",
+        "kolera",
+        "spetälska"
+      ],
       "words": [
-        {"word": "hamn", "explanation": "en plats vid havet där skepp stannar"},
-        {"word": "handelsväg", "explanation": "en väg där människor fraktar saker för att köpa och sälja"},
-        {"word": "sprider sig", "explanation": "går från en plats eller en person till många"},
-        {"word": "orsak", "explanation": "det som gör att något händer"}
+        {
+          "word": "hamn",
+          "explanation": "en plats vid havet där skepp stannar"
+        },
+        {
+          "word": "handelsväg",
+          "explanation": "en väg där människor fraktar saker för att köpa och sälja"
+        },
+        {
+          "word": "sprider sig",
+          "explanation": "går från en plats eller en person till många"
+        },
+        {
+          "word": "orsak",
+          "explanation": "det som gör att något händer"
+        }
       ],
       "main_caption": "Skepp kommer till en livlig stad vid havet.",
-      "side_caption": "Handelsvägar binder samman avlägsna städer över land och hav."
+      "side_caption": "Handelsvägar binder samman städer långt borta, över land och hav."
     },
     {
       "title": "Att gissa och att veta",
@@ -44,12 +61,29 @@
         "Att gissa och att veta är inte samma sak."
       ],
       "question": "Vilken sjukdom är detta?",
-      "options": ["smittkoppor", "malaria", "Digerdöden", "kolera"],
+      "options": [
+        "smittkoppor",
+        "malaria",
+        "Digerdöden",
+        "kolera"
+      ],
       "words": [
-        {"word": "straff", "explanation": "det du får när du har gjort något fel"},
-        {"word": "botemedel", "explanation": "något som gör en sjuk person frisk igen"},
-        {"word": "bakterie", "explanation": "en pytteliten levande varelse, alldeles för liten att se, som kan göra dig sjuk"},
-        {"word": "loppa", "explanation": "en mycket liten hoppande insekt som biter djur och människor"}
+        {
+          "word": "straff",
+          "explanation": "det du får när du har gjort något fel"
+        },
+        {
+          "word": "botemedel",
+          "explanation": "något som gör en sjuk person frisk igen"
+        },
+        {
+          "word": "bakterie",
+          "explanation": "en pytteliten levande varelse, alldeles för liten att se, som kan göra dig sjuk"
+        },
+        {
+          "word": "loppa",
+          "explanation": "en mycket liten hoppande insekt som biter djur och människor"
+        }
       ],
       "main_caption": "Råttor reser med människor, skepp och mat.",
       "side_caption": "En loppa. Den här pyttelilla insekten hoppar och biter."
@@ -70,12 +104,29 @@
         "När människorna är få är deras arbete värt mer."
       ],
       "question": "Vilken sjukdom är detta?",
-      "options": ["kolera", "spetälska", "smittkoppor", "Digerdöden"],
+      "options": [
+        "kolera",
+        "spetälska",
+        "smittkoppor",
+        "Digerdöden"
+      ],
       "words": [
-        {"word": "by", "explanation": "en mycket liten stad"},
-        {"word": "godsherre", "explanation": "en rik man som äger jord, och människorna arbetar för honom"},
-        {"word": "bundna", "explanation": "tvingade att stanna på en plats, inte fria att ge sig av"},
-        {"word": "lön", "explanation": "pengarna du får för ditt arbete"}
+        {
+          "word": "by",
+          "explanation": "en mycket liten stad"
+        },
+        {
+          "word": "godsherre",
+          "explanation": "en rik man som äger jord, och människorna arbetar för honom"
+        },
+        {
+          "word": "bundna",
+          "explanation": "tvingade att stanna på en plats, inte fria att ge sig av"
+        },
+        {
+          "word": "lön",
+          "explanation": "pengarna du får för ditt arbete"
+        }
       ],
       "main_caption": "Få arbetare, och mycket tom jord.",
       "side_caption": "Nu kan arbetare begära högre lön."
@@ -96,12 +147,29 @@
         "I svåra tider kan rädsla leda till grymhet, eller till klok omsorg."
       ],
       "question": "Vilken sjukdom är detta?",
-      "options": ["spetälska", "Digerdöden", "smittkoppor", "kolera"],
+      "options": [
+        "spetälska",
+        "Digerdöden",
+        "smittkoppor",
+        "kolera"
+      ],
       "words": [
-        {"word": "skylla på", "explanation": "att säga att någon har gjort något ont"},
-        {"word": "oskyldig", "explanation": "en person som inte har gjort något fel"},
-        {"word": "grym", "explanation": "mycket elak; vill skada någon"},
-        {"word": "karantän", "explanation": "att hålla människor eller skepp åtskilda i några dagar, så att en sjukdom inte kan sprida sig"}
+        {
+          "word": "skylla på",
+          "explanation": "att säga att någon har gjort något ont"
+        },
+        {
+          "word": "oskyldig",
+          "explanation": "en person som inte har gjort något fel"
+        },
+        {
+          "word": "grym",
+          "explanation": "mycket elak; vill skada någon"
+        },
+        {
+          "word": "karantän",
+          "explanation": "att hålla människor eller skepp åtskilda i några dagar, så att en sjukdom inte kan sprida sig"
+        }
       ],
       "main_caption": "Skeppen måste vänta ute på vattnet innan de kan lägga till.",
       "side_caption": "Sjömän väntar här i många dagar innan de får gå in i staden."
@@ -122,12 +190,29 @@
         "Många olika slags källor visar oss tillsammans sanningen."
       ],
       "question": "Vilken sjukdom är detta?",
-      "options": ["smittkoppor", "spetälska", "Digerdöden", "malaria"],
+      "options": [
+        "smittkoppor",
+        "spetälska",
+        "Digerdöden",
+        "malaria"
+      ],
       "words": [
-        {"word": "krönikor", "explanation": "gamla skrivna berättelser om det som händer, år för år"},
-        {"word": "skattelistor", "explanation": "gamla listor över människor som måste betala pengar till härskaren"},
-        {"word": "DNA", "explanation": "en pytteliten kod inuti allt levande som talar om vad det är"},
-        {"word": "källor", "explanation": "saker från det förflutna som berättar vad som hände, som en bok eller ett ben"}
+        {
+          "word": "krönikor",
+          "explanation": "gamla skrivna berättelser om det som händer, år för år"
+        },
+        {
+          "word": "skattelistor",
+          "explanation": "gamla listor över människor som måste betala pengar till härskaren"
+        },
+        {
+          "word": "DNA",
+          "explanation": "en pytteliten kod inuti allt levande som talar om vad det är"
+        },
+        {
+          "word": "källor",
+          "explanation": "saker från det förflutna som berättar vad som hände, som en bok eller ett ben"
+        }
       ],
       "main_caption": "Forskare studerar mycket gamla prover för att få veta sanningen.",
       "side_caption": "För länge sedan skrev författare ner det som hände i böcker som den här."

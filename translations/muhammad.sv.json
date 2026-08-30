@@ -18,12 +18,29 @@
         "De kallas muslimer."
       ],
       "question": "Vem är herr X?",
-      "options": ["Jesus", "Buddha", "Muhammed", "Mose"],
+      "options": [
+        "Jesus",
+        "Buddha",
+        "Muhammed",
+        "Mose"
+      ],
       "words": [
-        {"word": "handelsman", "explanation": "en person som köper och säljer saker"},
-        {"word": "karavan", "explanation": "en grupp människor och djur som reser tillsammans"},
-        {"word": "grotta", "explanation": "ett stort hål i ett berg eller en klippa"},
-        {"word": "ängel", "explanation": "en budbärare från Gud, i många religioner"}
+        {
+          "word": "handelsman",
+          "explanation": "en person som köper och säljer saker"
+        },
+        {
+          "word": "karavan",
+          "explanation": "en grupp människor och djur som reser tillsammans"
+        },
+        {
+          "word": "grotta",
+          "explanation": "ett stort hål i ett berg eller en klippa"
+        },
+        {
+          "word": "ängel",
+          "explanation": "en budbärare från Gud, i många religioner"
+        }
       ],
       "main_caption": "En karavan med kameler färdas genom öknen till en handelsstad.",
       "side_caption": "En tyst grotta högt uppe i bergen."
@@ -44,12 +61,29 @@
         "Denna nya början är så viktig att den muslimska kalendern börjar det året."
       ],
       "question": "Vem är herr X?",
-      "options": ["Muhammed", "Mose", "Jesus", "Buddha"],
+      "options": [
+        "Muhammed",
+        "Mose",
+        "Jesus",
+        "Buddha"
+      ],
       "words": [
-        {"word": "föräldralös", "explanation": "ett barn vars mamma och pappa är döda"},
-        {"word": "anhängare", "explanation": "en person som tror på en lärare och följer honom"},
-        {"word": "gemenskap", "explanation": "en grupp människor som lever tillsammans och hjälper varandra"},
-        {"word": "umma", "explanation": "ett arabiskt ord för alla muslimers gemenskap"}
+        {
+          "word": "föräldralös",
+          "explanation": "ett barn vars mamma och pappa är döda"
+        },
+        {
+          "word": "anhängare",
+          "explanation": "en person som tror på en lärare och följer honom"
+        },
+        {
+          "word": "gemenskap",
+          "explanation": "en grupp människor som lever tillsammans och hjälper varandra"
+        },
+        {
+          "word": "umma",
+          "explanation": "ett arabiskt ord för alla muslimers gemenskap"
+        }
       ],
       "main_caption": "I en stad med palmer delar människor mat och hjälper varandra.",
       "side_caption": "En gemenskap: människor hjälper varandra som en enda stor familj."
@@ -70,12 +104,29 @@
         "Många lär sig hela boken utantill."
       ],
       "question": "Vem är herr X?",
-      "options": ["Martin Luther", "Jesus", "Muhammed", "Buddha"],
+      "options": [
+        "Martin Luther",
+        "Jesus",
+        "Muhammed",
+        "Buddha"
+      ],
       "words": [
-        {"word": "recitera", "explanation": "att säga en text högt ur minnet"},
-        {"word": "utantill", "explanation": "ur minnet, utan att läsa"},
-        {"word": "helig", "explanation": "mycket speciell och viktig i en religion"},
-        {"word": "arabiska", "explanation": "Arabiens språk, som i dag talas i många länder"}
+        {
+          "word": "recitera",
+          "explanation": "att säga en text högt ur minnet"
+        },
+        {
+          "word": "utantill",
+          "explanation": "ur minnet, utan att läsa"
+        },
+        {
+          "word": "helig",
+          "explanation": "mycket speciell och viktig i en religion"
+        },
+        {
+          "word": "arabiska",
+          "explanation": "Arabiens språk, som i dag talas i många länder"
+        }
       ],
       "main_caption": "En gammal bok på ett träställ. Många människor kan varje ord utantill.",
       "side_caption": "Barnen säger orden ur minnet. De reciterar."
@@ -96,12 +147,29 @@
         "Ett budskap i öknen öppnar en ny värld av kunskap."
       ],
       "question": "Vem är herr X?",
-      "options": ["Alexander den store", "Muhammed", "Djingis khan", "Jesus"],
+      "options": [
+        "Alexander den store",
+        "Muhammed",
+        "Djingis khan",
+        "Jesus"
+      ],
       "words": [
-        {"word": "stam", "explanation": "en stor grupp familjer med en gemensam ledare"},
-        {"word": "lärd", "explanation": "en person som studerar och kan mycket"},
-        {"word": "algebra", "explanation": "en del av matematiken: den använder bokstäver för okända tal"},
-        {"word": "astronomi", "explanation": "läran om stjärnor och planeter"}
+        {
+          "word": "stam",
+          "explanation": "en stor grupp familjer med en gemensam ledare"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar och kan mycket"
+        },
+        {
+          "word": "algebra",
+          "explanation": "en del av matematiken: den använder bokstäver för okända tal"
+        },
+        {
+          "word": "astronomi",
+          "explanation": "läran om stjärnor och planeter"
+        }
       ],
       "main_caption": "Lärda studerar stjärnorna och skriver nya böcker i ett stort bibliotek.",
       "side_caption": "Ett gammalt verktyg för att mäta stjärnorna. Läran om stjärnorna är astronomi."
@@ -114,19 +182,36 @@
         "Den äldsta källan är Koranen, islams heliga bok.",
         "Men den berättar bara lite om händelserna i hans liv.",
         "Berättelser om hans ord och handlingar kallas hadither.",
-        "I generationer för människor dessa berättelser vidare, från lärare till elev.",
+        "Människor för dessa berättelser vidare i generationer, från lärare till elev.",
         "Först senare skriver lärda ner dem i stora samlingar.",
         "Muslimska lärda granskar varje berättelse: vem berättar den, och vem hörde den av vem?",
         "Moderna historiker ställer samma slags frågor om alla gamla källor.",
         "Några sidor av Koranen som finns kvar i dag är mycket, mycket gamla."
       ],
       "question": "Vem är herr X?",
-      "options": ["Sokrates", "Jesus", "Buddha", "Muhammed"],
+      "options": [
+        "Sokrates",
+        "Jesus",
+        "Buddha",
+        "Muhammed"
+      ],
       "words": [
-        {"word": "källa", "explanation": "en text eller ett föremål från det förflutna som ger oss kunskap"},
-        {"word": "hadith", "explanation": "en berättelse om herr X:s ord eller handlingar"},
-        {"word": "generation", "explanation": "föräldrar är en generation, deras barn är nästa"},
-        {"word": "samling", "explanation": "många saker samlade tillsammans i en bok eller på en plats"}
+        {
+          "word": "källa",
+          "explanation": "en text eller ett föremål från det förflutna som ger oss kunskap"
+        },
+        {
+          "word": "hadith",
+          "explanation": "en berättelse om herr X:s ord eller handlingar"
+        },
+        {
+          "word": "generation",
+          "explanation": "föräldrar är en generation, deras barn är nästa"
+        },
+        {
+          "word": "samling",
+          "explanation": "många saker samlade tillsammans i en bok eller på en plats"
+        }
       ],
       "main_caption": "En forskare studerar mycket gamla sidor med stor omsorg.",
       "side_caption": "Först berättar människor historien. Långt senare skriver någon ner den."

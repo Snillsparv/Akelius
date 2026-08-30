@@ -11,18 +11,32 @@
         "Alla är rädda för hästen, men pojken tittar noga på den.",
         "Han ser att hästen är rädd för sin egen skugga.",
         "Han vänder hästen mot solen, och hästen blir lugn.",
-        "Han vinner hästen med förståelse, inte med våld.",
+        "Han tämjer hästen med förståelse, inte med våld.",
         "Pojkens lärare är den berömde tänkaren Aristoteles.",
         "Senare leder han sin armé österut, ända till Indien.",
         "I Egypten bygger han en ny stad och ger den sitt eget namn.",
         "Stadens namn låter som kung X:s namn."
       ],
       "question": "Vem är kung X?",
-      "options": ["Julius Caesar", "Alexander den store", "Augustus", "Hammurabi"],
+      "options": [
+        "Julius Caesar",
+        "Alexander den store",
+        "Augustus",
+        "Hammurabi"
+      ],
       "words": [
-        {"word": "skugga", "explanation": "den mörka form du gör på marken när du står i solen"},
-        {"word": "våld", "explanation": "stark kraft, när du tvingar eller slåss för att få något att hända"},
-        {"word": "förståelse", "explanation": "när du tittar och lär dig varför något händer"}
+        {
+          "word": "skugga",
+          "explanation": "den mörka form du gör på marken när du står i solen"
+        },
+        {
+          "word": "våld",
+          "explanation": "stark kraft, när du tvingar eller slåss för att få något att hända"
+        },
+        {
+          "word": "förståelse",
+          "explanation": "när du tittar och lär dig varför något händer"
+        }
       ],
       "main_caption": "Pojken vänder hästen mot solen. Hästen blir lugn.",
       "side_caption": "Solen gör en skugga. Hästen är rädd för sin egen skugga."
@@ -43,11 +57,25 @@
         "Ett språk kan hålla ihop dem i hundratals år."
       ],
       "question": "Vem är kung X?",
-      "options": ["Kyros den store", "Djingis khan", "Alexander den store", "Julius Caesar"],
+      "options": [
+        "Kyros den store",
+        "Djingis khan",
+        "Alexander den store",
+        "Julius Caesar"
+      ],
       "words": [
-        {"word": "seder", "explanation": "hur människor brukar göra saker, till exempel mat, kläder och högtider"},
-        {"word": "rike", "explanation": "många länder och många människor under en enda kung"},
-        {"word": "marknadsplats", "explanation": "en öppen plats där människor köper och säljer saker"}
+        {
+          "word": "seder",
+          "explanation": "hur människor brukar göra saker, till exempel mat, kläder och högtider"
+        },
+        {
+          "word": "rike",
+          "explanation": "många länder och många människor under en enda kung"
+        },
+        {
+          "word": "marknadsplats",
+          "explanation": "en öppen plats där människor köper och säljer saker"
+        }
       ],
       "main_caption": "En teater i grekisk stil utanför Grekland. Nya städer ser ut som grekiska städer.",
       "side_caption": "Stenen visar grekiska bokstäver. Människor i många länder delar detta språk."
@@ -68,12 +96,29 @@
         "Kungens svärd är borta, men hans stad av idéer förändrar fortfarande världen."
       ],
       "question": "Vem är kung X?",
-      "options": ["Alexander den store", "Kleopatra", "Julius Caesar", "Augustus"],
+      "options": [
+        "Alexander den store",
+        "Kleopatra",
+        "Julius Caesar",
+        "Augustus"
+      ],
       "words": [
-        {"word": "fyr", "explanation": "ett högt torn med en eld eller ett ljus högst upp som visar skeppen vägen"},
-        {"word": "lärd", "explanation": "en person som har som arbete att studera och lära"},
-        {"word": "hamn", "explanation": "en trygg plats vid havet där skepp lägger till"},
-        {"word": "underverk", "explanation": "en fantastisk byggnad eller sak, gamla listor räknar upp sju underverk i världen"}
+        {
+          "word": "fyr",
+          "explanation": "ett högt torn med en eld eller ett ljus högst upp som visar skeppen vägen"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som har som arbete att studera och lära"
+        },
+        {
+          "word": "hamn",
+          "explanation": "en trygg plats vid havet där skepp lägger till"
+        },
+        {
+          "word": "underverk",
+          "explanation": "en fantastisk byggnad eller sak, gamla listor räknar upp sju underverk i världen"
+        }
       ],
       "main_caption": "En jättelik fyr visar skeppen vägen till böckernas stad.",
       "side_caption": "En pinne gör en skugga. Med skuggor mäter en lärd jorden."
@@ -94,12 +139,29 @@
         "Namnen vi ger människor i historien är ett val, inte ett faktum."
       ],
       "question": "Vem är kung X?",
-      "options": ["Napoleon", "Djingis khan", "Alexander den store", "Julius Caesar"],
+      "options": [
+        "Napoleon",
+        "Djingis khan",
+        "Alexander den store",
+        "Julius Caesar"
+      ],
       "words": [
-        {"word": "besegrad", "explanation": "en person vars land tas med våld"},
-        {"word": "general", "explanation": "en ledare i en armé"},
-        {"word": "palats", "explanation": "en kungs mycket stora och fina hus"},
-        {"word": "rike", "explanation": "många länder under en enda kung"}
+        {
+          "word": "besegrad",
+          "explanation": "en person vars land tas med våld"
+        },
+        {
+          "word": "general",
+          "explanation": "en ledare i en armé"
+        },
+        {
+          "word": "palats",
+          "explanation": "en kungs mycket stora och fina hus"
+        },
+        {
+          "word": "rike",
+          "explanation": "många länder under en enda kung"
+        }
       ],
       "main_caption": "Så här ser Persepolis ut i dag. Den vackra palatsstaden är bara stenar nu.",
       "side_caption": "När kungen dör bryts hans rike sönder som gammal sten."
@@ -120,12 +182,29 @@
         "Historikerns svåraste uppgift är att hitta den verklige mannen bakom myten."
       ],
       "question": "Vem är kung X?",
-      "options": ["Alexander den store", "Djingis khan", "Kyros den store", "Julius Caesar"],
+      "options": [
+        "Alexander den store",
+        "Djingis khan",
+        "Kyros den store",
+        "Julius Caesar"
+      ],
       "words": [
-        {"word": "legend", "explanation": "en gammal berömd berättelse, den kan vara sann eller inte sann"},
-        {"word": "myt", "explanation": "en berättelse som många berättar, men den är inte ett bevisat faktum"},
-        {"word": "källa", "explanation": "en gammal text eller sak som ger oss information om det förflutna"},
-        {"word": "historiker", "explanation": "en person som studerar det förflutna"}
+        {
+          "word": "legend",
+          "explanation": "en gammal berömd berättelse, den kan vara sann eller inte sann"
+        },
+        {
+          "word": "myt",
+          "explanation": "en berättelse som många berättar, men den är inte ett bevisat faktum"
+        },
+        {
+          "word": "källa",
+          "explanation": "en gammal text eller sak som ger oss information om det förflutna"
+        },
+        {
+          "word": "historiker",
+          "explanation": "en person som studerar det förflutna"
+        }
       ],
       "main_caption": "I många länder gör berättare kungen till en legend.",
       "side_caption": "Gamla böcker är förlorade. Historikerna läser de källor som finns kvar."

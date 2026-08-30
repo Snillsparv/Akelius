@@ -17,10 +17,21 @@
         "Människor använder hans namn än i dag, i helt vanliga ord."
       ],
       "question": "Vem är herr X?",
-      "options": ["Julius Caesar", "Augustus", "Alexander den store", "Hammurabi"],
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Alexander den store",
+        "Hammurabi"
+      ],
       "words": [
-        {"word": "kejsare", "explanation": "som en kung, men över många länder"},
-        {"word": "adopterad", "explanation": "en adopterad son är inte född i familjen, familjen tar emot honom som sitt eget barn, enligt lagen"}
+        {
+          "word": "kejsare",
+          "explanation": "som en kung, men över många länder"
+        },
+        {
+          "word": "adopterad",
+          "explanation": "en adopterad son är inte född i familjen, familjen tar emot honom som sitt eget barn, enligt lagen"
+        }
       ],
       "main_caption": "En romersk ledare skriver om länderna han ser.",
       "side_caption": "Månaden juli bär hans namn."
@@ -41,11 +52,25 @@
         "I dag, efter en enda liten ändring, använder större delen av världen denna kalender."
       ],
       "question": "Vem är herr X?",
-      "options": ["Julius Caesar", "Kopernikus", "Augustus", "Leonardo da Vinci"],
+      "options": [
+        "Julius Caesar",
+        "Kopernikus",
+        "Augustus",
+        "Leonardo da Vinci"
+      ],
       "words": [
-        {"word": "virrvarr", "explanation": "saker i dålig ordning, ingenting är på sin rätta plats"},
-        {"word": "astronom", "explanation": "en forskare som studerar solen, månen och stjärnorna"},
-        {"word": "skottdag", "explanation": "en extra dag, den 29 februari, den kommer vart fjärde år"}
+        {
+          "word": "virrvarr",
+          "explanation": "saker i dålig ordning, ingenting är på sin rätta plats"
+        },
+        {
+          "word": "astronom",
+          "explanation": "en forskare som studerar solen, månen och stjärnorna"
+        },
+        {
+          "word": "skottdag",
+          "explanation": "en extra dag, den 29 februari, den kommer vart fjärde år"
+        }
       ],
       "main_caption": "En astronom studerar stjärnorna för att rätta till kalendern.",
       "side_caption": "En skottdag ger februari en extra dag."
@@ -66,12 +91,29 @@
         "När en enda man bryter regeln som skyddar staten förändras staten för alltid."
       ],
       "question": "Vem är herr X?",
-      "options": ["Julius Caesar", "Augustus", "Alexander den store", "Hannibal"],
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Alexander den store",
+        "Hannibal"
+      ],
       "words": [
-        {"word": "republik", "explanation": "en stat utan kung, folket väljer sina ledare"},
-        {"word": "general", "explanation": "en ledare för en armé"},
-        {"word": "inbördeskrig", "explanation": "ett krig mellan människor i samma land"},
-        {"word": "tärningen är kastad", "explanation": "en tärning är en liten kub för spel, du kastar den, och du kan inte ta tillbaka kastet"}
+        {
+          "word": "republik",
+          "explanation": "en stat utan kung, folket väljer sina ledare"
+        },
+        {
+          "word": "general",
+          "explanation": "en ledare för en armé"
+        },
+        {
+          "word": "inbördeskrig",
+          "explanation": "ett krig mellan människor i samma land"
+        },
+        {
+          "word": "tärningen är kastad",
+          "explanation": "en tärning är en liten kub för spel, du kastar den, och du kan inte ta tillbaka kastet"
+        }
       ],
       "main_caption": "En general står vid en liten flod. Ett steg till, och det finns ingen väg tillbaka.",
       "side_caption": "Du kastar en tärning. Du kan inte ta tillbaka kastet."
@@ -92,12 +134,29 @@
         "Våld bygger nästan aldrig den framtid som människor planerar."
       ],
       "question": "Vem är herr X?",
-      "options": ["Julius Caesar", "Alexander den store", "Sokrates", "Gandhi"],
+      "options": [
+        "Julius Caesar",
+        "Alexander den store",
+        "Sokrates",
+        "Gandhi"
+      ],
       "words": [
-        {"word": "senat", "explanation": "en grupp mäktiga män som leder den romerska staten, männen i gruppen är senatorer"},
-        {"word": "republik", "explanation": "en stat utan kung, folket väljer sina ledare"},
-        {"word": "arvinge", "explanation": "den person som får dina pengar och din egendom efter din död"},
-        {"word": "kejsare", "explanation": "som en kung, men över många länder"}
+        {
+          "word": "senat",
+          "explanation": "en grupp mäktiga män som leder den romerska staten, männen i gruppen är senatorer"
+        },
+        {
+          "word": "republik",
+          "explanation": "en stat utan kung, folket väljer sina ledare"
+        },
+        {
+          "word": "arvinge",
+          "explanation": "den person som får dina pengar och din egendom efter din död"
+        },
+        {
+          "word": "kejsare",
+          "explanation": "som en kung, men över många länder"
+        }
       ],
       "main_caption": "Senatorer möts i en stor sal av sten i Rom.",
       "side_caption": "En dolk är en kort kniv."
@@ -112,18 +171,35 @@
         "Han låter som en lugn reporter: herr X skyndar, herr X beslutar, herr X segrar.",
         "Hans ansikte syns på mynt medan han fortfarande lever.",
         "Ingen levande romare gör detta före honom.",
-        "Han tar ämbetet som diktator, ett ämbete för nödlägen, på sex månader.",
+        "Han tar ämbetet som diktator, ett ämbete för nödlägen i sex månader.",
         "Han behåller ämbetet tills han dör.",
         "Vi känner till kriget mest genom hans egen bok.",
         "Källkritiken frågar: vem skriver detta, och varför?"
       ],
       "question": "Vem är herr X?",
-      "options": ["Julius Caesar", "Augustus", "Alexander den store", "Marx"],
+      "options": [
+        "Julius Caesar",
+        "Augustus",
+        "Alexander den store",
+        "Marx"
+      ],
       "words": [
-        {"word": "diktator", "explanation": "i Rom, en ledare som ensam får all makt, för en kort tid, i ett nödläge"},
-        {"word": "nödläge", "explanation": "en plötslig tid av fara"},
-        {"word": "källa", "explanation": "en text eller en sak som ger oss information om det förflutna"},
-        {"word": "källkritik", "explanation": "att fråga vem som gör en källa, och varför, innan du litar på den"}
+        {
+          "word": "diktator",
+          "explanation": "i Rom, en ledare som ensam får all makt, för en kort tid, i ett nödläge"
+        },
+        {
+          "word": "nödläge",
+          "explanation": "en plötslig tid av fara"
+        },
+        {
+          "word": "källa",
+          "explanation": "en text eller en sak som ger oss information om det förflutna"
+        },
+        {
+          "word": "källkritik",
+          "explanation": "att fråga vem som gör en källa, och varför, innan du litar på den"
+        }
       ],
       "main_caption": "En levande ledare sätter sitt eget ansikte på ett mynt.",
       "side_caption": "En gammal text är en källa. Fråga: vem skriver den, och varför?"

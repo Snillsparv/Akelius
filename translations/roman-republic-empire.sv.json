@@ -8,7 +8,7 @@
         "Rike X börjar som en liten stad på en kulle i Italien.",
         "Staden växer tills den täcker sju kullar.",
         "Långsamt blir den ett jätterike.",
-        "Dess länder sträcker sig hela vägen runt Medelhavet.",
+        "Rikets länder sträcker sig hela vägen runt Medelhavet.",
         "Folket bygger långa, raka vägar av sten.",
         "Rännor av sten leder friskt vatten in till städerna.",
         "Människor kallar dessa rännor akvedukter.",
@@ -19,12 +19,29 @@
         "I dag är den första staden Italiens huvudstad."
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Rom", "Persien", "Egypten", "Karthago"],
+      "options": [
+        "Rom",
+        "Persien",
+        "Egypten",
+        "Karthago"
+      ],
       "words": [
-        {"word": "rike", "explanation": "många länder och människor under en enda härskare"},
-        {"word": "ränna", "explanation": "en lång, öppen väg som är byggd för att vatten ska rinna i den"},
-        {"word": "akvedukt", "explanation": "en ränna av sten som leder friskt vatten in till en stad, ibland på höga bågar"},
-        {"word": "Medelhavet", "explanation": "det stora havet mellan Europa, Afrika och Asien"}
+        {
+          "word": "rike",
+          "explanation": "många länder och människor under en enda härskare"
+        },
+        {
+          "word": "ränna",
+          "explanation": "en lång, öppen fåra som är byggd för att vatten ska rinna i den"
+        },
+        {
+          "word": "akvedukt",
+          "explanation": "en ränna av sten som leder friskt vatten in till en stad, ibland på höga bågar"
+        },
+        {
+          "word": "Medelhavet",
+          "explanation": "det stora havet mellan Europa, Afrika och Asien"
+        }
       ],
       "main_caption": "En akvedukt. Den leder friskt vatten in till en stad.",
       "side_caption": "En mycket gammal stenväg. Människor går på den än i dag."
@@ -46,12 +63,29 @@
         "Men många länder långt från Italien använder dessa idéer än i dag."
       ],
       "question": "Vilken stad är detta?",
-      "options": ["Rom", "Aten", "Sparta", "Karthago"],
+      "options": [
+        "Rom",
+        "Aten",
+        "Sparta",
+        "Karthago"
+      ],
       "words": [
-        {"word": "konsul", "explanation": "en av stadens två valda ledare"},
-        {"word": "senat", "explanation": "en grupp gamla, visa män som ger råd"},
-        {"word": "rösta", "explanation": "att säga sitt val när en grupp bestämmer något"},
-        {"word": "republik", "explanation": "ett land utan kung, folket väljer sina ledare"}
+        {
+          "word": "konsul",
+          "explanation": "en av stadens två valda ledare"
+        },
+        {
+          "word": "senat",
+          "explanation": "en grupp gamla, visa män som ger råd"
+        },
+        {
+          "word": "rösta",
+          "explanation": "att säga sitt val när en grupp bestämmer något"
+        },
+        {
+          "word": "republik",
+          "explanation": "ett land utan kung, folket väljer sina ledare"
+        }
       ],
       "main_caption": "Senaten möts. De gamla, visa männen ger råd.",
       "side_caption": "Männen röstar. De väljer sina ledare."
@@ -73,12 +107,29 @@
         "Institutioner består bara när människor skyddar dem."
       ],
       "question": "Vilken stad är detta?",
-      "options": ["Rom", "Aten", "Karthago", "Babylon"],
+      "options": [
+        "Rom",
+        "Aten",
+        "Karthago",
+        "Babylon"
+      ],
       "words": [
-        {"word": "republik", "explanation": "ett land utan kung, folket väljer sina ledare"},
-        {"word": "general", "explanation": "en ledare för soldater"},
-        {"word": "inbördeskrig", "explanation": "ett krig mellan människor i samma land"},
-        {"word": "institution", "explanation": "en regel eller grupp i ett land som finns kvar länge, till exempel en domstol"}
+        {
+          "word": "republik",
+          "explanation": "ett land utan kung, folket väljer sina ledare"
+        },
+        {
+          "word": "general",
+          "explanation": "en ledare för soldater"
+        },
+        {
+          "word": "inbördeskrig",
+          "explanation": "ett krig mellan människor i samma land"
+        },
+        {
+          "word": "institution",
+          "explanation": "en regel eller grupp i ett land som finns kvar länge, till exempel en domstol"
+        }
       ],
       "main_caption": "En general betalar sina soldater. Nu följer de honom, inte sin stad.",
       "side_caption": "En lagerkrans. Den är ett tecken för segrare. Nu har en enda man den."
@@ -100,12 +151,29 @@
         "Riken tar slut, men idéer och ord består."
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Rom", "Grekland", "Egypten", "Persien"],
+      "options": [
+        "Rom",
+        "Grekland",
+        "Egypten",
+        "Persien"
+      ],
       "words": [
-        {"word": "anklagelse", "explanation": "när någon säger: den här personen har gjort något dåligt"},
-        {"word": "betong", "explanation": "ett byggmaterial, som flytande sten som blir mycket hård"},
-        {"word": "besegrad", "explanation": "slagen i ett krig och övertagen av segrarna"},
-        {"word": "medborgare", "explanation": "en fullvärdig medlem i ett land, med rättigheter och skyldigheter"}
+        {
+          "word": "anklagelse",
+          "explanation": "när någon säger: den här personen har gjort något dåligt"
+        },
+        {
+          "word": "betong",
+          "explanation": "ett byggmaterial, som flytande sten som blir mycket hård"
+        },
+        {
+          "word": "besegrad",
+          "explanation": "slagen i ett krig och övertagen av segrarna"
+        },
+        {
+          "word": "medborgare",
+          "explanation": "en fullvärdig medlem i ett land, med rättigheter och skyldigheter"
+        }
       ],
       "main_caption": "Ett tak av betong. Det är mycket gammalt, och det står kvar än.",
       "side_caption": "Ett gammalt ord för vatten blir fem nya ord."
@@ -127,12 +195,29 @@
         "Du väljer lärdomen."
       ],
       "question": "Vilket rike är detta?",
-      "options": ["Rom", "Osmanska riket", "Persien", "Egypten"],
+      "options": [
+        "Rom",
+        "Osmanska riket",
+        "Persien",
+        "Egypten"
+      ],
       "words": [
-        {"word": "gräns", "explanation": "linjen där ett land slutar och ett annat börjar"},
-        {"word": "farsot", "explanation": "en sjukdom som sprider sig snabbt och dödar många människor"},
-        {"word": "historiker", "explanation": "en person som studerar det förflutna"},
-        {"word": "förvandling", "explanation": "en stor, långsam förändring från en form till en annan"}
+        {
+          "word": "gräns",
+          "explanation": "linjen där ett land slutar och ett annat börjar"
+        },
+        {
+          "word": "farsot",
+          "explanation": "en sjukdom som sprider sig snabbt och dödar många människor"
+        },
+        {
+          "word": "historiker",
+          "explanation": "en person som studerar det förflutna"
+        },
+        {
+          "word": "förvandling",
+          "explanation": "en stor, långsam förändring från en form till en annan"
+        }
       ],
       "main_caption": "I väster blir de gamla byggnaderna ruiner.",
       "side_caption": "I öster lever riket vidare i ungefär tusen år."

@@ -17,12 +17,29 @@
         "Det betyder kanske \"stark härskare\" eller \"härskare över alla\"."
       ],
       "question": "Vem är khan X?",
-      "options": ["Alexander den store", "Djingis khan", "Napoleon Bonaparte", "Kublai khan"],
+      "options": [
+        "Alexander den store",
+        "Djingis khan",
+        "Napoleon Bonaparte",
+        "Kublai khan"
+      ],
       "words": [
-        {"word": "grässlätt", "explanation": "stort öppet land där gräs växer"},
-        {"word": "filt", "explanation": "tjockt tyg av pressad ull"},
-        {"word": "klan", "explanation": "en stor grupp familjer som hör ihop"},
-        {"word": "titel", "explanation": "ett särskilt namn för en härskare eller en viktig person"}
+        {
+          "word": "grässlätt",
+          "explanation": "stort öppet land där gräs växer"
+        },
+        {
+          "word": "filt",
+          "explanation": "tjockt tyg av pressad ull"
+        },
+        {
+          "word": "klan",
+          "explanation": "en stor grupp familjer som hör ihop"
+        },
+        {
+          "word": "titel",
+          "explanation": "ett särskilt namn för en härskare eller en viktig person"
+        }
       ],
       "main_caption": "Folket på grässlätterna rider hästar och bor i runda tält.",
       "side_caption": "Ett runt tält av tjock filt är ett varmt hem. Familjen kan flytta det."
@@ -44,11 +61,25 @@
         "Detta rike drivs av gräs, hästar och information."
       ],
       "question": "Vem är khan X?",
-      "options": ["Kublai khan", "Alexander den store", "Julius Caesar", "Djingis khan"],
+      "options": [
+        "Kublai khan",
+        "Alexander den store",
+        "Julius Caesar",
+        "Djingis khan"
+      ],
       "words": [
-        {"word": "rike", "explanation": "många länder och många människor under en enda härskare"},
-        {"word": "station", "explanation": "en plats att stanna på längs en lång väg"},
-        {"word": "budbärare", "explanation": "en person som bär fram ett meddelande"}
+        {
+          "word": "rike",
+          "explanation": "många länder och många människor under en enda härskare"
+        },
+        {
+          "word": "station",
+          "explanation": "en plats att stanna på längs en lång väg"
+        },
+        {
+          "word": "budbärare",
+          "explanation": "en person som bär fram ett meddelande"
+        }
       ],
       "main_caption": "En budbärare rider fort. Vid nästa station väntar en utvilad häst.",
       "side_caption": "Detta pass av metall betyder: härskaren sänder denna ryttare. Ge honom en utvilad häst."
@@ -70,12 +101,29 @@
         "En härskare som inte kan läsa bygger en stat som drivs av skrift, lag och skicklighet."
       ],
       "question": "Vem är khan X?",
-      "options": ["Djingis khan", "Hammurabi", "Napoleon Bonaparte", "Kublai khan"],
+      "options": [
+        "Djingis khan",
+        "Hammurabi",
+        "Napoleon Bonaparte",
+        "Kublai khan"
+      ],
       "words": [
-        {"word": "sträng", "explanation": "mycket bestämd; reglerna måste följas"},
-        {"word": "herde", "explanation": "en person som sköter och flyttar djur, som får eller hästar"},
-        {"word": "befälhavare", "explanation": "en ledare för soldater"},
-        {"word": "hantverkare", "explanation": "en person som gör saker med händerna, som krukor, tyg eller verktyg"}
+        {
+          "word": "sträng",
+          "explanation": "mycket bestämd; reglerna måste följas"
+        },
+        {
+          "word": "herde",
+          "explanation": "en person som sköter och flyttar djur, som får eller hästar"
+        },
+        {
+          "word": "befälhavare",
+          "explanation": "en ledare för soldater"
+        },
+        {
+          "word": "hantverkare",
+          "explanation": "en person som gör saker med händerna, som krukor, tyg eller verktyg"
+        }
       ],
       "main_caption": "Människor från många länder möts i fred i ett enda rike.",
       "side_caption": "En hantverkare gör fina saker för hand. Riket vill ha denna skicklighet."
@@ -96,11 +144,25 @@
         "Riket öppnar vägar för världen, och förstör miljontals liv för att bygga dem."
       ],
       "question": "Vem är khan X?",
-      "options": ["Alexander den store", "Napoleon Bonaparte", "Djingis khan", "Kublai khan"],
+      "options": [
+        "Alexander den store",
+        "Napoleon Bonaparte",
+        "Djingis khan",
+        "Kublai khan"
+      ],
       "words": [
-        {"word": "handel", "explanation": "att köpa och sälja saker"},
-        {"word": "varor", "explanation": "saker som människor köper och säljer"},
-        {"word": "dödlig", "explanation": "så farlig att människor dör av den"}
+        {
+          "word": "handelsväg",
+          "explanation": "en väg där människor fraktar varor för att köpa och sälja"
+        },
+        {
+          "word": "varor",
+          "explanation": "saker som människor köper och säljer"
+        },
+        {
+          "word": "dödlig",
+          "explanation": "så farlig att människor dör av den"
+        }
       ],
       "main_caption": "Handelsmän fraktar varor längs de långa, trygga vägarna.",
       "side_caption": "Långa vägar binder samman öst och väst. Varor och idéer färdas på dem."
@@ -121,12 +183,29 @@
         "Varje källa står någonstans; historikerns uppgift är att se var."
       ],
       "question": "Vem är khan X?",
-      "options": ["Alexander den store", "Napoleon Bonaparte", "Djingis khan", "Kublai khan"],
+      "options": [
+        "Alexander den store",
+        "Napoleon Bonaparte",
+        "Djingis khan",
+        "Kublai khan"
+      ],
       "words": [
-        {"word": "källa", "explanation": "en gammal text eller sak som ger oss information om det förflutna"},
-        {"word": "erövra", "explanation": "att ta ett land med våld"},
-        {"word": "rapport", "explanation": "en text som berättar vad en person ser och lär sig"},
-        {"word": "barbar", "explanation": "ett orättvist gammalt ord för människor som författare ser som vilda och enkla"}
+        {
+          "word": "källa",
+          "explanation": "en gammal text eller sak som ger oss information om det förflutna"
+        },
+        {
+          "word": "erövra",
+          "explanation": "att ta ett land med våld"
+        },
+        {
+          "word": "rapport",
+          "explanation": "en text som berättar vad en person ser och lär sig"
+        },
+        {
+          "word": "barbar",
+          "explanation": "ett orättvist gammalt ord för människor som författare ser som vilda och enkla"
+        }
       ],
       "main_caption": "Tre gamla böcker berättar om samma man. De berättar inte samma historia.",
       "side_caption": "En resenär långt hemifrån skriver en rapport om allt han ser."
