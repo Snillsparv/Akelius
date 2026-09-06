@@ -16,11 +16,11 @@
         "Sedan riktar han sitt rör mot natthimlen.",
         "Bredvid planeten Jupiter ser han fyra små ljus.",
         "Natt efter natt rör sig ljusen runt Jupiter.",
-        "Så allt på himlen går inte runt jorden!"
+        "Så inte allt på himlen går runt jorden!"
       ],
       "question": "Vem är herr X?",
       "options": [
-        "Kopernikus",
+        "Nicolaus Kopernikus",
         "Galileo Galilei",
         "Isaac Newton",
         "Leonardo da Vinci"
@@ -92,7 +92,7 @@
         "Han ser också mörka fläckar på solen, och de rör sig över den.",
         "Sedan iakttar han planeten Venus i månader.",
         "Venus visar faser som månen, från tunn skära till nästan full.",
-        "När Venus är full ser den liten ut och långt borta.",
+        "När Venus är full ser den liten ut och verkar långt borta.",
         "I den gamla bilden av himlen kan Venus aldrig se full ut.",
         "Så Venus måste gå runt solen, inte runt jorden.",
         "Detta bevisar ännu inte att jorden också rör sig.",
@@ -102,7 +102,7 @@
       "options": [
         "Johannes Kepler",
         "Tycho Brahe",
-        "Kopernikus",
+        "Nicolaus Kopernikus",
         "Galileo Galilei"
       ],
       "words": [
@@ -135,7 +135,7 @@
         "Men nu skriver han en stor bok, och i den vinner idén.",
         "Påven kallar honom till Rom, till en kyrklig domstol.",
         "I veckor förhör domarna honom.",
-        "En annan tänkare bränns i Rom flera år tidigare, för sina idéer om Gud, men herr X torteras inte och bränns inte.",
+        "En annan tänkare bränns i Rom många år tidigare, för sina idéer om Gud, men herr X torteras inte och bränns inte.",
         "Ändå måste han knäböja och säga: jag ger upp denna idé.",
         "En senare berättelse säger: han viskar, och ändå rör den sig.",
         "Historiker hittar inga bevis för de orden.",
@@ -145,7 +145,7 @@
       "question": "Vem är herr X?",
       "options": [
         "Giordano Bruno",
-        "Kopernikus",
+        "Nicolaus Kopernikus",
         "Galileo Galilei",
         "Johannes Kepler"
       ],
@@ -188,7 +188,7 @@
       ],
       "question": "Vem är herr X?",
       "options": [
-        "Kopernikus",
+        "Nicolaus Kopernikus",
         "Charles Darwin",
         "Galileo Galilei",
         "Johannes Kepler"

@@ -56,8 +56,8 @@
         "I Europa är tryck med lösa bokstäver av metall nytt, bara ungefär sjuttio år gammalt.",
         "En tryckpress kan nu göra mer än tusen sidor på en dag.",
         "Inom några månader når häftena städer över hela Tyskland.",
-        "Några häften har bilder, så att människor som inte kan läsa också kan hänga med.",
-        "Snart översätter översättare Bibeln till tyska, engelska och andra vardagsspråk.",
+        "Några häften har bilder, så att människor som inte kan läsa också kan förstå.",
+        "Snart översätts Bibeln till tyska, engelska och andra vardagsspråk.",
         "Nu kan en bonde eller en vävare höra den heliga boken på sitt eget språk.",
         "Den gamla kyrkans ledare trycker också svar, men färre, och senare.",
         "För första gången utkämpas ett gräl i kyrkan med tusentals billiga häften."
@@ -102,7 +102,7 @@
         "I Sverige tar kungen kyrkans silver och mark för att betala sina skulder.",
         "I England vill kungen avsluta sitt äktenskap, och påven säger nej.",
         "Så kungen gör sig själv till kyrkans överhuvud i sitt land och stänger klostren.",
-        "Härskare som stannar hos Rom har också skäl, och tron räknas även där.",
+        "Härskare som stannar hos Rom har också skäl, och tron spelar roll även där.",
         "Kungarna i Frankrike och Spanien väljer redan sina egna biskopar. De vinner mindre på en brytning.",
         "Efter år av gräl och krig i Tyskland skrivs ett fördrag under. Varje furste bestämmer tron i sitt land."
       ],
@@ -170,8 +170,8 @@
           "explanation": "att hälla vatten på en person, eller doppa personen i vatten, för att göra honom eller henne till medlem i kyrkan"
         },
         {
-          "word": "orden",
-          "explanation": "här: en grupp präster eller munkar som lever efter samma regler"
+          "word": "prästorden",
+          "explanation": "en grupp präster eller munkar som lever efter samma regler"
         }
       ],
       "main_caption": "I städer vid sjöarna bygger andra predikanter egna kyrkor.",
@@ -190,7 +190,7 @@
         "Krig om tro och makt följer, i Frankrike, i Nederländerna och över hela Centraleuropa.",
         "Det största av dem varar i trettio år.",
         "Några regioner förlorar en tredjedel av sin befolkning i strider, hunger och sjukdom.",
-        "En verkan består: de nya kyrkorna vill att varje barn ska läsa Bibeln, så byskolor sprids.",
+        "En följd består: de nya kyrkorna vill att varje barn ska läsa Bibeln, så byskolor sprids.",
         "Den gamla kyrkan svarar med egna nya skolor, och läsningen växer på båda sidor."
       ],
       "question": "Vilken rörelse är detta?",

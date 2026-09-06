@@ -71,7 +71,7 @@
         },
         {
           "word": "köra om",
-          "explanation": "att hinna ifatt någon och passera"
+          "explanation": "att hinna ifatt någon och gå förbi"
         },
         {
           "word": "passera",
@@ -94,7 +94,7 @@
         "En berättelse säger: den tryckta boken når herr X den dag han dör.",
         "Boken har ett märkligt förord utan namn.",
         "Det säger: detta är bara ett redskap för beräkning, inte sanningen.",
-        "Herr X skriver aldrig de orden. En kyrklig lärd man i tryckstaden lägger till dem utan tillåtelse.",
+        "En kyrklig lärd man i staden där boken trycks lägger till dem utan tillåtelse.",
         "I årtionden tror läsarna att orden är hans."
       ],
       "question": "Vem är herr X?",
@@ -139,7 +139,7 @@
         "Kritiker säger: om jorden rör sig borde stjärnorna verka flytta sig.",
         "De flyttar sig inte. Herr X svarar: stjärnorna är mycket, mycket långt borta.",
         "Han föreslår, och han beräknar, men han kan inte bevisa.",
-        "Stjärnornas pyttelilla förflyttning mäts först ungefär trehundra år senare."
+        "Stjärnornas ytterst lilla förflyttning mäts först ungefär trehundra år senare."
       ],
       "question": "Vem är herr X?",
       "options": [

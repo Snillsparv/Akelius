@@ -12449,7 +12449,7 @@
             "options": [
               "Michelangelo",
               "Leonardo da Vinci",
-              "Kopernikus",
+              "Nicolaus Kopernikus",
               "Galileo Galilei"
             ],
             "correct": "Leonardo da Vinci",
@@ -12553,7 +12553,7 @@
               "Leonardo da Vinci",
               "Johannes Gutenberg",
               "Martin Luther",
-              "Kopernikus"
+              "Nicolaus Kopernikus"
             ],
             "correct": "Johannes Gutenberg",
             "words": [
@@ -12650,7 +12650,7 @@
             "options": [
               "Aldus Manutius",
               "Leonardo da Vinci",
-              "Kopernikus",
+              "Nicolaus Kopernikus",
               "Johannes Gutenberg"
             ],
             "correct": "Johannes Gutenberg",
@@ -12847,7 +12847,7 @@
               "Martin Luther",
               "Aldus Manutius",
               "Johannes Gutenberg",
-              "Kopernikus"
+              "Nicolaus Kopernikus"
             ],
             "correct": "Johannes Gutenberg",
             "words": [
@@ -13553,6 +13553,51 @@
             "caption": "Penguins on the cold southern shore. The sailors have never seen such birds.",
             "shutterstock_query": "penguins rocky shore patagonia cold sea vertical",
             "ai_prompt": "Photorealistic vertical image of a group of black-and-white penguins standing on a rocky windswept shore in the far south, cold grey sea and cloudy sky behind, calm natural mood; no people, no ships, no text, no letters."
+          },
+          "sv": {
+            "title": "Fem skepp och ett stilla nytt hav",
+            "text_sentences": [
+              "Kapten X lever för ungefär 500 år sedan.",
+              "Han kommer från Portugal, men han seglar för Spaniens kung.",
+              "Kungen ger honom fem skepp av trä och ungefär 270 man.",
+              "Kapten X vill segla västerut, ända till Kryddöarna i Asien.",
+              "Skeppen korsar havet och följer Sydamerikas kust.",
+              "De seglar söderut i många månader, och vädret blir kallt.",
+              "På stranden ser sjömännen pingviner och stora sjölejon.",
+              "Långt i söder hittar de ett sund, en smal vattenväg genom landet.",
+              "På natten ser de eldar på stranden, och senare får det landet namnet Eldslandet.",
+              "Bara tre skepp kommer ut ur sundet. Ett väldigt nytt hav öppnar sig framför dem.",
+              "Vattnet är lugnt, så kapten X ger havet ett namn som betyder fridfullt och stilla.",
+              "Vi använder det namnet än i dag."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Christofer Columbus",
+              "Vasco da Gama",
+              "Ferdinand Magellan",
+              "Francis Drake"
+            ],
+            "correct": "Ferdinand Magellan",
+            "words": [
+              {
+                "word": "sund",
+                "explanation": "en smal remsa av vatten mellan två landområden"
+              },
+              {
+                "word": "krydda",
+                "explanation": "en torkad växtdel som ger maten stark smak, som peppar"
+              },
+              {
+                "word": "stilla",
+                "explanation": "lugnt och tyst, utan vind eller stora vågor"
+              },
+              {
+                "word": "pingvin",
+                "explanation": "en svartvit sjöfågel som simmar men inte kan flyga"
+              }
+            ],
+            "main_caption": "Skepp i ett smalt sund, långt i den kalla södern.",
+            "side_caption": "Pingviner på den kalla stranden i söder. Sjömännen har aldrig sett sådana fåglar."
           }
         },
         {
@@ -13609,6 +13654,50 @@
             "caption": "Seen from this side, the earth is almost all water.",
             "shutterstock_query": "earth from space pacific side water hemisphere vertical",
             "ai_prompt": "Photorealistic vertical image of the earth seen from space, the side that is almost entirely ocean, a blue disk with white cloud patterns and only small edges of land at the rim, black space around, calm mood; no lines, no grid, no labels, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Havet som ingen kan mäta",
+            "text_sentences": [
+              "För ungefär 500 år sedan seglar kapten X för Spanien runt Amerikas södra spets, in i ett nytt hav.",
+              "Han tror att öarna med kryddnejlikor och muskot ligger bara några veckor längre västerut.",
+              "Ingen i Europa vet hur brett detta hav är.",
+              "Kapten X seglar västerut i mer än tre månader utan någon ny mat.",
+              "Skeppets bröd blir till pulver fullt av maskar.",
+              "Dricksvattnet blir gult och luktar illa.",
+              "Männen äter läder från skeppets rep och rår, och de jagar till och med råttor.",
+              "Sedan kommer skörbjuggen: tandköttet svullnar och tänderna faller ut.",
+              "Ungefär tjugo man dör av den. Ingen vet ännu att färsk frukt stoppar denna sjukdom.",
+              "Under alla dessa veckor ser sjömännen bara två små tomma öar.",
+              "De har korsat ett hav som täcker ungefär en tredjedel av jorden."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "James Cook",
+              "Ferdinand Magellan",
+              "Christofer Columbus",
+              "Francis Drake"
+            ],
+            "correct": "Ferdinand Magellan",
+            "words": [
+              {
+                "word": "kryddnejlika",
+                "explanation": "en krydda, den torkade blomknoppen från ett träd"
+              },
+              {
+                "word": "rå",
+                "explanation": "en stång tvärs över masten som seglet hänger i"
+              },
+              {
+                "word": "skörbjugg",
+                "explanation": "en sjukdom som kommer av för lite färsk mat"
+              },
+              {
+                "word": "tandkött",
+                "explanation": "det mjuka rosa köttet runt tänderna"
+              }
+            ],
+            "main_caption": "Vecka efter vecka, bara vatten. Ingen vet hur långt det är.",
+            "side_caption": "Sedd från den här sidan är jorden nästan bara vatten."
           }
         },
         {
@@ -13666,6 +13755,51 @@
             "caption": "A statue for the chief who defends his island. Today he is a national hero.",
             "shutterstock_query": "bronze warrior chief statue philippines palm trees vertical",
             "ai_prompt": "Photorealistic vertical image of a tall bronze statue of a warrior chief of the Philippines, strong figure with a traditional sword and round shield on a plain bare stone pedestal, palm trees and a bright tropical sky behind, dignified mood; generic figure, no plaque, no letters, no numbers, no symbols, no text."
+          },
+          "sv": {
+            "title": "Hövdingen som säger nej",
+            "text_sentences": [
+              "För ungefär 500 år sedan når tre skepp från Spanien öarna som vi i dag kallar Filippinerna.",
+              "Deras ledare, kapten X, seglar för Spaniens kung.",
+              "Människorna här har egna härskare och handlar med Kina.",
+              "Härskaren på Cebu välkomnar främlingarna och sluter en vänskapspakt med kapten X.",
+              "Han och hundratals av hans folk antar sjömännens religion.",
+              "Kapten X kräver nu att hövdingarna i närheten ska lyda Cebu och Spaniens kung.",
+              "På den lilla ön Mactan vägrar hövdingen Lapulapu.",
+              "Han är en rival till Cebu. Han tänker inte böja sig för en kung på andra sidan havet.",
+              "I gryningen anfaller kapten X Mactan med ungefär sextio män i rustning.",
+              "Vattnet är grunt, så båtarna och skeppens kanoner stannar långt från stranden.",
+              "Långt fler än sextio krigare möter sjömännen i vattnet, och kapten X dödas.",
+              "Skeppen seglar vidare utan honom. I Filippinerna i dag är Lapulapu en nationalhjälte."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "James Cook",
+              "Christofer Columbus",
+              "Vasco da Gama",
+              "Ferdinand Magellan"
+            ],
+            "correct": "Ferdinand Magellan",
+            "words": [
+              {
+                "word": "hövding",
+                "explanation": "ledaren för en by eller ett folk"
+              },
+              {
+                "word": "pakt",
+                "explanation": "ett löfte mellan två sidor att hjälpa varandra"
+              },
+              {
+                "word": "grunt",
+                "explanation": "inte djupt"
+              },
+              {
+                "word": "krigare",
+                "explanation": "en person som strider för sitt folk"
+              }
+            ],
+            "main_caption": "Öns hövding böjer sig inte. Hans krigare väntar i det grunda vattnet.",
+            "side_caption": "En staty av hövdingen som försvarar sin ö. I dag är han en nationalhjälte."
           }
         },
         {
@@ -13723,6 +13857,51 @@
             "caption": "Many islands, many languages, and one trade language at sea.",
             "shutterstock_query": "old parchment map southeast asia islands blank no labels illustration",
             "ai_prompt": "Simple parchment-style map of the seas of Southeast Asia in warm paper tones, a long peninsula, big islands to the south and a group of many small islands to the east, sea drawn with fine wave lines, vertical format; no place names, no letters, no numbers, no compass rose, no text."
+          },
+          "sv": {
+            "title": "Tolken från Malacka",
+            "text_sentences": [
+              "Långt före sin berömda sjöresa är kapten X soldat för Portugal i Asien.",
+              "I hamnstaden Malacka tar han en ung man som slav och kallar honom Enrique.",
+              "Enrique talar malajiska, handelsspråket på haven i Sydostasien.",
+              "Kapten X tar honom med till Europa, och senare västerut över två hav som sin tolk.",
+              "Efter månader till sjöss når skeppen öar öster om Malacka.",
+              "Enrique talar till öborna, och de förstår honom.",
+              "Sedan dör kapten X i en strid på en av öarna.",
+              "Hans testamente säger att Enrique nu är fri, men de nya ledarna vägrar släppa honom.",
+              "Snart vänder sig härskaren på Cebu mot sjömännen. Mer än tjugo av dem dödas vid ett gästabud.",
+              "Sjömännen skyller på Enrique, men ingen vet sanningen, och källorna nämner honom aldrig mer.",
+              "Några säger att Enrique är den första människan som färdas runt jorden, tillbaka till sitt eget språk.",
+              "Andra säger: inte riktigt, för han når aldrig själva Malacka."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Ferdinand Magellan",
+              "Vasco da Gama",
+              "Christofer Columbus",
+              "Amerigo Vespucci"
+            ],
+            "correct": "Ferdinand Magellan",
+            "words": [
+              {
+                "word": "slav",
+                "explanation": "en person som ägs av en annan person och inte är fri"
+              },
+              {
+                "word": "tolk",
+                "explanation": "en person som överför ord från ett språk till ett annat"
+              },
+              {
+                "word": "testamente",
+                "explanation": "ett papper som säger vad som ska hända med en persons saker efter döden"
+              },
+              {
+                "word": "gästabud",
+                "explanation": "en stor måltid för många människor"
+              }
+            ],
+            "main_caption": "En man på skeppet talar öarnas språk.",
+            "side_caption": "Många öar, många språk, och ett handelsspråk till sjöss."
           }
         },
         {
@@ -13780,9 +13959,55 @@
             "caption": "A page from a copy of the diary. The original is lost.",
             "shutterstock_query": "old manuscript page island drawing parchment closeup vertical",
             "ai_prompt": "Photorealistic vertical close-up of an old handwritten manuscript page on parchment with a small ink-and-watercolor drawing of an island with palm trees and a tiny ship, soft daylight, calm mood; all script blurred and unreadable, no real words, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Arton man och en förlorad dag",
+            "text_sentences": [
+              "För ungefär 500 år sedan lämnar fem skepp Spanien under kapten X för att nå Kryddöarna från väster.",
+              "Tre år senare kommer ett skepp tillbaka med arton man av ungefär 270, och kapten X är inte bland dem.",
+              "Hur känner vi till historien? En ung italiensk adelsman, Antonio Pigafetta, följer med för att se världen och för dagbok genom hela resan.",
+              "Originalet är försvunnet. Vi läser den i fyra senare handskrivna kopior.",
+              "En styrmans loggbok och lönelistor i arkiven i Sevilla fyller luckorna.",
+              "Pigafetta noterar en gåta mot slutet: sjömännen har förlorat en dag.",
+              "De räknar varje dag noga, men i den första hamnen på vägen hem säger dagboken onsdag, och det är torsdag.",
+              "När de seglar västerut med solen har de sett en soluppgång färre än människorna där hemma.",
+              "I dag löser datumgränsen mitt i havet denna gåta.",
+              "Så vem är den förste som färdas runt jorden? På en enda resa är det den siste kaptenen, Elcano, med sjutton man.",
+              "Som ung soldat når kapten X dessa hav genom att segla österut, till Malacka. Som kapten når han öar lite längre österut genom att segla västerut.",
+              "Ingen källa berättar om han någonsin seglar den sista biten."
+            ],
+            "question": "Vem är kapten X?",
+            "options": [
+              "Francis Drake",
+              "Ferdinand Magellan",
+              "Christofer Columbus",
+              "James Cook"
+            ],
+            "correct": "Ferdinand Magellan",
+            "words": [
+              {
+                "word": "adelsman",
+                "explanation": "en man av fin familj som inte behöver arbeta med händerna"
+              },
+              {
+                "word": "dagbok",
+                "explanation": "en bok där en person skriver vad som händer varje dag"
+              },
+              {
+                "word": "styrman",
+                "explanation": "sjömannen som leder skeppet på dess kurs"
+              },
+              {
+                "word": "arkiv",
+                "explanation": "en plats där gamla papper förvaras och skyddas"
+              }
+            ],
+            "main_caption": "Efter tre år kommer ett skepp hem.",
+            "side_caption": "En sida ur en kopia av dagboken. Originalet är försvunnet."
           }
         }
-      ]
+      ],
+      "person_sv": "Ferdinand Magellan"
     },
     {
       "slug": "nicolaus-copernicus",
@@ -13838,6 +14063,46 @@
             "caption": "His new picture: the sun in the middle, the planets around it.",
             "shutterstock_query": "simple solar system model sun center planets rings wooden table",
             "ai_prompt": "Photorealistic vertical image of a simple handmade model on a wooden table, a golden ball in the middle and small colored balls on plain metal rings around it, soft daylight, plain background; no labels, no letters, no numbers, no text."
+          },
+          "sv": {
+            "title": "Den tyste mannen i tornet",
+            "text_sentences": [
+              "Herr X lever för ungefär 500 år sedan, i norra Polen.",
+              "Han arbetar vid en katedral vid havet.",
+              "Han är också läkare och hjälper sjuka människor.",
+              "Han har ett litet torn i muren runt katedralen.",
+              "På natten klättrar han upp och tittar på himlen.",
+              "Han har inget teleskop, bara sina ögon och enkla redskap av trä.",
+              "På hans tid säger människor: jorden står stilla.",
+              "Solen, månen och stjärnorna går runt oss.",
+              "Herr X tänker på detta i många år.",
+              "Sedan säger han något nytt: solen står i mitten.",
+              "Jorden är en planet, och den går runt solen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Galileo Galilei",
+              "Nicolaus Kopernikus",
+              "Isaac Newton",
+              "Leonardo da Vinci"
+            ],
+            "correct": "Nicolaus Kopernikus",
+            "words": [
+              {
+                "word": "katedral",
+                "explanation": "en mycket stor och viktig kyrka"
+              },
+              {
+                "word": "teleskop",
+                "explanation": "ett rör med glas inuti som får saker långt borta att se nära ut"
+              },
+              {
+                "word": "planet",
+                "explanation": "en stor rund värld som går runt solen, som jorden"
+              }
+            ],
+            "main_caption": "På natten klättrar han upp i tornet och tittar på himlen.",
+            "side_caption": "Hans nya bild: solen i mitten, planeterna runt omkring."
           }
         },
         {
@@ -13891,6 +14156,47 @@
             "caption": "The fast runner overtakes the slow one. For a moment, the slow one seems to go backward.",
             "shutterstock_query": "runner overtaking another runner track from behind",
             "ai_prompt": "Photorealistic vertical image of two runners on an outdoor running track seen from behind at a low angle, the faster runner just passing the slower one, morning light, plain sports clothes without logos or numbers, no text, no letters."
+          },
+          "sv": {
+            "title": "Varför ingen känner att jorden rör sig",
+            "text_sentences": [
+              "På 1500-talet är herr X en kyrklig ämbetsman i Polen som studerar himlen.",
+              "Alla på hans tid är säkra: jorden rör sig inte.",
+              "Vi känner inte att den rör sig.",
+              "En sten faller rakt ner, och fåglarna lämnas inte kvar.",
+              "Varje natt verkar himlen vrida sig runt oss.",
+              "Men planeterna ställer till problem.",
+              "En planet rör sig framåt i månader, glider sedan bakåt, och sedan framåt igen.",
+              "De gamla böckerna förklarar detta med cirklar på cirklar.",
+              "Herr X frågar: tänk om jorden också rör sig?",
+              "Då är glidningen bakåt lätt att förklara.",
+              "Jorden kör om en långsammare planet, som en snabb löpare som passerar en långsam löpare.",
+              "En kort stund verkar den långsamma löparen gå bakåt."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Ptolemaios",
+              "Tycho Brahe",
+              "Nicolaus Kopernikus",
+              "Johannes Kepler"
+            ],
+            "correct": "Nicolaus Kopernikus",
+            "words": [
+              {
+                "word": "ämbetsman",
+                "explanation": "en person med ett arbete i kyrkan eller staten"
+              },
+              {
+                "word": "köra om",
+                "explanation": "att hinna ifatt någon och gå förbi"
+              },
+              {
+                "word": "passera",
+                "explanation": "att gå eller springa förbi"
+              }
+            ],
+            "main_caption": "Varje natt verkar himlen vrida sig runt oss.",
+            "side_caption": "Den snabba löparen kör om den långsamma. Ett ögonblick verkar den långsamma gå bakåt."
           }
         },
         {
@@ -13948,6 +14254,51 @@
             "caption": "A preface: the words at the start of a book. Here, somebody else speaks.",
             "shutterstock_query": "antique printed book open first page quill inkwell window daylight sharp angle",
             "ai_prompt": "Photorealistic vertical image of a thick sixteenth-century printed book lying open at its first page on a dark wooden table, seen from a low sharp angle, a quill pen and an inkwell beside it, cold daylight from a window, no candle, no people; the print blurred and unreadable, no readable words, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En bok på hans sista dag",
+            "text_sentences": [
+              "Herr X, en kyrklig ämbetsman i norra Polen, skriver en stor bok om himlen.",
+              "I den står solen i mitten, och jorden rör sig.",
+              "Han arbetar med boken i ungefär trettio år.",
+              "Han är rädd att folk ska skratta, så han trycker den inte.",
+              "En kardinal i Rom skriver och ber honom att publicera.",
+              "Sedan besöker en ung matematiker från Tyskland honom och driver på honom också.",
+              "Till slut går boken till en boktryckare i Nürnberg.",
+              "En berättelse säger: den tryckta boken når herr X den dag han dör.",
+              "Boken har ett märkligt förord utan namn.",
+              "Det säger: detta är bara ett redskap för beräkning, inte sanningen.",
+              "En kyrklig lärd man i staden där boken trycks lägger till dem utan tillåtelse.",
+              "I årtionden tror läsarna att orden är hans."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Nicolaus Kopernikus",
+              "Johannes Kepler",
+              "Galileo Galilei",
+              "Tycho Brahe"
+            ],
+            "correct": "Nicolaus Kopernikus",
+            "words": [
+              {
+                "word": "kardinal",
+                "explanation": "en mycket hög ledare i den katolska kyrkan"
+              },
+              {
+                "word": "publicera",
+                "explanation": "att trycka en text så att människor kan köpa och läsa den"
+              },
+              {
+                "word": "förord",
+                "explanation": "orden i början av en bok, före själva texten"
+              },
+              {
+                "word": "beräkning",
+                "explanation": "att arbeta med siffror för att hitta ett svar"
+              }
+            ],
+            "main_caption": "En berättelse säger: den tryckta boken når honom på hans sista dag.",
+            "side_caption": "Ett förord: orden i början av en bok. Här är det någon annan som talar."
           }
         },
         {
@@ -14005,6 +14356,51 @@
             "caption": "Close one eye, then the other: the thumb seems to shift.",
             "shutterstock_query": "person holding thumb up arm length one eye closed close-up",
             "ai_prompt": "Photorealistic vertical close-up of a young person holding one thumb up at arm's length in front of the face with one eye closed, looking past the thumb at a soft blurred landscape, daylight, plain clothes, no logos, no text, no letters."
+          },
+          "sv": {
+            "title": "En gammal idé med nya siffror",
+            "text_sentences": [
+              "Herr X från Polen sätter solen i världens mitt, på 1500-talet.",
+              "Själva idén är gammal: ungefär 1 800 år tidigare säger den grekiske tänkaren Aristarchos samma sak.",
+              "Nästan ingen följer honom.",
+              "De flesta lärda följer en annan grek, Ptolemaios, som behåller jorden i mitten.",
+              "Herr X hittar den gamla idén i grekiska och romerska böcker.",
+              "På sina handskrivna sidor nämner han Aristarchos, sedan stryker han raderna.",
+              "Han arbetar i åratal för att få idén att passa siffrorna.",
+              "Men hans system är inte enklare, och dess förutsägelser är inte bättre.",
+              "Kritiker säger: om jorden rör sig borde stjärnorna verka flytta sig.",
+              "De flyttar sig inte. Herr X svarar: stjärnorna är mycket, mycket långt borta.",
+              "Han föreslår, och han beräknar, men han kan inte bevisa.",
+              "Stjärnornas ytterst lilla förflyttning mäts först ungefär trehundra år senare."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Johannes Kepler",
+              "Isaac Newton",
+              "Nicolaus Kopernikus",
+              "Tycho Brahe"
+            ],
+            "correct": "Nicolaus Kopernikus",
+            "words": [
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar böcker på djupet"
+              },
+              {
+                "word": "förutsägelse",
+                "explanation": "ett påstående om vad som kommer att hända"
+              },
+              {
+                "word": "flytta sig",
+                "explanation": "att röra sig lite åt sidan"
+              },
+              {
+                "word": "bevisa",
+                "explanation": "att visa att något säkert är sant"
+              }
+            ],
+            "main_caption": "Långt före herr X tittar en grekisk tänkare på samma stjärnor.",
+            "side_caption": "Blunda med ett öga, sedan med det andra: tummen verkar flytta sig."
           }
         },
         {
@@ -14062,9 +14458,55 @@
             "caption": "One full turn of a wheel: that is all his title word means.",
             "shutterstock_query": "old wooden water wheel mill turning motion blur",
             "ai_prompt": "Photorealistic vertical image of an old wooden water wheel at a mill turning with slight motion blur, water splashing from the paddles, green plants and stone wall around, soft daylight; no signs, no letters, no numbers, no text."
+          },
+          "sv": {
+            "title": "En mycket långsam revolution",
+            "text_sentences": [
+              "Herr X, en kyrklig ämbetsman i Polen, publicerar sin bok om den rörliga jorden på 1500-talet.",
+              "Var kommer hans kunskap ifrån?",
+              "Han gör få egna observationer, och havsdimma döljer ofta himlen.",
+              "Han bygger på gamla stjärnuppteckningar från grekiska och arabiska astronomer.",
+              "Några av hans matematiska verktyg stämmer med äldre verktyg från astronomer i Persien och Syrien.",
+              "Ingen vet hur de idéerna når honom.",
+              "Han tillägnar boken påven, och i årtionden gör kyrkan ingenting.",
+              "De flesta astronomer använder hans tabeller men behåller jorden i mitten.",
+              "Tycho Brahe erbjuder en medelväg: planeterna kretsar runt solen, och solen kretsar runt jorden.",
+              "Kyrkan förbjuder boken mer än sjuttio år efter hans död, och bara ”tills den rättas”.",
+              "Långt senare kallar historiker hans idé en revolution.",
+              "Ordet i hans egen boktitel betyder bara detta: ett varv runt."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Johannes Kepler",
+              "Galileo Galilei",
+              "Giordano Bruno",
+              "Nicolaus Kopernikus"
+            ],
+            "correct": "Nicolaus Kopernikus",
+            "words": [
+              {
+                "word": "observation",
+                "explanation": "att titta noga på något och skriva ner vad man ser"
+              },
+              {
+                "word": "tillägna",
+                "explanation": "att skriva en bok till en persons ära, och säga det i början"
+              },
+              {
+                "word": "förbjuda",
+                "explanation": "att säga att något inte är tillåtet"
+              },
+              {
+                "word": "revolution",
+                "explanation": "en stor förändring i hur människor tänker eller lever; ordet betyder också ett helt varv"
+              }
+            ],
+            "main_caption": "I årtionden läser de lärda boken men behåller jorden i mitten.",
+            "side_caption": "Ett helt varv på ett hjul: det är allt hans titelord betyder."
           }
         }
-      ]
+      ],
+      "person_sv": "Nicolaus Kopernikus"
     },
     {
       "slug": "galileo-galilei",
@@ -14121,6 +14563,47 @@
             "caption": "Four small lights beside Jupiter. Night after night, they move.",
             "shutterstock_query": "jupiter four moons small telescope view black sky",
             "ai_prompt": "Simple realistic image of the view through an early telescope: a circular black field, a small bright pale disk without bands in the center, exactly four tiny points of light in a nearly straight line beside it, two on each side, nothing else, clean and quiet; no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Fyra små ljus bredvid Jupiter",
+            "text_sentences": [
+              "Herr X lever i Italien för ungefär fyrahundra år sedan.",
+              "Han undervisar i matematik vid ett universitet.",
+              "En dag hör han talas om ett nytt redskap från Nederländerna.",
+              "Det är ett rör med två linser av glas.",
+              "Saker långt borta ser nära ut genom det.",
+              "Herr X uppfinner det inte, men han bygger ett mycket bättre.",
+              "Han visar det för Venedigs ledare från ett högt torn.",
+              "De ser skepp långt ute till havs, långt före andra människor.",
+              "Sedan riktar han sitt rör mot natthimlen.",
+              "Bredvid planeten Jupiter ser han fyra små ljus.",
+              "Natt efter natt rör sig ljusen runt Jupiter.",
+              "Så inte allt på himlen går runt jorden!"
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Nicolaus Kopernikus",
+              "Galileo Galilei",
+              "Isaac Newton",
+              "Leonardo da Vinci"
+            ],
+            "correct": "Galileo Galilei",
+            "words": [
+              {
+                "word": "lins",
+                "explanation": "en rund bit glas som får saker att se större eller närmare ut"
+              },
+              {
+                "word": "uppfinna",
+                "explanation": "att göra en ny sak som ingen har gjort förut"
+              },
+              {
+                "word": "planet",
+                "explanation": "ett stort klot i rymden som går runt solen, som jorden"
+              }
+            ],
+            "main_caption": "På natten riktar herr X sitt rör mot himlen.",
+            "side_caption": "Fyra små ljus bredvid Jupiter. Natt efter natt rör de sig."
           }
         },
         {
@@ -14174,6 +14657,47 @@
             "caption": "A lamp on a long chain swings like a pendulum.",
             "shutterstock_query": "hanging bronze lamp long chain church swinging low angle",
             "ai_prompt": "Photorealistic low-angle image of a bronze oil lamp hanging on a very long chain from the high ceiling of a dim old church, swinging gently to one side with slight motion blur, soft light from tall windows, calm mood; no people, no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Kulan, rampen och vattenklockan",
+            "text_sentences": [
+              "Herr X undervisar i matematik i Italien, för ungefär fyrahundra år sedan.",
+              "I nästan tvåtusen år litar lärare på en gammal grekisk bok.",
+              "Boken säger: tunga saker faller fortare än lätta saker.",
+              "Herr X säger: lita inte bara på boken, titta och mät!",
+              "En berömd berättelse säger: han släpper två kulor från ett högt torn.",
+              "Historiker är inte säkra på att berättelsen är sann.",
+              "Men vi vet att han rullar kulor nerför en lång ramp av trä.",
+              "Rampen gör fallet långsamt, så han kan mäta tiden.",
+              "Han mäter med vatten som droppar ner i en kopp.",
+              "Han hittar en regel: på dubbla tiden kommer kulan fyra gånger så långt.",
+              "Han studerar också en hängande vikt, en pendel, och dess svängning.",
+              "Stor svängning eller liten svängning, varje svängning tar ungefär lika lång tid."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Galileo Galilei",
+              "Aristoteles",
+              "Isaac Newton",
+              "Leonardo da Vinci"
+            ],
+            "correct": "Galileo Galilei",
+            "words": [
+              {
+                "word": "mäta",
+                "explanation": "att ta reda på hur långt, hur tungt eller hur snabbt något är"
+              },
+              {
+                "word": "ramp",
+                "explanation": "en platt bräda som lutar uppåt på ena sidan, som en liten backe"
+              },
+              {
+                "word": "pendel",
+                "explanation": "en vikt som hänger i ett snöre och svänger från sida till sida"
+              }
+            ],
+            "main_caption": "En kula rullar nerför rampen. Droppande vatten mäter tiden.",
+            "side_caption": "En lampa i en lång kedja svänger som en pendel."
           }
         },
         {
@@ -14231,6 +14755,51 @@
             "caption": "Big thin crescent, small full disk: Venus goes around the sun.",
             "shutterstock_query": "phases of venus sequence crescent to full black background",
             "ai_prompt": "Clean astronomical illustration on a black background, vertical sequence of the phases of a pale smooth planet from top to bottom: a large thin crescent at the top, then a half-lit shape, then smaller rounder shapes, a small almost full disk at the bottom, shapes shrinking as they fill, no other objects; no text, no letters, no numbers, no arrows."
+          },
+          "sv": {
+            "title": "Himlen är inte perfekt",
+            "text_sentences": [
+              "Herr X är en italiensk astronom med ett nytt, starkt teleskop.",
+              "Gamla böcker lär: allt på himlen är perfekt och slätt.",
+              "Herr X tittar på månen och ser berg och dalar.",
+              "Från deras skuggor mäter han till och med hur höga de är.",
+              "Han ser också mörka fläckar på solen, och de rör sig över den.",
+              "Sedan iakttar han planeten Venus i månader.",
+              "Venus visar faser som månen, från tunn skära till nästan full.",
+              "När Venus är full ser den liten ut och verkar långt borta.",
+              "I den gamla bilden av himlen kan Venus aldrig se full ut.",
+              "Så Venus måste gå runt solen, inte runt jorden.",
+              "Detta bevisar ännu inte att jorden också rör sig.",
+              "Men de gamla böckernas perfekta himmel är borta."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Johannes Kepler",
+              "Tycho Brahe",
+              "Nicolaus Kopernikus",
+              "Galileo Galilei"
+            ],
+            "correct": "Galileo Galilei",
+            "words": [
+              {
+                "word": "astronom",
+                "explanation": "en vetenskapsman som studerar stjärnorna och planeterna"
+              },
+              {
+                "word": "fas",
+                "explanation": "formen på den upplysta delen av månen eller en planet, som vi ser den"
+              },
+              {
+                "word": "skära",
+                "explanation": "en tunn böjd form, som den unga månen"
+              },
+              {
+                "word": "bevisa",
+                "explanation": "att visa med fakta att något är sant"
+              }
+            ],
+            "main_caption": "Månen är inte slät. Dess berg kastar långa skuggor.",
+            "side_caption": "Stor tunn skära, liten full skiva: Venus går runt solen."
           }
         },
         {
@@ -14288,6 +14857,51 @@
             "caption": "House arrest: he may not leave his villa near Florence.",
             "shutterstock_query": "tuscan villa olive trees cypress closed iron gate evening light",
             "ai_prompt": "Photorealistic vertical image of a quiet old stone villa with a red tiled roof among olive trees and tall cypresses on a Tuscan hill, seen from outside a closed plain iron gate, soft evening light, calm and slightly lonely mood; no people, no signs, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En gammal man knäböjer i Rom",
+            "text_sentences": [
+              "Herr X är en berömd astronom i Italien, nästan sjuttio år gammal.",
+              "Nittio år tidigare skriver en astronom från norr: jorden går runt solen.",
+              "Kyrkan säger: detta strider mot Bibeln, så herr X får inte försvara det.",
+              "Men nu skriver han en stor bok, och i den vinner idén.",
+              "Påven kallar honom till Rom, till en kyrklig domstol.",
+              "I veckor förhör domarna honom.",
+              "En annan tänkare bränns i Rom många år tidigare, för sina idéer om Gud, men herr X torteras inte och bränns inte.",
+              "Ändå måste han knäböja och säga: jag ger upp denna idé.",
+              "En senare berättelse säger: han viskar, och ändå rör den sig.",
+              "Historiker hittar inga bevis för de orden.",
+              "Domstolen förbjuder hans bok och sätter honom i husarrest på livstid.",
+              "Där, på väg att bli blind, skriver han ändå en ny bok om hur saker rör sig."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Giordano Bruno",
+              "Nicolaus Kopernikus",
+              "Galileo Galilei",
+              "Johannes Kepler"
+            ],
+            "correct": "Galileo Galilei",
+            "words": [
+              {
+                "word": "domstol",
+                "explanation": "platsen där domare avgör om en person har gjort något fel"
+              },
+              {
+                "word": "tortera",
+                "explanation": "att skada en person med avsikt för att få honom att tala eller lyda"
+              },
+              {
+                "word": "knäböja",
+                "explanation": "att gå ner på knä"
+              },
+              {
+                "word": "husarrest",
+                "explanation": "ett straff: du måste stanna i ditt eget hem och får inte gå ut"
+              }
+            ],
+            "main_caption": "En gammal man knäböjer inför domstolen och ger upp sin idé.",
+            "side_caption": "Husarrest: han får inte lämna sin villa nära Florens."
           }
         },
         {
@@ -14345,9 +14959,55 @@
             "caption": "His book is a talk between three men. One of them looks foolish.",
             "shutterstock_query": "old printed book open woodcut three men talking soft light",
             "ai_prompt": "Photorealistic vertical image of an old printed book open at an angle in soft warm light, the left page showing a simple woodcut of three men in long robes standing and talking, slightly out of focus, the printed text rendered only as blurred unreadable decorative marks; no readable letters in any language, no names, no numbers, no text."
+          },
+          "sv": {
+            "title": "Mer än kyrkan mot vetenskapen",
+            "text_sentences": [
+              "Herr X är en italiensk astronom som lever för ungefär fyrahundra år sedan.",
+              "Senare författare berättar hans historia som ett krig: kyrkan mot vetenskapen.",
+              "Historiker i dag säger: titta närmare, det är inte så enkelt.",
+              "Hans första motståndare är professorer vid universiteten, inte präster.",
+              "De försvarar den gamla grekiska synen, och några vägrar till och med att titta genom hans teleskop.",
+              "Kyrkans astronomer i Rom kontrollerar hans upptäckter och bekräftar dem.",
+              "Påven själv beundrar honom och tillåter hans stora bok, ett samtal mellan tre män.",
+              "Den enfaldige av dem försvarar den gamla synen, med påvens eget favoritargument.",
+              "Påven känner sig hånad, och vänskapen slutar i en rättegång.",
+              "Herr X har rätt om planeterna, men hans huvudbevis, från tidvattnet, är fel.",
+              "Mer än 350 år efter rättegången säger kyrkan tydligt: domarna på den tiden gör misstag.",
+              "Makten kan förbjuda en bok, men inte bevisen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Nicolaus Kopernikus",
+              "Charles Darwin",
+              "Galileo Galilei",
+              "Johannes Kepler"
+            ],
+            "correct": "Galileo Galilei",
+            "words": [
+              {
+                "word": "motståndare",
+                "explanation": "en person som är emot dig i en strid eller en debatt"
+              },
+              {
+                "word": "håna",
+                "explanation": "att skratta åt en person på ett elakt sätt"
+              },
+              {
+                "word": "tidvatten",
+                "explanation": "havet som stiger och sjunker längs kusten, två gånger om dagen"
+              },
+              {
+                "word": "bevis",
+                "explanation": "fakta som visar vad som är sant"
+              }
+            ],
+            "main_caption": "Några professorer vägrar ens att titta genom röret.",
+            "side_caption": "Hans bok är ett samtal mellan tre män. En av dem ser enfaldig ut."
           }
         }
-      ]
+      ],
+      "person_sv": "Galileo Galilei"
     },
     {
       "slug": "protestant-reformation",
@@ -14408,6 +15068,51 @@
             "caption": "A monk lives a simple life of prayer and work.",
             "shutterstock_query": "monk walking cloister garden stone arches from behind",
             "ai_prompt": "Vertical illustration of a monk in a plain dark robe walking at a distance along a covered stone walkway around a cloister garden with a small tree in the middle, seen at an angle from behind so the face is hidden, soft daylight, quiet mood; no readable text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Papper för mynt",
+            "text_sentences": [
+              "Rörelsen X börjar i Europa för ungefär 500 år sedan.",
+              "Nästan alla i Västeuropa tillhör då en enda kyrka.",
+              "Dess ledare, påven, bor i Rom.",
+              "Han vill ha en väldig ny kyrka där, och det kostar mycket pengar.",
+              "Så kyrkans män reser från stad till stad och säljer särskilda papper.",
+              "Kyrkan lär, och köparna tror: detta papper gör Guds straff efter döden kortare.",
+              "En munk i Tyskland tror att detta är fel.",
+              "Förlåtelse är en gåva från Gud, tror han, och ingen kan köpa den.",
+              "Han skriver en lista med punkter mot försäljningen.",
+              "Han skickar listan till sin biskop, och vänner trycker den.",
+              "Hans ord sprids snabbt, och påven säger att munken har fel.",
+              "Men grälet växer, och kyrkan i Västeuropa delas i flera kyrkor."
+            ],
+            "question": "Vilken rörelse är detta?",
+            "options": [
+              "Korstågen",
+              "Reformationen",
+              "Renässansen",
+              "Den stora schismen"
+            ],
+            "correct": "Reformationen",
+            "words": [
+              {
+                "word": "påve",
+                "explanation": "ledaren för kyrkan i Rom"
+              },
+              {
+                "word": "straff",
+                "explanation": "något dåligt som du måste gå igenom för att du har gjort fel"
+              },
+              {
+                "word": "munk",
+                "explanation": "en religiös man som lever ett enkelt liv och ber mycket"
+              },
+              {
+                "word": "förlåtelse",
+                "explanation": "när Gud, eller en människa, slutar vara arg för något fel du har gjort"
+              }
+            ],
+            "main_caption": "Pengar från långt borta betalar för en väldig ny kyrka i Rom.",
+            "side_caption": "En munk lever ett enkelt liv med bön och arbete."
           }
         },
         {
@@ -14465,6 +15170,51 @@
             "caption": "A thin booklet of a few pages costs little.",
             "shutterstock_query": "hands sewing pamphlet booklet needle thread wooden bench closeup",
             "ai_prompt": "Photorealistic vertical close-up of hands sewing thin paper booklets with needle and thread at a wooden bench, a low stack of finished booklets beside, one cover with a small simple woodcut of a tree seen at an angle, warm workshop light; all pages blank or angled away, no readable letters, no text."
+          },
+          "sv": {
+            "title": "Små häften, stor förändring",
+            "text_sentences": [
+              "Rörelsen X börjar i Tyskland för ungefär 500 år sedan.",
+              "En munk där börjar ett gräl med kyrkan.",
+              "Hans vänner och hans fiender skriver alla om det.",
+              "Boktryckare översätter texterna till tyska och gör dem till tunna, billiga häften.",
+              "I Europa är tryck med lösa bokstäver av metall nytt, bara ungefär sjuttio år gammalt.",
+              "En tryckpress kan nu göra mer än tusen sidor på en dag.",
+              "Inom några månader når häftena städer över hela Tyskland.",
+              "Några häften har bilder, så att människor som inte kan läsa också kan förstå.",
+              "Snart översätts Bibeln till tyska, engelska och andra vardagsspråk.",
+              "Nu kan en bonde eller en vävare höra den heliga boken på sitt eget språk.",
+              "Den gamla kyrkans ledare trycker också svar, men färre, och senare.",
+              "För första gången utkämpas ett gräl i kyrkan med tusentals billiga häften."
+            ],
+            "question": "Vilken rörelse är detta?",
+            "options": [
+              "Renässansen",
+              "Upplysningen",
+              "Den industriella revolutionen",
+              "Reformationen"
+            ],
+            "correct": "Reformationen",
+            "words": [
+              {
+                "word": "häfte",
+                "explanation": "en liten, tunn bok med bara några sidor"
+              },
+              {
+                "word": "tryckpress",
+                "explanation": "en maskin som trycker bläck mot papper för att göra många kopior"
+              },
+              {
+                "word": "översätta",
+                "explanation": "att säga eller skriva något igen på ett annat språk"
+              },
+              {
+                "word": "vävare",
+                "explanation": "en person som gör tyg av trådar"
+              }
+            ],
+            "main_caption": "Buntar med billiga häften lämnar staden. Snart finns de överallt.",
+            "side_caption": "Ett tunt häfte på några sidor kostar lite."
           }
         },
         {
@@ -14522,6 +15272,51 @@
             "caption": "A bishop leads the church in one region. Who chooses him, the pope or the king?",
             "shutterstock_query": "bishop mitre crozier church doorway historical illustration",
             "ai_prompt": "Vertical historical illustration of a bishop in a long robe and tall pointed hat holding a curved staff, standing in the arched doorway of a stone church, seen from a distance, soft daylight, calm respectful mood; generic face, no coats of arms, no text, no letters."
+          },
+          "sv": {
+            "title": "Varför härskarna väljer sida",
+            "text_sentences": [
+              "Rörelsen X delar kyrkan i Västeuropa för ungefär 500 år sedan.",
+              "Några härskare går med i de nya kyrkorna, och några stannar hos Rom.",
+              "Varför väljer de som de gör?",
+              "Några tror verkligen på den nya läran, men makt och pengar spelar också roll.",
+              "En härskare som bryter med Rom kan ta kyrkans mark, hus och silver.",
+              "Han kan sluta skicka pengar till Rom, och han kan välja biskoparna själv.",
+              "I Sverige tar kungen kyrkans silver och mark för att betala sina skulder.",
+              "I England vill kungen avsluta sitt äktenskap, och påven säger nej.",
+              "Så kungen gör sig själv till kyrkans överhuvud i sitt land och stänger klostren.",
+              "Härskare som stannar hos Rom har också skäl, och tron spelar roll även där.",
+              "Kungarna i Frankrike och Spanien väljer redan sina egna biskopar. De vinner mindre på en brytning.",
+              "Efter år av gräl och krig i Tyskland skrivs ett fördrag under. Varje furste bestämmer tron i sitt land."
+            ],
+            "question": "Vilken rörelse är detta?",
+            "options": [
+              "Reformationen",
+              "Den stora schismen",
+              "Korstågen",
+              "Upplysningen"
+            ],
+            "correct": "Reformationen",
+            "words": [
+              {
+                "word": "biskop",
+                "explanation": "en hög kyrklig ledare som leder alla kyrkor i ett område"
+              },
+              {
+                "word": "kloster",
+                "explanation": "ett hus där munkar bor, arbetar och ber"
+              },
+              {
+                "word": "skuld",
+                "explanation": "pengar som du är skyldig och måste betala tillbaka"
+              },
+              {
+                "word": "fördrag",
+                "explanation": "en skriftlig överenskommelse mellan härskare eller länder"
+              }
+            ],
+            "main_caption": "Kungen stänger klostret och tar dess mark. Murarna står tomma.",
+            "side_caption": "En biskop leder kyrkan i ett område. Vem väljer honom, påven eller kungen?"
           }
         },
         {
@@ -14578,6 +15373,50 @@
             "caption": "A preacher explains the Bible in a plain church without pictures.",
             "shutterstock_query": "preacher plain wooden pulpit whitewashed church interior illustration",
             "ai_prompt": "Vertical illustration of a preacher in a plain black gown speaking from a simple wooden pulpit in a whitewashed sixteenth-century church, clear windows, bare walls without pictures or statues, a few listeners on plain benches seen from behind, soft daylight; no readable text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Inte en man, utan många",
+            "text_sentences": [
+              "Rörelsen X börjar med en munk i Tyskland för ungefär 500 år sedan. Men den är inte en enda mans verk.",
+              "I Zürich predikar en präst vid namn Zwingli bara det han hittar i Bibeln.",
+              "Stadens råd håller med och tar bort bilderna och statyerna från sina kyrkor.",
+              "I Genève bygger en fransman vid namn Calvin en sträng ny kyrka med hårda regler för det dagliga livet.",
+              "Hans skola utbildar predikanter, som för hans lära till Frankrike, Nederländerna och Skottland.",
+              "Munken och Zwingli grälar om brödet och vinet i kyrkan. De sluter aldrig fred.",
+              "Mindre grupper döper bara vuxna, och båda de stora sidorna straffar dem hårt.",
+              "Den gamla kyrkan svarar också, vid ett långt möte i staden Trento.",
+              "Där uttrycker dess ledare sin tro med tydliga ord. De avskaffar också försäljningen av förlåtelsepapper för pengar.",
+              "Prästerna får bättre utbildning. Nya prästordnar öppnar skolor så långt bort som i Indien och Japan.",
+              "Var sida tror att den har den sanna tron, och historien kan inte avgöra den frågan."
+            ],
+            "question": "Vilken rörelse är detta?",
+            "options": [
+              "Motreformationen",
+              "Renässansen",
+              "Reformationen",
+              "Den stora schismen"
+            ],
+            "correct": "Reformationen",
+            "words": [
+              {
+                "word": "råd",
+                "explanation": "här: gruppen av män som styr en stad"
+              },
+              {
+                "word": "predikant",
+                "explanation": "en person som talar om religion inför en grupp människor"
+              },
+              {
+                "word": "döpa",
+                "explanation": "att hälla vatten på en person, eller doppa personen i vatten, för att göra honom eller henne till medlem i kyrkan"
+              },
+              {
+                "word": "prästorden",
+                "explanation": "en grupp präster eller munkar som lever efter samma regler"
+              }
+            ],
+            "main_caption": "I städer vid sjöarna bygger andra predikanter egna kyrkor.",
+            "side_caption": "En predikant förklarar Bibeln i en enkel kyrka utan bilder."
           }
         },
         {
@@ -14635,9 +15474,55 @@
             "caption": "The farmer gives part of his harvest to the lord. Some hope the new ideas will end this.",
             "shutterstock_query": "peasant carrying sack manor house gate sixteenth century illustration",
             "ai_prompt": "Vertical historical illustration of a farmer in simple sixteenth-century clothes carrying a heavy grain sack up a path to the gate of a stone manor house, a steward waiting beside a cart with more sacks, soft afternoon light, calm mood; no weapons, no coats of arms, no text, no letters."
+          },
+          "sv": {
+            "title": "Tro, makt eller bröd?",
+            "text_sentences": [
+              "Rörelsen X delar kyrkan i Västeuropa på 1500-talet.",
+              "Historiker är överens om händelserna. Men de tvistar om orsaken: tro, makt eller vardagsliv?",
+              "Äldre böcker berättar historien om en modig munk i Tyskland och hans samvete.",
+              "Senare historiker tittar på furstarna och de fria städerna som använder grälet för att vinna makt.",
+              "Andra tittar på bönderna och de fattiga i städerna.",
+              "Bönder i Tyskland läser snart de nya idéerna som frihet också från sina herrar.",
+              "De gör uppror, och furstarna krossar dem. Kanske hundratusen dör, och munken tar furstarnas parti.",
+              "Krig om tro och makt följer, i Frankrike, i Nederländerna och över hela Centraleuropa.",
+              "Det största av dem varar i trettio år.",
+              "Några regioner förlorar en tredjedel av sin befolkning i strider, hunger och sjukdom.",
+              "En följd består: de nya kyrkorna vill att varje barn ska läsa Bibeln, så byskolor sprids.",
+              "Den gamla kyrkan svarar med egna nya skolor, och läsningen växer på båda sidor."
+            ],
+            "question": "Vilken rörelse är detta?",
+            "options": [
+              "Renässansen",
+              "Upplysningen",
+              "Motreformationen",
+              "Reformationen"
+            ],
+            "correct": "Reformationen",
+            "words": [
+              {
+                "word": "orsak",
+                "explanation": "skälet till att något händer"
+              },
+              {
+                "word": "samvete",
+                "explanation": "den inre känslan som säger dig vad som är rätt och fel"
+              },
+              {
+                "word": "herre",
+                "explanation": "här: en mäktig man som äger marken som bönderna arbetar på"
+              },
+              {
+                "word": "region",
+                "explanation": "en del av ett land, större än en stad"
+              }
+            ],
+            "main_caption": "En byskola. Barnen lär sig läsa, så att de själva kan läsa den heliga boken.",
+            "side_caption": "Bonden ger en del av sin skörd till herren. Några hoppas att de nya idéerna ska göra slut på detta."
           }
         }
-      ]
+      ],
+      "person_sv": "Reformationen"
     },
     {
       "slug": "martin-luther",
@@ -14698,6 +15583,51 @@
             "caption": "Lightning strikes close. In his fear, the young traveler makes a promise.",
             "shutterstock_query": "thunderstorm lightning open road fields lone traveler distance",
             "ai_prompt": "Dramatic vertical illustration: a dark thunderstorm over an open dirt road between fields in central Germany about 500 years ago, lightning striking a tree near the road, a single tiny traveler in simple clothes far away seen from behind crouching on the road with a bag beside him, heavy rain, cold light, no face, no fire, no text, no letters."
+          },
+          "sv": {
+            "title": "Munken som är rädd för Gud",
+            "text_sentences": [
+              "Broder X lever i Tyskland, för ungefär 500 år sedan.",
+              "Som ung man studerar han för att bli jurist.",
+              "En dag överraskar ett åskväder honom på en öppen väg.",
+              "Blixten slår ner nära, och han blir mycket rädd.",
+              "I sin rädsla ropar han till ett helgon: hjälp mig, så blir jag munk.",
+              "Han håller sitt löfte och går in i ett kloster.",
+              "Där ber han, han arbetar, och han fastar.",
+              "Men han känner sig fortfarande rädd för Gud.",
+              "Jag kan aldrig bli god nog, tänker han.",
+              "Sedan läser han ett gammalt brev i Bibeln, om och om igen.",
+              "Han hittar en ny idé där: Guds förlåtelse är en fri gåva, tror han.",
+              "Ingen kan förtjäna den, och ingen kan köpa den. Denna idé ska snart dela kyrkan i Europa."
+            ],
+            "question": "Vem är broder X?",
+            "options": [
+              "Johannes Gutenberg",
+              "Martin Luther",
+              "Jean Calvin",
+              "Ignatius av Loyola"
+            ],
+            "correct": "Martin Luther",
+            "words": [
+              {
+                "word": "jurist",
+                "explanation": "en person som kan lagen och hjälper människor i domstol"
+              },
+              {
+                "word": "helgon",
+                "explanation": "en helig person; några kristna ber helgon om hjälp"
+              },
+              {
+                "word": "kloster",
+                "explanation": "ett hus där munkar bor, ber och arbetar"
+              },
+              {
+                "word": "fasta",
+                "explanation": "här: att inte äta någon mat under en tid, för Gud"
+              }
+            ],
+            "main_caption": "En ung munk ber ensam. Han är rädd att han inte är god nog.",
+            "side_caption": "Blixten slår ner nära. I sin rädsla ger den unge resenären ett löfte."
           }
         },
         {
@@ -14755,6 +15685,51 @@
             "caption": "A coin in the chest, a letter of pardon in the hand.",
             "shutterstock_query": "hand coin wooden chest sealed letter medieval market closeup",
             "ai_prompt": "Photorealistic vertical close-up at a sixteenth-century market: a preacher's hand in a dark robe sleeve hands a folded letter with a plain wax seal to a buyer over a large iron-bound wooden chest, the buyer's other hand dropping a coin into the chest, faces out of frame, warm daylight, nothing readable on the letter, plain seal, no symbols, no text."
+          },
+          "sv": {
+            "title": "Nittiofem punkter mot en försäljning",
+            "text_sentences": [
+              "Herr X är munk och lärare i Wittenberg i Tyskland, för ungefär 500 år sedan.",
+              "En predikant kommer till trakten och säljer förlåtelsebrev från kyrkan.",
+              "Kyrkan kallar dessa brev avlatsbrev.",
+              "Köp ett brev, säger predikanten, så är straffet för dina synder borta.",
+              "En del av pengarna hjälper till att bygga en stor ny kyrka i Rom.",
+              "Herr X är arg: förlåtelse är inte till salu, tror han.",
+              "Han skriver nittiofem korta punkter mot försäljningen, på latin, för en debatt.",
+              "Han skickar dem i ett brev till ärkebiskopen.",
+              "En berättelse säger att han också spikar upp dem på kyrkdörren.",
+              "Historiker är inte säkra på att berättelsen om dörren är sann.",
+              "Boktryckare kopierar punkterna, och vänner översätter dem till tyska.",
+              "Inom några månader läser människor dem över hela Tyskland."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Jan Hus",
+              "Erasmus",
+              "Martin Luther",
+              "Jean Calvin"
+            ],
+            "correct": "Martin Luther",
+            "words": [
+              {
+                "word": "latin",
+                "explanation": "romarnas gamla språk, kyrkan använder det i århundraden"
+              },
+              {
+                "word": "avlatsbrev",
+                "explanation": "ett brev från kyrkan; kyrkan lär att det tar bort straff för synder"
+              },
+              {
+                "word": "synd",
+                "explanation": "en dålig handling mot Guds regler, i en religion"
+              },
+              {
+                "word": "ärkebiskop",
+                "explanation": "en hög ledare i kyrkan över ett stort område"
+              }
+            ],
+            "main_caption": "En berättelse säger: ett papper hänger på kyrkdörren, och människor stannar för att titta.",
+            "side_caption": "Ett mynt i kistan, ett förlåtelsebrev i handen."
           }
         },
         {
@@ -14812,6 +15787,51 @@
             "caption": "An outlaw hides in a castle high above the forest.",
             "shutterstock_query": "medieval castle wooded hill dusk one lit window germany",
             "ai_prompt": "Atmospheric vertical view of a stone castle high on a wooded hill in central Germany at dusk, seen from the dark forest below, one small window glowing with warm candlelight, mist between the trees, quiet safe mood, no people, no flags, no text, no letters."
+          },
+          "sv": {
+            "title": "Jag kan inte ta tillbaka det",
+            "text_sentences": [
+              "Herr X är en munk från Wittenberg som skriver mot försäljningen av förlåtelsebrev.",
+              "Hans böcker sprids snabbt, och påven kastar ut honom ur kyrkan.",
+              "För ungefär 500 år sedan kallar den unge kejsaren honom till staden Worms.",
+              "Furstar, biskopar och kejsaren väntar på honom i en stor sal.",
+              "- Tar du tillbaka det du har skrivit? frågar de.",
+              "Han ber om en dag för att tänka efter.",
+              "Nästa dag svarar han: nej, om inte Bibeln eller klart förnuft bevisar att han har fel.",
+              "De första tryckta rapporterna lägger till en berömd rad: här står jag, jag kan inte annat.",
+              "Den finns inte i det officiella protokollet, så historiker tvivlar på den.",
+              "På vägen hem för maskerade ryttare bort honom.",
+              "En vänligt sinnad furste gömmer honom i en borg, med ett nytt namn och skägg.",
+              "Snart förklarar kejsaren honom fredlös: vem som helst får nu döda honom utan straff."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Martin Luther",
+              "Jan Hus",
+              "Thomas More",
+              "Jean Calvin"
+            ],
+            "correct": "Martin Luther",
+            "words": [
+              {
+                "word": "kejsare",
+                "explanation": "en härskare över många länder och många furstar"
+              },
+              {
+                "word": "ta tillbaka",
+                "explanation": "att säga att ens egna ord var fel"
+              },
+              {
+                "word": "fredlös",
+                "explanation": "en person utanför lagen; ingen straffas för att skada honom"
+              },
+              {
+                "word": "furste",
+                "explanation": "härskaren över ett land inom riket"
+              }
+            ],
+            "main_caption": "En munk står ensam inför kejsaren och furstarna.",
+            "side_caption": "En fredlös gömmer sig i en borg högt över skogen."
           }
         },
         {
@@ -14869,6 +15889,51 @@
             "caption": "Now a mother can read the book at home, in her own language.",
             "shutterstock_query": "16th century family home mother reading book children hearth illustration",
             "ai_prompt": "Warm vertical illustration of a simple German home kitchen about 500 years ago, a mother at a wooden table reading aloud from a thick book seen at a sharp angle, two children and an old man listening, a hearth fire, bread and a jug on the table, soft evening light, calm mood, no readable letters, no text."
+          },
+          "sv": {
+            "title": "En bibel för mamman i huset",
+            "text_sentences": [
+              "Herr X är en tysk munk och lärare, för ungefär 500 år sedan.",
+              "I kyrkan läses Bibeln på latin, ett språk som få människor kan.",
+              "Gömd i en borg börjar herr X översätta.",
+              "Han arbetar från den gamla grekiska texten, inte från kyrkans latin.",
+              "Han vill ha ord som en mamma i huset och ett barn på gatan kan förstå.",
+              "På ungefär elva veckor är Nya testamentet klart på tyska.",
+              "Boktryckare säljer det i tusental och trycker det om och om igen.",
+              "Tyskan har många dialekter, och hans bok hjälper till att forma ett gemensamt tyskt skriftspråk.",
+              "Han ber städerna att öppna skolor för flickor och pojkar, så att alla kan läsa den.",
+              "Kyrkans ledare i Rom säger: kyrkan måste vägleda läsningen.",
+              "Herr X säger: varje troende kan läsa och bedöma själv.",
+              "Var sida tror att den har rätt, och frågan delar kyrkor än i dag."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Erasmus",
+              "Johannes Gutenberg",
+              "William Tyndale",
+              "Martin Luther"
+            ],
+            "correct": "Martin Luther",
+            "words": [
+              {
+                "word": "latin",
+                "explanation": "romarnas gamla språk, kyrkan använder det i århundraden"
+              },
+              {
+                "word": "översätta",
+                "explanation": "att föra över en text från ett språk till ett annat"
+              },
+              {
+                "word": "Nya testamentet",
+                "explanation": "andra delen av den kristna Bibeln; den berättar om Jesus och hans anhängare"
+              },
+              {
+                "word": "dialekt",
+                "explanation": "sättet ett språk talas på i ett visst område"
+              }
+            ],
+            "main_caption": "I ett stilla rum i borgen överför en man en gammal bok till vardagsord.",
+            "side_caption": "Nu kan en mamma läsa boken hemma, på sitt eget språk."
           }
         },
         {
@@ -14926,9 +15991,55 @@
             "caption": "Five hundred years later, leaders of both churches walk in together.",
             "shutterstock_query": "two clergy different robes walking cathedral aisle from behind candles",
             "ai_prompt": "Respectful vertical illustration inside a bright northern cathedral of white stone with tall windows, two church leaders in different robes, one white and one dark red, walking side by side down the aisle toward the altar seen from behind and at a distance, candles along the aisle, soft light, calm hopeful mood, no faces, no readable text, no banners, no letters."
+          },
+          "sv": {
+            "title": "Hundra band och en mörk sida",
+            "text_sentences": [
+              "Herr X är en tysk munk vars gräl med Rom delar den västliga kyrkan, för ungefär 500 år sedan.",
+              "Få människor från hans tid lämnar så många källor.",
+              "Hans samlade verk fyller mer än hundra tjocka band.",
+              "Mer än tvåtusen av hans brev finns bevarade.",
+              "Studenter skriver till och med ner hans samtal vid middagsbordet.",
+              "Men de skriver i hast eller ur minnet, och senare utgivare ändrar orden, så historiker läser dem med försiktighet.",
+              "Till och med den berömda berättelsen om kyrkdörren vilar på två sena rapporter, skrivna årtionden efter händelsen.",
+              "Hans arv är också delat.",
+              "På sin ålderdom skriver han böcker fulla av hat mot judar.",
+              "Århundraden senare använder andra dessa böcker för sitt eget hat, och historiker studerar hur.",
+              "Kyrkor som följer hans lära i dag tar avstånd från dessa ord.",
+              "I vårt eget århundrade ber påven tillsammans med ledare för dessa kyrkor, i Sverige."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Jean Calvin",
+              "Jan Hus",
+              "Ulrich Zwingli",
+              "Martin Luther"
+            ],
+            "correct": "Martin Luther",
+            "words": [
+              {
+                "word": "källa",
+                "explanation": "en text eller sak från det förflutna som ger oss kunskap"
+              },
+              {
+                "word": "band",
+                "explanation": "en bok i en lång rad böcker som hör ihop"
+              },
+              {
+                "word": "arv",
+                "explanation": "det en person lämnar efter sig till senare tider, gott och ont"
+              },
+              {
+                "word": "ta avstånd från",
+                "explanation": "att säga tydligt: detta är fel, vi accepterar det inte"
+              }
+            ],
+            "main_caption": "En mans ord fyller en hel vägg av böcker.",
+            "side_caption": "Femhundra år senare går ledare för båda kyrkorna in tillsammans."
           }
         }
-      ]
+      ],
+      "person_sv": "Martin Luther"
     }
   ]
 }
