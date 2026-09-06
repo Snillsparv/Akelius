@@ -84,3 +84,41 @@ Ordet ska förekomma i kortets text.
   jordens storlek, att han aldrig förstår att det är en för Europa okänd
   kontinent, mötets följder för urfolken (sjukdomar, kolonisation) sakligt
   skildrade. Skriv för elever i Latinamerika.
+
+## Ämnesnoter, leverans 5
+
+Kategorier: Magellan `exploration`; Kopernikus och Galilei `science`;
+reformationen och Luther `religions` (etiketten `reformation` vore lika med
+reformationssetets svar, samma krock som renässansen). Korsläckor att vakta:
+reformationssetet får inte namnge Luther ("a monk in Germany" räcker),
+Luthersetet får inte använda ordet Reformation, Galileisetet får inte namnge
+Kopernikus ("an astronomer from the north" eller liknande), Magellansetet
+inte Columbus.
+
+- **Ferdinand Magellan**: han dör på Filippinerna (Mactan, Lapulapu) och
+  fullbordar inte resan själv; Elcano för ett skepp hem, 18 man av cirka 270.
+  Ge det filippinska perspektivet plats. Nämn Enrique, hans tolk från
+  Malacka, som möjligen var den förste som verkligen kom runt jorden.
+  Sundet, Stilla havets storlek, skörbjugg sakligt utan gore.
+- **Nicolaus Copernicus**: han bevisar inte heliocentrismen, han föreslår
+  och räknar; boken trycks 1543 när han dör; Aristarchos tänkte tanken i
+  antiken; matematiska verktyg från islamiska astronomer (Maragha) får
+  nämnas på universitetsnivå; kyrkans reaktion kom först decennier senare,
+  inte mot honom personligen.
+- **Galileo Galilei**: kikaren förbättras, uppfinns inte av honom; Jupiters
+  månar, Venus faser, månens berg; rättegången 1633 slutar i husarrest,
+  ingen tortyr, inget bål (Bruno är en annan person, blanda inte ihop);
+  "och ändå rör hon sig" är en senare legend och ska markeras som sådan.
+  Undvik den förenklade bilden "kyrkan mot vetenskapen", visa att
+  många av hans motståndare var andra lärde.
+- **The Protestant Reformation**: inte bara en man: avlaten, tryckpressen,
+  furstarnas intressen, Zwingli, Calvin, den katolska motreformationen.
+  Kyrkodörrslegenden bara som "a story tells". Trosfrågor markeras som tro
+  på alla sidor; ingen sida framställs som den rätta (Rogers regel). Krigen
+  som följde sakligt och kort.
+- **Martin Luther**: munken, ångesten, avlatsbreven, de 95 punkterna,
+  riksdagen i Worms ("här står jag" är osäkert citat, markera), bibeln på
+  tyska och vad det gör med språket och läsandet. Universitetskortet får
+  kort och sakligt nämna att hans sena skrifter mot judar är en mörk del av
+  arvet som historiker studerar. Inga porträtt av honom som svarsläcka:
+  bildmotiv utan igenkännbart Cranach-ansikte.
