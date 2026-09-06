@@ -93,7 +93,7 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 - **Motiv:** A quiet study of the early seventeenth century: a long wooden ramp with a straight groove rests on trestles, and a small bronze ball rolls down it, with slight motion blur. Beside the ramp stands a tall water vessel with a thin spout dripping into a small cup on a balance scale. Old books and a candle in the background. Production note: no people, or only hands; no text, letters, numbers, or marks on the ramp, vessel, or books.
 - **Bildtext:** *A ball rolls down the ramp. Dripping water measures the time.*
 - **Shutterstock-sökning:** `inclined plane wooden ramp bronze ball water clock historical experiment`
-- **AI-prompt (alternativ):** Photorealistic scene in a quiet early-seventeenth-century study: a long wooden ramp with a straight groove on trestles, a small bronze ball rolling down it with slight motion blur, a tall water vessel with a thin spout dripping into a small cup on a balance scale beside the ramp, old books and a candle in the background, warm window light; no people, no text, no letters, no numbers, no marks.
+- **AI-prompt (alternativ):** Photorealistic scene in a quiet early-seventeenth-century study: a long wooden ramp with a single straight groove rests on two wooden trestles, a small bronze ball rolls down the groove with slight motion blur; beside the ramp a tall bronze water vessel with a thin spout drips water into a small plain bronze cup standing directly on the table below the spout; no balance scale, no other instruments, nothing hanging in chains; old closed books and a candle in the background, warm window light; no people, no marks.
 
 ### Sidobild
 

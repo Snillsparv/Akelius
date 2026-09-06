@@ -152,7 +152,7 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 - **Motiv:** A bishop in a long robe and tall pointed hat, holding a curved staff, stands in the arched doorway of a stone church, seen at some distance; generic sixteenth-century dress. The picture explains the word 'bishop'. Production note: a generic figure, not a portrait of any real person; respectful and calm; no readable text, coats of arms, or banners.
 - **Bildtext:** *A bishop leads the church in one region. Who chooses him, the pope or the king?*
 - **Shutterstock-sökning:** `bishop mitre crozier church doorway historical illustration`
-- **AI-prompt (alternativ):** Vertical historical illustration of a bishop in a long robe and tall pointed hat holding a curved staff, standing in the arched doorway of a stone church, seen from a distance, soft daylight, calm respectful mood; generic face, no coats of arms, no text, no letters.
+- **AI-prompt (alternativ):** Vertical historical illustration of a bishop in a long white and gold robe and a tall pointed hat, holding a curved staff, standing in the arched stone doorway of a church, seen from some distance so the whole figure is small in the frame, an ordinary middle-aged man with a calm face where eyes, nose and mouth are clearly painted, not resembling any real person, soft daylight, respectful mood, no coats of arms, no symbols.
 
 ---
 

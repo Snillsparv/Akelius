@@ -51,7 +51,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **Motiv:** A group of black-and-white penguins stands on a rocky, windswept shore of the far south, cold sea and grey sky behind. The picture helps explain the word 'penguin'. Production note: no people, no ships, no text, letters, or symbols anywhere.
 - **Bildtext:** *Penguins on the cold southern shore. The sailors have never seen such birds.*
 - **Shutterstock-sökning:** `penguins rocky shore patagonia cold sea vertical`
-- **AI-prompt (alternativ):** Photorealistic vertical image of a group of black-and-white penguins standing on a rocky windswept shore in the far south, cold grey sea and cloudy sky behind, calm natural mood; no people, no ships, no text, no letters.
+- **AI-prompt (alternativ):** A small group of Magellanic penguins on a rocky windy Patagonian shore, black and white birds with two black bands across the white chest and a white band curving around each side of the head, grey choppy sea and low clouds behind, cool overcast light, realistic wildlife photo style, no people, no ships.
 
 ---
 
@@ -143,7 +143,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **Motiv:** Dawn on a tropical beach of a small island in the Philippines about 500 years ago: warriors of the island in traditional dress with wooden shields and spears stand in the shallow water, seen from behind and from the side, looking out to sea, where three small European sailing ships lie far off beyond the reef and a few rowing boats approach. The moment before the fight. Production note: respectful and realistic, no caricature; the islanders are the main figures and are shown with dignity; no violence, no blood; ships and boats tiny in the distance; no text, letters, or symbols anywhere.
 - **Bildtext:** *The chief of the island will not bow. His warriors wait in the shallow water.*
 - **Shutterstock-sökning:** `philippine warriors beach dawn shields spears historical illustration`
-- **AI-prompt (alternativ):** Realistic historical illustration: dawn on a tropical beach of a small island in the Philippines about 500 years ago, warriors of the island in traditional dress with wooden shields and spears standing in shallow water, seen from behind and from the side, looking out to sea where three small European sailing ships lie far off beyond the reef and a few rowing boats approach, calm tense mood; respectful, no caricature, no violence, no blood, no text, no letters.
+- **AI-prompt (alternativ):** Realistic historical illustration: dawn on a tropical beach of a small island in the Philippines about 500 years ago, warriors of the island seen from behind and from the side standing in shallow water, each wearing a wrapped loincloth or short wrapped cloth that fully covers the hips and buttocks, bare upper bodies, cloth headbands, wooden shields and spears, looking out to sea where three small European sailing ships lie far off beyond the reef and a few rowing boats approach, calm tense mood before any fight, respectful, no caricature, no nudity, no bare buttocks, no violence, no blood, no symbols on sails.
 
 ### Sidobild
 
