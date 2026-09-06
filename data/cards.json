@@ -13493,6 +13493,1442 @@
         }
       ],
       "person_sv": "Christofer Columbus"
+    },
+    {
+      "slug": "ferdinand-magellan",
+      "person": "Ferdinand Magellan",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Five Ships and a Calm New Ocean",
+          "category": "exploration",
+          "text_sentences": [
+            "Captain X lives about 500 years ago.",
+            "He comes from Portugal, but he sails for the king of Spain.",
+            "The king gives him five wooden ships and about 270 men.",
+            "Captain X wants to sail west, all the way to the Spice Islands in Asia.",
+            "The ships cross the ocean and follow the coast of South America.",
+            "They sail south for many months, and the weather gets cold.",
+            "On the shore, the sailors see penguins and big sea lions.",
+            "Far in the south, they find a strait, a narrow water road through the land.",
+            "At night, they see fires on the shore, and later that land gets the name Land of Fire.",
+            "Only three ships come out of the strait. A huge new ocean opens in front of them.",
+            "The water is calm, so Captain X gives this ocean a name that means peaceful.",
+            "We still use that name today."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Ferdinand Magellan",
+            "Francis Drake"
+          ],
+          "correct": "Ferdinand Magellan",
+          "words": [
+            {
+              "word": "strait",
+              "explanation": "a narrow line of water between two pieces of land"
+            },
+            {
+              "word": "spice",
+              "explanation": "a dried plant part that gives food a strong taste, like pepper"
+            },
+            {
+              "word": "calm",
+              "explanation": "quiet and still, without wind or big waves"
+            },
+            {
+              "word": "penguin",
+              "explanation": "a black and white sea bird that swims but cannot fly"
+            }
+          ],
+          "main_image": {
+            "description": "Three small wooden sailing ships of about 500 years ago move in a line through a narrow strait between steep snow-topped mountains and dark forested shores, cold grey-blue light, low clouds, a thin column of smoke rising from a far shore. Production note: exactly three ships, small in the landscape, small round-hulled carracks of the early sixteenth century with high stern castles and square sails, no gun ports in rows; sails and flags completely plain, no crosses, symbols, letters, or text anywhere in the image.",
+            "caption": "Ships in a narrow strait, far in the cold south.",
+            "shutterstock_query": "old wooden sailing ships narrow strait snow mountains patagonia",
+            "ai_prompt": "Cinematic wide shot of three small wooden sailing ships from about 500 years ago moving in a line through a narrow strait between steep snow-topped mountains and dark forested shores, small round-hulled carracks of the early sixteenth century with high stern castles and square sails, no gun ports in rows, cold grey-blue light, low clouds, a thin column of smoke on a distant shore, quiet epic mood; exactly three ships, all sails plain, no crosses, no symbols, no text, no letters."
+          },
+          "side_image": {
+            "description": "A group of black-and-white penguins stands on a rocky, windswept shore of the far south, cold sea and grey sky behind. The picture helps explain the word 'penguin'. Production note: no people, no ships, no text, letters, or symbols anywhere.",
+            "caption": "Penguins on the cold southern shore. The sailors have never seen such birds.",
+            "shutterstock_query": "penguins rocky shore patagonia cold sea vertical",
+            "ai_prompt": "Photorealistic vertical image of a group of black-and-white penguins standing on a rocky windswept shore in the far south, cold grey sea and cloudy sky behind, calm natural mood; no people, no ships, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Ocean Nobody Can Measure",
+          "category": "exploration",
+          "text_sentences": [
+            "About 500 years ago, Captain X sails for Spain around the south of the Americas into a new ocean.",
+            "He believes the islands of cloves and nutmeg lie only a few weeks further west.",
+            "Nobody in Europe knows how wide this ocean is.",
+            "Captain X sails west for more than three months without any new food.",
+            "The ship's bread turns to powder full of worms.",
+            "The drinking water turns yellow and smells bad.",
+            "The men eat leather from the ship's ropes and yards and even hunt rats.",
+            "Then scurvy comes: gums swell and teeth fall out.",
+            "About twenty men die of it. Nobody yet knows that fresh fruit stops this sickness.",
+            "In all those weeks, the sailors see only two small empty islands.",
+            "They have crossed an ocean that covers about one third of the earth."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "James Cook",
+            "Ferdinand Magellan",
+            "Christopher Columbus",
+            "Francis Drake"
+          ],
+          "correct": "Ferdinand Magellan",
+          "words": [
+            {
+              "word": "clove",
+              "explanation": "a spice, the dried flower bud of a tree"
+            },
+            {
+              "word": "leather",
+              "explanation": "strong material made from the skin of an animal"
+            },
+            {
+              "word": "scurvy",
+              "explanation": "a sickness that comes from too little fresh food"
+            },
+            {
+              "word": "gums",
+              "explanation": "the soft pink flesh around the teeth"
+            }
+          ],
+          "main_image": {
+            "description": "Aerial wide shot from high above: one small wooden sailing ship, tiny and alone in an endless calm blue ocean under a vast hazy sky, no land anywhere, midday light. The picture shows the size of the ocean and the loneliness of the crossing. Production note: the ship stays tiny, a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows; sails plain; no text, letters, or symbols anywhere.",
+            "caption": "Week after week, only water. Nobody knows how far it is.",
+            "shutterstock_query": "aerial view lone sailing ship vast open ocean horizon calm",
+            "ai_prompt": "Cinematic aerial wide shot from high above: one small wooden sailing ship from about 500 years ago, a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows, tiny and alone in an endless calm blue ocean under a vast hazy sky, no land in sight, midday light, quiet and slightly unsettling mood; sails plain, no text, no letters."
+          },
+          "side_image": {
+            "description": "The earth seen from space, the side that is almost entirely ocean: a blue disk with white clouds, only small edges of land at the rim, black space around. The picture helps explain the sentence about one third of the earth. Production note: no lines, grid, labels, letters, or numbers of any kind.",
+            "caption": "Seen from this side, the earth is almost all water.",
+            "shutterstock_query": "earth from space pacific side water hemisphere vertical",
+            "ai_prompt": "Photorealistic vertical image of the earth seen from space, the side that is almost entirely ocean, a blue disk with white cloud patterns and only small edges of land at the rim, black space around, calm mood; no lines, no grid, no labels, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Chief Who Says No",
+          "category": "exploration",
+          "text_sentences": [
+            "About 500 years ago, three ships from Spain reach the islands we now call the Philippines.",
+            "Their leader, Captain X, sails for the king of Spain.",
+            "People here have their own rulers and trade with China.",
+            "The ruler of Cebu welcomes the strangers and makes a friendship pact with Captain X.",
+            "He and hundreds of his people accept the sailors' religion.",
+            "Captain X now demands that the chiefs nearby obey Cebu and the king of Spain.",
+            "On the small island of Mactan, the chief Lapulapu refuses.",
+            "He is a rival of Cebu. He will not bow to a king across the sea.",
+            "At dawn, Captain X attacks Mactan with about sixty men in armor.",
+            "The water is shallow, so the boats and the ships' guns stay far from the beach.",
+            "Far more than sixty warriors meet the sailors in the water, and Captain X is killed.",
+            "The ships sail on without him. In the Philippines today, Lapulapu is a national hero."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "James Cook",
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Ferdinand Magellan"
+          ],
+          "correct": "Ferdinand Magellan",
+          "words": [
+            {
+              "word": "chief",
+              "explanation": "the leader of a village or a people"
+            },
+            {
+              "word": "pact",
+              "explanation": "a promise between two sides to help each other"
+            },
+            {
+              "word": "shallow",
+              "explanation": "not deep"
+            },
+            {
+              "word": "warrior",
+              "explanation": "a person who fights for his people"
+            }
+          ],
+          "main_image": {
+            "description": "Dawn on a tropical beach of a small island in the Philippines about 500 years ago: warriors of the island in traditional dress with wooden shields and spears stand in the shallow water, seen from behind and from the side, looking out to sea, where three small European sailing ships lie far off beyond the reef and a few rowing boats approach. The moment before the fight. Production note: respectful and realistic, no caricature; the islanders are the main figures and are shown with dignity; no violence, no blood; ships and boats tiny in the distance; no text, letters, or symbols anywhere.",
+            "caption": "The chief of the island will not bow. His warriors wait in the shallow water.",
+            "shutterstock_query": "philippine warriors beach dawn shields spears historical illustration",
+            "ai_prompt": "Realistic historical illustration: dawn on a tropical beach of a small island in the Philippines about 500 years ago, warriors of the island in traditional dress with wooden shields and spears standing in shallow water, seen from behind and from the side, looking out to sea where three small European sailing ships lie far off beyond the reef and a few rowing boats approach, calm tense mood; respectful, no caricature, no violence, no blood, no text, no letters."
+          },
+          "side_image": {
+            "description": "A tall bronze statue of a warrior chief of the Philippines, strong figure with a traditional sword and round shield, on a plain stone pedestal, palm trees and a bright tropical sky behind. The picture helps explain the word 'chief' and shows how the islands remember him today. Production note: a generic figure, not a copy of a real monument; the pedestal completely bare; no plaque, letters, numbers, or symbols anywhere.",
+            "caption": "A statue for the chief who defends his island. Today he is a national hero.",
+            "shutterstock_query": "bronze warrior chief statue philippines palm trees vertical",
+            "ai_prompt": "Photorealistic vertical image of a tall bronze statue of a warrior chief of the Philippines, strong figure with a traditional sword and round shield on a plain bare stone pedestal, palm trees and a bright tropical sky behind, dignified mood; generic figure, no plaque, no letters, no numbers, no symbols, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Interpreter from Malacca",
+          "category": "exploration",
+          "text_sentences": [
+            "Long before his famous voyage, Captain X is a soldier for Portugal in Asia.",
+            "In the port of Malacca, he takes a young man as a slave and calls him Enrique.",
+            "Enrique speaks Malay, the trade language of the seas of Southeast Asia.",
+            "Captain X takes him to Europe, and later west across two oceans as his interpreter.",
+            "After months at sea, the ships reach islands east of Malacca.",
+            "Enrique speaks to the islanders, and they understand him.",
+            "Then Captain X dies in a fight on one of the islands.",
+            "His will says Enrique is now free, but the new leaders refuse to let him go.",
+            "Soon the ruler of Cebu turns against the sailors. More than twenty of them are killed at a feast.",
+            "The sailors blame Enrique, but nobody knows the truth, and the sources never mention him again.",
+            "Some say Enrique is the first person to go around the world, back to his own language.",
+            "Others say: not quite, because he never reaches Malacca itself."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Ferdinand Magellan",
+            "Vasco da Gama",
+            "Christopher Columbus",
+            "Amerigo Vespucci"
+          ],
+          "correct": "Ferdinand Magellan",
+          "words": [
+            {
+              "word": "slave",
+              "explanation": "a person who is owned by another person and is not free"
+            },
+            {
+              "word": "interpreter",
+              "explanation": "a person who turns words from one language into another"
+            },
+            {
+              "word": "will",
+              "explanation": "a paper that says what happens to a person's things after death"
+            },
+            {
+              "word": "feast",
+              "explanation": "a big meal for many people"
+            }
+          ],
+          "main_image": {
+            "description": "On the deck of a wooden ship anchored in a tropical bay about 500 years ago, a young Southeast Asian man in simple period clothes stands at the rail and speaks with islanders in an outrigger boat alongside; behind him, European sailors watch and listen. Production note: the interpreter is the central figure and is shown with dignity; no caricature; no chains; sails plain; no text, letters, or symbols anywhere.",
+            "caption": "One man on the ship speaks the language of the islands.",
+            "shutterstock_query": "historical ship deck interpreter islanders outrigger boat tropical bay illustration",
+            "ai_prompt": "Warm realistic illustration: on the deck of a wooden ship anchored in a tropical bay about 500 years ago, a young Southeast Asian man in simple period clothes stands at the rail speaking with islanders in an outrigger boat alongside, European sailors behind him watching and listening, soft morning light, respectful mood; no caricature, no chains, sails plain, no text, no letters."
+          },
+          "side_image": {
+            "description": "A simple parchment-style map of the seas of Southeast Asia: a long peninsula, big islands to the south, and a group of many small islands to the east, warm paper tones, sea drawn with fine wave lines. The picture helps explain where Malacca and the islands to the east lie. Production note: absolutely no place names, letters, numbers, compass letters, or readable symbols on the map.",
+            "caption": "Many islands, many languages, and one trade language at sea.",
+            "shutterstock_query": "old parchment map southeast asia islands blank no labels illustration",
+            "ai_prompt": "Simple parchment-style map of the seas of Southeast Asia in warm paper tones, a long peninsula, big islands to the south and a group of many small islands to the east, sea drawn with fine wave lines, vertical format; no place names, no letters, no numbers, no compass rose, no text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Eighteen Men and a Lost Day",
+          "category": "exploration",
+          "text_sentences": [
+            "About 500 years ago, five ships leave Spain under Captain X to reach the Spice Islands from the west.",
+            "Three years later, one ship comes back with eighteen men of about 270, and Captain X is not among them.",
+            "How do we know the story? A young Italian gentleman, Antonio Pigafetta, joins to see the world and keeps a diary through the whole voyage.",
+            "The original is lost; we read it in four later handwritten copies.",
+            "A pilot's logbook and pay lists in the archives of Seville fill the gaps.",
+            "Pigafetta records a puzzle at the end: the sailors have lost a day.",
+            "They count every day with care, but at the first port on the way home the diary says Wednesday, and it is Thursday.",
+            "Sailing west with the sun, they have seen one sunrise fewer than people at home.",
+            "Today the date line in the middle of the ocean solves this puzzle.",
+            "So who first goes around the world? In one voyage, it is the last captain, Elcano, with seventeen men.",
+            "As a young soldier, Captain X reaches these seas by sailing east, to Malacca. As captain he reaches islands a little further east by sailing west.",
+            "Whether he ever sails that last stretch, no source tells us."
+          ],
+          "question": "Who is Captain X?",
+          "options": [
+            "Francis Drake",
+            "Ferdinand Magellan",
+            "Christopher Columbus",
+            "James Cook"
+          ],
+          "correct": "Ferdinand Magellan",
+          "words": [
+            {
+              "word": "gentleman",
+              "explanation": "a man of good family who does not need to work with his hands"
+            },
+            {
+              "word": "diary",
+              "explanation": "a book where a person writes what happens every day"
+            },
+            {
+              "word": "pilot",
+              "explanation": "the sailor who guides the ship on its course"
+            },
+            {
+              "word": "archive",
+              "explanation": "a place where old papers are kept and protected"
+            }
+          ],
+          "main_image": {
+            "description": "A single battered wooden sailing ship with patched, torn sails and a weathered hull enters a wide river mouth in evening light, a few thin sailors visible on deck at a distance, a low sandy shore with a small town far away. Production note: a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows; sails plain; the men anonymous and small; no flags with symbols; no text, letters, or numbers anywhere.",
+            "caption": "After three years, one ship comes home.",
+            "shutterstock_query": "battered old sailing ship torn sails river mouth evening historical",
+            "ai_prompt": "Cinematic realistic image: a single battered wooden sailing ship from about 500 years ago, a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows, with patched torn sails and a weathered hull enters a wide river mouth in warm evening light, a few thin sailors small on deck, a low sandy shore with a small town far away, quiet tired mood; sails plain, no flags with symbols, no text, no letters."
+          },
+          "side_image": {
+            "description": "A vertical close-up of an old handwritten manuscript page on parchment with a small ink-and-watercolor drawing of an island with palm trees and a tiny ship, soft daylight, no person. The picture helps explain the word 'diary'. Production note: all script on the page must be blurred and unreadable, no real words in any language; no letters or numbers readable anywhere.",
+            "caption": "A page from a copy of the diary. The original is lost.",
+            "shutterstock_query": "old manuscript page island drawing parchment closeup vertical",
+            "ai_prompt": "Photorealistic vertical close-up of an old handwritten manuscript page on parchment with a small ink-and-watercolor drawing of an island with palm trees and a tiny ship, soft daylight, calm mood; all script blurred and unreadable, no real words, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nicolaus-copernicus",
+      "person": "Nicolaus Copernicus",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Quiet Man in the Tower",
+          "category": "science",
+          "text_sentences": [
+            "Mr X lives about 500 years ago, in the north of Poland.",
+            "He works at a cathedral by the sea.",
+            "He is also a doctor and helps sick people.",
+            "He has a small tower in the wall around the cathedral.",
+            "At night, he climbs up and watches the sky.",
+            "He has no telescope, only his eyes and simple wooden tools.",
+            "In his time, people say: the earth stands still.",
+            "The sun, the moon, and the stars go around us.",
+            "Mr X thinks about this for many years.",
+            "Then he says something new: the sun stands in the middle.",
+            "The earth is a planet, and it goes around the sun."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Galileo Galilei",
+            "Nicolaus Copernicus",
+            "Isaac Newton",
+            "Leonardo da Vinci"
+          ],
+          "correct": "Nicolaus Copernicus",
+          "words": [
+            {
+              "word": "cathedral",
+              "explanation": "a very big and important church"
+            },
+            {
+              "word": "telescope",
+              "explanation": "a tube with glass inside that makes far things look near"
+            },
+            {
+              "word": "planet",
+              "explanation": "a big round world that goes around the sun, like the earth"
+            }
+          ],
+          "main_image": {
+            "description": "Dusk scene without people: a small brick tower in the old wall around a cathedral on a low hill by a calm sea, the last blue light on the horizon and a clear starry sky above. One warm light glows in the tower window, and a simple wooden measuring instrument is just visible on top of the tower. Production note: no person anywhere in the image; no telescope anywhere, because none exists yet; no text, letters, or numbers.",
+            "caption": "At night, he climbs the tower and watches the sky.",
+            "shutterstock_query": "small brick tower cathedral wall sea dusk starry sky lit window",
+            "ai_prompt": "Atmospheric realistic illustration: a small brick tower in the old wall around a Gothic cathedral on a low hill by a calm sea at dusk, the last blue light on the horizon, a clear bright starry sky, one warm light glowing in the tower window, a simple wooden measuring instrument just visible on top of the tower, no people, quiet mood; no telescope, no readable text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A simple handmade model on a wooden table: a golden ball in the middle, and small colored balls on plain rings around it, a few larger and a few smaller. It shows the card's key idea: the sun in the middle and the planets around it. Production note: no labels, letters, or numbers on the model or the rings; no printed poster in the background.",
+            "caption": "His new picture: the sun in the middle, the planets around it.",
+            "shutterstock_query": "simple solar system model sun center planets rings wooden table",
+            "ai_prompt": "Photorealistic vertical image of a simple handmade model on a wooden table, a golden ball in the middle and small colored balls on plain metal rings around it, soft daylight, plain background; no labels, no letters, no numbers, no text."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Why Nobody Feels the Earth Move",
+          "category": "science",
+          "text_sentences": [
+            "In the sixteenth century, Mr X is a church official in Poland who studies the sky.",
+            "Everybody in his time is sure: the earth does not move.",
+            "We do not feel it move.",
+            "A stone falls straight down, and birds are not left behind.",
+            "Every night, the sky seems to turn around us.",
+            "But the planets make trouble.",
+            "A planet moves forward for months, then slides backward, then forward again.",
+            "The old books explain this with circles upon circles.",
+            "Mr X asks: what if the earth moves too?",
+            "Then the backward slide is easy to explain.",
+            "The earth overtakes a slower planet, like a fast runner passing a slow runner.",
+            "For a short time, the slow runner seems to go backward."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Ptolemy",
+            "Tycho Brahe",
+            "Nicolaus Copernicus",
+            "Johannes Kepler"
+          ],
+          "correct": "Nicolaus Copernicus",
+          "words": [
+            {
+              "word": "official",
+              "explanation": "a person with a job in the church or the government"
+            },
+            {
+              "word": "overtake",
+              "explanation": "to catch up with somebody and pass them"
+            },
+            {
+              "word": "backward",
+              "explanation": "in the direction behind you"
+            }
+          ],
+          "main_image": {
+            "description": "Long-exposure night photo: star trails form bright circles around one point in the sky, above a dark, quiet hill with a few trees. It shows how the whole sky seems to turn around us each night. Production note: no people, no buildings with signs, no text or numbers.",
+            "caption": "Every night, the sky seems to turn around us.",
+            "shutterstock_query": "star trails long exposure night sky circles hill",
+            "ai_prompt": "Photorealistic long-exposure night image, bright star trails forming concentric circles around one point in the sky above a dark quiet hill with a few trees, deep blue sky, no people, no text, no letters."
+          },
+          "side_image": {
+            "description": "Two runners on an outdoor running track seen from behind at a low angle: a faster runner is just passing a slower runner. The picture helps explain the word 'overtake' and the card's key idea. Production note: plain sports clothes without logos, numbers, or letters; no readable signs around the track.",
+            "caption": "The fast runner overtakes the slow one. For a moment, the slow one seems to go backward.",
+            "shutterstock_query": "runner overtaking another runner track from behind",
+            "ai_prompt": "Photorealistic vertical image of two runners on an outdoor running track seen from behind at a low angle, the faster runner just passing the slower one, morning light, plain sports clothes without logos or numbers, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Book on His Last Day",
+          "category": "science",
+          "text_sentences": [
+            "Mr X, a church official in the north of Poland, writes a big book about the sky.",
+            "In it, the sun stands in the middle, and the earth moves.",
+            "He works on the book for about thirty years.",
+            "He is afraid that people will laugh, so he does not print it.",
+            "A cardinal in Rome writes and asks him to publish.",
+            "Then a young mathematician from Germany visits him and pushes him too.",
+            "At last, the book goes to a printer in Nuremberg.",
+            "A story tells: the printed book reaches Mr X on the day he dies.",
+            "The book has a strange preface without a name.",
+            "It says: this is only a tool for calculation, not the truth.",
+            "Mr X never writes those words. A church scholar in the printing town adds them without permission.",
+            "For decades, readers think the words are his."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Nicolaus Copernicus",
+            "Johannes Kepler",
+            "Galileo Galilei",
+            "Tycho Brahe"
+          ],
+          "correct": "Nicolaus Copernicus",
+          "words": [
+            {
+              "word": "cardinal",
+              "explanation": "a very high leader in the Catholic church"
+            },
+            {
+              "word": "publish",
+              "explanation": "to print a text so that people can buy and read it"
+            },
+            {
+              "word": "preface",
+              "explanation": "the words at the start of a book, before the main text"
+            },
+            {
+              "word": "calculation",
+              "explanation": "working with numbers to find an answer"
+            }
+          ],
+          "main_image": {
+            "description": "Quiet interior scene: the wrinkled hands of an old man rest on a thick, freshly bound book lying on a woolen blanket on a simple bed, soft light from a small window, a wooden cup on a table beside the bed. Calm and peaceful, not sad or dramatic. Production note: no face visible; the book closed, plain leather cover, no readable title or letters; nothing readable anywhere in the image.",
+            "caption": "A story tells: the printed book reaches him on his last day.",
+            "shutterstock_query": "old man hands resting on book bed blanket soft window light",
+            "ai_prompt": "Photorealistic quiet scene, the wrinkled hands of an old man resting on a thick closed leather book lying on a woolen blanket on a simple wooden bed, soft light from a small window, a wooden cup on a bedside table, calm peaceful mood; no face, plain cover, no readable title, no letters, no text."
+          },
+          "side_image": {
+            "description": "A thick sixteenth-century printed book lies open at its first page on a dark wooden table, seen from a low, sharp angle, with a quill pen and an inkwell beside it, in cold daylight from a window, no candle. The picture helps explain the word 'preface'. Production note: no people; the printed text must be out of focus, at a sharp angle, or blurred, so that no word, letter, or number can be read.",
+            "caption": "A preface: the words at the start of a book. Here, somebody else speaks.",
+            "shutterstock_query": "antique printed book open first page quill inkwell window daylight sharp angle",
+            "ai_prompt": "Photorealistic vertical image of a thick sixteenth-century printed book lying open at its first page on a dark wooden table, seen from a low sharp angle, a quill pen and an inkwell beside it, cold daylight from a window, no candle, no people; the print blurred and unreadable, no readable words, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "An Old Idea with New Numbers",
+          "category": "science",
+          "text_sentences": [
+            "Mr X of Poland puts the sun in the middle of the world, in the sixteenth century.",
+            "The idea itself is old: about 1,800 years earlier, the Greek thinker Aristarchus says the same.",
+            "Almost nobody follows him.",
+            "Most scholars follow another Greek, Ptolemy, who keeps the earth in the middle.",
+            "Mr X finds the old idea in Greek and Roman books.",
+            "In his handwritten pages, he names Aristarchus, then crosses the lines out.",
+            "He works for years to make the idea fit the numbers.",
+            "But his system is not simpler, and its predictions are not better.",
+            "Critics say: if the earth moves, the stars should seem to shift.",
+            "They do not shift. Mr X answers: the stars are very, very far away.",
+            "He proposes, and he calculates, but he cannot prove.",
+            "The tiny shift of the stars is measured only about three hundred years later."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Johannes Kepler",
+            "Isaac Newton",
+            "Nicolaus Copernicus",
+            "Tycho Brahe"
+          ],
+          "correct": "Nicolaus Copernicus",
+          "words": [
+            {
+              "word": "scholar",
+              "explanation": "a person who studies books deeply"
+            },
+            {
+              "word": "prediction",
+              "explanation": "a statement about what will happen"
+            },
+            {
+              "word": "shift",
+              "explanation": "to move a little to one side"
+            },
+            {
+              "word": "prove",
+              "explanation": "to show that something is surely true"
+            }
+          ],
+          "main_image": {
+            "description": "Ancient Greek marble columns on a hill, seen as dark silhouettes under a huge starry night sky with the Milky Way. No people. It shows that a Greek thinker looks at the same stars long before Mr X. Production note: no modern lights, signs, or fences; no text, letters, or numbers.",
+            "caption": "Long before Mr X, a Greek thinker looks at the same stars.",
+            "shutterstock_query": "ancient greek temple columns night starry sky milky way silhouette",
+            "ai_prompt": "Photorealistic night image, ancient Greek marble columns on a hill as dark silhouettes under a huge starry sky with the Milky Way, no people, no modern lights, deep blue and silver tones, no text, no letters."
+          },
+          "side_image": {
+            "description": "Close-up of a young person holding one thumb up at arm's length in front of the face, one eye closed, looking past the thumb at a blurred far landscape. It shows the idea of the shift: close one eye, then the other, and a near thing seems to jump sideways, a far thing hardly moves. Production note: plain clothes, no logos, no text.",
+            "caption": "Close one eye, then the other: the thumb seems to shift.",
+            "shutterstock_query": "person holding thumb up arm length one eye closed close-up",
+            "ai_prompt": "Photorealistic vertical close-up of a young person holding one thumb up at arm's length in front of the face with one eye closed, looking past the thumb at a soft blurred landscape, daylight, plain clothes, no logos, no text, no letters."
+          }
+        },
+        {
+          "level": "university",
+          "title": "A Very Slow Revolution",
+          "category": "science",
+          "text_sentences": [
+            "Mr X, a church official in Poland, publishes his book about the moving earth in the sixteenth century.",
+            "Where does his knowledge come from?",
+            "He makes few observations of his own, and sea fog often hides the sky.",
+            "He builds on old star records from Greek and Arab astronomers.",
+            "Some of his mathematical tools match older tools from astronomers in Persia and Syria.",
+            "Nobody knows how those ideas reach him.",
+            "He dedicates the book to the Pope, and for decades the church takes no action.",
+            "Most astronomers use his tables but keep the earth in the middle.",
+            "Tycho Brahe offers a middle way: the planets circle the sun, and the sun circles the earth.",
+            "The church forbids the book more than seventy years after his death, and only \"until corrected\".",
+            "Much later, historians call his idea a revolution.",
+            "The word in his own book title means only this: a turning around."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Johannes Kepler",
+            "Galileo Galilei",
+            "Giordano Bruno",
+            "Nicolaus Copernicus"
+          ],
+          "correct": "Nicolaus Copernicus",
+          "words": [
+            {
+              "word": "observation",
+              "explanation": "looking at something carefully and writing down what you see"
+            },
+            {
+              "word": "dedicate",
+              "explanation": "to write a book in honor of a person, and say so at the start"
+            },
+            {
+              "word": "forbid",
+              "explanation": "to say that something is not allowed"
+            },
+            {
+              "word": "revolution",
+              "explanation": "a big change in how people think or live; the word also means one full turn"
+            }
+          ],
+          "main_image": {
+            "description": "A seventeenth-century scholar's study: two men in plain dark historical dress talk quietly over a table with an open book, a large brass armillary sphere of nested rings, and a globe; shelves of closed books behind. Production note: no telescope; no recognizable named portraits; all pages, globe, and instrument surfaces without readable letters, numbers, or place names; calm mood.",
+            "caption": "For decades, scholars read the book but keep the earth in the middle.",
+            "shutterstock_query": "17th century scholars study armillary sphere globe books illustration",
+            "ai_prompt": "Warm realistic illustration of a seventeenth-century scholar's study, two men in plain dark historical dress talking over a table with an open book, a large brass armillary sphere of nested rings and a globe, shelves of closed books behind, window light, calm mood; no telescope, no readable letters, no numbers, no text."
+          },
+          "side_image": {
+            "description": "Close view of an old wooden water wheel at a mill, turning with slight motion blur, water splashing from its paddles, green plants around. The picture helps explain the word 'revolution' in its old meaning: one full turn. Production note: no signs, letters, or numbers anywhere.",
+            "caption": "One full turn of a wheel: that is all his title word means.",
+            "shutterstock_query": "old wooden water wheel mill turning motion blur",
+            "ai_prompt": "Photorealistic vertical image of an old wooden water wheel at a mill turning with slight motion blur, water splashing from the paddles, green plants and stone wall around, soft daylight; no signs, no letters, no numbers, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "galileo-galilei",
+      "person": "Galileo Galilei",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Four Small Lights Beside Jupiter",
+          "category": "science",
+          "text_sentences": [
+            "Mr X lives in Italy about four hundred years ago.",
+            "He teaches mathematics at a university.",
+            "One day he hears about a new tool from the Netherlands.",
+            "It is a tube with two glass lenses.",
+            "Far things look close through it.",
+            "Mr X does not invent it, but he builds a much better one.",
+            "He shows it to the leaders of Venice from a high tower.",
+            "They see ships far out at sea, long before other people.",
+            "Then he points his tube at the night sky.",
+            "Next to the planet Jupiter he sees four small lights.",
+            "Night after night, the lights move around Jupiter.",
+            "So not everything in the sky goes around the earth!"
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Nicolaus Copernicus",
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Leonardo da Vinci"
+          ],
+          "correct": "Galileo Galilei",
+          "words": [
+            {
+              "word": "lens",
+              "explanation": "a round piece of glass that makes things look bigger or closer"
+            },
+            {
+              "word": "invent",
+              "explanation": "to make a new thing that nobody has made before"
+            },
+            {
+              "word": "planet",
+              "explanation": "a big ball in space that goes around the sun, like the earth"
+            }
+          ],
+          "main_image": {
+            "description": "A night scene on a stone terrace in an old Italian city about four hundred years ago: a man in a dark coat of the early seventeenth century, seen from behind, looks through a long thin wooden tube covered in leather at one very bright point in the starry sky. Tiled roofs and a bell tower lie below in the moonlight. Production note: the man stays anonymous, seen from behind, no portrait of any real person; no text, letters, numbers, or symbols anywhere in the image.",
+            "caption": "At night, Mr X points his tube at the sky.",
+            "shutterstock_query": "astronomer telescope night rooftop historical illustration seen from behind",
+            "ai_prompt": "Atmospheric realistic illustration: a man in a dark early-seventeenth-century coat seen from behind on a stone terrace at night, looking through a long thin wooden tube covered in leather at one very bright point in the starry sky, tiled roofs and a bell tower of an old Italian city below in soft moonlight, calm mood; figure anonymous, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "The view through a simple early telescope: a black circle, in its middle a small bright pale disk without bands, and beside it, in a nearly straight line, exactly four tiny points of light, two on each side. Plain black around. The picture shows what Mr X sees next to Jupiter. IMPORTANT production note: exactly four small points of light, no more and no fewer; no text, letters, numbers, or labels anywhere.",
+            "caption": "Four small lights beside Jupiter. Night after night, they move.",
+            "shutterstock_query": "jupiter four moons small telescope view black sky",
+            "ai_prompt": "Simple realistic image of the view through an early telescope: a circular black field, a small bright pale disk without bands in the center, exactly four tiny points of light in a nearly straight line beside it, two on each side, nothing else, clean and quiet; no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Ball, the Ramp, and the Water Clock",
+          "category": "science",
+          "text_sentences": [
+            "Mr X teaches mathematics in Italy, about four hundred years ago.",
+            "For almost two thousand years, teachers trust an old Greek book.",
+            "The book says: heavy things fall faster than light things.",
+            "Mr X says: do not only trust the book, look and measure!",
+            "A famous story tells: he drops two balls from a tall tower.",
+            "Historians are not sure the story is true.",
+            "But we know that he rolls balls down a long wooden ramp.",
+            "The ramp makes the fall slow, so he can measure the time.",
+            "He measures with water that drips into a cup.",
+            "He finds a rule: in double the time, the ball goes four times as far.",
+            "He also studies a hanging weight, a pendulum, and its swing.",
+            "Wide swing or small swing, each swing takes about the same time."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Galileo Galilei",
+            "Aristotle",
+            "Isaac Newton",
+            "Leonardo da Vinci"
+          ],
+          "correct": "Galileo Galilei",
+          "words": [
+            {
+              "word": "measure",
+              "explanation": "to find out how long, how heavy, or how fast something is"
+            },
+            {
+              "word": "ramp",
+              "explanation": "a flat board that goes up on one side, like a small hill"
+            },
+            {
+              "word": "pendulum",
+              "explanation": "a weight that hangs on a string and swings from side to side"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet study of the early seventeenth century: a long wooden ramp with a straight groove rests on trestles, and a small bronze ball rolls down it, with slight motion blur. Beside the ramp stands a tall water vessel with a thin spout dripping into a small cup on a balance scale. Old books and a candle in the background. Production note: no people, or only hands; no text, letters, numbers, or marks on the ramp, vessel, or books.",
+            "caption": "A ball rolls down the ramp. Dripping water measures the time.",
+            "shutterstock_query": "inclined plane wooden ramp bronze ball water clock historical experiment",
+            "ai_prompt": "Photorealistic scene in a quiet early-seventeenth-century study: a long wooden ramp with a straight groove on trestles, a small bronze ball rolling down it with slight motion blur, a tall water vessel with a thin spout dripping into a small cup on a balance scale beside the ramp, old books and a candle in the background, warm window light; no people, no text, no letters, no numbers, no marks."
+          },
+          "side_image": {
+            "description": "A bronze oil lamp hangs on a long chain from the high ceiling of a dim old church and swings gently to one side, seen from below with slight motion blur. Soft light from tall windows. The picture helps explain the word 'pendulum': a hanging weight that swings. Production note: no people, no readable text, letters, or symbols; no crosses in focus.",
+            "caption": "A lamp on a long chain swings like a pendulum.",
+            "shutterstock_query": "hanging bronze lamp long chain church swinging low angle",
+            "ai_prompt": "Photorealistic low-angle image of a bronze oil lamp hanging on a very long chain from the high ceiling of a dim old church, swinging gently to one side with slight motion blur, soft light from tall windows, calm mood; no people, no text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Sky Is Not Perfect",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is an Italian astronomer with a new, strong telescope.",
+            "Old books teach: everything in the sky is perfect and smooth.",
+            "Mr X looks at the moon and sees mountains and valleys.",
+            "From their shadows, he even measures how high they are.",
+            "He also sees dark spots on the sun, and they move across it.",
+            "Then, for months, he watches the planet Venus.",
+            "Venus shows phases like the moon, from thin crescent to almost full.",
+            "When Venus is full, it looks small and far away.",
+            "In the old picture of the sky, Venus can never look full.",
+            "So Venus must go around the sun, not around the earth.",
+            "This does not yet prove that the earth moves too.",
+            "But the perfect sky of the old books is gone."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Johannes Kepler",
+            "Tycho Brahe",
+            "Nicolaus Copernicus",
+            "Galileo Galilei"
+          ],
+          "correct": "Galileo Galilei",
+          "words": [
+            {
+              "word": "astronomer",
+              "explanation": "a scientist who studies the stars and the planets"
+            },
+            {
+              "word": "phase",
+              "explanation": "the shape of the lit part of the moon or a planet, as we see it"
+            },
+            {
+              "word": "crescent",
+              "explanation": "a thin curved shape, like the young moon"
+            },
+            {
+              "word": "prove",
+              "explanation": "to show with facts that something is true"
+            }
+          ],
+          "main_image": {
+            "description": "A close view of the moon as seen through an early telescope: about half of the moon is lit, and along the line between light and dark, mountains and crater rims throw long sharp shadows onto the grey surface. Deep black sky around. The picture shows that the moon is rough, not smooth. Production note: realistic lunar surface, no text, letters, numbers, or labels.",
+            "caption": "The moon is not smooth. Its mountains throw long shadows.",
+            "shutterstock_query": "moon terminator mountains craters shadows telescope close up",
+            "ai_prompt": "Photorealistic close-up of the half-lit moon through a telescope, the line between light and dark showing mountains and crater rims with long sharp shadows on the grey surface, deep black sky around, crisp and calm; no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A vertical sequence of the phases of a planet against a black sky, from top to bottom: a large thin crescent at the top, then a half-lit shape, then smaller and rounder shapes, and at the bottom a small almost full disk. The shapes shrink as they fill. The picture helps explain the words 'phase' and 'crescent' and shows the key clue: the full planet looks small and far away. Production note: pale smooth planet shapes only, four to six of them, the crescent clearly largest and the full disk clearly smallest; no text, letters, numbers, or arrows.",
+            "caption": "Big thin crescent, small full disk: Venus goes around the sun.",
+            "shutterstock_query": "phases of venus sequence crescent to full black background",
+            "ai_prompt": "Clean astronomical illustration on a black background, vertical sequence of the phases of a pale smooth planet from top to bottom: a large thin crescent at the top, then a half-lit shape, then smaller rounder shapes, a small almost full disk at the bottom, shapes shrinking as they fill, no other objects; no text, no letters, no numbers, no arrows."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "An Old Man Kneels in Rome",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is a famous astronomer in Italy, almost seventy years old.",
+            "Ninety years before, an astronomer from the north writes: the earth goes around the sun.",
+            "The Church says: this is against the Bible, so Mr X must not defend it.",
+            "But now he writes a big book, and in it, the idea wins.",
+            "The Pope calls him to Rome, to a church court.",
+            "For weeks, the judges question him.",
+            "Another thinker is burned in Rome years before, for his ideas about God, but Mr X is not tortured or burned.",
+            "Still, he must kneel and say: I give up this idea.",
+            "A later story tells: he whispers, and yet it moves.",
+            "Historians find no proof for those words.",
+            "The court bans his book and puts him under house arrest for life.",
+            "There, going blind, he still writes a new book about how things move."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Giordano Bruno",
+            "Nicolaus Copernicus",
+            "Galileo Galilei",
+            "Johannes Kepler"
+          ],
+          "correct": "Galileo Galilei",
+          "words": [
+            {
+              "word": "court",
+              "explanation": "the place where judges decide if a person did something wrong"
+            },
+            {
+              "word": "torture",
+              "explanation": "to hurt a person on purpose to make them talk or obey"
+            },
+            {
+              "word": "kneel",
+              "explanation": "to go down on your knees"
+            },
+            {
+              "word": "house arrest",
+              "explanation": "a punishment: you must stay in your own home and may not leave"
+            }
+          ],
+          "main_image": {
+            "description": "A large hall in a palace in Rome of the seventeenth century: an old man in a plain dark robe, seen from behind, kneels on the stone floor before a long table where churchmen in red and black robes sit in a row. Cool daylight from high windows, calm and serious mood. Production note: no chains, no instruments of torture, no fire, no violence; the old man is seen from behind and stays anonymous, all faces generic; no crucifix in focus; no readable papers, text, letters, or numbers anywhere.",
+            "caption": "An old man kneels before the court and gives up his idea.",
+            "shutterstock_query": "seventeenth century church court hall old man kneeling judges illustration",
+            "ai_prompt": "Serious historical illustration inside a large seventeenth-century palace hall in Rome: an old man in a plain dark robe seen from behind, kneeling on the stone floor before a long table with churchmen in red and black robes seated in a row, cool light from high windows, calm and solemn mood; no chains, no violence, no fire, generic faces, no readable papers, no text, no letters."
+          },
+          "side_image": {
+            "description": "A quiet stone villa with a red tiled roof among olive trees and tall cypresses on a hill near Florence, seen from outside a closed iron gate, in soft evening light. The picture helps explain the words 'house arrest': he may not leave this house. Production note: no people; the gate and walls plain, no signs, plaques, text, letters, or numbers.",
+            "caption": "House arrest: he may not leave his villa near Florence.",
+            "shutterstock_query": "tuscan villa olive trees cypress closed iron gate evening light",
+            "ai_prompt": "Photorealistic vertical image of a quiet old stone villa with a red tiled roof among olive trees and tall cypresses on a Tuscan hill, seen from outside a closed plain iron gate, soft evening light, calm and slightly lonely mood; no people, no signs, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "More Than Church Against Science",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is an Italian astronomer from about four hundred years ago.",
+            "Later writers tell his story as a war: the Church against science.",
+            "Historians today say: look closer, it is not so simple.",
+            "His first opponents are university professors, not priests.",
+            "They defend the old Greek view, and some refuse even to look through his telescope.",
+            "Astronomers of the Church in Rome check his discoveries and confirm them.",
+            "The Pope himself admires him and allows his big book, a talk between three men.",
+            "The foolish one defends the old view, using the Pope's own favorite argument.",
+            "The Pope feels mocked, and the friendship ends in a trial.",
+            "Mr X is right about the planets, but his main proof, from the tides, is wrong.",
+            "More than 350 years after the trial, the Church says clearly: the judges of that time make mistakes.",
+            "Power can ban a book, but not the evidence."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Nicolaus Copernicus",
+            "Charles Darwin",
+            "Galileo Galilei",
+            "Johannes Kepler"
+          ],
+          "correct": "Galileo Galilei",
+          "words": [
+            {
+              "word": "opponent",
+              "explanation": "a person who is against you in a fight or a debate"
+            },
+            {
+              "word": "mock",
+              "explanation": "to laugh at a person in an unkind way"
+            },
+            {
+              "word": "tide",
+              "explanation": "the sea rising and falling along the coast, twice a day"
+            },
+            {
+              "word": "evidence",
+              "explanation": "facts that show what is true"
+            }
+          ],
+          "main_image": {
+            "description": "A study of the early seventeenth century full of old books: an older professor in a black academic gown turns his back and raises a hand to wave away a younger man in simple clothes, who offers him a long thin telescope by a bright window. Calm, slightly comic mood. Production note: all faces generic, no portrait of any real person; no readable text, letters, or numbers on books, papers, or walls.",
+            "caption": "Some professors refuse to even look through the tube.",
+            "shutterstock_query": "seventeenth century professor refuses telescope study old books illustration",
+            "ai_prompt": "Realistic historical illustration in an early-seventeenth-century study full of old books: an older professor in a black academic gown turns his back and raises a hand to wave away a younger man in simple clothes who offers him a long thin telescope by a bright window, warm light, calm and slightly comic mood; generic faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An old printed book lies open at an angle in soft light, and the left page shows a woodcut picture of three men in long robes standing and talking together, seen slightly out of focus. The picture helps explain the line about the book as a talk between three men. IMPORTANT production note: all printed text on the pages must be blurred, decorative, and unreadable in any language; no names, letters, or numbers anywhere; the three men generic, not recognizable portraits.",
+            "caption": "His book is a talk between three men. One of them looks foolish.",
+            "shutterstock_query": "old printed book open woodcut three men talking soft light",
+            "ai_prompt": "Photorealistic vertical image of an old printed book open at an angle in soft warm light, the left page showing a simple woodcut of three men in long robes standing and talking, slightly out of focus, the printed text rendered only as blurred unreadable decorative marks; no readable letters in any language, no names, no numbers, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "protestant-reformation",
+      "person": "The Protestant Reformation",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Paper for coins",
+          "category": "religions",
+          "text_sentences": [
+            "Movement X begins in Europe about 500 years ago.",
+            "Almost everyone in western Europe belongs to one church then.",
+            "Its leader, the pope, lives in Rome.",
+            "He wants a huge new church there, and that costs a lot of money.",
+            "So church men travel from town to town and sell special papers.",
+            "The church teaches, and buyers believe: this paper makes God's punishment after death shorter.",
+            "A monk in Germany believes this is wrong.",
+            "Forgiveness is a gift from God, he believes, and no one can buy it.",
+            "He writes a list of points against the sale.",
+            "He sends the list to his bishop, and friends print it.",
+            "His words spread fast, and the pope says the monk is wrong.",
+            "But the quarrel grows, and the church in western Europe splits into several churches."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Crusades",
+            "The Protestant Reformation",
+            "The Renaissance",
+            "The Great Schism"
+          ],
+          "correct": "The Protestant Reformation",
+          "words": [
+            {
+              "word": "pope",
+              "explanation": "the leader of the church in Rome"
+            },
+            {
+              "word": "punishment",
+              "explanation": "something bad that you must go through because you did wrong"
+            },
+            {
+              "word": "monk",
+              "explanation": "a religious man who lives a simple life and prays a lot"
+            },
+            {
+              "word": "forgiveness",
+              "explanation": "when God, or a person, stops being angry about a wrong thing you did"
+            }
+          ],
+          "main_image": {
+            "description": "A building site of a very large church in Rome about 500 years ago: massive stone walls and pillars rising, wooden scaffolding, a treadwheel crane lifting a block of marble, ox carts with stone, workers in sixteenth-century clothes, the old city and hills behind. Production note: the building is unfinished, so no finished dome; no readable text, inscriptions, or banners; no religious symbols in focus; calm working mood, no people identifiable as real persons.",
+            "caption": "Money from far away pays for a huge new church in Rome.",
+            "shutterstock_query": "renaissance church construction site scaffolding treadwheel crane illustration",
+            "ai_prompt": "Wide historical illustration of a huge church under construction in Rome around the early sixteenth century: massive stone walls and pillars rising, wooden scaffolding, a treadwheel crane lifting a marble block, ox carts and workers in period clothes, the old city and hills behind, warm daylight; no finished dome, no text, no letters, no inscriptions."
+          },
+          "side_image": {
+            "description": "A monk in a plain dark robe walks at a distance along a covered stone walkway around a cloister garden with a small tree and plants in the middle, seen at an angle from behind, soft daylight. The picture explains the word 'monk'. Production note: the face must not be visible and must not resemble any known portrait; no readable text, signs, or symbols anywhere; quiet and respectful mood.",
+            "caption": "A monk lives a simple life of prayer and work.",
+            "shutterstock_query": "monk walking cloister garden stone arches from behind",
+            "ai_prompt": "Vertical illustration of a monk in a plain dark robe walking at a distance along a covered stone walkway around a cloister garden with a small tree in the middle, seen at an angle from behind so the face is hidden, soft daylight, quiet mood; no readable text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Small booklets, big change",
+          "category": "religions",
+          "text_sentences": [
+            "Movement X begins in Germany about 500 years ago.",
+            "A monk there starts a quarrel with the church.",
+            "His friends and his enemies all write about it.",
+            "Printers translate the texts into German and turn them into thin, cheap booklets.",
+            "In Europe, printing with movable metal letters is new, only about seventy years old.",
+            "One press can now make more than a thousand pages in a day.",
+            "Within a few months, the booklets reach towns all over Germany.",
+            "Some booklets have pictures, so people who cannot read can follow too.",
+            "Soon, translators put the Bible into German, English, and other everyday languages.",
+            "Now a farmer or a weaver can hear the holy book in his own words.",
+            "Leaders of the old church print answers too, but fewer, and later.",
+            "For the first time, a quarrel in the church is fought with thousands of cheap booklets."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Renaissance",
+            "The Enlightenment",
+            "The Industrial Revolution",
+            "The Protestant Reformation"
+          ],
+          "correct": "The Protestant Reformation",
+          "words": [
+            {
+              "word": "booklet",
+              "explanation": "a small, thin book with only a few pages"
+            },
+            {
+              "word": "press",
+              "explanation": "a machine that pushes ink onto paper to make many copies"
+            },
+            {
+              "word": "translate",
+              "explanation": "to say or write something again in another language"
+            },
+            {
+              "word": "weaver",
+              "explanation": "a person who makes cloth from threads"
+            }
+          ],
+          "main_image": {
+            "description": "A town gate in Germany in the early sixteenth century: bundles of thin booklets tied with string are loaded onto a wooden cart, a rider with saddlebags waits beside it, a carter and a printer's helper at work, morning light. Production note: all booklet covers angled away or blank, no readable letters anywhere; no flags, coats of arms, or signs; calm busy mood.",
+            "caption": "Bundles of cheap booklets leave the town. Soon they are everywhere.",
+            "shutterstock_query": "sixteenth century town gate cart bundles booklets rider saddlebags illustration",
+            "ai_prompt": "Warm historical illustration at a German town gate in the early sixteenth century, bundles of thin booklets tied with string being loaded onto a wooden cart, a rider with saddlebags waiting beside it, a carter and a printer's helper at work, morning light, calm busy mood; all covers angled away or blank, no readable letters, no text, no coats of arms."
+          },
+          "side_image": {
+            "description": "Close vertical view of a printer's helper sewing thin booklets with needle and thread at a wooden bench; a low stack of finished booklets lies beside, one cover shows a small woodcut picture of a tree, seen at an angle. The picture explains the word 'booklet'. Production note: all covers and pages angled, blurred, or blank, no readable letters; the woodcut shows only a simple generic scene, no figures, no symbols.",
+            "caption": "A thin booklet of a few pages costs little.",
+            "shutterstock_query": "hands sewing pamphlet booklet needle thread wooden bench closeup",
+            "ai_prompt": "Photorealistic vertical close-up of hands sewing thin paper booklets with needle and thread at a wooden bench, a low stack of finished booklets beside, one cover with a small simple woodcut of a tree seen at an angle, warm workshop light; all pages blank or angled away, no readable letters, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Why the rulers choose sides",
+          "category": "religions",
+          "text_sentences": [
+            "Movement X splits the church in western Europe about 500 years ago.",
+            "Some rulers join the new churches, and some stay with Rome.",
+            "Why do they choose as they do?",
+            "Some truly believe the new teaching, but power and money matter too.",
+            "A ruler who breaks with Rome can take the church's land, houses, and silver.",
+            "He can stop sending money to Rome, and he can choose the bishops himself.",
+            "In Sweden, the king takes church silver and land to pay his debts.",
+            "In England, the king wants to end his marriage, and the pope says no.",
+            "So the king makes himself head of the church in his land and closes the monasteries.",
+            "Rulers who stay with Rome have reasons too, and belief counts there as well.",
+            "The kings of France and Spain already choose their own bishops. They gain less from a break.",
+            "After years of quarrel and war in Germany, a treaty is signed. Each prince decides the faith of his land."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Protestant Reformation",
+            "The Great Schism",
+            "The Crusades",
+            "The Enlightenment"
+          ],
+          "correct": "The Protestant Reformation",
+          "words": [
+            {
+              "word": "bishop",
+              "explanation": "a high church leader who leads all the churches in one region"
+            },
+            {
+              "word": "monastery",
+              "explanation": "a house where monks live, work, and pray"
+            },
+            {
+              "word": "debt",
+              "explanation": "money that you owe and must pay back"
+            },
+            {
+              "word": "treaty",
+              "explanation": "a written agreement between rulers or lands"
+            }
+          ],
+          "main_image": {
+            "description": "Photo of the roofless ruins of a large medieval abbey church in a green valley: tall stone arches, empty window openings, grass growing inside the nave, soft morning light. Production note: no signs, information boards, fences with notices, or visitors near the camera; the abbey's name and country must not appear in any student-visible text or alt-text.",
+            "caption": "The king closes the monastery and takes its land. The walls stand empty.",
+            "shutterstock_query": "ruined medieval abbey church arches green valley england",
+            "ai_prompt": "Photorealistic wide view of the roofless ruins of a large medieval abbey church in a green valley, tall stone arches, empty window openings, grass growing inside, soft morning light; no people, no signs, no readable text."
+          },
+          "side_image": {
+            "description": "A bishop in a long robe and tall pointed hat, holding a curved staff, stands in the arched doorway of a stone church, seen at some distance; generic sixteenth-century dress. The picture explains the word 'bishop'. Production note: a generic figure, not a portrait of any real person; respectful and calm; no readable text, coats of arms, or banners.",
+            "caption": "A bishop leads the church in one region. Who chooses him, the pope or the king?",
+            "shutterstock_query": "bishop mitre crozier church doorway historical illustration",
+            "ai_prompt": "Vertical historical illustration of a bishop in a long robe and tall pointed hat holding a curved staff, standing in the arched doorway of a stone church, seen from a distance, soft daylight, calm respectful mood; generic face, no coats of arms, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Not one man, but many",
+          "category": "religions",
+          "text_sentences": [
+            "Movement X begins with a monk in Germany about 500 years ago. But it is not one man's work.",
+            "In Zürich, a priest named Zwingli preaches only what he finds in the Bible.",
+            "The city council agrees and removes the pictures and statues from its churches.",
+            "In Geneva, a Frenchman named Calvin builds a strict new church with tight rules for daily life.",
+            "His school trains preachers, who carry his teaching to France, the Netherlands, and Scotland.",
+            "The monk and Zwingli quarrel over the bread and wine in church. They never make peace.",
+            "Smaller groups baptize only grown people, and both big sides punish them hard.",
+            "The old church answers too, at a long meeting in the town of Trent.",
+            "There its leaders state their faith in clear words. They also end the sale of forgiveness papers for money.",
+            "Priests get better training. New orders of priests open schools as far away as India and Japan.",
+            "Each side believes it holds the true faith, and history cannot decide that question."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Counter-Reformation",
+            "The Renaissance",
+            "The Protestant Reformation",
+            "The Great Schism"
+          ],
+          "correct": "The Protestant Reformation",
+          "words": [
+            {
+              "word": "city council",
+              "explanation": "the group of men who rule a city"
+            },
+            {
+              "word": "preacher",
+              "explanation": "a person who speaks about religion to a group of people"
+            },
+            {
+              "word": "baptize",
+              "explanation": "to pour water on a person, or dip the person in water, to make him or her a member of the church"
+            },
+            {
+              "word": "order",
+              "explanation": "here: a group of priests or monks who live by the same rules"
+            }
+          ],
+          "main_image": {
+            "description": "A walled city on the shore of a lake with mountains behind, seen from the water, in the sixteenth century: stone walls, church towers, tiled roofs, small wooden boats on the lake, soft morning light. Production note: no flags, banners, coats of arms, or readable text anywhere; no people identifiable as real persons; calm mood.",
+            "caption": "In cities by the lakes, other preachers build churches of their own.",
+            "shutterstock_query": "sixteenth century walled city lake mountains boats church towers painting",
+            "ai_prompt": "Wide historical illustration of a walled city on the shore of a lake with mountains behind, seen from the water, in the sixteenth century, stone walls, church towers, tiled roofs, small wooden boats on the lake, soft morning light, calm mood; no flags, no banners, no coats of arms, no text, no letters."
+          },
+          "side_image": {
+            "description": "A preacher in a plain black gown speaks from a simple wooden pulpit in a whitewashed church with clear windows and no pictures or statues; a few listeners sit on plain benches, seen from behind. The picture explains the word 'preacher'. Production note: no readable text on the pulpit or in the open book; generic face; calm mood; no crosses or other symbols in focus.",
+            "caption": "A preacher explains the Bible in a plain church without pictures.",
+            "shutterstock_query": "preacher plain wooden pulpit whitewashed church interior illustration",
+            "ai_prompt": "Vertical illustration of a preacher in a plain black gown speaking from a simple wooden pulpit in a whitewashed sixteenth-century church, clear windows, bare walls without pictures or statues, a few listeners on plain benches seen from behind, soft daylight; no readable text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Faith, power, or bread?",
+          "category": "religions",
+          "text_sentences": [
+            "Movement X splits the church in western Europe in the sixteenth century.",
+            "Historians agree on the events. But they argue about the cause: faith, power, or everyday life?",
+            "Older books tell the story of one brave monk in Germany and his conscience.",
+            "Later historians look at the princes and free cities that use the quarrel to win power.",
+            "Others look at the farmers and the poor of the towns.",
+            "Farmers in Germany soon read the new ideas as freedom from their lords too.",
+            "They rise up, and the princes crush them. Perhaps a hundred thousand die, and the monk takes the princes' side.",
+            "Wars over faith and power follow, in France, in the Netherlands, and across central Europe.",
+            "The biggest of them lasts thirty years.",
+            "Some regions lose a third of their people to fighting, hunger, and sickness.",
+            "One effect lasts: the new churches want every child to read the Bible, so village schools spread.",
+            "The old church answers with new schools of its own, and reading grows on both sides."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Renaissance",
+            "The Enlightenment",
+            "The Counter-Reformation",
+            "The Protestant Reformation"
+          ],
+          "correct": "The Protestant Reformation",
+          "words": [
+            {
+              "word": "cause",
+              "explanation": "the reason why something happens"
+            },
+            {
+              "word": "conscience",
+              "explanation": "the inner feeling that tells you what is right and wrong"
+            },
+            {
+              "word": "lord",
+              "explanation": "a powerful man who owns the land that farmers work on"
+            },
+            {
+              "word": "region",
+              "explanation": "a part of a land, bigger than a town"
+            }
+          ],
+          "main_image": {
+            "description": "A village schoolroom about 400 years ago: a teacher in a plain gown stands by a group of boys and girls of mixed ages on wooden benches, the children hold small books and wax tablets, a window lights the room. Production note: all books and tablets blank or angled away, no readable letters; friendly, calm mood; no religious symbols in focus.",
+            "caption": "A village school. Children learn to read, so they can read the holy book themselves.",
+            "shutterstock_query": "seventeenth century village school children teacher wooden benches illustration",
+            "ai_prompt": "Warm historical illustration of a village schoolroom in the seventeenth century, a teacher in a plain gown, boys and girls of mixed ages on wooden benches with small books and wax tablets, window light, calm friendly mood; all pages blank or angled away, no readable letters, no text."
+          },
+          "side_image": {
+            "description": "A farmer in simple sixteenth-century clothes carries a heavy grain sack on his shoulder up the path to the gate of a stone manor house; a steward waits beside a cart with more sacks. The picture explains the word 'lord'. Production note: no weapons, no conflict; no readable text, coats of arms, or banners; calm afternoon mood.",
+            "caption": "The farmer gives part of his harvest to the lord. Some hope the new ideas will end this.",
+            "shutterstock_query": "peasant carrying sack manor house gate sixteenth century illustration",
+            "ai_prompt": "Vertical historical illustration of a farmer in simple sixteenth-century clothes carrying a heavy grain sack up a path to the gate of a stone manor house, a steward waiting beside a cart with more sacks, soft afternoon light, calm mood; no weapons, no coats of arms, no text, no letters."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "martin-luther",
+      "person": "Martin Luther",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Monk Who Is Afraid of God",
+          "category": "religions",
+          "text_sentences": [
+            "Brother X lives in Germany, about 500 years ago.",
+            "As a young man, he studies to become a lawyer.",
+            "One day, a thunderstorm catches him on an open road.",
+            "Lightning strikes close, and he is very afraid.",
+            "In his fear, he calls to a saint: help me, and I will become a monk.",
+            "He keeps his promise and enters a monastery.",
+            "There he prays, he works, and he fasts.",
+            "But he still feels afraid of God.",
+            "I can never be good enough, he thinks.",
+            "Then he reads an old letter in the Bible, again and again.",
+            "He finds a new idea there: God's forgiveness is a free gift, he believes.",
+            "No one can earn it, and no one can buy it. This idea will soon split the church in Europe."
+          ],
+          "question": "Who is Brother X?",
+          "options": [
+            "Johannes Gutenberg",
+            "Martin Luther",
+            "John Calvin",
+            "Ignatius of Loyola"
+          ],
+          "correct": "Martin Luther",
+          "words": [
+            {
+              "word": "lawyer",
+              "explanation": "a person who knows the law and helps people in court"
+            },
+            {
+              "word": "saint",
+              "explanation": "a holy person; some Christians ask saints to help them"
+            },
+            {
+              "word": "monastery",
+              "explanation": "a house where monks live, pray, and work"
+            },
+            {
+              "word": "fast",
+              "explanation": "here: to eat no food for a time, for God"
+            }
+          ],
+          "main_image": {
+            "description": "A dim stone chapel in a German monastery about 500 years ago. A young monk in a dark robe kneels alone on the stone floor, seen from behind, small under a high window that lets in one beam of pale morning light. A plain wooden bench and a single candle nearby. Quiet, heavy, lonely mood. Production note: the monk must be seen from behind only, no face visible, no recognizable portrait features; no crosses or religious symbols in focus; no text, letters, or signs anywhere in the image.",
+            "caption": "A young monk prays alone. He is afraid he is not good enough.",
+            "shutterstock_query": "monk kneeling alone stone chapel from behind light window",
+            "ai_prompt": "Atmospheric realistic illustration: a young monk in a dark robe kneels alone on the stone floor of a dim medieval German chapel, seen from behind, a single beam of pale morning light from a high window, a plain wooden bench and one candle, quiet and lonely mood, no face visible, no religious symbols in focus, no text, no letters."
+          },
+          "side_image": {
+            "description": "A dark thunderstorm over an open dirt road between fields in central Germany, about 500 years ago. Lightning strikes a tree near the road. A single small traveler in simple clothes, far away and seen from behind, crouches on the road with his bag beside him. The picture shows the storm from the story. Production note: the traveler stays tiny and anonymous, no face; no text, letters, or signs; dramatic but not frightening, no fire, no injury.",
+            "caption": "Lightning strikes close. In his fear, the young traveler makes a promise.",
+            "shutterstock_query": "thunderstorm lightning open road fields lone traveler distance",
+            "ai_prompt": "Dramatic vertical illustration: a dark thunderstorm over an open dirt road between fields in central Germany about 500 years ago, lightning striking a tree near the road, a single tiny traveler in simple clothes far away seen from behind crouching on the road with a bag beside him, heavy rain, cold light, no face, no fire, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Ninety-Five Points Against a Sale",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a monk and teacher in Wittenberg, Germany, about 500 years ago.",
+            "A preacher comes to the area and sells letters of pardon from the church.",
+            "The church calls these letters indulgences.",
+            "Buy a letter, the preacher says, and the punishment for your sins is gone.",
+            "Part of the money helps to build a great new church in Rome.",
+            "Mr X is angry: forgiveness is not for sale, he believes.",
+            "He writes ninety-five short points against the sale, in Latin, for a debate.",
+            "He sends them in a letter to the archbishop.",
+            "A story tells that he also nails them to the church door.",
+            "Historians are not sure the door story is true.",
+            "Printers copy the points, and friends translate them into German.",
+            "Within a few months, people read them all over Germany."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Jan Hus",
+            "Erasmus",
+            "Martin Luther",
+            "John Calvin"
+          ],
+          "correct": "Martin Luther",
+          "words": [
+            {
+              "word": "pardon",
+              "explanation": "forgiveness for a bad thing you did"
+            },
+            {
+              "word": "indulgence",
+              "explanation": "a church letter; the church teaches that it takes away punishment for sins"
+            },
+            {
+              "word": "sin",
+              "explanation": "a bad act against God's rules, in a religion"
+            },
+            {
+              "word": "archbishop",
+              "explanation": "a high leader of the church over a big area"
+            }
+          ],
+          "main_image": {
+            "description": "The heavy wooden double door of a large late-medieval church in a small German town, seen at an angle from the square. A sheet of paper is nailed to the door. A few townspeople in simple clothes of about 500 years ago stand before it with their backs to the viewer and look at the sheet. Soft autumn daylight. Production note: the sheet must be seen at a sharp angle or slightly out of focus so that no letters are readable; no readable text anywhere; the people are seen from behind and stay anonymous; calm, curious mood.",
+            "caption": "A story tells: a sheet of paper hangs on the church door, and people stop to look.",
+            "shutterstock_query": "medieval church wooden door paper nailed townspeople from behind",
+            "ai_prompt": "Realistic illustration: the heavy wooden double door of a large late-medieval church in a small German town, seen at an angle from the square, a sheet of paper nailed to the door at a sharp angle so nothing on it is readable, a few townspeople in simple sixteenth-century clothes seen from behind looking at it, soft autumn daylight, calm mood, no readable letters, no text."
+          },
+          "side_image": {
+            "description": "Close vertical scene at a market of about 500 years ago: a preacher in a dark robe hands a folded, sealed letter to a buyer over a large iron-bound wooden chest; the buyer drops a coin into the chest. Only hands, the chest, the letter, and the coin are in focus; faces are turned away or out of frame. The picture explains the word 'indulgence'. Production note: the seal is plain wax, no symbols or letters on it; nothing readable on the letter; neutral and respectful, no mockery of the church, no caricature.",
+            "caption": "A coin in the chest, a letter of pardon in the hand.",
+            "shutterstock_query": "hand coin wooden chest sealed letter medieval market closeup",
+            "ai_prompt": "Photorealistic vertical close-up at a sixteenth-century market: a preacher's hand in a dark robe sleeve hands a folded letter with a plain wax seal to a buyer over a large iron-bound wooden chest, the buyer's other hand dropping a coin into the chest, faces out of frame, warm daylight, nothing readable on the letter, plain seal, no symbols, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "I Cannot Take It Back",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a monk from Wittenberg who writes against the sale of pardons.",
+            "His books spread fast, and the pope throws him out of the church.",
+            "About 500 years ago, the young emperor calls him to the city of Worms.",
+            "Princes, bishops, and the emperor wait for him in a great hall.",
+            "- Do you take back what you have written? they ask.",
+            "He asks for one day to think.",
+            "Next day he answers: no, unless the Bible or clear reason proves him wrong.",
+            "The first printed reports add a famous line: here I stand, I can do no other.",
+            "It is not in the official record, so historians doubt it.",
+            "On the road home, masked riders take him away.",
+            "A friendly prince hides him in a castle, with a new name and a beard.",
+            "Soon the emperor declares him an outlaw: anyone may now kill him without punishment."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Martin Luther",
+            "Jan Hus",
+            "Thomas More",
+            "John Calvin"
+          ],
+          "correct": "Martin Luther",
+          "words": [
+            {
+              "word": "emperor",
+              "explanation": "a ruler over many lands and many princes"
+            },
+            {
+              "word": "take back",
+              "explanation": "to say that your own words were wrong"
+            },
+            {
+              "word": "outlaw",
+              "explanation": "a person outside the law; no one is punished for hurting him"
+            },
+            {
+              "word": "prince",
+              "explanation": "the ruler of one land inside the empire"
+            }
+          ],
+          "main_image": {
+            "description": "A great hall in a German city about 500 years ago: rows of princes and bishops in rich robes sit along the walls, the young emperor on a raised seat at the far end. In the middle of the floor, small and seen from behind, stands a lone monk in a plain dark robe before a table with a stack of closed books. Tall windows, afternoon light, tense but calm mood. Production note: the monk is seen from behind only, no face, no recognizable portrait; all books closed, no readable text on covers, banners, or shields; no weapons in focus.",
+            "caption": "One monk stands alone before the emperor and the princes.",
+            "shutterstock_query": "renaissance imperial assembly great hall monk standing alone from behind",
+            "ai_prompt": "Cinematic realistic illustration of a great hall in a German city about 500 years ago, rows of princes and bishops in rich robes along the walls, a young emperor on a raised seat at the far end, a lone monk in a plain dark robe seen from behind standing small in the middle before a table with closed books, tall windows and afternoon light, tense calm mood, no face on the monk, no readable text, no letters."
+          },
+          "side_image": {
+            "description": "A stone castle high on a wooded hill in central Germany at dusk, seen from the forest below. One small window glows with candlelight. No people. The picture supports the words 'outlaw' and shows the hiding place. Production note: no flags, banners, signs, or text anywhere; quiet and safe mood, not scary.",
+            "caption": "An outlaw hides in a castle high above the forest.",
+            "shutterstock_query": "medieval castle wooded hill dusk one lit window germany",
+            "ai_prompt": "Atmospheric vertical view of a stone castle high on a wooded hill in central Germany at dusk, seen from the dark forest below, one small window glowing with warm candlelight, mist between the trees, quiet safe mood, no people, no flags, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Bible for the Mother in the House",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a German monk and teacher, about 500 years ago.",
+            "In church, the Bible is read in Latin, a language few people know.",
+            "Hidden in a castle, Mr X begins to translate.",
+            "He works from the old Greek text, not from the church's Latin.",
+            "He wants words that a mother in the house and a child in the street can understand.",
+            "In about eleven weeks, the New Testament is ready in German.",
+            "Printers sell it in the thousands and print it again and again.",
+            "German has many dialects, and his book helps shape one written German.",
+            "He asks towns to open schools for girls and boys, so all can read it.",
+            "Church leaders in Rome say: the church must guide the reading.",
+            "Mr X says: every believer can read and judge for himself.",
+            "Each side believes it is right, and the question still divides churches today."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Erasmus",
+            "Johannes Gutenberg",
+            "William Tyndale",
+            "Martin Luther"
+          ],
+          "correct": "Martin Luther",
+          "words": [
+            {
+              "word": "Latin",
+              "explanation": "the old language of Rome; the church uses it for centuries"
+            },
+            {
+              "word": "translate",
+              "explanation": "to put a text from one language into another"
+            },
+            {
+              "word": "New Testament",
+              "explanation": "the second part of the Christian Bible; it tells about Jesus and his followers"
+            },
+            {
+              "word": "dialect",
+              "explanation": "the way a language is spoken in one area"
+            }
+          ],
+          "main_image": {
+            "description": "Close-up over the shoulder of a man writing at a wooden desk in a small stone castle room, about 500 years ago. Only his shoulder in plain cloth, his two hands, and a quill are in the picture. On the desk lie two thick open books and loose sheets, all at a steep angle so nothing is readable; an ink pot and a candle; through the window, a forest. Focused, warm, quiet mood. Production note: no whole figure and no face anywhere, no recognizable portrait; every page and sheet must be blurred, turned away, or at a sharp angle, no readable letters in any script; no text, signs, or symbols anywhere.",
+            "caption": "In a quiet castle room, one man puts an old book into everyday words.",
+            "shutterstock_query": "over shoulder hands writing quill open books desk castle window forest closeup",
+            "ai_prompt": "Warm realistic illustration, close-up over the shoulder of a man writing at a wooden desk in a small stone castle room about 500 years ago, only the shoulder, two hands and a quill visible, two thick open books at steep angles and loose sheets so nothing is readable, an ink pot and a candle, a window looking out over a forest, soft daylight, quiet focused mood, no face, no whole figure, no readable letters, no text."
+          },
+          "side_image": {
+            "description": "A simple German home kitchen of about 500 years ago: a mother sits at a wooden table and reads aloud from a thick book while two children and an old man listen; a fire in the hearth, bread and a jug on the table. The picture shows the card's key idea: a book in the language of the home. Production note: the book is seen at a sharp angle or from the back, no readable letters; no text, signs, or symbols anywhere; warm and calm.",
+            "caption": "Now a mother can read the book at home, in her own language.",
+            "shutterstock_query": "16th century family home mother reading book children hearth illustration",
+            "ai_prompt": "Warm vertical illustration of a simple German home kitchen about 500 years ago, a mother at a wooden table reading aloud from a thick book seen at a sharp angle, two children and an old man listening, a hearth fire, bread and a jug on the table, soft evening light, calm mood, no readable letters, no text."
+          }
+        },
+        {
+          "level": "university",
+          "title": "A Hundred Volumes and a Dark Page",
+          "category": "religions",
+          "text_sentences": [
+            "Mr X is a German monk whose quarrel with Rome splits the western church, about 500 years ago.",
+            "Few people from his time leave so many sources.",
+            "His collected works fill more than one hundred thick volumes.",
+            "More than two thousand of his letters survive.",
+            "Students even write down his talk at the dinner table.",
+            "But they write in haste or from memory, and later editors change the words, so historians read them with care.",
+            "Even the famous story of the church door rests on two late reports, written decades after the event.",
+            "His legacy is divided too.",
+            "In his old age, he writes books full of hate against Jews.",
+            "Centuries later, others use these books for their own hate, and historians study how.",
+            "Churches that follow his teaching today reject these words.",
+            "In our own century, the pope prays with leaders of those churches, in Sweden."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "John Calvin",
+            "Jan Hus",
+            "Ulrich Zwingli",
+            "Martin Luther"
+          ],
+          "correct": "Martin Luther",
+          "words": [
+            {
+              "word": "source",
+              "explanation": "a text or thing from the past that gives us knowledge"
+            },
+            {
+              "word": "volume",
+              "explanation": "one book in a long row of books that belong together"
+            },
+            {
+              "word": "legacy",
+              "explanation": "what a person leaves behind for later times, good and bad"
+            },
+            {
+              "word": "reject",
+              "explanation": "to say clearly: this is wrong, we do not accept it"
+            }
+          ],
+          "main_image": {
+            "description": "A long wall of dark wooden library shelves filled with one unbroken row of identical thick old volumes in plain worn leather, seen slightly from the side so the row seems endless. Soft reading-room light, a wooden ladder against the shelves, no people. The picture shows how much one man wrote. Production note: all spines must be completely plain, no gold lettering, numbers, or labels; no text anywhere in the image.",
+            "caption": "One man's words fill a whole wall of books.",
+            "shutterstock_query": "long row identical old leather volumes library shelf ladder no lettering",
+            "ai_prompt": "Photorealistic view of a long wall of dark wooden library shelves filled with one unbroken row of identical thick old volumes in plain worn brown leather, seen slightly from the side so the row seems endless, a wooden ladder against the shelves, soft reading-room light, no people, all spines completely plain, no lettering, no numbers, no text."
+          },
+          "side_image": {
+            "description": "Inside a bright northern cathedral with white stone and tall windows, two church leaders in different robes, one in white and one in dark red, walk side by side down the aisle toward the altar, seen from behind and at a distance. Candles burn along the aisle. The picture shows the card's last idea: after five centuries, the two sides pray together. Production note: both figures are seen from behind only, no faces, no portraits of real people; no readable text, signs, or banners; respectful and calm.",
+            "caption": "Five hundred years later, leaders of both churches walk in together.",
+            "shutterstock_query": "two clergy different robes walking cathedral aisle from behind candles",
+            "ai_prompt": "Respectful vertical illustration inside a bright northern cathedral of white stone with tall windows, two church leaders in different robes, one white and one dark red, walking side by side down the aisle toward the altar seen from behind and at a distance, candles along the aisle, soft light, calm hopeful mood, no faces, no readable text, no banners, no letters."
+          }
+        }
+      ]
     }
   ]
 }

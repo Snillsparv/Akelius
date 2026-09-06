@@ -23,7 +23,7 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 > Then he points his tube at the night sky.  
 > Next to the planet Jupiter he sees four small lights.  
 > Night after night, the lights move around Jupiter.  
-> So not everything in the sky goes around the Earth!  
+> So not everything in the sky goes around the earth!  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -37,21 +37,21 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 
 - **lens** — *a round piece of glass that makes things look bigger or closer*
 - **invent** — *to make a new thing that nobody has made before*
-- **planet** — *a big ball in space that goes around the Sun, like the Earth*
+- **planet** — *a big ball in space that goes around the sun, like the earth*
 
 ### Huvudbild
 
-- **Motiv:** A night scene on a stone terrace in an old Italian city about four hundred years ago: a man in a dark coat of the early seventeenth century, seen from behind, looks through a long thin telescope of leather and brass at one very bright point in the starry sky. Tiled roofs and a bell tower lie below in the moonlight. Production note: the man stays anonymous, seen from behind, no portrait of any real person; no text, letters, numbers, or symbols anywhere in the image.
+- **Motiv:** A night scene on a stone terrace in an old Italian city about four hundred years ago: a man in a dark coat of the early seventeenth century, seen from behind, looks through a long thin wooden tube covered in leather at one very bright point in the starry sky. Tiled roofs and a bell tower lie below in the moonlight. Production note: the man stays anonymous, seen from behind, no portrait of any real person; no text, letters, numbers, or symbols anywhere in the image.
 - **Bildtext:** *At night, Mr X points his tube at the sky.*
 - **Shutterstock-sökning:** `astronomer telescope night rooftop historical illustration seen from behind`
-- **AI-prompt (alternativ):** Atmospheric realistic illustration: a man in a dark early-seventeenth-century coat seen from behind on a stone terrace at night, looking through a long thin leather-and-brass telescope at one very bright point in the starry sky, tiled roofs and a bell tower of an old Italian city below in soft moonlight, calm mood; figure anonymous, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Atmospheric realistic illustration: a man in a dark early-seventeenth-century coat seen from behind on a stone terrace at night, looking through a long thin wooden tube covered in leather at one very bright point in the starry sky, tiled roofs and a bell tower of an old Italian city below in soft moonlight, calm mood; figure anonymous, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** The view through a simple early telescope: a black circle, in its middle a small bright pale disk with faint bands, and beside it, in a nearly straight line, exactly four tiny points of light, two on each side. Plain black around. The picture shows what Mr X sees next to Jupiter. IMPORTANT production note: exactly four small points of light, no more and no fewer; no text, letters, numbers, or labels anywhere.
+- **Motiv:** The view through a simple early telescope: a black circle, in its middle a small bright pale disk without bands, and beside it, in a nearly straight line, exactly four tiny points of light, two on each side. Plain black around. The picture shows what Mr X sees next to Jupiter. IMPORTANT production note: exactly four small points of light, no more and no fewer; no text, letters, numbers, or labels anywhere.
 - **Bildtext:** *Four small lights beside Jupiter. Night after night, they move.*
 - **Shutterstock-sökning:** `jupiter four moons small telescope view black sky`
-- **AI-prompt (alternativ):** Simple realistic image of the view through an early telescope: a circular black field, a small bright pale disk with faint soft bands in the center, exactly four tiny points of light in a nearly straight line beside it, two on each side, nothing else, clean and quiet; no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Simple realistic image of the view through an early telescope: a circular black field, a small bright pale disk without bands in the center, exactly four tiny points of light in a nearly straight line beside it, two on each side, nothing else, clean and quiet; no text, no letters, no numbers.
 
 ---
 
@@ -77,9 +77,9 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 
 ### Svarsalternativ
 
+- ✅ Galileo Galilei
 - ⬜ Aristotle
 - ⬜ Isaac Newton
-- ✅ Galileo Galilei
 - ⬜ Leonardo da Vinci
 
 ### Ordförklaringar (marginal)
@@ -112,15 +112,15 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 
 > Mr X is an Italian astronomer with a new, strong telescope.  
 > Old books teach: everything in the sky is perfect and smooth.  
-> Mr X looks at the Moon and sees mountains and valleys.  
+> Mr X looks at the moon and sees mountains and valleys.  
 > From their shadows, he even measures how high they are.  
-> He finds dark spots on the Sun, and they move across it.  
+> He also sees dark spots on the sun, and they move across it.  
 > Then, for months, he watches the planet Venus.  
-> Venus shows phases like the Moon, from thin crescent to almost full.  
+> Venus shows phases like the moon, from thin crescent to almost full.  
 > When Venus is full, it looks small and far away.  
 > In the old picture of the sky, Venus can never look full.  
-> So Venus must go around the Sun, not around the Earth.  
-> This does not yet prove that the Earth moves too.  
+> So Venus must go around the sun, not around the earth.  
+> This does not yet prove that the earth moves too.  
 > But the perfect sky of the old books is gone.  
 > **Who is Mr X?**
 
@@ -134,21 +134,21 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 ### Ordförklaringar (marginal)
 
 - **astronomer** — *a scientist who studies the stars and the planets*
-- **phase** — *the shape of the lit part of the Moon or a planet, as we see it*
-- **crescent** — *a thin curved shape, like the young Moon*
+- **phase** — *the shape of the lit part of the moon or a planet, as we see it*
+- **crescent** — *a thin curved shape, like the young moon*
 - **prove** — *to show with facts that something is true*
 
 ### Huvudbild
 
-- **Motiv:** A close view of the Moon as seen through an early telescope: about half of the Moon is lit, and along the line between light and dark, mountains and crater rims throw long sharp shadows onto the grey surface. Deep black sky around. The picture shows that the Moon is rough, not smooth. Production note: realistic lunar surface, no text, letters, numbers, or labels.
-- **Bildtext:** *The Moon is not smooth. Its mountains throw long shadows.*
+- **Motiv:** A close view of the moon as seen through an early telescope: about half of the moon is lit, and along the line between light and dark, mountains and crater rims throw long sharp shadows onto the grey surface. Deep black sky around. The picture shows that the moon is rough, not smooth. Production note: realistic lunar surface, no text, letters, numbers, or labels.
+- **Bildtext:** *The moon is not smooth. Its mountains throw long shadows.*
 - **Shutterstock-sökning:** `moon terminator mountains craters shadows telescope close up`
-- **AI-prompt (alternativ):** Photorealistic close-up of the half-lit Moon through a telescope, the line between light and dark showing mountains and crater rims with long sharp shadows on the grey surface, deep black sky around, crisp and calm; no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic close-up of the half-lit moon through a telescope, the line between light and dark showing mountains and crater rims with long sharp shadows on the grey surface, deep black sky around, crisp and calm; no text, no letters, no numbers.
 
 ### Sidobild
 
 - **Motiv:** A vertical sequence of the phases of a planet against a black sky, from top to bottom: a large thin crescent at the top, then a half-lit shape, then smaller and rounder shapes, and at the bottom a small almost full disk. The shapes shrink as they fill. The picture helps explain the words 'phase' and 'crescent' and shows the key clue: the full planet looks small and far away. Production note: pale smooth planet shapes only, four to six of them, the crescent clearly largest and the full disk clearly smallest; no text, letters, numbers, or arrows.
-- **Bildtext:** *Big thin crescent, small full disk: Venus goes around the Sun.*
+- **Bildtext:** *Big thin crescent, small full disk: Venus goes around the sun.*
 - **Shutterstock-sökning:** `phases of venus sequence crescent to full black background`
 - **AI-prompt (alternativ):** Clean astronomical illustration on a black background, vertical sequence of the phases of a pale smooth planet from top to bottom: a large thin crescent at the top, then a half-lit shape, then smaller rounder shapes, a small almost full disk at the bottom, shapes shrinking as they fill, no other objects; no text, no letters, no numbers, no arrows.
 
@@ -161,12 +161,12 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 ### Korttext
 
 > Mr X is a famous astronomer in Italy, almost seventy years old.  
-> Ninety years before, an astronomer from the north writes: the Earth goes around the Sun.  
+> Ninety years before, an astronomer from the north writes: the earth goes around the sun.  
 > The Church says: this is against the Bible, so Mr X must not defend it.  
 > But now he writes a big book, and in it, the idea wins.  
 > The Pope calls him to Rome, to a church court.  
 > For weeks, the judges question him.  
-> Another thinker is burned in Rome years before, but Mr X is not tortured or burned.  
+> Another thinker is burned in Rome years before, for his ideas about God, but Mr X is not tortured or burned.  
 > Still, he must kneel and say: I give up this idea.  
 > A later story tells: he whispers, and yet it moves.  
 > Historians find no proof for those words.  
@@ -220,7 +220,7 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 > The foolish one defends the old view, using the Pope's own favorite argument.  
 > The Pope feels mocked, and the friendship ends in a trial.  
 > Mr X is right about the planets, but his main proof, from the tides, is wrong.  
-> Only in 1992 does the Church say clearly: the judges of that time make mistakes.  
+> More than 350 years after the trial, the Church says clearly: the judges of that time make mistakes.  
 > Power can ban a book, but not the evidence.  
 > **Who is Mr X?**
 

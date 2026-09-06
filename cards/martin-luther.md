@@ -23,7 +23,7 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 > I can never be good enough, he thinks.  
 > Then he reads an old letter in the Bible, again and again.  
 > He finds a new idea there: God's forgiveness is a free gift, he believes.  
-> No one can earn it, and no one can buy it.  
+> No one can earn it, and no one can buy it. This idea will soon split the church in Europe.  
 > **Who is Brother X?**
 
 ### Svarsalternativ
@@ -68,11 +68,11 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 > Buy a letter, the preacher says, and the punishment for your sins is gone.  
 > Part of the money helps to build a great new church in Rome.  
 > Mr X is angry: forgiveness is not for sale, he believes.  
-> He writes 95 short points against the sale, in Latin, for a debate.  
+> He writes ninety-five short points against the sale, in Latin, for a debate.  
 > He sends them in a letter to the archbishop.  
 > A story tells that he also nails them to the church door.  
 > Historians are not sure the door story is true.  
-> Printers copy the points and translate them into German.  
+> Printers copy the points, and friends translate them into German.  
 > Within a few months, people read them all over Germany.  
 > **Who is Mr X?**
 
@@ -119,11 +119,11 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 > - Do you take back what you have written? they ask.  
 > He asks for one day to think.  
 > Next day he answers: no, unless the Bible or clear reason proves him wrong.  
-> Later prints add a famous line: here I stand, I can do no other.  
+> The first printed reports add a famous line: here I stand, I can do no other.  
 > It is not in the official record, so historians doubt it.  
-> The emperor declares him an outlaw: anyone may now kill him without punishment.  
 > On the road home, masked riders take him away.  
 > A friendly prince hides him in a castle, with a new name and a beard.  
+> Soon the emperor declares him an outlaw: anyone may now kill him without punishment.  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -168,7 +168,7 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 > He works from the old Greek text, not from the church's Latin.  
 > He wants words that a mother in the house and a child in the street can understand.  
 > In about eleven weeks, the New Testament is ready in German.  
-> Printers sell it in the thousands, cheap and fast.  
+> Printers sell it in the thousands and print it again and again.  
 > German has many dialects, and his book helps shape one written German.  
 > He asks towns to open schools for girls and boys, so all can read it.  
 > Church leaders in Rome say: the church must guide the reading.  
@@ -192,10 +192,10 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 
 ### Huvudbild
 
-- **Motiv:** A small stone room in a castle, about 500 years ago. A bearded man in plain clothes sits at a wooden desk with his back to the viewer and writes by the light of a window that looks out over a forest. On the desk lie two thick open books and loose sheets, all at a steep angle so nothing is readable; a quill, an ink pot, and a candle. Focused, warm, quiet mood. Production note: the man is seen from behind only, no face, no recognizable portrait; every page and sheet must be blurred, turned away, or at a sharp angle, no readable letters in any script; no text, signs, or symbols anywhere.
+- **Motiv:** Close-up over the shoulder of a man writing at a wooden desk in a small stone castle room, about 500 years ago. Only his shoulder in plain cloth, his two hands, and a quill are in the picture. On the desk lie two thick open books and loose sheets, all at a steep angle so nothing is readable; an ink pot and a candle; through the window, a forest. Focused, warm, quiet mood. Production note: no whole figure and no face anywhere, no recognizable portrait; every page and sheet must be blurred, turned away, or at a sharp angle, no readable letters in any script; no text, signs, or symbols anywhere.
 - **Bildtext:** *In a quiet castle room, one man puts an old book into everyday words.*
-- **Shutterstock-sökning:** `man writing desk castle window forest from behind quill books`
-- **AI-prompt (alternativ):** Warm realistic illustration: a small stone castle room about 500 years ago, a bearded man in plain clothes seen from behind at a wooden desk writing with a quill, two thick open books and loose sheets at steep angles so nothing is readable, an ink pot and a candle, a window looking out over a forest, soft daylight, quiet focused mood, no face, no readable letters, no text.
+- **Shutterstock-sökning:** `over shoulder hands writing quill open books desk castle window forest closeup`
+- **AI-prompt (alternativ):** Warm realistic illustration, close-up over the shoulder of a man writing at a wooden desk in a small stone castle room about 500 years ago, only the shoulder, two hands and a quill visible, two thick open books at steep angles and loose sheets so nothing is readable, an ink pot and a candle, a window looking out over a forest, soft daylight, quiet focused mood, no face, no whole figure, no readable letters, no text.
 
 ### Sidobild
 
@@ -212,13 +212,13 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 
 ### Korttext
 
-> Mr X is a German monk whose protest splits the western church, about 500 years ago.  
+> Mr X is a German monk whose quarrel with Rome splits the western church, about 500 years ago.  
 > Few people from his time leave so many sources.  
 > His collected works fill more than one hundred thick volumes.  
-> Thousands of his letters survive.  
+> More than two thousand of his letters survive.  
 > Students even write down his talk at the dinner table.  
-> But others write these notes from memory, so historians read them with care.  
-> Even the famous story of the church door rests on one late report.  
+> But they write in haste or from memory, and later editors change the words, so historians read them with care.  
+> Even the famous story of the church door rests on two late reports, written decades after the event.  
 > His legacy is divided too.  
 > In his old age, he writes books full of hate against Jews.  
 > Centuries later, others use these books for their own hate, and historians study how.  

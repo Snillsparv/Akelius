@@ -14,7 +14,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Mr X lives about 500 years ago, in the north of Poland.  
 > He works at a cathedral by the sea.  
 > He is also a doctor and helps sick people.  
-> He lives in a small tower in the wall around the cathedral.  
+> He has a small tower in the wall around the cathedral.  
 > At night, he climbs up and watches the sky.  
 > He has no telescope, only his eyes and simple wooden tools.  
 > In his time, people say: the earth stands still.  
@@ -39,10 +39,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** Night scene: a small brick tower in the old wall around a cathedral on a low hill by a calm sea. On top of the tower, an old man in a simple dark robe stands with his back to us and looks up at a bright starry sky; a simple wooden measuring instrument stands beside him. Production note: the man is seen from behind or in silhouette, a generic figure, not a recognizable named portrait; no telescope anywhere, because none exists yet; no text, letters, or numbers.
+- **Motiv:** Dusk scene without people: a small brick tower in the old wall around a cathedral on a low hill by a calm sea, the last blue light on the horizon and a clear starry sky above. One warm light glows in the tower window, and a simple wooden measuring instrument is just visible on top of the tower. Production note: no person anywhere in the image; no telescope anywhere, because none exists yet; no text, letters, or numbers.
 - **Bildtext:** *At night, he climbs the tower and watches the sky.*
-- **Shutterstock-sökning:** `brick tower cathedral wall night starry sky man silhouette`
-- **AI-prompt (alternativ):** Atmospheric realistic illustration: a small brick tower in the old wall around a Gothic cathedral on a low hill by a calm sea at night, an old man in a simple dark robe seen from behind on top of the tower looking up at a bright starry sky, a simple wooden measuring instrument beside him, cool moonlight; no telescope, no readable text, no letters.
+- **Shutterstock-sökning:** `small brick tower cathedral wall sea dusk starry sky lit window`
+- **AI-prompt (alternativ):** Atmospheric realistic illustration: a small brick tower in the old wall around a Gothic cathedral on a low hill by a calm sea at dusk, the last blue light on the horizon, a clear bright starry sky, one warm light glowing in the tower window, a simple wooden measuring instrument just visible on top of the tower, no people, quiet mood; no telescope, no readable text, no letters, no numbers.
 
 ### Sidobild
 
@@ -60,7 +60,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > In the sixteenth century, Mr X is a church official in Poland who studies the sky.  
-> In his time, everybody knows: the earth stands still.  
+> Everybody in his time is sure: the earth does not move.  
 > We do not feel it move.  
 > A stone falls straight down, and birds are not left behind.  
 > Every night, the sky seems to turn around us.  
@@ -145,10 +145,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Sidobild
 
-- **Motiv:** A thick sixteenth-century printed book lies open at its first pages on a dark wooden table, seen from a low, sharp angle with a candle beside it. The picture helps explain the word 'preface'. Production note: the printed text must be out of focus, at a sharp angle, or blurred, so that no word, letter, or number can be read.
+- **Motiv:** A thick sixteenth-century printed book lies open at its first page on a dark wooden table, seen from a low, sharp angle, with a quill pen and an inkwell beside it, in cold daylight from a window, no candle. The picture helps explain the word 'preface'. Production note: no people; the printed text must be out of focus, at a sharp angle, or blurred, so that no word, letter, or number can be read.
 - **Bildtext:** *A preface: the words at the start of a book. Here, somebody else speaks.*
-- **Shutterstock-sökning:** `antique printed book open first page candle sharp angle`
-- **AI-prompt (alternativ):** Photorealistic vertical image of a thick sixteenth-century printed book lying open at its first pages on a dark wooden table, seen from a low sharp angle with a candle beside it, warm light; the print blurred and unreadable, no readable words, no letters, no numbers.
+- **Shutterstock-sökning:** `antique printed book open first page quill inkwell window daylight sharp angle`
+- **AI-prompt (alternativ):** Photorealistic vertical image of a thick sixteenth-century printed book lying open at its first page on a dark wooden table, seen from a low sharp angle, a quill pen and an inkwell beside it, cold daylight from a window, no candle, no people; the print blurred and unreadable, no readable words, no letters, no numbers.
 
 ---
 
@@ -226,8 +226,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - ⬜ Johannes Kepler
 - ⬜ Galileo Galilei
-- ✅ Nicolaus Copernicus
 - ⬜ Giordano Bruno
+- ✅ Nicolaus Copernicus
 
 ### Ordförklaringar (marginal)
 

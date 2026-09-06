@@ -34,11 +34,11 @@ status uppdateras löpande.
 | 25 | Leonardo da Vinci | Renaissance and Exploration |✅ Leverans 4 |
 | 26 | Johannes Gutenberg | Renaissance and Exploration |✅ Leverans 4 |
 | 27 | Christopher Columbus | Renaissance and Exploration |✅ Leverans 4 |
-| 28 | Ferdinand Magellan | Renaissance and Exploration | |
-| 29 | Nicolaus Copernicus | Renaissance and Exploration | |
-| 30 | Galileo Galilei | Renaissance and Exploration | |
-| 31 | The Protestant Reformation | Revolutions and New Ideas | |
-| 32 | Martin Luther | Revolutions and New Ideas | |
+| 28 | Ferdinand Magellan | Renaissance and Exploration |✅ Leverans 5 |
+| 29 | Nicolaus Copernicus | Renaissance and Exploration |✅ Leverans 5 |
+| 30 | Galileo Galilei | Renaissance and Exploration |✅ Leverans 5 |
+| 31 | The Protestant Reformation | Revolutions and New Ideas |✅ Leverans 5 |
+| 32 | Martin Luther | Revolutions and New Ideas |✅ Leverans 5 |
 | 33 | The American Revolution | Revolutions and New Ideas | |
 | 34 | George Washington | Revolutions and New Ideas | |
 | 35 | The French Revolution | Revolutions and New Ideas | |

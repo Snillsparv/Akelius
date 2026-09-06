@@ -17,11 +17,11 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 > Its leader, the pope, lives in Rome.  
 > He wants a huge new church there, and that costs a lot of money.  
 > So church men travel from town to town and sell special papers.  
-> Buyers believe: this paper makes God's punishment after death shorter.  
+> The church teaches, and buyers believe: this paper makes God's punishment after death shorter.  
 > A monk in Germany believes this is wrong.  
 > Forgiveness is a gift from God, he believes, and no one can buy it.  
 > He writes a list of points against the sale.  
-> A story tells that he nails the list to a church door.  
+> He sends the list to his bishop, and friends print it.  
 > His words spread fast, and the pope says the monk is wrong.  
 > But the quarrel grows, and the church in western Europe splits into several churches.  
 > **Which movement is Movement X?**
@@ -49,10 +49,10 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 
 ### Sidobild
 
-- **Motiv:** A monk in a plain dark robe sits at a wooden desk in a bare stone room and writes with a quill by candlelight. He is seen from behind and at an angle, so his face is not visible. The picture explains the word 'monk'. Production note: the face must stay hidden and must not resemble any known portrait; the page must be blank or unreadable; no readable text anywhere; quiet and respectful mood.
-- **Bildtext:** *A monk writes his list of points against the sale.*
-- **Shutterstock-sökning:** `monk writing desk quill candlelight seen from behind`
-- **AI-prompt (alternativ):** Vertical illustration of a monk in a plain dark robe writing with a quill at a wooden desk in a bare stone room, seen from behind at an angle so the face is hidden, one candle, a small window, quiet mood; page blank, no readable text, no letters.
+- **Motiv:** A monk in a plain dark robe walks at a distance along a covered stone walkway around a cloister garden with a small tree and plants in the middle, seen at an angle from behind, soft daylight. The picture explains the word 'monk'. Production note: the face must not be visible and must not resemble any known portrait; no readable text, signs, or symbols anywhere; quiet and respectful mood.
+- **Bildtext:** *A monk lives a simple life of prayer and work.*
+- **Shutterstock-sökning:** `monk walking cloister garden stone arches from behind`
+- **AI-prompt (alternativ):** Vertical illustration of a monk in a plain dark robe walking at a distance along a covered stone walkway around a cloister garden with a small tree in the middle, seen at an angle from behind so the face is hidden, soft daylight, quiet mood; no readable text, no letters, no symbols.
 
 ---
 
@@ -63,12 +63,12 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 ### Korttext
 
 > Movement X begins in Germany about 500 years ago.  
-> A monk there writes sharp points against some of the church's ways.  
-> He writes in Latin, the language of scholars and priests.  
-> Friends translate the points into German, and printers turn them into thin, cheap booklets.  
+> A monk there starts a quarrel with the church.  
+> His friends and his enemies all write about it.  
+> Printers translate the texts into German and turn them into thin, cheap booklets.  
 > In Europe, printing with movable metal letters is new, only about seventy years old.  
-> One press can now make hundreds of pages in a day.  
-> Within weeks, the booklets reach towns all over Germany.  
+> One press can now make more than a thousand pages in a day.  
+> Within a few months, the booklets reach towns all over Germany.  
 > Some booklets have pictures, so people who cannot read can follow too.  
 > Soon, translators put the Bible into German, English, and other everyday languages.  
 > Now a farmer or a weaver can hear the holy book in his own words.  
@@ -92,10 +92,10 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 
 ### Huvudbild
 
-- **Motiv:** Inside a weaver's home about 500 years ago: a wooden loom by the wall, a family and a neighbor sit around a plain table, one young man reads aloud from a thin booklet, the others listen; light from a small window. Production note: the booklet pages angled away or out of focus, no readable letters anywhere; calm everyday mood; no religious symbols in focus.
-- **Bildtext:** *One person reads aloud. The whole house hears the new ideas.*
-- **Shutterstock-sökning:** `sixteenth century family listening reading aloud interior loom illustration`
-- **AI-prompt (alternativ):** Warm historical illustration of a weaver's home in the early sixteenth century: a wooden loom by the wall, a family and a neighbor around a plain table, a young man reading aloud from a thin booklet, soft window light, calm mood; booklet pages angled away, no readable letters, no text.
+- **Motiv:** A town gate in Germany in the early sixteenth century: bundles of thin booklets tied with string are loaded onto a wooden cart, a rider with saddlebags waits beside it, a carter and a printer's helper at work, morning light. Production note: all booklet covers angled away or blank, no readable letters anywhere; no flags, coats of arms, or signs; calm busy mood.
+- **Bildtext:** *Bundles of cheap booklets leave the town. Soon they are everywhere.*
+- **Shutterstock-sökning:** `sixteenth century town gate cart bundles booklets rider saddlebags illustration`
+- **AI-prompt (alternativ):** Warm historical illustration at a German town gate in the early sixteenth century, bundles of thin booklets tied with string being loaded onto a wooden cart, a rider with saddlebags waiting beside it, a carter and a printer's helper at work, morning light, calm busy mood; all covers angled away or blank, no readable letters, no text, no coats of arms.
 
 ### Sidobild
 
@@ -122,8 +122,8 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 > In England, the king wants to end his marriage, and the pope says no.  
 > So the king makes himself head of the church in his land and closes the monasteries.  
 > Rulers who stay with Rome have reasons too, and belief counts there as well.  
-> The kings of France and Spain already choose their own bishops and gain less from a break.  
-> After decades of fighting in Germany, a treaty says: each prince decides the faith of his land.  
+> The kings of France and Spain already choose their own bishops. They gain less from a break.  
+> After years of quarrel and war in Germany, a treaty is signed. Each prince decides the faith of his land.  
 > **Which movement is Movement X?**
 
 ### Svarsalternativ
@@ -162,17 +162,16 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 
 ### Korttext
 
-> Movement X begins with a monk in Germany about 500 years ago, but it is not one man's work.  
+> Movement X begins with a monk in Germany about 500 years ago. But it is not one man's work.  
 > In Zürich, a priest named Zwingli preaches only what he finds in the Bible.  
 > The city council agrees and removes the pictures and statues from its churches.  
 > In Geneva, a Frenchman named Calvin builds a strict new church with tight rules for daily life.  
 > His school trains preachers, who carry his teaching to France, the Netherlands, and Scotland.  
-> The new groups do not agree with each other either.  
-> The monk and Zwingli quarrel over the meaning of the bread and wine in church and never make peace.  
+> The monk and Zwingli quarrel over the bread and wine in church. They never make peace.  
 > Smaller groups baptize only grown people, and both big sides punish them hard.  
 > The old church answers too, at a long meeting in the town of Trent.  
-> There its leaders state their faith in clear words and end the sale of forgiveness papers for money.  
-> Priests get better training, and new orders of priests open schools as far away as India and Japan.  
+> There its leaders state their faith in clear words. They also end the sale of forgiveness papers for money.  
+> Priests get better training. New orders of priests open schools as far away as India and Japan.  
 > Each side believes it holds the true faith, and history cannot decide that question.  
 > **Which movement is Movement X?**
 
@@ -192,10 +191,10 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 
 ### Huvudbild
 
-- **Motiv:** A large church hall in the sixteenth century: rows of church leaders in robes sit on wooden benches along both sides, one speaker stands in the middle; seen from the back of the hall, so faces are small. Production note: generic figures, not a copy of any real painting; no readable text, banners, or coats of arms; calm and orderly mood.
-- **Bildtext:** *Leaders of the old church meet for years and state their faith.*
-- **Shutterstock-sökning:** `sixteenth century church council bishops assembly hall painting`
-- **AI-prompt (alternativ):** Wide historical illustration of a large church hall in the sixteenth century, rows of church leaders in robes on wooden benches along both sides, one speaker standing in the middle, seen from the back of the hall, candle and window light, calm orderly mood; no readable text, no banners, no coats of arms.
+- **Motiv:** A walled city on the shore of a lake with mountains behind, seen from the water, in the sixteenth century: stone walls, church towers, tiled roofs, small wooden boats on the lake, soft morning light. Production note: no flags, banners, coats of arms, or readable text anywhere; no people identifiable as real persons; calm mood.
+- **Bildtext:** *In cities by the lakes, other preachers build churches of their own.*
+- **Shutterstock-sökning:** `sixteenth century walled city lake mountains boats church towers painting`
+- **AI-prompt (alternativ):** Wide historical illustration of a walled city on the shore of a lake with mountains behind, seen from the water, in the sixteenth century, stone walls, church towers, tiled roofs, small wooden boats on the lake, soft morning light, calm mood; no flags, no banners, no coats of arms, no text, no letters.
 
 ### Sidobild
 
@@ -213,12 +212,12 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 ### Korttext
 
 > Movement X splits the church in western Europe in the sixteenth century.  
-> Historians agree on the events, but they argue about the cause: faith, power, or everyday life?  
+> Historians agree on the events. But they argue about the cause: faith, power, or everyday life?  
 > Older books tell the story of one brave monk in Germany and his conscience.  
 > Later historians look at the princes and free cities that use the quarrel to win power.  
 > Others look at the farmers and the poor of the towns.  
 > Farmers in Germany soon read the new ideas as freedom from their lords too.  
-> They rise up, the princes crush them, tens of thousands die, and the monk takes the princes' side.  
+> They rise up, and the princes crush them. Perhaps a hundred thousand die, and the monk takes the princes' side.  
 > Wars over faith and power follow, in France, in the Netherlands, and across central Europe.  
 > The biggest of them lasts thirty years.  
 > Some regions lose a third of their people to fighting, hunger, and sickness.  

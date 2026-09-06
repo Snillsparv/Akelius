@@ -19,8 +19,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > They sail south for many months, and the weather gets cold.  
 > On the shore, the sailors see penguins and big sea lions.  
 > Far in the south, they find a strait, a narrow water road through the land.  
-> At night, they see fires burning on the shore. Later, that land gets the name Land of Fire.  
-> After the strait, a huge new ocean opens in front of them.  
+> At night, they see fires on the shore, and later that land gets the name Land of Fire.  
+> Only three ships come out of the strait. A huge new ocean opens in front of them.  
 > The water is calm, so Captain X gives this ocean a name that means peaceful.  
 > We still use that name today.  
 > **Who is Captain X?**
@@ -41,10 +41,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** A small group of wooden sailing ships of about 500 years ago moves in a line through a narrow strait between steep snow-topped mountains and dark forested shores, cold grey-blue light, low clouds, a thin column of smoke rising from a far shore. Production note: four ships, small in the landscape; sails and flags completely plain, no crosses, symbols, letters, or text anywhere in the image.
+- **Motiv:** Three small wooden sailing ships of about 500 years ago move in a line through a narrow strait between steep snow-topped mountains and dark forested shores, cold grey-blue light, low clouds, a thin column of smoke rising from a far shore. Production note: exactly three ships, small in the landscape, small round-hulled carracks of the early sixteenth century with high stern castles and square sails, no gun ports in rows; sails and flags completely plain, no crosses, symbols, letters, or text anywhere in the image.
 - **Bildtext:** *Ships in a narrow strait, far in the cold south.*
 - **Shutterstock-sökning:** `old wooden sailing ships narrow strait snow mountains patagonia`
-- **AI-prompt (alternativ):** Cinematic wide shot of four small wooden sailing ships from about 500 years ago moving in a line through a narrow strait between steep snow-topped mountains and dark forested shores, cold grey-blue light, low clouds, a thin column of smoke on a distant shore, quiet epic mood; all sails plain, no crosses, no symbols, no text, no letters.
+- **AI-prompt (alternativ):** Cinematic wide shot of three small wooden sailing ships from about 500 years ago moving in a line through a narrow strait between steep snow-topped mountains and dark forested shores, small round-hulled carracks of the early sixteenth century with high stern castles and square sails, no gun ports in rows, cold grey-blue light, low clouds, a thin column of smoke on a distant shore, quiet epic mood; exactly three ships, all sails plain, no crosses, no symbols, no text, no letters.
 
 ### Sidobild
 
@@ -61,14 +61,13 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Korttext
 
-> Captain X sails for Spain. He finds a way around the south of the Americas into a new ocean.  
-> He believes the islands of cloves and nutmeg lie only a few days further west.  
-> Nobody in Europe knows how wide this ocean is. The maps of his time draw Asia much too close.  
-> Europeans have seen this ocean only from the shore of Panama, never from the middle.  
+> About 500 years ago, Captain X sails for Spain around the south of the Americas into a new ocean.  
+> He believes the islands of cloves and nutmeg lie only a few weeks further west.  
+> Nobody in Europe knows how wide this ocean is.  
 > Captain X sails west for more than three months without any new food.  
 > The ship's bread turns to powder full of worms.  
 > The drinking water turns yellow and smells bad.  
-> The men eat leather from the ship's mast and even hunt rats.  
+> The men eat leather from the ship's ropes and yards and even hunt rats.  
 > Then scurvy comes: gums swell and teeth fall out.  
 > About twenty men die of it. Nobody yet knows that fresh fruit stops this sickness.  
 > In all those weeks, the sailors see only two small empty islands.  
@@ -91,10 +90,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** Aerial wide shot from high above: one small wooden sailing ship, tiny and alone in an endless calm blue ocean under a vast hazy sky, no land anywhere, midday light. The picture shows the size of the ocean and the loneliness of the crossing. Production note: the ship stays tiny; sails plain; no text, letters, or symbols anywhere.
+- **Motiv:** Aerial wide shot from high above: one small wooden sailing ship, tiny and alone in an endless calm blue ocean under a vast hazy sky, no land anywhere, midday light. The picture shows the size of the ocean and the loneliness of the crossing. Production note: the ship stays tiny, a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows; sails plain; no text, letters, or symbols anywhere.
 - **Bildtext:** *Week after week, only water. Nobody knows how far it is.*
 - **Shutterstock-sökning:** `aerial view lone sailing ship vast open ocean horizon calm`
-- **AI-prompt (alternativ):** Cinematic aerial wide shot from high above: one small wooden sailing ship from about 500 years ago, tiny and alone in an endless calm blue ocean under a vast hazy sky, no land in sight, midday light, quiet and slightly unsettling mood; sails plain, no text, no letters.
+- **AI-prompt (alternativ):** Cinematic aerial wide shot from high above: one small wooden sailing ship from about 500 years ago, a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows, tiny and alone in an endless calm blue ocean under a vast hazy sky, no land in sight, midday light, quiet and slightly unsettling mood; sails plain, no text, no letters.
 
 ### Sidobild
 
@@ -113,12 +112,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 > About 500 years ago, three ships from Spain reach the islands we now call the Philippines.  
 > Their leader, Captain X, sails for the king of Spain.  
-> The islands are not unknown land. People here have their own rulers and trade with China.  
+> People here have their own rulers and trade with China.  
 > The ruler of Cebu welcomes the strangers and makes a friendship pact with Captain X.  
 > He and hundreds of his people accept the sailors' religion.  
 > Captain X now demands that the chiefs nearby obey Cebu and the king of Spain.  
 > On the small island of Mactan, the chief Lapulapu refuses.  
-> He is a rival of Cebu, and he will not bow to a king across the sea.  
+> He is a rival of Cebu. He will not bow to a king across the sea.  
 > At dawn, Captain X attacks Mactan with about sixty men in armor.  
 > The water is shallow, so the boats and the ships' guns stay far from the beach.  
 > Far more than sixty warriors meet the sailors in the water, and Captain X is killed.  
@@ -162,7 +161,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > Long before his famous voyage, Captain X is a soldier for Portugal in Asia.  
-> In the port of Malacca, he buys a young man as a slave and calls him Enrique.  
+> In the port of Malacca, he takes a young man as a slave and calls him Enrique.  
 > Enrique speaks Malay, the trade language of the seas of Southeast Asia.  
 > Captain X takes him to Europe, and later west across two oceans as his interpreter.  
 > After months at sea, the ships reach islands east of Malacca.  
@@ -212,17 +211,17 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > About 500 years ago, five ships leave Spain under Captain X to reach the Spice Islands from the west.  
-> Three years later, one ship comes back with eighteen men of about 270.  
-> Captain X is not on board; he dies on the way, in the Philippines.  
-> How do we know the story? A young Italian volunteer, Antonio Pigafetta, keeps a diary through the whole voyage.  
+> Three years later, one ship comes back with eighteen men of about 270, and Captain X is not among them.  
+> How do we know the story? A young Italian gentleman, Antonio Pigafetta, joins to see the world and keeps a diary through the whole voyage.  
 > The original is lost; we read it in four later handwritten copies.  
 > A pilot's logbook and pay lists in the archives of Seville fill the gaps.  
 > Pigafetta records a puzzle at the end: the sailors have lost a day.  
-> They count every day with care. At the first port on the way home, the diary says Wednesday, but it is Thursday.  
+> They count every day with care, but at the first port on the way home the diary says Wednesday, and it is Thursday.  
 > Sailing west with the sun, they have seen one sunrise fewer than people at home.  
 > Today the date line in the middle of the ocean solves this puzzle.  
 > So who first goes around the world? In one voyage, it is the last captain, Elcano, with seventeen men.  
-> Over a whole life, it is Captain X himself. As a young soldier he comes to these seas from the east, as captain from the west.  
+> As a young soldier, Captain X reaches these seas by sailing east, to Malacca. As captain he reaches islands a little further east by sailing west.  
+> Whether he ever sails that last stretch, no source tells us.  
 > **Who is Captain X?**
 
 ### Svarsalternativ
@@ -234,22 +233,22 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Ordförklaringar (marginal)
 
-- **volunteer** — *a person who joins because he wants to, not for pay*
+- **gentleman** — *a man of good family who does not need to work with his hands*
 - **diary** — *a book where a person writes what happens every day*
 - **pilot** — *the sailor who guides the ship on its course*
 - **archive** — *a place where old papers are kept and protected*
 
 ### Huvudbild
 
-- **Motiv:** A single battered wooden sailing ship with patched, torn sails and a weathered hull enters a wide river mouth in evening light, a few thin sailors visible on deck at a distance, a low sandy shore with a small town far away. Production note: sails plain; the men anonymous and small; no flags with symbols; no text, letters, or numbers anywhere.
+- **Motiv:** A single battered wooden sailing ship with patched, torn sails and a weathered hull enters a wide river mouth in evening light, a few thin sailors visible on deck at a distance, a low sandy shore with a small town far away. Production note: a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows; sails plain; the men anonymous and small; no flags with symbols; no text, letters, or numbers anywhere.
 - **Bildtext:** *After three years, one ship comes home.*
 - **Shutterstock-sökning:** `battered old sailing ship torn sails river mouth evening historical`
-- **AI-prompt (alternativ):** Cinematic realistic image: a single battered wooden sailing ship from about 500 years ago with patched torn sails and a weathered hull enters a wide river mouth in warm evening light, a few thin sailors small on deck, a low sandy shore with a small town far away, quiet tired mood; sails plain, no flags with symbols, no text, no letters.
+- **AI-prompt (alternativ):** Cinematic realistic image: a single battered wooden sailing ship from about 500 years ago, a small round-hulled carrack of the early sixteenth century with a high stern castle and square sails, no gun ports in rows, with patched torn sails and a weathered hull enters a wide river mouth in warm evening light, a few thin sailors small on deck, a low sandy shore with a small town far away, quiet tired mood; sails plain, no flags with symbols, no text, no letters.
 
 ### Sidobild
 
 - **Motiv:** A vertical close-up of an old handwritten manuscript page on parchment with a small ink-and-watercolor drawing of an island with palm trees and a tiny ship, soft daylight, no person. The picture helps explain the word 'diary'. Production note: all script on the page must be blurred and unreadable, no real words in any language; no letters or numbers readable anywhere.
-- **Bildtext:** *A diary page from the voyage. The original is lost, but copies survive.*
+- **Bildtext:** *A page from a copy of the diary. The original is lost.*
 - **Shutterstock-sökning:** `old manuscript page island drawing parchment closeup vertical`
 - **AI-prompt (alternativ):** Photorealistic vertical close-up of an old handwritten manuscript page on parchment with a small ink-and-watercolor drawing of an island with palm trees and a tiny ship, soft daylight, calm mood; all script blurred and unreadable, no real words, no text, no letters, no numbers.
 
