@@ -1,0 +1,225 @@
+{
+  "slug": "protestant-reformation",
+  "person_sv": "Reformationen",
+  "cards": [
+    {
+      "title": "Papper för mynt",
+      "text_sentences": [
+        "Rörelsen X börjar i Europa för ungefär 500 år sedan.",
+        "Nästan alla i Västeuropa tillhör då en enda kyrka.",
+        "Dess ledare, påven, bor i Rom.",
+        "Han vill ha en väldig ny kyrka där, och det kostar mycket pengar.",
+        "Så kyrkans män reser från stad till stad och säljer särskilda papper.",
+        "Kyrkan lär, och köparna tror: detta papper gör Guds straff efter döden kortare.",
+        "En munk i Tyskland tror att detta är fel.",
+        "Förlåtelse är en gåva från Gud, tror han, och ingen kan köpa den.",
+        "Han skriver en lista med punkter mot försäljningen.",
+        "Han skickar listan till sin biskop, och vänner trycker den.",
+        "Hans ord sprids snabbt, och påven säger att munken har fel.",
+        "Men grälet växer, och kyrkan i Västeuropa delas i flera kyrkor."
+      ],
+      "question": "Vilken rörelse är detta?",
+      "options": [
+        "Korstågen",
+        "Reformationen",
+        "Renässansen",
+        "Den stora schismen"
+      ],
+      "words": [
+        {
+          "word": "påve",
+          "explanation": "ledaren för kyrkan i Rom"
+        },
+        {
+          "word": "straff",
+          "explanation": "något dåligt som du måste gå igenom för att du har gjort fel"
+        },
+        {
+          "word": "munk",
+          "explanation": "en religiös man som lever ett enkelt liv och ber mycket"
+        },
+        {
+          "word": "förlåtelse",
+          "explanation": "när Gud, eller en människa, slutar vara arg för något fel du har gjort"
+        }
+      ],
+      "main_caption": "Pengar från långt borta betalar för en väldig ny kyrka i Rom.",
+      "side_caption": "En munk lever ett enkelt liv med bön och arbete."
+    },
+    {
+      "title": "Små häften, stor förändring",
+      "text_sentences": [
+        "Rörelsen X börjar i Tyskland för ungefär 500 år sedan.",
+        "En munk där börjar ett gräl med kyrkan.",
+        "Hans vänner och hans fiender skriver alla om det.",
+        "Boktryckare översätter texterna till tyska och gör dem till tunna, billiga häften.",
+        "I Europa är tryck med lösa bokstäver av metall nytt, bara ungefär sjuttio år gammalt.",
+        "En tryckpress kan nu göra mer än tusen sidor på en dag.",
+        "Inom några månader når häftena städer över hela Tyskland.",
+        "Några häften har bilder, så att människor som inte kan läsa också kan hänga med.",
+        "Snart översätter översättare Bibeln till tyska, engelska och andra vardagsspråk.",
+        "Nu kan en bonde eller en vävare höra den heliga boken på sitt eget språk.",
+        "Den gamla kyrkans ledare trycker också svar, men färre, och senare.",
+        "För första gången utkämpas ett gräl i kyrkan med tusentals billiga häften."
+      ],
+      "question": "Vilken rörelse är detta?",
+      "options": [
+        "Renässansen",
+        "Upplysningen",
+        "Den industriella revolutionen",
+        "Reformationen"
+      ],
+      "words": [
+        {
+          "word": "häfte",
+          "explanation": "en liten, tunn bok med bara några sidor"
+        },
+        {
+          "word": "tryckpress",
+          "explanation": "en maskin som trycker bläck mot papper för att göra många kopior"
+        },
+        {
+          "word": "översätta",
+          "explanation": "att säga eller skriva något igen på ett annat språk"
+        },
+        {
+          "word": "vävare",
+          "explanation": "en person som gör tyg av trådar"
+        }
+      ],
+      "main_caption": "Buntar med billiga häften lämnar staden. Snart finns de överallt.",
+      "side_caption": "Ett tunt häfte på några sidor kostar lite."
+    },
+    {
+      "title": "Varför härskarna väljer sida",
+      "text_sentences": [
+        "Rörelsen X delar kyrkan i Västeuropa för ungefär 500 år sedan.",
+        "Några härskare går med i de nya kyrkorna, och några stannar hos Rom.",
+        "Varför väljer de som de gör?",
+        "Några tror verkligen på den nya läran, men makt och pengar spelar också roll.",
+        "En härskare som bryter med Rom kan ta kyrkans mark, hus och silver.",
+        "Han kan sluta skicka pengar till Rom, och han kan välja biskoparna själv.",
+        "I Sverige tar kungen kyrkans silver och mark för att betala sina skulder.",
+        "I England vill kungen avsluta sitt äktenskap, och påven säger nej.",
+        "Så kungen gör sig själv till kyrkans överhuvud i sitt land och stänger klostren.",
+        "Härskare som stannar hos Rom har också skäl, och tron räknas även där.",
+        "Kungarna i Frankrike och Spanien väljer redan sina egna biskopar. De vinner mindre på en brytning.",
+        "Efter år av gräl och krig i Tyskland skrivs ett fördrag under. Varje furste bestämmer tron i sitt land."
+      ],
+      "question": "Vilken rörelse är detta?",
+      "options": [
+        "Reformationen",
+        "Den stora schismen",
+        "Korstågen",
+        "Upplysningen"
+      ],
+      "words": [
+        {
+          "word": "biskop",
+          "explanation": "en hög kyrklig ledare som leder alla kyrkor i ett område"
+        },
+        {
+          "word": "kloster",
+          "explanation": "ett hus där munkar bor, arbetar och ber"
+        },
+        {
+          "word": "skuld",
+          "explanation": "pengar som du är skyldig och måste betala tillbaka"
+        },
+        {
+          "word": "fördrag",
+          "explanation": "en skriftlig överenskommelse mellan härskare eller länder"
+        }
+      ],
+      "main_caption": "Kungen stänger klostret och tar dess mark. Murarna står tomma.",
+      "side_caption": "En biskop leder kyrkan i ett område. Vem väljer honom, påven eller kungen?"
+    },
+    {
+      "title": "Inte en man, utan många",
+      "text_sentences": [
+        "Rörelsen X börjar med en munk i Tyskland för ungefär 500 år sedan. Men den är inte en enda mans verk.",
+        "I Zürich predikar en präst vid namn Zwingli bara det han hittar i Bibeln.",
+        "Stadens råd håller med och tar bort bilderna och statyerna från sina kyrkor.",
+        "I Genève bygger en fransman vid namn Calvin en sträng ny kyrka med hårda regler för det dagliga livet.",
+        "Hans skola utbildar predikanter, som för hans lära till Frankrike, Nederländerna och Skottland.",
+        "Munken och Zwingli grälar om brödet och vinet i kyrkan. De sluter aldrig fred.",
+        "Mindre grupper döper bara vuxna, och båda de stora sidorna straffar dem hårt.",
+        "Den gamla kyrkan svarar också, vid ett långt möte i staden Trento.",
+        "Där uttrycker dess ledare sin tro med tydliga ord. De avskaffar också försäljningen av förlåtelsepapper för pengar.",
+        "Prästerna får bättre utbildning. Nya prästordnar öppnar skolor så långt bort som i Indien och Japan.",
+        "Var sida tror att den har den sanna tron, och historien kan inte avgöra den frågan."
+      ],
+      "question": "Vilken rörelse är detta?",
+      "options": [
+        "Motreformationen",
+        "Renässansen",
+        "Reformationen",
+        "Den stora schismen"
+      ],
+      "words": [
+        {
+          "word": "råd",
+          "explanation": "här: gruppen av män som styr en stad"
+        },
+        {
+          "word": "predikant",
+          "explanation": "en person som talar om religion inför en grupp människor"
+        },
+        {
+          "word": "döpa",
+          "explanation": "att hälla vatten på en person, eller doppa personen i vatten, för att göra honom eller henne till medlem i kyrkan"
+        },
+        {
+          "word": "orden",
+          "explanation": "här: en grupp präster eller munkar som lever efter samma regler"
+        }
+      ],
+      "main_caption": "I städer vid sjöarna bygger andra predikanter egna kyrkor.",
+      "side_caption": "En predikant förklarar Bibeln i en enkel kyrka utan bilder."
+    },
+    {
+      "title": "Tro, makt eller bröd?",
+      "text_sentences": [
+        "Rörelsen X delar kyrkan i Västeuropa på 1500-talet.",
+        "Historiker är överens om händelserna. Men de tvistar om orsaken: tro, makt eller vardagsliv?",
+        "Äldre böcker berättar historien om en modig munk i Tyskland och hans samvete.",
+        "Senare historiker tittar på furstarna och de fria städerna som använder grälet för att vinna makt.",
+        "Andra tittar på bönderna och de fattiga i städerna.",
+        "Bönder i Tyskland läser snart de nya idéerna som frihet också från sina herrar.",
+        "De gör uppror, och furstarna krossar dem. Kanske hundratusen dör, och munken tar furstarnas parti.",
+        "Krig om tro och makt följer, i Frankrike, i Nederländerna och över hela Centraleuropa.",
+        "Det största av dem varar i trettio år.",
+        "Några regioner förlorar en tredjedel av sin befolkning i strider, hunger och sjukdom.",
+        "En verkan består: de nya kyrkorna vill att varje barn ska läsa Bibeln, så byskolor sprids.",
+        "Den gamla kyrkan svarar med egna nya skolor, och läsningen växer på båda sidor."
+      ],
+      "question": "Vilken rörelse är detta?",
+      "options": [
+        "Renässansen",
+        "Upplysningen",
+        "Motreformationen",
+        "Reformationen"
+      ],
+      "words": [
+        {
+          "word": "orsak",
+          "explanation": "skälet till att något händer"
+        },
+        {
+          "word": "samvete",
+          "explanation": "den inre känslan som säger dig vad som är rätt och fel"
+        },
+        {
+          "word": "herre",
+          "explanation": "här: en mäktig man som äger marken som bönderna arbetar på"
+        },
+        {
+          "word": "region",
+          "explanation": "en del av ett land, större än en stad"
+        }
+      ],
+      "main_caption": "En byskola. Barnen lär sig läsa, så att de själva kan läsa den heliga boken.",
+      "side_caption": "Bonden ger en del av sin skörd till herren. Några hoppas att de nya idéerna ska göra slut på detta."
+    }
+  ]
+}

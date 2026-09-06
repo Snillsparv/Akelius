@@ -1,0 +1,217 @@
+{
+  "slug": "nicolaus-copernicus",
+  "person_sv": "Nicolaus Kopernikus",
+  "cards": [
+    {
+      "title": "Den tyste mannen i tornet",
+      "text_sentences": [
+        "Herr X lever för ungefär 500 år sedan, i norra Polen.",
+        "Han arbetar vid en katedral vid havet.",
+        "Han är också läkare och hjälper sjuka människor.",
+        "Han har ett litet torn i muren runt katedralen.",
+        "På natten klättrar han upp och tittar på himlen.",
+        "Han har inget teleskop, bara sina ögon och enkla redskap av trä.",
+        "På hans tid säger människor: jorden står stilla.",
+        "Solen, månen och stjärnorna går runt oss.",
+        "Herr X tänker på detta i många år.",
+        "Sedan säger han något nytt: solen står i mitten.",
+        "Jorden är en planet, och den går runt solen."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Galileo Galilei",
+        "Nicolaus Kopernikus",
+        "Isaac Newton",
+        "Leonardo da Vinci"
+      ],
+      "words": [
+        {
+          "word": "katedral",
+          "explanation": "en mycket stor och viktig kyrka"
+        },
+        {
+          "word": "teleskop",
+          "explanation": "ett rör med glas inuti som får saker långt borta att se nära ut"
+        },
+        {
+          "word": "planet",
+          "explanation": "en stor rund värld som går runt solen, som jorden"
+        }
+      ],
+      "main_caption": "På natten klättrar han upp i tornet och tittar på himlen.",
+      "side_caption": "Hans nya bild: solen i mitten, planeterna runt omkring."
+    },
+    {
+      "title": "Varför ingen känner att jorden rör sig",
+      "text_sentences": [
+        "På 1500-talet är herr X en kyrklig ämbetsman i Polen som studerar himlen.",
+        "Alla på hans tid är säkra: jorden rör sig inte.",
+        "Vi känner inte att den rör sig.",
+        "En sten faller rakt ner, och fåglarna lämnas inte kvar.",
+        "Varje natt verkar himlen vrida sig runt oss.",
+        "Men planeterna ställer till problem.",
+        "En planet rör sig framåt i månader, glider sedan bakåt, och sedan framåt igen.",
+        "De gamla böckerna förklarar detta med cirklar på cirklar.",
+        "Herr X frågar: tänk om jorden också rör sig?",
+        "Då är glidningen bakåt lätt att förklara.",
+        "Jorden kör om en långsammare planet, som en snabb löpare som passerar en långsam löpare.",
+        "En kort stund verkar den långsamma löparen gå bakåt."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Ptolemaios",
+        "Tycho Brahe",
+        "Nicolaus Kopernikus",
+        "Johannes Kepler"
+      ],
+      "words": [
+        {
+          "word": "ämbetsman",
+          "explanation": "en person med ett arbete i kyrkan eller staten"
+        },
+        {
+          "word": "köra om",
+          "explanation": "att hinna ifatt någon och passera"
+        },
+        {
+          "word": "passera",
+          "explanation": "att gå eller springa förbi"
+        }
+      ],
+      "main_caption": "Varje natt verkar himlen vrida sig runt oss.",
+      "side_caption": "Den snabba löparen kör om den långsamma. Ett ögonblick verkar den långsamma gå bakåt."
+    },
+    {
+      "title": "En bok på hans sista dag",
+      "text_sentences": [
+        "Herr X, en kyrklig ämbetsman i norra Polen, skriver en stor bok om himlen.",
+        "I den står solen i mitten, och jorden rör sig.",
+        "Han arbetar med boken i ungefär trettio år.",
+        "Han är rädd att folk ska skratta, så han trycker den inte.",
+        "En kardinal i Rom skriver och ber honom att publicera.",
+        "Sedan besöker en ung matematiker från Tyskland honom och driver på honom också.",
+        "Till slut går boken till en boktryckare i Nürnberg.",
+        "En berättelse säger: den tryckta boken når herr X den dag han dör.",
+        "Boken har ett märkligt förord utan namn.",
+        "Det säger: detta är bara ett redskap för beräkning, inte sanningen.",
+        "Herr X skriver aldrig de orden. En kyrklig lärd man i tryckstaden lägger till dem utan tillåtelse.",
+        "I årtionden tror läsarna att orden är hans."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Nicolaus Kopernikus",
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Tycho Brahe"
+      ],
+      "words": [
+        {
+          "word": "kardinal",
+          "explanation": "en mycket hög ledare i den katolska kyrkan"
+        },
+        {
+          "word": "publicera",
+          "explanation": "att trycka en text så att människor kan köpa och läsa den"
+        },
+        {
+          "word": "förord",
+          "explanation": "orden i början av en bok, före själva texten"
+        },
+        {
+          "word": "beräkning",
+          "explanation": "att arbeta med siffror för att hitta ett svar"
+        }
+      ],
+      "main_caption": "En berättelse säger: den tryckta boken når honom på hans sista dag.",
+      "side_caption": "Ett förord: orden i början av en bok. Här är det någon annan som talar."
+    },
+    {
+      "title": "En gammal idé med nya siffror",
+      "text_sentences": [
+        "Herr X från Polen sätter solen i världens mitt, på 1500-talet.",
+        "Själva idén är gammal: ungefär 1 800 år tidigare säger den grekiske tänkaren Aristarchos samma sak.",
+        "Nästan ingen följer honom.",
+        "De flesta lärda följer en annan grek, Ptolemaios, som behåller jorden i mitten.",
+        "Herr X hittar den gamla idén i grekiska och romerska böcker.",
+        "På sina handskrivna sidor nämner han Aristarchos, sedan stryker han raderna.",
+        "Han arbetar i åratal för att få idén att passa siffrorna.",
+        "Men hans system är inte enklare, och dess förutsägelser är inte bättre.",
+        "Kritiker säger: om jorden rör sig borde stjärnorna verka flytta sig.",
+        "De flyttar sig inte. Herr X svarar: stjärnorna är mycket, mycket långt borta.",
+        "Han föreslår, och han beräknar, men han kan inte bevisa.",
+        "Stjärnornas pyttelilla förflyttning mäts först ungefär trehundra år senare."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Johannes Kepler",
+        "Isaac Newton",
+        "Nicolaus Kopernikus",
+        "Tycho Brahe"
+      ],
+      "words": [
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar böcker på djupet"
+        },
+        {
+          "word": "förutsägelse",
+          "explanation": "ett påstående om vad som kommer att hända"
+        },
+        {
+          "word": "flytta sig",
+          "explanation": "att röra sig lite åt sidan"
+        },
+        {
+          "word": "bevisa",
+          "explanation": "att visa att något säkert är sant"
+        }
+      ],
+      "main_caption": "Långt före herr X tittar en grekisk tänkare på samma stjärnor.",
+      "side_caption": "Blunda med ett öga, sedan med det andra: tummen verkar flytta sig."
+    },
+    {
+      "title": "En mycket långsam revolution",
+      "text_sentences": [
+        "Herr X, en kyrklig ämbetsman i Polen, publicerar sin bok om den rörliga jorden på 1500-talet.",
+        "Var kommer hans kunskap ifrån?",
+        "Han gör få egna observationer, och havsdimma döljer ofta himlen.",
+        "Han bygger på gamla stjärnuppteckningar från grekiska och arabiska astronomer.",
+        "Några av hans matematiska verktyg stämmer med äldre verktyg från astronomer i Persien och Syrien.",
+        "Ingen vet hur de idéerna når honom.",
+        "Han tillägnar boken påven, och i årtionden gör kyrkan ingenting.",
+        "De flesta astronomer använder hans tabeller men behåller jorden i mitten.",
+        "Tycho Brahe erbjuder en medelväg: planeterna kretsar runt solen, och solen kretsar runt jorden.",
+        "Kyrkan förbjuder boken mer än sjuttio år efter hans död, och bara ”tills den rättas”.",
+        "Långt senare kallar historiker hans idé en revolution.",
+        "Ordet i hans egen boktitel betyder bara detta: ett varv runt."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Giordano Bruno",
+        "Nicolaus Kopernikus"
+      ],
+      "words": [
+        {
+          "word": "observation",
+          "explanation": "att titta noga på något och skriva ner vad man ser"
+        },
+        {
+          "word": "tillägna",
+          "explanation": "att skriva en bok till en persons ära, och säga det i början"
+        },
+        {
+          "word": "förbjuda",
+          "explanation": "att säga att något inte är tillåtet"
+        },
+        {
+          "word": "revolution",
+          "explanation": "en stor förändring i hur människor tänker eller lever; ordet betyder också ett helt varv"
+        }
+      ],
+      "main_caption": "I årtionden läser de lärda boken men behåller jorden i mitten.",
+      "side_caption": "Ett helt varv på ett hjul: det är allt hans titelord betyder."
+    }
+  ]
+}

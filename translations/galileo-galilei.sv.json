@@ -1,0 +1,218 @@
+{
+  "slug": "galileo-galilei",
+  "person_sv": "Galileo Galilei",
+  "cards": [
+    {
+      "title": "Fyra små ljus bredvid Jupiter",
+      "text_sentences": [
+        "Herr X lever i Italien för ungefär fyrahundra år sedan.",
+        "Han undervisar i matematik vid ett universitet.",
+        "En dag hör han talas om ett nytt redskap från Nederländerna.",
+        "Det är ett rör med två linser av glas.",
+        "Saker långt borta ser nära ut genom det.",
+        "Herr X uppfinner det inte, men han bygger ett mycket bättre.",
+        "Han visar det för Venedigs ledare från ett högt torn.",
+        "De ser skepp långt ute till havs, långt före andra människor.",
+        "Sedan riktar han sitt rör mot natthimlen.",
+        "Bredvid planeten Jupiter ser han fyra små ljus.",
+        "Natt efter natt rör sig ljusen runt Jupiter.",
+        "Så allt på himlen går inte runt jorden!"
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Kopernikus",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Leonardo da Vinci"
+      ],
+      "words": [
+        {
+          "word": "lins",
+          "explanation": "en rund bit glas som får saker att se större eller närmare ut"
+        },
+        {
+          "word": "uppfinna",
+          "explanation": "att göra en ny sak som ingen har gjort förut"
+        },
+        {
+          "word": "planet",
+          "explanation": "ett stort klot i rymden som går runt solen, som jorden"
+        }
+      ],
+      "main_caption": "På natten riktar herr X sitt rör mot himlen.",
+      "side_caption": "Fyra små ljus bredvid Jupiter. Natt efter natt rör de sig."
+    },
+    {
+      "title": "Kulan, rampen och vattenklockan",
+      "text_sentences": [
+        "Herr X undervisar i matematik i Italien, för ungefär fyrahundra år sedan.",
+        "I nästan tvåtusen år litar lärare på en gammal grekisk bok.",
+        "Boken säger: tunga saker faller fortare än lätta saker.",
+        "Herr X säger: lita inte bara på boken, titta och mät!",
+        "En berömd berättelse säger: han släpper två kulor från ett högt torn.",
+        "Historiker är inte säkra på att berättelsen är sann.",
+        "Men vi vet att han rullar kulor nerför en lång ramp av trä.",
+        "Rampen gör fallet långsamt, så han kan mäta tiden.",
+        "Han mäter med vatten som droppar ner i en kopp.",
+        "Han hittar en regel: på dubbla tiden kommer kulan fyra gånger så långt.",
+        "Han studerar också en hängande vikt, en pendel, och dess svängning.",
+        "Stor svängning eller liten svängning, varje svängning tar ungefär lika lång tid."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Galileo Galilei",
+        "Aristoteles",
+        "Isaac Newton",
+        "Leonardo da Vinci"
+      ],
+      "words": [
+        {
+          "word": "mäta",
+          "explanation": "att ta reda på hur långt, hur tungt eller hur snabbt något är"
+        },
+        {
+          "word": "ramp",
+          "explanation": "en platt bräda som lutar uppåt på ena sidan, som en liten backe"
+        },
+        {
+          "word": "pendel",
+          "explanation": "en vikt som hänger i ett snöre och svänger från sida till sida"
+        }
+      ],
+      "main_caption": "En kula rullar nerför rampen. Droppande vatten mäter tiden.",
+      "side_caption": "En lampa i en lång kedja svänger som en pendel."
+    },
+    {
+      "title": "Himlen är inte perfekt",
+      "text_sentences": [
+        "Herr X är en italiensk astronom med ett nytt, starkt teleskop.",
+        "Gamla böcker lär: allt på himlen är perfekt och slätt.",
+        "Herr X tittar på månen och ser berg och dalar.",
+        "Från deras skuggor mäter han till och med hur höga de är.",
+        "Han ser också mörka fläckar på solen, och de rör sig över den.",
+        "Sedan iakttar han planeten Venus i månader.",
+        "Venus visar faser som månen, från tunn skära till nästan full.",
+        "När Venus är full ser den liten ut och långt borta.",
+        "I den gamla bilden av himlen kan Venus aldrig se full ut.",
+        "Så Venus måste gå runt solen, inte runt jorden.",
+        "Detta bevisar ännu inte att jorden också rör sig.",
+        "Men de gamla böckernas perfekta himmel är borta."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Johannes Kepler",
+        "Tycho Brahe",
+        "Kopernikus",
+        "Galileo Galilei"
+      ],
+      "words": [
+        {
+          "word": "astronom",
+          "explanation": "en vetenskapsman som studerar stjärnorna och planeterna"
+        },
+        {
+          "word": "fas",
+          "explanation": "formen på den upplysta delen av månen eller en planet, som vi ser den"
+        },
+        {
+          "word": "skära",
+          "explanation": "en tunn böjd form, som den unga månen"
+        },
+        {
+          "word": "bevisa",
+          "explanation": "att visa med fakta att något är sant"
+        }
+      ],
+      "main_caption": "Månen är inte slät. Dess berg kastar långa skuggor.",
+      "side_caption": "Stor tunn skära, liten full skiva: Venus går runt solen."
+    },
+    {
+      "title": "En gammal man knäböjer i Rom",
+      "text_sentences": [
+        "Herr X är en berömd astronom i Italien, nästan sjuttio år gammal.",
+        "Nittio år tidigare skriver en astronom från norr: jorden går runt solen.",
+        "Kyrkan säger: detta strider mot Bibeln, så herr X får inte försvara det.",
+        "Men nu skriver han en stor bok, och i den vinner idén.",
+        "Påven kallar honom till Rom, till en kyrklig domstol.",
+        "I veckor förhör domarna honom.",
+        "En annan tänkare bränns i Rom flera år tidigare, för sina idéer om Gud, men herr X torteras inte och bränns inte.",
+        "Ändå måste han knäböja och säga: jag ger upp denna idé.",
+        "En senare berättelse säger: han viskar, och ändå rör den sig.",
+        "Historiker hittar inga bevis för de orden.",
+        "Domstolen förbjuder hans bok och sätter honom i husarrest på livstid.",
+        "Där, på väg att bli blind, skriver han ändå en ny bok om hur saker rör sig."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Giordano Bruno",
+        "Kopernikus",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "words": [
+        {
+          "word": "domstol",
+          "explanation": "platsen där domare avgör om en person har gjort något fel"
+        },
+        {
+          "word": "tortera",
+          "explanation": "att skada en person med avsikt för att få honom att tala eller lyda"
+        },
+        {
+          "word": "knäböja",
+          "explanation": "att gå ner på knä"
+        },
+        {
+          "word": "husarrest",
+          "explanation": "ett straff: du måste stanna i ditt eget hem och får inte gå ut"
+        }
+      ],
+      "main_caption": "En gammal man knäböjer inför domstolen och ger upp sin idé.",
+      "side_caption": "Husarrest: han får inte lämna sin villa nära Florens."
+    },
+    {
+      "title": "Mer än kyrkan mot vetenskapen",
+      "text_sentences": [
+        "Herr X är en italiensk astronom som lever för ungefär fyrahundra år sedan.",
+        "Senare författare berättar hans historia som ett krig: kyrkan mot vetenskapen.",
+        "Historiker i dag säger: titta närmare, det är inte så enkelt.",
+        "Hans första motståndare är professorer vid universiteten, inte präster.",
+        "De försvarar den gamla grekiska synen, och några vägrar till och med att titta genom hans teleskop.",
+        "Kyrkans astronomer i Rom kontrollerar hans upptäckter och bekräftar dem.",
+        "Påven själv beundrar honom och tillåter hans stora bok, ett samtal mellan tre män.",
+        "Den enfaldige av dem försvarar den gamla synen, med påvens eget favoritargument.",
+        "Påven känner sig hånad, och vänskapen slutar i en rättegång.",
+        "Herr X har rätt om planeterna, men hans huvudbevis, från tidvattnet, är fel.",
+        "Mer än 350 år efter rättegången säger kyrkan tydligt: domarna på den tiden gör misstag.",
+        "Makten kan förbjuda en bok, men inte bevisen."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Kopernikus",
+        "Charles Darwin",
+        "Galileo Galilei",
+        "Johannes Kepler"
+      ],
+      "words": [
+        {
+          "word": "motståndare",
+          "explanation": "en person som är emot dig i en strid eller en debatt"
+        },
+        {
+          "word": "håna",
+          "explanation": "att skratta åt en person på ett elakt sätt"
+        },
+        {
+          "word": "tidvatten",
+          "explanation": "havet som stiger och sjunker längs kusten, två gånger om dagen"
+        },
+        {
+          "word": "bevis",
+          "explanation": "fakta som visar vad som är sant"
+        }
+      ],
+      "main_caption": "Några professorer vägrar ens att titta genom röret.",
+      "side_caption": "Hans bok är ett samtal mellan tre män. En av dem ser enfaldig ut."
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "slug": "martin-luther",
+  "person_sv": "Martin Luther",
+  "cards": [
+    {
+      "title": "Munken som är rädd för Gud",
+      "text_sentences": [
+        "Broder X lever i Tyskland, för ungefär 500 år sedan.",
+        "Som ung man studerar han för att bli jurist.",
+        "En dag överraskar ett åskväder honom på en öppen väg.",
+        "Blixten slår ner nära, och han blir mycket rädd.",
+        "I sin rädsla ropar han till ett helgon: hjälp mig, så blir jag munk.",
+        "Han håller sitt löfte och går in i ett kloster.",
+        "Där ber han, han arbetar, och han fastar.",
+        "Men han känner sig fortfarande rädd för Gud.",
+        "Jag kan aldrig bli god nog, tänker han.",
+        "Sedan läser han ett gammalt brev i Bibeln, om och om igen.",
+        "Han hittar en ny idé där: Guds förlåtelse är en fri gåva, tror han.",
+        "Ingen kan förtjäna den, och ingen kan köpa den. Denna idé ska snart dela kyrkan i Europa."
+      ],
+      "question": "Vem är broder X?",
+      "options": [
+        "Johannes Gutenberg",
+        "Martin Luther",
+        "Jean Calvin",
+        "Ignatius av Loyola"
+      ],
+      "words": [
+        {
+          "word": "jurist",
+          "explanation": "en person som kan lagen och hjälper människor i domstol"
+        },
+        {
+          "word": "helgon",
+          "explanation": "en helig person; några kristna ber helgon om hjälp"
+        },
+        {
+          "word": "kloster",
+          "explanation": "ett hus där munkar bor, ber och arbetar"
+        },
+        {
+          "word": "fasta",
+          "explanation": "här: att inte äta någon mat under en tid, för Gud"
+        }
+      ],
+      "main_caption": "En ung munk ber ensam. Han är rädd att han inte är god nog.",
+      "side_caption": "Blixten slår ner nära. I sin rädsla ger den unge resenären ett löfte."
+    },
+    {
+      "title": "Nittiofem punkter mot en försäljning",
+      "text_sentences": [
+        "Herr X är munk och lärare i Wittenberg i Tyskland, för ungefär 500 år sedan.",
+        "En predikant kommer till trakten och säljer förlåtelsebrev från kyrkan.",
+        "Kyrkan kallar dessa brev avlatsbrev.",
+        "Köp ett brev, säger predikanten, så är straffet för dina synder borta.",
+        "En del av pengarna hjälper till att bygga en stor ny kyrka i Rom.",
+        "Herr X är arg: förlåtelse är inte till salu, tror han.",
+        "Han skriver nittiofem korta punkter mot försäljningen, på latin, för en debatt.",
+        "Han skickar dem i ett brev till ärkebiskopen.",
+        "En berättelse säger att han också spikar upp dem på kyrkdörren.",
+        "Historiker är inte säkra på att berättelsen om dörren är sann.",
+        "Boktryckare kopierar punkterna, och vänner översätter dem till tyska.",
+        "Inom några månader läser människor dem över hela Tyskland."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Jan Hus",
+        "Erasmus",
+        "Martin Luther",
+        "Jean Calvin"
+      ],
+      "words": [
+        {
+          "word": "latin",
+          "explanation": "romarnas gamla språk, som kyrkan använder"
+        },
+        {
+          "word": "avlatsbrev",
+          "explanation": "ett brev från kyrkan; kyrkan lär att det tar bort straff för synder"
+        },
+        {
+          "word": "synd",
+          "explanation": "en dålig handling mot Guds regler, i en religion"
+        },
+        {
+          "word": "ärkebiskop",
+          "explanation": "en hög ledare i kyrkan över ett stort område"
+        }
+      ],
+      "main_caption": "En berättelse säger: ett papper hänger på kyrkdörren, och människor stannar för att titta.",
+      "side_caption": "Ett mynt i kistan, ett förlåtelsebrev i handen."
+    },
+    {
+      "title": "Jag kan inte ta tillbaka det",
+      "text_sentences": [
+        "Herr X är en munk från Wittenberg som skriver mot försäljningen av förlåtelsebrev.",
+        "Hans böcker sprids snabbt, och påven kastar ut honom ur kyrkan.",
+        "För ungefär 500 år sedan kallar den unge kejsaren honom till staden Worms.",
+        "Furstar, biskopar och kejsaren väntar på honom i en stor sal.",
+        "- Tar du tillbaka det du har skrivit? frågar de.",
+        "Han ber om en dag att tänka.",
+        "Nästa dag svarar han: nej, om inte Bibeln eller klart förnuft bevisar att han har fel.",
+        "De första tryckta rapporterna lägger till en berömd rad: här står jag, jag kan inte annat.",
+        "Den finns inte i det officiella protokollet, så historiker tvivlar på den.",
+        "På vägen hem för maskerade ryttare bort honom.",
+        "En vänligt sinnad furste gömmer honom i en borg, med ett nytt namn och skägg.",
+        "Snart förklarar kejsaren honom fredlös: vem som helst får nu döda honom utan straff."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Martin Luther",
+        "Jan Hus",
+        "Thomas More",
+        "Jean Calvin"
+      ],
+      "words": [
+        {
+          "word": "kejsare",
+          "explanation": "en härskare över många länder och många furstar"
+        },
+        {
+          "word": "ta tillbaka",
+          "explanation": "att säga att ens egna ord var fel"
+        },
+        {
+          "word": "fredlös",
+          "explanation": "en person utanför lagen; ingen straffas för att skada honom"
+        },
+        {
+          "word": "furste",
+          "explanation": "härskaren över ett land inom riket"
+        }
+      ],
+      "main_caption": "En munk står ensam inför kejsaren och furstarna.",
+      "side_caption": "En fredlös gömmer sig i en borg högt över skogen."
+    },
+    {
+      "title": "En bibel för mamman i huset",
+      "text_sentences": [
+        "Herr X är en tysk munk och lärare, för ungefär 500 år sedan.",
+        "I kyrkan läses Bibeln på latin, ett språk som få människor kan.",
+        "Gömd i en borg börjar herr X översätta.",
+        "Han arbetar från den gamla grekiska texten, inte från kyrkans latin.",
+        "Han vill ha ord som en mamma i huset och ett barn på gatan kan förstå.",
+        "På ungefär elva veckor är Nya testamentet klart på tyska.",
+        "Boktryckare säljer det i tusental och trycker det om och om igen.",
+        "Tyskan har många dialekter, och hans bok hjälper till att forma en gemensam skriven tyska.",
+        "Han ber städerna att öppna skolor för flickor och pojkar, så att alla kan läsa den.",
+        "Kyrkans ledare i Rom säger: kyrkan måste vägleda läsningen.",
+        "Herr X säger: varje troende kan läsa och bedöma själv.",
+        "Var sida tror att den har rätt, och frågan delar kyrkor än i dag."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Erasmus",
+        "Johannes Gutenberg",
+        "William Tyndale",
+        "Martin Luther"
+      ],
+      "words": [
+        {
+          "word": "latin",
+          "explanation": "det gamla språket i Rom; kyrkan använder det i århundraden"
+        },
+        {
+          "word": "översätta",
+          "explanation": "att föra över en text från ett språk till ett annat"
+        },
+        {
+          "word": "Nya testamentet",
+          "explanation": "andra delen av den kristna Bibeln; den berättar om Jesus och hans anhängare"
+        },
+        {
+          "word": "dialekt",
+          "explanation": "sättet ett språk talas på i ett visst område"
+        }
+      ],
+      "main_caption": "I ett stilla rum i borgen överför en man en gammal bok till vardagsord.",
+      "side_caption": "Nu kan en mamma läsa boken hemma, på sitt eget språk."
+    },
+    {
+      "title": "Hundra band och en mörk sida",
+      "text_sentences": [
+        "Herr X är en tysk munk vars gräl med Rom delar den västliga kyrkan, för ungefär 500 år sedan.",
+        "Få människor från hans tid lämnar så många källor.",
+        "Hans samlade verk fyller mer än hundra tjocka band.",
+        "Mer än tvåtusen av hans brev finns bevarade.",
+        "Studenter skriver till och med ner hans prat vid middagsbordet.",
+        "Men de skriver i hast eller ur minnet, och senare utgivare ändrar orden, så historiker läser dem med försiktighet.",
+        "Till och med den berömda berättelsen om kyrkdörren vilar på två sena rapporter, skrivna årtionden efter händelsen.",
+        "Hans arv är också delat.",
+        "På sin ålderdom skriver han böcker fulla av hat mot judar.",
+        "Århundraden senare använder andra dessa böcker för sitt eget hat, och historiker studerar hur.",
+        "Kyrkor som följer hans lära i dag tar avstånd från dessa ord.",
+        "I vårt eget århundrade ber påven tillsammans med ledare för dessa kyrkor, i Sverige."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Jean Calvin",
+        "Jan Hus",
+        "Ulrich Zwingli",
+        "Martin Luther"
+      ],
+      "words": [
+        {
+          "word": "källa",
+          "explanation": "en text eller sak från det förflutna som ger oss kunskap"
+        },
+        {
+          "word": "band",
+          "explanation": "en bok i en lång rad böcker som hör ihop"
+        },
+        {
+          "word": "arv",
+          "explanation": "det en person lämnar efter sig till senare tider, gott och ont"
+        },
+        {
+          "word": "ta avstånd från",
+          "explanation": "att säga tydligt: detta är fel, vi accepterar det inte"
+        }
+      ],
+      "main_caption": "En mans ord fyller en hel vägg av böcker.",
+      "side_caption": "Femhundra år senare går ledare för båda kyrkorna in tillsammans."
+    }
+  ]
+}

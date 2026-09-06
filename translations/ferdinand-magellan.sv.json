@@ -1,0 +1,225 @@
+{
+  "slug": "ferdinand-magellan",
+  "person_sv": "Ferdinand Magellan",
+  "cards": [
+    {
+      "title": "Fem skepp och ett stilla nytt hav",
+      "text_sentences": [
+        "Kapten X lever för ungefär 500 år sedan.",
+        "Han kommer från Portugal, men han seglar för Spaniens kung.",
+        "Kungen ger honom fem skepp av trä och ungefär 270 man.",
+        "Kapten X vill segla västerut, ända till Kryddöarna i Asien.",
+        "Skeppen korsar havet och följer Sydamerikas kust.",
+        "De seglar söderut i många månader, och vädret blir kallt.",
+        "På stranden ser sjömännen pingviner och stora sjölejon.",
+        "Långt i söder hittar de ett sund, en smal vattenväg genom landet.",
+        "På natten ser de eldar på stranden, och senare får det landet namnet Eldslandet.",
+        "Bara tre skepp kommer ut ur sundet. Ett väldigt nytt hav öppnar sig framför dem.",
+        "Vattnet är lugnt, så kapten X ger havet ett namn som betyder fridfullt och stilla.",
+        "Vi använder det namnet än i dag."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Christofer Columbus",
+        "Vasco da Gama",
+        "Ferdinand Magellan",
+        "Francis Drake"
+      ],
+      "words": [
+        {
+          "word": "sund",
+          "explanation": "en smal remsa av vatten mellan två landområden"
+        },
+        {
+          "word": "krydda",
+          "explanation": "en torkad växtdel som ger maten stark smak, som peppar"
+        },
+        {
+          "word": "stilla",
+          "explanation": "lugnt och tyst, utan vind eller stora vågor"
+        },
+        {
+          "word": "pingvin",
+          "explanation": "en svartvit sjöfågel som simmar men inte kan flyga"
+        }
+      ],
+      "main_caption": "Skepp i ett smalt sund, långt i den kalla södern.",
+      "side_caption": "Pingviner på den kalla stranden i söder. Sjömännen har aldrig sett sådana fåglar."
+    },
+    {
+      "title": "Havet som ingen kan mäta",
+      "text_sentences": [
+        "För ungefär 500 år sedan seglar kapten X för Spanien runt Amerikas södra spets, in i ett nytt hav.",
+        "Han tror att öarna med kryddnejlikor och muskot ligger bara några veckor längre västerut.",
+        "Ingen i Europa vet hur brett detta hav är.",
+        "Kapten X seglar västerut i mer än tre månader utan någon ny mat.",
+        "Skeppets bröd blir till pulver fullt av maskar.",
+        "Dricksvattnet blir gult och luktar illa.",
+        "Männen äter läder från skeppets rep och rår, och de jagar till och med råttor.",
+        "Sedan kommer skörbjuggen: tandköttet svullnar och tänderna faller ut.",
+        "Ungefär tjugo man dör av den. Ingen vet ännu att färsk frukt stoppar denna sjukdom.",
+        "Under alla dessa veckor ser sjömännen bara två små tomma öar.",
+        "De har korsat ett hav som täcker ungefär en tredjedel av jorden."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "James Cook",
+        "Ferdinand Magellan",
+        "Christofer Columbus",
+        "Francis Drake"
+      ],
+      "words": [
+        {
+          "word": "kryddnejlika",
+          "explanation": "en krydda, den torkade blomknoppen från ett träd"
+        },
+        {
+          "word": "rå",
+          "explanation": "en stång tvärs över masten som seglet hänger i"
+        },
+        {
+          "word": "skörbjugg",
+          "explanation": "en sjukdom som kommer av för lite färsk mat"
+        },
+        {
+          "word": "tandkött",
+          "explanation": "det mjuka rosa köttet runt tänderna"
+        }
+      ],
+      "main_caption": "Vecka efter vecka, bara vatten. Ingen vet hur långt det är.",
+      "side_caption": "Sedd från den här sidan är jorden nästan bara vatten."
+    },
+    {
+      "title": "Hövdingen som säger nej",
+      "text_sentences": [
+        "För ungefär 500 år sedan når tre skepp från Spanien öarna som vi i dag kallar Filippinerna.",
+        "Deras ledare, kapten X, seglar för Spaniens kung.",
+        "Människorna här har egna härskare och handlar med Kina.",
+        "Härskaren på Cebu välkomnar främlingarna och sluter en vänskapspakt med kapten X.",
+        "Han och hundratals av hans folk tar emot sjömännens religion.",
+        "Kapten X kräver nu att hövdingarna i närheten ska lyda Cebu och Spaniens kung.",
+        "På den lilla ön Mactan vägrar hövdingen Lapulapu.",
+        "Han är en rival till Cebu. Han tänker inte böja sig för en kung på andra sidan havet.",
+        "I gryningen anfaller kapten X Mactan med ungefär sextio män i rustning.",
+        "Vattnet är grunt, så båtarna och skeppens kanoner stannar långt från stranden.",
+        "Långt fler än sextio krigare möter sjömännen i vattnet, och kapten X dödas.",
+        "Skeppen seglar vidare utan honom. I Filippinerna i dag är Lapulapu en nationalhjälte."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "James Cook",
+        "Christofer Columbus",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "words": [
+        {
+          "word": "hövding",
+          "explanation": "ledaren för en by eller ett folk"
+        },
+        {
+          "word": "pakt",
+          "explanation": "ett löfte mellan två sidor att hjälpa varandra"
+        },
+        {
+          "word": "grunt",
+          "explanation": "inte djupt"
+        },
+        {
+          "word": "krigare",
+          "explanation": "en person som strider för sitt folk"
+        }
+      ],
+      "main_caption": "Öns hövding böjer sig inte. Hans krigare väntar i det grunda vattnet.",
+      "side_caption": "En staty av hövdingen som försvarar sin ö. I dag är han en nationalhjälte."
+    },
+    {
+      "title": "Tolken från Malacka",
+      "text_sentences": [
+        "Långt före sin berömda sjöresa är kapten X soldat för Portugal i Asien.",
+        "I hamnstaden Malacka tar han en ung man som slav och kallar honom Enrique.",
+        "Enrique talar malajiska, handelsspråket på haven i Sydostasien.",
+        "Kapten X tar honom med till Europa, och senare västerut över två hav som sin tolk.",
+        "Efter månader till sjöss når skeppen öar öster om Malacka.",
+        "Enrique talar till öborna, och de förstår honom.",
+        "Sedan dör kapten X i en strid på en av öarna.",
+        "Hans testamente säger att Enrique nu är fri, men de nya ledarna vägrar släppa honom.",
+        "Snart vänder sig härskaren på Cebu mot sjömännen. Mer än tjugo av dem dödas vid ett gästabud.",
+        "Sjömännen skyller på Enrique, men ingen vet sanningen, och källorna nämner honom aldrig mer.",
+        "Några säger att Enrique är den första människan som färdas runt jorden, tillbaka till sitt eget språk.",
+        "Andra säger: inte riktigt, för han når aldrig själva Malacka."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "Christofer Columbus",
+        "Amerigo Vespucci"
+      ],
+      "words": [
+        {
+          "word": "slav",
+          "explanation": "en person som ägs av en annan person och inte är fri"
+        },
+        {
+          "word": "tolk",
+          "explanation": "en person som överför ord från ett språk till ett annat"
+        },
+        {
+          "word": "testamente",
+          "explanation": "ett papper som säger vad som ska hända med en persons saker efter döden"
+        },
+        {
+          "word": "gästabud",
+          "explanation": "en stor måltid för många människor"
+        }
+      ],
+      "main_caption": "En man på skeppet talar öarnas språk.",
+      "side_caption": "Många öar, många språk, och ett handelsspråk till sjöss."
+    },
+    {
+      "title": "Arton man och en förlorad dag",
+      "text_sentences": [
+        "För ungefär 500 år sedan lämnar fem skepp Spanien under kapten X för att nå Kryddöarna från väster.",
+        "Tre år senare kommer ett skepp tillbaka med arton man av ungefär 270, och kapten X är inte bland dem.",
+        "Hur känner vi till historien? En ung italiensk adelsman, Antonio Pigafetta, följer med för att se världen och för dagbok genom hela resan.",
+        "Originalet är försvunnet. Vi läser den i fyra senare handskrivna kopior.",
+        "En styrmans loggbok och lönelistor i arkiven i Sevilla fyller luckorna.",
+        "Pigafetta noterar en gåta på slutet: sjömännen har förlorat en dag.",
+        "De räknar varje dag noga, men i den första hamnen på vägen hem säger dagboken onsdag, och det är torsdag.",
+        "När de seglar västerut med solen har de sett en soluppgång färre än människorna där hemma.",
+        "I dag löser datumlinjen mitt i havet denna gåta.",
+        "Så vem är den förste som färdas runt jorden? På en enda resa är det den siste kaptenen, Elcano, med sjutton man.",
+        "Som ung soldat når kapten X dessa hav genom att segla österut, till Malacka. Som kapten når han öar lite längre österut genom att segla västerut.",
+        "Om han någonsin seglar den sista biten säger ingen källa."
+      ],
+      "question": "Vem är kapten X?",
+      "options": [
+        "Francis Drake",
+        "Ferdinand Magellan",
+        "Christofer Columbus",
+        "James Cook"
+      ],
+      "words": [
+        {
+          "word": "adelsman",
+          "explanation": "en man av fin familj som inte behöver arbeta med händerna"
+        },
+        {
+          "word": "dagbok",
+          "explanation": "en bok där en person skriver vad som händer varje dag"
+        },
+        {
+          "word": "styrman",
+          "explanation": "sjömannen som leder skeppet på dess kurs"
+        },
+        {
+          "word": "arkiv",
+          "explanation": "en plats där gamla papper förvaras och skyddas"
+        }
+      ],
+      "main_caption": "Efter tre år kommer ett skepp hem.",
+      "side_caption": "En sida ur en kopia av dagboken. Originalet är försvunnet."
+    }
+  ]
+}
