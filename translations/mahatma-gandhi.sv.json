@@ -7,16 +7,16 @@
       "text_sentences": [
         "Herr X bor i Indien, där brittiska härskare styr.",
         "En gammal lag säger att bara härskarna får tillverka och sälja salt.",
-        "Salt kommer gratis från havet, men människor måste betala en skatt.",
-        "Herr X säger att lagen är orättvis mot fattiga människor.",
-        "1930 börjar han vandra från sitt hem mot kusten.",
+        "Salt finns gratis i havet, men människor måste betala en skatt.",
+        "Herr X säger att den lagen är orättvis mot fattiga människor.",
+        "År 1930 börjar han vandra från sitt hem mot kusten.",
         "Varje dag längs vägen ansluter sig fler människor till honom.",
-        "Vandringen tar omkring tjugofyra dagar totalt.",
-        "Han och hans anhängare vandrar nästan fyra hundra kilometer.",
+        "Vandringen tar sammanlagt omkring tjugofyra dagar.",
+        "Han och hans anhängare vandrar nästan fyrahundra kilometer.",
         "Vid havsstranden böjer sig herr X ner mot vattnet.",
         "Han plockar upp en liten handfull naturligt salt.",
         "Med denna stilla handling bryter han mot skattelagen.",
-        "Polisen arresterar tiotusentals av hans anhängare, men de gör inte motstånd."
+        "Polisen arresterar tiotusentals av hans anhängare, men de slår inte tillbaka."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -32,19 +32,19 @@
         },
         {
           "word": "kust",
-          "explanation": "landet nära havet"
+          "explanation": "landet närmast havet"
         },
         {
           "word": "anhängare",
-          "explanation": "människor som ansluter sig till och stödjer en ledare"
+          "explanation": "människor som följer och stödjer en ledare"
         },
         {
           "word": "arrestera",
-          "explanation": "när polisen tar med sig en person och inte låter personen gå fri"
+          "explanation": "när polisen för bort en person och inte släpper personen fri"
         }
       ],
-      "main_caption": "Dag för dag blir folkmassan som vandrar mot havet längre.",
-      "side_caption": "En handfull salt från havet, tagen inför alla."
+      "main_caption": "Dag för dag blir skaran som vandrar mot havet längre.",
+      "side_caption": "En handfull salt från havet, plockad inför allas ögon."
     },
     {
       "title": "En kamp utan vapen",
@@ -53,13 +53,13 @@
         "Han tror att människor kan bekämpa orättvisor utan några vapen.",
         "Han kallar denna metod satyagraha, eller att hålla fast vid sanningen.",
         "I stället för att köpa brittiskt tyg ber han människor att spinna sitt eget.",
-        "Han sitter ofta och spinner bomullstråd på en enkel träspinnrock.",
+        "Han sitter ofta och spinner bomullstråd på en enkel spinnrock av trä.",
         "Hemvävt tyg blir en stilla symbol för självständighet.",
-        "Brittiska härskare skickar upprepade gånger herr X i fängelse för hans protester.",
-        "Totalt tillbringar han omkring sex år av sitt liv i fängelse.",
+        "De brittiska härskarna sätter gång på gång herr X i fängelse för hans protester.",
+        "Sammanlagt tillbringar han omkring sex år av sitt liv i fängelse.",
         "Ibland vägrar han all mat som en form av protest.",
         "Han kallar dessa fastor en vädjan till människors samvete.",
-        "Sakta växer en liten rörelse till en som omfattar miljoner."
+        "Sakta växer en liten rörelse till en rörelse som omfattar miljoner."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -87,21 +87,21 @@
         }
       ],
       "main_caption": "Att spinna tråd för hand blir en stilla protesthandling.",
-      "side_caption": "För sina protester tillbringar han år inlåst bakom murar som dessa."
+      "side_caption": "För sina protester sitter han i åratal inlåst bakom murar som dessa."
     },
     {
-      "title": "Kastad ur tåget",
+      "title": "Kastad av tåget",
       "text_sentences": [
         "Herr X studerar juridik i London, för mer än hundra år sedan.",
-        "Efter sina studier tar han arbete i Sydafrika.",
+        "Efter studierna tar han arbete i Sydafrika.",
         "Där behandlar lagarna människor olika på grund av deras hudfärg.",
         "En natt sitter han i en tågvagn i första klass med en giltig biljett.",
         "En tjänsteman beordrar honom att lämna tåget på grund av hans hudfärg.",
-        "Han vägrar att flytta sig, och vakter kastar ut honom ur tåget.",
+        "Han vägrar att flytta sig, och vakter kastar honom av tåget.",
         "Frusen och arg på den tomma perrongen bestämmer han sig för att agera.",
-        "Under de kommande tjugoett åren bygger han upp en metod för fredligt motstånd.",
+        "Under de följande tjugoett åren bygger han upp en metod för fredligt motstånd.",
         "Han organiserar indier i Sydafrika för att göra motstånd mot orättvisa lagar utan våld.",
-        "Historiker påpekar att hans tidiga skrifter delar den tidens fördomar mot afrikaner.",
+        "Historiker påpekar att hans tidiga skrifter där delar sin tids fördomar mot afrikaner.",
         "Först senare växer hans tänkande till att omfatta alla människor."
       ],
       "question": "Vem är herr X?",
@@ -129,23 +129,23 @@
           "explanation": "en orättvis åsikt om människor, ofta baserad på gruppen de tillhör"
         }
       ],
-      "main_caption": "Utkastad från tåget på natten bestämmer han sig för att agera.",
-      "side_caption": "Han lär ut en ny idé: bryt mot orättvisa lagar öppet, och slåss aldrig tillbaka."
+      "main_caption": "Kastad av tåget mitt i natten bestämmer han sig för att agera.",
+      "side_caption": "Han lär ut en ny idé: bryt mot orättvisa lagar öppet, och slå aldrig tillbaka."
     },
     {
       "title": "Ett land delas i två",
       "text_sentences": [
-        "1947 blir herr X:s hemland äntligen självständigt.",
+        "År 1947 blir herr X:s hemland äntligen självständigt.",
         "Brittiska härskare och indiska ledare delar också landet i två nya länder.",
         "Miljontals hinduer, muslimer och sikher måste plötsligt flytta.",
         "Våld bryter ut mellan grannar med olika tro.",
-        "Uppskattningar säger att hundratusentals människor, kanske betydligt fler, dödas.",
-        "Herr X är förkrossad av våld som han har försökt förhindra.",
+        "Enligt uppskattningar dödas hundratusentals människor, kanske många fler.",
+        "Herr X är förkrossad över våld som han har försökt förhindra.",
         "I huvudstaden vägrar han all mat för att få dödandet att upphöra.",
         "Hans fasta fungerar: hindu- och sikhledare lovar att skydda sina muslimska grannar.",
-        "Alla välkomnar inte hans budskap om vänskap mellan människor av olika tro.",
+        "Inte alla välkomnar hans budskap om vänskap mellan människor av olika tro.",
         "Tolv dagar senare skjuter en hindunationalist ihjäl honom.",
-        "Gärningsmannen tror att herr X är alltför vänlig mot muslimer.",
+        "Skytten anser att herr X är för vänlig mot muslimer.",
         "Hans död chockar den unga nationen."
       ],
       "question": "Vem är herr X?",
@@ -173,24 +173,24 @@
           "explanation": "en person med mycket stark stolthet över en nation, ibland riktad mot andra grupper"
         }
       ],
-      "main_caption": "1947 korsar miljoner den nya gränsen mellan två länder.",
+      "main_caption": "År 1947 korsar miljoner människor den nya gränsen mellan två länder.",
       "side_caption": "Han vägrar mat och ber: snälla, låt dödandet upphöra."
     },
     {
-      "title": "Debatter som lever vidare efter honom",
+      "title": "Debatter som överlever honom",
       "text_sentences": [
-        "Herr X blir en av de mest studerade ledarna under nittonhundratalet.",
-        "Alla i Indien håller inte med om hans metoder eller hans idéer.",
+        "Herr X blir en av nittonhundratalets mest studerade ledare.",
+        "Inte alla i Indien håller med om hans metoder eller hans idéer.",
         "B. R. Ambedkar är en ledare för daliterna, de människor som kastsystemet placerar lägst.",
-        "Han säger att herr X försvarar systemet och gör för lite mot diskriminering på grund av kast.",
-        "Ambedkar vill ha starkt rättsligt skydd, inte bara en ändrad hållning.",
+        "Han säger att herr X försvarar kastordningen och gör för lite mot kastdiskriminering.",
+        "Ambedkar vill ha starkt rättsligt skydd, inte bara ett förändrat sinnelag.",
         "Andra ledare tycker att fredlig protest är för långsam och vill i stället ha ett väpnat uppror.",
         "Herr X hävdar att metoden är lika viktig som målet.",
         "Årtionden senare studerar rörelser på andra kontinenter hans metod för ickevåldsprotest.",
         "Han skriver en lång självbiografi, där han öppet erkänner många av sina egna misstag.",
-        "Hans samlade skrifter och brev fyller omkring hundra volymer.",
-        "Till och med brittiska polisrapporter, förda för att övervaka honom, finns i dag bevarade som bevismaterial.",
-        "Tillsammans låter dessa källor historiker ifrågasätta den populära bilden av mannen."
+        "Hans samlade skrifter och brev fyller omkring hundra band.",
+        "Till och med brittiska polisakter, förda för att övervaka honom, finns i dag bevarade som bevis.",
+        "Tillsammans gör dessa källor det möjligt för historiker att ifrågasätta den gängse bilden av mannen."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -202,7 +202,7 @@
       "words": [
         {
           "word": "kast",
-          "explanation": "en grupp en person föds in i, i Indiens gamla samhällsordning. Grupperna rankas över eller under varandra."
+          "explanation": "en grupp som en person föds in i, i Indiens gamla samhällsordning; grupperna rankas över eller under varandra"
         },
         {
           "word": "diskriminering",
@@ -213,11 +213,11 @@
           "explanation": "en bok en person skriver om sitt eget liv"
         },
         {
-          "word": "volym",
-          "explanation": "en bok i en lång serie böcker som hör ihop"
+          "word": "band",
+          "explanation": "en bok i en lång rad böcker som hör ihop"
         }
       ],
-      "main_caption": "Hans egna ord fyller omkring hundra volymer, och polisrapporter lägger till ännu fler.",
+      "main_caption": "Hans egna ord fyller omkring hundra band, och polisakter lägger till ännu fler.",
       "side_caption": "Vissa ledare vill ha nya lagar, andra vill ha en helt annan sorts protest."
     }
   ]

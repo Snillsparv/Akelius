@@ -19610,6 +19610,50 @@
             "caption": "The school door has closed behind the children. Inside, they learn a new lesson.",
             "shutterstock_query": "old european school building wooden front door closed steps 1930s",
             "ai_prompt": "Photorealistic vertical image of a tall wooden front door of a 1930s German school building, closed, seen straight on from worn stone steps below, a bare leafless tree beside the entrance, soft gray daylight, quiet solemn mood, 1930s door fittings only, no modern locks or intercoms, no plaque, no sign, no lettering, no flags, no emblems, no people, no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Ett land förlorar sin frihet",
+            "text_sentences": [
+              "Herr X bor i Tyskland, för ungefär nittio år sedan.",
+              "Hans land har fria val och fria tidningar.",
+              "Svåra tider kommer, och miljontals människor förlorar sina jobb.",
+              "Herr X leder ett parti med ett argt, enkelt löfte.",
+              "Han skyller de svåra tiderna på judar och andra grupper.",
+              "Han lovar att göra landet starkt och stolt igen.",
+              "År 1933 utser den gamle presidenten honom till regeringschef.",
+              "Inom några månader stänger regeringen de fria tidningarna.",
+              "Den förbjuder alla andra politiska partier.",
+              "Människor hamnar i fängelse bara för sina åsikter.",
+              "I skolan lär sig barnen nu att hata dessa grupper."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Josef Stalin",
+              "Adolf Hitler",
+              "Benito Mussolini",
+              "Francisco Franco"
+            ],
+            "correct": "Adolf Hitler",
+            "words": [
+              {
+                "word": "val",
+                "explanation": "när människor röstar för att välja sina ledare"
+              },
+              {
+                "word": "president",
+                "explanation": "landets högsta valda ledare"
+              },
+              {
+                "word": "förbjuder",
+                "explanation": "bestämmer att något är mot lagen"
+              },
+              {
+                "word": "åsikter",
+                "explanation": "vad en person tycker eller tror"
+              }
+            ],
+            "main_caption": "En tidningsredaktion står stängd. Ingen trycker de fria nyheterna längre.",
+            "side_caption": "Skoldörren har stängts bakom barnen. Därinne lär de sig en ny läxa."
           }
         },
         {
@@ -19657,16 +19701,61 @@
             }
           ],
           "main_image": {
-            "description": "A plain dormitory room in a shelter for poor men in Vienna in the early 1900s, a row of a row of simple iron beds along a long wall, one blank canvas on a wooden easel standing near the nearest bed, morning light through tall bare windows. No people. Modest, poor, orderly mood. Production note: the canvas must show no image or marks, completely blank; no paintings visible elsewhere; no text, letters, or signs anywhere; early 1900s furnishings only, no later objects.",
+            "description": "A plain dormitory room in a shelter for poor men in Vienna in the early 1900s, a row of simple iron beds along a long wall, one blank canvas on a wooden easel standing near the nearest bed, morning light through tall bare windows. No people. Modest, poor, orderly mood. Production note: the canvas must show no image or marks, completely blank; no paintings visible elsewhere; no text, letters, or signs anywhere; early 1900s furnishings only, no later objects.",
             "caption": "A blank canvas waits in a shelter for poor men. The academy has said no, twice.",
             "shutterstock_query": "early 1900s vienna mens shelter dormitory iron beds empty easel",
-            "ai_prompt": "Photorealistic image of a plain early 1900s dormitory room in a shelter for poor men in Vienna, a row of a row of simple iron beds along a long wall, one completely blank canvas on a wooden easel near the nearest bed, morning light through tall bare windows, modest orderly mood, no people, early 1900s furnishings only, gas or oil lamps only, no electric fittings, no modern objects, no paintings, no text, no letters, no symbols."
+            "ai_prompt": "Photorealistic image of a plain early 1900s dormitory room in a shelter for poor men in Vienna, a row of simple iron beds along a long wall, one completely blank canvas on a wooden easel near the nearest bed, morning light through tall bare windows, modest orderly mood, no people, early 1900s furnishings only, gas or oil lamps only, no electric fittings, no modern objects, no paintings, no text, no letters, no symbols."
           },
           "side_image": {
             "description": "The interior of a plain but roomy prison room in Germany in the 1920s, one barred window letting in daylight, a plain wooden desk below it with blank sheets of paper and a pen, a simple bed along the wall. No people. Bare, plain, unromantic mood. Production note: the paper must be completely blank, no writing, no title; no symbols anywhere; period-accurate 1920s furnishings only, no modern objects.",
             "caption": "In a prison room, a prisoner writes a book full of hate.",
             "shutterstock_query": "1920s prison room interior barred window desk blank paper",
             "ai_prompt": "Photorealistic vertical image of a plain but roomy 1920s German prison room interior, one barred window letting in daylight onto a plain wooden desk with blank sheets of paper and a pen, a simple bed along the wall, bare plain unromantic mood, no people, no writing on the paper, no symbols, period-accurate 1920s furnishings only, no modern objects, no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Den misslyckade målaren som vill ha makt",
+            "text_sentences": [
+              "Som ung man vill herr X bli målare.",
+              "Han flyttar till Wien och försöker komma in på konstakademin.",
+              "Akademin avvisar honom, inte en gång utan två.",
+              "Han bor ensam på ett billigt härbärge för fattiga män.",
+              "När det stora kriget 1914 börjar blir han soldat.",
+              "Han blir sårad, och nära krigets slut utsätts han för giftgas.",
+              "Efter kriget går han med i ett litet parti som skyller nederlaget på judar och demokratin.",
+              "I München försöker han ta makten med våld.",
+              "Försöket misslyckas, och han hamnar i fängelse.",
+              "I fängelset skriver han en bok full av hat.",
+              "I ett val får hans parti färre än tre röster av hundra.",
+              "Efter en stor ekonomisk kris röstar var tredje väljare på hans parti, aldrig en majoritet."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Kejsar Vilhelm II",
+              "Paul von Hindenburg",
+              "Adolf Hitler",
+              "Benito Mussolini"
+            ],
+            "correct": "Adolf Hitler",
+            "words": [
+              {
+                "word": "akademi",
+                "explanation": "en skola för särskilda färdigheter, som konst eller vetenskap"
+              },
+              {
+                "word": "giftgas",
+                "explanation": "en farlig gas som används som vapen i kriget"
+              },
+              {
+                "word": "härbärge",
+                "explanation": "ett enkelt hus där fattiga människor får sova billigt"
+              },
+              {
+                "word": "ekonomisk kris",
+                "explanation": "en tid då många företag går omkull och människor förlorar jobb och pengar"
+              }
+            ],
+            "main_caption": "En tom duk väntar i ett härbärge för fattiga män. Akademin har sagt nej, två gånger.",
+            "side_caption": "I ett rum i fängelset skriver en fånge en bok full av hat."
           }
         },
         {
@@ -19724,6 +19813,51 @@
             "caption": "A packed suitcase waits by the door. Many countries will not let the family in.",
             "shutterstock_query": "vintage leather suitcase front door 1930s european townhouse closeup",
             "ai_prompt": "Photorealistic vertical close-up of a packed 1930s leather suitcase with brass fittings standing beside the front door of a 1930s German townhouse, door slightly ajar, a folded wool coat of the period resting on top, soft afternoon light, calm dignified mood, no people, no readable labels or tags, no modern luggage, no wheels on the suitcase, no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Fönster krossas i ett helt land",
+            "text_sentences": [
+              "Herr X leder Tysklands regering.",
+              "Hans regering riktar in sig på en grupp framför alla andra: judiska medborgare.",
+              "Under hans första år vid makten blockerar hans anhängare dörrarna till judiska butiker.",
+              "Två år senare tar nya lagar bort deras rättigheter som medborgare.",
+              "Samma lagar förbjuder äktenskap mellan judar och andra tyskar.",
+              "I november 1938 skickar hans parti sina män för att angripa judiska hem, butiker och synagogor.",
+              "Folkmassor ansluter sig, och fönster krossas över hela landet på en enda natt.",
+              "Omkring trettiotusen judiska män skickas till läger.",
+              "Judiska familjer försöker nu lämna landet.",
+              "Många länder släpper bara in ett fåtal av dem.",
+              "Sedan kommer kriget, och förföljelsen övergår i massmord.",
+              "Hans stat mördar sex miljoner judar, och även romer, personer med funktionsnedsättning och andra."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Josef Stalin",
+              "Hideki Tojo",
+              "Adolf Hitler",
+              "Francisco Franco"
+            ],
+            "correct": "Adolf Hitler",
+            "words": [
+              {
+                "word": "medborgare",
+                "explanation": "människor som juridiskt tillhör ett land och delar dess rättigheter"
+              },
+              {
+                "word": "synagogor",
+                "explanation": "byggnader där judar samlas för att be"
+              },
+              {
+                "word": "läger",
+                "explanation": "här: bevakade platser där fångar hålls mot sin vilja"
+              },
+              {
+                "word": "förföljelse",
+                "explanation": "grym och orättvis behandling av en grupp, gång på gång"
+              }
+            ],
+            "main_caption": "På morgonen täcker krossat glas trottoaren utanför en judisk familjs butik.",
+            "side_caption": "En packad resväska väntar vid dörren. Många länder vill inte släppa in familjen."
           }
         },
         {
@@ -19780,6 +19914,50 @@
             "caption": "A few students print words against the government. It costs them their lives.",
             "shutterstock_query": "plain stone memorial lit candles courtyard evening blank no inscription",
             "ai_prompt": "Photorealistic vertical image of a plain blank stone marker in a university courtyard in Munich today, a small cluster of lit candles at its base, blue light of early evening, wet cobblestones around it, calm reflective mood, no people, no inscription or symbol on the stone, no flags, no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "En röst i köket",
+            "text_sentences": [
+              "Herr X:s regering i Tyskland kontrollerar vad människor hör och ser.",
+              "En radio står i de flesta hem, och en röst fyller den.",
+              "Enorma massmöten samlar folkmassor under starkt ljus och hög musik.",
+              "En grupp studenter bränner böcker som regeringen kallar farliga.",
+              "Barn måste gå med i ungdomsorganisationer som drivs av staten.",
+              "En hemlig polis lyssnar efter varje ord mot regeringen.",
+              "Grannar blir rädda för att lita på varandra.",
+              "De flesta människor följer bara med, eller tittar tyst åt ett annat håll.",
+              "En annan grupp studenter gör motstånd: i München trycker de flygblad mot regeringen.",
+              "I februari 1943 avrättar regeringen tre av dem för deras flygblad.",
+              "Rädsla kan inte ensam förklara allt: många vanliga människor väljer att tro."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Benito Mussolini",
+              "Adolf Hitler",
+              "Josef Stalin",
+              "Hideki Tojo"
+            ],
+            "correct": "Adolf Hitler",
+            "words": [
+              {
+                "word": "massmöten",
+                "explanation": "stora offentliga möten för att hylla en ledare eller en sak"
+              },
+              {
+                "word": "ungdomsorganisationer",
+                "explanation": "klubbar där barn och tonåringar träffas, ofta drivna av staten"
+              },
+              {
+                "word": "hemlig polis",
+                "explanation": "poliser som hemligt spionerar på medborgare, inte öppet"
+              },
+              {
+                "word": "flygblad",
+                "explanation": "små tryckta papper med ett budskap"
+              }
+            ],
+            "main_caption": "I de flesta hem fyller en radio köket med en enda röst.",
+            "side_caption": "Några studenter trycker ord mot regeringen. Det kostar dem livet."
           }
         },
         {
@@ -19836,9 +20014,54 @@
             "caption": "Private diaries and letters home help historians understand how it all happened.",
             "shutterstock_query": "bundle old envelopes tied string closed diary wooden table 1940s",
             "ai_prompt": "Photorealistic vertical still life of a small bundle of old 1940s envelopes tied with plain string beside a closed diary with a plain cloth cover on a plain wooden table, a fountain pen beside them, soft window light, envelopes blank and face down, no stamps, no addresses, no handwriting, diary closed with no title, bare still mood, no people, no modern objects, no text, no letters, no symbols."
+          },
+          "sv": {
+            "title": "Inte en enda man, utan en hel maskin",
+            "text_sentences": [
+              "Historiker förklarar inte längre herr X som ett ont geni som handlar helt ensam.",
+              "De ställer en svårare fråga: hur kan ett helt samhälle följa honom?",
+              "En grupp historiker betonar hans egna val och avsikter.",
+              "En annan grupp betonar strukturerna runt honom: rivaler, kaos och svaga institutioner.",
+              "En berömd fras beskriver tjänstemän som gissar sig till hans önskningar och handlar utan order.",
+              "En historiker kallar detta: att arbeta ledaren till mötes.",
+              "Källorna omfattar partihandlingar, privata dagböcker och brev hem.",
+              "Efter kriget används dessa källor i rättegångar för att döma de anklagade.",
+              "Vissa människor förnekar senare att mordet på sex miljoner judar och andra ens ägde rum.",
+              "Historiker studerar också denna förnekelse, som ett fenomen i sig.",
+              "År 1945, när hans krig är förlorat och Berlin omringat, tar herr X sitt liv."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Francisco Franco",
+              "Hideki Tojo",
+              "Josef Stalin",
+              "Adolf Hitler"
+            ],
+            "correct": "Adolf Hitler",
+            "words": [
+              {
+                "word": "avsikter",
+                "explanation": "planerna eller syftena inne i en persons huvud"
+              },
+              {
+                "word": "institutioner",
+                "explanation": "organisationerna och systemen som styr ett land"
+              },
+              {
+                "word": "fenomen",
+                "explanation": "något som händer och som kan studeras och förklaras"
+              },
+              {
+                "word": "förnekelse",
+                "explanation": "att vägra acceptera att något sant verkligen hände"
+              }
+            ],
+            "main_caption": "Efter kriget försöker domstolar i Nürnberg och på andra platser döma över det som hände.",
+            "side_caption": "Privata dagböcker och brev hem hjälper historiker att förstå hur allt kunde hända."
           }
         }
-      ]
+      ],
+      "person_sv": "Adolf Hitler"
     },
     {
       "slug": "mahatma-gandhi",
@@ -19899,6 +20122,51 @@
             "caption": "A handful of salt from the sea, taken in front of everyone.",
             "shutterstock_query": "close up hand picking natural salt wet sand seashore",
             "ai_prompt": "Vertical close-up realistic illustration of a bare hand reaching down to wet sand at the edge of the sea, picking up a small handful of natural gray salt crystals mixed with sand, gentle waves nearby, only the hand and forearm visible, no face, no jewelry, no watch, calm bright daylight, no text, no letters."
+          },
+          "sv": {
+            "title": "En lång vandring mot havet",
+            "text_sentences": [
+              "Herr X bor i Indien, där brittiska härskare styr.",
+              "En gammal lag säger att bara härskarna får tillverka och sälja salt.",
+              "Salt finns gratis i havet, men människor måste betala en skatt.",
+              "Herr X säger att den lagen är orättvis mot fattiga människor.",
+              "År 1930 börjar han vandra från sitt hem mot kusten.",
+              "Varje dag längs vägen ansluter sig fler människor till honom.",
+              "Vandringen tar sammanlagt omkring tjugofyra dagar.",
+              "Han och hans anhängare vandrar nästan fyrahundra kilometer.",
+              "Vid havsstranden böjer sig herr X ner mot vattnet.",
+              "Han plockar upp en liten handfull naturligt salt.",
+              "Med denna stilla handling bryter han mot skattelagen.",
+              "Polisen arresterar tiotusentals av hans anhängare, men de slår inte tillbaka."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Mahatma Gandhi",
+              "Muhammad Ali Jinnah",
+              "Subhas Chandra Bose"
+            ],
+            "correct": "Mahatma Gandhi",
+            "words": [
+              {
+                "word": "skatt",
+                "explanation": "pengar som människor måste betala till härskarna"
+              },
+              {
+                "word": "kust",
+                "explanation": "landet närmast havet"
+              },
+              {
+                "word": "anhängare",
+                "explanation": "människor som följer och stödjer en ledare"
+              },
+              {
+                "word": "arrestera",
+                "explanation": "när polisen för bort en person och inte släpper personen fri"
+              }
+            ],
+            "main_caption": "Dag för dag blir skaran som vandrar mot havet längre.",
+            "side_caption": "En handfull salt från havet, plockad inför allas ögon."
           }
         },
         {
@@ -19955,6 +20223,50 @@
             "caption": "For his protests, he spends years locked behind walls like these.",
             "shutterstock_query": "colonial era prison courtyard barred windows empty dusk illustration",
             "ai_prompt": "Vertical atmospheric illustration of a row of plain stone prison cells with barred windows in a 1920s colonial-era Indian jail, seen across an empty courtyard at dusk, no people visible, quiet gray light and long shadows, no signs, no numbers, no modern security fittings, no cameras, no electric floodlights, calm non-frightening mood, no text, no letters."
+          },
+          "sv": {
+            "title": "En kamp utan vapen",
+            "text_sentences": [
+              "Herr X leder en rörelse i Indien, för omkring hundra år sedan.",
+              "Han tror att människor kan bekämpa orättvisor utan några vapen.",
+              "Han kallar denna metod satyagraha, eller att hålla fast vid sanningen.",
+              "I stället för att köpa brittiskt tyg ber han människor att spinna sitt eget.",
+              "Han sitter ofta och spinner bomullstråd på en enkel spinnrock av trä.",
+              "Hemvävt tyg blir en stilla symbol för självständighet.",
+              "De brittiska härskarna sätter gång på gång herr X i fängelse för hans protester.",
+              "Sammanlagt tillbringar han omkring sex år av sitt liv i fängelse.",
+              "Ibland vägrar han all mat som en form av protest.",
+              "Han kallar dessa fastor en vädjan till människors samvete.",
+              "Sakta växer en liten rörelse till en rörelse som omfattar miljoner."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Rabindranath Tagore",
+              "B. R. Ambedkar",
+              "Mahatma Gandhi",
+              "Muhammad Ali Jinnah"
+            ],
+            "correct": "Mahatma Gandhi",
+            "words": [
+              {
+                "word": "orättvisa",
+                "explanation": "något som inte är rättvist eller rätt"
+              },
+              {
+                "word": "satyagraha",
+                "explanation": "ett särskilt ord för att kämpa för det som är rätt utan våld"
+              },
+              {
+                "word": "hemvävt",
+                "explanation": "tyg som spinns och vävs för hand hemma, inte tillverkat i en fabrik"
+              },
+              {
+                "word": "samvete",
+                "explanation": "den inre känslan som talar om för en person vad som är rätt och fel"
+              }
+            ],
+            "main_caption": "Att spinna tråd för hand blir en stilla protesthandling.",
+            "side_caption": "För sina protester sitter han i åratal inlåst bakom murar som dessa."
           }
         },
         {
@@ -20011,6 +20323,50 @@
             "caption": "He teaches a new idea: break unfair laws openly, and never fight back.",
             "shutterstock_query": "early 1900s indian mine workers strike south africa mine gate illustration",
             "ai_prompt": "Vertical realistic illustration of a small group of Indian mine workers in early 1900s South African work clothing standing quietly together outside a wooden mine gate, tools laid down on the ground, heads calm and hands still, a mounted colonial policeman in an early 1900s uniform waiting at a distance, the men standing not sitting, no violence, no weapons drawn, no contact between the groups, no raised fists, calm respectful mood, no motor vehicles, no readable signs or banners, no text, no letters."
+          },
+          "sv": {
+            "title": "Kastad av tåget",
+            "text_sentences": [
+              "Herr X studerar juridik i London, för mer än hundra år sedan.",
+              "Efter studierna tar han arbete i Sydafrika.",
+              "Där behandlar lagarna människor olika på grund av deras hudfärg.",
+              "En natt sitter han i en tågvagn i första klass med en giltig biljett.",
+              "En tjänsteman beordrar honom att lämna tåget på grund av hans hudfärg.",
+              "Han vägrar att flytta sig, och vakter kastar honom av tåget.",
+              "Frusen och arg på den tomma perrongen bestämmer han sig för att agera.",
+              "Under de följande tjugoett åren bygger han upp en metod för fredligt motstånd.",
+              "Han organiserar indier i Sydafrika för att göra motstånd mot orättvisa lagar utan våld.",
+              "Historiker påpekar att hans tidiga skrifter där delar sin tids fördomar mot afrikaner.",
+              "Först senare växer hans tänkande till att omfatta alla människor."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Subhas Chandra Bose",
+              "Rabindranath Tagore",
+              "Mahatma Gandhi"
+            ],
+            "correct": "Mahatma Gandhi",
+            "words": [
+              {
+                "word": "tågvagn",
+                "explanation": "en vagn i ett tåg där passagerare sitter"
+              },
+              {
+                "word": "tjänsteman",
+                "explanation": "en person som arbetar för en regering eller ett företag och har viss makt"
+              },
+              {
+                "word": "motstånd",
+                "explanation": "att kämpa mot något, här utan vapen"
+              },
+              {
+                "word": "fördom",
+                "explanation": "en orättvis åsikt om människor, ofta baserad på gruppen de tillhör"
+              }
+            ],
+            "main_caption": "Kastad av tåget mitt i natten bestämmer han sig för att agera.",
+            "side_caption": "Han lär ut en ny idé: bryt mot orättvisa lagar öppet, och slå aldrig tillbaka."
           }
         },
         {
@@ -20068,6 +20424,51 @@
             "caption": "He refuses food and asks: please, let the killing stop.",
             "shutterstock_query": "empty bowl cup water plain mat fasting symbol evening light",
             "ai_prompt": "Vertical still-life illustration of an empty plain metal bowl and a small metal cup of water resting on a plain woven mat in soft evening light, 1940s Indian household objects, no person shown, plain undecorated objects, no plastic, no religious symbols, calm still mood, no text, no letters."
+          },
+          "sv": {
+            "title": "Ett land delas i två",
+            "text_sentences": [
+              "År 1947 blir herr X:s hemland äntligen självständigt.",
+              "Brittiska härskare och indiska ledare delar också landet i två nya länder.",
+              "Miljontals hinduer, muslimer och sikher måste plötsligt flytta.",
+              "Våld bryter ut mellan grannar med olika tro.",
+              "Enligt uppskattningar dödas hundratusentals människor, kanske många fler.",
+              "Herr X är förkrossad över våld som han har försökt förhindra.",
+              "I huvudstaden vägrar han all mat för att få dödandet att upphöra.",
+              "Hans fasta fungerar: hindu- och sikhledare lovar att skydda sina muslimska grannar.",
+              "Inte alla välkomnar hans budskap om vänskap mellan människor av olika tro.",
+              "Tolv dagar senare skjuter en hindunationalist ihjäl honom.",
+              "Skytten anser att herr X är för vänlig mot muslimer.",
+              "Hans död chockar den unga nationen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "B. R. Ambedkar",
+              "Muhammad Ali Jinnah",
+              "Jawaharlal Nehru",
+              "Mahatma Gandhi"
+            ],
+            "correct": "Mahatma Gandhi",
+            "words": [
+              {
+                "word": "självständigt",
+                "explanation": "fritt att styra sig själv, inte kontrollerat av ett annat land"
+              },
+              {
+                "word": "våld",
+                "explanation": "handlingar som skadar eller dödar människor"
+              },
+              {
+                "word": "uppskattningar",
+                "explanation": "noggranna gissningar baserade på de fakta vi har"
+              },
+              {
+                "word": "nationalist",
+                "explanation": "en person med mycket stark stolthet över en nation, ibland riktad mot andra grupper"
+              }
+            ],
+            "main_caption": "År 1947 korsar miljoner människor den nya gränsen mellan två länder.",
+            "side_caption": "Han vägrar mat och ber: snälla, låt dödandet upphöra."
           }
         },
         {
@@ -20125,9 +20526,55 @@
             "caption": "Some leaders want new laws, others want a very different kind of protest.",
             "shutterstock_query": "empty legislative hall wooden benches podium plain no flags illustration",
             "ai_prompt": "Vertical realistic illustration of a plain empty debating hall from the mid-twentieth century, rows of wooden benches facing a single wooden podium, soft light from tall windows, 1940s furnishings only, no microphones, no screens, no flags, no portraits, no people, completely plain surfaces, no emblems, no readable signs, calm still mood, no text, no letters."
+          },
+          "sv": {
+            "title": "Debatter som överlever honom",
+            "text_sentences": [
+              "Herr X blir en av nittonhundratalets mest studerade ledare.",
+              "Inte alla i Indien håller med om hans metoder eller hans idéer.",
+              "B. R. Ambedkar är en ledare för daliterna, de människor som kastsystemet placerar lägst.",
+              "Han säger att herr X försvarar kastordningen och gör för lite mot kastdiskriminering.",
+              "Ambedkar vill ha starkt rättsligt skydd, inte bara ett förändrat sinnelag.",
+              "Andra ledare tycker att fredlig protest är för långsam och vill i stället ha ett väpnat uppror.",
+              "Herr X hävdar att metoden är lika viktig som målet.",
+              "Årtionden senare studerar rörelser på andra kontinenter hans metod för ickevåldsprotest.",
+              "Han skriver en lång självbiografi, där han öppet erkänner många av sina egna misstag.",
+              "Hans samlade skrifter och brev fyller omkring hundra band.",
+              "Till och med brittiska polisakter, förda för att övervaka honom, finns i dag bevarade som bevis.",
+              "Tillsammans gör dessa källor det möjligt för historiker att ifrågasätta den gängse bilden av mannen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Mahatma Gandhi",
+              "Muhammad Ali Jinnah",
+              "Subhas Chandra Bose"
+            ],
+            "correct": "Mahatma Gandhi",
+            "words": [
+              {
+                "word": "kast",
+                "explanation": "en grupp som en person föds in i, i Indiens gamla samhällsordning; grupperna rankas över eller under varandra"
+              },
+              {
+                "word": "diskriminering",
+                "explanation": "att behandla en grupp människor orättvist på grund av vilka de är"
+              },
+              {
+                "word": "självbiografi",
+                "explanation": "en bok en person skriver om sitt eget liv"
+              },
+              {
+                "word": "band",
+                "explanation": "en bok i en lång rad böcker som hör ihop"
+              }
+            ],
+            "main_caption": "Hans egna ord fyller omkring hundra band, och polisakter lägger till ännu fler.",
+            "side_caption": "Vissa ledare vill ha nya lagar, andra vill ha en helt annan sorts protest."
           }
         }
-      ]
+      ],
+      "person_sv": "Mahatma Gandhi"
     },
     {
       "slug": "united-nations",
@@ -20178,6 +20625,41 @@
             "caption": "An agreement is a promise that countries make to each other.",
             "shutterstock_query": "handshake hands over table 1940s closeup agreement",
             "ai_prompt": "Photorealistic close-up of two hands from different people meeting in a handshake over a plain wooden table, simple 1940s wool suit sleeves and white shirt cuffs, a blank sheet of paper and a closed fountain pen resting beside them, soft window light, warm calm mood, no faces in frame, no rings or watches, no modern pens; no text, no letters, no flags."
+          },
+          "sv": {
+            "title": "Prata i stället för att slåss",
+            "text_sentences": [
+              "Det största kriget i historien tar slut 1945.",
+              "Många länder vill att freden ska hålla den här gången.",
+              "Femtio länder möts i San Francisco, en stad vid havet.",
+              "Där skriver de tillsammans under ett långt avtal.",
+              "Ett land till skriver under det lite senare.",
+              "Nu startar organisationen X med femtioett länder.",
+              "I dag är nästan alla länder i världen med i den.",
+              "Varje land skickar människor till en enda enorm sal.",
+              "I den salen får varje land exakt en röst.",
+              "Organisationen X ger också mat till hungriga barn och skickar läkare."
+            ],
+            "question": "Vilken organisation är organisationen X?",
+            "options": [
+              "Nationernas förbund",
+              "Förenta nationerna",
+              "Samväldet",
+              "Nato"
+            ],
+            "correct": "Förenta nationerna",
+            "words": [
+              {
+                "word": "avtal",
+                "explanation": "ett löfte som två eller flera personer eller länder ger varandra"
+              },
+              {
+                "word": "fred",
+                "explanation": "en tid utan krig eller strider"
+              }
+            ],
+            "main_caption": "Femtio länder skriver under ett långt avtal. Fler ansluter sig senare.",
+            "side_caption": "Ett avtal är ett löfte som länder ger varandra."
           }
         },
         {
@@ -20234,6 +20716,50 @@
             "caption": "Soldiers in plain blue helmets try to keep the peace.",
             "shutterstock_query": "peacekeeper soldier blue helmet back road dusk",
             "ai_prompt": "Photorealistic vertical shot of a soldier in a plain blue helmet and ordinary 1990s fatigues standing with his back to the camera at a wooden barrier on a quiet dirt road, calm dusk light, empty fields beyond, respectful calm mood; no letters, numbers, or emblems on the helmet or vest, no vehicle in frame, no weapon prominent; no text, no letters, no flags."
+          },
+          "sv": {
+            "title": "Regeln som kan stoppa allt",
+            "text_sentences": [
+              "Organisationen X arbetar efter tydliga, enkla regler.",
+              "Alla medlemsländer möts i en stor församling.",
+              "Där har det största och det minsta landet en röst var.",
+              "Ett mindre råd möts också, med färre länder.",
+              "Fem länder har alltid en plats i det rådet.",
+              "Rådet kan skicka soldater för att bevara freden.",
+              "Soldaterna bär enkla blå hjälmar i det arbetet.",
+              "Var och en av de fem kan också säga nej till ett förslag.",
+              "Denna makt att stoppa ett förslag kallas veto.",
+              "Ett veto räcker för att stoppa hela rådet.",
+              "Så samma fem länder förblir starka, men hjälp kan också blockeras."
+            ],
+            "question": "Vilken organisation är organisationen X?",
+            "options": [
+              "Världsbanken",
+              "Arabförbundet",
+              "Förenta nationerna",
+              "Europeiska unionen"
+            ],
+            "correct": "Förenta nationerna",
+            "words": [
+              {
+                "word": "församling",
+                "explanation": "ett stort möte där varje medlem har en plats"
+              },
+              {
+                "word": "råd",
+                "explanation": "en mindre grupp som möts ofta och bestämmer om snabba åtgärder"
+              },
+              {
+                "word": "veto",
+                "explanation": "makten att säga nej och stoppa ett förslag, även om alla andra säger ja"
+              },
+              {
+                "word": "hjälm",
+                "explanation": "en hård hatt som skyddar huvudet"
+              }
+            ],
+            "main_caption": "Händer räcks upp i den stora salen: en röst för varje land.",
+            "side_caption": "Soldater i enkla blå hjälmar försöker bevara freden."
           }
         },
         {
@@ -20286,6 +20812,46 @@
             "caption": "A philosopher helps choose the exact words for every right.",
             "shutterstock_query": "1940s east asian scholar desk lamp thinking pen paper closeup",
             "ai_prompt": "Photorealistic vertical close-up of a thoughtful East Asian man in his forties in a plain 1940s academic suit with a narrow tie sitting at a small desk, fountain pen in hand, looking up from a blank sheet of paper, a low stack of closed books with plain covers beside him, soft warm lamp light, quiet studious mood, generic face not resembling any real person; no readable text on books or paper, no modern objects; no text, no letters, no flags."
+          },
+          "sv": {
+            "title": "En lista för varje människa",
+            "text_sentences": [
+              "År 1948 skriver organisationen X en ny sorts lista.",
+              "Listan räknar upp rättigheter som varje människa bör ha.",
+              "Människor från många kulturer hjälper till att skriva trettio korta artiklar.",
+              "En kvinna leder kommittén som skriver texten.",
+              "En filosof från Kina formar också den slutliga texten.",
+              "Det blir långa debatter om rättigheter som passar alla kulturer.",
+              "När det blir omröstning röstar inget land emot listan.",
+              "Några få länder väljer att avstå från att rösta.",
+              "Översättare för senare över texten till hundratals språk.",
+              "Ändå är listan bara ord på papper.",
+              "Avståndet mellan orden och vardagen förblir stort."
+            ],
+            "question": "Vilken organisation är organisationen X?",
+            "options": [
+              "Nationernas förbund",
+              "Röda korset",
+              "Europeiska unionen",
+              "Förenta nationerna"
+            ],
+            "correct": "Förenta nationerna",
+            "words": [
+              {
+                "word": "kommitté",
+                "explanation": "en liten grupp människor som är utvalda att göra ett jobb"
+              },
+              {
+                "word": "filosof",
+                "explanation": "en person som tänker djupt på stora frågor som rätt och fel"
+              },
+              {
+                "word": "artiklar",
+                "explanation": "korta, numrerade delar av en längre skriven text"
+              }
+            ],
+            "main_caption": "En liten kommitté skriver en lista med rättigheter för varje människa.",
+            "side_caption": "En filosof hjälper till att välja de exakta orden för varje rättighet."
           }
         },
         {
@@ -20339,6 +20905,47 @@
             "caption": "The guard post stands empty. Help does not come in time.",
             "shutterstock_query": "empty guard post chair window quiet street dusk",
             "ai_prompt": "Photorealistic vertical still life of a plain wooden chair sitting empty at a small table inside a quiet 1990s guard post, a pair of binoculars and a closed logbook with a plain cover left on the table, dusty evening light through a small window, a quiet empty 1990s street visible outside, solemn still mood, not a scene of violence; no people, no blood, no weapons, no readable text, no modern screens; no text, no letters, no flags."
+          },
+          "sv": {
+            "title": "Nya medlemmar, svåra misslyckanden",
+            "text_sentences": [
+              "För ungefär åttio år sedan styr imperier fortfarande större delen av Afrika och stora delar av Asien.",
+              "Under de följande decennierna ansluter sig dussintals nya länder till organisationen X.",
+              "Varje ny medlem för med sig sin egen röst till den stora församlingen.",
+              "Organisationen X stödjer öppet länder som vill ha självständighet.",
+              "Senare förbjuder den vapenförsäljning till apartheidstaten i Sydafrika.",
+              "Den uppmanar också länder att sluta handla med den staten.",
+              "Men ibland misslyckas organisationen X också svårt.",
+              "I Rwanda 1994 får dess soldater order att inte ingripa.",
+              "Ungefär åttahundratusen människor dödas där på bara några månader.",
+              "Året därpå kan dess soldater i Srebrenica inte skydda en stad som litar på dem.",
+              "Ungefär åttatusen män och pojkar dödas efter att staden har fallit.",
+              "Båda misslyckandena studeras noga så att något sådant inte ska hända igen."
+            ],
+            "question": "Vilken organisation är organisationen X?",
+            "options": [
+              "Förenta nationerna",
+              "Organisationen för afrikansk enhet",
+              "Samväldet",
+              "Världsbanken"
+            ],
+            "correct": "Förenta nationerna",
+            "words": [
+              {
+                "word": "imperier",
+                "explanation": "stora grupper av länder och folk som styrs av en enda stark makt"
+              },
+              {
+                "word": "självständighet",
+                "explanation": "att vara fri att styra sig själv, utan att ett annat land bestämmer"
+              },
+              {
+                "word": "apartheid",
+                "explanation": "ett system av lagar i Sydafrika som höll människor åtskilda efter hudfärg och gav vita människor makten"
+              }
+            ],
+            "main_caption": "Nya länder skickar sina första delegater till den stora salen.",
+            "side_caption": "Vaktposten står tom. Hjälpen kommer inte i tid."
           }
         },
         {
@@ -20392,9 +20999,51 @@
             "caption": "One seat at the table can say no to everyone else.",
             "shutterstock_query": "1940s council table high-backed chairs diplomat objecting",
             "ai_prompt": "Photorealistic vertical close-up of a formal council table in the 1940s, identical plain high-backed chairs around it, one occupied by a diplomat in a dark 1940s suit leaning forward mid-sentence with one hand raised as if to object, blank folders in front of each seat, warm formal light, tense formal mood, 1940s furnishings only, generic face not resembling any real person; no readable text, no flags, no emblems, no microphones, no modern objects; no text, no letters, no flags."
+          },
+          "sv": {
+            "title": "Frågan som arkiven inte kan besvara",
+            "text_sentences": [
+              "Historiker studerar organisationen X som vilken annan institution som helst.",
+              "Efter ett tidigare stort krig gör länderna ett första försök att skapa världsfred.",
+              "Det första försöket är för svagt, och det faller samman inom tjugo år.",
+              "Misslyckandet präglar utformningen av det andra försöket 1945.",
+              "Fem länder har ett veto redan från de allra första utkasten.",
+              "I årtionden tvistar diplomater om vilka fler som förtjänar en permanent plats.",
+              "Historiker är oense om hur man ska mäta organisationens framgång.",
+              "Några räknar de krig den stoppar, andra räknar de krig den inte lyckas stoppa.",
+              "Gamla arkiv och interna promemorior hjälper till att avgöra några av dessa tvister.",
+              "Men dokumenten kan inte svara på den svåraste frågan av alla.",
+              "Kan stater skydda människor från sina egna regeringar?",
+              "Den frågan förblir öppen."
+            ],
+            "question": "Vilken organisation är organisationen X?",
+            "options": [
+              "Nationernas förbund",
+              "Nato",
+              "Förenta nationerna",
+              "Röda korset"
+            ],
+            "correct": "Förenta nationerna",
+            "words": [
+              {
+                "word": "institution",
+                "explanation": "en stor, varaktig organisation med tydliga regler"
+              },
+              {
+                "word": "arkiv",
+                "explanation": "gamla papper och dokument som sparas för senare studier"
+              },
+              {
+                "word": "diplomater",
+                "explanation": "personer som representerar sitt land och talar med andra länder"
+              }
+            ],
+            "main_caption": "Gamla dokument hjälper historiker att studera vad organisationen gjorde och inte gjorde.",
+            "side_caption": "En plats vid bordet kan säga nej till alla andra."
           }
         }
-      ]
+      ],
+      "person_sv": "Förenta nationerna"
     },
     {
       "slug": "world-war-i",

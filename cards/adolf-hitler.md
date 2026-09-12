@@ -91,10 +91,10 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-ta
 
 ### Huvudbild
 
-- **Motiv:** A plain dormitory room in a shelter for poor men in Vienna in the early 1900s, a row of a row of simple iron beds along a long wall, one blank canvas on a wooden easel standing near the nearest bed, morning light through tall bare windows. No people. Modest, poor, orderly mood. Production note: the canvas must show no image or marks, completely blank; no paintings visible elsewhere; no text, letters, or signs anywhere; early 1900s furnishings only, no later objects.
+- **Motiv:** A plain dormitory room in a shelter for poor men in Vienna in the early 1900s, a row of simple iron beds along a long wall, one blank canvas on a wooden easel standing near the nearest bed, morning light through tall bare windows. No people. Modest, poor, orderly mood. Production note: the canvas must show no image or marks, completely blank; no paintings visible elsewhere; no text, letters, or signs anywhere; early 1900s furnishings only, no later objects.
 - **Bildtext:** *A blank canvas waits in a shelter for poor men. The academy has said no, twice.*
 - **Shutterstock-sökning:** `early 1900s vienna mens shelter dormitory iron beds empty easel`
-- **AI-prompt (alternativ):** Photorealistic image of a plain early 1900s dormitory room in a shelter for poor men in Vienna, a row of a row of simple iron beds along a long wall, one completely blank canvas on a wooden easel near the nearest bed, morning light through tall bare windows, modest orderly mood, no people, early 1900s furnishings only, gas or oil lamps only, no electric fittings, no modern objects, no paintings, no text, no letters, no symbols.
+- **AI-prompt (alternativ):** Photorealistic image of a plain early 1900s dormitory room in a shelter for poor men in Vienna, a row of simple iron beds along a long wall, one completely blank canvas on a wooden easel near the nearest bed, morning light through tall bare windows, modest orderly mood, no people, early 1900s furnishings only, gas or oil lamps only, no electric fittings, no modern objects, no paintings, no text, no letters, no symbols.
 
 ### Sidobild
 
