@@ -221,3 +221,97 @@ states in Russia and China" och liknande.
   Balanserat som idéhistoria för klassrum på fyra kontinenter. Bilder: inget
   igenkännbart porträtt, inga hammare-och-skära-symboler, inga röda fanor
   med text.
+
+## Ämnesnoter, leverans 7
+
+Kategori för alla sex set: `twentieth century` (svensk etikett "1900-talet").
+Etiketten trycks på kortet, så alla distraktorer måste också höra hemma på
+1900-talet (Koreakriget, Vietnamkriget, spanska inbördeskriget, Stalin,
+Mussolini, Franco, Nehru, Jinnah, Nationernas förbund, Röda korset, Nato).
+
+Korsläckor att vakta: världskrigsseten namnger inte Hitler eller Churchill
+("a dictator in Germany", "the British prime minister" räcker); Hitlersetet
+och Churchillsetet får inte skriva "World War II", skriv "the great war that
+follows", "the war in Europe" i högst en kontextrad; Gandhisetet namnger inte
+Martin Luther King eller Mandela (rad 47-48); FN-setet namnger inte kalla
+kriget (rad 46), skriv "the long rivalry between two great powers". Inget set
+namnger Berlinmuren, kalla kriget, Mandela eller månlandningen.
+
+Känslighet: detta är den känsligaste leveransen hittills. Inga hakkors, inga
+nazistiska eller fascistiska symboler, inga porträtt av Hitler, ingen
+Hitlerhälsning, inga uniformsdetaljer som fungerar som symboler, inga bilder
+från lägren med offer, ingen svampmolnsestetik. Förintelsen berättas
+sakligt, lugnt och utan gore, med människorna i centrum, aldrig förövarens
+perspektiv som spännande. Krig berättas från de 99 procentens sida:
+soldater från Afrika, Indien och Karibien, kvinnorna i fabrikerna, barnen
+som evakueras, hungern. Balans för klassrum i Asien och Afrika: Churchills
+imperiesyn och svälten i Bengalen 1943, Gandhis år i Sydafrika och kritiken
+från Ambedkar, kolonialtruppernas insats i bägge världskrigen, FN:s
+misslyckanden lika sakligt som dess framgångar.
+
+- **World War I**: War X, frågan "Which war is War X?". Alliansernas
+  Europa, skottet i Sarajevo 1914 som gnista, inte orsak; skyttegravarna,
+  kulsprutan och gasen sakligt; soldater från Indien, Senegal, Australien,
+  Kanada; Osmanska rikets fall och Mellanösterns nya gränser; hemmafronten
+  och kvinnornas arbete; ryska revolutionen 1917 får nämnas som följd;
+  freden i Versailles och skulden; spanska sjukan 1918-1920 som dödar fler
+  än kriget. Universitet: orsaksdebatten (Fischer, "sömngångarna"),
+  källorna (brev, dagböcker, censur). Cirka 9-10 miljoner stupade soldater,
+  skriv "about ten million soldiers".
+- **World War II**: War X. Börjar 1939 i Europa, i Asien redan 1937 med
+  Japans krig i Kina; blixtkrig, Stalingrad, ökenkriget, Stilla havet,
+  Normandie; Förintelsen: sex miljoner judar mördas, också romer, funktions-
+  nedsatta och andra, sakligt utan gore; barnen som evakueras, ransoneringen;
+  atombomberna över Hiroshima och Nagasaki sakligt, med offren i centrum;
+  soldater och arbetare från Afrika, Indien, Karibien och Latinamerika;
+  cirka 60-70 miljoner döda, de flesta civila, skriv "more than sixty
+  million people, most of them civilians". Universitet: hur vet vi detta,
+  rättegångarna i Nürnberg, minneskulturen, debatten om bomberna.
+- **Winston Churchill**: Mr X. Skolpojken som är dålig i skolan, soldaten
+  och journalisten i Sudan och Sydafrika, flykten från boernas fångläger,
+  ministern som misslyckas vid Gallipoli 1915, "vildmarksåren", talen 1940
+  ("we shall fight on the beaches" är dokumenterat, får citeras kort som
+  återgivet), valförlusten 1945 mitt i segern, Nobelpriset i litteratur
+  1953, målandet. Balans: hans syn på imperiet och på indier, svälten i
+  Bengalen 1943 med omkring tre miljoner döda där hans regering nekade
+  hjälp, sakligt återgivet på gymnasie- eller universitetsnivå. Inga
+  igenkännbara porträtt: ingen cigarr, ingen V-gest, ingen plommonstop
+  som svarsläcka.
+- **Adolf Hitler**: Mr X. Syftet med setet är att förklara hur en
+  demokrati kan förstöras, inte att berätta om en person med fascination.
+  Den misslyckade konstnären i Wien, soldaten 1914-1918, kuppförsöket 1923
+  och fängelset, boken, partiet som växer i den ekonomiska krisen efter
+  1929, valen där partiet aldrig får egen majoritet, utnämningen till
+  rikskansler 1933 av presidenten, riksdagsbranden och lagarna som
+  avskaffar demokratin på några månader, propagandan, judeförföljelsen från
+  bojkott 1933 till Nürnberglagarna 1935 och novemberpogromen 1938, kriget
+  och Förintelsen som han beordrar, självmordet 1945. Nivå åk 6: hur ett
+  land tappar sin frihet steg för steg, utan skräckbilder. Universitet: hur
+  historiker förklarar stödet (Kershaw "working towards the Führer"),
+  källorna, ansvarsfrågan, förnekelsens historia. Bilder: aldrig hans
+  ansikte, aldrig symboler, aldrig massmöten med hälsningar; motiv som
+  tomma gator, stängda tidningar, brända böcker på avstånd utan läsbar
+  text, en stängd skoldörr, resväskor.
+- **Mahatma Gandhi**: Mr X. Barndomen i Gujarat, juridiken i London,
+  tjugoett år i Sydafrika där han möter rasismen och utvecklar satyagraha
+  (kort och sakligt: hans tidiga uttalanden om afrikaner var fördomsfulla,
+  får nämnas på universitetsnivå), hemkomsten 1915, saltmarschen 1930,
+  spinnrocken och hemvävt tyg, fängelseåren, fastorna, Ambedkars kritik i
+  kastfrågan, självständigheten 1947 och delningen med hundratusentals
+  döda som han sörjer, mordet 1948 av en hindunationalist. Tro markeras
+  som tro. Inga porträtt med de runda glasögonen som svarsläcka, inga
+  läsbara texter. "Mahatma" är en hederstitel och får inte förekomma i
+  texten, inte heller "Bapu".
+- **The United Nations**: Organization X, frågan "Which organization is
+  Organization X?". Bildas 1945 efter kriget, stadgan i San Francisco,
+  51 länder från början, i dag 193; Nationernas förbund som misslyckad
+  föregångare; generalförsamlingen där varje land har en röst,
+  säkerhetsrådet med fem permanenta medlemmar och veto; den allmänna
+  förklaringen om de mänskliga rättigheterna 1948 med Eleanor Roosevelt
+  och Peng Chun Chang; avkoloniseringen som fyller församlingen med nya
+  stater; fredsbevarande styrkor med blå hjälmar; barnfonden och
+  matprogrammet; misslyckandena i Rwanda 1994 och Srebrenica 1995
+  sakligt; högkvarteret i New York på mark skänkt av Rockefeller.
+  Universitet: vetots historia och reformdebatten. Bilder: inga flaggor
+  eller emblem med läsbar form, inga blå hjälmar med bokstäver; svenska
+  läckor att vakta i översättningen: FN, Förenta nationerna.
