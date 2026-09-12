@@ -1,0 +1,221 @@
+{
+  "slug": "winston-churchill",
+  "person_sv": "Winston Churchill",
+  "cards": [
+    {
+      "title": "Flykten bland kolsäckar",
+      "text_sentences": [
+        "Som pojke är herr X dålig i latin och matematik.",
+        "Han älskar tennsoldater mer än lektioner.",
+        "För mer än hundra år sedan blir han en ung arméofficer.",
+        "Han kämpar för sitt lands armé i Sudan och skriver för tidningar.",
+        "Senare reser han med soldater i Sydafrika, som reporter.",
+        "Boerkrigare tar honom till fånga och låser in honom i ett fångläger.",
+        "En natt klättrar herr X över lägrets mur.",
+        "Han gömmer sig bland kolsäckar på ett godståg.",
+        "Sedan gömmer hjälpare honom i en gruva och på ett annat tåg.",
+        "Efter en lång, farlig resa når han säkerhet.",
+        "Tidningar trycker historien om hans flykt, och han blir berömd.",
+        "År senare leder han sitt lands regering i kriget mot diktatorn i Tyskland."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "David Lloyd George",
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Harold Macmillan"
+      ],
+      "words": [
+        {
+          "word": "reporter",
+          "explanation": "en person vars jobb är att skriva nyheter till en tidning"
+        },
+        {
+          "word": "fångläger",
+          "explanation": "en bevakad plats där tillfångatagna soldater hålls"
+        },
+        {
+          "word": "tennsoldater",
+          "explanation": "små soldatfigurer som barn leker med"
+        },
+        {
+          "word": "boerkrigare",
+          "explanation": "en soldat som strider för boerna, bönder av holländsk bakgrund i Sydafrika, för mer än hundra år sedan"
+        }
+      ],
+      "main_caption": "I mörkret klättrar herr X upp på en vagn med kolsäckar och flyr.",
+      "side_caption": "Som pojke ställer herr X upp sina tennsoldater i timmar."
+    },
+    {
+      "title": "Bara blod, slit, tårar och svett",
+      "text_sentences": [
+        "1940 blir herr X ledare för sitt lands regering.",
+        "Landet står nästan ensamt i kriget mot diktatorn i Tyskland.",
+        "I parlamentet lovar han bara blod, slit, tårar och svett.",
+        "Tidningar trycker hans ord, och människor upprepar dem.",
+        "Hans ord är enkla, och många säger att orden ger dem mod.",
+        "Snart bombar fiendens flygplan huvudstaden, natt efter natt.",
+        "Familjer gömmer sig i skyddsrum och i tunnelbanestationer.",
+        "Vid morgonen har bränder ödelagt hela gator.",
+        "Nästa dag går herr X genom ruinerna.",
+        "Han pratar med trötta familjer bland de sönderslagna husen.",
+        "Hans tal från dessa månader blir berömda över hela världen."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Neville Chamberlain",
+        "Charles de Gaulle",
+        "Clement Attlee",
+        "Winston Churchill"
+      ],
+      "words": [
+        {
+          "word": "slit",
+          "explanation": "hårt, tröttsamt arbete"
+        },
+        {
+          "word": "parlament",
+          "explanation": "gruppen av valda personer som stiftar ett lands lagar"
+        },
+        {
+          "word": "skyddsrum",
+          "explanation": "en säker plats som skyddar människor från fara"
+        },
+        {
+          "word": "ruiner",
+          "explanation": "det som är kvar sedan byggnader förstörts"
+        }
+      ],
+      "main_caption": "Efter bombningen ligger gatan i ruiner, och hjälpare söker under hela morgonen.",
+      "side_caption": "Varje natt går familjer ner i ett skyddsrum, trygga från bomberna ovan."
+    },
+    {
+      "title": "Skuld, varningar och ett förlorat val",
+      "text_sentences": [
+        "1915 driver herr X hårt på för ett djärvt flottanfall.",
+        "Målet är ett smalt sund, långt från huvudfronten.",
+        "Planen misslyckas svårt.",
+        "Mer än hundratusen soldater dör på båda sidor.",
+        "Herr X får mycket av skulden, och han förlorar sitt jobb i regeringen.",
+        "Han återvänder inom två år och har ett högt ämbete på 1920-talet.",
+        "Sedan kommer tio år utan ämbete, som biografer senare kallar hans ökenvandring.",
+        "Under dessa år varnar han för att en diktator i Tyskland blir farligare.",
+        "Få politiker vill lyssna på hans varningar.",
+        "Senare leder han sitt land genom kriget i Europa.",
+        "Veckor efter segern håller landet ett val.",
+        "Väljarna väljer ett annat parti, som lovar nya bostäder, sjukvård och jobb."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Winston Churchill",
+        "David Lloyd George",
+        "Neville Chamberlain",
+        "Clement Attlee"
+      ],
+      "words": [
+        {
+          "word": "sund",
+          "explanation": "en smal remsa hav mellan två landområden"
+        },
+        {
+          "word": "ökenvandring",
+          "explanation": "en lång period utan makt och inflytande"
+        },
+        {
+          "word": "skuld",
+          "explanation": "ansvar för något dåligt som händer"
+        }
+      ],
+      "main_caption": "1915 anfaller skepp och soldater ett smalt sund, och den djärva planen misslyckas.",
+      "side_caption": "Veckor efter segern köar väljarna för att välja sina nästa ledare."
+    },
+    {
+      "title": "Imperiet, Indien och en svält i Bengalen",
+      "text_sentences": [
+        "Herr X leder sitt lands regering i kriget mot diktatorn i Tyskland.",
+        "Han tror starkt att hans lands imperium är något gott.",
+        "Han säger hårda ord om det indiska folket och deras önskan om självständighet.",
+        "1943 drabbar svält regionen Bengalen, i Indien.",
+        "En cyklon och översvämningar förstör risskörden, och en växtsjukdom sprids.",
+        "Kriget stryper riset från Burma, och skeppen fraktar vapen, inte spannmål.",
+        "Tjänstemän i Indien ber hans regering om mer hjälp.",
+        "Hans regering vägrar skicka tillräckligt många matskepp.",
+        "Omkring tre miljoner människor dör av hunger och sjukdom.",
+        "Historiker är fortfarande oense om hur mycket skuld herr X bär.",
+        "Vissa pekar på brist på fraktfartyg överallt under kriget.",
+        "Andra pekar på hans egna ord och val om Indien."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Clement Attlee",
+        "Harold Macmillan",
+        "Winston Churchill",
+        "David Lloyd George"
+      ],
+      "words": [
+        {
+          "word": "svält",
+          "explanation": "en tid när många människor inte kan få tillräckligt med mat"
+        },
+        {
+          "word": "cyklon",
+          "explanation": "en mycket kraftig storm med starka vindar som kommer in från havet"
+        },
+        {
+          "word": "skörd",
+          "explanation": "de grödor som samlas in från fälten vid odlingssäsongens slut"
+        },
+        {
+          "word": "brist",
+          "explanation": "att inte ha tillräckligt av något som behövs"
+        }
+      ],
+      "main_caption": "1943 sprider sig hungern i Bengalen, och familjer väntar på ris.",
+      "side_caption": "En storm och översvämningar förstör skörden, och fälten ger nästan ingenting att äta."
+    },
+    {
+      "title": "Mannen som skriver sin egen historia",
+      "text_sentences": [
+        "Efter kriget i Europa skriver herr X sin egen historia om det.",
+        "Ett team av hjälpare arbetar med honom.",
+        "Hans skildring fyller sex tjocka band.",
+        "Böckerna formar hur människor minns kriget i årtionden.",
+        "1953 får han Nobelpriset i litteratur.",
+        "Priset hedrar hans tal och hans historieskrivning, inte hans politik.",
+        "Bortom politiken målar herr X ofta stilla landskap.",
+        "Han kallar målandet sitt sätt att fly mörka stämningar.",
+        "Historiker studerar senare hans privata papper, brev och kabinettshandlingar.",
+        "Dessa källor stöder ibland hans egen skildring, och ibland motsäger de den.",
+        "Så småningom skiljer historiker hans egen myt från det dokumenterade förloppet.",
+        "Hans egen berättelse förblir mäktig, men den läses nu med försiktighet."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Charles de Gaulle",
+        "Winston Churchill",
+        "Josef Stalin",
+        "Franklin Roosevelt"
+      ],
+      "words": [
+        {
+          "word": "band",
+          "explanation": "en bok i en lång rad böcker som hör ihop"
+        },
+        {
+          "word": "skildring",
+          "explanation": "här: en persons egen berättelse om vad som hände"
+        },
+        {
+          "word": "kabinett",
+          "explanation": "gruppen av de högsta ministrarna som ger råd till landets ledare"
+        },
+        {
+          "word": "myt",
+          "explanation": "en populär berättelse som inte är helt sann"
+        }
+      ],
+      "main_caption": "Senare i livet skriver herr X en lång historia om kriget, i sex band.",
+      "side_caption": "När politiken känns tung målar herr X i stället stilla trädgårdsmotiv."
+    }
+  ]
+}
