@@ -135,10 +135,10 @@ Not (ej elevvänd): Organisationen kallas Organization X, frågan "Which organiz
 
 ### Huvudbild
 
-- **Motiv:** A quiet committee room in 1948: a woman in a simple dark dress chairs a small meeting, several men and women in period suits and dresses sit around an oval table with papers, one leans forward mid-sentence, tall windows behind. Production note: all faces generic and not resembling any real person, no readable text on the papers, no flags, calm concentrated mood.
+- **Motiv:** A quiet committee room in 1948: a woman in a simple dark dress chairs a small meeting, several men and women in period suits and dresses sit around an oval table with papers, one leans forward mid-sentence, tall windows behind. Production note: every sheet on the table blank, closed plain folders only, no notebooks, no name cards, natural muted color; all faces generic and not resembling any real person, no readable text on the papers, no flags, calm concentrated mood.
 - **Bildtext:** *A small committee writes a list of rights for every human.*
 - **Shutterstock-sökning:** `1948 committee meeting oval table woman chair historical`
-- **AI-prompt (alternativ):** Photorealistic wide shot of a quiet committee room in 1948, a woman in a simple dark 1940s dress chairing a small meeting, several men and women in 1940s suits and dresses seated around an oval table with papers, one leaning forward mid-sentence, tall windows behind, soft daylight, calm concentrated mood, 1940s furnishings only; all faces generic and not resembling any real person, no readable text, no flags, no microphones, no modern objects; no text, no letters, no flags.
+- **AI-prompt (alternativ):** Photorealistic wide shot of a quiet committee room in 1948, natural muted colour, a woman in a simple dark 1940s dress chairing a small meeting at the head of an oval wooden table, several men and women in 1940s suits and dresses seated around it, one man leaning forward mid-sentence with an open hand, tall sash windows behind, soft daylight, calm concentrated mood, 1940s furnishings only, all faces generic and not resembling any real person; every sheet of paper on the table is completely blank, most papers lie inside closed plain folders, no notebooks with handwriting, no typed lines, no pencil marks, no name cards, no pens touching paper, no microphones, no modern objects; no text, no letters, no flags, no emblems.
 
 ### Sidobild
 
