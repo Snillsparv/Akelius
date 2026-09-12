@@ -1,0 +1,214 @@
+{
+  "slug": "marie-curie",
+  "person_sv": "Marie Curie",
+  "cards": [
+    {
+      "title": "En hemlig skola och en glödande burk i ett skjul",
+      "text_sentences": [
+        "Fru X är en flicka i Warszawa för mer än 150 år sedan.",
+        "Ett främmande rike styr hennes land vid den här tiden.",
+        "Flickor får inte studera vid universitetet där.",
+        "Så unga kvinnor studerar i hemlighet, i ett nytt rum varje gång.",
+        "I ungefär fem år arbetar fru X som guvernant.",
+        "Hon sparar pengar för att hjälpa sin syster att studera först.",
+        "Till slut reser hon själv till Paris.",
+        "Hon studerar sent på natten, ofta hungrig och frusen.",
+        "Senare arbetar hon i ett kallt skjul av trä.",
+        "Inuti glöder ett märkligt nytt ämne svagt i mörkret."
+      ],
+      "question": "Vem är fru X?",
+      "options": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Emmy Noether",
+        "Ada Lovelace"
+      ],
+      "words": [
+        {
+          "word": "rike",
+          "explanation": "en stor grupp länder eller områden som styrs av en makt"
+        },
+        {
+          "word": "guvernant",
+          "explanation": "en kvinna som får betalt för att undervisa barn hemma"
+        },
+        {
+          "word": "ämne",
+          "explanation": "ett material, det som en sak är gjord av"
+        },
+        {
+          "word": "glöda",
+          "explanation": "att avge ett mjukt, svagt sken"
+        }
+      ],
+      "main_caption": "I ett kallt skjul av trä börjar något märkligt att glöda.",
+      "side_caption": "I ungefär fem år tjänar fru X pengar på att undervisa andra människors barn."
+    },
+    {
+      "title": "Två nya grundämnen och ett pris som ingen kvinna fått förut",
+      "text_sentences": [
+        "Fru X arbetar nu som forskare i Paris.",
+        "Hon studerar märkliga strålar som kommer från en tung mörk malm.",
+        "Tillsammans med sin man söker hon efter deras verkliga källa.",
+        "Inom ett år hittar de två nya grundämnen.",
+        "De döper ett till polonium, efter hennes hemland, och ett till radium.",
+        "Sedan tar det år av hårt arbete att få fram en liten mängd rent radium.",
+        "År 1903 vinner fru X Nobelpriset.",
+        "Hon är den första kvinnan någonsin att vinna det.",
+        "Tre år senare dör hennes man i en gatuolycka.",
+        "Hon fortsätter arbeta ensam, i djup sorg.",
+        "Sorbonne ger henne då hans gamla tjänst.",
+        "Hon blir dess allra första kvinnliga professor."
+      ],
+      "question": "Vem är fru X?",
+      "options": [
+        "Lise Meitner",
+        "Marie Curie",
+        "Chien-Shiung Wu",
+        "Elizabeth Blackwell"
+      ],
+      "words": [
+        {
+          "word": "malm",
+          "explanation": "sten som innehåller en användbar metall eller ett användbart material"
+        },
+        {
+          "word": "grundämne",
+          "explanation": "ett av de enkla grundämnen som allt annat är uppbyggt av"
+        },
+        {
+          "word": "sorg",
+          "explanation": "den djupa sorgsna känslan efter att någon har dött"
+        },
+        {
+          "word": "tjänst",
+          "explanation": "ett arbete eller en officiell befattning"
+        }
+      ],
+      "main_caption": "Universitetet i Paris ger fru X en stor heder.",
+      "side_caption": "Inuti denna tunga mörka sten döljer sig två grundämnen som ingen ännu har namngett."
+    },
+    {
+      "title": "Det andra priset, och en kropp som sakta får betala",
+      "text_sentences": [
+        "Fru X har redan Nobelpriset sedan flera år tillbaka.",
+        "Hennes man har dött, men hon fortsätter arbeta ensam.",
+        "År 1911 vinner hon Nobelpriset en andra gång, för sin egen forskning.",
+        "Hon blir den första personen i historien att vinna två.",
+        "Vid den här tiden arbetar hon dagligen med starkt glödande ämnen.",
+        "Folk säger att hon bär små glödande rör i fickan.",
+        "Hon älskar det mjuka ljus de ger på natten.",
+        "Få förstår ännu hur mycket de osynliga strålarna kan skada kroppen under många år.",
+        "Sakta blir hennes händer grova, och hennes ögon blir svaga.",
+        "År av exponering skadar tyst hennes hälsa."
+      ],
+      "question": "Vem är fru X?",
+      "options": [
+        "Elizabeth Blackwell",
+        "Grace Hopper",
+        "Marie Curie",
+        "Mary Seacole"
+      ],
+      "words": [
+        {
+          "word": "forskning",
+          "explanation": "noggrann undersökning för att ta reda på nya saker"
+        },
+        {
+          "word": "ämne",
+          "explanation": "ett material, det som en sak är gjord av"
+        },
+        {
+          "word": "osynlig",
+          "explanation": "omöjlig att se"
+        },
+        {
+          "word": "exponering",
+          "explanation": "att vara nära något, om och om igen, under lång tid"
+        }
+      ],
+      "main_caption": "År nära de märkliga strålarna skadar sakta hennes händer.",
+      "side_caption": "Ett andra stort pris gör henne till den första personen någonsin att vinna två."
+    },
+    {
+      "title": "Röntgenbilar vid fronten, och anteckningsböcker inlåsta i bly",
+      "text_sentences": [
+        "Det stora kriget 1914 börjar i Europa.",
+        "Sårade soldater kommer till sjukhusen varje dag.",
+        "Fru X får en idé för att hjälpa läkare se brutna ben snabbt.",
+        "Hon sätter enkla röntgenmaskiner inuti vanliga bilar.",
+        "Hon utbildar unga kvinnor i att köra och använda maskinerna nära fronten.",
+        "Hennes egen tonårsdotter arbetar vid hennes sida som hjälpreda.",
+        "Röntgentjänsten de bygger upp undersöker mer än en miljon sårade män.",
+        "Efter kriget återvänder fru X till sitt tysta laboratorium.",
+        "Hon dör 1934, utsliten efter decennier nära stark strålning.",
+        "Än i dag är hennes gamla anteckningsböcker för radioaktiva för att röra vid säkert."
+      ],
+      "question": "Vem är fru X?",
+      "options": [
+        "Lise Meitner",
+        "Marie Curie",
+        "Mary Seacole",
+        "Rosalind Franklin"
+      ],
+      "words": [
+        {
+          "word": "sårad",
+          "explanation": "skadad, ofta i ett krig"
+        },
+        {
+          "word": "front",
+          "explanation": "platsen där två arméer strider som närmast varandra"
+        },
+        {
+          "word": "radioaktiv",
+          "explanation": "som avger starka osynliga strålar som kan skada kroppen"
+        }
+      ],
+      "main_caption": "Fru X skickar enkla röntgenbilar nära de sårade soldaterna.",
+      "side_caption": "Hennes gamla anteckningsböcker hålls fortfarande inlåsta i dag, för farliga att röra vid fritt."
+    },
+    {
+      "title": "Ett pris nästan utan hennes namn",
+      "text_sentences": [
+        "År 1903 planerar en kommitté för Nobelpriset först att hedra bara två män.",
+        "En av männen, hennes man, kräver att hennes namn också läggs till.",
+        "Så hennes namn läggs till, och hon delar priset.",
+        "Åtta år senare följer ett andra pris, bara för hennes eget arbete.",
+        "Samma år angriper en fientlig press hennes privatliv i stället för hennes vetenskap.",
+        "Vissa tidningar ifrågasätter till och med om en utlandsfödd kvinna förtjänar sådan heder.",
+        "Historiker studerar senare dessa angrepp som ett fall av kön och fördomar.",
+        "Hennes liv väcker också en svår fråga om priset för ny kunskap.",
+        "Mer än sextio år efter hennes död flyttar Frankrike hennes kvarlevor till sin stora hall för hedrade medborgare.",
+        "Hon blir den första kvinnan som hedras där för sina egna bedrifter."
+      ],
+      "question": "Vem är fru X?",
+      "options": [
+        "Emmy Noether",
+        "Marie Curie",
+        "Chien-Shiung Wu",
+        "Lise Meitner"
+      ],
+      "words": [
+        {
+          "word": "kommitté",
+          "explanation": "en liten grupp människor som väljs ut för att besluta om något"
+        },
+        {
+          "word": "fientlig",
+          "explanation": "ovänlig och full av ilska"
+        },
+        {
+          "word": "fördom",
+          "explanation": "en orättvis åsikt om någon som bildas innan man känner personen"
+        },
+        {
+          "word": "kvarlevor",
+          "explanation": "här: kroppen efter en person som har dött"
+        }
+      ],
+      "main_caption": "Långt efter hennes död ger Frankrike henne en plats bland sina mest hedrade medborgare.",
+      "side_caption": "En liten kommitté avgör först vem som förtjänar det stora priset."
+    }
+  ]
+}
