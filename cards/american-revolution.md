@@ -48,10 +48,10 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Sidobild
 
-- **Motiv:** A colonial customs officer sits at a small wooden table on a harbor quay beside stacked crates and barrels, a merchant hands over coins, a closed ledger and a small locked strongbox lie on the table. The picture explains the word 'taxes'. Production note: no readable text or numbers on crates, ledger or coins, generic faces, calm everyday mood, no conflict.
+- **Motiv:** A colonial customs officer sits at a small wooden table on a harbor quay beside stacked crates and barrels, a merchant hands over coins, a closed ledger and a small locked strongbox lie on the table. The picture explains the word 'taxes'. Production note: the officer wears civilian dress, no military uniform, no epaulettes or gold lace; a North American colonial harbor with brick or clapboard warehouses, not a Mediterranean port; no readable text or numbers on crates, ledger or coins, generic faces, calm everyday mood, no conflict.
 - **Bildtext:** *Traders must pay the king a tax on goods such as tea, glass, and paper.*
 - **Shutterstock-sökning:** `colonial customs officer harbor table coins crates barrels illustration`
-- **AI-prompt (alternativ):** Vertical historical illustration of a colonial customs officer seated at a small wooden table on a harbor quay beside stacked wooden crates and barrels, a merchant handing over coins, a closed ledger and a small locked strongbox on the table, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters.
+- **AI-prompt (alternativ):** Vertical historical illustration of a colonial customs officer in plain civilian eighteenth-century dress, a brown wool coat, waistcoat and a simple black tricorn hat, no uniform, no epaulettes, no gold lace, seated at a small wooden table on a wooden harbor quay in a North American colonial port around 1770, brick and clapboard warehouses with gabled roofs and a wooden wharf behind him, a merchant in a plain coat and tricorn hat handing over a few coins, a closed leather ledger and a small locked iron strongbox on the table, stacked plain wooden crates and barrels beside them, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters.
 
 ---
 
@@ -140,10 +140,10 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Huvudbild
 
-- **Motiv:** Outside a plain wooden building, a line of men in working clothes waits to cast a paper ballot into a wooden box held by an official, while a small group of women and other townspeople stand apart at a distance, watching. Production note: no readable text on any ballot or sign, generic faces, calm orderly mood, no conflict, no symbols.
+- **Motiv:** Outside a plain wooden building, a line of men in working clothes waits to cast a paper ballot into a wooden box held by an official, while a small group of women and other townspeople stand apart at a distance, watching. Production note: eighteenth-century working clothes, tricorn hats and knee breeches, around 1785, no later fashions; no readable text on any ballot or sign, generic faces, calm orderly mood, no conflict, no symbols.
 - **Bildtext:** *Only some people may vote for the leaders of the new nation.*
 - **Shutterstock-sökning:** `colonial election ballot box line voters illustration eighteenth century`
-- **AI-prompt (alternativ):** Wide historical illustration outside a plain wooden building, a line of men in working clothes waiting to place a paper ballot into a wooden box held by an official, a small group of women and other townspeople standing apart at a distance watching, soft daylight, calm orderly mood, no readable text, no signs, no letters, no symbols.
+- **AI-prompt (alternativ):** Wide historical illustration around 1785 outside a plain wooden clapboard meeting house in a North American colonial town, a line of men in eighteenth-century working clothes, tricorn hats and round felt hats, long coats, waistcoats, knee breeches, stockings and buckled shoes, waiting to place a blank paper ballot into a wooden box held by an official in a plain dark coat and tricorn hat, a small group of women in mob caps, long gowns and shawls and a few other townspeople standing apart at a distance watching, wooden shingle roofs only, no metal roofs, no bowler hats, no long trousers, soft daylight, calm orderly mood, generic faces, no readable text, no signs, no letters, no symbols.
 
 ### Sidobild
 
@@ -240,10 +240,10 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Huvudbild
 
-- **Motiv:** A long column of South American soldiers and horses crosses a high, snow-dusted mountain pass, seen from a distance, dramatic peaks around them, cold clear light, no flags visible. Production note: no readable text or banners, figures small and generic, no violence, no recognizable portrait among the riders.
+- **Motiv:** A long column of South American soldiers and horses crosses a high, snow-dusted mountain pass, seen from a distance, dramatic peaks around them, cold clear light, no flags visible. Production note: tiny figures far away, no leader in the foreground, no bicorn hats, no white horse, no close-up riders; no readable text or banners, figures small and generic, no violence, no recognizable portrait among the riders.
 - **Bildtext:** *Far to the south, decades later, new fighters cross the mountains for their own freedom.*
 - **Shutterstock-sökning:** `army crossing mountain pass south america historical illustration`
-- **AI-prompt (alternativ):** Wide historical illustration of a long column of South American soldiers and horses crossing a high, snow-dusted mountain pass, seen from a distance, dramatic rocky peaks around them, cold clear daylight, no flags, no banners, no readable text, no letters.
+- **AI-prompt (alternativ):** Wide historical illustration of a long column of South American soldiers and horses crossing a high, snow-dusted Andean mountain pass in the 1810s, seen from far away and high up so that the figures are tiny dark specks winding along a narrow rocky trail, no faces visible, no single leader standing out, no white horse, no bicorn hats, no close-up riders, dramatic rocky peaks and deep valleys around them, cold clear daylight, no flags, no banners, no readable text, no letters.
 
 ### Sidobild
 

@@ -44,7 +44,7 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 - **Motiv:** A small three-masted wooden sailing ship crosses a wide grey-blue ocean under a big cloudy sky, seen from a distance, with a few seabirds flying above the waves. No people are visible on the tiny distant deck. Production note: no readable name or flag on the hull, no text, letters, or numbers anywhere.
 - **Bildtext:** *For almost five years, Mr X sails on a small wooden ship.*
 - **Shutterstock-sökning:** `small three-masted sailing ship wide ocean distance cloudy sky seabirds`
-- **AI-prompt (alternativ):** Photorealistic wide seascape of a small three-masted wooden sailing ship crossing a grey-blue ocean under a big cloudy sky, seen from a distance with gentle waves and a few seabirds above, no visible people on the tiny deck, calm adventurous mood, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic wide seascape of a small wooden sailing ship of the 1830s with exactly three masts, square sails on the two front masts and a fore-and-aft sail on the rear mast, a plain dark hull with no name, no flag and no ornament, crossing a grey-blue ocean under a big cloudy sky, seen from a distance with gentle waves and a few seabirds above, no visible people on the tiny deck, calm adventurous mood, no text, no letters, no numbers.
 
 ### Sidobild
 
@@ -186,10 +186,10 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ### Huvudbild
 
-- **Motiv:** A large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room, and at the front two men stand facing each other, one gesturing while speaking. All faces are small and generic at this distance. Production note: no recognizable named portraits, no readable banners, papers, or text anywhere.
+- **Motiv:** A large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room, and at the front two men stand facing each other, one gesturing while speaking. All faces are small and generic at this distance. Production note: no books, papers, or open pages on the benches, they attract pseudo-text; no recognizable named portraits, no readable banners, papers, or text anywhere.
 - **Bildtext:** *In Oxford, two men argue about Mr X's new book in front of a crowd.*
 - **Shutterstock-sökning:** `victorian lecture hall debate audience nineteenth century illustration`
-- **AI-prompt (alternativ):** Realistic historical illustration of a large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room, two men standing at the front facing each other with one gesturing while speaking, faces small and generic, warm daylight from tall windows, no recognizable portraits, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Realistic historical illustration of a large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room over the heads of the audience, two men standing at the front facing each other with one gesturing while speaking, faces small and generic, warm daylight from tall arched windows, wood-panelled walls, all benches and desks completely bare with no books, no papers, no notebooks and no open pages anywhere, hats held on knees, no recognizable portraits, no banners, no text, no letters, no numbers.
 
 ### Sidobild
 
@@ -243,9 +243,9 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ### Sidobild
 
-- **Motiv:** A worn leather mail satchel lies open on a wooden ship's deck, several sealed envelopes seen from the back with wax seals only, no fronts visible, ocean softly blurred in the background. The picture shows how naturalists on different continents share ideas by letter. Production note: no addresses, stamps, or postmarks, no letters or numbers of any kind visible.
+- **Motiv:** A worn leather mail satchel lies open on a wooden ship's deck, several sealed envelopes seen from the back with wax seals only, no fronts visible, ocean softly blurred in the background. The picture shows how naturalists on different continents share ideas by letter. Production note: seals are plain smooth wax without any stamped emblem or lettering ring, stamped designs attract pseudo-letters; no addresses, stamps, or postmarks, no letters or numbers of any kind visible.
 - **Bildtext:** *Naturalists on different continents share their ideas by letter.*
 - **Shutterstock-sökning:** `old leather mail satchel sealed envelopes wax seals ship deck`
-- **AI-prompt (alternativ):** Photorealistic close-up of a worn leather mail satchel lying open on a wooden ship's deck, several sealed envelopes seen from the back showing only their wax seals, no envelope fronts visible, ocean softly blurred in the background, warm light, no addresses, no stamps, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic close-up of a worn brown leather mail satchel lying open on a wooden ship's deck, several cream envelopes seen from the back showing only their folded flaps, each flap closed with a plain smooth blob of dark red sealing wax with no stamped design, no crest, no emblem and no ring of marks, envelope fronts not visible, ocean softly blurred behind a wooden rail, warm evening light, no addresses, no stamps, no text, no letters, no numbers.
 
 ---

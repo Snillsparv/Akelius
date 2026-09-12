@@ -198,10 +198,10 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 ### Sidobild
 
-- **Motiv:** Inside a simple home in India, a weaver sits at a simple pit loom set into the floor, his legs in the pit, weaving a length of fine cotton cloth, natural light coming through an open door. Supports the word 'weaver'. Production note: the woven cloth shows only plain simple patterns, no readable text or letters anywhere, calm respectful mood.
+- **Motiv:** Inside a simple home in India, a weaver sits at a simple pit loom set into the floor, his legs in the pit, weaving a length of fine cotton cloth, natural light coming through an open door. Supports the word 'weaver'. Production note: the weaver is bare-chested with a simple cotton cloth over one shoulder, turban and dhoti, a small wooden shuttle in his hand, no modern dress; the woven cloth shows only plain simple patterns, no readable text or letters anywhere, calm respectful mood.
 - **Bildtext:** *A weaver in India makes fine cloth by hand. Cheap mill cloth now takes away his work.*
 - **Shutterstock-sökning:** `indian pit loom weaver traditional cotton weaving historical illustration`
-- **AI-prompt (alternativ):** Vertical historical illustration of a weaver sitting at a simple pit loom set into the floor with his legs in the pit, inside a simple home in India, weaving a length of fine cotton cloth, natural light coming through an open door, calm focused mood; the cloth shows only plain simple patterns, no readable text, no letters.
+- **AI-prompt (alternativ):** Vertical historical illustration in the same warm painted style as the rest of the set, showing a village home in India in the eighteen hundreds: a weaver with a plain cotton turban and a white dhoti, bare-chested with a simple cotton cloth draped over one shoulder, sits at a pit loom with his legs in a pit cut into the earthen floor. The woven cloth is wound on a wooden beam close to his body, a wooden reed and beater hang on cords from a rafter above the loom, and the unwoven warp threads stretch away from him under tension to a warp beam at the far end of the room; he holds a small wooden shuttle in one hand. Soft natural light comes through an open wooden door, a basket of raw cotton stands by the plain mud wall, calm focused respectful mood; the cloth shows only plain simple stripes, no modern clothing, no signs, no text, no letters.
 
 ---
 

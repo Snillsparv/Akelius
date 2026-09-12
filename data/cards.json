@@ -16400,10 +16400,10 @@
             "ai_prompt": "Historical illustration of a busy English port dock in the early nineteenth century, workers unloading heavy bales of raw cotton from a large sailing ship onto the quay, other workers carrying bales toward waiting carts, more ships and cranes in the background, soft morning light; no readable signs, no flags, no names, no text, no letters."
           },
           "side_image": {
-            "description": "Inside a simple home in India, a weaver sits at a simple pit loom set into the floor, his legs in the pit, weaving a length of fine cotton cloth, natural light coming through an open door. Supports the word 'weaver'. Production note: the woven cloth shows only plain simple patterns, no readable text or letters anywhere, calm respectful mood.",
+            "description": "Inside a simple home in India, a weaver sits at a simple pit loom set into the floor, his legs in the pit, weaving a length of fine cotton cloth, natural light coming through an open door. Supports the word 'weaver'. Production note: the weaver is bare-chested with a simple cotton cloth over one shoulder, turban and dhoti, a small wooden shuttle in his hand, no modern dress; the woven cloth shows only plain simple patterns, no readable text or letters anywhere, calm respectful mood.",
             "caption": "A weaver in India makes fine cloth by hand. Cheap mill cloth now takes away his work.",
             "shutterstock_query": "indian pit loom weaver traditional cotton weaving historical illustration",
-            "ai_prompt": "Vertical historical illustration of a weaver sitting at a simple pit loom set into the floor with his legs in the pit, inside a simple home in India, weaving a length of fine cotton cloth, natural light coming through an open door, calm focused mood; the cloth shows only plain simple patterns, no readable text, no letters."
+            "ai_prompt": "Vertical historical illustration in the same warm painted style as the rest of the set, showing a village home in India in the eighteen hundreds: a weaver with a plain cotton turban and a white dhoti, bare-chested with a simple cotton cloth draped over one shoulder, sits at a pit loom with his legs in a pit cut into the earthen floor. The woven cloth is wound on a wooden beam close to his body, a wooden reed and beater hang on cords from a rafter above the loom, and the unwoven warp threads stretch away from him under tension to a warp beam at the far end of the room; he holds a small wooden shuttle in one hand. Soft natural light comes through an open wooden door, a basket of raw cotton stands by the plain mud wall, calm focused respectful mood; the cloth shows only plain simple stripes, no modern clothing, no signs, no text, no letters."
           },
           "sv": {
             "title": "Bomull från tre kontinenter",
@@ -16607,7 +16607,7 @@
             "description": "A small three-masted wooden sailing ship crosses a wide grey-blue ocean under a big cloudy sky, seen from a distance, with a few seabirds flying above the waves. No people are visible on the tiny distant deck. Production note: no readable name or flag on the hull, no text, letters, or numbers anywhere.",
             "caption": "For almost five years, Mr X sails on a small wooden ship.",
             "shutterstock_query": "small three-masted sailing ship wide ocean distance cloudy sky seabirds",
-            "ai_prompt": "Photorealistic wide seascape of a small three-masted wooden sailing ship crossing a grey-blue ocean under a big cloudy sky, seen from a distance with gentle waves and a few seabirds above, no visible people on the tiny deck, calm adventurous mood, no text, no letters, no numbers."
+            "ai_prompt": "Photorealistic wide seascape of a small wooden sailing ship of the 1830s with exactly three masts, square sails on the two front masts and a fore-and-aft sail on the rear mast, a plain dark hull with no name, no flag and no ornament, crossing a grey-blue ocean under a big cloudy sky, seen from a distance with gentle waves and a few seabirds above, no visible people on the tiny deck, calm adventurous mood, no text, no letters, no numbers."
           },
           "side_image": {
             "description": "A single giant tortoise with a huge domed shell walks slowly across dry volcanic ground with sparse cactus plants, seen close up in bright island sunlight. No people, no other animals. Production note: no readable signs or numbers on any rock, realistic tortoise anatomy, calm mood.",
@@ -16885,10 +16885,10 @@
             }
           ],
           "main_image": {
-            "description": "A large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room, and at the front two men stand facing each other, one gesturing while speaking. All faces are small and generic at this distance. Production note: no recognizable named portraits, no readable banners, papers, or text anywhere.",
+            "description": "A large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room, and at the front two men stand facing each other, one gesturing while speaking. All faces are small and generic at this distance. Production note: no books, papers, or open pages on the benches, they attract pseudo-text; no recognizable named portraits, no readable banners, papers, or text anywhere.",
             "caption": "In Oxford, two men argue about Mr X's new book in front of a crowd.",
             "shutterstock_query": "victorian lecture hall debate audience nineteenth century illustration",
-            "ai_prompt": "Realistic historical illustration of a large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room, two men standing at the front facing each other with one gesturing while speaking, faces small and generic, warm daylight from tall windows, no recognizable portraits, no text, no letters, no numbers."
+            "ai_prompt": "Realistic historical illustration of a large Victorian lecture hall filled with rows of seated people in formal nineteenth-century dress, seen from the back of the room over the heads of the audience, two men standing at the front facing each other with one gesturing while speaking, faces small and generic, warm daylight from tall arched windows, wood-panelled walls, all benches and desks completely bare with no books, no papers, no notebooks and no open pages anywhere, hats held on knees, no recognizable portraits, no banners, no text, no letters, no numbers."
           },
           "side_image": {
             "description": "The tall stone nave of a grand old English abbey, seen from the center aisle looking up toward high ribbed ceilings and stained glass windows, soft colored light falling on the stone floor. No people, no readable inscriptions on any floor stone or wall. Production note: no readable text, letters, or numbers anywhere.",
@@ -16989,10 +16989,10 @@
             "ai_prompt": "Photorealistic image of a single old tree with many branching limbs standing alone on a green English hillside in winter, bare of leaves, the branching pattern clear against a pale sky, soft natural light, no people, calm mood, no text, no letters, no numbers."
           },
           "side_image": {
-            "description": "A worn leather mail satchel lies open on a wooden ship's deck, several sealed envelopes seen from the back with wax seals only, no fronts visible, ocean softly blurred in the background. The picture shows how naturalists on different continents share ideas by letter. Production note: no addresses, stamps, or postmarks, no letters or numbers of any kind visible.",
+            "description": "A worn leather mail satchel lies open on a wooden ship's deck, several sealed envelopes seen from the back with wax seals only, no fronts visible, ocean softly blurred in the background. The picture shows how naturalists on different continents share ideas by letter. Production note: seals are plain smooth wax without any stamped emblem or lettering ring, stamped designs attract pseudo-letters; no addresses, stamps, or postmarks, no letters or numbers of any kind visible.",
             "caption": "Naturalists on different continents share their ideas by letter.",
             "shutterstock_query": "old leather mail satchel sealed envelopes wax seals ship deck",
-            "ai_prompt": "Photorealistic close-up of a worn leather mail satchel lying open on a wooden ship's deck, several sealed envelopes seen from the back showing only their wax seals, no envelope fronts visible, ocean softly blurred in the background, warm light, no addresses, no stamps, no text, no letters, no numbers."
+            "ai_prompt": "Photorealistic close-up of a worn brown leather mail satchel lying open on a wooden ship's deck, several cream envelopes seen from the back showing only their folded flaps, each flap closed with a plain smooth blob of dark red sealing wax with no stamped design, no crest, no emblem and no ring of marks, envelope fronts not visible, ocean softly blurred behind a wooden rail, warm evening light, no addresses, no stamps, no text, no letters, no numbers."
           },
           "sv": {
             "title": "En trädskiss, en andra upptäckare och ett missbrukat arv",
@@ -17578,10 +17578,10 @@
             "ai_prompt": "Wide historical illustration of a moonlit colonial harbor around 1773, three tall wooden sailing ships resting at a long wooden quay, a small group of colonists in plain coats walking up a gangplank onto the nearest ship, dark calm water, a quiet town with low rooftops in the background, cool silvery moonlight, no flags, no banners, no fire, no crowd, no text, no letters."
           },
           "side_image": {
-            "description": "A colonial customs officer sits at a small wooden table on a harbor quay beside stacked crates and barrels, a merchant hands over coins, a closed ledger and a small locked strongbox lie on the table. The picture explains the word 'taxes'. Production note: no readable text or numbers on crates, ledger or coins, generic faces, calm everyday mood, no conflict.",
+            "description": "A colonial customs officer sits at a small wooden table on a harbor quay beside stacked crates and barrels, a merchant hands over coins, a closed ledger and a small locked strongbox lie on the table. The picture explains the word 'taxes'. Production note: the officer wears civilian dress, no military uniform, no epaulettes or gold lace; a North American colonial harbor with brick or clapboard warehouses, not a Mediterranean port; no readable text or numbers on crates, ledger or coins, generic faces, calm everyday mood, no conflict.",
             "caption": "Traders must pay the king a tax on goods such as tea, glass, and paper.",
             "shutterstock_query": "colonial customs officer harbor table coins crates barrels illustration",
-            "ai_prompt": "Vertical historical illustration of a colonial customs officer seated at a small wooden table on a harbor quay beside stacked wooden crates and barrels, a merchant handing over coins, a closed ledger and a small locked strongbox on the table, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters."
+            "ai_prompt": "Vertical historical illustration of a colonial customs officer in plain civilian eighteenth-century dress, a brown wool coat, waistcoat and a simple black tricorn hat, no uniform, no epaulettes, no gold lace, seated at a small wooden table on a wooden harbor quay in a North American colonial port around 1770, brick and clapboard warehouses with gabled roofs and a wooden wharf behind him, a merchant in a plain coat and tricorn hat handing over a few coins, a closed leather ledger and a small locked iron strongbox on the table, stacked plain wooden crates and barrels beside them, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters."
           }
         },
         {
@@ -17685,10 +17685,10 @@
             }
           ],
           "main_image": {
-            "description": "Outside a plain wooden building, a line of men in working clothes waits to cast a paper ballot into a wooden box held by an official, while a small group of women and other townspeople stand apart at a distance, watching. Production note: no readable text on any ballot or sign, generic faces, calm orderly mood, no conflict, no symbols.",
+            "description": "Outside a plain wooden building, a line of men in working clothes waits to cast a paper ballot into a wooden box held by an official, while a small group of women and other townspeople stand apart at a distance, watching. Production note: eighteenth-century working clothes, tricorn hats and knee breeches, around 1785, no later fashions; no readable text on any ballot or sign, generic faces, calm orderly mood, no conflict, no symbols.",
             "caption": "Only some people may vote for the leaders of the new nation.",
             "shutterstock_query": "colonial election ballot box line voters illustration eighteenth century",
-            "ai_prompt": "Wide historical illustration outside a plain wooden building, a line of men in working clothes waiting to place a paper ballot into a wooden box held by an official, a small group of women and other townspeople standing apart at a distance watching, soft daylight, calm orderly mood, no readable text, no signs, no letters, no symbols."
+            "ai_prompt": "Wide historical illustration around 1785 outside a plain wooden clapboard meeting house in a North American colonial town, a line of men in eighteenth-century working clothes, tricorn hats and round felt hats, long coats, waistcoats, knee breeches, stockings and buckled shoes, waiting to place a blank paper ballot into a wooden box held by an official in a plain dark coat and tricorn hat, a small group of women in mob caps, long gowns and shawls and a few other townspeople standing apart at a distance watching, wooden shingle roofs only, no metal roofs, no bowler hats, no long trousers, soft daylight, calm orderly mood, generic faces, no readable text, no signs, no letters, no symbols."
           },
           "side_image": {
             "description": "A family in plain clothes loads bundles and a wooden chest onto a horse cart outside a modest house, one of them looks back at the house, a light rain begins to fall. The picture explains the word 'loyalists'. Production note: no flags, no readable text, generic faces, somber but calm mood, no violence.",
@@ -17799,10 +17799,10 @@
             }
           ],
           "main_image": {
-            "description": "A long column of South American soldiers and horses crosses a high, snow-dusted mountain pass, seen from a distance, dramatic peaks around them, cold clear light, no flags visible. Production note: no readable text or banners, figures small and generic, no violence, no recognizable portrait among the riders.",
+            "description": "A long column of South American soldiers and horses crosses a high, snow-dusted mountain pass, seen from a distance, dramatic peaks around them, cold clear light, no flags visible. Production note: tiny figures far away, no leader in the foreground, no bicorn hats, no white horse, no close-up riders; no readable text or banners, figures small and generic, no violence, no recognizable portrait among the riders.",
             "caption": "Far to the south, decades later, new fighters cross the mountains for their own freedom.",
             "shutterstock_query": "army crossing mountain pass south america historical illustration",
-            "ai_prompt": "Wide historical illustration of a long column of South American soldiers and horses crossing a high, snow-dusted mountain pass, seen from a distance, dramatic rocky peaks around them, cold clear daylight, no flags, no banners, no readable text, no letters."
+            "ai_prompt": "Wide historical illustration of a long column of South American soldiers and horses crossing a high, snow-dusted Andean mountain pass in the 1810s, seen from far away and high up so that the figures are tiny dark specks winding along a narrow rocky trail, no faces visible, no single leader standing out, no white horse, no bicorn hats, no close-up riders, dramatic rocky peaks and deep valleys around them, cold clear daylight, no flags, no banners, no readable text, no letters."
           },
           "side_image": {
             "description": "Close-up of a hand pressing a wax seal onto a rolled parchment document resting on a dark wooden table, warm candlelight, the rest of the room in soft shadow. The picture explains the word 'ratified'. Production note: no readable text or letters on the parchment, no other people visible, quiet formal mood.",
