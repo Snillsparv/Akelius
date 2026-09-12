@@ -1,0 +1,225 @@
+{
+  "slug": "florence-nightingale",
+  "person_sv": "Florence Nightingale",
+  "cards": [
+    {
+      "title": "Den rika flickan som vill vårda de sjuka",
+      "text_sentences": [
+        "Fröken X växer upp i en rik familj i England, för ungefär 200 år sedan.",
+        "Hon har ett stort hus, tjänare och ett bekvämt liv.",
+        "De flesta rika flickor på hennes tid väljer inget yrke alls.",
+        "En dag säger hon att hon hör en kallelse från Gud.",
+        "Hon tror att Gud vill att hon ska hjälpa sjuka och skadade människor.",
+        "Hennes familj är inte glad över hennes plan.",
+        "De vill i stället att hon ska gifta sig och stanna lugnt hemma.",
+        "Hon utbildar sig ändå till sjuksköterska, långt hemifrån.",
+        "Senare går hennes land i krig, i ett land långt borta.",
+        "Hon reser dit med en liten grupp sjuksköterskor.",
+        "På natten går hon genom sjukhuset med en liten lampa."
+      ],
+      "question": "Vem är fröken X?",
+      "options": [
+        "Mary Seacole",
+        "Florence Nightingale",
+        "Elizabeth Blackwell",
+        "Clara Barton"
+      ],
+      "words": [
+        {
+          "word": "tjänare",
+          "explanation": "personer som får betalt för att arbeta och hjälpa till i ett rikt hem"
+        },
+        {
+          "word": "kallelse",
+          "explanation": "här, en stark känsla av att Gud vill att man ska göra något"
+        },
+        {
+          "word": "utbilda sig",
+          "explanation": "att lära sig det man behöver kunna för ett yrke"
+        },
+        {
+          "word": "lampa",
+          "explanation": "en liten ljuskälla som bränner olja eller har ett stearinljus"
+        }
+      ],
+      "main_caption": "En dotter i en rik familj drömmer om ett helt annat liv.",
+      "side_caption": "En liten lampa lyser upp mörkret för dem som arbetar på natten."
+    },
+    {
+      "title": "Trettioåtta sjuksköterskor på ett smutsigt krigssjukhus",
+      "text_sentences": [
+        "Fröken X är sjuksköterska i England år 1854.",
+        "Hennes land utkämpar ett krig långt bort, som kallas Krimkriget.",
+        "Tidningar rapporterar att sårade soldater får mycket dålig vård.",
+        "Fröken X leder en grupp på trettioåtta sjuksköterskor som ska hjälpa till.",
+        "De reser till ett stort militärsjukhus i Scutari, nära Konstantinopel.",
+        "Byggnaden är smutsig, kall och full av råttor.",
+        "Rent vatten och rena bandage är svårt att få tag på.",
+        "Fler soldater dör av sjukdom än av sina skador.",
+        "Fröken X arbetar hårt för att göra vårdsalarna renare och lugnare.",
+        "Hon köper mat och rena skjortor till soldaterna för pengar från tidningsläsare hemma.",
+        "Året efter rensar en särskild grupp sjukhusets avlopp, och mycket färre soldater dör.",
+        "När hon kommer hem kallar hela landet henne en hjälte."
+      ],
+      "question": "Vem är fröken X?",
+      "options": [
+        "Clara Barton",
+        "Mary Seacole",
+        "Florence Nightingale",
+        "Dorothea Dix"
+      ],
+      "words": [
+        {
+          "word": "sårad",
+          "explanation": "skadad allvarligt i en strid eller olycka"
+        },
+        {
+          "word": "bandage",
+          "explanation": "remsor av tyg som används för att täcka ett sår"
+        },
+        {
+          "word": "sjukdom",
+          "explanation": "en åkomma, ofta orsakad av bakterier, inte en skada"
+        },
+        {
+          "word": "vårdsal",
+          "explanation": "ett stort rum på ett sjukhus med många sängar"
+        },
+        {
+          "word": "avlopp",
+          "explanation": "ett rör under marken som leder bort smutsigt vatten och avfall"
+        }
+      ],
+      "main_caption": "Ett stort sjukhus långt hemifrån fylls med sjuka och sårade soldater.",
+      "side_caption": "En vårdsal är ett stort rum på ett sjukhus med många sängar."
+    },
+    {
+      "title": "Diagram som förklarar varför soldater dör",
+      "text_sentences": [
+        "Fröken X är en sjuksköterska som kommer hem från ett krig långt borta.",
+        "Efter kriget studerar hon siffror, inte strider.",
+        "Hon samlar noggranna fakta om varje soldat som dör på sjukhus.",
+        "De flesta dödsfall beror på sjukdom, inte på fiendens vapen.",
+        "Hon ritar färgglada diagram för att visa detta tydligt.",
+        "Arméns tjänstemän och politiker tycker att diagrammen är lätta att läsa.",
+        "Diagrammen hjälper till att driva fram renare sjukhus och renare arméläger.",
+        "År 1858 väljer ett vetenskapligt sällskap in henne som sin första kvinnliga medlem.",
+        "Det sällskapet studerar siffror och fakta om människor och länder, det som kallas statistik.",
+        "Fröken X hävdar att noggranna fakta, inte tur, räddar liv.",
+        "Hennes noggranna arbete förändrar långsamt hur regeringar planerar sjukvården."
+      ],
+      "question": "Vem är fröken X?",
+      "options": [
+        "Ada Lovelace",
+        "Florence Nightingale",
+        "Elizabeth Blackwell",
+        "Marie Curie"
+      ],
+      "words": [
+        {
+          "word": "diagram",
+          "explanation": "bilder som använder former eller linjer för att visa fakta tydligt"
+        },
+        {
+          "word": "tjänsteman",
+          "explanation": "en person som har ett viktigt arbete inom armén eller staten"
+        },
+        {
+          "word": "välja in",
+          "explanation": "att välja en person till en roll genom röstning"
+        },
+        {
+          "word": "statistik",
+          "explanation": "läran om fakta och siffror om många människor eller saker"
+        }
+      ],
+      "main_caption": "Noggranna fakta övertygar tjänstemän om att ändra hur sjukhus drivs.",
+      "side_caption": "Diagram använder former och linjer, inte strider, för att göra en poäng."
+    },
+    {
+      "title": "En skola, en bok och år i sängen",
+      "text_sentences": [
+        "Fröken X föds i en italiensk stad, och hennes familj uppkallar henne efter staden.",
+        "Hon växer upp rik i England men blir senare sjuk av sin tid i kriget.",
+        "Under resten av livet håller dålig hälsa henne ofta sängliggande.",
+        "Ändå fortsätter hon att arbeta hårt från sitt sovrum i många år.",
+        "Hon skriver en berömd bok om god omvårdnad.",
+        "Kort därefter öppnar hon en skola för sjuksköterskor i London.",
+        "Skolan lär kvinnor att vårda med rena, noggranna metoder.",
+        "Tjänstemän i Indien ber om hennes råd om rent vatten och rena läger.",
+        "Hon reser aldrig själv till Indien, men hon studerar dess rapporter noggrant.",
+        "År 1907 ger en kung henne en hög orden, den första gången för en kvinna."
+      ],
+      "question": "Vem är fröken X?",
+      "options": [
+        "Marie Curie",
+        "Edith Cavell",
+        "Elizabeth Garrett Anderson",
+        "Florence Nightingale"
+      ],
+      "words": [
+        {
+          "word": "råd",
+          "explanation": "idéer om vad någon borde göra"
+        },
+        {
+          "word": "orden",
+          "explanation": "ett speciellt sätt att visa stor respekt"
+        },
+        {
+          "word": "metod",
+          "explanation": "ett noggrant, planerat sätt att göra något"
+        },
+        {
+          "word": "rapport",
+          "explanation": "en skriven text som beskriver fakta eller händelser"
+        }
+      ],
+      "main_caption": "Även från sin säng fortsätter fröken X att arbeta i många år.",
+      "side_caption": "Rent vatten och rena händer är en del av de noggranna metoder som hennes skola lär ut."
+    },
+    {
+      "title": "En statistiker, en legend och en annan sjuksköterska från Jamaica",
+      "text_sentences": [
+        "Fröken X tror att smutsig luft, inte små levande bakterier, orsakar de flesta sjukdomar.",
+        "Senare visar forskare att bakterier är den verkliga orsaken till infektion.",
+        "Ändå gör hennes jakt på ren luft att sjukhusen blir renare i alla fall.",
+        "År 1855, under Krimkriget, sjunker dödstalen kraftigt på hennes militärsjukhus efter att en grupp rensar avloppen.",
+        "År senare studerar fröken X detta resultat noga och drar en tydlig slutsats av det.",
+        "Folkliga berättelser minns henne senare mest för hennes godhet på natten.",
+        "Historiker påminner oss om att hon också är en tuff, noggrann statistiker.",
+        "Mary Seacole, en sjuksköterska från Jamaica, vill också hjälpa till i det kriget.",
+        "Hon ber om att få följa med sjuksköterskorna som skickas ut, men tjänstemännen säger nej.",
+        "Så Mary Seacole vårdar i stället soldater på sitt eget sätt.",
+        "I dag hedras båda kvinnorna som pionjärer inom modern sjukvård."
+      ],
+      "question": "Vem är fröken X?",
+      "options": [
+        "Florence Nightingale",
+        "Elizabeth Blackwell",
+        "Clara Barton",
+        "Marie Curie"
+      ],
+      "words": [
+        {
+          "word": "bakterie",
+          "explanation": "mycket små levande varelser, för små för att se, som kan orsaka sjukdom"
+        },
+        {
+          "word": "infektion",
+          "explanation": "sjukdom som orsakas av att bakterier kommer in i kroppen"
+        },
+        {
+          "word": "statistiker",
+          "explanation": "en person som noggrant studerar fakta och siffror"
+        },
+        {
+          "word": "pionjär",
+          "explanation": "en person som är bland de första att prova eller uppnå något nytt"
+        }
+      ],
+      "main_caption": "En grupp lagar de trasiga avloppen, och dödstalen sjunker kraftigt.",
+      "side_caption": "Två sjuksköterskor, två väskor, två sätt att vårda soldater i samma krig."
+    }
+  ]
+}
