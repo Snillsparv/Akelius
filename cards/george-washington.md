@@ -41,10 +41,10 @@ Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revol
 
 ### Huvudbild
 
-- **Motiv:** Seen from a snowy riverbank at night in deep winter: soldiers in plain, worn coats push flat wooden boats into dark water full of floating ice. All figures are seated in the boats or pushing from the bank, no one stands in a boat, no figure is singled out. Snow falls softly. Grim, determined mood. Production note: original composition, not a reproduction of any famous painting; no flag of any kind; no recognizable face or portrait on any figure; no text, letters, or numbers.
+- **Motiv:** Seen from a snowy riverbank at night in deep winter: soldiers in plain, worn coats push flat wooden boats into dark water full of floating ice. All figures are seated in the boats or pushing from the bank, no one stands in a boat, no figure is singled out. Snow falls softly. Grim, determined mood. Production note: soldiers in 1776 dress, tricorn or knitted caps, muskets, no steel helmets, no modern rifles, no modern coats; original composition, not a reproduction of any famous painting; no flag of any kind; no recognizable face or portrait on any figure; no text, letters, or numbers.
 - **Bildtext:** *On a freezing night, General X and his men cross an icy river in secret.*
 - **Shutterstock-sökning:** `soldiers pushing boats icy river night winter riverbank historical illustration`
-- **AI-prompt (alternativ):** Atmospheric realistic illustration seen from a snowy riverbank at night in deep winter, soldiers in plain worn coats pushing flat wooden boats into dark water full of floating ice, all figures seated in the boats or pushing from the bank, no one standing in a boat, no figure singled out, soft falling snow, grim determined mood, original composition, not a reproduction of any famous painting, no flag, no visible faces, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Atmospheric realistic illustration seen from a snowy riverbank at night in deep winter, year 1776, soldiers of a ragged eighteenth century colonial army in plain worn wool coats, tricorn hats, round hats and knitted caps, some with blankets over their shoulders, pushing flat wooden ferry boats into dark water full of floating ice, long flintlock muskets held upright, all figures seated in the boats or pushing from the bank, no one standing in a boat, no figure singled out, soft falling snow, grim determined mood, original composition, not a reproduction of any famous painting, no flag, no visible faces, no helmets, no modern rifles, no text, no letters, no numbers.
 
 ### Sidobild
 
@@ -98,10 +98,10 @@ Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revol
 
 ### Sidobild
 
-- **Motiv:** A wide river seen from a hill at a distance, with a half built city on its muddy banks. Government buildings stand in scaffolding, plain unfinished walls, no domes, workers as tiny distant figures. Soft morning light. The picture explains the word capital: a brand new capital city slowly rising from the land. Production note: no obelisk shaped monument, no domes, no readable signs or text, no flag of any kind.
+- **Motiv:** A wide river seen from a hill at a distance, with a half built city on its muddy banks. Government buildings stand in scaffolding, plain unfinished walls, no domes, workers as tiny distant figures. Soft morning light. The picture explains the word capital: a brand new capital city slowly rising from the land. Production note: a construction site of the 1790s, stone and brick buildings under scaffolding, horse carts and oxen only, no motor vehicles, no modern buildings, no modern town across the river; no obelisk shaped monument, no domes, no readable signs or text, no flag of any kind.
 - **Bildtext:** *A brand new capital city slowly rises beside a wide river.*
 - **Shutterstock-sökning:** `unfinished capital city construction river distant hill eighteenth century`
-- **AI-prompt (alternativ):** Photorealistic vertical view from a hill at a distance of a wide river with a half built city on its muddy banks, government buildings in scaffolding with plain unfinished walls and no domes, tiny distant workers, soft morning light, hopeful quiet mood, no obelisk shaped monument, no readable signs, no text, no letters, no flag.
+- **AI-prompt (alternativ):** Photorealistic vertical view from a wooded hill at a distance in the 1790s of a wide slow river with a half built city on its muddy banks, a few low brick and pale sandstone government buildings two or three storeys high with plain unfinished walls in timber scaffolding, wooden derrick cranes, ox carts and horse wagons on dirt roads, tiny distant workers, low forested hills on the far bank with only a few scattered farmhouses, soft morning light, hopeful quiet mood, no domes, no obelisk shaped monument, no motor vehicles, no modern buildings, no readable signs, no flag, no text, no letters, no numbers.
 
 ---
 
@@ -140,10 +140,10 @@ Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revol
 
 ### Huvudbild
 
-- **Motiv:** Wide farm fields at Mount Vernon at dawn, fields of wheat and corn stretching toward a large house far in the background. Several people walk upright toward the fields carrying farm tools, seen from a distance with no visible faces. Soft early light, quiet and solemn mood, not violent. Production note: no visible faces on any figure, no recognizable portrait, no violence or gore of any kind; no text, letters, or numbers.
+- **Motiv:** Wide farm fields at Mount Vernon at dawn, fields of wheat and corn stretching toward a large house far in the background. Several people walk upright toward the fields carrying farm tools, seen from a distance with no visible faces. Soft early light, quiet and solemn mood, not violent. Production note: the workers are enslaved men and women of African descent in plain eighteenth-century work clothes, shown with dignity as people, no suspenders, no fedoras, no later fashions; no visible faces on any figure, no recognizable portrait, no violence or gore of any kind; no text, letters, or numbers.
 - **Bildtext:** *Hundreds of enslaved people work the fields of Mr X's large farm.*
 - **Shutterstock-sökning:** `plantation fields dawn distant figures walking farm tools historical illustration`
-- **AI-prompt (alternativ):** Solemn realistic illustration of wide farm fields at dawn, fields of wheat and corn stretching toward a large house far in the background, several people walking upright toward the fields carrying farm tools, seen from a distance with no visible faces, soft early light, quiet respectful mood, no violence, no gore, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Solemn realistic illustration of wide farm fields on a Virginia plantation at dawn in the 1780s, fields of wheat and corn stretching toward a large plain house far in the background, several enslaved men and women of African descent in plain coarse linen work clothes of the eighteenth century, the men in loose shirts and breeches with straw hats, the women in simple petticoats and headwraps, walking upright and unhurried toward the fields carrying hoes, sickles and baskets, seen from behind at a distance with no visible faces, soft early light, quiet respectful dignified mood, no overseer, no chains, no violence, no gore, no suspenders, no modern clothing, no text, no letters, no numbers.
 
 ### Sidobild
 
