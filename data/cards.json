@@ -28056,6 +28056,863 @@
         }
       ],
       "person_sv": "Marie Curie"
+    },
+    {
+      "slug": "archimedes",
+      "person": "Archimedes",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Man Who Loves Shapes and Numbers",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X lives in a Greek city by the sea.",
+            "The city is called Syracuse, on the island of Sicily.",
+            "He loves shapes and numbers more than almost anything.",
+            "He draws circles and triangles in the sand.",
+            "Farmers need to lift water up to their dry fields.",
+            "Mr X builds a clever machine: a long screw inside a tube.",
+            "When you turn the screw, water climbs up and up.",
+            "A famous story says he moves a huge ship almost alone.",
+            "He pulls it with ropes and many turning wheels.",
+            "He also explains the lever, a long stick with a support under it.",
+            "A story says he makes a bold claim about it.",
+            "With a long enough lever and a place to stand, he could move the whole Earth."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Pythagoras",
+            "Archimedes",
+            "Euclid",
+            "Hero of Alexandria"
+          ],
+          "correct": "Archimedes",
+          "words": [
+            {
+              "word": "screw",
+              "explanation": "a piece of metal or wood that turns round and round and moves things as it turns"
+            },
+            {
+              "word": "tube",
+              "explanation": "a long, hollow, round object, like a pipe"
+            },
+            {
+              "word": "lever",
+              "explanation": "a bar or stick that helps you lift or move heavy things"
+            },
+            {
+              "word": "huge",
+              "explanation": "very, very big"
+            }
+          ],
+          "main_image": {
+            "description": "A wooden water screw stands at an angle from a wide, calm river into a dry irrigation channel on the banks of the Nile in Egypt, with date palms and reed beds behind. Only sandaled feet treading on the outer wooden casing of the screw, and a pair of hands resting on a wooden frame, are visible; the person's face and body are out of frame. Production note: third century BC Egyptian riverbank, simple linen tunic hem and sandals on the feet shown, no crank handle, no metal pump, no recognizable face or full figure of Mr X, only hands and feet; no readable marks, letters, or numbers anywhere; no modern tools or clothing.",
+            "caption": "A screw inside a tube lifts water up from the river.",
+            "shutterstock_query": "ancient wooden water screw irrigation nile river illustration",
+            "ai_prompt": "Photorealistic illustration of an ancient wooden water screw set at an angle from the calm wide Nile into a dry irrigation channel, third century BC Egypt, date palms and reed beds along the bank, only sandaled feet treading on the outer wooden casing of the screw and a pair of hands resting on a wooden frame visible, no face or full body, simple linen tunic hem, bronze fittings on the wood, warm daylight; no crank handle, no metal pump, no modern tools or clothing, no togas with lettering, no shields, no modern harbour, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A close view of two hands gripping a long wooden pole that is wedged under a large stone boulder, with a small rock placed under the pole as a support point. Sandaled feet stand braced on dry ground. The picture shows how a lever lifts a heavy stone. Production note: hands and feet only, no face; ancient Greek sandals and simple cloth visible at the wrist only; no readable marks anywhere.",
+            "caption": "A long pole and one small stone can lift a heavy rock.",
+            "shutterstock_query": "hands lever wooden pole lifting large stone illustration",
+            "ai_prompt": "Photorealistic close-up illustration of two hands gripping a long wooden pole wedged under a large stone boulder, a small rock placed under the pole as a support point, sandaled feet braced on dry Mediterranean ground, ancient Greek simple cloth at the wrist only, no face or full body, warm daylight; no togas with lettering, no shields, no modern harbour, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Bath, the Crown, and the Ships from Rome",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X lives in the Greek city of Syracuse, on Sicily.",
+            "A king asks him to check if a new crown is pure gold.",
+            "A famous story says he finds the answer in his bath.",
+            "He watches the water rise as he steps into the tub.",
+            "Gold is very heavy for its size, so pure gold takes up little room.",
+            "A crown of pure gold pushes out less water than a mixed crown of the same weight.",
+            "His ideas about water also explain why some things float and others sink.",
+            "Years later, ships from Rome attack his home city.",
+            "Mr X builds huge machines to help defend the walls.",
+            "Long wooden arms swing out and drop stones on the ships.",
+            "In 212 BC, Roman soldiers finally break into the city.",
+            "A soldier kills Mr X, even though the general wants him alive."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Archimedes",
+            "Thales",
+            "Eratosthenes",
+            "Ptolemy"
+          ],
+          "correct": "Archimedes",
+          "words": [
+            {
+              "word": "crown",
+              "explanation": "a gold ring worn on the head by a king or a queen"
+            },
+            {
+              "word": "pure",
+              "explanation": "not mixed with anything else"
+            },
+            {
+              "word": "defend",
+              "explanation": "to fight to protect a place from attack"
+            },
+            {
+              "word": "general",
+              "explanation": "the leader of an army"
+            }
+          ],
+          "main_image": {
+            "description": "A huge wooden arm on a stone city wall by the sea swings out on a rope and chain, ready to drop a heavy stone toward Roman war ships below. The scene is seen from behind the wall, at a distance, with no faces visible. Old Greek stone towers stand along the coast; the ships are oared wooden warships with plain square sails and no marks. Production note: third century BC setting, bronze fittings and rope on the wooden arm, defenders shown only from behind or at a distance in simple tunics and bronze helmets, no recognizable face; the Roman soldiers on the ships wear plain armour with no shield emblems and no lettering on any cloth; no cannons, no gunpowder, no steel helmets, no galleons, no modern harbour, no readable marks, no text, no letters, no numbers.",
+            "caption": "Huge machines on the walls drop stones on the ships below.",
+            "shutterstock_query": "ancient siege wall defence machine coastal city illustration",
+            "ai_prompt": "Photorealistic illustration of a huge wooden arm on an ancient stone city wall by the sea, swinging out on rope and chain to drop a heavy stone toward war ships below, third century BC, seen from behind the wall at a distance, defenders anonymous in simple tunics and bronze helmets, Roman oared wooden warships with plain square sails and no marks, stone towers along the coast; no cannons, no gunpowder, no steel helmets, no galleons, no togas with lettering, no shields with emblems, no modern harbour, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An empty terracotta bathtub in a plain ancient Greek bathhouse, water still rippling and a little spilled onto the stone floor around it. Soft daylight falls through a small high window. No person is in the tub. Production note: no person, no readable marks on any surface, stone floor and plastered walls, no text, no letters, no numbers.",
+            "caption": "Water rises and spills when something goes into the tub.",
+            "shutterstock_query": "ancient terracotta bathtub rippling water empty bathhouse",
+            "ai_prompt": "Photorealistic image of an empty terracotta bathtub in a plain ancient Greek bathhouse, water rippling and a little spilled onto the stone floor around it, soft daylight through a small high window, no person present; no togas, no shields, no modern harbour, no modern taps or pipes, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Trapping a Number Between Two Fractions",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X lives in the Greek city of Syracuse in the 200s BC.",
+            "He wants to know the value of a special number: pi.",
+            "Pi tells you how far around a circle is, compared to its width.",
+            "He draws many-sided shapes just inside and just outside a circle.",
+            "More sides make each shape closer to a true, round circle.",
+            "With this method, he traps pi between two very close fractions.",
+            "He also studies a ball fitting tightly inside a tube-shaped block.",
+            "The block is exactly as tall as it is wide.",
+            "He proves the ball's volume is two thirds of the block's volume.",
+            "He is so proud of this proof that he wants it on his tomb.",
+            "Long after his death, a Roman writer named Cicero finds the tomb.",
+            "The lost grave is exactly as Mr X wished, with the shapes carved on it."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Euclid",
+            "Hipparchus",
+            "Archimedes",
+            "Apollonius"
+          ],
+          "correct": "Archimedes",
+          "words": [
+            {
+              "word": "pi",
+              "explanation": "a special number used to measure circles"
+            },
+            {
+              "word": "volume",
+              "explanation": "how much space is inside a shape"
+            },
+            {
+              "word": "proof",
+              "explanation": "facts and steps that show an idea must be true"
+            },
+            {
+              "word": "tomb",
+              "explanation": "a place where a dead person is buried"
+            }
+          ],
+          "main_image": {
+            "description": "A close view of geometric shapes drawn with a stick in smooth sand: a circle with a many-sided shape drawn tightly inside it and another many-sided shape drawn just outside it. Only a hand and a wooden stick are visible, no face. Warm Mediterranean coastal light. Production note: ancient Greek setting, simple sandaled foot at the edge of frame, no letters or numbers of any kind drawn in the sand, only plain geometric lines and curves; no text, no letters, no numbers.",
+            "caption": "A circle sits tightly between two many-sided shapes.",
+            "shutterstock_query": "geometric shapes drawn sand circle polygon ancient illustration",
+            "ai_prompt": "Photorealistic close-up illustration of geometric shapes drawn with a wooden stick in smooth sand, a circle with a many-sided shape tightly inside it and another just outside it, a hand and stick visible with a sandaled foot at the frame edge, no face, warm Mediterranean coastal light, ancient Greek setting; no togas with lettering, no shields, no modern harbour, no letters or numbers drawn in the sand, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A pale marble sphere rests exactly inside a marble cylinder that is exactly as tall as it is wide, touching the top, bottom, and curved side of the block. Soft studio-like daylight, plain stone surface below. No person in the image. Production note: ancient Greek marble and bronze tools nearby, the cylinder's height equal to its diameter so the sphere touches top, bottom and side, no readable marks on the stone, no text, no letters, no numbers.",
+            "caption": "A ball fits tightly inside a tube-shaped block of stone.",
+            "shutterstock_query": "marble sphere inside cylinder block ancient geometry",
+            "ai_prompt": "Photorealistic image of a pale marble sphere resting exactly inside a marble cylinder that is exactly as tall as it is wide, the sphere touching top, bottom, and curved side, plain stone surface, soft daylight, a small bronze measuring tool resting nearby, no person; no togas, no shields, no modern harbour, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Counting the Grains of Sand in the World",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X lives in Syracuse, a Greek city on Sicily, in the 200s BC.",
+            "Some people say nobody can count all the grains of sand in the world.",
+            "Mr X disagrees and invents a new way to write huge numbers.",
+            "With his method, he counts grains of sand that could fill the whole universe.",
+            "He writes this idea down in a book for the king's son.",
+            "He also sends letters with new mathematical ideas to scholars in Alexandria.",
+            "In one letter, he asks the scholars to prove his claims for themselves.",
+            "Many of these letters and books survive, copied again and again over time.",
+            "Later writers add dramatic stories about him.",
+            "One story says he burns enemy ships with mirrors during a war.",
+            "It is a late story that many historians doubt."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Eratosthenes",
+            "Ptolemy",
+            "Hypatia",
+            "Archimedes"
+          ],
+          "correct": "Archimedes",
+          "words": [
+            {
+              "word": "grain",
+              "explanation": "one tiny piece, like one small piece of sand"
+            },
+            {
+              "word": "universe",
+              "explanation": "all of space, with every star and every world"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and learns deeply"
+            },
+            {
+              "word": "claim",
+              "explanation": "something a person says is true"
+            }
+          ],
+          "main_image": {
+            "description": "A man in a simple ancient Greek chiton stands on a cliff at night, seen from behind, looking up at a sky thick with stars. In one hand he holds a small bundle of closed papyrus rolls, seen from a distance with no visible marks. Production note: figure seen only from behind, no recognizable face, sandals visible, papyrus rolls closed and unreadable; no togas with lettering, no shields, no modern harbour, no text, no letters, no numbers.",
+            "caption": "He writes down his boldest ideas about huge numbers and the stars.",
+            "shutterstock_query": "ancient greek man night sky stars papyrus scrolls silhouette",
+            "ai_prompt": "Photorealistic illustration of a man in a simple ancient Greek chiton and sandals standing on a coastal cliff at night, seen from behind, looking up at a sky thick with stars, holding a small bundle of closed papyrus rolls in one hand seen from a distance with no visible marks; no togas with lettering, no shields with emblems, no modern harbour, no modern lights on the coast, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An extreme close-up of pale sand grains on a beach, with a gentle wave just reaching them, countless tiny grains visible in sharp detail. No hands, no objects, no marks. Production note: natural Mediterranean beach sand and water only, no writing or shapes pressed into the sand, no text, no letters, no numbers.",
+            "caption": "Countless tiny grains of sand, more than anyone can count by hand.",
+            "shutterstock_query": "close up sand grains beach wave macro",
+            "ai_prompt": "Photorealistic extreme close-up macro photo of pale sand grains on a Mediterranean beach with a gentle wave just reaching them, countless tiny grains in sharp detail, natural light, no hands, no objects, no marks pressed into the sand; no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "A Lost Book Hidden Under a Prayer Book",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X is a Greek mathematician from Syracuse, in the 200s BC.",
+            "More than a thousand years after his death, a scribe copies his books by hand.",
+            "In the 13th century, monks need parchment and scrape this copy clean.",
+            "They write a prayer book over the faint, old mathematical text.",
+            "For centuries, nobody knows his lost book still hides underneath.",
+            "In 1906, a scholar finds the hidden book and reads part of it.",
+            "About a hundred years later, scientists use modern light and imaging tools.",
+            "They read pages far too faint for the human eye to see.",
+            "One hidden text explains a method: cutting shapes into countless thin slices.",
+            "This method comes very close to a big mathematical idea developed much later.",
+            "Historians must now separate his real, documented work from later, dramatic legends."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Apollonius",
+            "Hero of Alexandria",
+            "Hipparchus",
+            "Archimedes"
+          ],
+          "correct": "Archimedes",
+          "words": [
+            {
+              "word": "scribe",
+              "explanation": "a person whose job is to copy text by hand"
+            },
+            {
+              "word": "scrape",
+              "explanation": "to rub something hard to remove its top layer"
+            },
+            {
+              "word": "parchment",
+              "explanation": "a material made from animal skin, used like paper for writing"
+            },
+            {
+              "word": "faint",
+              "explanation": "very weak and hard to see"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a dim medieval monastery room, a monk's hands in a plain wool habit scrape old ink from a parchment page with a small blade, by the light of one candle. Faint, ghostly circles and straight lines from an older drawing are just visible beneath the scraping. The monk's face is not shown. Production note: 13th century monk's habit and simple tools, no modern objects, the older layer shown only as unreadable ghostly circles and straight lines, never as letter shapes or words in any script; no text, no letters, no numbers.",
+            "caption": "A monk scrapes an old page clean to write a new prayer book.",
+            "shutterstock_query": "medieval monk scraping parchment candlelight manuscript",
+            "ai_prompt": "Photorealistic image inside a dim medieval monastery room, a monk's hands in a plain wool habit scraping old ink from a parchment page with a small blade by candlelight, faint ghostly circles and straight lines from an older drawing barely visible beneath the scraping, no letter shapes of any kind, face not shown, no modern objects; no readable words in any script, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "In a modern research lab, a gloved hand holds a special light over an old, worn parchment page lying flat under a small imaging device, revealing faint pale patterns invisible to the naked eye. The scientist's face is out of frame. Production note: modern lab equipment shown plainly, the old page shows only unreadable ghostly marks and faint geometric shapes, never readable words in any script; no text, no letters, no numbers.",
+            "caption": "Modern light reveals writing that was hidden for centuries.",
+            "shutterstock_query": "manuscript multispectral imaging lab hidden text research",
+            "ai_prompt": "Photorealistic image of a modern research lab, a gloved hand holding a special imaging light over an old worn parchment page lying flat under a small scanning device, faint pale ghostly circles and lines revealed on the page invisible to the naked eye, scientist's face out of frame; no readable words in any script, no screens with text, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "al-khwarizmi",
+      "person": "al-Khwarizmi",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Fair Shares in a New City",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X lives about twelve hundred years ago.",
+            "His home is Baghdad, a great new city built by a caliph.",
+            "Traders, poets, and scholars fill the streets inside its round walls.",
+            "Mr X works with numbers every single day.",
+            "When a father dies, families often argue about the land and the gold.",
+            "Mr X writes a book that helps them share it fairly.",
+            "He also learns about new number signs that come from India.",
+            "One strange little sign stands for nothing at all.",
+            "Today we call it zero.",
+            "With these new numbers, hard counting becomes much easier for everyone."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Brahmagupta",
+            "al-Khwarizmi",
+            "Fibonacci",
+            "Omar Khayyam"
+          ],
+          "correct": "al-Khwarizmi",
+          "words": [
+            {
+              "word": "caliph",
+              "explanation": "a Muslim ruler who leads a large early empire"
+            },
+            {
+              "word": "scholars",
+              "explanation": "people who study and learn very much"
+            },
+            {
+              "word": "argue",
+              "explanation": "to talk in an angry way because people do not agree"
+            }
+          ],
+          "main_image": {
+            "description": "Busy daytime riverbank market outside the walls of a great ninth-century city: wooden boats with plain sails moored along the wide river, traders in long robes and turbans unloading sacks and closed clay jars, high round mud-brick city walls and domes rising behind, palm trees along the bank. Production note: no readable signs, flags, or banners; no faces close enough to be portraits; nothing in the image may reveal the answer in text.",
+            "caption": "A great new city by a great river, full of traders and boats.",
+            "shutterstock_query": "historical river market boats mud brick city walls palms",
+            "ai_prompt": "Photorealistic wide daytime view of a busy riverbank market outside ninth-century Baghdad, wooden boats with plain sails moored along the wide Tigris, traders in long robes and turbans unloading sacks and closed clay jars, high round mud-brick city walls and domes rising behind, palm trees along the bank, warm sunlight; no calligraphy, no pseudo-writing, no readable signs or banners, no modern objects, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A simple wooden counting board lies on a table, divided into several shallow rows, each holding neat lines of smooth round pebbles, except for one row, which is completely empty. It shows the new idea of a sign for nothing at all. Production note: no numbers, letters, or markings on the board; pebbles only, no coins; the image reviewer must verify exactly one empty row.",
+            "caption": "One row on the board is empty. A whole new number: nothing at all.",
+            "shutterstock_query": "wooden counting board pebbles rows empty groove close up",
+            "ai_prompt": "Photorealistic vertical close-up of a plain ninth-century Baghdad wooden counting board with several shallow rows on a table, each row holding neat lines of smooth round pebbles except for one row left completely empty, soft daylight; no calligraphy, no pseudo-writing, no readable markings, no modern objects, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Balancing Both Sides",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X works in Baghdad in the ninth century.",
+            "He writes a math book with a strange long title.",
+            "The title talks about restoring numbers and balancing them, like a scale.",
+            "In the book, he solves hard number puzzles.",
+            "He never uses plus signs, minus signs, or letters for unknown numbers.",
+            "Instead, he explains every step in plain words and simple pictures.",
+            "He writes it for merchants, judges, and builders who need it in their daily work.",
+            "Centuries later, European scholars translate his book into Latin.",
+            "From its title, they take a brand new word for this kind of mathematics.",
+            "Today, students all over the world still use that word: algebra."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Thabit ibn Qurra",
+            "Fibonacci",
+            "al-Khwarizmi",
+            "al-Kindi"
+          ],
+          "correct": "al-Khwarizmi",
+          "words": [
+            {
+              "word": "puzzles",
+              "explanation": "problems that need careful thinking to solve"
+            },
+            {
+              "word": "translate",
+              "explanation": "to change words from one language into another"
+            },
+            {
+              "word": "scale",
+              "explanation": "a tool that shows if two things weigh the same"
+            },
+            {
+              "word": "algebra",
+              "explanation": "a kind of mathematics that uses letters or words for unknown numbers"
+            }
+          ],
+          "main_image": {
+            "description": "Close view from behind of a robed scholar's shoulder and hand, wearing a turban, drawing with a thin wooden stylus in a shallow tray of fine sand on a low table in a sunlit courtyard: a large square with a narrow rectangle attached to two of its sides, plain geometric lines only. Closed paper books lie nearby. Production note: face and features not visible, generic robe and turban silhouette, no recognizable portrait of any real person; no letters, numerals, or pseudo-script in the sand, only straight geometric lines; no reed pen, no ink, no scrolls; books closed.",
+            "caption": "He explains every step with plain words and simple pictures.",
+            "shutterstock_query": "scholar drawing geometric figure sand tray stylus courtyard historical",
+            "ai_prompt": "Photorealistic scene from behind a ninth-century Baghdad scholar's shoulder, long robe and turban, seen anonymously with no visible face, drawing with a thin wooden stylus a large square with a narrow rectangle attached to two of its sides in a shallow tray of fine sand on a low table, plain geometric lines only, closed paper books nearby, sunlit courtyard with domes and arches in the background, no reed pen, no ink pots, no scrolls; no calligraphy, no pseudo-writing, no marks that look like letters or numerals, no modern objects, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A man in a ninth-century long robe and turban, seen from behind, carries a wooden shoulder pole with one plain clay water jar hanging level at each end, walking down a narrow mud-brick lane with a dome beyond. It explains the idea of balancing: the same weight on both sides. Production note: figure seen from behind, no face; jars plain and unmarked; no readable signs on any wall; not a courtyard, a narrow lane.",
+            "caption": "Balancing: the same weight on both sides, so nothing tips over.",
+            "shutterstock_query": "man carrying shoulder pole two water jars narrow lane historical",
+            "ai_prompt": "Photorealistic vertical image of a man in a ninth-century Baghdad long robe and turban seen from behind, carrying a wooden shoulder pole with one plain unmarked clay water jar hanging level at each end, walking down a narrow mud-brick lane with a dome beyond, warm daylight, no visible face, no modern objects; no calligraphy, no pseudo-writing, no readable signs, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Lost in Arabic, Saved in Latin",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X writes two important books in Baghdad in the ninth century.",
+            "One book is about restoring and balancing numbers.",
+            "The other book explains the new number signs from India, including zero.",
+            "In the twelfth century, a scholar in Europe translates this second book.",
+            "He turns the Arabic words into Latin.",
+            "Nobody knows exactly who this translator is.",
+            "Later, every Arabic copy of the book is lost.",
+            "Only the Latin text survives.",
+            "The Latin text begins with his name, written in a Latin way.",
+            "Slowly, scholars use that Latin form of his name for something new.",
+            "It becomes a word for any clear set of steps that always gives the same answer.",
+            "That word is still used today, in every school and every computer."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Nasir al-Din al-Tusi",
+            "al-Khwarizmi",
+            "Fibonacci",
+            "al-Biruni"
+          ],
+          "correct": "al-Khwarizmi",
+          "words": [
+            {
+              "word": "translator",
+              "explanation": "a person who changes words from one language into another"
+            },
+            {
+              "word": "survive",
+              "explanation": "to still exist after a long time or a big danger"
+            },
+            {
+              "word": "Latin",
+              "explanation": "the language of ancient Rome, used by scholars for many centuries"
+            },
+            {
+              "word": "steps",
+              "explanation": "the small parts of a job, done one after another"
+            }
+          ],
+          "main_image": {
+            "description": "A dim scriptorium in twelfth-century Toledo: a translator in a long medieval robe sits at a slanted wooden desk with two closed leather-bound books before him, one with a geometric-stamped cover, a quill and an ink pot resting beside them, warm candlelight, shelves of closed books behind. Production note: figure seen from behind or side, no recognizable face; all books closed, nothing readable in any language.",
+            "caption": "A translator turns the book's Arabic words into Latin.",
+            "shutterstock_query": "medieval scriptorium translator closed books candlelight toledo historical",
+            "ai_prompt": "Photorealistic scene in a dim twelfth-century Toledo scriptorium, a translator in a long medieval European robe seen from behind or side with no visible face, sitting at a slanted wooden desk with two closed leather-bound books before him, one with a geometric-stamped cover, a quill and an ink pot resting beside them, warm candlelight, shelves of closed books behind, no open pages, no modern objects; no calligraphy, no pseudo-writing, no readable script in any language, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A worn stone staircase with a few wide steps climbs one level in a sunlit ninth-century courtyard between two plain plastered walls, moss softening the stone edges. It helps explain the word \"steps\": one clear stage, then the next. Production note: empty courtyard, no people; no numbers or markings on the stones; no modern railings or lamps.",
+            "caption": "Steps: one clear stage, then the next, always leading the same way.",
+            "shutterstock_query": "stone staircase steps courtyard sunlight moss historical",
+            "ai_prompt": "Photorealistic vertical image of a worn stone staircase with a few wide steps climbing one level in a sunlit ninth-century Baghdad courtyard between two plain plastered walls with domes visible beyond, moss softening the stone edges, no people, no modern railings or lamps; no calligraphy, no pseudo-writing, no readable signs, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A New Map of the Whole World",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X works as an astronomer and geographer in Baghdad.",
+            "He makes detailed tables that track the sun, the moon, and the planets.",
+            "Other scholars use these tables to make calendars, find prayer times, and read the stars.",
+            "Mr X also studies the geography books of Greek scholars of old.",
+            "An earlier Greek scholar drew a famous map of the known world.",
+            "That old map has many mistakes about coasts, rivers, and distances.",
+            "With other scholars, Mr X checks and corrects more than two thousand place locations.",
+            "Together, they draw a new and more accurate map of the world.",
+            "His own name may point to a region east of the Caspian Sea.",
+            "Historians are not sure if he himself is born there."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "al-Battani",
+            "al-Khwarizmi",
+            "al-Biruni",
+            "Nasir al-Din al-Tusi"
+          ],
+          "correct": "al-Khwarizmi",
+          "words": [
+            {
+              "word": "astronomer",
+              "explanation": "a scientist who studies the stars, the sun, and the planets"
+            },
+            {
+              "word": "geographer",
+              "explanation": "a person who studies and maps the earth, its lands and seas"
+            },
+            {
+              "word": "accurate",
+              "explanation": "correct, with no or very few mistakes"
+            },
+            {
+              "word": "region",
+              "explanation": "a big area of land, bigger than one town or city"
+            }
+          ],
+          "main_image": {
+            "description": "A flat rooftop in ninth-century Baghdad at midday: two scholars in long robes and turbans measure the short shadow of a tall plain wooden pole with a knotted cord, while a third sits nearby with a stack of closed record books, brick domes and the wide river beyond under a bright sky. Production note: all faces generic and at a slight distance, no recognizable portrait; no engraving, letters, or numbers on any instrument, plain knotted cord and plain pole only.",
+            "caption": "By day, scholars measure the sun's shadow and write down what they find.",
+            "shutterstock_query": "islamic golden age astronomers measuring shadow gnomon rooftop",
+            "ai_prompt": "Photorealistic midday scene on a flat rooftop in ninth-century Baghdad, two scholars in long robes and turbans measuring the short shadow of a tall plain wooden pole with a knotted cord, a third scholar seated nearby with a stack of closed record books, brick domes and a wide river beyond under a bright clear sky, warm sunlight; no calligraphy, no pseudo-writing, no engraving or marks on any instrument, no modern objects, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A large aged paper world map lies unrolled at a sharp angle on a wooden table, showing only coastlines, rivers, and mountain symbols in faded ink, with no place names or writing anywhere, weighted flat by smooth stones at the corners. Production note: absolutely no readable place names, letters, or numbers on the map, only geographic line work.",
+            "caption": "A new map of the world, drawn to correct old mistakes.",
+            "shutterstock_query": "antique paper world map coastlines no text angle",
+            "ai_prompt": "Photorealistic vertical image of a large aged paper world map unrolled at a sharp angle on a wooden table in a ninth-century Baghdad study, showing only coastlines, rivers, and mountain symbols in faded brown ink with no place names or writing anywhere, four smooth stones weighting the corners flat, soft window light, no modern objects; no calligraphy, no pseudo-writing, no readable place names or maps, no faces of the Prophet; no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Between India, Greece, and His Own Ideas",
+          "category": "mathematics",
+          "text_sentences": [
+            "Mr X works as a mathematician and scholar in Baghdad in the ninth century.",
+            "Historians know his life mainly from a handful of short, later biographical notes.",
+            "No personal letters from him survive.",
+            "His famous book on restoring and balancing numbers draws on older traditions.",
+            "Some of its methods likely come from earlier Babylonian, Indian, and Greek mathematics.",
+            "Yet Mr X organizes these methods into clear, general rules for the first time.",
+            "Later scholars in the Middle East and Europe build on his rules for centuries.",
+            "Some historians call him the father of this kind of mathematics.",
+            "Others say his great gift is to collect and organize what others know.",
+            "Historians still debate how much is truly his own invention."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Thabit ibn Qurra",
+            "Archimedes",
+            "al-Khwarizmi",
+            "Brahmagupta"
+          ],
+          "correct": "al-Khwarizmi",
+          "words": [
+            {
+              "word": "biographical",
+              "explanation": "about a person's life story"
+            },
+            {
+              "word": "traditions",
+              "explanation": "old ways of doing or knowing things, passed down over time"
+            },
+            {
+              "word": "organize",
+              "explanation": "to put things in a clear order"
+            },
+            {
+              "word": "invention",
+              "explanation": "something new, made for the first time"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet library shelf holds three different kinds of closed old books side by side: a rolled papyrus scroll tied with cord, a stack of dried palm-leaf pages bound with string, and a leather-bound codex with a plain geometric-stamped cover, lit by a single shaft of window light. Production note: nothing readable on any surface, no labels; a peaceful, scholarly mood.",
+            "caption": "Old knowledge from many lands sits side by side on his shelf.",
+            "shutterstock_query": "ancient library scroll palm leaf manuscript leather book shelf window light",
+            "ai_prompt": "Photorealistic still life on a quiet ninth-century Baghdad library shelf: a rolled papyrus scroll tied with cord, a stack of dried palm-leaf pages bound with string, and a leather-bound codex with a plain geometric-stamped cover sitting side by side, lit by a single shaft of window light, dust motes visible, calm scholarly mood, no modern objects; no calligraphy, no pseudo-writing, no readable labels or script in any language, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close-up of a generic hand arranging smooth pebbles into a neat triangular pattern on fine sand at the edge of a wide, calm river, each row one pebble longer than the last, reed beds and a moored wooden boat blurred in the background, morning light casting soft shadows. It shows the idea of taking scattered pieces and arranging them into one clear, ordered pattern. Production note: hand only, no face; no numbers, letters, or markings; pebbles only; riverbank, not a courtyard.",
+            "caption": "Scattered ideas, arranged into one clear and ordered pattern.",
+            "shutterstock_query": "hand arranging pebbles triangular pattern sand riverbank close up",
+            "ai_prompt": "Photorealistic vertical close-up of a generic hand arranging smooth pebbles into a neat triangular pattern on fine sand at the edge of the wide calm Tigris outside ninth-century Baghdad, each row one pebble longer than the last, reed beds and a moored wooden boat blurred in the background, soft morning light and shadows, no modern objects; no calligraphy, no pseudo-writing, no numerals, no readable markings, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ibn-sina",
+      "person": "Ibn Sina",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Boy Near Bukhara Who Learns Fast",
+          "category": "ideas",
+          "text_sentences": [
+            "Mr X is a boy who lives near Bukhara.",
+            "That is more than a thousand years ago.",
+            "Bukhara is a city in Central Asia.",
+            "Mr X learns to read very early.",
+            "Later he writes his own life story.",
+            "In it, he says he knows the holy book of Islam by heart at ten.",
+            "Soon he knows more than his own teachers, he says.",
+            "He studies medicine and starts to treat sick people.",
+            "His life story says he already works as a doctor at sixteen.",
+            "One day, the ruler of his city becomes very ill.",
+            "Mr X treats him, and the ruler gets well again.",
+            "As a reward, the ruler lets him read every book in his private library."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Ibn Sina",
+            "Hippocrates",
+            "Galen",
+            "al-Razi"
+          ],
+          "correct": "Ibn Sina",
+          "words": [
+            {
+              "word": "ruler",
+              "explanation": "a person who governs a country or a city"
+            },
+            {
+              "word": "treat",
+              "explanation": "to help a sick person get well"
+            },
+            {
+              "word": "reward",
+              "explanation": "something good that you get for doing something helpful"
+            },
+            {
+              "word": "private",
+              "explanation": "only for one person, not for everyone"
+            }
+          ],
+          "main_image": {
+            "description": "A young physician in late tenth century Central Asian dress, seen from behind or at a distance so his face is not clearly visible, kneels beside an older ruler who rests on cushions in a modest brick palace room, checking his wrist pulse. Brass bowls and closed unlabeled clay jars sit on a low wooden table nearby, and a brick archway with a domed window is visible behind them. Production note: Mr X's face must never be clearly recognisable, show him from behind or at a distance; no modern medical tools, no glass syringe.",
+            "caption": "A young healer examines the ruler who has fallen ill.",
+            "shutterstock_query": "historical physician examining patient central asia palace illustration",
+            "ai_prompt": "Photorealistic illustration, tenth century Central Asia: a young physician in a long robe and simple turban, seen from behind or at a distance so his face stays unclear, kneels beside an older ruler resting on cushions in a modest brick palace room with a domed window, checking the ruler's wrist pulse, brass bowls and closed unlabeled clay jars on a low wooden table nearby, warm daylight, calm respectful mood, no modern medical tools, no glass syringe, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A quiet alcove in a mudbrick palace library, rows of closed plain leather-bound books stacked on carved wooden shelves, warm light falling through a small window with a geometric lattice pattern, brick dome visible above, no people present.",
+            "caption": "The grateful ruler opens his private library to the young healer.",
+            "shutterstock_query": "old leather bound books wooden shelves library alcove",
+            "ai_prompt": "Photorealistic vertical image of a quiet alcove in a tenth century Central Asian palace library, rows of closed plain leather-bound books stacked on carved wooden shelves, warm light through a small window with a geometric lattice pattern, brick dome visible above, no people, calm scholarly mood, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A Book of Medicine for Hundreds of Years",
+          "category": "ideas",
+          "text_sentences": [
+            "Mr X is born near Bukhara, more than a thousand years ago.",
+            "He grows up to become a doctor and a thinker.",
+            "He writes a huge book about medicine.",
+            "The book has five long parts.",
+            "It describes diseases, medicines, and how to care for the body.",
+            "Doctors across the Muslim world use the book for centuries.",
+            "Later, it reaches universities in Europe too.",
+            "There, doctors still read it hundreds of years after his death.",
+            "Mr X is also very careful about testing medicines.",
+            "He says a new medicine must first be tried on real patients.",
+            "It must also work again and again before doctors can trust it.",
+            "His rules for testing a medicine still sound modern today."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "al-Zahrawi",
+            "Ibn Sina",
+            "Ibn Rushd",
+            "al-Razi"
+          ],
+          "correct": "Ibn Sina",
+          "words": [
+            {
+              "word": "centuries",
+              "explanation": "periods of one hundred years each"
+            },
+            {
+              "word": "universities",
+              "explanation": "places where people study at the highest level after school"
+            },
+            {
+              "word": "patients",
+              "explanation": "people who are ill and need a doctor's help"
+            },
+            {
+              "word": "modern",
+              "explanation": "of our own time, not of old times"
+            }
+          ],
+          "main_image": {
+            "description": "Hands only, or a figure seen from behind, in eleventh century Persian dress grinding herbs with a stone mortar and pestle at a low wooden table in a simple clinic room. Brass bowls, closed unlabeled clay jars, and a small hanging balance scale sit nearby, soft daylight through a lattice window.",
+            "caption": "He tests and prepares each medicine with great care.",
+            "shutterstock_query": "historical apothecary mortar pestle herbs persia illustration",
+            "ai_prompt": "Photorealistic illustration, eleventh century Persia: hands only, or a figure seen from behind, in a long robe grinding herbs with a stone mortar and pestle at a low wooden table in a simple clinic room, brass bowls and closed unlabeled clay jars nearby, a small hanging balance scale, soft daylight through a lattice window, calm careful mood, no modern medical tools, no glass syringe, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A medieval European university lecture hall about six hundred years ago, seen from the back of the room: students in long dark gowns and hoods sit on plain wooden benches, a lecturer stands at a raised wooden desk with one thick closed leather-bound book, a tall arched stone window behind him. All faces turned away or generic, no readable pages, no modern clothes. It shows how his book is studied far away in Europe.",
+            "caption": "Far away in Europe, doctors study his book for hundreds of years.",
+            "shutterstock_query": "medieval university lecture hall students benches illustration",
+            "ai_prompt": "Photorealistic vertical illustration of a fifteenth century European university lecture hall seen from the back of the room, students in long dark gowns and hoods on plain wooden benches, a lecturer at a raised wooden desk with one thick closed leather-bound book, tall arched stone window, stone walls, faces turned away or unclear, no open pages, no modern clothes, no electric light, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Book of Healing and the Floating Man",
+          "category": "ideas",
+          "text_sentences": [
+            "Mr X is a doctor in Persia around the year 1000.",
+            "He is also a philosopher.",
+            "He writes a huge book called the Book of Healing.",
+            "It is about ideas, not about medicine.",
+            "It talks about logic, nature, and the soul.",
+            "He builds on an ancient Greek philosopher, without copying him.",
+            "He also adds many new ideas of his own.",
+            "One idea is a strange thought experiment.",
+            "Imagine a man floating alone in empty air.",
+            "He cannot see, hear, or touch anything around him.",
+            "Yet the man still knows that he exists, Mr X argues.",
+            "This shows, he says, that the mind can know itself directly."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "al-Farabi",
+            "Ibn Rushd",
+            "Ibn Sina",
+            "Maimonides"
+          ],
+          "correct": "Ibn Sina",
+          "words": [
+            {
+              "word": "philosopher",
+              "explanation": "a person who thinks deeply about big questions"
+            },
+            {
+              "word": "logic",
+              "explanation": "careful and clear thinking, step by step"
+            },
+            {
+              "word": "soul",
+              "explanation": "the inner part of a person that thinks and feels"
+            },
+            {
+              "word": "argue",
+              "explanation": "to give reasons for what you think is true"
+            }
+          ],
+          "main_image": {
+            "description": "A scholar in eleventh century Persian dress, seen from behind, sits on cushions in a quiet brick room by day. A closed plain leather-bound book rests on a low wooden bookstand before him, an unlit oil lamp stands beside it, soft light falls through a lattice window, a brick dome above.",
+            "caption": "In a quiet room, he thinks and writes about difficult new ideas.",
+            "shutterstock_query": "scholar seated cushions bookstand lattice window historical illustration",
+            "ai_prompt": "Photorealistic illustration, eleventh century Persia: a scholar in a long robe and simple turban, seen from behind, sits on cushions in a quiet brick room by day, a closed plain leather-bound book on a low wooden bookstand before him, an unlit oil lamp beside it, soft daylight through a lattice window, brick dome above, calm thoughtful mood, no open pages, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An abstract, dreamlike image of a human figure in plain simple clothes, seen from behind with only the back of the head and shoulders visible, floating gently in a dark, empty void, limbs loose and relaxed, softly lit from an unseen source, nothing else visible around the figure.",
+            "caption": "Imagine a man floating alone, feeling nothing at all around him.",
+            "shutterstock_query": "figure floating dark void seen from behind abstract concept",
+            "ai_prompt": "Photorealistic vertical image, dreamlike and abstract: a human figure in plain simple clothes seen from behind, back of the head and shoulders visible, no face, floats gently in a dark, empty void, limbs loose and relaxed, softly lit from an unseen source with nothing else visible around the figure, calm and mysterious mood, no wings, no light beams, no religious symbols, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Between Palaces, Prison, and a Hidden Danger",
+          "category": "ideas",
+          "text_sentences": [
+            "Mr X does not stay in one place for long.",
+            "He moves between rulers' courts in Persia and Central Asia.",
+            "For a while, he works as a vizier, a top adviser.",
+            "Later, an angry ruler locks him away for months.",
+            "After his escape, he keeps writing and moves on again.",
+            "He often works all day and writes deep into the night.",
+            "In his medical writings, he suggests an unusual idea.",
+            "Maybe illness spreads through something unseen in water.",
+            "Maybe it spreads through something unseen in the air too, he says.",
+            "Mr X dies in the city of Hamadan in 1037."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "al-Biruni",
+            "Galen",
+            "Ibn Rushd",
+            "Ibn Sina"
+          ],
+          "correct": "Ibn Sina",
+          "words": [
+            {
+              "word": "vizier",
+              "explanation": "a top helper and adviser to a ruler"
+            },
+            {
+              "word": "escape",
+              "explanation": "to get free from a place where you are locked in"
+            },
+            {
+              "word": "suggest",
+              "explanation": "to say that something might be true, as an idea"
+            },
+            {
+              "word": "unseen",
+              "explanation": "something that cannot be seen with the eyes"
+            }
+          ],
+          "main_image": {
+            "description": "A lone rider in eleventh century dress, a long robe and simple turban, travels a rocky mountain road, seen from behind or at a great distance so his face is unclear. Two walled towns with brick domes are visible far apart in the valley below, warm dusk light.",
+            "caption": "He moves from one ruler's court to another.",
+            "shutterstock_query": "lone rider mountain road dusk persia historical",
+            "ai_prompt": "Photorealistic wide landscape, eleventh century Persia and Central Asia: a lone rider in a long robe and simple turban travels a rocky mountain road, seen from behind or at a great distance so his face is unclear, two walled towns with brick domes visible far apart in the valley below, warm dusk light, calm quiet mood, no flags, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A plain unlabeled clay water jar sits on a stone courtyard ledge in the cool early morning, faint mist rising gently above the water's surface, soft diffuse light, no people.",
+            "caption": "Maybe illness hides, unseen, in water and air.",
+            "shutterstock_query": "clay water jar morning mist courtyard",
+            "ai_prompt": "Photorealistic vertical close-up of a plain unlabeled clay water jar on a stone courtyard ledge in eleventh century Persia in the cool early morning, faint mist rising gently above the water's surface, soft diffuse light, calm quiet mood, no people, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "A Perfect Memory? What the Sources Say",
+          "category": "ideas",
+          "text_sentences": [
+            "Mr X is a doctor and thinker in Persia, about a thousand years ago.",
+            "He writes about metaphysics, the study of what truly exists.",
+            "Later scholars translate his work into Latin.",
+            "For centuries, his ideas shape teaching at distant universities.",
+            "Some later theologians disagree strongly with parts of his philosophy.",
+            "They argue that his ideas do not fit their religious beliefs.",
+            "A famous legend says Mr X remembers every book he ever reads.",
+            "His own life story presents him as a genius with an amazing memory.",
+            "He says he reads one hard Greek book forty times and still does not understand it.",
+            "Then a small, cheap book by another scholar explains it to him at once, he says.",
+            "Historians point out that he tells his life story to show how special he is.",
+            "They compare the old sources carefully before they trust such stories."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "al-Biruni",
+            "Ibn Sina",
+            "Maimonides",
+            "al-Farabi"
+          ],
+          "correct": "Ibn Sina",
+          "words": [
+            {
+              "word": "metaphysics",
+              "explanation": "the study of what things truly are"
+            },
+            {
+              "word": "theologian",
+              "explanation": "a person who studies religious belief deeply"
+            },
+            {
+              "word": "legend",
+              "explanation": "an old, popular story that may not be fully true"
+            },
+            {
+              "word": "genius",
+              "explanation": "a person with a very great mind"
+            }
+          ],
+          "main_image": {
+            "description": "Two scholars in eleventh or twelfth century long robes and turbans stand in intense discussion under a brick courtyard arch, one gesturing with an open hand while the other frowns and shakes his head, faces generic and seen at a moderate distance. Closed plain leather-bound books are stacked on a nearby stone ledge.",
+            "caption": "Later thinkers argue fiercely about his difficult ideas.",
+            "shutterstock_query": "two scholars debating courtyard historical illustration",
+            "ai_prompt": "Photorealistic illustration, eleventh or twelfth century Persia and Central Asia: two scholars in long robes and turbans stand in intense discussion under a brick courtyard arch, one gesturing with an open hand while the other frowns and shakes his head, faces generic and seen at a moderate distance so no one is a recognisable named portrait, closed plain leather-bound books stacked on a nearby stone ledge, warm daylight, calm but tense mood, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Looking straight up through a round opening in a brick courtyard dome at a deep night sky full of stars, the dome's edge softly lit from below by warm lamplight, no people. It illustrates the word metaphysics: what truly exists, from a single brick to the stars.",
+            "caption": "Metaphysics asks what truly exists, from a single brick to the stars.",
+            "shutterstock_query": "night sky stars through dome opening architecture",
+            "ai_prompt": "Photorealistic vertical image looking straight up through a round opening in an eleventh century Persian brick courtyard dome at a deep night sky full of stars, the dome's edge softly lit from below by warm lamplight, calm contemplative mood, no people, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
