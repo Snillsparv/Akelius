@@ -1,0 +1,225 @@
+{
+  "slug": "albert-einstein",
+  "person_sv": "Albert Einstein",
+  "cards": [
+    {
+      "title": "En kompass, ett skrivbord och en stor fråga",
+      "text_sentences": [
+        "Herr X är en liten pojke i Tyskland för mer än 140 år sedan.",
+        "Hans familj säger att han är sen med att börja prata.",
+        "En dag visar hans far honom en liten kompass.",
+        "Nålen pekar alltid åt samma håll, och det förvånar honom.",
+        "Han vill veta varför, och han slutar aldrig fråga varför.",
+        "Han älskar också att spela fiol.",
+        "Som ung man kan han inte hitta ett fast jobb som lärare.",
+        "I stället tar han ett jobb på ett kontor i Schweiz.",
+        "Hans jobb är att kontrollera andra människors nya uppfinningar.",
+        "På fritiden tänker han på ljus och tid.",
+        "År senare testas hans märkliga idéer, och han blir berömd över hela världen."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Michael Faraday",
+        "Niels Bohr"
+      ],
+      "words": [
+        {
+          "word": "kompass",
+          "explanation": "ett litet verktyg med en nål som alltid pekar mot norr"
+        },
+        {
+          "word": "fiol",
+          "explanation": "ett litet musikinstrument av trä med strängar, som man spelar med en stråke"
+        },
+        {
+          "word": "uppfinning",
+          "explanation": "en ny sak som en person gör för första gången"
+        },
+        {
+          "word": "förvåna",
+          "explanation": "att överraska någon mycket"
+        }
+      ],
+      "main_caption": "Herr X kontrollerar andra människors nya uppfinningar hela dagen.",
+      "side_caption": "En liten kompass som den här fyller herr X med förundran."
+    },
+    {
+      "title": "Ett märkligt år, och sedan i väg med ett skepp",
+      "text_sentences": [
+        "Herr X arbetar på ett tyst kontor för mer än 100 år sedan.",
+        "Under ett enda år skriver han fyra fantastiska artiklar.",
+        "En artikel säger att ljus kan bete sig som små partiklar, inte bara vågor.",
+        "En annan artikel förklarar varför små bitar av materia dansar i vatten under ett mikroskop.",
+        "En tredje artikel ger märkliga nya regler för rum och tid.",
+        "En fjärde artikel säger att massa och enorm energi egentligen är samma sak.",
+        "Bara några få forskare lägger märke till artiklarna först.",
+        "Många år senare vinner han ett stort vetenskapspris.",
+        "Priset är för artikeln om ljus som partiklar.",
+        "Det är inte för hans idé som kallas relativitetsteorin, som är ännu mer berömd.",
+        "År 1933 tar en ny diktator makten i hans hemland.",
+        "Herr X lämnar landet för gott och seglar till säkerhet i USA."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Max Planck",
+        "Albert Einstein",
+        "Ernest Rutherford",
+        "Lise Meitner"
+      ],
+      "words": [
+        {
+          "word": "partikel",
+          "explanation": "en väldigt, väldigt liten bit av något"
+        },
+        {
+          "word": "materia",
+          "explanation": "allt som tar upp plats, som vatten, trä eller luft"
+        },
+        {
+          "word": "mikroskop",
+          "explanation": "ett verktyg med linser som gör mycket små saker stora"
+        },
+        {
+          "word": "diktator",
+          "explanation": "en ledare som har all makt och inte låter någon säga emot"
+        }
+      ],
+      "main_caption": "År 1933 lämnar herr X sitt hemland och återvänder aldrig.",
+      "side_caption": "Bara under ett mikroskop kan man se små bitar av materia dansa i vatten."
+    },
+    {
+      "title": "Stjärnljuset böjer sig, precis som han säger",
+      "text_sentences": [
+        "Herr X utvecklar en märklig ny idé om rum och tid.",
+        "Andra kallar snart idén relativitetsteorin.",
+        "Inget kan färdas snabbare än ljusets hastighet, säger han.",
+        "Tiden själv kan gå långsammare eller snabbare, beroende på hastighet.",
+        "Tio år senare blir han klar med en ännu större version av idén.",
+        "Den här gången handlar det om gravitation.",
+        "Gravitation är ingen dragningskraft, säger han, utan en böjning av rummet självt.",
+        "Tunga stjärnor och planeter böjer rummet och tiden omkring sig.",
+        "Om han har rätt borde stjärnljus böjas när det passerar nära solen.",
+        "År 1919 döljer en total solförmörkelse solens ljus i några minuter.",
+        "Forskare fotograferar stjärnor nära den mörklagda solen och mäter böjningen.",
+        "Resultatet stödjer hans idé, och han blir berömd över hela världen."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Arthur Eddington",
+        "Max Planck",
+        "Albert Einstein",
+        "James Clerk Maxwell"
+      ],
+      "words": [
+        {
+          "word": "gravitation",
+          "explanation": "kraften som drar saker mot varandra, som jorden som drar dig nedåt"
+        },
+        {
+          "word": "relativitetsteorin",
+          "explanation": "en vetenskaplig idé som kopplar samman rum, tid och rörelse"
+        },
+        {
+          "word": "solförmörkelse",
+          "explanation": "när månen täcker solen och himlen blir mörk en stund"
+        },
+        {
+          "word": "böja",
+          "explanation": "att kröka, så att något inte längre är rakt"
+        }
+      ],
+      "main_caption": "År 1919 reser forskare långt för att testa hans märkliga nya idé.",
+      "side_caption": "Under solförmörkelsen låter den dolda solen forskare se stjärnor i närheten."
+    },
+    {
+      "title": "Ett brev, ett vapen och ett avböjt erbjudande",
+      "text_sentences": [
+        "År 1933 tar en diktator makten i Tyskland.",
+        "Herr X ger sig av, och i slutet av 1930-talet bor han tryggt i USA.",
+        "Han hör att forskare i Europa nu kan klyva atomens lilla kärna.",
+        "Att klyva den här kärnan kan frigöra ett enormt utbrott av energi.",
+        "Andra forskare oroar sig för att diktatorns land skulle kunna bygga ett kraftfullt vapen.",
+        "Precis innan ett stort krig bryter ut i Europa skriver herr X under ett brev till den amerikanska presidenten.",
+        "Brevet varnar för att ett sådant vapen nu är möjligt.",
+        "Han arbetar aldrig själv med vapenprojektet.",
+        "År senare används vapnet, och han känner djup ånger.",
+        "Under resten av sitt liv talar och skriver han för fred mellan nationer.",
+        "Sent i livet erbjuder Israel honom sitt högsta ämbete.",
+        "Han tackar vänligt nej och säger att han förstår idéer bättre än människor."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Leo Szilard",
+        "Otto Hahn",
+        "Albert Einstein",
+        "Max Planck"
+      ],
+      "words": [
+        {
+          "word": "atom",
+          "explanation": "en av de mycket små delarna som allt är gjort av"
+        },
+        {
+          "word": "vapen",
+          "explanation": "ett verktyg som är gjort för att skada eller förstöra"
+        },
+        {
+          "word": "ånger",
+          "explanation": "en ledsen känsla över något du önskar inte hade hänt"
+        },
+        {
+          "word": "tacka nej",
+          "explanation": "att säga nej till ett erbjudande"
+        }
+      ],
+      "main_caption": "År 1939 skriver herr X under en allvarlig varning till presidenten.",
+      "side_caption": "Under resten av sitt liv arbetar och talar han för fred."
+    },
+    {
+      "title": "Ikonen och mannen bakom den",
+      "text_sentences": [
+        "Vid 1920-talet har herr X förändrat hur forskare tänker om rum, tid och gravitation.",
+        "Hans idéer går längre än de rörelselagar som styr vetenskapen i tvåhundra år.",
+        "Under samma årtionde tar en ny och märkligare vetenskap form: kvantteorin.",
+        "Den här teorin säger att naturen, djupast sett, kanske bara erbjuder chanser, aldrig visshet.",
+        "Herr X hjälper till att starta den nya vetenskapen, men han accepterar aldrig hela bilden av den.",
+        "Han är känd för att hävda att naturen inte kan lämna saker helt åt slumpen.",
+        "De flesta fysiker håller inte med honom, och kvantteorin fortsätter att lyckas.",
+        "År 1939 övertalar oroliga kollegor honom att skriva under ett ödesdigert brev.",
+        "Historiker debatterar fortfarande hur mycket ansvar en enda underskrift egentligen bär.",
+        "Hans ansikte blir en av de mest tryckta och kopierade bilderna i historien.",
+        "Ändå är den verkliga mannen ofta ängslig, osäker och privat självkritisk.",
+        "Den berömda ikonen och den verkliga mannen är inte riktigt samma person."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Niels Bohr",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Ernest Rutherford"
+      ],
+      "words": [
+        {
+          "word": "kvantteorin",
+          "explanation": "en vetenskap om mycket små saker, som atomer, som ofta fungerar genom slump"
+        },
+        {
+          "word": "visshet",
+          "explanation": "att vara helt säker på att något är sant"
+        },
+        {
+          "word": "ödesdigert",
+          "explanation": "som har mycket viktiga och allvarliga följder senare"
+        },
+        {
+          "word": "ikon",
+          "explanation": "en person eller bild som står för något berömt och viktigt"
+        }
+      ],
+      "main_caption": "Vart han än går väntar kamerorna på honom.",
+      "side_caption": "Bakom den berömda bilden finns en tyst, privat man."
+    }
+  ]
+}
