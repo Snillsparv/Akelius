@@ -19,11 +19,12 @@ ordlista eller bild.
 
 ## Status (uppdatera vid varje leverans)
 
-- 45 ämnen, 225 kort, 450 bilder, 100 procent tvåspråkigt (leverans 1-7).
-- Näst på tur: rad 46-50 i `docs/master-lista-50.md` (kalla kriget, Martin
-  Luther King, Mandela, Berlinmurens fall, månlandningen), därefter förslag på
-  utökad lista mot Rogers mål 600+ kort (idéhistoria, matematiker, fysiker,
-  nobelpristagare).
+- 50 ämnen, 250 kort, 500 bilder, 100 procent tvåspråkigt (leverans 1-8).
+  Masterlistan med 50 ämnen är därmed färdigproducerad.
+- Näst på tur: **vänta på val**. Förslaget på utökad lista mot 600+ kort ligger
+  i `docs/forslag-utokad-lista.md` (84 ämnen i tre nivåer med frågor till
+  Jonas och Roger). Ingen ny produktion förrän Jonas eller Roger valt ämnen,
+  kategorietiketter och kortantal per ämne.
 - Öppet hos Roger: baksidestexter för befintliga kort, nivå 3-kort,
   "about X years ago" kontra århundraden.
 

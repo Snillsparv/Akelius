@@ -3,7 +3,8 @@
 Listan ur Rogers mejl ("50 important people and events for a world history quiz").
 Balanserar antika civilisationer, religioner, vetenskap, upptäckter, revolutioner,
 världskrig, mänskliga rättigheter och modern historia. Fem kort per rad;
-status uppdateras löpande.
+status uppdateras löpande. Alla 50 rader är producerade (leverans 1-8);
+fortsättningen föreslås i `forslag-utokad-lista.md`.
 
 | # | Ämne | Kategori | Status |
 |---|---|---|---|
@@ -52,8 +53,8 @@ status uppdateras löpande.
 | 43 | Adolf Hitler | Twentieth Century |✅ Leverans 7 |
 | 44 | Mahatma Gandhi | Twentieth Century |✅ Leverans 7 |
 | 45 | The United Nations | Twentieth Century |✅ Leverans 7 |
-| 46 | The Cold War | Twentieth Century | |
-| 47 | Martin Luther King Jr. | Twentieth Century | |
-| 48 | Nelson Mandela | Twentieth Century | |
-| 49 | The fall of the Berlin Wall | Twentieth Century | |
-| 50 | The first Moon landing | Twentieth Century | |
+| 46 | The Cold War | Twentieth Century |✅ Leverans 8 |
+| 47 | Martin Luther King Jr. | Twentieth Century |✅ Leverans 8 |
+| 48 | Nelson Mandela | Twentieth Century |✅ Leverans 8 |
+| 49 | The fall of the Berlin Wall | Twentieth Century |✅ Leverans 8 |
+| 50 | The first Moon landing | Twentieth Century |✅ Leverans 8 |

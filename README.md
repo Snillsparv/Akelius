@@ -9,7 +9,7 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**225 kort · 45 ämnen**, samtliga faktagranskade och specgranskade.
+**250 kort · 50 ämnen**, samtliga faktagranskade och specgranskade.
 Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
 svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
@@ -29,6 +29,8 @@ svensk översättning (växla språk med knappen på förhandsvisningssidorna).
   Karl Marx
 - **Leverans 7** — Första världskriget, Andra världskriget, Winston Churchill,
   Adolf Hitler, Mahatma Gandhi, Förenta nationerna
+- **Leverans 8** — Kalla kriget, Martin Luther King, Nelson Mandela,
+  Berlinmurens fall, Den första månlandningen
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -76,9 +78,9 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(450 st för leverans 1–7: 225 kort × huvudbild + sidobild).
+(500 st för leverans 1–8: 250 kort × huvudbild + sidobild).
 
-**Status: 450 av 450 bilder klara** — samtliga kort i leverans 1–7 har
+**Status: 500 av 500 bilder klara** — samtliga kort i leverans 1–8 har
 huvudbild och sidobild. Varje batch har kvalitetsgranskats bild för bild
 mot sina briefer, och underkända bilder har genererats om.
 
