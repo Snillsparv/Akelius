@@ -11,7 +11,7 @@
         "Han ritar cirklar och trianglar i sanden.",
         "Bönder behöver lyfta vatten upp till sina torra fält.",
         "Herr X bygger en smart maskin: en lång skruv inuti ett rör.",
-        "När du vrider skruven stiger vattnet högre och högre.",
+        "När du vrider på skruven stiger vattnet högre och högre.",
         "En känd berättelse säger att han flyttar ett enormt skepp nästan ensam.",
         "Han drar det med rep och många hjul som snurrar.",
         "Han förklarar också hävstången, en lång stång med ett stöd under den.",
@@ -44,7 +44,7 @@
         }
       ],
       "main_caption": "En skruv inuti ett rör lyfter upp vatten från floden.",
-      "side_caption": "En lång stång och en liten sten kan lyfta en tung sten."
+      "side_caption": "En lång stång och en liten sten kan lyfta ett tungt stenblock."
     },
     {
       "title": "Badet, kronan och skeppen från Rom",
@@ -60,7 +60,7 @@
         "Herr X bygger enorma maskiner för att hjälpa till att försvara murarna.",
         "Långa armar av trä svänger ut och släpper stenar på skeppen.",
         "År 212 f.Kr. tar sig romerska soldater till slut in i staden.",
-        "En soldat dödar herr X, även om generalen vill ha honom vid liv."
+        "En soldat dödar herr X, trots att generalen vill ha honom levande."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -88,18 +88,18 @@
         }
       ],
       "main_caption": "Enorma maskiner på murarna släpper stenar på skeppen nedanför.",
-      "side_caption": "Vattnet stiger och rinner över när något går ner i badkaret."
+      "side_caption": "Vattnet stiger och rinner över när något sänks ner i badkaret."
     },
     {
       "title": "Ett tal fångat mellan två bråk",
       "text_sentences": [
         "Herr X bor i den grekiska staden Syrakusa på 200-talet f.Kr.",
         "Han vill veta värdet på ett speciellt tal: pi.",
-        "Pi berättar hur långt det är runt en cirkel, jämfört med dess bredd.",
+        "Pi visar hur långt det är runt en cirkel, jämfört med dess bredd.",
         "Han ritar månghörningar precis innanför och precis utanför en cirkel.",
         "Fler sidor gör att varje form kommer närmare en riktig, rund cirkel.",
-        "Med den här metoden fångar han pi mellan två mycket nära bråk.",
-        "Han studerar också ett klot som passar tätt inuti ett rörformat block.",
+        "Med den här metoden fångar han pi mellan två bråk som ligger mycket nära varandra.",
+        "Han studerar också ett klot som passar precis inuti ett rörformat block.",
         "Blocket är exakt lika högt som det är brett.",
         "Han bevisar att klotets volym är två tredjedelar av blockets volym.",
         "Han är så stolt över det här beviset att han vill ha det på sin grav.",
@@ -132,7 +132,7 @@
         }
       ],
       "main_caption": "En cirkel ligger tätt mellan två månghörningar.",
-      "side_caption": "Ett klot passar tätt inuti ett rörformat block av sten."
+      "side_caption": "Ett klot passar precis inuti ett rörformat block av sten."
     },
     {
       "title": "Att räkna sandkornen i världen",
@@ -143,8 +143,8 @@
         "Med sin metod räknar han sandkorn som skulle kunna fylla hela universum.",
         "Han skriver ner den här idén i en bok till kungens son.",
         "Han skickar också brev med nya matematiska idéer till lärda i Alexandria.",
-        "I ett brev ber han de lärda bevisa hans påståenden själva.",
-        "Många av breven och böckerna finns kvar, kopierade om och om igen genom tiden.",
+        "I ett brev ber han de lärda att själva bevisa hans påståenden.",
+        "Många av breven och böckerna finns kvar, kopierade om och om igen genom tiderna.",
         "Senare författare lägger till dramatiska berättelser om honom.",
         "En berättelse säger att han bränner fiendens skepp med speglar under ett krig.",
         "Det är en sen berättelse som många historiker tvivlar på."
@@ -159,7 +159,7 @@
       "words": [
         {
           "word": "sandkorn",
-          "explanation": "en av de allra minsta bitarna av sand"
+          "explanation": "en mycket liten bit sand"
         },
         {
           "word": "universum",
@@ -183,11 +183,11 @@
         "Herr X är en grekisk matematiker från Syrakusa, på 200-talet f.Kr.",
         "Mer än tusen år efter hans död kopierar en skrivare hans böcker för hand.",
         "På 1200-talet behöver munkar pergament och skrapar rent den här kopian.",
-        "De skriver en bönbok över den svaga, gamla matematiska texten.",
-        "I århundraden vet ingen att hans förlorade bok fortfarande gömmer sig under.",
-        "År 1906 hittar en lärd person den gömda boken och läser en del av den.",
-        "Ungefär hundra år senare använder forskare modernt ljus och avbildningsverktyg.",
-        "De läser sidor som är alldeles för svaga för det mänskliga ögat att se.",
+        "De skriver en bönbok över den bleka, gamla matematiska texten.",
+        "I århundraden vet ingen att hans förlorade bok fortfarande finns gömd därunder.",
+        "År 1906 hittar en lärd den gömda boken och läser en del av den.",
+        "Ungefär hundra år senare använder forskare modern ljusteknik och bildverktyg.",
+        "De läser sidor som är alldeles för bleka för det mänskliga ögat.",
         "En dold text förklarar en metod: att skära former i otaliga tunna skivor.",
         "Den här metoden kommer mycket nära en stor matematisk idé som utvecklas mycket senare.",
         "Historiker måste nu skilja hans riktiga, dokumenterade arbete från senare, dramatiska legender."
@@ -213,12 +213,12 @@
           "explanation": "ett material gjort av djurskinn, använt som papper för att skriva på"
         },
         {
-          "word": "svag",
+          "word": "blek",
           "explanation": "mycket otydlig och svår att se"
         }
       ],
       "main_caption": "En munk skrapar rent en gammal sida för att skriva en ny bönbok.",
-      "side_caption": "Modernt ljus avslöjar skrift som har varit gömd i århundraden."
+      "side_caption": "Modern ljusteknik avslöjar skrift som har varit gömd i århundraden."
     }
   ]
 }

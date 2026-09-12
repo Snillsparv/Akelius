@@ -28116,6 +28116,51 @@
             "caption": "A long pole and one small stone can lift a heavy rock.",
             "shutterstock_query": "hands lever wooden pole lifting large stone illustration",
             "ai_prompt": "Photorealistic close-up illustration of two hands gripping a long wooden pole wedged under a large stone boulder, a small rock placed under the pole as a support point, sandaled feet braced on dry Mediterranean ground, ancient Greek simple cloth at the wrist only, no face or full body, warm daylight; no togas with lettering, no shields, no modern harbour, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Mannen som älskar former och tal",
+            "text_sentences": [
+              "Herr X bor i en grekisk stad vid havet.",
+              "Staden heter Syrakusa, på ön Sicilien.",
+              "Han älskar former och tal mer än nästan allting.",
+              "Han ritar cirklar och trianglar i sanden.",
+              "Bönder behöver lyfta vatten upp till sina torra fält.",
+              "Herr X bygger en smart maskin: en lång skruv inuti ett rör.",
+              "När du vrider på skruven stiger vattnet högre och högre.",
+              "En känd berättelse säger att han flyttar ett enormt skepp nästan ensam.",
+              "Han drar det med rep och många hjul som snurrar.",
+              "Han förklarar också hävstången, en lång stång med ett stöd under den.",
+              "En berättelse säger att han gör ett djärvt påstående om den.",
+              "Med en tillräckligt lång hävstång och en plats att stå på skulle han kunna flytta hela jorden."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Pythagoras",
+              "Arkimedes",
+              "Euklides",
+              "Heron från Alexandria"
+            ],
+            "correct": "Arkimedes",
+            "words": [
+              {
+                "word": "skruv",
+                "explanation": "en bit av metall eller trä som snurrar runt och runt och flyttar saker när den snurrar"
+              },
+              {
+                "word": "rör",
+                "explanation": "ett långt, runt föremål som är tomt inuti"
+              },
+              {
+                "word": "hävstång",
+                "explanation": "en stång som hjälper dig att lyfta eller flytta tunga saker"
+              },
+              {
+                "word": "enorm",
+                "explanation": "mycket, mycket stor"
+              }
+            ],
+            "main_caption": "En skruv inuti ett rör lyfter upp vatten från floden.",
+            "side_caption": "En lång stång och en liten sten kan lyfta ett tungt stenblock."
           }
         },
         {
@@ -28173,6 +28218,51 @@
             "caption": "Water rises and spills when something goes into the tub.",
             "shutterstock_query": "ancient terracotta bathtub rippling water empty bathhouse",
             "ai_prompt": "Photorealistic image of an empty terracotta bathtub in a plain ancient Greek bathhouse, water rippling and a little spilled onto the stone floor around it, soft daylight through a small high window, no person present; no togas, no shields, no modern harbour, no modern taps or pipes, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Badet, kronan och skeppen från Rom",
+            "text_sentences": [
+              "Herr X bor i den grekiska staden Syrakusa, på Sicilien.",
+              "En kung ber honom kontrollera om en ny krona är rent guld.",
+              "En känd berättelse säger att han hittar svaret i sitt bad.",
+              "Han ser vattnet stiga när han kliver ner i badkaret.",
+              "Guld är mycket tungt för sin storlek, så rent guld tar liten plats.",
+              "En krona av rent guld tränger undan mindre vatten än en blandad krona med samma vikt.",
+              "Hans idéer om vatten förklarar också varför vissa saker flyter och andra sjunker.",
+              "Flera år senare anfaller skepp från Rom hans hemstad.",
+              "Herr X bygger enorma maskiner för att hjälpa till att försvara murarna.",
+              "Långa armar av trä svänger ut och släpper stenar på skeppen.",
+              "År 212 f.Kr. tar sig romerska soldater till slut in i staden.",
+              "En soldat dödar herr X, trots att generalen vill ha honom levande."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Arkimedes",
+              "Thales",
+              "Eratosthenes",
+              "Ptolemaios"
+            ],
+            "correct": "Arkimedes",
+            "words": [
+              {
+                "word": "krona",
+                "explanation": "en ring av guld som en kung eller en drottning bär på huvudet"
+              },
+              {
+                "word": "ren",
+                "explanation": "inte blandat med något annat"
+              },
+              {
+                "word": "försvara",
+                "explanation": "att slåss för att skydda en plats mot angrepp"
+              },
+              {
+                "word": "general",
+                "explanation": "ledaren för en armé"
+              }
+            ],
+            "main_caption": "Enorma maskiner på murarna släpper stenar på skeppen nedanför.",
+            "side_caption": "Vattnet stiger och rinner över när något sänks ner i badkaret."
           }
         },
         {
@@ -28230,6 +28320,51 @@
             "caption": "A ball fits tightly inside a tube-shaped block of stone.",
             "shutterstock_query": "marble sphere inside cylinder block ancient geometry",
             "ai_prompt": "Photorealistic image of a pale marble sphere resting exactly inside a marble cylinder that is exactly as tall as it is wide, the sphere touching top, bottom, and curved side, plain stone surface, soft daylight, a small bronze measuring tool resting nearby, no person; no togas, no shields, no modern harbour, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett tal fångat mellan två bråk",
+            "text_sentences": [
+              "Herr X bor i den grekiska staden Syrakusa på 200-talet f.Kr.",
+              "Han vill veta värdet på ett speciellt tal: pi.",
+              "Pi visar hur långt det är runt en cirkel, jämfört med dess bredd.",
+              "Han ritar månghörningar precis innanför och precis utanför en cirkel.",
+              "Fler sidor gör att varje form kommer närmare en riktig, rund cirkel.",
+              "Med den här metoden fångar han pi mellan två bråk som ligger mycket nära varandra.",
+              "Han studerar också ett klot som passar precis inuti ett rörformat block.",
+              "Blocket är exakt lika högt som det är brett.",
+              "Han bevisar att klotets volym är två tredjedelar av blockets volym.",
+              "Han är så stolt över det här beviset att han vill ha det på sin grav.",
+              "Långt efter hans död hittar en romersk författare vid namn Cicero graven.",
+              "Den förlorade graven är precis som herr X önskade, med formerna inristade på den."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Euklides",
+              "Hipparchos",
+              "Arkimedes",
+              "Apollonios"
+            ],
+            "correct": "Arkimedes",
+            "words": [
+              {
+                "word": "pi",
+                "explanation": "ett speciellt tal som används för att mäta cirklar"
+              },
+              {
+                "word": "volym",
+                "explanation": "hur mycket plats det finns inuti en form"
+              },
+              {
+                "word": "bevis",
+                "explanation": "fakta och steg som visar att en idé måste vara sann"
+              },
+              {
+                "word": "grav",
+                "explanation": "en plats där en död person är begravd"
+              }
+            ],
+            "main_caption": "En cirkel ligger tätt mellan två månghörningar.",
+            "side_caption": "Ett klot passar precis inuti ett rörformat block av sten."
           }
         },
         {
@@ -28286,6 +28421,50 @@
             "caption": "Countless tiny grains of sand, more than anyone can count by hand.",
             "shutterstock_query": "close up sand grains beach wave macro",
             "ai_prompt": "Photorealistic extreme close-up macro photo of pale sand grains on a Mediterranean beach with a gentle wave just reaching them, countless tiny grains in sharp detail, natural light, no hands, no objects, no marks pressed into the sand; no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Att räkna sandkornen i världen",
+            "text_sentences": [
+              "Herr X bor i Syrakusa, en grekisk stad på Sicilien, på 200-talet f.Kr.",
+              "Vissa säger att ingen kan räkna alla sandkorn i världen.",
+              "Herr X håller inte med och uppfinner ett nytt sätt att skriva enorma tal.",
+              "Med sin metod räknar han sandkorn som skulle kunna fylla hela universum.",
+              "Han skriver ner den här idén i en bok till kungens son.",
+              "Han skickar också brev med nya matematiska idéer till lärda i Alexandria.",
+              "I ett brev ber han de lärda att själva bevisa hans påståenden.",
+              "Många av breven och böckerna finns kvar, kopierade om och om igen genom tiderna.",
+              "Senare författare lägger till dramatiska berättelser om honom.",
+              "En berättelse säger att han bränner fiendens skepp med speglar under ett krig.",
+              "Det är en sen berättelse som många historiker tvivlar på."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Eratosthenes",
+              "Ptolemaios",
+              "Hypatia",
+              "Arkimedes"
+            ],
+            "correct": "Arkimedes",
+            "words": [
+              {
+                "word": "sandkorn",
+                "explanation": "en mycket liten bit sand"
+              },
+              {
+                "word": "universum",
+                "explanation": "hela rymden, med alla stjärnor och alla världar"
+              },
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar och lär sig på djupet"
+              },
+              {
+                "word": "påstående",
+                "explanation": "något som en person säger är sant"
+              }
+            ],
+            "main_caption": "Han skriver ner sina djärvaste idéer om enorma tal och stjärnorna.",
+            "side_caption": "Otaliga små sandkorn, fler än någon kan räkna för hand."
           }
         },
         {
@@ -28342,9 +28521,54 @@
             "caption": "Modern light reveals writing that was hidden for centuries.",
             "shutterstock_query": "manuscript multispectral imaging lab hidden text research",
             "ai_prompt": "Photorealistic image of a modern research lab, a gloved hand holding a special imaging light over an old worn parchment page lying flat under a small scanning device, faint pale ghostly circles and lines revealed on the page invisible to the naked eye, scientist's face out of frame; no readable words in any script, no screens with text, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En förlorad bok gömd under en bönbok",
+            "text_sentences": [
+              "Herr X är en grekisk matematiker från Syrakusa, på 200-talet f.Kr.",
+              "Mer än tusen år efter hans död kopierar en skrivare hans böcker för hand.",
+              "På 1200-talet behöver munkar pergament och skrapar rent den här kopian.",
+              "De skriver en bönbok över den bleka, gamla matematiska texten.",
+              "I århundraden vet ingen att hans förlorade bok fortfarande finns gömd därunder.",
+              "År 1906 hittar en lärd den gömda boken och läser en del av den.",
+              "Ungefär hundra år senare använder forskare modern ljusteknik och bildverktyg.",
+              "De läser sidor som är alldeles för bleka för det mänskliga ögat.",
+              "En dold text förklarar en metod: att skära former i otaliga tunna skivor.",
+              "Den här metoden kommer mycket nära en stor matematisk idé som utvecklas mycket senare.",
+              "Historiker måste nu skilja hans riktiga, dokumenterade arbete från senare, dramatiska legender."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Apollonios",
+              "Heron från Alexandria",
+              "Hipparchos",
+              "Arkimedes"
+            ],
+            "correct": "Arkimedes",
+            "words": [
+              {
+                "word": "skrivare",
+                "explanation": "en person vars jobb är att kopiera text för hand"
+              },
+              {
+                "word": "skrapa",
+                "explanation": "att gnugga något hårt för att ta bort det översta lagret"
+              },
+              {
+                "word": "pergament",
+                "explanation": "ett material gjort av djurskinn, använt som papper för att skriva på"
+              },
+              {
+                "word": "blek",
+                "explanation": "mycket otydlig och svår att se"
+              }
+            ],
+            "main_caption": "En munk skrapar rent en gammal sida för att skriva en ny bönbok.",
+            "side_caption": "Modern ljusteknik avslöjar skrift som har varit gömd i århundraden."
           }
         }
-      ]
+      ],
+      "person_sv": "Arkimedes"
     },
     {
       "slug": "al-khwarizmi",
@@ -28399,6 +28623,45 @@
             "caption": "One row on the board is empty. A whole new number: nothing at all.",
             "shutterstock_query": "wooden counting board pebbles rows empty groove close up",
             "ai_prompt": "Photorealistic vertical close-up of a plain ninth-century Baghdad wooden counting board with several shallow rows on a table, each row holding neat lines of smooth round pebbles except for one row left completely empty, soft daylight; no calligraphy, no pseudo-writing, no readable markings, no modern objects, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En rättvis delning i en ny stad",
+            "text_sentences": [
+              "Herr X lever för ungefär tolvhundra år sedan.",
+              "Hans hem är Bagdad, en stor ny stad byggd av en kalif.",
+              "Handelsmän, poeter och lärda fyller gatorna innanför dess runda murar.",
+              "Herr X arbetar med tal varenda dag.",
+              "När en far dör grälar familjer ofta om marken och guldet.",
+              "Herr X skriver en bok som hjälper dem att dela allt rättvist.",
+              "Han lär sig också om de nya indiska siffrorna.",
+              "Ett konstigt litet tecken betyder ingenting alls.",
+              "I dag kallar vi det noll.",
+              "Med de nya siffrorna blir svår räkning mycket lättare för alla."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Brahmagupta",
+              "al-Khwarizmi",
+              "Fibonacci",
+              "Omar Khayyam"
+            ],
+            "correct": "al-Khwarizmi",
+            "words": [
+              {
+                "word": "kalif",
+                "explanation": "en muslimsk härskare som leder ett stort rike på den tiden"
+              },
+              {
+                "word": "lärda",
+                "explanation": "människor som studerar och lär sig mycket"
+              },
+              {
+                "word": "gräla",
+                "explanation": "att prata på ett argt sätt för att man inte är överens"
+              }
+            ],
+            "main_caption": "En stor ny stad vid en stor flod, full av handelsmän och båtar.",
+            "side_caption": "En rad på räknebrädet är tom. Ett helt nytt tal: ingenting alls."
           }
         },
         {
@@ -28454,6 +28717,49 @@
             "caption": "Balancing: the same weight on both sides, so nothing tips over.",
             "shutterstock_query": "man carrying shoulder pole two water jars narrow lane historical",
             "ai_prompt": "Photorealistic vertical image of a man in a ninth-century Baghdad long robe and turban seen from behind, carrying a wooden shoulder pole with one plain unmarked clay water jar hanging level at each end, walking down a narrow mud-brick lane with a dome beyond, warm daylight, no visible face, no modern objects; no calligraphy, no pseudo-writing, no readable signs, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Balans på båda sidor",
+            "text_sentences": [
+              "Herr X arbetar i Bagdad på 800-talet.",
+              "Han skriver en matematikbok med en konstig, lång titel.",
+              "Titeln handlar om att återställa tal och balansera dem, som en våg.",
+              "I boken löser han svåra gåtor med tal.",
+              "Han använder aldrig plustecken, minustecken eller bokstäver för okända tal.",
+              "I stället förklarar han varje steg med vanliga ord och enkla bilder.",
+              "Han skriver den för köpmän, domare och byggmästare som behöver den i sitt dagliga arbete.",
+              "Århundraden senare översätter europeiska lärda hans bok till latin.",
+              "Från titeln tar de ett helt nytt ord för den här sortens matematik.",
+              "I dag använder elever över hela världen fortfarande det ordet: algebra."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Thabit ibn Qurra",
+              "Fibonacci",
+              "al-Khwarizmi",
+              "al-Kindi"
+            ],
+            "correct": "al-Khwarizmi",
+            "words": [
+              {
+                "word": "gåtor",
+                "explanation": "problem som man måste tänka noga på för att kunna lösa"
+              },
+              {
+                "word": "översätta",
+                "explanation": "att ändra ord från ett språk till ett annat"
+              },
+              {
+                "word": "våg",
+                "explanation": "ett redskap som visar om två saker väger lika mycket"
+              },
+              {
+                "word": "algebra",
+                "explanation": "en sorts matematik som använder bokstäver eller ord för okända tal"
+              }
+            ],
+            "main_caption": "Han förklarar varje steg med vanliga ord och enkla bilder.",
+            "side_caption": "Balans: samma vikt på båda sidor, så att ingen sida väger över."
           }
         },
         {
@@ -28511,6 +28817,51 @@
             "caption": "Steps: one clear stage, then the next, always leading the same way.",
             "shutterstock_query": "stone staircase steps courtyard sunlight moss historical",
             "ai_prompt": "Photorealistic vertical image of a worn stone staircase with a few wide steps climbing one level in a sunlit ninth-century Baghdad courtyard between two plain plastered walls with domes visible beyond, moss softening the stone edges, no people, no modern railings or lamps; no calligraphy, no pseudo-writing, no readable signs, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Förlorad på arabiska, räddad på latin",
+            "text_sentences": [
+              "Herr X skriver två viktiga böcker i Bagdad på 800-talet.",
+              "Den ena boken handlar om att återställa och balansera tal.",
+              "Den andra boken förklarar de nya indiska siffrorna, inklusive nollan.",
+              "På 1100-talet översätter en lärd i Europa den andra boken.",
+              "Han gör om de arabiska orden till latin.",
+              "Ingen vet exakt vem den här översättaren är.",
+              "Senare försvinner varje arabisk kopia av boken.",
+              "Bara den latinska texten överlever.",
+              "Den latinska texten börjar med hans namn, skrivet på ett latinskt sätt.",
+              "Så småningom använder lärda den latinska formen av hans namn till något nytt.",
+              "Det blir ett ord för varje tydlig följd av steg som alltid ger samma svar.",
+              "Det ordet används fortfarande i dag, i varje skola och varje dator."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Nasir al-Din al-Tusi",
+              "al-Khwarizmi",
+              "Fibonacci",
+              "al-Biruni"
+            ],
+            "correct": "al-Khwarizmi",
+            "words": [
+              {
+                "word": "översättare",
+                "explanation": "en person som ändrar ord från ett språk till ett annat"
+              },
+              {
+                "word": "överleva",
+                "explanation": "att fortfarande finnas kvar efter lång tid eller en stor fara"
+              },
+              {
+                "word": "latin",
+                "explanation": "språket i antikens Rom, som lärda använde i många århundraden"
+              },
+              {
+                "word": "steg",
+                "explanation": "de små delarna av ett arbete, som görs en efter en"
+              }
+            ],
+            "main_caption": "En översättare gör om bokens arabiska ord till latin.",
+            "side_caption": "Steg: ett tydligt steg, sedan nästa, och vägen är alltid densamma."
           }
         },
         {
@@ -28566,6 +28917,49 @@
             "caption": "A new map of the world, drawn to correct old mistakes.",
             "shutterstock_query": "antique paper world map coastlines no text angle",
             "ai_prompt": "Photorealistic vertical image of a large aged paper world map unrolled at a sharp angle on a wooden table in a ninth-century Baghdad study, showing only coastlines, rivers, and mountain symbols in faded brown ink with no place names or writing anywhere, four smooth stones weighting the corners flat, soft window light, no modern objects; no calligraphy, no pseudo-writing, no readable place names or maps, no faces of the Prophet; no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En ny karta över hela världen",
+            "text_sentences": [
+              "Herr X arbetar som astronom och geograf i Bagdad.",
+              "Han gör detaljerade tabeller som följer solen, månen och planeterna.",
+              "Andra lärda använder tabellerna för att göra kalendrar, hitta bönetider och läsa i stjärnorna.",
+              "Herr X studerar också geografiböckerna från antikens grekiska lärda.",
+              "En tidigare grekisk lärd ritade en berömd karta över den kända världen.",
+              "Den gamla kartan har många fel om kuster, floder och avstånd.",
+              "Med andra lärda kontrollerar och rättar herr X läget för mer än tvåtusen platser.",
+              "Tillsammans ritar de en ny och mer exakt karta över världen.",
+              "Hans eget namn kan peka på en region öster om Kaspiska havet.",
+              "Historiker är inte säkra på om han själv är född där."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "al-Battani",
+              "al-Khwarizmi",
+              "al-Biruni",
+              "Nasir al-Din al-Tusi"
+            ],
+            "correct": "al-Khwarizmi",
+            "words": [
+              {
+                "word": "astronom",
+                "explanation": "en forskare som studerar stjärnorna, solen och planeterna"
+              },
+              {
+                "word": "geograf",
+                "explanation": "en person som studerar och kartlägger jorden, dess land och hav"
+              },
+              {
+                "word": "exakt",
+                "explanation": "riktig, utan fel eller med mycket få fel"
+              },
+              {
+                "word": "region",
+                "explanation": "ett stort landområde, större än en enda stad"
+              }
+            ],
+            "main_caption": "På dagen mäter lärda solens skugga och skriver ner vad de finner.",
+            "side_caption": "En ny karta över världen, ritad för att rätta gamla fel."
           }
         },
         {
@@ -28621,9 +29015,53 @@
             "caption": "Scattered ideas, arranged into one clear and ordered pattern.",
             "shutterstock_query": "hand arranging pebbles triangular pattern sand riverbank close up",
             "ai_prompt": "Photorealistic vertical close-up of a generic hand arranging smooth pebbles into a neat triangular pattern on fine sand at the edge of the wide calm Tigris outside ninth-century Baghdad, each row one pebble longer than the last, reed beds and a moored wooden boat blurred in the background, soft morning light and shadows, no modern objects; no calligraphy, no pseudo-writing, no numerals, no readable markings, no faces of the Prophet, no readable maps; no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Mellan Indien, Grekland och hans egna idéer",
+            "text_sentences": [
+              "Herr X arbetar som matematiker och lärd i Bagdad på 800-talet.",
+              "Historiker känner till hans liv främst genom en handfull korta, senare biografiska anteckningar.",
+              "Inga personliga brev från honom finns bevarade.",
+              "Hans berömda bok om att återställa och balansera tal bygger på äldre traditioner.",
+              "Några av metoderna kommer troligen från äldre babylonisk, indisk och grekisk matematik.",
+              "Ändå organiserar herr X för första gången dessa metoder till tydliga, allmänna regler.",
+              "Senare lärda i Mellanöstern och Europa bygger vidare på hans regler i århundraden.",
+              "Vissa historiker kallar honom fadern till den här sortens matematik.",
+              "Andra säger att hans stora gåva är att samla och organisera det som andra vet.",
+              "Historiker diskuterar fortfarande hur mycket som verkligen är hans egen uppfinning."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Thabit ibn Qurra",
+              "Arkimedes",
+              "al-Khwarizmi",
+              "Brahmagupta"
+            ],
+            "correct": "al-Khwarizmi",
+            "words": [
+              {
+                "word": "biografisk",
+                "explanation": "som handlar om en persons livshistoria"
+              },
+              {
+                "word": "traditioner",
+                "explanation": "gamla sätt att göra eller veta saker, som förs vidare genom tiden"
+              },
+              {
+                "word": "organisera",
+                "explanation": "att sätta saker i tydlig ordning"
+              },
+              {
+                "word": "uppfinning",
+                "explanation": "något nytt, skapat för första gången"
+              }
+            ],
+            "main_caption": "Gammal kunskap från många länder står sida vid sida på hans hylla.",
+            "side_caption": "Spridda idéer, samlade i ett tydligt och ordnat mönster."
           }
         }
-      ]
+      ],
+      "person_sv": "al-Khwarizmi"
     },
     {
       "slug": "ibn-sina",
@@ -28684,6 +29122,51 @@
             "caption": "The grateful ruler opens his private library to the young healer.",
             "shutterstock_query": "old leather bound books wooden shelves library alcove",
             "ai_prompt": "Photorealistic vertical image of a quiet alcove in a tenth century Central Asian palace library, rows of closed plain leather-bound books stacked on carved wooden shelves, warm light through a small window with a geometric lattice pattern, brick dome visible above, no people, calm scholarly mood, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Pojken nära Buchara som lär sig snabbt",
+            "text_sentences": [
+              "Herr X är en pojke som bor nära Buchara.",
+              "Det är för mer än tusen år sedan.",
+              "Buchara är en stad i Centralasien.",
+              "Herr X lär sig läsa mycket tidigt.",
+              "Senare skriver han sin egen levnadsberättelse.",
+              "Där säger han att han kan islams heliga bok utantill när han är tio år.",
+              "Snart kan han mer än sina egna lärare, säger han.",
+              "Han studerar medicin och börjar behandla sjuka människor.",
+              "Hans levnadsberättelse säger att han redan arbetar som läkare när han är sexton år.",
+              "En dag blir härskaren i hans stad mycket sjuk.",
+              "Herr X behandlar honom, och härskaren blir frisk igen.",
+              "Som belöning låter härskaren honom läsa varje bok i sitt privata bibliotek."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Ibn Sina",
+              "Hippokrates",
+              "Galenos",
+              "al-Razi"
+            ],
+            "correct": "Ibn Sina",
+            "words": [
+              {
+                "word": "härskare",
+                "explanation": "en person som styr ett land eller en stad"
+              },
+              {
+                "word": "behandla",
+                "explanation": "att hjälpa en sjuk person att bli frisk"
+              },
+              {
+                "word": "belöning",
+                "explanation": "något bra som du får för att du har gjort något bra"
+              },
+              {
+                "word": "privat",
+                "explanation": "bara för en person, inte för alla"
+              }
+            ],
+            "main_caption": "En ung läkare undersöker härskaren som har blivit sjuk.",
+            "side_caption": "Den tacksamma härskaren öppnar sitt privata bibliotek för den unge läkaren."
           }
         },
         {
@@ -28741,6 +29224,51 @@
             "caption": "Far away in Europe, doctors study his book for hundreds of years.",
             "shutterstock_query": "medieval university lecture hall students benches illustration",
             "ai_prompt": "Photorealistic vertical illustration of a fifteenth century European university lecture hall seen from the back of the room, students in long dark gowns and hoods on plain wooden benches, a lecturer at a raised wooden desk with one thick closed leather-bound book, tall arched stone window, stone walls, faces turned away or unclear, no open pages, no modern clothes, no electric light, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En läkarbok i hundratals år",
+            "text_sentences": [
+              "Herr X föds nära Buchara, för mer än tusen år sedan.",
+              "Han växer upp och blir läkare och tänkare.",
+              "Han skriver en mycket stor läkarbok.",
+              "Boken har fem långa delar.",
+              "Den beskriver sjukdomar, läkemedel och hur man vårdar kroppen.",
+              "Läkare i hela den muslimska världen använder boken i århundraden.",
+              "Senare når den också universitet i Europa.",
+              "Där läser läkare den fortfarande hundratals år efter hans död.",
+              "Herr X är också mycket noga med att testa läkemedel.",
+              "Han säger att ett nytt läkemedel först måste prövas på riktiga patienter.",
+              "Det måste också fungera om och om igen innan läkare kan lita på det.",
+              "Hans regler för att testa läkemedel låter moderna än i dag."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "al-Zahrawi",
+              "Ibn Sina",
+              "Ibn Rushd",
+              "al-Razi"
+            ],
+            "correct": "Ibn Sina",
+            "words": [
+              {
+                "word": "århundraden",
+                "explanation": "perioder på hundra år vardera"
+              },
+              {
+                "word": "universitet",
+                "explanation": "platser där man studerar på högsta nivå efter skolan"
+              },
+              {
+                "word": "patienter",
+                "explanation": "människor som är sjuka och behöver hjälp av en läkare"
+              },
+              {
+                "word": "modern",
+                "explanation": "av vår egen tid, inte av gamla tider"
+              }
+            ],
+            "main_caption": "Han testar och bereder varje läkemedel med stor omsorg.",
+            "side_caption": "Långt borta i Europa studerar läkare hans bok i hundratals år."
           }
         },
         {
@@ -28798,6 +29326,51 @@
             "caption": "Imagine a man floating alone, feeling nothing at all around him.",
             "shutterstock_query": "figure floating dark void seen from behind abstract concept",
             "ai_prompt": "Photorealistic vertical image, dreamlike and abstract: a human figure in plain simple clothes seen from behind, back of the head and shoulders visible, no face, floats gently in a dark, empty void, limbs loose and relaxed, softly lit from an unseen source with nothing else visible around the figure, calm and mysterious mood, no wings, no light beams, no religious symbols, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Boken om botandet och den svävande mannen",
+            "text_sentences": [
+              "Herr X är läkare i Persien omkring år 1000.",
+              "Han är också filosof.",
+              "Han skriver en mycket stor bok som heter Boken om botandet.",
+              "Den handlar om idéer, inte om medicin.",
+              "Den handlar om logik, naturen och själen.",
+              "Han bygger vidare på en antik grekisk filosof, utan att kopiera honom.",
+              "Han lägger också till många egna nya idéer.",
+              "En idé är ett märkligt tankeexperiment.",
+              "Föreställ dig en man som svävar ensam i tom luft.",
+              "Han kan inte se, höra eller känna något runt omkring sig.",
+              "Ändå vet mannen att han finns, hävdar herr X.",
+              "Detta visar, säger han, att sinnet har direkt kunskap om sig självt."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "al-Farabi",
+              "Ibn Rushd",
+              "Ibn Sina",
+              "Maimonides"
+            ],
+            "correct": "Ibn Sina",
+            "words": [
+              {
+                "word": "filosof",
+                "explanation": "en person som tänker djupt på stora frågor"
+              },
+              {
+                "word": "logik",
+                "explanation": "noggrant och klart tänkande, steg för steg"
+              },
+              {
+                "word": "själ",
+                "explanation": "den inre delen av en person som tänker och känner"
+              },
+              {
+                "word": "hävda",
+                "explanation": "att säga bestämt att något är sant och ge skäl för det"
+              }
+            ],
+            "main_caption": "I ett tyst rum tänker och skriver han om svåra nya idéer.",
+            "side_caption": "Föreställ dig en man som svävar ensam och inte känner något alls runt omkring sig."
           }
         },
         {
@@ -28853,6 +29426,49 @@
             "caption": "Maybe illness hides, unseen, in water and air.",
             "shutterstock_query": "clay water jar morning mist courtyard",
             "ai_prompt": "Photorealistic vertical close-up of a plain unlabeled clay water jar on a stone courtyard ledge in eleventh century Persia in the cool early morning, faint mist rising gently above the water's surface, soft diffuse light, calm quiet mood, no people, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Mellan palats, fängelse och en dold fara",
+            "text_sentences": [
+              "Herr X stannar inte länge på samma plats.",
+              "Han flyttar mellan olika härskares hov i Persien och Centralasien.",
+              "Ett tag arbetar han som vesir, en av de högsta rådgivarna.",
+              "Senare låser en arg härskare in honom i flera månader.",
+              "Efter sin flykt fortsätter han att skriva och flyttar vidare igen.",
+              "Han arbetar ofta hela dagen och skriver långt in på natten.",
+              "I sina läkarskrifter lägger han fram en ovanlig idé.",
+              "Kanske sprids sjukdom genom något osynligt i vattnet.",
+              "Kanske sprids den genom något osynligt i luften också, säger han.",
+              "Herr X dör i staden Hamadan år 1037."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "al-Biruni",
+              "Galenos",
+              "Ibn Rushd",
+              "Ibn Sina"
+            ],
+            "correct": "Ibn Sina",
+            "words": [
+              {
+                "word": "vesir",
+                "explanation": "en härskares högsta hjälpare och rådgivare"
+              },
+              {
+                "word": "flykt",
+                "explanation": "att ta sig fri från en plats där man är inlåst"
+              },
+              {
+                "word": "lägga fram",
+                "explanation": "att presentera en idé och säga att den kanske är sann"
+              },
+              {
+                "word": "osynlig",
+                "explanation": "något som inte kan ses med ögonen"
+              }
+            ],
+            "main_caption": "Han flyttar från en härskares hov till en annans.",
+            "side_caption": "Kanske gömmer sig sjukdom, osynlig, i vatten och luft."
           }
         },
         {
@@ -28910,9 +29526,55 @@
             "caption": "Metaphysics asks what truly exists, from a single brick to the stars.",
             "shutterstock_query": "night sky stars through dome opening architecture",
             "ai_prompt": "Photorealistic vertical image looking straight up through a round opening in an eleventh century Persian brick courtyard dome at a deep night sky full of stars, the dome's edge softly lit from below by warm lamplight, calm contemplative mood, no people, no calligraphy, no pseudo Arabic script, the Prophet is never depicted, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett perfekt minne? Vad källorna säger",
+            "text_sentences": [
+              "Herr X är läkare och tänkare i Persien, för omkring tusen år sedan.",
+              "Han skriver om metafysik, läran om vad som verkligen finns.",
+              "Senare lärda översätter hans verk till latin.",
+              "I århundraden formar hans idéer undervisningen vid avlägsna universitet.",
+              "Några senare teologer invänder starkt mot delar av hans filosofi.",
+              "De menar att hans idéer inte stämmer med deras religiösa tro.",
+              "En berömd legend säger att herr X minns varje bok han någonsin läser.",
+              "Hans egen levnadsberättelse framställer honom som ett geni med ett fantastiskt minne.",
+              "Han säger att han läser en svår grekisk bok fyrtio gånger och ändå inte förstår den.",
+              "Sedan förklarar en liten, billig bok av en annan lärd den för honom med en gång, säger han.",
+              "Historiker påpekar att han skriver sin levnadsberättelse för att visa hur speciell han är.",
+              "De jämför de gamla källorna noga innan de litar på sådana berättelser."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "al-Biruni",
+              "Ibn Sina",
+              "Maimonides",
+              "al-Farabi"
+            ],
+            "correct": "Ibn Sina",
+            "words": [
+              {
+                "word": "metafysik",
+                "explanation": "läran om vad saker verkligen är"
+              },
+              {
+                "word": "teolog",
+                "explanation": "en person som studerar religiös tro på djupet"
+              },
+              {
+                "word": "legend",
+                "explanation": "en gammal, känd berättelse som kanske inte är helt sann"
+              },
+              {
+                "word": "geni",
+                "explanation": "en person med ett mycket stort förstånd"
+              }
+            ],
+            "main_caption": "Senare tänkare tvistar häftigt om hans svåra idéer.",
+            "side_caption": "Metafysiken frågar vad som verkligen finns, från en enda tegelsten till stjärnorna."
           }
         }
-      ]
+      ],
+      "person_sv": "Ibn Sina"
     },
     {
       "slug": "house-of-wisdom",
@@ -28971,6 +29633,49 @@
             "caption": "Before paper, people write on stretched animal skin like this.",
             "shutterstock_query": "craftsman scraping animal skin parchment workshop historical",
             "ai_prompt": "Vertical photorealistic scene in a simple sunlit eighth-century Baghdad workshop: a craftsman in a long plain robe and turban stretches a pale animal skin tight on a wooden frame and scrapes it smooth with a curved knife, a stack of finished skin sheets waiting nearby, warm daylight, calm working mood, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En rund stad vid floden",
+            "text_sentences": [
+              "Platsen X är ett hem för böcker.",
+              "Den ligger i Bagdad, en rund stad vid en stor flod, i en het öken.",
+              "En härskare bygger staden för ungefär 1 300 år sedan.",
+              "Han vill ha en perfekt stad, så han formar den som en cirkel, med höga murar.",
+              "Snart växer staden till den största staden i världen.",
+              "En senare härskare betalar smarta människor för att översätta gamla böcker från fjärran länder.",
+              "Vid den här tiden lär sig människor också ett nytt sätt att göra papper, ett sätt som först kommer från Kina.",
+              "Förut skriver människor på skinn, och skinn kostar mycket.",
+              "Papper är billigt, så nu kan många fler människor äga en bok.",
+              "Platsen X blir hemmet för dessa nya böcker och idéer."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Biblioteket i Alexandria",
+              "Al-Azhar i Kairo",
+              "Visdomens hus",
+              "Nalanda"
+            ],
+            "correct": "Visdomens hus",
+            "words": [
+              {
+                "word": "härskare",
+                "explanation": "en person som leder och styr ett land"
+              },
+              {
+                "word": "öken",
+                "explanation": "ett stort torrt land med sand och väldigt lite vatten"
+              },
+              {
+                "word": "översätta",
+                "explanation": "att säga eller skriva en text igen på ett annat språk"
+              },
+              {
+                "word": "skinn",
+                "explanation": "det yttre höljet på ett djurs kropp, här: ett material man skrev på innan papper fanns"
+              }
+            ],
+            "main_caption": "En härskare bygger den här staden som en perfekt cirkel, bredvid en stor flod.",
+            "side_caption": "Innan papper skriver människor på utspänt skinn, precis som här."
           }
         },
         {
@@ -29027,6 +29732,50 @@
             "caption": "A translator turns a book from one language into another.",
             "shutterstock_query": "historical scholar desk two closed books reed pen rear view illustration",
             "ai_prompt": "Vertical illustration of a scholar in a turban and long plain robe seen from behind at a low wooden desk in a ninth-century Baghdad room, a closed codex with a plain wooden cover on his left, a closed leather book with a geometric cover pattern on his right, a reed pen and a small ink pot between them, soft light from a high window, calm concentrated mood, both books closed, no open pages, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett team av översättare",
+            "text_sentences": [
+              "I början av 800-talet ligger platsen X i Bagdad.",
+              "En härskare vid namn al-Ma'mun älskar kunskap mer än guld eller ädelstenar.",
+              "Han betalar ett stort team av forskare för att leta efter gamla böcker på grekiska, persiska och indiska språk.",
+              "Kristna, muslimer och andra arbetar sida vid sida i teamet.",
+              "Teamet gör om hundratals gamla böcker till arabiska.",
+              "Den mest kända översättaren, Hunayn ibn Ishaq, arbetar lite senare.",
+              "Han kan flera språk perfekt.",
+              "Han kontrollerar varje översättning mycket noga innan den lämnar hans händer.",
+              "En berättelse säger att härskaren betalar honom vikten av varje färdig bok i guld.",
+              "Ingen kan bekräfta den berättelsen, men alla är överens om att han arbetar snabbt och bra.",
+              "Läkare, stjärntittare och tänkare kan nu läsa idéer från tre kontinenter."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Visdomens hus",
+              "Biblioteket i Córdoba",
+              "Akademin i Aten",
+              "Sankore i Timbuktu"
+            ],
+            "correct": "Visdomens hus",
+            "words": [
+              {
+                "word": "forskare",
+                "explanation": "en person som studerar och vet väldigt mycket"
+              },
+              {
+                "word": "översättare",
+                "explanation": "en person vars jobb är att göra om en text till ett annat språk"
+              },
+              {
+                "word": "kontinent",
+                "explanation": "ett av jordens mycket stora landområden, till exempel Europa eller Asien"
+              },
+              {
+                "word": "ädelsten",
+                "explanation": "en sällsynt och vacker sten som kostar mycket pengar"
+              }
+            ],
+            "main_caption": "Böcker från fjärran anländer med floden. Forskare ska göra om dem till ett nytt språk.",
+            "side_caption": "En översättare gör om en bok från ett språk till ett annat."
           }
         },
         {
@@ -29083,6 +29832,50 @@
             "caption": "A mathematician works out new rules using careful drawings, not guesses.",
             "shutterstock_query": "historical scholar geometry sand tray compass illustration",
             "ai_prompt": "Vertical illustration of a ninth-century Baghdad scholar in simple robes bending over a low table, drawing careful circles and triangles on a sand tray with a wooden stick, a compass and a straightedge beside him, warm daylight from a window, calm concentrated mood, only geometric shapes visible, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Att mäta jorden, bygga maskiner",
+            "text_sentences": [
+              "För ungefär 1 200 år sedan blir platsen X i Bagdad ett centrum för noggrann mätning.",
+              "En härskare skickar ut team av astronomer i den platta öknen norr om staden.",
+              "De går och mäter tills Polstjärnan står en grad högre på himlen.",
+              "Från denna noggranna vandring räknar de ut storleken på hela jorden.",
+              "Deras svar kommer nära det verkliga talet, långt innan någon seglar runt planeten.",
+              "I samma stad konstruerar tre bröder smarta maskiner.",
+              "Deras maskiner häller upp drycker med dolda trick, och en spelar till och med musik av sig själv.",
+              "En matematiker från ett land långt österut arbetar också här.",
+              "Han skriver en berömd bok som senare ger Europa en hel gren av matematiken.",
+              "Han förklarar också ett indiskt sätt att skriva siffror, med en symbol för nollan.",
+              "Platsen X samlar tänkare från många länder och många ämnesområden."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Universitetet i Bologna",
+              "Al-Qarawiyyin i Fez",
+              "Biblioteket i Alexandria",
+              "Visdomens hus"
+            ],
+            "correct": "Visdomens hus",
+            "words": [
+              {
+                "word": "astronom",
+                "explanation": "en person som studerar stjärnor, planeter och himlen"
+              },
+              {
+                "word": "grad",
+                "explanation": "en liten enhet för att mäta en vinkel, som en bit av en cirkel"
+              },
+              {
+                "word": "matematiker",
+                "explanation": "en person som studerar tal, former och mönster"
+              },
+              {
+                "word": "symbol",
+                "explanation": "ett tecken eller märke som står för något annat"
+              }
+            ],
+            "main_caption": "Noggrann vandring och noggrann observation av himlen kan mäta något så stort som jorden.",
+            "side_caption": "En matematiker räknar ut nya regler med noggranna ritningar, inte gissningar."
           }
         },
         {
@@ -29139,6 +29932,50 @@
             "caption": "A story says the river runs dark with ink from ruined books.",
             "shutterstock_query": "river dusk floating burned paper somber historical illustration",
             "ai_prompt": "Vertical somber illustration at dusk: the calm water of the Tigris in Baghdad carries a few loose, dark stained paper scraps past empty wooden boats tied at a quiet riverbank, the silhouette of brick courtyard buildings in the old Baghdad style behind, faint smoke on the far horizon, muted warm and grey tones, quiet respectful mood, no bodies, no visible flames, no weapons, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Idéer reser västerut, sedan faller staden",
+            "text_sentences": [
+              "I flera hundra år samlar platsen X i Bagdad kunskap från grekiska, persiska och indiska källor.",
+              "Forskare där skriver nya verk om medicin, astronomi och matematik.",
+              "Långsamt flyttar denna kunskap västerut längs handelsvägar och genom det muslimska Spanien.",
+              "Under 1100-talet översätter team i den spanska staden Toledo arabiska böcker till latin.",
+              "På ön Sicilien gör andra översättare samma viktiga arbete.",
+              "Genom dessa latinska kopior kan europeiska universitet äntligen läsa idéer som bevarats och förbättrats långt österut.",
+              "Men platsen X varar inte för alltid.",
+              "År 1258 når hären från stäpperna staden och förstör mycket av den.",
+              "En berättelse säger att floden bredvid staden rinner svart av bläck från oräkneliga förstörda böcker.",
+              "Historiker kan inte bekräfta denna exakta detalj, men de är överens om att förstörelsen själv är verklig och enorm.",
+              "Staden återhämtar sig med tiden, men dess guldålder för lärande återvänder aldrig helt."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Akademin i Aten",
+              "Visdomens hus",
+              "Biblioteket i Córdoba",
+              "Al-Azhar i Kairo"
+            ],
+            "correct": "Visdomens hus",
+            "words": [
+              {
+                "word": "källa",
+                "explanation": "en text eller plats som ger information eller kunskap"
+              },
+              {
+                "word": "förstörelse",
+                "explanation": "handlingen att förstöra något helt"
+              },
+              {
+                "word": "återhämta sig",
+                "explanation": "att bli frisk eller normal igen efter en svår tid"
+              },
+              {
+                "word": "bekräfta",
+                "explanation": "att visa eller säga att något definitivt är sant"
+              }
+            ],
+            "main_caption": "Böcker reser västerut till en spansk stad, där de görs om till latin.",
+            "side_caption": "En berättelse säger att floden blir mörk av bläck från förstörda böcker."
           }
         },
         {
@@ -29195,9 +30032,54 @@
             "caption": "Over time, a few plain facts can grow into a much bigger story.",
             "shutterstock_query": "symbolic hourglass paper fragments falling still life",
             "ai_prompt": "Vertical photorealistic still life: an antique hourglass on a dark wooden desk, tiny blank aged-paper fragments drifting down inside it instead of sand, a plain brass instrument in the style of ninth-century Baghdad astronomy resting beside it without engraving, warm candle light, calm reflective mood, no calligraphy, no pseudo-writing, no modern lamps, no modern electronic objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Akademi, bibliotek eller senare legend?",
+            "text_sentences": [
+              "Många populära böcker beskriver platsen X som en storslagen akademi full av berömda forskare.",
+              "Hur mycket av den bilden kommer verkligen från de gamla historiska källorna?",
+              "De äldsta källorna nämner knappt mer än ett kalifbibliotek, med några få översättare och kopister i arbete där.",
+              "De säger nästan inget om föreläsningar, klassrum eller inskrivna studenter.",
+              "Några moderna historiker tror att platsen X mest är ett kungligt bibliotek, inte en skola.",
+              "Andra historiker menar att de bevarade källorna helt enkelt är ofullständiga, och att platsen fungerade ungefär som en riktig akademi.",
+              "Många livfulla detaljer i populära återberättelser dyker först upp århundraden efter händelserna de beskriver.",
+              "Guldbetalningen för översättningar och den bläcksvarta floden är senare berättelser, inte ögonvittnesskildringar.",
+              "Ändå visar källorna något anmärkningsvärt.",
+              "Härskare betalar för ett långvarigt arbete med att samla och översätta kunskap mellan språk.",
+              "Historiker måste skilja detta säkra bevis från den romantiska legend som har vuxit fram kring platsen med tiden."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Nalanda",
+              "Universitetet i Bologna",
+              "Visdomens hus",
+              "Al-Qarawiyyin i Fez"
+            ],
+            "correct": "Visdomens hus",
+            "words": [
+              {
+                "word": "akademi",
+                "explanation": "en skola eller plats för högre studier och undervisning"
+              },
+              {
+                "word": "bevis",
+                "explanation": "fakta eller föremål som visar att något är sant"
+              },
+              {
+                "word": "ögonvittne",
+                "explanation": "en person som med egna ögon såg en händelse hända"
+              },
+              {
+                "word": "legend",
+                "explanation": "en gammal berättelse som många tror på, även om delar av den kanske inte är sanna"
+              }
+            ],
+            "main_caption": "Ett tyst bibliotek, eller en livlig skola? De äldsta källorna säger väldigt lite.",
+            "side_caption": "Med tiden kan några enkla fakta växa till en mycket större berättelse."
           }
         }
-      ]
+      ],
+      "person_sv": "Visdomens hus i Bagdad"
     },
     {
       "slug": "ibn-battuta",
@@ -29257,6 +30139,50 @@
             "caption": "Ships wait in the harbor of a busy trading town.",
             "shutterstock_query": "historic wooden ships lateen sails north african port harbor whitewashed",
             "ai_prompt": "Photorealistic vertical image of a row of wooden sailing ships with triangular lateen sails at anchor in a busy fourteenth-century North African port town, flat-roofed whitewashed stone and earth buildings along the shore, small fishing boats pulled up on the sand, warm daylight, calm mood; fourteenth-century Mediterranean wooden ships with lateen sails, whitewashed stone and earth town; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern boats, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En ung man lämnar hemmet",
+            "text_sentences": [
+              "Herr X lever för ungefär sjuhundra år sedan.",
+              "Han föds i Tanger, en hamnstad i Marocko.",
+              "Hans familj är religiösa lärda och domare.",
+              "Vid tjugoett års ålder lämnar han hemmet ensam.",
+              "Han reser österut på vägen till Mecka, på en helig pilgrimsfärd.",
+              "Han rider kameler genom heta öknar och seglar på träskepp.",
+              "En sådan resa tar oftast mer än ett år.",
+              "Men han älskar vägen, och han slutar aldrig riktigt.",
+              "I nästan trettio år flyttar han från stad till stad.",
+              "Han möter kungar, domare och heliga män på vägen.",
+              "Hans familj väntar hemma, och i åratal hör de ingenting."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Marco Polo",
+              "Christofer Columbus",
+              "Ibn Battuta",
+              "Vasco da Gama"
+            ],
+            "correct": "Ibn Battuta",
+            "words": [
+              {
+                "word": "hamn",
+                "explanation": "en stad vid havet där skepp stannar"
+              },
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar och kan mycket"
+              },
+              {
+                "word": "domare",
+                "explanation": "en person som avgör om någon har gjort fel"
+              },
+              {
+                "word": "pilgrimsfärd",
+                "explanation": "en resa till en helig plats"
+              }
+            ],
+            "main_caption": "En ung man lämnar sin hemstad före soluppgången.",
+            "side_caption": "Skepp väntar i hamnen i en livlig handelsstad."
           }
         },
         {
@@ -29314,6 +30240,51 @@
             "caption": "A strong wind bends the palms. The same wind blows the other way every year.",
             "shutterstock_query": "palm trees bending strong wind monsoon clouds tropical shore rain sea",
             "ai_prompt": "Photorealistic vertical image of palm trees bending in a strong wind on a tropical shore under heavy grey monsoon clouds, rain falling over the sea in the distance, spray blowing off the waves, no ships, no people, no buildings, dramatic natural mood; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern boats, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Längs kusten, över vinden",
+            "text_sentences": [
+              "Herr X seglar längs Östafrikas kust, för ungefär sjuhundra år sedan.",
+              "Han besöker rika handelsstäder byggda av korallsten, som Kilwa och Mogadishu.",
+              "Guld och elfenben passerar genom deras livliga marknader.",
+              "Senare bär en stark säsongsvind hans skepp tillbaka norrut till Arabien.",
+              "Sjömän kallar denna vind monsunen, och den blåser åt ett håll på sommaren och åt det andra på vintern.",
+              "År senare, efter en lång resa till lands genom många länder, når han Indien 1333.",
+              "Herr X kommer till Delhi, en stor stad styrd av en mäktig sultan.",
+              "Sultanen gillar bildade besökare och gör herr X till domare.",
+              "Han dömer mål där i flera år, långt från sitt hem i väster.",
+              "Senare seglar han vidare till Maldiverna, en kedja av små öar i havet.",
+              "Drottningens hov där gör honom också till domare, den här gången bland palmer och vita stränder.",
+              "Han dömer efter sin tros lagar, även i detta lilla örike."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Zheng He",
+              "Ibn Battuta",
+              "Vasco da Gama",
+              "Ferdinand Magellan"
+            ],
+            "correct": "Ibn Battuta",
+            "words": [
+              {
+                "word": "korall",
+                "explanation": "ett hårt stenliknande material som skapas av små havsdjur"
+              },
+              {
+                "word": "elfenben",
+                "explanation": "det hårda vita materialet från en elefants bete"
+              },
+              {
+                "word": "monsun",
+                "explanation": "en stark vind som blåser åt ett håll i flera månader, och sedan åt det andra"
+              },
+              {
+                "word": "sultan",
+                "explanation": "en muslimsk härskare över ett land eller en stad"
+              }
+            ],
+            "main_caption": "En domare långt bortifrån går mot ett stort palats.",
+            "side_caption": "En stark vind böjer palmerna. Samma vind blåser åt andra hållet varje år."
           }
         },
         {
@@ -29370,6 +30341,50 @@
             "caption": "A quiet, empty street. Sickness has emptied the town.",
             "shutterstock_query": "empty medieval street closed doors dusk historical plague",
             "ai_prompt": "Photorealistic vertical image of an empty stone-paved street in a fourteenth-century North African town at dusk, shop doors closed and shuttered, no people anywhere, a single abandoned wooden handcart to one side, warm fading light, somber quiet mood; fourteenth-century whitewashed stone and earth town architecture; no gore, no depiction of illness or death; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern vehicles, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En lång väg österut, och en hård väg hem",
+            "text_sentences": [
+              "Herr X fortsätter österut, långt förbi Indien, för ungefär sjuhundra år sedan.",
+              "Han korsar havet till Sri Lanka och sedan till Sumatra, en ö täckt av tät skog.",
+              "Därifrån för skepp honom ännu längre, ända till Kina.",
+              "Han beskriver enorma städer, fint siden och papperspengar som ingen i Marocko, hans hemland, någonsin har sett.",
+              "Senare läser historiker hans skildring noggrant, och vissa delar oroar dem.",
+              "Hans kapitel om Kina är kortare och mindre exakta än resten av hans berättelse.",
+              "Såg han verkligen allt han beskriver, eller kopierade han också från andra resenärers berättelser?",
+              "Historiker tvistar fortfarande om hur mycket av Kinaresan som verkligen är hans egen.",
+              "Efter några år till på vägen vänder herr X äntligen västerut, mot hemmet.",
+              "När han når Marocko igen, dödar en stor pest människor på tre kontinenter.",
+              "Han har varit borta så länge att båda hans föräldrar redan har dött."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Marco Polo",
+              "Zheng He",
+              "Xuanzang",
+              "Ibn Battuta"
+            ],
+            "correct": "Ibn Battuta",
+            "words": [
+              {
+                "word": "skildring",
+                "explanation": "en muntlig eller skriftlig beskrivning av vad som hänt"
+              },
+              {
+                "word": "kapitel",
+                "explanation": "en del av en bok"
+              },
+              {
+                "word": "pest",
+                "explanation": "en sjukdom som sprider sig snabbt och dödar många människor"
+              },
+              {
+                "word": "kontinent",
+                "explanation": "ett av jordens allra största landområden"
+              }
+            ],
+            "main_caption": "En stor hamn långt österut, full av skepp som ingen hemma någonsin har sett.",
+            "side_caption": "En tyst, tom gata. Sjukdom har tömt staden."
           }
         },
         {
@@ -29427,6 +30442,51 @@
             "caption": "Slabs of salt travel south to be traded for gold.",
             "shutterstock_query": "rock salt slabs camel desert trade closeup historical",
             "ai_prompt": "Photorealistic close-up of large pale flat slabs of rock salt stacked and tied with rope onto a kneeling camel's back, a plain rope harness visible, dry cracked desert ground beneath, warm directional light, still mood; fourteenth-century camel harness and salt trade goods; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern objects, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Salt, guld och en historia berättad högt",
+            "text_sentences": [
+              "År efter att han kommit hem ger sig herr X ut på ännu en stor resa.",
+              "Den här gången korsar han Sahara, jordens största heta öken.",
+              "Han ansluter sig till en handelskaravan av kameler lastade med saltplattor.",
+              "Arbetare långt ute i öknen skär detta salt direkt ur marken.",
+              "Handelsmän för plattorna söderut in i kungariket Mali och byter dem mot guld.",
+              "Efter många veckor når herr X hovet hos Malis kung.",
+              "Saltet, guldet och hovets stränga seder förvånar honom.",
+              "Han säger senare att folket i Mali älskar rättvisa och att resenärer är trygga där.",
+              "Efter denna sista resa slår herr X sig äntligen ner och slutar resa.",
+              "En härskare i Marocko ber honom sedan berätta hela sin livshistoria.",
+              "År 1355, i staden Fez, berättar herr X sin historia högt.",
+              "En utbildad skrivare sätter den på papper."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Leo Africanus",
+              "Ibn Battuta",
+              "Christofer Columbus",
+              "Benjamin av Tudela"
+            ],
+            "correct": "Ibn Battuta",
+            "words": [
+              {
+                "word": "platta",
+                "explanation": "en tjock platt bit av något hårt"
+              },
+              {
+                "word": "karavan",
+                "explanation": "en grupp människor och djur som reser tillsammans"
+              },
+              {
+                "word": "sed",
+                "explanation": "ett sätt att göra saker som en grupp människor alltid följer"
+              },
+              {
+                "word": "slå sig ner",
+                "explanation": "att sluta flytta runt och stanna på en plats"
+              }
+            ],
+            "main_caption": "Stränga seder vid ett kungligt hov söder om den stora öknen förvånar en främmande besökare.",
+            "side_caption": "Saltplattor reser söderut för att bytas mot guld."
           }
         },
         {
@@ -29484,9 +30544,55 @@
             "caption": "How far did he really travel? Historians measure and estimate.",
             "shutterstock_query": "antique brass dividers globe measuring distance historical closeup",
             "ai_prompt": "Photorealistic vertical close-up of an antique brass pair of dividers resting on an aged blank globe of the earth showing only muted ocean and land colors, soft daylight, studious quiet mood; no place names, no lines, no grid, no lamps, no calligraphy, no pseudo-writing, no flags, no maps with text, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Vad han såg, vad han kopierade",
+            "text_sentences": [
+              "För ungefär sjuhundra år sedan avslutar herr X sina resor.",
+              "Historiker uppskattar att hans resor täcker flera gånger avståndet för den mest berömda resenären från Venedig.",
+              "Inom två år efter att han kommit hem dikterar herr X sin bok, och den blir färdig 1355.",
+              "Han talar mest ur minnet, och hans tidigaste resor ligger trettio år tillbaka i tiden.",
+              "Därför jämför historiker hans bok noggrant med äldre reseböcker.",
+              "Vissa avsnitt stämmer nästan ord för ord överens med en äldre pilgrims resebok av Ibn Jubayr.",
+              "Andra avsnitt innehåller små detaljer som bara ett ögonvittne kunde känna till.",
+              "Forskare frågar sig därför, för varje del: är detta vad han såg eller vad han läste?",
+              "Hans bok beskriver också, som han själv såg det, kvinnors liv och slaveriets praktik i de länder han besöker.",
+              "Moderna historiker läser dessa avsnitt som belägg för det århundradets seder, inte som ett godkännande av dem.",
+              "I århundraden läser få människor utanför hans egen region hans bok alls.",
+              "Europeiska forskare översätter och studerar den ordentligt först på 1800-talet."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Ibn Battuta",
+              "Zheng He",
+              "Rabban Bar Sauma",
+              "Evliya Çelebi"
+            ],
+            "correct": "Ibn Battuta",
+            "words": [
+              {
+                "word": "uppskatta",
+                "explanation": "att gissa ett antal med hjälp av kända fakta"
+              },
+              {
+                "word": "ögonvittne",
+                "explanation": "en person som ser något hända med egna ögon"
+              },
+              {
+                "word": "belägg",
+                "explanation": "fakta som hjälper till att bevisa att något är sant"
+              },
+              {
+                "word": "godkännande",
+                "explanation": "ett uttalande som säger att man godkänner något"
+              }
+            ],
+            "main_caption": "Århundraden senare jämför en forskare i Europa gamla kopior av samma berättelse.",
+            "side_caption": "Hur långt reste han egentligen? Historiker mäter och uppskattar."
           }
         }
-      ]
+      ],
+      "person_sv": "Ibn Battuta"
     },
     {
       "slug": "the-enlightenment",
@@ -29544,6 +30650,48 @@
             "caption": "Before, most people simply obey the king, the lords, and the church.",
             "shutterstock_query": "eighteenth century villagers bowing lord horseback village road illustration",
             "ai_prompt": "Vertical historical illustration of a village road in the seventeen hundreds: villagers in plain eighteenth-century shirts, caps, and long skirts bow their heads as a lord in a fine coat and tricorn hat rides past on horseback, a church tower behind, soft daylight, calm mood; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no coats of arms, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ställ dina egna frågor",
+            "text_sentences": [
+              "Rörelsen X sprider sig över Europa på sjuttonhundratalet.",
+              "Före den här tiden lyder de flesta människor bara kungen, herrarna och kyrkan.",
+              "Nu säger några tänkare något nytt.",
+              "Varje människa kan använda sitt eget förstånd, säger de.",
+              "Ställ frågor, säger de, och tro inte bara på gamla regler.",
+              "I ett land planerar författare en jättebok som försöker förklara allt i världen.",
+              "I livliga kaffehus sitter män i timmar och diskuterar dessa nya idéer.",
+              "I fina rum i Paris är kvinnor värdinnor för samtal där tänkare möts och talar fritt.",
+              "Sakta börjar allt fler människor tänka på detta sätt."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Renässansen",
+              "Den vetenskapliga revolutionen",
+              "Upplysningen",
+              "Romantiken"
+            ],
+            "correct": "Upplysningen",
+            "words": [
+              {
+                "word": "lyda",
+                "explanation": "att göra det som någon som bestämmer säger åt dig"
+              },
+              {
+                "word": "kaffehus",
+                "explanation": "en plats där man sitter, dricker kaffe och pratar"
+              },
+              {
+                "word": "värdinna",
+                "explanation": "en kvinna som bjuder in gäster och tar emot dem"
+              },
+              {
+                "word": "diskutera",
+                "explanation": "att prata om ett ämne när man inte är överens"
+              }
+            ],
+            "main_caption": "Män samlas i kaffehus och pratar i timmar om djärva nya idéer.",
+            "side_caption": "Förut lyder de flesta människor bara kungen, herrarna och kyrkan."
           }
         },
         {
@@ -29600,6 +30748,50 @@
             "caption": "People of different faiths share one town in peace. That is what tolerance means.",
             "shutterstock_query": "eighteenth century town square priest pastor townspeople talking peaceful illustration",
             "ai_prompt": "Vertical historical illustration of a market square in a European town in the seventeen hundreds: a priest in a black cassock, a pastor in a plain dark coat and white collar, and a bearded man in a broad-brimmed hat and long coat stand together talking in a friendly group, townspeople in eighteenth-century dress passing by with baskets, a church tower and plain shop fronts behind, soft daylight, dignified calm mood, no caricature; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En bok som inte går att stoppa",
+            "text_sentences": [
+              "Rörelsen X växer snabbt på sjuttonhundratalet.",
+              "Två författare, Diderot och d'Alembert, leder arbetet med en enorm encyklopedi som ska förklara all mänsklig kunskap.",
+              "Den ska ha tusentals långa artiklar, om allt från jordbruksredskap till stjärnorna.",
+              "Snart förbjuder kyrkans och statens ledare encyklopedin, eftersom de fruktar dess farliga idéer.",
+              "Diderot slutar inte, och han fortsätter att arbeta halvt i hemlighet.",
+              "Sakta växer encyklopedin till många tjocka böcker.",
+              "En berömd författare inom rörelsen, Voltaire, blir känd för en annan kamp.",
+              "År 1762 avrättar domare i Frankrike felaktigt en far som tillhör en liten religiös grupp.",
+              "Voltaire skriver och argumenterar i flera år, tills mannens namn till slut rentvås.",
+              "Han säger att människor av varje tro förtjänar rättvis behandling inför lagen.",
+              "Denna idé, som kallas tolerans, blir central för rörelsen."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Upplysningen",
+              "Reformationen",
+              "Humanismen",
+              "Industriella revolutionen"
+            ],
+            "correct": "Upplysningen",
+            "words": [
+              {
+                "word": "encyklopedi",
+                "explanation": "en enorm bok, eller flera böcker, som förklarar många olika ämnen"
+              },
+              {
+                "word": "förbjuda",
+                "explanation": "att säga officiellt att något inte är tillåtet"
+              },
+              {
+                "word": "avrätta",
+                "explanation": "att döda en person som ett straff enligt lagen"
+              },
+              {
+                "word": "tolerans",
+                "explanation": "att acceptera att andra människor kan tro eller leva på ett annat sätt"
+              }
+            ],
+            "main_caption": "Arbetarna fortsätter trycka encyklopedin, även om den är förbjuden.",
+            "side_caption": "Människor med olika tro delar en stad i fred. Det är vad tolerans betyder."
           }
         },
         {
@@ -29656,6 +30848,50 @@
             "caption": "A fair ruler needs the people's agreement, some thinkers now say.",
             "shutterstock_query": "eighteenth century handshake village square agreement illustration",
             "ai_prompt": "Vertical historical illustration of two men in eighteenth-century coats shaking hands in a village square, a small group of townspeople in period dress looking on, a modest church tower in the distance, soft daylight; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En kväll med djärva samtal",
+            "text_sentences": [
+              "Rörelsen X formar nya idéer om styre på sjuttonhundratalet.",
+              "En tänkare, Montesquieu, säger att makten aldrig bör ligga på ett enda ställe.",
+              "Lagstiftning, styre och dömande ska, menar han, vara tre skilda makter.",
+              "Varje makt bör bevaka och begränsa de andra två, säger han.",
+              "En annan tänkare, Rousseau, ställer en annan fråga: varför ska någon alls lyda en härskare?",
+              "Han svarar att ett rättvist styre vilar på ett samhällsfördrag, en överenskommelse mellan fria människor.",
+              "Långt innan detta hävdar en engelsk tänkare vid namn Locke att härskare behöver folkets samtycke.",
+              "Mycket av detta samtal sker i salonger, regelbundna sammankomster som hålls i privata hem.",
+              "I Paris är en kvinna vid namn madame Geoffrin värdinna för en av tidens mest berömda salonger.",
+              "Där möts tänkare, diskuterar och delar ny text långt innan den trycks.",
+              "Årtionden senare inspirerar dessa idéer om makt och samtycke revolutionerna i Nordamerika och Frankrike."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Motreformationen",
+              "Den vetenskapliga revolutionen",
+              "Positivismen",
+              "Upplysningen"
+            ],
+            "correct": "Upplysningen",
+            "words": [
+              {
+                "word": "samhällsfördrag",
+                "explanation": "en överenskommelse mellan människor om hur de ska styras"
+              },
+              {
+                "word": "samtycke",
+                "explanation": "att säga ja och gå med på något"
+              },
+              {
+                "word": "salong",
+                "explanation": "en regelbunden privat sammankomst där man pratar om idéer"
+              },
+              {
+                "word": "lagstiftning",
+                "explanation": "arbetet med att skriva de lagar som ett land följer"
+              }
+            ],
+            "main_caption": "I rum som detta delar tänkare djärva nya idéer om makt och styre.",
+            "side_caption": "En rättvis härskare behöver folkets samtycke, säger några tänkare nu."
           }
         },
         {
@@ -29712,6 +30948,50 @@
             "caption": "Locked doors and old rules. Now some thinkers ask if the rules are fair.",
             "shutterstock_query": "old iron bound door lock ring of keys stone corridor candle",
             "ai_prompt": "Vertical illustration of a heavy iron-bound wooden door with a large old lock in a stone corridor, a ring of iron keys hanging on a hook beside it, a single candle burning in a wall holder, eighteenth-century ironwork, no people, quiet contemplative mood; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Modet att tänka",
+            "text_sentences": [
+              "En tidskrift i Berlin trycker en fråga: vad är rörelsen X?",
+              "År 1784 svarar en filosof vid namn Kant med en hel essä.",
+              "En rad i den blir berömd: ha mod att använda ditt eget förstånd.",
+              "Lita inte bara på gamla auktoriteter, säger han, och tänk själv, noggrant och modigt.",
+              "Tjugo år tidigare angriper en italiensk tänkare vid namn Beccaria två vanliga metoder i domstolarna.",
+              "Tortyr som används för att tvinga fram bekännelser är grym och opålitlig, menar han.",
+              "Dödsstraffet stoppar inte ens brott, tillägger han, och domstolar bör använda rättvisare metoder i stället.",
+              "År 1792 ställer en brittisk författare vid namn Wollstonecraft en djärv fråga: varför inte utbilda kvinnor lika noggrant som män?",
+              "Kvinnor verkar bara svagare för att de får en sämre utbildning, menar hon.",
+              "Inom hela rörelsen beundrar tänkare ett lysande exempel: en engelsk vetenskapsmans rörelselagar, publicerade ett sekel tidigare.",
+              "Om noggrant förnuft kan förklara hur planeterna rör sig, frågar de, varför inte använda det på lagar och styre?"
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Romantiken",
+              "Upplysningen",
+              "Renässansen",
+              "Industriella revolutionen"
+            ],
+            "correct": "Upplysningen",
+            "words": [
+              {
+                "word": "auktoritet",
+                "explanation": "en person eller grupp som har makt att säga åt andra vad de ska göra"
+              },
+              {
+                "word": "tortyr",
+                "explanation": "att med avsikt orsaka någon stor smärta; här: för att tvinga fram en bekännelse"
+              },
+              {
+                "word": "bekännelse",
+                "explanation": "när en person erkänner, ofta under press, att hen har gjort något"
+              },
+              {
+                "word": "förnuft",
+                "explanation": "noggrant tänkande som används för att komma fram till ett svar"
+              }
+            ],
+            "main_caption": "En domstol från sjuttonhundratalet. Några tänkare ifrågasätter nu dess hårdaste metoder.",
+            "side_caption": "Låsta dörrar och gamla regler. Nu frågar sig några tänkare om reglerna är rättvisa."
           }
         },
         {
@@ -29767,9 +31047,53 @@
             "caption": "Empires grow rich on goods from far away. The philosophers' praise of freedom does not reach everyone.",
             "shutterstock_query": "eighteenth century harbor sailing ships cargo barrels quay distant workers",
             "ai_prompt": "Vertical historical illustration of a busy harbor at a distance in the seventeen hundreds: wooden sailing ships with tall masts and square sails at anchor, no steamships, no metal hulls, no cranes, small distant figures loading crates and barrels onto horse carts along a stone quay, warehouses behind, hazy morning light; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Vems förnuft räknas?",
+            "text_sentences": [
+              "Historiker tvistar fortfarande om arvet efter rörelsen X, en rörelse av filosofer på sjuttonhundratalet.",
+              "Dess tänkare prisar förnuft, frihet och lika rättigheter för alla människor.",
+              "Ändå använder några skribenter från tiden den nya vetenskapen för att rangordna folkslag, och kallar hela nationer naturligt underlägsna.",
+              "Samtidigt växer de europeiska rikena, och handeln med förslavade människor från Afrika till Amerika fortsätter.",
+              "Tänkare inom rörelsen, som Condorcet och Raynal, angriper slaveriet och kolonial grymhet i sina egna texter.",
+              "Senare historiker frågar sig också vems förnuft rörelsen egentligen kretsar kring: mestadels europeiska män av en viss klass.",
+              "Kvinnor är värdinnor för salongerna men får sällan publicera.",
+              "Koloniserade folk och de fattiga sitter aldrig vid salongens bord.",
+              "På nittonhundratalet ställer filosofer en mörkare fråga: kan kall beräkning i sig leda till fruktansvärt våld?",
+              "Ändå lär skolor på varje kontinent i dag ut dess centrala idé: ifrågasätt auktoriteter, och tänk själv utifrån bevis."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Humanismen",
+              "Motreformationen",
+              "Upplysningen",
+              "Positivismen"
+            ],
+            "correct": "Upplysningen",
+            "words": [
+              {
+                "word": "underlägsen",
+                "explanation": "lägre i värde eller förmåga än andra; här: vad några skribenter felaktigt påstod om hela folkslag"
+              },
+              {
+                "word": "rike",
+                "explanation": "många länder och folk som styrs av en avlägsen makt"
+              },
+              {
+                "word": "koloniserad",
+                "explanation": "att leva under kontroll av en avlägsen härskande makt"
+              },
+              {
+                "word": "beräkning",
+                "explanation": "noggrann räkning eller tänkande som används för att lösa ett problem"
+              }
+            ],
+            "main_caption": "Dess böcker prisar förnuft och frihet. Historiker tvistar fortfarande om vad det betydde för alla andra.",
+            "side_caption": "Rikena blir rika på varor från långt borta. Filosofernas lovord om frihet når inte alla."
           }
         }
-      ]
+      ],
+      "person_sv": "Upplysningen"
     }
   ]
 }

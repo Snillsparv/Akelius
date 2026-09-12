@@ -8,8 +8,8 @@
         "Herr X lever för ungefär tolvhundra år sedan.",
         "Hans hem är Bagdad, en stor ny stad byggd av en kalif.",
         "Handelsmän, poeter och lärda fyller gatorna innanför dess runda murar.",
-        "Herr X arbetar med tal varje enda dag.",
-        "När en far dör, grälar familjer ofta om jorden och guldet.",
+        "Herr X arbetar med tal varenda dag.",
+        "När en far dör grälar familjer ofta om marken och guldet.",
         "Herr X skriver en bok som hjälper dem att dela allt rättvist.",
         "Han lär sig också om de nya indiska siffrorna.",
         "Ett konstigt litet tecken betyder ingenting alls.",
@@ -33,13 +33,13 @@
         }
       ],
       "main_caption": "En stor ny stad vid en stor flod, full av handelsmän och båtar.",
-      "side_caption": "En rad på brädet är tom. Ett helt nytt tal: ingenting alls."
+      "side_caption": "En rad på räknebrädet är tom. Ett helt nytt tal: ingenting alls."
     },
     {
       "title": "Balans på båda sidor",
       "text_sentences": [
         "Herr X arbetar i Bagdad på 800-talet.",
-        "Han skriver en matematikbok med en konstig lång titel.",
+        "Han skriver en matematikbok med en konstig, lång titel.",
         "Titeln handlar om att återställa tal och balansera dem, som en våg.",
         "I boken löser han svåra gåtor med tal.",
         "Han använder aldrig plustecken, minustecken eller bokstäver för okända tal.",
@@ -54,7 +54,7 @@
       "words": [
         {
           "word": "gåtor",
-          "explanation": "problem som man måste tänka noga för att lösa"
+          "explanation": "problem som man måste tänka noga på för att kunna lösa"
         },
         {
           "word": "översätta",
@@ -70,13 +70,13 @@
         }
       ],
       "main_caption": "Han förklarar varje steg med vanliga ord och enkla bilder.",
-      "side_caption": "Balans: samma vikt på båda sidor, så att inget tippar över."
+      "side_caption": "Balans: samma vikt på båda sidor, så att ingen sida väger över."
     },
     {
       "title": "Förlorad på arabiska, räddad på latin",
       "text_sentences": [
         "Herr X skriver två viktiga böcker i Bagdad på 800-talet.",
-        "En bok handlar om att återställa och balansera tal.",
+        "Den ena boken handlar om att återställa och balansera tal.",
         "Den andra boken förklarar de nya indiska siffrorna, inklusive nollan.",
         "På 1100-talet översätter en lärd i Europa den andra boken.",
         "Han gör om de arabiska orden till latin.",
@@ -85,7 +85,7 @@
         "Bara den latinska texten överlever.",
         "Den latinska texten börjar med hans namn, skrivet på ett latinskt sätt.",
         "Så småningom använder lärda den latinska formen av hans namn till något nytt.",
-        "Det blir ett ord för en tydlig rad av steg som alltid ger samma svar.",
+        "Det blir ett ord för varje tydlig följd av steg som alltid ger samma svar.",
         "Det ordet används fortfarande i dag, i varje skola och varje dator."
       ],
       "question": "Vem är herr X?",
@@ -105,22 +105,22 @@
         },
         {
           "word": "steg",
-          "explanation": "de små delarna av ett arbete, gjorda en efter en"
+          "explanation": "de små delarna av ett arbete, som görs en efter en"
         }
       ],
       "main_caption": "En översättare gör om bokens arabiska ord till latin.",
-      "side_caption": "Steg: ett tydligt steg, sedan nästa, som alltid leder samma väg."
+      "side_caption": "Steg: ett tydligt steg, sedan nästa, och vägen är alltid densamma."
     },
     {
       "title": "En ny karta över hela världen",
       "text_sentences": [
         "Herr X arbetar som astronom och geograf i Bagdad.",
         "Han gör detaljerade tabeller som följer solen, månen och planeterna.",
-        "Andra lärda använder tabellerna för att göra kalendrar, hitta bönetider och läsa stjärnorna.",
-        "Herr X studerar också geografiböckerna från forntidens grekiska lärda.",
+        "Andra lärda använder tabellerna för att göra kalendrar, hitta bönetider och läsa i stjärnorna.",
+        "Herr X studerar också geografiböckerna från antikens grekiska lärda.",
         "En tidigare grekisk lärd ritade en berömd karta över den kända världen.",
         "Den gamla kartan har många fel om kuster, floder och avstånd.",
-        "Tillsammans med andra lärda kontrollerar och rättar herr X mer än tvåtusen platser.",
+        "Med andra lärda kontrollerar och rättar herr X läget för mer än tvåtusen platser.",
         "Tillsammans ritar de en ny och mer exakt karta över världen.",
         "Hans eget namn kan peka på en region öster om Kaspiska havet.",
         "Historiker är inte säkra på om han själv är född där."
@@ -130,7 +130,7 @@
       "words": [
         {
           "word": "astronom",
-          "explanation": "en vetenskapsperson som studerar stjärnorna, solen och planeterna"
+          "explanation": "en forskare som studerar stjärnorna, solen och planeterna"
         },
         {
           "word": "geograf",
@@ -138,7 +138,7 @@
         },
         {
           "word": "exakt",
-          "explanation": "rätt, med inga eller väldigt få fel"
+          "explanation": "riktig, utan fel eller med mycket få fel"
         },
         {
           "word": "region",
@@ -152,11 +152,11 @@
       "title": "Mellan Indien, Grekland och hans egna idéer",
       "text_sentences": [
         "Herr X arbetar som matematiker och lärd i Bagdad på 800-talet.",
-        "Historiker känner till hans liv mest genom en handfull korta, senare biografiska anteckningar.",
+        "Historiker känner till hans liv främst genom en handfull korta, senare biografiska anteckningar.",
         "Inga personliga brev från honom finns bevarade.",
         "Hans berömda bok om att återställa och balansera tal bygger på äldre traditioner.",
-        "Några av metoderna kommer troligen från tidigare babylonisk, indisk och grekisk matematik.",
-        "Ändå organiserar herr X dessa metoder till tydliga, allmänna regler för första gången.",
+        "Några av metoderna kommer troligen från äldre babylonisk, indisk och grekisk matematik.",
+        "Ändå organiserar herr X för första gången dessa metoder till tydliga, allmänna regler.",
         "Senare lärda i Mellanöstern och Europa bygger vidare på hans regler i århundraden.",
         "Vissa historiker kallar honom fadern till den här sortens matematik.",
         "Andra säger att hans stora gåva är att samla och organisera det som andra vet.",
@@ -167,7 +167,7 @@
       "words": [
         {
           "word": "biografisk",
-          "explanation": "handlar om en persons livshistoria"
+          "explanation": "som handlar om en persons livshistoria"
         },
         {
           "word": "traditioner",
@@ -182,7 +182,7 @@
           "explanation": "något nytt, skapat för första gången"
         }
       ],
-      "main_caption": "Gammal kunskap från många länder står sida vid sida i hans hylla.",
+      "main_caption": "Gammal kunskap från många länder står sida vid sida på hans hylla.",
       "side_caption": "Spridda idéer, samlade i ett tydligt och ordnat mönster."
     }
   ]
