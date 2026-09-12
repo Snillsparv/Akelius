@@ -199,10 +199,10 @@ Not (ej elevvänd): Kategori `science`, leverans 9 vetenskapsblocket. Orden Newt
 
 ### Sidobild
 
-- **Motiv:** A small brick furnace glows with charcoal in a plain stone-walled seventeenth-century workroom, a clay crucible held in iron tongs rests on its edge, a leather bellows lies on the floor, a few lumps of dull metal on a wooden bench, cool daylight from a small window. No people. Production note: no skulls, no occult symbols, no labelled bottles, no readable marks; the picture helps explain the word furnace.
+- **Motiv:** A small brick furnace glows with charcoal in a plain stone-walled seventeenth-century workroom, a clay crucible held in iron tongs rests on its edge, a leather bellows lies on the floor, a few rough lumps of metal ore on a wooden bench, cool daylight from a small window. No people. Production note: no skulls, no occult symbols, no labelled bottles, no readable marks; the picture helps explain the word furnace.
 - **Bildtext:** *In secret, he heats metals in a furnace and hopes to make gold.*
 - **Shutterstock-sökning:** `old brick furnace crucible tongs bellows stone workroom daylight`
-- **AI-prompt (alternativ):** Photorealistic vertical image of a small brick furnace glowing with charcoal in a plain stone-walled seventeenth-century English workroom, a clay crucible held in iron tongs resting on the furnace edge, a leather bellows on the stone floor, a few lumps of dull metal on a wooden bench, cool daylight from a small window mixing with the orange glow, quiet secretive mood. No people, no skulls, no occult symbols, no labelled bottles, no modern tools, no flags, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic vertical image of a small brick furnace glowing with charcoal in a plain stone-walled seventeenth-century English workroom, a clay crucible held in iron tongs resting on the furnace edge, a leather bellows on the stone floor, a few rough lumps of metal ore on a wooden bench, cool daylight from a small window mixing with the orange glow, quiet secretive mood. No people, no skulls, no occult symbols, no labelled bottles, no modern tools, no flags, no text, no letters, no numbers.
 
 ---
 

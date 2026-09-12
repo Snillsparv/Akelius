@@ -243,9 +243,9 @@ Not (ej elevvänd): Kategori `science`. Fångar: "Turing", "Alan", alla böjda o
 
 ### Sidobild
 
-- **Motiv:** A plain grey steel filing cabinet stands closed in a bare 1940s British government office, a small plain red wax seal fixed over the lock of the top drawer, dim warm electric light, no people.
+- **Motiv:** A plain grey steel filing cabinet stands closed in a bare 1940s British government office, a small plain red wax seal on a cord fixed to the front of the top drawer, dim warm electric light, no people.
 - **Bildtext:** *His war work stays locked away until the 1970s.*
 - **Shutterstock-sökning:** `locked steel filing cabinet wax seal government office wartime`
-- **AI-prompt (alternativ):** Photorealistic vertical image of a plain grey steel filing cabinet standing closed in a bare 1940s British government office with a wooden floor and a plain wooden desk, a small plain red wax seal fixed over the lock of the top drawer, dim warm electric light, quiet secretive mood, no people, no readable labels, no panels with lettering, no banknotes, no modern computers, no screens, no flags, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic vertical image of a plain grey steel filing cabinet standing closed in a bare 1940s British government office with a wooden floor and a plain wooden desk, a small plain red wax seal on a cord fixed to the front of the top drawer, dim warm electric light, quiet secretive mood, no people, no readable labels, no panels with lettering, no banknotes, no modern computers, no screens, no flags, no text, no letters, no numbers.
 
 ---
