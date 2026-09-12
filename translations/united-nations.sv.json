@@ -1,0 +1,202 @@
+{
+  "slug": "united-nations",
+  "person_sv": "Förenta nationerna",
+  "cards": [
+    {
+      "title": "Prata i stället för att slåss",
+      "text_sentences": [
+        "Det största kriget i historien tar slut 1945.",
+        "Många länder vill att freden ska hålla den här gången.",
+        "Femtio länder möts i San Francisco, en stad vid havet.",
+        "Där skriver de tillsammans under ett långt avtal.",
+        "Ytterligare ett land skriver under det lite senare.",
+        "Nu startar organisationen X med femtioett länder.",
+        "I dag hör nästan alla länder i världen till den.",
+        "Varje land skickar människor till en enda stor sal.",
+        "I den salen får varje land exakt en röst.",
+        "Organisationen X ger också mat åt hungriga barn och skickar läkare."
+      ],
+      "question": "Vilken organisation är organisationen X?",
+      "options": [
+        "Nationernas förbund",
+        "Förenta nationerna",
+        "Samväldet",
+        "Nato"
+      ],
+      "words": [
+        {
+          "word": "avtal",
+          "explanation": "ett löfte som två eller flera länder eller personer ger varandra"
+        },
+        {
+          "word": "fred",
+          "explanation": "en tid utan krig eller strider"
+        }
+      ],
+      "main_caption": "Femtio länder skriver under ett långt avtal. Fler ansluter sig senare.",
+      "side_caption": "Ett avtal är ett löfte som länder ger varandra."
+    },
+    {
+      "title": "Regeln som kan stoppa allt",
+      "text_sentences": [
+        "Organisationen X arbetar efter tydliga, enkla regler.",
+        "Alla medlemsländer möts i en stor församling.",
+        "Där har det största och det minsta landet en röst var.",
+        "Ett mindre råd möts också, med färre länder.",
+        "Fem länder har alltid en plats i det rådet.",
+        "Rådet kan skicka soldater för att bevara freden.",
+        "Soldaterna bär enkla blå hjälmar i det arbetet.",
+        "Var och en av de fem kan också säga nej till ett förslag.",
+        "Denna makt att stoppa ett förslag kallas veto.",
+        "Ett veto räcker för att stoppa hela rådet.",
+        "Så samma fem förblir starka, men hjälp kan också blockeras."
+      ],
+      "question": "Vilken organisation är organisationen X?",
+      "options": [
+        "Världsbanken",
+        "Arabförbundet",
+        "Förenta nationerna",
+        "Europeiska unionen"
+      ],
+      "words": [
+        {
+          "word": "församling",
+          "explanation": "ett stort möte där varje medlem har en plats"
+        },
+        {
+          "word": "råd",
+          "explanation": "en mindre grupp som möts ofta och bestämmer om snabba åtgärder"
+        },
+        {
+          "word": "veto",
+          "explanation": "makten att säga nej och stoppa ett förslag, även om alla andra säger ja"
+        },
+        {
+          "word": "hjälm",
+          "explanation": "en hård hatt som skyddar huvudet"
+        }
+      ],
+      "main_caption": "Händer räcks upp i den stora salen: en röst för varje land.",
+      "side_caption": "Soldater i enkla blå hjälmar försöker bevara freden."
+    },
+    {
+      "title": "En lista för alla människor",
+      "text_sentences": [
+        "År 1948 skriver organisationen X en ny sorts lista.",
+        "Listan tar upp rättigheter som varje människa borde ha.",
+        "Människor från många kulturer hjälper till att skriva trettio korta artiklar.",
+        "En kvinna leder kommittén som skriver texten.",
+        "En filosof från Kina formar också de sista orden.",
+        "Långa debatter uppstår om rättigheter som passar alla kulturer.",
+        "När omröstningen kommer röstar inget land emot listan.",
+        "Några få länder väljer att varken rösta för eller emot.",
+        "Översättare översätter senare texten till hundratals språk.",
+        "Ändå är listan bara ord på papper.",
+        "Avståndet mellan orden och vardagen förblir stort."
+      ],
+      "question": "Vilken organisation är organisationen X?",
+      "options": [
+        "Nationernas förbund",
+        "Röda korset",
+        "Europeiska unionen",
+        "Förenta nationerna"
+      ],
+      "words": [
+        {
+          "word": "kommitté",
+          "explanation": "en liten grupp människor som är utvalda att göra ett jobb"
+        },
+        {
+          "word": "filosof",
+          "explanation": "en person som tänker djupt på stora frågor som rätt och fel"
+        },
+        {
+          "word": "artiklar",
+          "explanation": "korta, numrerade delar av en längre skriven text"
+        }
+      ],
+      "main_caption": "En liten kommitté skriver en lista med rättigheter för alla människor.",
+      "side_caption": "En filosof hjälper till att välja de exakta orden för varje rättighet."
+    },
+    {
+      "title": "Nya medlemmar, svåra misslyckanden",
+      "text_sentences": [
+        "För ungefär åttio år sedan styr imperier fortfarande över det mesta av Afrika och stora delar av Asien.",
+        "Under de kommande decennierna ansluter sig dussintals nya länder till organisationen X.",
+        "Varje ny medlem för med sig sin egen röst till den stora församlingen.",
+        "Organisationen X stödjer öppet länder som vill ha självständighet.",
+        "Senare förbjuder den vapenförsäljning till apartheidstaten i Sydafrika.",
+        "Den uppmanar också länder att sluta handla med den staten.",
+        "Men organisationen X misslyckas ibland grovt.",
+        "År 1994, i Rwanda, beordras dess soldater att hålla sig undan.",
+        "Ungefär åttahundratusen människor dödas där på bara några månader.",
+        "Året efter, i Srebrenica, kan dess soldater inte skydda en stad som litar på dem.",
+        "Ungefär åttatusen män och pojkar dödas efter att staden faller.",
+        "Båda misslyckandena studeras noga så att sådan skada inte ska hända igen."
+      ],
+      "question": "Vilken organisation är organisationen X?",
+      "options": [
+        "Förenta nationerna",
+        "Organisationen för afrikansk enhet",
+        "Samväldet",
+        "Världsbanken"
+      ],
+      "words": [
+        {
+          "word": "imperier",
+          "explanation": "stora grupper av länder och folk som styrs av en enda mäktig makt"
+        },
+        {
+          "word": "självständighet",
+          "explanation": "att vara fri att styra sig själv, utan att ett annat land bestämmer"
+        },
+        {
+          "word": "apartheid",
+          "explanation": "ett system av lagar i Sydafrika som höll människor åtskilda efter hudfärg och gav vita människor makten"
+        }
+      ],
+      "main_caption": "Nya länder skickar sina första delegater till den stora salen.",
+      "side_caption": "Vaktposten står tom. Hjälpen kommer inte i tid."
+    },
+    {
+      "title": "Frågan som arkiven inte kan besvara",
+      "text_sentences": [
+        "Historiker studerar organisationen X som vilken annan institution som helst.",
+        "Efter ett tidigare stort krig gör länder ett första försök att skapa världsfred.",
+        "Det första försöket är för svagt, och det faller samman inom tjugo år.",
+        "Dess misslyckande formar utformningen av det andra försöket 1945.",
+        "Fem länder behåller ett veto redan i de allra första utkasten.",
+        "I decennier tvistar diplomater om vem som också förtjänar en permanent plats.",
+        "Historiker är oense om hur man ska mäta organisationens framgång.",
+        "Några räknar krig som den stoppar, andra räknar krig som den misslyckas med att stoppa.",
+        "Gamla arkiv och interna promemorior hjälper till att avgöra några av dessa tvister.",
+        "Men handlingarna kan inte svara på den svåraste frågan av alla.",
+        "Kan stater skydda människor från sina egna regeringar?",
+        "Den frågan förblir öppen."
+      ],
+      "question": "Vilken organisation är organisationen X?",
+      "options": [
+        "Nationernas förbund",
+        "Nato",
+        "Förenta nationerna",
+        "Röda korset"
+      ],
+      "words": [
+        {
+          "word": "institution",
+          "explanation": "en stor, varaktig organisation med tydliga regler"
+        },
+        {
+          "word": "arkiv",
+          "explanation": "gamla papper och handlingar som sparas för senare studier"
+        },
+        {
+          "word": "diplomater",
+          "explanation": "personer som representerar sitt land och talar med andra länder"
+        }
+      ],
+      "main_caption": "Gamla handlingar hjälper historiker att studera vad organisationen gjorde och inte gjorde.",
+      "side_caption": "En plats vid bordet kan säga nej till alla andra."
+    }
+  ]
+}
