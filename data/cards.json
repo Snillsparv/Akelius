@@ -28913,6 +28913,863 @@
           }
         }
       ]
+    },
+    {
+      "slug": "house-of-wisdom",
+      "person": "The House of Wisdom in Baghdad",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Round City by the River",
+          "category": "ideas",
+          "text_sentences": [
+            "Place X is a home for books.",
+            "It stands in Baghdad, a round city on a great river, in a hot desert land.",
+            "A ruler builds the city about 1,300 years ago.",
+            "He wants a perfect city, so he makes it in a circle, with high walls.",
+            "Soon the city grows into the biggest city in the world.",
+            "A later ruler pays smart people to translate old books from far away lands.",
+            "At this time, people also learn a new way to make paper, a way that first comes from China.",
+            "Before, people write on animal skin, and skin costs a lot.",
+            "Paper is cheap, so now many more people can own a book.",
+            "Place X becomes the home of these new books and ideas."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The Library of Alexandria",
+            "Al-Azhar in Cairo",
+            "The House of Wisdom",
+            "Nalanda"
+          ],
+          "correct": "The House of Wisdom",
+          "words": [
+            {
+              "word": "ruler",
+              "explanation": "a person who leads and controls a country"
+            },
+            {
+              "word": "desert",
+              "explanation": "a big dry land with sand and very little water"
+            },
+            {
+              "word": "translate",
+              "explanation": "to say or write a text again in another language"
+            },
+            {
+              "word": "skin",
+              "explanation": "the outer covering of an animal's body; here, a material used for writing before paper"
+            }
+          ],
+          "main_image": {
+            "description": "Bird's-eye artistic view of Baghdad's Round City in the eighth century, when it is newly built: two concentric brick walls with four evenly spaced gates, straight streets running out from the center like spokes, the Tigris river flowing past one side with small wooden boats, palm groves outside the walls, warm desert light. Production note: eighth-century Abbasid Iraq, brick and mud construction only, long robes and turbans on any distant figures, no modern buildings, no roads, no flags, no maps with labels.",
+            "caption": "A ruler builds this city as a perfect circle, next to a great river.",
+            "shutterstock_query": "baghdad round city aerial illustration abbasid walls gates river",
+            "ai_prompt": "Bird's-eye illustration of Baghdad's Round City in eighth-century Abbasid Iraq: a large perfectly round city with two concentric brick walls and four evenly spaced gates, straight streets radiating from the center, the Tigris river flowing along one side with small wooden boats, palm groves outside the walls, warm desert light, long robes and turbans on any distant figures, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A craftsman in a long plain robe and turban stretches a pale animal skin tight on a wooden frame in a simple sunlit eighth-century Baghdad workshop, scraping it smooth with a curved knife, a stack of finished skin sheets waiting nearby. The picture explains the word 'skin'. Production note: eighth-century Baghdad dress and tools only, no modern equipment, no marks or writing on any skin sheet, calm working mood, not gory.",
+            "caption": "Before paper, people write on stretched animal skin like this.",
+            "shutterstock_query": "craftsman scraping animal skin parchment workshop historical",
+            "ai_prompt": "Vertical photorealistic scene in a simple sunlit eighth-century Baghdad workshop: a craftsman in a long plain robe and turban stretches a pale animal skin tight on a wooden frame and scrapes it smooth with a curved knife, a stack of finished skin sheets waiting nearby, warm daylight, calm working mood, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A Team of Translators",
+          "category": "ideas",
+          "text_sentences": [
+            "In the early 800s, Place X stands in Baghdad.",
+            "A ruler named al-Ma'mun loves knowledge more than gold or gems.",
+            "He pays a large team of scholars to hunt for old books in Greek, Persian, and Indian languages.",
+            "Christians, Muslims, and others work side by side on the team.",
+            "The team turns hundreds of old books into Arabic.",
+            "The most famous translator, Hunayn ibn Ishaq, works a little later.",
+            "He knows several languages perfectly.",
+            "He checks every translation with great care before it leaves his hands.",
+            "A story says the ruler pays him the weight of each finished book in gold.",
+            "No one can confirm that story, but everyone agrees he works fast and well.",
+            "Doctors, star watchers, and thinkers can now read ideas from three continents."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The House of Wisdom",
+            "The Library of Cordoba",
+            "The Academy in Athens",
+            "Sankore in Timbuktu"
+          ],
+          "correct": "The House of Wisdom",
+          "words": [
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows very much"
+            },
+            {
+              "word": "translator",
+              "explanation": "a person whose job is to put a text into another language"
+            },
+            {
+              "word": "continent",
+              "explanation": "one of the Earth's very large land areas, such as Europe or Asia"
+            },
+            {
+              "word": "gem",
+              "explanation": "a rare and beautiful stone that costs a lot of money"
+            }
+          ],
+          "main_image": {
+            "description": "Busy river harbor scene on the Tigris in ninth-century Baghdad: wooden boats loaded with sacks and bound crates line the riverbank, porters in long robes and turbans carry stacks of closed, unlabeled books toward a large courtyard building with brick arches, palm trees along the bank, warm afternoon light. Production note: ninth-century Abbasid Baghdad dress, brick architecture, all books closed with plain covers, no marks on any book cover or crate, lively but orderly mood.",
+            "caption": "Books from far away arrive by river. Scholars will turn them into a new language.",
+            "shutterstock_query": "historical baghdad tigris river harbor boats porters illustration",
+            "ai_prompt": "Detailed illustration of a busy river harbor on the Tigris in ninth-century Baghdad: wooden boats loaded with sacks and bound crates line the riverbank, porters in long robes and turbans carry stacks of closed, unlabeled books toward a large courtyard building with brick arches, palm trees along the bank, warm afternoon light, lively orderly mood, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a scholar in a turban and long plain robe seen from behind at a low wooden desk in a ninth-century Baghdad room: a closed codex with a plain wooden cover lies on his left, a closed leather book with a geometric pattern on its cover lies on his right, a reed pen and a small ink pot between them, soft light from a high window. The picture explains the word 'translator'. Production note: ninth-century Baghdad dress and furniture, both books closed, no open pages, no marks on any cover, geometric pattern only, calm concentrated mood.",
+            "caption": "A translator turns a book from one language into another.",
+            "shutterstock_query": "historical scholar desk two closed books reed pen rear view illustration",
+            "ai_prompt": "Vertical illustration of a scholar in a turban and long plain robe seen from behind at a low wooden desk in a ninth-century Baghdad room, a closed codex with a plain wooden cover on his left, a closed leather book with a geometric cover pattern on his right, a reed pen and a small ink pot between them, soft light from a high window, calm concentrated mood, both books closed, no open pages, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Measuring the Earth, Building Machines",
+          "category": "ideas",
+          "text_sentences": [
+            "About 1,200 years ago, Place X in Baghdad becomes a center for careful measurement.",
+            "A ruler sends teams of astronomers into the flat desert north of the city.",
+            "They walk and measure until the North Star stands one degree higher in the sky.",
+            "From this careful walk, they work out the size of the whole Earth.",
+            "Their answer comes close to the true number, long before anyone sails around the planet.",
+            "In the same city, three brothers design clever machines.",
+            "Their machines pour drinks by hidden tricks, and one even plays music on its own.",
+            "A mathematician from a land far to the east also works here.",
+            "He writes a famous book that later gives Europe a whole branch of mathematics.",
+            "He also explains an Indian way to write numbers, using a symbol for zero.",
+            "Place X gathers thinkers from many lands and many fields of study."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The University of Bologna",
+            "Al-Qarawiyyin in Fez",
+            "The Library of Alexandria",
+            "The House of Wisdom"
+          ],
+          "correct": "The House of Wisdom",
+          "words": [
+            {
+              "word": "astronomer",
+              "explanation": "a person who studies stars, planets, and the sky"
+            },
+            {
+              "word": "degree",
+              "explanation": "a small unit for measuring an angle, like a slice of a circle"
+            },
+            {
+              "word": "mathematician",
+              "explanation": "a person who studies numbers, shapes, and patterns"
+            },
+            {
+              "word": "symbol",
+              "explanation": "a mark or sign that stands for something else"
+            }
+          ],
+          "main_image": {
+            "description": "Wide view of a small team of ninth-century astronomers sent out from Baghdad, in long robes and turbans, standing in a flat open desert at dawn, one holds a plain brass sighting instrument up toward the sky, another walks ahead marking distance with a long measuring cord, camels wait nearby with equipment. Production note: ninth-century Baghdad dress, brass instruments without engraving or markings, no modern surveying tools, wide open desert horizon, calm scholarly mood.",
+            "caption": "Careful walking and careful watching of the sky can measure something as big as the Earth.",
+            "shutterstock_query": "historical astronomers desert measuring instrument illustration",
+            "ai_prompt": "Wide historical illustration of a small team of ninth-century astronomers sent out from Baghdad, in long robes and turbans, standing in a flat open desert at dawn, one holding a plain brass sighting instrument toward the sky, another walking ahead marking distance with a long measuring cord, camels waiting nearby with equipment, soft dawn light, calm scholarly mood, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a scholar in simple ninth-century Baghdad robes bending over a low table, drawing careful circles and triangles on a sand tray with a wooden stick, a compass and a straightedge beside him, warm daylight from a window. The picture explains the word 'mathematician'. Production note: ninth-century Baghdad dress, only geometric shapes visible on the sand tray, no digits, no modern lamps, calm concentrated mood.",
+            "caption": "A mathematician works out new rules using careful drawings, not guesses.",
+            "shutterstock_query": "historical scholar geometry sand tray compass illustration",
+            "ai_prompt": "Vertical illustration of a ninth-century Baghdad scholar in simple robes bending over a low table, drawing careful circles and triangles on a sand tray with a wooden stick, a compass and a straightedge beside him, warm daylight from a window, calm concentrated mood, only geometric shapes visible, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Ideas Travel West, Then the City Falls",
+          "category": "ideas",
+          "text_sentences": [
+            "For centuries, Place X in Baghdad brings together knowledge from Greek, Persian, and Indian sources.",
+            "Scholars there write new works in medicine, astronomy, and mathematics.",
+            "Slowly, this knowledge moves west along trade roads and through Muslim Spain.",
+            "By the 1100s, teams in the Spanish city of Toledo translate Arabic books into Latin.",
+            "On the island of Sicily, other translators do the same important work.",
+            "Through these Latin copies, European universities finally read ideas kept and improved far to the east.",
+            "But Place X does not last forever.",
+            "In 1258, an army from the steppes reaches the city and destroys much of it.",
+            "A story says the river beside the city runs black with ink from countless ruined books.",
+            "Historians cannot confirm this exact detail, but they agree the destruction itself is real and huge.",
+            "The city recovers over time, but its great age of learning never fully returns."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The Academy in Athens",
+            "The House of Wisdom",
+            "The Library of Cordoba",
+            "Al-Azhar in Cairo"
+          ],
+          "correct": "The House of Wisdom",
+          "words": [
+            {
+              "word": "source",
+              "explanation": "a text or place that gives information or knowledge"
+            },
+            {
+              "word": "destruction",
+              "explanation": "the act of destroying something completely"
+            },
+            {
+              "word": "recover",
+              "explanation": "to become well or normal again after a hard time"
+            },
+            {
+              "word": "confirm",
+              "explanation": "to show or state that something is definitely true"
+            }
+          ],
+          "main_image": {
+            "description": "A mule train with wooden chests strapped to the animals climbs a dry hill road in twelfth-century Spain toward a walled hill town with a tall cathedral tower, the drivers in plain medieval tunics and hoods walk beside the mules, olive trees on the slopes, warm evening light. Production note: twelfth-century Spanish dress and gear, plain wooden chests with no marks, no flags, no coats of arms, no modern roads or objects, calm travelling mood.",
+            "caption": "Books travel west to a Spanish city, where they are put into Latin.",
+            "shutterstock_query": "medieval mule train wooden chests hill road walled town spain illustration",
+            "ai_prompt": "Detailed historical illustration of a mule train with plain wooden chests strapped to the animals climbing a dry hill road in twelfth-century Spain toward a walled hill town with a tall cathedral tower, drivers in plain medieval tunics and hoods walking beside the mules, olive trees on the slopes, warm evening light, calm travelling mood, no flags, no coats of arms, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "At dusk, the calm water of the Tigris in Baghdad carries a few loose, dark stained paper scraps past empty wooden boats tied at a quiet riverbank, the silhouette of brick courtyard buildings in the old Baghdad style behind, faint smoke on the far horizon. Production note: quiet and sad, not graphic, no bodies, no visible flames, no weapons, no marks on any paper scrap, respectful tone.",
+            "caption": "A story says the river runs dark with ink from ruined books.",
+            "shutterstock_query": "river dusk floating burned paper somber historical illustration",
+            "ai_prompt": "Vertical somber illustration at dusk: the calm water of the Tigris in Baghdad carries a few loose, dark stained paper scraps past empty wooden boats tied at a quiet riverbank, the silhouette of brick courtyard buildings in the old Baghdad style behind, faint smoke on the far horizon, muted warm and grey tones, quiet respectful mood, no bodies, no visible flames, no weapons, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Academy, Library, or Later Legend?",
+          "category": "ideas",
+          "text_sentences": [
+            "Many popular books describe Place X as a grand academy full of famous scholars.",
+            "How much of that picture truly comes from the old historical sources?",
+            "The oldest sources mention little more than a caliph's library, with a few translators and copyists at work there.",
+            "They say almost nothing about lectures, classrooms, or enrolled students.",
+            "Some modern historians think Place X is mainly a royal library, not a school.",
+            "Other historians argue that the surviving sources are simply incomplete, and the place worked much like a true academy.",
+            "Many vivid details in popular retellings first appear centuries after the events they describe.",
+            "The gold payment for translations and the ink-darkened river are later stories, not eyewitness reports.",
+            "Even so, the record shows something remarkable.",
+            "Rulers pay for a long effort to gather and translate knowledge across languages.",
+            "Historians must separate this solid evidence from the romantic legend built up around it over time."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "Nalanda",
+            "The University of Bologna",
+            "The House of Wisdom",
+            "Al-Qarawiyyin in Fez"
+          ],
+          "correct": "The House of Wisdom",
+          "words": [
+            {
+              "word": "academy",
+              "explanation": "a school or place for higher study and teaching"
+            },
+            {
+              "word": "evidence",
+              "explanation": "facts or objects that show something is true"
+            },
+            {
+              "word": "eyewitness",
+              "explanation": "a person who saw an event happen with their own eyes"
+            },
+            {
+              "word": "legend",
+              "explanation": "an old story that many people believe, even though parts of it may not be true"
+            }
+          ],
+          "main_image": {
+            "description": "View through an open arched brick doorway into a quiet ninth-century Baghdad reading room: low wooden shelves along the walls hold rows of closed books with plain leather covers seen at a distance, a few low desks with cushions stand empty, sunlight falls through a high window onto the floor, a band of geometric tiles runs along one wall, no people. Production note: ninth-century Abbasid Baghdad architecture and furniture, all books closed with plain covers, no marks on any cover or spine, geometric patterns only, no lamps, calm still mood.",
+            "caption": "A quiet library, or a busy school? The oldest sources say very little.",
+            "shutterstock_query": "historical reading room doorway closed books low shelves cushions empty illustration",
+            "ai_prompt": "Photorealistic view through an open arched brick doorway into a quiet ninth-century Baghdad reading room: low wooden shelves along the walls with rows of closed books with plain leather covers seen at a distance, a few empty low desks with cushions, sunlight falling through a high window onto the floor, a band of geometric tiles along one wall, no people, calm still mood, all books closed, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical symbolic still life on a wooden desk: an antique hourglass with tiny blank aged-paper fragments drifting down inside it instead of sand, a plain brass instrument in the style of ninth-century Baghdad astronomy resting beside it without engraving, warm candle light. Production note: no marks on any paper fragment or on the brass instrument, calm reflective mood, no modern lamps, no modern electronic objects.",
+            "caption": "Over time, a few plain facts can grow into a much bigger story.",
+            "shutterstock_query": "symbolic hourglass paper fragments falling still life",
+            "ai_prompt": "Vertical photorealistic still life: an antique hourglass on a dark wooden desk, tiny blank aged-paper fragments drifting down inside it instead of sand, a plain brass instrument in the style of ninth-century Baghdad astronomy resting beside it without engraving, warm candle light, calm reflective mood, no calligraphy, no pseudo-writing, no modern lamps, no modern electronic objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ibn-battuta",
+      "person": "Ibn Battuta",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Young Man Leaves Home",
+          "category": "exploration",
+          "text_sentences": [
+            "Mr X lives about seven hundred years ago.",
+            "He is born in Tangier, a port town in Morocco.",
+            "His family are religious scholars and judges.",
+            "At twenty-one years old, he leaves home alone.",
+            "He travels east on the road to Mecca, on a holy pilgrimage.",
+            "He rides camels across hot deserts and sails on wooden ships.",
+            "A journey like this usually takes more than a year.",
+            "But he loves the road, and he never really stops.",
+            "For almost thirty years, he moves from town to town.",
+            "He meets kings, judges, and holy men on the way.",
+            "His family waits at home, and for years they hear nothing."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Marco Polo",
+            "Christopher Columbus",
+            "Ibn Battuta",
+            "Vasco da Gama"
+          ],
+          "correct": "Ibn Battuta",
+          "words": [
+            {
+              "word": "port",
+              "explanation": "a town by the sea where ships stop"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows very much"
+            },
+            {
+              "word": "judge",
+              "explanation": "a person who decides if someone has done wrong"
+            },
+            {
+              "word": "pilgrimage",
+              "explanation": "a journey to a holy place"
+            }
+          ],
+          "main_image": {
+            "description": "A camel caravan sets out from a Moroccan port town at dawn, seen from behind: a young man in fourteenth-century North African dress, a long wool robe and a wrapped turban, walks beside a loaded camel with a plain rope harness, his back to the camera; behind him, flat-roofed whitewashed stone and earth buildings and the sea catch the first light. Production note: no recognisable face for the young man, only his back and side; no readable text, letters, numbers, flags, or calligraphy anywhere; no maps.",
+            "caption": "A young man leaves his home town before sunrise.",
+            "shutterstock_query": "young traveler camel caravan desert town dawn 14th century morocco rear view",
+            "ai_prompt": "Photorealistic wide shot at dawn: a camel caravan leaves a small North African port town, seen from behind, a young man in a long wool robe and a wrapped turban walks beside a loaded camel with a plain rope harness, his face not visible, flat-roofed whitewashed stone and earth buildings and the sea catching first light behind him, warm golden light, quiet mood; fourteenth-century North African dress and gear, camels with rope harness, whitewashed stone and earth town; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern boats, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A row of wooden sailing ships with triangular lateen sails rests at anchor in a busy North African port town, flat-roofed whitewashed stone and earth buildings along the shore, small fishing boats pulled up on the sand. The picture helps explain the word 'port'. Production note: no people in focus; no flags, no readable text, letters, numbers, or calligraphy anywhere; no modern boats.",
+            "caption": "Ships wait in the harbor of a busy trading town.",
+            "shutterstock_query": "historic wooden ships lateen sails north african port harbor whitewashed",
+            "ai_prompt": "Photorealistic vertical image of a row of wooden sailing ships with triangular lateen sails at anchor in a busy fourteenth-century North African port town, flat-roofed whitewashed stone and earth buildings along the shore, small fishing boats pulled up on the sand, warm daylight, calm mood; fourteenth-century Mediterranean wooden ships with lateen sails, whitewashed stone and earth town; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern boats, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Down the Coast, Across the Wind",
+          "category": "exploration",
+          "text_sentences": [
+            "Mr X sails down the coast of East Africa, about seven hundred years ago.",
+            "He visits rich trading towns built from coral stone, like Kilwa and Mogadishu.",
+            "Gold and ivory pass through their busy markets.",
+            "Later, a strong seasonal wind carries his ship back north to Arabia.",
+            "Sailors call this wind the monsoon, and it blows one way in summer and the other way in winter.",
+            "Years later, after a long journey over land through many lands, he reaches India in 1333.",
+            "Mr X comes to Delhi, a great city ruled by a powerful sultan.",
+            "The sultan likes educated visitors and makes Mr X a judge.",
+            "He judges cases there for several years, far from his home in the west.",
+            "Later he sails on to the Maldives, a chain of small islands in the ocean.",
+            "The queen's court there also makes him a judge, this time among palm trees and white beaches.",
+            "He judges by the laws of his faith, even on this small island kingdom."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Zheng He",
+            "Ibn Battuta",
+            "Vasco da Gama",
+            "Ferdinand Magellan"
+          ],
+          "correct": "Ibn Battuta",
+          "words": [
+            {
+              "word": "coral",
+              "explanation": "a hard stone-like material made by tiny sea animals"
+            },
+            {
+              "word": "ivory",
+              "explanation": "the hard white material from an elephant's tusk"
+            },
+            {
+              "word": "monsoon",
+              "explanation": "a strong wind that blows one way for months, then the other way"
+            },
+            {
+              "word": "sultan",
+              "explanation": "a Muslim ruler of a country or city"
+            }
+          ],
+          "main_image": {
+            "description": "A grand fortified palace of grey stone and white plaster with sloping walls and round towers, fourteenth-century Delhi, rises in the distance under a heavy monsoon sky; in the foreground a robed judge in fourteenth-century South Asian Muslim dress, a long robe and a wrapped turban, seen only from behind, walks toward the palace with a camel and two servants nearby. Production note: no recognisable face, the judge figure seen only from behind or at a distance; fourteenth-century stone fort architecture, no red sandstone, no domes and minarets in the later Mughal style; no readable text, letters, numbers, flags, calligraphy, or pseudo-writing anywhere; no maps; no depiction of the Kaaba or of praying crowds.",
+            "caption": "A judge from far away walks toward a great palace.",
+            "shutterstock_query": "delhi sultanate stone fort distant monsoon clouds historical judge robe",
+            "ai_prompt": "Photorealistic wide shot: a grand fortified palace of grey stone and white plaster with sloping walls and round towers, fourteenth-century Delhi, rises in the distance under a heavy monsoon sky, in the foreground a robed judge in fourteenth-century South Asian Muslim dress, a long robe and a wrapped turban, seen only from behind, walking toward the palace with a camel and two servants nearby, dramatic clouds, warm dusty light; fourteenth-century dress and gear, grey rubble stone and white plaster fort architecture with sloping walls, no red sandstone, no Mughal domes; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern boats, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Palm trees bend in a strong wind on a tropical shore under heavy grey monsoon clouds, rain falling over the sea in the distance, spray blowing off the waves, no ships, no people. The picture helps explain the word 'monsoon'. Production note: no boats, no buildings, no flags, no readable text, letters, numbers, or calligraphy anywhere.",
+            "caption": "A strong wind bends the palms. The same wind blows the other way every year.",
+            "shutterstock_query": "palm trees bending strong wind monsoon clouds tropical shore rain sea",
+            "ai_prompt": "Photorealistic vertical image of palm trees bending in a strong wind on a tropical shore under heavy grey monsoon clouds, rain falling over the sea in the distance, spray blowing off the waves, no ships, no people, no buildings, dramatic natural mood; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern boats, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Long Way East, and a Hard Way Home",
+          "category": "exploration",
+          "text_sentences": [
+            "Mr X keeps traveling east, far past India, about seven hundred years ago.",
+            "He crosses the sea to Sri Lanka and then to Sumatra, an island covered in thick forest.",
+            "From there, ships carry him even further, all the way to China.",
+            "He describes huge cities, fine silk, and paper money that nobody in Morocco, his homeland, has ever seen.",
+            "Later historians read his account with care, and some parts trouble them.",
+            "His China chapters are shorter and less exact than the rest of his story.",
+            "Did he really see everything he describes, or did he also copy from other travelers' tales?",
+            "Historians still argue about how much of the China journey is truly his own.",
+            "After a few more years on the road, Mr X finally turns west, toward home.",
+            "When he reaches Morocco again, a great plague is killing people across three continents.",
+            "He has been away for so long that both of his parents have already died."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Marco Polo",
+            "Zheng He",
+            "Xuanzang",
+            "Ibn Battuta"
+          ],
+          "correct": "Ibn Battuta",
+          "words": [
+            {
+              "word": "account",
+              "explanation": "a spoken or written report of what happened"
+            },
+            {
+              "word": "chapter",
+              "explanation": "one part of a book"
+            },
+            {
+              "word": "plague",
+              "explanation": "a disease that spreads fast and kills many people"
+            },
+            {
+              "word": "continent",
+              "explanation": "one of the biggest land areas of the earth"
+            }
+          ],
+          "main_image": {
+            "description": "A vast harbor in a great port town of fourteenth-century China: dozens of tall wooden junks with battened sails crowd the water, Chinese dockworkers and merchants in long fourteenth-century robes carry bolts of silk and baskets of goods along a busy wharf, seen from a distance. Production note: generic anonymous crowd, no recognisable individual faces in focus; no readable signs, letters, numbers, flags, or text anywhere; the ships are historical Chinese junks, not modern boats.",
+            "caption": "A great harbor far to the east, full of ships nobody at home has ever seen.",
+            "shutterstock_query": "chinese junk ships harbor 14th century historical silk trade illustration",
+            "ai_prompt": "Photorealistic wide shot of a vast harbor in a great port town of fourteenth-century China, dozens of tall wooden junks with battened sails crowding the water, Chinese dockworkers and merchants in long fourteenth-century robes carrying bolts of silk and baskets of goods along a busy wharf, seen from a distance, hazy midday light, busy mood; fourteenth-century dress, historical junks with battened sails, no modern boats; no calligraphy, no pseudo-writing, no flags, no maps with text, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An empty stone-paved street in a North African town at dusk, shop doors closed and shuttered, no people anywhere, a single abandoned handcart to one side. The picture helps explain the word 'plague'. Production note: no people, no signs of illness or death shown directly, no gore; no readable text, letters, numbers, or symbols anywhere.",
+            "caption": "A quiet, empty street. Sickness has emptied the town.",
+            "shutterstock_query": "empty medieval street closed doors dusk historical plague",
+            "ai_prompt": "Photorealistic vertical image of an empty stone-paved street in a fourteenth-century North African town at dusk, shop doors closed and shuttered, no people anywhere, a single abandoned wooden handcart to one side, warm fading light, somber quiet mood; fourteenth-century whitewashed stone and earth town architecture; no gore, no depiction of illness or death; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern vehicles, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Salt, Gold, and a Story Told Aloud",
+          "category": "exploration",
+          "text_sentences": [
+            "Years after coming home, Mr X sets out on one more great journey.",
+            "This time he crosses the Sahara, the largest hot desert on earth.",
+            "He joins a trading caravan of camels loaded with slabs of salt.",
+            "Workers far out in the desert cut this salt straight out of the ground.",
+            "Traders carry the slabs south into the kingdom of Mali and trade them for gold.",
+            "After many weeks, Mr X reaches the court of the king of Mali.",
+            "The salt, the gold, and the strict customs of the court all surprise him.",
+            "He says later that the people of Mali love justice and that travelers are safe there.",
+            "After this last journey, Mr X finally settles down and stops traveling.",
+            "A ruler in Morocco then asks him to tell his whole life story.",
+            "In 1355, in the town of Fez, Mr X tells his story aloud.",
+            "A trained writer sets it on paper."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Leo Africanus",
+            "Ibn Battuta",
+            "Christopher Columbus",
+            "Benjamin of Tudela"
+          ],
+          "correct": "Ibn Battuta",
+          "words": [
+            {
+              "word": "slab",
+              "explanation": "a thick flat piece of something hard"
+            },
+            {
+              "word": "caravan",
+              "explanation": "a group of people and animals that travel together"
+            },
+            {
+              "word": "custom",
+              "explanation": "a way of doing things that a group of people always follows"
+            },
+            {
+              "word": "settle",
+              "explanation": "to stop moving around and stay in one place"
+            }
+          ],
+          "main_image": {
+            "description": "In a spacious royal courtyard in a fourteenth-century West African kingdom, courtiers in fine woven robes and gold jewelry stand in respectful rows before a distant raised platform, gold dust and nuggets displayed in shallow bowls in the foreground, a robed foreign visitor in North African dress stands to the side, seen only from behind. Production note: no recognisable individual faces in focus for the ruler or the visitor; generic dignified court scene, not a caricature; no flags, no readable text, letters, numbers, or calligraphy anywhere.",
+            "caption": "Strict customs at a royal court south of the great desert surprise a foreign visitor.",
+            "shutterstock_query": "west african royal court 14th century gold historical illustration",
+            "ai_prompt": "Photorealistic wide shot inside a spacious royal courtyard in a fourteenth-century West African kingdom, courtiers in fine woven robes and gold jewelry standing in respectful rows before a distant raised platform, gold dust and nuggets displayed in shallow bowls in the foreground, a robed foreign visitor in fourteenth-century North African dress standing to the side, seen only from behind, warm golden light, dignified mood; fourteenth-century West African and North African dress; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern objects, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close-up of large pale flat slabs of rock salt stacked and tied on a kneeling camel's back, a plain rope harness visible, dry cracked desert ground beneath. The picture helps explain the word 'slab'. Production note: no people in focus, no readable text, letters, numbers, or symbols anywhere.",
+            "caption": "Slabs of salt travel south to be traded for gold.",
+            "shutterstock_query": "rock salt slabs camel desert trade closeup historical",
+            "ai_prompt": "Photorealistic close-up of large pale flat slabs of rock salt stacked and tied with rope onto a kneeling camel's back, a plain rope harness visible, dry cracked desert ground beneath, warm directional light, still mood; fourteenth-century camel harness and salt trade goods; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern objects, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "What He Saw, What He Copied",
+          "category": "exploration",
+          "text_sentences": [
+            "About seven hundred years ago, Mr X ends his travels.",
+            "Historians estimate his journeys cover several times the distance of the most famous traveler from Venice.",
+            "Within two years of coming home, Mr X dictates his book, and it is finished in 1355.",
+            "He speaks mostly from memory, and his earliest journeys lie thirty years in the past.",
+            "Because of this, historians compare his book carefully against older travel books.",
+            "Some passages match an older pilgrim's travel book by Ibn Jubayr almost word for word.",
+            "Other passages carry small details that only an eyewitness could know.",
+            "So scholars ask, for each part, is this what he saw or what he read?",
+            "His book also describes, as he saw it, women's lives and the practice of slavery in the lands he visits.",
+            "Modern historians read these passages as evidence of the customs of that century, not as an endorsement of them.",
+            "For centuries, few people outside his own region read his book at all.",
+            "European scholars only translate and study it widely in the eighteen hundreds."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Ibn Battuta",
+            "Zheng He",
+            "Rabban Bar Sauma",
+            "Evliya Celebi"
+          ],
+          "correct": "Ibn Battuta",
+          "words": [
+            {
+              "word": "estimate",
+              "explanation": "to guess a number using known facts"
+            },
+            {
+              "word": "eyewitness",
+              "explanation": "a person who sees something happen with their own eyes"
+            },
+            {
+              "word": "evidence",
+              "explanation": "facts that help to prove something is true"
+            },
+            {
+              "word": "endorsement",
+              "explanation": "a statement that says you approve of something"
+            }
+          ],
+          "main_image": {
+            "description": "In a quiet nineteenth-century European university library, a scholar in formal nineteenth-century dress, seen from behind, lifts a closed leather-bound manuscript out of an open wooden crate; four more closed volumes with different plain bindings wait on the table beside it, soft daylight from a tall window, no lamp. Production note: all volumes closed, no open pages, no script visible anywhere, no marks on any binding; no readable text, letters, numbers, or symbols anywhere; the scholar generic and anonymous, face not visible; no modern lamps or electric light.",
+            "caption": "Centuries later, a scholar in Europe compares old copies of the same story.",
+            "shutterstock_query": "19th century scholar library wooden crate closed manuscripts rear view daylight",
+            "ai_prompt": "Photorealistic scene in a quiet nineteenth-century European university library: a scholar in formal nineteenth-century dress, seen from behind, lifts a closed leather-bound manuscript out of an open wooden crate, four more closed volumes with different plain bindings waiting on the table beside it, soft daylight from a tall window, studious mood; all volumes closed, no open pages, no lamp; no calligraphy, no pseudo-writing, no flags, no maps with text, no modern objects, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close-up of an antique brass pair of dividers resting on an aged, blank globe of the earth, soft daylight. The picture helps explain the word 'estimate'. Production note: the globe shows only muted ocean and land colors, no place names, no lines, no grid, no letters, no numbers, or symbols anywhere; no lamps.",
+            "caption": "How far did he really travel? Historians measure and estimate.",
+            "shutterstock_query": "antique brass dividers globe measuring distance historical closeup",
+            "ai_prompt": "Photorealistic vertical close-up of an antique brass pair of dividers resting on an aged blank globe of the earth showing only muted ocean and land colors, soft daylight, studious quiet mood; no place names, no lines, no grid, no lamps, no calligraphy, no pseudo-writing, no flags, no maps with text, no depiction of the Kaaba or of praying crowds, no religious figures, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "the-enlightenment",
+      "person": "The Enlightenment",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Ask your own questions",
+          "category": "ideas",
+          "text_sentences": [
+            "Movement X spreads across Europe in the seventeen hundreds.",
+            "Before this time, most people simply obey the king, the lords, and the church.",
+            "Now some thinkers say something new.",
+            "Every person can use his or her own mind, they say.",
+            "Ask questions, they say, and do not just believe old rules.",
+            "In one country, writers plan a giant book that tries to explain everything in the world.",
+            "In busy coffee houses, men sit for hours and argue about these new ideas.",
+            "In fine rooms in Paris, women host talks where thinkers meet and speak freely.",
+            "Slowly, more and more people start to think this way."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Renaissance",
+            "The Scientific Revolution",
+            "The Enlightenment",
+            "Romanticism"
+          ],
+          "correct": "The Enlightenment",
+          "words": [
+            {
+              "word": "obey",
+              "explanation": "to do what someone in charge tells you to do"
+            },
+            {
+              "word": "coffee house",
+              "explanation": "a place where people sit, drink coffee, and talk"
+            },
+            {
+              "word": "host",
+              "explanation": "to invite people and welcome them at an event"
+            },
+            {
+              "word": "argue",
+              "explanation": "to talk about a subject when people do not agree"
+            }
+          ],
+          "main_image": {
+            "description": "A crowded coffee house in a European city in the seventeen hundreds: men in waistcoats and long coats sit at wooden tables, drinking from small coffee cups, candles burn between them, one man reads a paper aloud while others lean in to listen. Production note: explicit eighteenth-century dress including waistcoats and a few powdered wigs, warm lively but calm mood, no readable text on the paper or on any sign, no modern furniture or clothing.",
+            "caption": "Men gather in coffee houses and talk for hours about bold new ideas.",
+            "shutterstock_query": "eighteenth century coffee house interior men talking illustration",
+            "ai_prompt": "Warm historical illustration of a crowded eighteenth-century coffee house: men in waistcoats, white shirts, and long coats sit at wooden tables with small coffee cups, candles burning, a fire in the hearth, one man reading a paper aloud, powdered wigs on some heads; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical illustration of a village road in the seventeen hundreds: villagers in simple eighteenth-century clothes, plain shirts, caps, and long skirts, bow their heads as a lord in a fine coat and tricorn hat rides past on horseback, a church tower behind, soft daylight. The picture explains the word 'obey'. Production note: explicit eighteenth-century dress, generic faces, no flags, no coats of arms, no readable signs, calm mood, no violence.",
+            "caption": "Before, most people simply obey the king, the lords, and the church.",
+            "shutterstock_query": "eighteenth century villagers bowing lord horseback village road illustration",
+            "ai_prompt": "Vertical historical illustration of a village road in the seventeen hundreds: villagers in plain eighteenth-century shirts, caps, and long skirts bow their heads as a lord in a fine coat and tricorn hat rides past on horseback, a church tower behind, soft daylight, calm mood; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no coats of arms, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A book too big to stop",
+          "category": "ideas",
+          "text_sentences": [
+            "Movement X grows fast in the seventeen hundreds.",
+            "Two writers, Diderot and d'Alembert, lead the work on one huge encyclopedia to explain all human knowledge.",
+            "It will have thousands of long articles, from farming tools to the stars.",
+            "Soon, church and state leaders ban the encyclopedia because they fear its dangerous ideas.",
+            "Diderot does not stop, and he keeps working half in secret.",
+            "Slowly, the encyclopedia grows into many thick books.",
+            "One famous writer of the movement, Voltaire, becomes known for a different fight.",
+            "In 1762, judges in France wrongly execute a father who belongs to a small religious group.",
+            "Voltaire writes and argues for years until the man's name is finally cleared.",
+            "He says that people of every faith deserve fair treatment under the law.",
+            "This idea, called tolerance, becomes central to the movement."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Enlightenment",
+            "The Reformation",
+            "Humanism",
+            "The Industrial Revolution"
+          ],
+          "correct": "The Enlightenment",
+          "words": [
+            {
+              "word": "encyclopedia",
+              "explanation": "a huge book, or set of books, that explains many different subjects"
+            },
+            {
+              "word": "ban",
+              "explanation": "to say officially that something is not allowed"
+            },
+            {
+              "word": "execute",
+              "explanation": "to kill a person as a legal punishment"
+            },
+            {
+              "word": "tolerance",
+              "explanation": "accepting that other people may believe or live differently"
+            }
+          ],
+          "main_image": {
+            "description": "A dim printing workshop at night in the seventeen hundreds: several workers in aprons and waistcoats quietly operate a wooden printing press by candlelight, tall stacks of large bound volumes with blank spines line the walls, one worker peers through a shuttered window as if keeping watch. Production note: eighteenth-century dress and a wooden press shown explicitly, calm but tense mood, no readable text or titles on any spine or page, no modern printing equipment.",
+            "caption": "Workers keep printing the encyclopedia, even though it is banned.",
+            "shutterstock_query": "eighteenth century printing press night workshop illustration",
+            "ai_prompt": "Atmospheric illustration of a dim eighteenth-century printing workshop at night: workers in aprons and waistcoats operate a wooden printing press by candlelight, tall stacks of bound volumes with blank spines along the walls, one figure watching through a shuttered window; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a market square in a European town in the seventeen hundreds: a priest in a black cassock, a pastor in a plain dark coat and white collar, and a bearded man in a broad-brimmed hat and long coat stand together talking in a friendly group, townspeople in eighteenth-century dress pass by with baskets, a church tower and shop fronts without signs behind, soft daylight. The picture explains the word 'tolerance'. Production note: dignified everyday scene, no caricature, generic faces not resembling any real person, no religious symbols that carry letters, no flags, no readable signs, no modern objects.",
+            "caption": "People of different faiths share one town in peace. That is what tolerance means.",
+            "shutterstock_query": "eighteenth century town square priest pastor townspeople talking peaceful illustration",
+            "ai_prompt": "Vertical historical illustration of a market square in a European town in the seventeen hundreds: a priest in a black cassock, a pastor in a plain dark coat and white collar, and a bearded man in a broad-brimmed hat and long coat stand together talking in a friendly group, townspeople in eighteenth-century dress passing by with baskets, a church tower and plain shop fronts behind, soft daylight, dignified calm mood, no caricature; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "An evening of bold talk",
+          "category": "ideas",
+          "text_sentences": [
+            "Movement X shapes new ideas about government in the seventeen hundreds.",
+            "One thinker, Montesquieu, says power should never sit in one place alone.",
+            "Lawmaking, ruling, and judging, he argues, should be three separate powers.",
+            "Each power should watch and limit the other two, he says.",
+            "Another thinker, Rousseau, asks a different question: why should anyone obey a ruler at all?",
+            "He answers that fair government rests on a social contract, an agreement among free people.",
+            "Long before this, an English thinker named Locke argues that rulers need the people's consent.",
+            "Much of this talk happens in salons, regular gatherings held in private homes.",
+            "In Paris, a woman named Madame Geoffrin hosts one of the most famous salons of the age.",
+            "There, thinkers meet, argue, and share new writing long before it is printed.",
+            "Decades later, these ideas about power and consent feed the revolutions in North America and France."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Counter-Reformation",
+            "The Scientific Revolution",
+            "Positivism",
+            "The Enlightenment"
+          ],
+          "correct": "The Enlightenment",
+          "words": [
+            {
+              "word": "social contract",
+              "explanation": "an agreement among people about how they will be ruled"
+            },
+            {
+              "word": "consent",
+              "explanation": "saying yes and agreeing to something"
+            },
+            {
+              "word": "salon",
+              "explanation": "a regular private gathering where people talk about ideas"
+            },
+            {
+              "word": "lawmaking",
+              "explanation": "the work of writing the laws that a country follows"
+            }
+          ],
+          "main_image": {
+            "description": "A grand candlelit drawing room in Paris in the seventeen hundreds: a well-dressed woman stands near a marble fireplace, gesturing as she speaks to a small seated group of men and women in silk gowns, waistcoats, and powdered wigs, a harpsichord stands in one corner, gilded mirrors on the walls. Production note: explicit silk gowns, waistcoats, and candles, warm elegant mood, faces generic and not resembling any real historical person, no readable text on any book spine or paper.",
+            "caption": "In rooms like this, thinkers share bold new ideas about power and government.",
+            "shutterstock_query": "eighteenth century paris salon drawing room candlelight harpsichord illustration",
+            "ai_prompt": "Elegant historical illustration of a candlelit Paris drawing room in the seventeen hundreds: a woman in a silk gown gestures as she speaks near a marble fireplace to a small seated group in silk gowns, waistcoats, and powdered wigs, a harpsichord in the corner, gilded mirrors, warm candlelight; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close vertical view of two men in eighteenth-century coats shaking hands in a village square, a small group of townspeople in period dress looking on, a modest church tower in the distance, daylight. The picture explains the word 'consent'. Production note: generic faces, no coats of arms or flags, no readable signs, calm everyday mood.",
+            "caption": "A fair ruler needs the people's agreement, some thinkers now say.",
+            "shutterstock_query": "eighteenth century handshake village square agreement illustration",
+            "ai_prompt": "Vertical historical illustration of two men in eighteenth-century coats shaking hands in a village square, a small group of townspeople in period dress looking on, a modest church tower in the distance, soft daylight; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The courage to think",
+          "category": "ideas",
+          "text_sentences": [
+            "A Berlin magazine prints a question: what is Movement X?",
+            "In 1784, a philosopher named Kant answers with a whole essay.",
+            "One line in it becomes famous: have the courage to use your own understanding.",
+            "Do not simply trust old authority, he says, and think for yourself, carefully and bravely.",
+            "Twenty years earlier, an Italian thinker named Beccaria attacks two common practices of the courts.",
+            "Torture used to force confessions is cruel and unreliable, he argues.",
+            "The death penalty does not even stop crime, he adds, and courts should use fairer methods instead.",
+            "In 1792, a British writer named Wollstonecraft asks a bold question: why not educate women as carefully as men?",
+            "Women seem weaker only because they receive a worse education, she argues.",
+            "Across the movement, thinkers admire one shining example: an English scientist's laws of motion, published a century earlier.",
+            "If careful reasoning can explain how the planets move, they ask, why not use it on laws and government?"
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "Romanticism",
+            "The Enlightenment",
+            "The Renaissance",
+            "The Industrial Revolution"
+          ],
+          "correct": "The Enlightenment",
+          "words": [
+            {
+              "word": "authority",
+              "explanation": "a person or group with the power to tell others what to do"
+            },
+            {
+              "word": "torture",
+              "explanation": "causing someone great pain on purpose; here, to force a person to confess"
+            },
+            {
+              "word": "confession",
+              "explanation": "when a person admits, often under pressure, that they did something"
+            },
+            {
+              "word": "reasoning",
+              "explanation": "careful thinking used to reach an answer"
+            }
+          ],
+          "main_image": {
+            "description": "An eighteenth-century courtroom: a judge in a long robe and full powdered wig sits behind a high wooden bench, a pair of brass scales stands on a side table, clerks with quill pens sit below writing, soft daylight through tall windows. Production note: explicit period robes and wigs, no torture devices or violence shown, no readable text on any document, calm formal mood.",
+            "caption": "A courtroom of the seventeen hundreds. Some thinkers now question its harshest methods.",
+            "shutterstock_query": "eighteenth century courtroom judge wig scales illustration",
+            "ai_prompt": "Formal historical illustration of an eighteenth-century courtroom: a judge in a long robe and full powdered wig sits behind a high wooden bench, brass scales on a side table, clerks with quill pens writing below, soft daylight through tall windows; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a heavy iron-bound wooden door with a large old lock in a stone corridor of the seventeen hundreds, a ring of iron keys hanging on a hook beside it, a single candle burning in a wall holder, no people. The picture explains the word 'authority'. Production note: eighteenth-century ironwork and candle only, no modern locks or lamps, no readable marks on the door or keys, quiet contemplative mood.",
+            "caption": "Locked doors and old rules. Now some thinkers ask if the rules are fair.",
+            "shutterstock_query": "old iron bound door lock ring of keys stone corridor candle",
+            "ai_prompt": "Vertical illustration of a heavy iron-bound wooden door with a large old lock in a stone corridor, a ring of iron keys hanging on a hook beside it, a single candle burning in a wall holder, eighteenth-century ironwork, no people, quiet contemplative mood; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Whose reason counts?",
+          "category": "ideas",
+          "text_sentences": [
+            "Historians still argue about the legacy of Movement X, a movement of philosophers in the seventeen hundreds.",
+            "Its thinkers praise reason, freedom, and equal rights for every person.",
+            "Yet some writers of the time use the new science to rank peoples, calling whole nations naturally inferior.",
+            "Meanwhile, European empires grow, and the trade in enslaved people from Africa to the Americas goes on.",
+            "Thinkers of the movement such as Condorcet and Raynal attack slavery and colonial cruelty in their own writings.",
+            "Later historians also ask whose reason the movement really centers on: mostly European men of a certain class.",
+            "Women host the salons but rarely get to publish.",
+            "Colonized peoples and the poor never sit at the salon table.",
+            "In the twentieth century, philosophers ask a darker question: can cold calculation itself lead to terrible violence?",
+            "Still, schools on every continent today teach its central idea: question authority, and think for yourself with evidence."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "Humanism",
+            "The Counter-Reformation",
+            "The Enlightenment",
+            "Positivism"
+          ],
+          "correct": "The Enlightenment",
+          "words": [
+            {
+              "word": "inferior",
+              "explanation": "lower in worth or ability than others; here, what some writers wrongly claimed about whole peoples"
+            },
+            {
+              "word": "empire",
+              "explanation": "many lands and peoples ruled by one distant power"
+            },
+            {
+              "word": "colonized",
+              "explanation": "living under the control of a distant ruling power"
+            },
+            {
+              "word": "calculation",
+              "explanation": "careful counting or reasoning used to solve a problem"
+            }
+          ],
+          "main_image": {
+            "description": "A grand eighteenth-century library reading room: tall shelves of leather-bound books with blank spines line the walls, a large globe stands on a wooden stand in the center, a small ship model rests on a side table, sunlight falls through tall windows, no people in the room. Production note: no visible flag on the ship model, no readable text on any book spine or map, calm contemplative mood, no modern objects.",
+            "caption": "Its books praise reason and freedom. Historians still argue about what that meant for everyone else.",
+            "shutterstock_query": "eighteenth century library reading room globe ship model",
+            "ai_prompt": "Photorealistic illustration of a grand eighteenth-century library reading room: tall shelves of leather-bound books with blank spines, a large globe on a wooden stand in the center, a small ship model on a side table, sunlight through tall windows, no people in the room; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a busy harbor at a distance in the seventeen hundreds: wooden sailing ships with tall masts and square sails at anchor, small distant figures loading crates and barrels onto horse carts along a stone quay, warehouses behind, hazy morning light. The picture explains the word 'empire'. Production note: eighteenth-century wooden ships only, no steamships, no metal hulls, no cranes, workers shown only as small distant silhouettes, no chains or violence visible, no flags, no readable text, respectful and non-graphic tone.",
+            "caption": "Empires grow rich on goods from far away. The philosophers' praise of freedom does not reach everyone.",
+            "shutterstock_query": "eighteenth century harbor sailing ships cargo barrels quay distant workers",
+            "ai_prompt": "Vertical historical illustration of a busy harbor at a distance in the seventeen hundreds: wooden sailing ships with tall masts and square sails at anchor, no steamships, no metal hulls, no cranes, small distant figures loading crates and barrels onto horse carts along a stone quay, warehouses behind, hazy morning light; no readable pages or book titles, no portraits of real philosophers, no modern objects, no flags, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
