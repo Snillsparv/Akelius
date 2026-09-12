@@ -315,3 +315,66 @@ misslyckanden lika sakligt som dess framgångar.
   Universitet: vetots historia och reformdebatten. Bilder: inga flaggor
   eller emblem med läsbar form, inga blå hjälmar med bokstäver; svenska
   läckor att vakta i översättningen: FN, Förenta nationerna.
+
+## Ämnesnoter, leverans 8
+
+Kategori för alla fem set: `twentieth century`. Distraktorer ur 1900-talet.
+
+Korsläckor att vakta: kalla kriget-setet får inte skriva "Berlin Wall" eller
+namnge månlandningen ("the two powers race into space" räcker), inte
+Mandela eller King; Kingsetet namnger inte Gandhi ("a leader in India who
+fights without weapons"), inte Mandela; Mandelasetet namnger inte King
+eller Gandhi; Berlinmursetet får inte skriva "Cold War" (skriv "the long
+rivalry between two great powers") och inte namnge Mandela; månlandnings-
+setet får inte skriva "Cold War". Inget set skriver "World War", Hitler,
+Churchill eller FN vid namn.
+
+- **The Cold War**: Conflict X, frågan "Which conflict is Conflict X?".
+  Två stormakter efter 1945 som aldrig krigar direkt mot varandra men
+  hotar med kärnvapen, delar Europa med en järnridå, för krig genom
+  andra i Korea, Vietnam, Afghanistan, Angola och Latinamerika; rymd-
+  kapplöpningen utan att namnge månlandningen; Kubakrisen 1962 sakligt
+  (får inte vara distraktor på det kort som berättar den); de alliansfria
+  staterna i Bandung 1955 och vad rivaliteten kostade Afrika, Asien och
+  Latinamerika; slutet omkring 1989-1991. Universitet: vem bär skulden,
+  ortodoxa, revisionister och postrevisionister, arkiven som öppnades
+  efter 1991. Undvik orden "cold" och "Cold War" helt i elevvänd text.
+- **Martin Luther King Jr.**: Mr X. Pastorssonen i Atlanta, bussbojkotten
+  i Montgomery 1955-1956 som Rosa Parks utlöser, ickevåld lärt av en
+  ledare i Indien (namnges inte), marschen till Washington 1963 med
+  "I have a dream" (dokumenterat, får citeras kort), Birmingham och
+  brevet från fängelset, rösträttslagen 1965, Selma, kritiken från
+  Malcolm X och de yngre, hans kritik av Vietnamkriget och fattigdomen,
+  mordet i Memphis 1968. Fångar: "king", "King", "Luther" och "Martin"
+  används inte i elevvänd text; reformatorn med samma namn nämns inte.
+  Bilder: inga igenkännbara porträtt, inga läsbara plakat, marschen
+  bakifrån.
+- **Nelson Mandela**: Mr X. Pojken i Transkei, juriststudenten, apartheid-
+  lagarna, ANC, Sharpeville 1960, den väpnade grenen som han grundar
+  1961 sakligt utan förskönande, Rivoniarättegången 1964 och talet om
+  idealet han är beredd att dö för, 27 år i fängelse varav 18 på Robben
+  Island med kalkbrottet, frigivningen 1990, förhandlingarna, valet
+  1994, sannings- och försoningskommissionen, en enda mandatperiod.
+  Kritiken: våldet på 1980-talet i rörelsen, ekonomin efter 1994.
+  Tro markeras som tro. Fångar: "Mandela", "Madiba", "Rolihlahla",
+  "Nelson". Bilder: inga porträtt, inga flaggor, kalkbrottet, en cell,
+  en valkö 1994 bakifrån.
+- **The fall of the Berlin Wall**: Event X, frågan "Which event is Event
+  X?". Staden delad sedan 1961, muren byggd på en natt, minst 140 döda
+  vid försök att ta sig över, den hemliga polisen, hösten 1989: Ungern
+  öppnar gränsen, måndagsdemonstrationerna i Leipzig, presskonferensen
+  9 november där en talesman läser fel om resetillstånd, folkmassorna,
+  gränsvakterna som öppnar, hammare och mejsel, återföreningen 1990.
+  Orden "Berlin" och "wall" får användas som ledtrådar men aldrig
+  frasen "Berlin Wall" och inte "fall of the"; skriv "the wall opens",
+  "the wall comes down". Bilder: inga läsbara klotter, inga flaggor.
+- **The first Moon landing**: Event X. Rymdkapplöpningen med den andra
+  stormaktens försprång (första satelliten 1957, första människan 1961),
+  det stora programmet med 400 000 människor inklusive räknarna, tre
+  män i juli 1969, fyra dagar dit, två går på ytan, "a small step"
+  (dokumenterat citat), 600 miljoner tittar, stenarna hem, kostnaden och
+  kritiken i USA under fattigdom och krig, de senare landningarna, myten
+  att det var iscensatt behandlas på universitetskortet som studerat
+  fenomen. Fångar: "landing", "Moon landing"; ordet "Moon" är en tillåten
+  ledtråd. Bilder: inga flaggor, inga läsbara texter på dräkter eller
+  landare, jorden över horisonten.
