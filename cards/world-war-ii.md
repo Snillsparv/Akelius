@@ -12,10 +12,11 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Korttext
 
-> War X begins in 1939. It grows into the biggest war in history.  
+> War X begins in 1939.  
+> It grows bigger than any war before it.  
 > Armies fight on land, at sea, and in the air.  
-> Soldiers cross three continents, far from their homes.  
-> In big cities, the government decides to evacuate many children.  
+> Soldiers fight on three continents and across the oceans.  
+> In some countries, governments evacuate many children from the big cities.  
 > Each child carries a small suitcase and a name tag.  
 > Trains carry them to new families in the countryside.  
 > Back home, food grows scarce, so families use ration books.  
@@ -41,17 +42,17 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Huvudbild
 
-- **Motiv:** A steam train platform in a small town in the early 1940s: a line of children in period coats stand with small suitcases and name tags around their necks, a calm adult beside them, a steam locomotive waiting at the platform, soft morning light. Production note: no readable signs or destination boards, no flags, no military insignia, no modern vehicles; calm faces, not distressed; anonymous ordinary people, 1940s clothing throughout.
+- **Motiv:** A steam train platform in a small town in the early 1940s, seen from behind: a line of children in period wool coats, caps, and knee socks stand with small suitcases, one child holding a small cloth toy, a calm adult beside them, a steam locomotive waiting at the platform, soft morning light. Production note: children seen from behind, no faces, no name tags or labels; no readable signs or destination boards, no flags, no military insignia, no modern vehicles, no modern clothing, no plastic; anonymous ordinary people, 1940s clothing throughout.
 - **Bildtext:** *Children travel by train to new homes in the countryside.*
-- **Shutterstock-sökning:** `children evacuation train station suitcases 1940s illustration`
-- **AI-prompt (alternativ):** Warm historical illustration of a small town train platform in the early 1940s, a line of children in period coats holding small suitcases with name tags around their necks, a calm adult beside them, a steam locomotive waiting at the platform, soft morning light, calm faces, 1940s clothing throughout, no flags, no military insignia, no modern vehicles, no readable signs, no text, no letters.
+- **Shutterstock-sökning:** `children evacuation train station suitcases 1940s from behind illustration`
+- **AI-prompt (alternativ):** Warm historical illustration of a small town train platform in the early 1940s seen from behind, a line of children in period wool coats, caps, and knee socks standing with small suitcases, one child holding a small cloth toy, a calm adult beside them, a steam locomotive waiting at the platform, soft morning light, 1940s clothing throughout, children seen from behind, no faces, no name tags, no labels, no flags, no military insignia, no modern vehicles, no modern clothing, no plastic, no readable signs, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A closed ration book lies on a plain wooden kitchen table beside a small modest meal, a spoon and a simple cup, warm indoor light. The picture explains the word 'ration book'. Production note: the booklet cover is angled away or out of focus so no letters are readable; no branding; simple 1940s kitchenware only, no modern packaging.
+- **Motiv:** Vertical still life: a small plain booklet lies face down with a plain back cover, slightly out of focus, on a wooden kitchen table beside a small modest meal, a spoon and a simple cup, warm lamp light. The picture explains the word ration book. Production note: the booklet is closed and completely plain, no printing, no branding; simple 1940s kitchenware only, no modern packaging, no plastic.
 - **Bildtext:** *A ration book. It says how much food a family may buy.*
-- **Shutterstock-sökning:** `ration book closed booklet kitchen table 1940s still life`
-- **AI-prompt (alternativ):** Photorealistic still life of a closed ration booklet lying on a plain wooden kitchen table beside a small modest meal, a spoon and a simple cup, warm indoor lamp light, 1940s style plain kitchenware, the booklet cover angled away and out of focus so no letters are readable, no branding, no modern packaging, no text, no letters.
+- **Shutterstock-sökning:** `plain closed booklet kitchen table 1940s still life vertical`
+- **AI-prompt (alternativ):** Photorealistic vertical still life, a small plain booklet lies face down with a plain back cover, slightly out of focus, on a wooden kitchen table beside a small modest meal, a spoon and a simple cup, warm lamp light, 1940s plain kitchenware, no printing on the booklet, no branding, no modern packaging, no plastic, no text, no letters.
 
 ---
 
@@ -63,15 +64,16 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 > War X does not begin only in Europe.  
 > In Asia, Japan already fights a long war in China.  
-> In Europe, a dictator's armies conquer most of the continent in only two years.  
+> In Europe, a dictator's armies conquer most of the continent in two years.  
 > Then his armies invade the Soviet Union, a huge country to the east.  
-> Far away, Japan attacks ships in the Pacific, and the United States joins the war.  
+> Soon after, Japan attacks an American naval base in the Pacific.  
+> The United States joins the war.  
 > Now fighting truly covers most of the world.  
 > Deep inside the Soviet Union, one long battle becomes a turning point.  
-> In the Pacific, island by island, the tide slowly turns too.  
+> In the Pacific, a great sea battle turns the tide too.  
 > Soldiers from many countries land on the beaches of northern France.  
 > Steadily, armies push the dictator's forces back toward Germany.  
-> After six long years of war, Germany surrenders in 1945.  
+> After almost six years of war, Germany surrenders in 1945.  
 > **Which war is War X?**
 
 ### Svarsalternativ
@@ -90,17 +92,17 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Huvudbild
 
-- **Motiv:** Soldiers in 1940s uniforms and steel helmets wade ashore from a landing craft onto a wide beach at dawn, carrying packs and period rifles, more landing craft approaching behind them, grey morning light. Production note: no flags, no insignia, no unit markings, no visible blood or bodies, no modern vehicles; distant and calm framing, not graphic.
+- **Motiv:** Soldiers in plain 1940s wool uniforms and round steel helmets wade ashore from a flat-fronted landing craft onto a wide beach at dawn, carrying packs and bolt-action rifles, more landing craft approaching behind them, grey morning light. Production note: no modern assault rifles, no camouflage patterns, no helmet covers, no national flags or markings on the landing craft, no insignia, no unit markings, no visible blood or bodies, no modern vehicles, not a reproduction of any known photograph; distant and calm framing, not graphic.
 - **Bildtext:** *Soldiers from several countries land on a beach in northern France.*
 - **Shutterstock-sökning:** `soldiers landing craft beach dawn 1940s illustration`
-- **AI-prompt (alternativ):** Wide historical illustration of soldiers in 1940s uniforms and steel helmets wading ashore from a landing craft onto a wide beach at dawn, carrying packs and period rifles, more landing craft approaching behind them, grey morning light, distant calm framing, no visible blood, no bodies, no flags, no insignia, no unit markings, no modern vehicles, no text, no letters.
+- **AI-prompt (alternativ):** Wide historical illustration of soldiers in plain 1940s wool uniforms and round steel helmets wading ashore from a flat-fronted landing craft onto a wide beach at dawn, carrying packs and bolt-action rifles, more landing craft approaching behind them, grey morning light, distant calm framing, no modern assault rifles, no camouflage patterns, no helmet covers, no national flags or markings on the landing craft, no visible blood, no bodies, no insignia, no unit markings, no modern vehicles, not a reproduction of any known photograph, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A single soldier in a heavy 1940s winter coat stands amid the ruins of a snow-covered town at dusk, looking back over his shoulder, faint smoke rising in the distance. The picture explains the word 'turning point'. Production note: no bodies, no blood, no flags, no insignia; the ruin is generic rubble, not a recognizable real place; muted sombre light, not graphic.
+- **Motiv:** Vertical view across a wide frozen river at dawn, snow-covered banks in the foreground, the dark outlines of a damaged city far across the ice, faint smoke rising far away, muted grey-blue light, no people. The picture explains the word turning point: the long winter battle where the war changes direction. Production note: 1940s era buildings only, no modern towers, no vehicles, no bodies, no flags, no insignia, no readable signs; the city is generic, not a recognizable real place; muted sombre light, not graphic.
 - **Bildtext:** *After one long battle, the war slowly begins to change direction.*
-- **Shutterstock-sökning:** `soldier winter ruins snow dusk 1940s illustration`
-- **AI-prompt (alternativ):** Sombre vertical illustration of a lone soldier in a heavy 1940s winter coat and simple helmet standing amid the snow-covered ruins of a generic small town at dusk, looking back over his shoulder, faint smoke rising in the distance, muted grey-blue light, no bodies, no blood, no flags, no insignia, no readable signs, no text, no letters.
+- **Shutterstock-sökning:** `frozen river city dawn snow smoke distance winter 1940s illustration`
+- **AI-prompt (alternativ):** Sombre vertical illustration of a wide frozen river at dawn, snow-covered banks in the foreground, the dark outlines of a damaged generic city far across the ice, faint smoke rising far away, muted grey-blue light, no people, 1940s era buildings only, no modern towers, no vehicles, no bodies, no flags, no insignia, no readable signs, no text, no letters.
 
 ---
 
@@ -110,17 +112,18 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Korttext
 
-> In Germany, about eighty years ago, the dictator's government turns hatred into official policy.  
-> It blames Jewish people for the country's problems.  
+> In Germany, more than eighty years ago, a dictator takes power.  
+> His government spreads hatred and blames Jewish people for the country's problems.  
 > Step by step, new laws take away their rights and their safety.  
-> During the war, this hatred turns into organized mass murder.  
-> Soldiers force Jewish families into sealed city districts called ghettos.  
-> In the east, soldiers shoot large numbers of Jewish civilians.  
+> During the war, the dictator's state turns this hatred into organized mass murder.  
+> In occupied lands, it forces Jewish families into sealed districts called ghettos.  
+> In the east, its police and special units shoot huge numbers of Jewish civilians.  
 > The regime also builds camps whose only purpose is killing people.  
-> Roma people, disabled people, and other groups are murdered there too.  
-> In total, about six million Jewish people die in this genocide.  
-> Not everyone looks away. Some neighbours hide families at great risk.  
-> After the war, courts hold trials, gather documents, and hear survivors, so today we know what happened.  
+> Roma people are murdered there too, and so are other groups.  
+> Disabled people are murdered in special killing centers in Germany.  
+> In total, about six million Jewish people are murdered in this genocide.  
+> Not everyone looks away. Some neighbors hide families at great risk.  
+> After the war, survivors tell their stories, so today we know what happened.  
 > **Which war is War X?**
 
 ### Svarsalternativ
@@ -135,21 +138,21 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 - **ghetto** — *a closed off part of a city where a group of people is forced to live*
 - **genocide** — *the planned murder of a whole group of people because of who they are*
 - **regime** — *a government, especially one with great and often harsh power*
-- **civilian** — *a person who is not a soldier*
+- **survivor** — *a person who lives through something very dangerous*
 
 ### Huvudbild
 
-- **Motiv:** A wood-paneled courtroom shortly after the war: judges sit at a long high bench, a witness stands at a simple stand, rows of people take notes on blank notepads, tall windows let in daylight. Production note: no flags, no national emblems, no symbols of any kind, no faces resembling real historical persons, no readable text on any document or sign; calm, solemn, dignified mood.
-- **Bildtext:** *After the war, courts gather proof and listen to witnesses.*
-- **Shutterstock-sökning:** `postwar courtroom trial judges witness illustration`
-- **AI-prompt (alternativ):** Solemn historical illustration of a wood-paneled courtroom shortly after the war, judges seated at a long high bench, a witness standing at a simple stand, rows of people taking notes on blank notepads, tall windows with soft daylight, dignified calm mood, no flags, no national emblems, no symbols, no recognizable real persons, no readable text, no letters.
+- **Motiv:** A narrow attic room under a sloping roof in the early 1940s: a woman in a plain dress and apron, seen from behind, sets a tray with bread and a jug on a small table, a narrow bed with a folded blanket, a bookcase pushed aside to reveal a low hidden door, thin daylight through one small window. The picture shows neighbors who hide families at great risk. Production note: 1940s plain wooden furniture and clothing only, no modern objects, no electric appliances, no faces visible, no symbols of any kind, no readable text on any book spine or paper; calm, quiet, dignified mood.
+- **Bildtext:** *Some neighbors hide families in secret rooms, at great risk.*
+- **Shutterstock-sökning:** `hidden attic room bookcase secret door 1940s woman tray illustration`
+- **AI-prompt (alternativ):** Quiet historical illustration of a narrow attic room under a sloping roof in the early 1940s, a woman in a plain dress and apron seen from behind setting a tray with bread and a jug on a small table, a narrow bed with a folded blanket, a bookcase pushed aside to reveal a low hidden door, thin daylight through one small window, calm dignified mood, 1940s plain wooden furniture and clothing only, no modern objects, no electric appliances, no faces visible, no symbols, no readable text on book spines, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A quiet aerial-angle view of an old European city block enclosed by a tall plain wall, narrow streets and rooftops visible inside, the rest of the city spreading beyond the wall, soft grey daylight. The picture explains the word 'ghetto'. Production note: no people visible up close, no distress, no damage or fire, no readable signs or street names; respectful and factual, not frightening.
+- **Motiv:** A quiet aerial-angle view of an old European city block in the 1940s enclosed by a tall plain wall, narrow streets and tiled rooftops visible inside, the rest of the city spreading beyond the wall, soft grey daylight. The picture explains the word ghetto. Production note: 1940s cityscape only, no modern cars, no antennas, no glass towers; no people visible up close, no distress, no damage or fire, no readable signs or street names; respectful and factual, not frightening.
 - **Bildtext:** *A part of the city is closed off behind a wall. Families are forced to live inside.*
 - **Shutterstock-sökning:** `old european city block walled district aerial view illustration`
-- **AI-prompt (alternativ):** Quiet aerial-angle illustration of an old European city block enclosed by a tall plain wall, narrow streets and rooftops visible inside, the rest of the city spreading beyond the wall under soft grey daylight, respectful factual mood, no people visible up close, no damage, no fire, no signs, no text, no letters.
+- **AI-prompt (alternativ):** Quiet aerial-angle illustration of an old European city block in the 1940s enclosed by a tall plain wall, narrow streets and tiled rooftops visible inside, the rest of the city spreading beyond the wall under soft grey daylight, respectful factual mood, 1940s cityscape only, no modern cars, no antennas, no glass towers, no people visible up close, no damage, no fire, no signs, no text, no letters.
 
 ---
 
@@ -159,13 +162,13 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Korttext
 
-> This war reaches almost every part of the world, not only Europe.  
-> Millions of soldiers from Africa and India fight for the empires that rule them.  
-> Soldiers and workers from the Caribbean and Latin America join the war too.  
-> At home, with men away, women take new jobs building weapons and bombers.  
-> Bombers attack cities on every side, and civilians suffer terribly.  
+> War X reaches almost every part of the world, not only Europe.  
+> Millions of soldiers from Africa and India fight for the empires ruling them.  
+> Soldiers and workers from the Caribbean and Latin America join too.  
+> At home, women take new jobs building weapons and bombers.  
+> Bombers attack cities on every side, and many civilians die.  
 > In August 1945, two powerful new bombs destroy two cities in Japan.  
-> About two hundred thousand people die from these two bombs by the end of that year.  
+> By the end of that year, about two hundred thousand people are dead.  
 > Days later, Japan surrenders, and the fighting finally stops everywhere.  
 > In total, historians count more than sixty million dead.  
 > Most of them are not soldiers, but ordinary civilians.  
@@ -187,17 +190,17 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Huvudbild
 
-- **Motiv:** A group of soldiers of visibly different backgrounds rest together at a military camp, sitting on crates and folding stools, drinking from tin mugs, canvas tents and simple gear behind them, warm afternoon light. Production note: no flags, no insignia, no unit badges, no weapons raised; calm, respectful, ordinary mood; 1940s uniforms and gear only.
+- **Motiv:** A group of soldiers of visibly different backgrounds rest together at a military camp, sitting on wooden crates and folding stools, drinking from tin mugs, canvas tents and simple gear behind them, warm afternoon light. Production note: 1940s plain wool uniforms and gear only, no modern weapons, no camouflage patterns, no flags, no insignia, no unit badges, no weapons raised; calm, respectful, ordinary mood.
 - **Bildtext:** *Soldiers from many parts of the world serve far from home.*
 - **Shutterstock-sökning:** `soldiers rest camp diverse 1940s tin mugs illustration`
-- **AI-prompt (alternativ):** Warm historical illustration of a group of soldiers of visibly different backgrounds resting together at a military camp, sitting on crates and folding stools, drinking from tin mugs, canvas tents and simple gear behind them, warm afternoon light, calm ordinary mood, 1940s uniforms only, no flags, no insignia, no unit badges, no weapons raised, no text, no letters.
+- **AI-prompt (alternativ):** Warm historical illustration of a group of soldiers of visibly different backgrounds resting together at a military camp, sitting on wooden crates and folding stools, drinking from tin mugs, canvas tents and simple gear behind them, warm afternoon light, calm ordinary mood, 1940s plain wool uniforms only, no modern weapons, no camouflage patterns, no flags, no insignia, no unit badges, no weapons raised, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** Inside a large factory hall, women in headscarves and overalls work together assembling the nose section of a large propeller aircraft, tools and rivets in hand, bright overhead lights. The picture explains the word 'bomber'. Production note: no readable factory signs, no company names, no national markings on the aircraft; period 1940s overalls and tools only; busy but calm mood.
+- **Motiv:** Vertical view inside a large factory hall: the nose section of a large 1940s propeller aircraft rises through the frame, women in headscarves and overalls work on wooden scaffolding around it, tools and rivets in hand, bright overhead lights. The picture explains the word bomber. Production note: 1940s propeller aircraft, overalls, and hand tools only, no jet engines, no modern machines; no readable factory signs, no company names, no national markings on the aircraft; busy but calm mood.
 - **Bildtext:** *Women build large aircraft in factories while the men are away.*
-- **Shutterstock-sökning:** `women factory workers aircraft assembly 1940s illustration`
-- **AI-prompt (alternativ):** Detailed illustration of a large factory hall where women in headscarves and overalls work together assembling the nose section of a large propeller aircraft, tools and rivets in hand, bright overhead lights, busy calm mood, 1940s clothing and tools, no readable signs, no company names, no national markings, no text, no letters.
+- **Shutterstock-sökning:** `women factory workers aircraft assembly 1940s vertical illustration`
+- **AI-prompt (alternativ):** Detailed vertical illustration inside a large factory hall, the nose section of a large 1940s propeller aircraft rising through the frame, women in headscarves and overalls working on wooden scaffolding around it, tools and rivets in hand, bright overhead lights, busy calm mood, 1940s clothing and hand tools, no jet engines, no modern machines, no readable signs, no company names, no national markings, no text, no letters.
 
 ---
 
@@ -207,17 +210,18 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Korttext
 
-> Historians still argue about the exact number of dead in this war.  
+> Historians still argue about the exact number of dead in War X.  
 > Estimates range from about fifty million to about eighty million people.  
-> Records in some countries are incomplete, destroyed, or were never made.  
-> After the war, international courts meet in Nuremberg and in Tokyo to try former leaders.  
-> Judges from the winning countries hear evidence of terrible crimes.  
-> Historians still debate whether the two atomic bombs were necessary or right.  
+> In some countries, records are incomplete, lost, or never kept.  
+> After the war, courts in Nuremberg and Tokyo try the former leaders.  
+> Judges from the winning countries hear evidence of war crimes and mass murder.  
+> Historians also debate the two atomic bombs dropped on Japan.  
 > Some argue the bombs saved lives by ending the war quickly.  
 > Others argue that the war was already close to its end.  
+> They add that the Soviet attack on Japan mattered too.  
 > Museums, memorials, and survivor testimony keep the memory of the war alive.  
-> A small number of people falsely deny that the genocide ever happened.  
-> Historians answer this denial with documents, photographs, and survivor testimony.  
+> A few people falsely deny the genocide of six million Jewish people.  
+> Historians answer with documents, photographs, and the words of survivors.  
 > **Which war is War X?**
 
 ### Svarsalternativ
@@ -236,17 +240,16 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 ### Huvudbild
 
-- **Motiv:** A quiet research room with long tables covered in stacks of aged document folders and boxes, a historian in modern clothing reads a folder under a warm desk lamp, shelves of archive boxes line the walls. Production note: no readable text on any document, no photographs with visible faces, calm studious mood, warm lamp light.
+- **Motiv:** A quiet research room with long tables covered in stacks of aged document folders and boxes, a historian in modern clothing reads a folder under a warm desk lamp, shelves of archive boxes line the walls. Production note: no readable text or labels on any document, folder, or box, no photographs with visible faces, calm studious mood, warm lamp light.
 - **Bildtext:** *Historians study old documents to understand what really happened.*
 - **Shutterstock-sökning:** `historian archive research documents boxes desk lamp illustration`
-- **AI-prompt (alternativ):** Photorealistic image of a quiet research room with long tables covered in stacks of aged document folders and boxes, a historian in modern clothing reading a folder under a warm desk lamp, shelves of archive boxes lining the walls, calm studious mood, no readable text on any document, no visible faces in any photograph, no text, no letters.
+- **AI-prompt (alternativ):** Photorealistic image of a quiet research room with long tables covered in stacks of aged document folders and boxes, a historian in modern clothing reading a folder under a warm desk lamp, shelves of archive boxes lining the walls, calm studious mood, no readable text on any document, folder, or box, no visible faces in any photograph, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A plain stone memorial wall stands in a quiet park, a few small stones and flowers placed at its base, bare trees behind, soft overcast light, seen from a respectful distance. The picture explains the word 'memorial'. Production note: no readable names or inscriptions on the wall, no national symbols, no people close to the camera, calm respectful mood.
+- **Motiv:** Vertical view of a quiet memorial field: rows of small, smooth, plain white stones set in short grass, a few flowers laid beside some of them, bare trees behind, soft overcast light, seen from a respectful distance. The picture explains the word memorial. Production note: the stones are smooth and completely plain, no inscriptions, no carved shapes, no crosses or other religious or national symbols, no people close to the camera, calm respectful mood.
 - **Bildtext:** *A quiet memorial helps people remember those who died.*
-- **Shutterstock-sökning:** `stone memorial wall park quiet flowers illustration`
-- **AI-prompt (alternativ):** Photorealistic image of a plain stone memorial wall in a quiet park, a few small stones and flowers placed at its base, bare trees behind, soft overcast light, seen from a respectful distance, calm mood, no readable names or inscriptions, no national symbols, no people close to the camera, no text, no letters.
+- **Shutterstock-sökning:** `memorial field rows small plain white stones grass bare trees vertical`
+- **AI-prompt (alternativ):** Photorealistic vertical image of a quiet memorial field, rows of small smooth plain white stones set in short grass, a few flowers laid beside some of them, bare trees behind, soft overcast light, seen from a respectful distance, calm mood, stones completely plain, no inscriptions, no carved shapes, no crosses, no religious or national symbols, no people close to the camera, no text, no letters.
 
 ---
-
