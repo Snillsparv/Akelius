@@ -3724,6 +3724,815 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 
 </details>
 
+### Industriella revolutionen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — From wheel to mill by the river</summary>
+
+> Revolution X begins in Britain about 250 years ago.  
+> At first, women spin cotton thread by hand at home.  
+> They turn a small wheel next to the fire.  
+> New machines can spin much more thread at once.  
+> Workers build a large mill beside a river.  
+> A big wheel in the river turns the machines inside.  
+> Later, a new engine burns coal for power instead.  
+> Now a mill does not need a river nearby.  
+> A town in the north of England grows very fast.  
+> Thousands of people move there to work in the mills.  
+> Tall chimneys rise over the town, and smoke fills the sky.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Agricultural Revolution · ✅ The Industrial Revolution · ⬜ The Scientific Revolution · ⬜ The French Revolution
+
+**Ord:** *spin* — to turn cotton or wool into long thread · *mill* — a large building full of machines that make cloth · *engine* — a machine that makes power from burning fuel · *chimney* — a tall pipe that carries smoke up into the sky
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Twelve hours in the mill</summary>
+
+> About 200 years ago, Revolution X changes life for working families.  
+> Children as young as six work inside the mills.  
+> A working day often lasts twelve to fourteen hours.  
+> Small children crawl under moving machines to sweep up loose cotton.  
+> Other children work far underground, pulling carts of coal in mines.  
+> Families move from small villages into fast-growing cities.  
+> Many of them live crowded together in one small room.  
+> There is little clean water, and sickness spreads fast.  
+> A disease called cholera kills tens of thousands in poor city streets.  
+> Slowly, new laws limit how young a working child can be.  
+> Workers also start to join together in groups called unions.  
+> Together, they ask for shorter days and safer machines.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The French Revolution · ✅ The Industrial Revolution · ⬜ The Agricultural Revolution · ⬜ The American Revolution
+
+**Ord:** *mine* — a deep hole or tunnel where workers dig out coal · *cholera* — a dangerous disease that spreads through dirty water · *union* — a group of workers who join together to ask for better and safer work · *crowded* — full of too many people in a small space
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — The engine that changes distance</summary>
+
+> Revolution X depends on a new kind of engine.  
+> Earlier engines already pump water out of coal mines.  
+> An engineer named Watt makes this kind of engine far better.  
+> He receives a patent for his improved engine about 250 years ago.  
+> Mines and ironworks use his engines from the 1770s.  
+> From the 1780s, his engines also turn machines in mills.  
+> Britain also mines huge amounts of coal and iron.  
+> Workers first move heavy goods along new canals by boat.  
+> In 1830, the first passenger railway links two English cities.  
+> A steam engine now pulls both passengers and goods.  
+> Soon, steam also powers ships on wide rivers and across oceans.  
+> Journeys that once took days can now take only hours.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Scientific Revolution · ⬜ The Agricultural Revolution · ✅ The Industrial Revolution · ⬜ The Digital Revolution
+
+**Ord:** *engineer* — a person who designs and builds machines or structures · *patent* — an official paper that gives one person the right to an invention · *canal* — a waterway that people dig for boats to travel on · *passenger* — a person who travels in a vehicle but does not drive it
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Cotton from three continents</summary>
+
+> Revolution X starts in Britain, but it soon changes the whole world.  
+> British mills need huge amounts of raw cotton every year.  
+> Enslaved workers in the southern United States pick most of it.  
+> Farmers in India and Egypt also grow cotton for British mills.  
+> For centuries, skilled weavers in India make fine cotton cloth by hand.  
+> Now cheap cloth from British mills floods their local markets.  
+> Many Indian weavers slowly lose their work and their income.  
+> Other countries soon build mills and factories of their own.  
+> Belgium and parts of Germany build mills within a few decades.  
+> The United States and later Japan follow a similar path.  
+> Everywhere, burning coal sends smoke and gas into the air.  
+> Over two centuries, this gas slowly warms the whole planet.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Scientific Revolution · ⬜ The American Revolution · ✅ The Industrial Revolution · ⬜ The Agricultural Revolution
+
+**Ord:** *enslaved* — forced to work without pay and owned by another person · *weaver* — a person who makes cloth from thread, often by hand · *income* — the money a person earns from work · *decade* — a period of ten years
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Revolution or slow change?</summary>
+
+> Historians even argue about the word revolution itself.  
+> Some changes come fast, like the first steam railways.  
+> But many other changes take a full century to spread.  
+> So some historians prefer to speak of slow, steady change.  
+> Others still call it a true revolution in how people live.  
+> A second question asks why this begins in Britain first.  
+> Britain has coal, money to invest, and colonies for raw goods.  
+> It also has wide markets and, some say, well-paid workers.  
+> Historians compare Britain with wealthy regions in China at the time.  
+> Some historians say both regions look similarly advanced for a long time.  
+> Then their paths separate, and historians call this the great divergence.  
+> Historians read factory inspectors' reports, church records, and old wage lists.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ✅ The Industrial Revolution · ⬜ The Scientific Revolution · ⬜ The Agricultural Revolution · ⬜ The French Revolution
+
+**Ord:** *historian* — a person who studies and writes about the past · *colony* — a land ruled and used by another, more powerful country · *divergence* — the point where two similar things start to become very different · *inspector* — a person whose job is to check that rules are followed
+
+</details>
+
+### Charles Darwin
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Beetles, Seasickness, and Five Years at Sea</summary>
+
+> Mr X is a young man in Britain, almost 200 years ago.  
+> He studies medicine in Edinburgh but hates it.  
+> Blood and pain make him feel sick.  
+> He collects rare beetles as a hobby.  
+> His father wants him to work for the church instead.  
+> Then a ship captain invites him to sail.  
+> The small ship sails around the whole world.  
+> The long voyage lasts almost five years.  
+> Mr X feels seasick almost every day at sea.  
+> On islands in the Pacific, he meets giant tortoises.  
+> He also sees strange birds that live nowhere else.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Charles Darwin · ⬜ Alfred Russel Wallace · ⬜ Louis Pasteur · ⬜ Carl Linnaeus
+
+**Ord:** *beetle* — a small insect with a hard shiny cover over its wings · *voyage* — a long journey by ship · *seasick* — feeling sick because a ship moves on the waves · *tortoise* — a slow animal with a hard shell that walks on land
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Twenty Years of Notebooks and a Letter from Asia</summary>
+
+> Mr X returns to England after five years at sea.  
+> For years, he thinks about living things and change.  
+> He notices something: animals fit their surroundings well.  
+> Animals that fit well survive and have young.  
+> Over a very long time, this slowly changes all living things.  
+> Mr X calls this idea natural selection.  
+> He fills notebook after notebook with his ideas.  
+> Twenty years pass, and he tells almost nobody.  
+> Then a letter arrives from a naturalist in Asia.  
+> That man, Wallace, has the very same idea.  
+> The next year, Mr X finally publishes his famous book.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Charles Darwin · ⬜ Alfred Russel Wallace · ⬜ Jean-Baptiste Lamarck · ⬜ Gregor Mendel
+
+**Ord:** *survive* — to stay alive · *natural selection* — nature lets the best-fitting animals and plants survive and have young · *naturalist* — a person who studies plants, animals, and nature
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Pigeons, Barnacles, and Patient Experiments</summary>
+
+> More than 150 years ago, Mr X works quietly at home in England.  
+> He breeds many different kinds of pigeons himself.  
+> Breeders already change pigeons a lot by choosing parents.  
+> Mr X wonders if nature chooses in the same way.  
+> For eight long years, he studies tiny sea barnacles.  
+> He carefully describes every known kind of barnacle.  
+> In his garden, he studies unusual orchid flowers.  
+> He watches how earthworms slowly move soil under grass.  
+> He works alone and patiently tests idea after idea.  
+> He writes many letters to farmers and gardeners.  
+> Slowly, many small experiments at home support one big idea.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Gregor Mendel · ✅ Charles Darwin · ⬜ Carl Linnaeus · ⬜ Jean-Baptiste Lamarck
+
+**Ord:** *breed* — to keep animals or plants so they have young with chosen traits · *barnacle* — a small sea animal that sticks tightly to rocks or ships · *orchid* — a flower with an unusual shape, often grown for its beauty
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Debate in Oxford, Retold Many Ways</summary>
+
+> In 1859, Mr X publishes a book that changes science.  
+> It says that all living things slowly change over time.  
+> Many people read it, and a big argument starts.  
+> The next year, scholars debate the book in Oxford.  
+> A bishop and a scientist argue in front of a crowd.  
+> Later writers describe the debate in different ways.  
+> Even people who are there remember the words differently.  
+> Some religious leaders feel angry about the new idea.  
+> Other believers see no conflict with their own faith.  
+> Mr X himself stays quietly at home, often unwell.  
+> He dies more than twenty years later, old and respected.  
+> He is buried with honor in Westminster Abbey.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Galileo Galilei · ⬜ Isaac Newton · ✅ Charles Darwin · ⬜ Louis Pasteur
+
+**Ord:** *bishop* — a senior leader in the Christian church · *debate* — a formal argument between people with different views · *faith* — strong belief, often in God or a religion
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — A Tree Sketch, a Second Discoverer, and a Misused Legacy</summary>
+
+> Mr X visits Pacific islands as a young man.  
+> Later stories say finches teach him everything at once.  
+> In fact, he hardly notes which island each finch comes from.  
+> Mockingbirds interest him more at the time.  
+> Later scientists and school books shape the famous finch story.  
+> In the 1980s, a historian shows the story is a legend.  
+> Some historians ask if Wallace, another naturalist, deserves more credit.  
+> We know his ideas from notebooks and many letters.  
+> One page from 1837 shows a small sketch of a tree.  
+> Above the sketch, he writes two words: I think.  
+> Other men later misuse his ideas to excuse racism.  
+> He never calls for such policies himself.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Alfred Russel Wallace · ✅ Charles Darwin · ⬜ Carl Linnaeus · ⬜ Jean-Baptiste Lamarck
+
+**Ord:** *legend* — a well-known story that is not fully true · *naturalist* — a person who studies plants, animals, and nature · *sketch* — a quick, simple drawing · *credit* — praise or recognition for doing something
+
+</details>
+
+### Karl Marx
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Writer in a Cold Room</summary>
+
+> Mr X lives in a small flat in London, about 175 years ago.  
+> Before that, in Germany, the government closes his newspaper, so he leaves.  
+> Every day, Mr X sits at a small table and writes.  
+> He writes about poor workers and rich factory owners.  
+> The workers do the work, he says, but the owners get rich.  
+> The family is very poor, and the flat is cold in winter.  
+> Some of his children become sick and die.  
+> His good friend Friedrich Engels lives in Manchester.  
+> The Engels family owns part of a big cotton mill.  
+> Friedrich sends money again and again, so the family can eat.  
+> Mr X keeps writing, year after year.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Friedrich Engels · ✅ Karl Marx · ⬜ Charles Dickens · ⬜ Adam Smith
+
+**Ord:** *government* — the group of people who rule a country · *cotton* — a soft plant fibre used to make cloth · *mill* — a big factory, here one that spins cotton into thread
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Small Book for the Workers</summary>
+
+> Mr X lives in Brussels, in Belgium.  
+> It is the year 1848.  
+> With a friend who worked in Manchester, he writes a short book.  
+> It is for a small group of workers.  
+> The book says: history is a story of struggle.  
+> In every age, some people own the tools and the land.  
+> Other people work for them, for low pay.  
+> The book calls this a struggle between classes.  
+> It ends with a call: workers of all lands, unite!  
+> The book is short, cheap, and easy to print.  
+> At first, almost no one reads it.  
+> Much later, it becomes one of the most printed books ever.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Robert Owen · ⬜ Vladimir Lenin · ✅ Karl Marx · ⬜ Georg Hegel
+
+**Ord:** *struggle* — a hard fight to get or keep something · *class* — a group of people with a similar place in society · *unite* — to join together as one group
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Where Does Profit Come From?</summary>
+
+> Mr X studies in the reading room of a great London museum.  
+> He reads there year after year to write a huge new book.  
+> The book comes out about 160 years ago.  
+> It asks a hard question: where does profit come from?  
+> A worker makes goods worth more than his pay, the book says.  
+> The owner of the factory keeps the extra value.  
+> Mr X calls this extra value surplus.  
+> For proof, he reads real government reports.  
+> The reports describe men, women, and children at the machines.  
+> Many work twelve hours a day or more.  
+> The book is thick, and few people finish it while he is alive.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Karl Marx · ⬜ Adam Smith · ⬜ John Stuart Mill · ⬜ Friedrich Engels
+
+**Ord:** *profit* — money a business earns above its costs · *value* — how much something is worth · *surplus* — an amount left over, more than what is needed
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Man Who Cannot Go Home</summary>
+
+> Mr X is born more than 200 years ago in Trier.  
+> Trier is a town in Prussia, a German state.  
+> His family has Jewish roots, and his father is a lawyer.  
+> Mr X studies law and philosophy in Bonn and Berlin.  
+> Then he becomes the editor of a newspaper.  
+> After a few months, the government closes the newspaper.  
+> He leaves the country and lives most of his life in exile.  
+> He lives first in Paris, then in Brussels, then in London.  
+> His wife Jenny comes from a noble family in Germany.  
+> Jenny copies his messy handwriting into clean pages for the printer.  
+> He dies more than 140 years ago.  
+> Only about eleven people come to his funeral.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Georg Hegel · ⬜ Friedrich Engels · ⬜ Charles Dickens · ✅ Karl Marx
+
+**Ord:** *editor* — a person who runs a newspaper and decides what it prints · *exile* — living away from your home country, often because you cannot go back · *noble* — belonging to a family of high rank
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — A Name That Outlives the Man</summary>
+
+> Mr X writes about history, work, and money, more than 150 years ago.  
+> He dies more than 140 years ago.  
+> Later, in the twentieth century, states in Russia and China take his name.  
+> These states rule with violence and famine that Mr X never sees.  
+> Historians ask a hard question: how much of this is his fault?  
+> Many historians separate the thinker from the later movements named after him.  
+> His old friend Friedrich Engels later reports one sentence.  
+> Some followers in France use his name for their ideas.  
+> Mr X says about them: I am not one of them.  
+> No one else records this sentence, so historians treat it with care.  
+> Today, some economists still study his idea of crisis in the market.  
+> Many historians say the future does not turn out as he expects.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Vladimir Lenin · ✅ Karl Marx · ⬜ Friedrich Engels · ⬜ Georg Hegel
+
+**Ord:** *famine* — a time when many people have little or no food · *movement* — a group of people who work together for one big idea · *economist* — a person who studies money, work, and trade · *crisis* — a very hard and dangerous time, often in money or the economy
+
+</details>
+
+### Amerikanska revolutionen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Tea in the harbor</summary>
+
+> Revolution X begins about 250 years ago.  
+> Thirteen colonies sit on the east coast of North America.  
+> Settlers there live under a king who rules from far away.  
+> His country has just ended a long, costly war.  
+> He needs money, so his parliament puts new taxes on the colonies.  
+> The colonists have no voice in his faraway parliament.  
+> No taxation without representation, they say.  
+> One cold night, colonists board three ships in the harbor of Boston.  
+> They break open chests of tea and dump it into the water.  
+> The king's government answers with harsh new laws.  
+> Anger now spreads fast across all thirteen colonies.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Glorious Revolution · ✅ The American Revolution · ⬜ The French Revolution · ⬜ The Industrial Revolution
+
+**Ord:** *colonies* — lands ruled by another, faraway country · *parliament* — a group of people who make the laws of a country · *taxes* — money that people must pay to their government · *representation* — having someone who speaks and votes for you
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A declaration, and a war</summary>
+
+> Revolution X turns into full war about 250 years ago.  
+> Colonists take up arms against the king's soldiers.  
+> A tall general from Virginia leads the colonial army.  
+> Representatives from all thirteen colonies meet.  
+> In 1776, they declare independence from the king.  
+> Their declaration states that all men are created equal.  
+> Yet about one in five people in the colonies live enslaved.  
+> The declaration does not free them.  
+> Some colonists disagree with the revolt and stay loyal to the king.  
+> The new nation must now win its independence in war.  
+> The king's army is strong, and the war lasts for years.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Russian Revolution · ⬜ The Haitian Revolution · ✅ The American Revolution · ⬜ The Glorious Revolution
+
+**Ord:** *representatives* — people chosen to speak and act for a group · *declare* — to say something clearly and officially · *enslaved* — forced to work for no pay and with no freedom · *loyal* — staying faithful and true to someone
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Whose liberty?</summary>
+
+> Revolution X promises liberty to the colonies.  
+> But that liberty is not equal for everyone.  
+> Most enslaved people gain nothing from the new liberty.  
+> Some northern states begin to end slavery slowly, but the south keeps it.  
+> Free women support the cause with money, letters, and even secret spying.  
+> Still, almost no woman gains the right to vote.  
+> Loyalists, who wish to stay under the king, become outsiders overnight.  
+> Tens of thousands leave for Canada or Britain, losing land and property.  
+> Most Native nations along the frontier side with the king during the war.  
+> They fear that independent settlers will take even more of their land.  
+> After the war, that fear comes true again and again.  
+> So the liberty of some becomes the loss of others.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ✅ The American Revolution · ⬜ The Mexican Revolution · ⬜ The Industrial Revolution · ⬜ The Haitian Revolution
+
+**Ord:** *liberty* — freedom to live and choose as you wish · *loyalists* — people who stay faithful to the old king · *frontier* — the edge of settled land, close to the wild land beyond · *property* — land or things that a person owns
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A costly rescue at sea</summary>
+
+> After two years of war, Revolution X is going badly for the colonies.  
+> The colonial army loses battle after battle.  
+> It is often short of food, pay, and supplies.  
+> Then the colonists win a big battle in the north.  
+> Now France decides to help, partly to weaken its old rival across the sea.  
+> The next year, French ships, soldiers, weapons, and money arrive.  
+> Three years later, French warships trap the king's army near the coast.  
+> Surrounded by land and sea, that army finally surrenders.  
+> The colonies have now won their war.  
+> But helping costs the French king enormous sums of money.  
+> His treasury sinks even deeper into debt.  
+> That royal debt soon helps cause serious trouble back home too.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Mexican Revolution · ✅ The American Revolution · ⬜ The Russian Revolution · ⬜ The Glorious Revolution
+
+**Ord:** *rival* — a country or person competing against another · *surrenders* — stops fighting and admits defeat · *treasury* — the money and wealth that a government or king controls · *debt* — money that you owe and must pay back
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — One revolution's long echo</summary>
+
+> Historians still debate the true impact of Revolution X.  
+> Is it a true revolution, or only a change of rulers?  
+> The new republic replaces a distant king with elected leaders.  
+> Yet plantation slavery grows for decades after.  
+> Freedom of religion and a free press become law, new ideas for the time.  
+> A written constitution, ratified in the 1780s, still shapes government today.  
+> Its early history relies on letters, diaries, and army records, many saved by chance.  
+> Newspapers of the time already tell the story differently, depending on who prints them.  
+> One generation later, the idea inspires new fighters far to the south.  
+> In South America, a general named Simón Bolívar reads about the northern revolt.  
+> He leads years of war so his own homeland can also become independent.  
+> So one revolution's words echo across a continent, long after Revolution X itself ends.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The French Revolution · ⬜ The Industrial Revolution · ✅ The American Revolution · ⬜ The Haitian Revolution
+
+**Ord:** *ratified* — officially approved and accepted · *republic* — a country led by chosen leaders, not a king · *inspires* — gives someone else a new idea or wish to act · *homeland* — the country where a person is born and belongs
+
+</details>
+
+### George Washington
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The General Who Will Not Quit</summary>
+
+> General X grows up on a farm in Virginia.  
+> As a young man, he works as a surveyor.  
+> He walks through forests and measures wild land as his job.  
+> Years later, thirteen colonies in North America rise up against the British king.  
+> Leaders choose General X to lead their new army.  
+> His soldiers are mostly farmers, not trained soldiers.  
+> In many early battles, his army must retreat.  
+> On a freezing Christmas night, he crosses an icy river in the dark.  
+> His tired men win a small battle early the next morning.  
+> The next winter, his army camps in cold and mud with little food.  
+> About two thousand of his soldiers die from sickness and cold that winter.  
+> General X stays with his men, and the army holds together.  
+> **Who is General X?**
+
+**Svar:** ⬜ Napoleon Bonaparte · ✅ George Washington · ⬜ Simón Bolívar · ⬜ Alexander Hamilton
+
+**Ord:** *surveyor* — a person whose job is to measure and map land · *colonies* — lands ruled by a country far away, across the sea · *retreat* — to move back and away from a battle, not forward
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The General Who Gives Back His Command</summary>
+
+> Mr X leads thirteen colonies in a long war against their British king.  
+> Near the end of the war, one of his officers writes him a letter.  
+> The officer suggests that Mr X should become a king.  
+> Mr X refuses at once, angry at the idea.  
+> The colonies win the war, with important help from France.  
+> Many expect Mr X to become the most powerful man in the land.  
+> Instead, he goes in uniform to the new lawmakers and hands back his commission.  
+> He gives up all his power and goes home to his farm.  
+> Across Europe, people are amazed: a winning general who does not want to rule.  
+> A few years later, leaders choose him as the country's first president.  
+> After two terms, he steps down and goes home again.  
+> Today, the capital of his country carries his name.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ John Adams · ⬜ Thomas Jefferson · ✅ George Washington · ⬜ Benjamin Franklin
+
+**Ord:** *commission* — the official paper that gives an officer his rank and command · *term* — a fixed period of years in a job like president · *capital* — the main city of a country, where its leaders work · *refuse* — to say no, and mean it
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A Farm Built on Slavery</summary>
+
+> Mr X owns a large farm called Mount Vernon, in Virginia.  
+> Hundreds of enslaved people live and work there, forced and unpaid.  
+> Mr X personally owns more than one hundred of these people.  
+> One enslaved woman named Ona works as his wife's personal maid.  
+> While Mr X serves as the country's first president, Ona plans her escape.  
+> She flees north to a city and never goes back.  
+> Mr X tries hard to find her and bring her back.  
+> Ona is never caught.  
+> She lives free in a northern town for the rest of her life.  
+> In his will, Mr X gives an order: free the people I own.  
+> But the will delays this until his wife also dies.  
+> Historians see him as both a founder and an enslaver.  
+> **Who is Mr X?**
+
+**Svar:** ✅ George Washington · ⬜ Thomas Jefferson · ⬜ Abraham Lincoln · ⬜ Benjamin Franklin
+
+**Ord:** *enslaved* — forced to work for no pay and with no freedom, as property · *will* — a paper that says what happens to a person's things after they die · *escape* — to get away and become free
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Shot in the Forest, a World at War</summary>
+
+> As a young officer, Mr X serves the British in North America.  
+> Britain and France both want the same forest land, further west.  
+> Mr X and his Native allies lead a small group into the forest.  
+> In a short, sudden fight, several French soldiers are killed.  
+> Weeks later, young Mr X must surrender a small fort to French forces.  
+> This small clash in the forest helps start a much bigger war.  
+> Soon Britain and France fight each other on several continents.  
+> Years later, the colonies rise up, and Mr X leads their new army.  
+> Now France becomes his key ally against the British king.  
+> Near a coastal town, Mr X and French troops trap a British army.  
+> A French fleet blocks the sea, so no escape is possible by water.  
+> The trapped army surrenders, and Britain soon starts to seek peace.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Napoleon Bonaparte · ⬜ Alexander Hamilton · ⬜ John Adams · ✅ George Washington
+
+**Ord:** *ally* — a country or group that fights on your side · *surrender* — to stop fighting and admit defeat · *fleet* — a large group of warships that sail together
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Cherry Tree That Never Was</summary>
+
+> Mr X dies at the end of the eighteenth century.  
+> A few years later, a preacher and writer publishes a short book about him.  
+> The book tells a sweet story: young Mr X damages a cherry tree.  
+> When his father asks who did it, the boy says: I cannot tell a lie.  
+> No letter, diary, or witness from Mr X's own lifetime mentions this story.  
+> Historians agree: the writer most likely invents the whole scene.  
+> Still, generations of children learn the story as if it is true.  
+> The new nation wants a perfect founding hero, honest and brave.  
+> Historians instead study his letters and account books.  
+> These pages record daily details, from crops sold to money spent.  
+> From small, dry facts, historians slowly rebuild a truer picture of his life.  
+> This picture is less simple than the cherry tree story.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Abraham Lincoln · ✅ George Washington · ⬜ Thomas Jefferson · ⬜ John Adams
+
+**Ord:** *invent* — to make up something that is not true or real · *witness* — a person who sees an event happen and can tell about it · *generations* — groups of people born and living around the same time
+
+</details>
+
+### Franska revolutionen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Not enough bread</summary>
+
+> Revolution X begins in France in 1789, almost 240 years ago.  
+> Bad harvests make bread very expensive.  
+> Poor families cannot buy enough food.  
+> Society here has three big groups, called estates.  
+> The first estate is priests, and the second is nobles.  
+> The third estate is everyone else, almost everybody.  
+> The third estate pays nearly all the taxes.  
+> Anger grows over hunger and unfair taxes.  
+> In Paris, the capital city, a crowd gathers.  
+> The crowd attacks an old fortress used as a prison.  
+> Only seven prisoners are inside the huge building.  
+> The crowd breaks in and takes the gunpowder stored there.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The American Revolution · ✅ The French Revolution · ⬜ The Russian Revolution · ⬜ The Industrial Revolution
+
+**Ord:** *estate* — one of the big social groups in an old kingdom · *noble* — a person born into a rich, powerful family · *fortress* — a strong building built to defend against attack · *tax* — money that people must pay to a government
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A king tries to run</summary>
+
+> In France, Revolution X is only a few months old.  
+> A new parliament takes power from the king.  
+> Nobles must give up their old special rights.  
+> The rich must now pay taxes too.  
+> The parliament then writes a declaration of rights.  
+> All men are born free and equal, it states.  
+> Free speech and fair trials become new rights.  
+> A few weeks later, bread is still hard to find in Paris.  
+> Thousands of women march to the king's palace outside the city.  
+> They demand bread, and they want the king to live in Paris.  
+> He agrees, and the royal family moves to the city under guard.  
+> Two years later, the king tries to flee in secret, but he is caught.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Glorious Revolution · ⬜ The Mexican Revolution · ✅ The French Revolution · ⬜ The Haitian Revolution
+
+**Ord:** *parliament* — a group of people chosen to make laws for a country · *declaration* — an official written statement that says something clearly · *guard* — a soldier who protects a person or a place · *flee* — to run away from danger, often in secret
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — The king stands trial</summary>
+
+> In France, Revolution X removes the old king's power step by step.  
+> After three years, its leaders end the monarchy and declare a republic.  
+> The former king stands trial for crimes against the new nation.  
+> Soon after, the new republic executes him.  
+> Fear of enemies, at home and abroad, grows fast.  
+> A period called the Terror begins.  
+> Courts work quickly, and they sentence thousands of suspected enemies to death.  
+> Official records count about seventeen thousand such deaths in one year.  
+> Many more die in prisons or in fighting across the country.  
+> One powerful leader, Robespierre, leads much of this.  
+> The following year, his own allies turn against him, and he is executed too.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ✅ The French Revolution · ⬜ The Russian Revolution · ⬜ The American Revolution · ⬜ The Haitian Revolution
+
+**Ord:** *monarchy* — a country ruled by a king or queen · *republic* — a state without a king, led by chosen representatives · *trial* — a formal process in court that decides if someone is guilty · *execute* — to kill a person as a legal punishment
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Not Yet for Everyone</summary>
+
+> Revolution X promises liberty, equality, and brotherhood for all.  
+> At first, though, only some men can vote.  
+> A woman writer named Olympe de Gouges disagrees.  
+> She writes her own declaration for the rights of woman.  
+> She demands votes and equal rights for women too.  
+> Later she attacks the new leaders in print.  
+> They have her executed.  
+> Far away, in the colony of Saint-Domingue, enslaved people rise up against their enslavers.  
+> A few years later, the parliament in France abolishes slavery in its colonies.  
+> It is one of the first such laws anywhere in the world.  
+> The new government also creates a new system of measurement.  
+> Meters and kilograms slowly replace hundreds of old local units.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Haitian Revolution · ✅ The French Revolution · ⬜ The Industrial Revolution · ⬜ The Glorious Revolution
+
+**Ord:** *liberty* — freedom; the right to live and choose without being controlled by others · *colony* — a land ruled and controlled by another, distant country · *abolish* — to end something completely, especially by law · *enslaved* — forced by others to work without freedom or pay
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — One revolution, many stories</summary>
+
+> Historians still argue about the causes of Revolution X.  
+> Older historians tell a story of class struggle.  
+> In this story, a rising middle class overthrows a tired old nobility.  
+> Later historians, called revisionists, question this simple picture.  
+> They study pamphlets, letters, and police reports from Paris and the provinces.  
+> These sources show many local causes, not just one big class conflict.  
+> Politics, personal networks, and pure chance also matter.  
+> Historians also compare Revolution X with the uprising in Saint-Domingue.  
+> Enslaved people there use the same words about liberty and rights.  
+> Yet their revolution follows its own separate path to freedom.  
+> The comparison shows how one revolution's ideals can travel far.  
+> Every generation of historians asks new questions of the same old sources.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Russian Revolution · ⬜ The Mexican Revolution · ⬜ The Glorious Revolution · ✅ The French Revolution
+
+**Ord:** *pamphlet* — a small, thin printed text that argues for an idea · *revisionist* — a historian who questions and rewrites an older, accepted story · *nobility* — the group of people born into powerful, high-ranking families · *source* — an old text or thing that gives us knowledge about the past
+
+</details>
+
+### Napoleon Bonaparte
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Boy from an Island Becomes a General</summary>
+
+> Mr X is born on a small island.  
+> The island is called Corsica, near Italy.  
+> France takes the island the year before he is born.  
+> All his life, he speaks French with an accent.  
+> He leaves home young to go to a military school in France.  
+> There he studies maps, math, and the science of cannons.  
+> He becomes an officer who commands cannons.  
+> At this time, the revolution in France changes everything.  
+> Old rules about noble birth and rank start to break.  
+> Now, a soldier can rise fast through skill alone.  
+> Mr X rises very fast, and becomes a general at only twenty-four.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Napoleon Bonaparte · ⬜ Julius Caesar · ⬜ Charlemagne · ⬜ Otto von Bismarck
+
+**Ord:** *officer* — a leader in the army, with soldiers under his command · *cannons* — big heavy guns that shoot iron balls far away · *revolution* — a fast, big change in a country's rulers and rules · *rank* — your level or position in an army or a group
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Man Who Crowns Himself</summary>
+
+> At first, Emperor X is only a young general.  
+> After many victories for France, he takes power in a coup, with little fighting.  
+> He sells Louisiana, a huge area in North America, to a young country.  
+> A few years after the coup, he makes himself emperor in a great ceremony.  
+> In a great church in Paris, the pope stands beside him.  
+> But Emperor X takes the crown himself and places it on his own head.  
+> Under him, law experts write a new book of laws for the country.  
+> It gives all men the same rules, and clear rules for property and family.  
+> Women get fewer rights than men.  
+> Many countries still use ideas from this book today.  
+> His armies fight many wars across Europe.  
+> Soon he rules over much of the continent, directly or through his family.  
+> **Who is Emperor X?**
+
+**Svar:** ✅ Napoleon Bonaparte · ⬜ Louis XIV · ⬜ Charlemagne · ⬜ George Washington
+
+**Ord:** *coup* — a sudden takeover of power, often fast and by surprise · *ceremony* — a special formal event that marks an important moment · *emperor* — a ruler above kings, who rules a very large land or many lands · *property* — things or land that belong to a person by law
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — The Long Road Back from Russia</summary>
+
+> In 1812, Emperor X marches into Russia with about six hundred thousand soldiers.  
+> On the long march, sickness, hunger, and battle cost him most of his men.  
+> When he reaches the great city, it is empty, and soon much of it burns.  
+> Then winter comes, and the Russian army attacks his retreat.  
+> Soldiers die by the thousands from cold, hunger, and fighting.  
+> Most of his huge army never comes home.  
+> Other countries then unite against him, and two years later he gives up his throne.  
+> His enemies send him to a small island called Elba.  
+> Within a year, he escapes, and rules again for a hundred days.  
+> His last battle ends in defeat near a village called Waterloo.  
+> This time, his enemies send him to a lonely island far out at sea.  
+> He dies there about six years later.  
+> **Who is Emperor X?**
+
+**Svar:** ✅ Napoleon Bonaparte · ⬜ Julius Caesar · ⬜ Alexander the Great · ⬜ The Duke of Wellington
+
+**Ord:** *retreat* — when an army stops fighting and moves back · *throne* — the special seat and power of a king or emperor · *defeat* — when you lose a battle or a fight · *unite* — to join together for one purpose
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The Other Side of the Story</summary>
+
+> Mr X leads a French army into Egypt, with scientists and artists too.  
+> By the river Nile, his soldiers rebuild an old fort.  
+> In one wall, they find a dark grey stone with three kinds of writing.  
+> This stone later helps experts read ancient Egyptian writing.  
+> Some years before this, France ends slavery in its colonies.  
+> Mr X brings slavery back to the French colonies.  
+> On one island, people freed from slavery fight to stay free.  
+> They defeat his army there, and their colony becomes independent.  
+> Many call it the first free nation of formerly enslaved people.  
+> Old cartoons and enemy jokes show Mr X as a very short man.  
+> Historians check the records: he is about one meter sixty-eight, a normal height for his time.  
+> So the story of the short leader is a myth, not a fact.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Napoleon Bonaparte · ⬜ Simón Bolívar · ⬜ Louis XIV · ⬜ Charlemagne
+
+**Ord:** *colonies* — lands ruled and controlled by another, faraway country · *enslaved* — forced by others to work, with no freedom and no pay · *independent* — free to rule itself, not controlled by another country · *myth* — a story many people believe, but it is not true
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Hero of the Revolution or Its Gravedigger</summary>
+
+> Historians still argue about Emperor X.  
+> Some call him the heir of the revolution, who saves its best ideas.  
+> Others call him its gravedigger, who buries freedom under his own crown.  
+> As ruler, he controls most newspapers in the country.  
+> He also pays painters to make heroic pictures of himself in battle.  
+> These pictures shape how people see him for generations.  
+> On his last island, he has many empty years.  
+> He dictates his own life story to loyal followers there.  
+> In his story, he is always wise, and his mistakes are small.  
+> Historians read these memoirs with great care.  
+> They compare his words with letters, orders, and reports from his own time.  
+> The true picture of Emperor X lies somewhere between the myth and the man.  
+> **Who is Emperor X?**
+
+**Svar:** ✅ Napoleon Bonaparte · ⬜ Otto von Bismarck · ⬜ Julius Caesar · ⬜ Simón Bolívar
+
+**Ord:** *heir* — a person who continues someone else's work or place · *memoirs* — a book where a person writes the story of their own life · *loyal* — always faithful and supportive, especially to a leader · *generations* — large groups of people born and living around the same time
+
+</details>
+
 ## Kortens struktur
 
 Varje person får fem oberoende kort med stigande svårighetsgrad:
