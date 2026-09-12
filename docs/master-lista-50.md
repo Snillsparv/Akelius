@@ -39,13 +39,13 @@ status uppdateras löpande.
 | 30 | Galileo Galilei | Renaissance and Exploration |✅ Leverans 5 |
 | 31 | The Protestant Reformation | Revolutions and New Ideas |✅ Leverans 5 |
 | 32 | Martin Luther | Revolutions and New Ideas |✅ Leverans 5 |
-| 33 | The American Revolution | Revolutions and New Ideas | |
-| 34 | George Washington | Revolutions and New Ideas | |
-| 35 | The French Revolution | Revolutions and New Ideas | |
-| 36 | Napoleon Bonaparte | Revolutions and New Ideas | |
-| 37 | The Industrial Revolution | Revolutions and New Ideas | |
-| 38 | Charles Darwin | Revolutions and New Ideas | |
-| 39 | Karl Marx | Revolutions and New Ideas | |
+| 33 | The American Revolution | Revolutions and New Ideas |✅ Leverans 6 |
+| 34 | George Washington | Revolutions and New Ideas |✅ Leverans 6 |
+| 35 | The French Revolution | Revolutions and New Ideas |✅ Leverans 6 |
+| 36 | Napoleon Bonaparte | Revolutions and New Ideas |✅ Leverans 6 |
+| 37 | The Industrial Revolution | Revolutions and New Ideas |✅ Leverans 6 |
+| 38 | Charles Darwin | Revolutions and New Ideas |✅ Leverans 6 |
+| 39 | Karl Marx | Revolutions and New Ideas |✅ Leverans 6 |
 | 40 | World War I | Twentieth Century | |
 | 41 | World War II | Twentieth Century | |
 | 42 | Winston Churchill | Twentieth Century | |

@@ -19,9 +19,10 @@ ordlista eller bild.
 
 ## Status (uppdatera vid varje leverans)
 
-- 32 ämnen, 160 kort, 320 bilder, 100 procent tvåspråkigt (leverans 1-5).
-- Näst på tur: rad 33-50 i `docs/master-lista-50.md` (amerikanska revolutionen,
-  Washington, franska revolutionen ...), därefter förslag på utökad lista mot Rogers mål 600+ kort
+- 39 ämnen, 195 kort, 390 bilder, 100 procent tvåspråkigt (leverans 1-6).
+- Näst på tur: rad 40-50 i `docs/master-lista-50.md` (världskrigen, Churchill,
+  Hitler, Gandhi, FN, kalla kriget, Martin Luther King, Mandela, Berlinmuren,
+  månlandningen), därefter förslag på utökad lista mot Rogers mål 600+ kort
   (idéhistoria, matematiker, fysiker, nobelpristagare).
 - Öppet hos Roger: baksidestexter för befintliga kort, nivå 3-kort,
   "about X years ago" kontra århundraden.
