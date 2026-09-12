@@ -1,0 +1,217 @@
+{
+  "slug": "alan-turing",
+  "person_sv": "Alan Turing",
+  "cards": [
+    {
+      "title": "Pojken som älskade pussel och långa löpturer",
+      "text_sentences": [
+        "Herr X är en pojke i England för ungefär hundra år sedan.",
+        "Han älskar tal och svåra pussel.",
+        "Han älskar också att springa mycket långa sträckor ensam.",
+        "Han är inte den bästa eleven i andra ämnen.",
+        "Senare studerar han vid ett berömt gammalt universitet i England.",
+        "Som ung man drömmer han om en maskin som följer en lista med steg.",
+        "En sådan maskin skulle kunna lösa nästan vilket pussel som helst.",
+        "Sedan bryter ett stort krig ut i Europa.",
+        "Herr X flyttar till en hemlig plats med barracker av trä.",
+        "Många kloka män och kvinnor arbetar hemligt där.",
+        "De försöker knäcka fiendens mycket svåra kod.",
+        "Herr X och hans vänner hittar ett sätt att läsa fiendens hemliga meddelanden."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "Ada Lovelace",
+        "Konrad Zuse"
+      ],
+      "words": [
+        {
+          "word": "barack",
+          "explanation": "en liten enkel byggnad, ofta gjord av trä"
+        },
+        {
+          "word": "kod",
+          "explanation": "ett hemligt sätt att skriva, så att bara vissa kan läsa det"
+        },
+        {
+          "word": "pussel",
+          "explanation": "ett problem som är roligt och svårt att lösa"
+        },
+        {
+          "word": "fiende",
+          "explanation": "ett land eller en person som du strider mot i ett krig"
+        }
+      ],
+      "main_caption": "Herr X springer ofta långa sträckor ensam, även i kallt väder.",
+      "side_caption": "Senare arbetar herr X hemligt i enkla barracker som dessa."
+    },
+    {
+      "title": "Bletchley Park, Enigma och en maskin som kallas bomben",
+      "text_sentences": [
+        "Herr X studerar matematik vid Cambridge i England.",
+        "År 1939 bryter ett stort krig ut i Europa.",
+        "Herr X flyttar till Bletchley Park, ett hemligt gods på landet.",
+        "Där försöker olika grupper knäcka Enigma, en tysk maskin som skapar hemliga koder.",
+        "Polska matematiker knäcker maskinens hemligheter först, före kriget.",
+        "Med deras arbete som grund hjälper herr X till att konstruera en stor maskin som kallas bomben.",
+        "Varje dag testar den tusentals möjliga kodinställningar.",
+        "Att läsa de tyska meddelandena hjälper konvojer av skepp att korsa Atlanten säkert.",
+        "Tusentals människor arbetar på Bletchley Park, och de flesta är kvinnor.",
+        "De får aldrig berätta för någon vad de gör där.",
+        "Hemligheten hålls i ungefär trettio år efter kriget."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Alan Turing",
+        "John von Neumann",
+        "Claude Shannon",
+        "Grace Hopper"
+      ],
+      "words": [
+        {
+          "word": "matematik",
+          "explanation": "läran om tal, former och mönster"
+        },
+        {
+          "word": "gods",
+          "explanation": "ett stort markområde med ett stort hus på"
+        },
+        {
+          "word": "inställning",
+          "explanation": "ett visst sätt som en maskins delar är ställda på"
+        },
+        {
+          "word": "konvoj",
+          "explanation": "en grupp skepp som reser tillsammans för säkerhets skull"
+        }
+      ],
+      "main_caption": "En ny maskin söker igenom tusentals möjliga kodinställningar.",
+      "side_caption": "Konvojer av skepp korsar havet tillsammans, för säkerhets skull."
+    },
+    {
+      "title": "En maskin på papper och en fråga om tänkande",
+      "text_sentences": [
+        "År 1936 publicerar en ung matematiker vid Cambridge, herr X, en ovanlig artikel.",
+        "Han föreställer sig en enkel maskin som läser och skriver symboler på en pappersremsa.",
+        "Om en sådan maskin byggs på rätt sätt kan den kopiera vilken annan maskins arbete som helst.",
+        "Strax efter tillbringar han två år med att studera i Princeton i USA.",
+        "År 1948 flyttar han till Manchester och skriver program till en av de första riktiga datorerna.",
+        "År 1950 publicerar han en artikel med en enkel fråga: kan maskiner tänka?",
+        "Han beskriver ett spel: en domare ställer skriftliga frågor till två gömda spelare.",
+        "Den ena spelaren är en människa, den andra är ett datorprogram.",
+        "Om domaren ofta inte kan avgöra vem som är vem, säger han, har maskinen klarat testet.",
+        "År 1952 straffar en dåtida lag honom för att han älskar en annan man.",
+        "Regeringen ber om ursäkt 2009, och han benådas 2013."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Charles Babbage",
+        "Konrad Zuse",
+        "Alan Turing",
+        "John von Neumann"
+      ],
+      "words": [
+        {
+          "word": "symbol",
+          "explanation": "ett skrivet tecken som står för en bokstav, en siffra eller ett ljud"
+        },
+        {
+          "word": "pappersremsa",
+          "explanation": "en lång tunn remsa, här använd för att lagra information"
+        },
+        {
+          "word": "domare",
+          "explanation": "en person som avgör vem som har rätt, eller vem som vinner ett spel"
+        },
+        {
+          "word": "program",
+          "explanation": "en lista med steg som talar om för en dator vad den ska göra"
+        }
+      ],
+      "main_caption": "På papper föreställer sig herr X en enkel maskin som kan beräkna vad som helst.",
+      "side_caption": "En domare ställer frågor och försöker gissa vem som svarar, en människa eller en maskin."
+    },
+    {
+      "title": "En datorkonstruktion, ett schackprogram och en maratonlöpare",
+      "text_sentences": [
+        "Herr X är en brittisk matematiker som gör hemligt arbete under ett världskrig.",
+        "När kriget slutar 1945 kan han fortfarande inte berätta för någon vad han har gjort.",
+        "Han börjar på ett statligt laboratorium nära London och konstruerar en egen dator.",
+        "Maskinen byggs senare, mindre än han planerat, och ett företag säljer kopior av den.",
+        "Han skriver också ett av de första schackprogrammen, för hand på papper.",
+        "Ingen dator vid den tiden kan köra det, så han spelar dragen själv.",
+        "Utanför arbetet springer han maraton och är en av de snabbaste maratonlöparna i Storbritannien.",
+        "År 1952 straffar en dåtida lag honom för att han älskar en annan man.",
+        "Han dör 1954.",
+        "Regeringen ber om ursäkt 2009, och han benådas 2013."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Claude Shannon",
+        "Konrad Zuse",
+        "Grace Hopper",
+        "Alan Turing"
+      ],
+      "words": [
+        {
+          "word": "laboratorium",
+          "explanation": "en plats där forskare gör tester och bygger nya saker"
+        },
+        {
+          "word": "konstruerar",
+          "explanation": "gör en plan för hur man bygger något"
+        },
+        {
+          "word": "schack",
+          "explanation": "ett brädspel för två spelare med kungar, drottningar och springare"
+        },
+        {
+          "word": "maraton",
+          "explanation": "en löptävling på ungefär fyra mil"
+        }
+      ],
+      "main_caption": "Herr X skriver ett schackprogram på papper och spelar dragen för hand.",
+      "side_caption": "Glödande elektronrör som dessa gör beräkningarna inuti de första datorerna."
+    },
+    {
+      "title": "Grundare, hemligheter och en sen ursäkt",
+      "text_sentences": [
+        "Historiker i dag kallar herr X en av grundarna av datavetenskapen.",
+        "År 1936 bevisar han att vissa problem aldrig kan lösas av någon maskin.",
+        "Riktiga datorer, byggda ungefär tio år senare, följer grundtanken i hans artikel.",
+        "Hans roll i kodknäckningen under ett världskrig är nästan okänd fram till 1970-talet.",
+        "Först då kan historiker börja bedöma hans roll i det kriget.",
+        "Frågan och spelet han beskriver 1950 formar fortfarande hur vi testar maskiner i dag.",
+        "Sent i livet studerar han varför fläckar och ränder bildas på djurs hud.",
+        "År 1952 straffar en dåtida lag honom för att han älskar en annan man.",
+        "Han dör 1954, och utredningen kallar det självmord.",
+        "Regeringen ber om ursäkt 2009, och han benådas 2013.",
+        "I dag bär det finaste priset inom datavetenskap hans namn."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "John von Neumann",
+        "Alan Turing",
+        "Claude Shannon",
+        "Charles Babbage"
+      ],
+      "words": [
+        {
+          "word": "grundare",
+          "explanation": "en person som startar något viktigt, som ett nytt forskningsområde"
+        },
+        {
+          "word": "kodknäckning",
+          "explanation": "att ta reda på hur man läser hemliga meddelanden"
+        },
+        {
+          "word": "utredning",
+          "explanation": "en officiell undersökning för att ta reda på hur en person dog"
+        }
+      ],
+      "main_caption": "Sent i livet studerar herr X varför mönster som detta bildas i naturen.",
+      "side_caption": "Hans krigsarbete förblir inlåst fram till 1970-talet."
+    }
+  ]
+}
