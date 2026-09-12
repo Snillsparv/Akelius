@@ -4538,6 +4538,694 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 
 </details>
 
+### Adolf Hitler
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Country Loses Its Freedom</summary>
+
+> Mr X lives in Germany, about ninety years ago.  
+> His country holds free elections and has free newspapers.  
+> Hard times come, and millions of people lose their jobs.  
+> Mr X leads a party with an angry, simple promise.  
+> He blames Jewish people and other groups for the hard times.  
+> He promises to make the country strong and proud again.  
+> In 1933, the old president names him head of government.  
+> Within months, the government shuts down free newspapers.  
+> It bans every other political party.  
+> People go to prison simply for their opinions.  
+> In school, children now learn to hate these groups.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Joseph Stalin · ✅ Adolf Hitler · ⬜ Benito Mussolini · ⬜ Francisco Franco
+
+**Ord:** *elections* — when people vote to choose their leaders · *president* — the highest elected leader of a country · *bans* — makes something against the law · *opinions* — what a person thinks or believes
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Failed Painter Who Wants Power</summary>
+
+> Mr X wants to become a painter as a young man.  
+> He moves to Vienna and tries to enter the art academy.  
+> The academy rejects him, not once but twice.  
+> He lives alone in a cheap shelter for poor men.  
+> When the great war of 1914 begins, he becomes a soldier.  
+> He is wounded, and near the end of the war he is gassed.  
+> After the war, he joins a small party blaming Jews and democracy for the defeat.  
+> In Munich, he tries to seize power by force.  
+> The attempt fails, and he goes to prison.  
+> In prison, he writes a book full of hate.  
+> In one election, his party wins fewer than three votes in every hundred.  
+> After a great economic crisis, one voter in three chooses his party, never a majority.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Kaiser Wilhelm II · ⬜ Paul von Hindenburg · ✅ Adolf Hitler · ⬜ Benito Mussolini
+
+**Ord:** *academy* — a school for special skills, like art or science · *gassed* — poisoned by a dangerous gas, used as a weapon in the war · *seize* — to take something suddenly and by force · *economic crisis* — a time when many businesses fail and people lose work and money
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Windows Break Across a Country</summary>
+
+> Mr X leads the government of Germany.  
+> His government targets one group above all: Jewish citizens.  
+> In his first year in power, his supporters block the doors of Jewish shops.  
+> Two years later, new laws take away their rights as citizens.  
+> The same laws forbid marriage between Jews and other Germans.  
+> In November 1938, his party sends its men to attack Jewish homes, shops, and synagogues.  
+> Crowds join in, and windows break across the country in one night.  
+> About thirty thousand Jewish men are sent to camps.  
+> Jewish families now try to leave the country.  
+> Many countries let in only a few of them.  
+> Then war comes, and the persecution turns into mass murder.  
+> His state murders six million Jews, and also Roma people, disabled people, and others.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Joseph Stalin · ⬜ Hideki Tojo · ✅ Adolf Hitler · ⬜ Francisco Franco
+
+**Ord:** *citizens* — people who legally belong to a country and share its rights · *synagogues* — buildings where Jewish people gather to pray · *camps* — here: guarded places where prisoners are kept against their will · *persecution* — cruel and unfair treatment of a group, again and again
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — One Voice in the Kitchen</summary>
+
+> Mr X's government in Germany controls what people hear and see.  
+> A radio stands in most homes, and one voice fills it.  
+> Huge rallies gather crowds under bright lights and loud music.  
+> One group of students burns books that the government calls dangerous.  
+> Children must join youth groups run by the state.  
+> A secret police force listens for any word against the government.  
+> Neighbors grow afraid to trust each other.  
+> Most people simply join in, or quietly look away.  
+> A different group of students resists: in Munich, they print leaflets against the government.  
+> In February 1943, the government executes three of them for their leaflets.  
+> Fear alone cannot explain it all: many ordinary people choose to believe.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Benito Mussolini · ✅ Adolf Hitler · ⬜ Joseph Stalin · ⬜ Hideki Tojo
+
+**Ord:** *rallies* — big public meetings to cheer for a leader or a cause · *youth groups* — clubs where children and teenagers meet, often run by the state · *secret police* — police who spy on citizens in secret, not openly · *leaflets* — small printed sheets of paper with a message
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Not One Man, But a Whole Machine</summary>
+
+> Historians no longer explain Mr X as one evil genius acting alone.  
+> They ask a harder question: how does a whole society follow him?  
+> One group of historians stresses his own choices and intentions.  
+> Another group stresses the structures around him: rivals, chaos, and weak institutions.  
+> A famous phrase describes officials who guess his wishes and act without orders.  
+> One historian calls this: working towards the leader.  
+> The sources include party files, private diaries, and letters home.  
+> After the war, trials use these sources to judge the accused.  
+> Some people later deny that the murder of six million Jews and others even happened.  
+> Historians study this denial too, as a phenomenon in itself.  
+> In 1945, with his war lost and Berlin surrounded, Mr X takes his own life.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Francisco Franco · ⬜ Hideki Tojo · ⬜ Joseph Stalin · ✅ Adolf Hitler
+
+**Ord:** *intentions* — the plans or purposes inside a person's mind · *institutions* — the organizations and systems that run a country · *phenomenon* — something that happens and that can be studied and explained · *denial* — refusing to accept that something true really happened
+
+</details>
+
+### Mahatma Gandhi
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Long Walk to the Sea</summary>
+
+> Mr X lives in India, where British rulers are in charge.  
+> An old law says only the rulers may make and sell salt.  
+> Salt comes free from the sea, but people must pay a tax.  
+> Mr X says this law is not fair to poor people.  
+> In 1930, he starts to walk from his home toward the coast.  
+> Every day along the road, more people join him.  
+> The walk takes about twenty-four days in all.  
+> He and his followers walk nearly four hundred kilometers.  
+> At the seashore, Mr X bends down to the water.  
+> He picks up a small handful of natural salt.  
+> With this quiet act, he breaks the tax law.  
+> Police arrest tens of thousands of his followers, but they do not fight back.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Jawaharlal Nehru · ✅ Mahatma Gandhi · ⬜ Muhammad Ali Jinnah · ⬜ Subhas Chandra Bose
+
+**Ord:** *tax* — money that people must pay to the rulers · *coast* — the land next to the sea · *followers* — people who join and support a leader · *arrest* — when police take a person away and do not let them go free
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Fight With No Weapons</summary>
+
+> Mr X leads a movement in India, about a hundred years ago.  
+> He believes people can fight injustice without any weapons.  
+> He calls this method satyagraha, or holding on to truth.  
+> Instead of buying British cloth, he asks people to spin their own.  
+> He often sits and spins cotton thread on a simple wooden wheel.  
+> Homespun cloth becomes a quiet symbol of independence.  
+> British rulers repeatedly send Mr X to prison for his protests.  
+> In total, he spends about six years of his life in prison.  
+> Sometimes he refuses all food as a form of protest.  
+> He calls these fasts an appeal to people's conscience.  
+> Slowly, a small movement grows into one that includes millions.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Rabindranath Tagore · ⬜ B. R. Ambedkar · ✅ Mahatma Gandhi · ⬜ Muhammad Ali Jinnah
+
+**Ord:** *injustice* — something that is not fair or right · *satyagraha* — a special word for fighting for what is right without violence · *homespun* — cloth spun and woven by hand at home, not made in a factory · *conscience* — the inner feeling that tells a person right from wrong
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Thrown Off the Train</summary>
+
+> Mr X studies law in London, more than a hundred years ago.  
+> After his studies, he takes work in South Africa.  
+> There, laws treat people differently because of the color of their skin.  
+> One night, he sits in a first-class train carriage with a valid ticket.  
+> An official orders him off because of his skin color.  
+> He refuses to move, and guards throw him off the train.  
+> Cold and angry on the empty platform, he decides to act.  
+> Over the next twenty-one years, he builds a method of peaceful resistance.  
+> He organizes Indians in South Africa to resist unfair laws without violence.  
+> Historians note that his early writings there share the prejudice of his time against Africans.  
+> Only later does his thinking grow to include all people.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Jawaharlal Nehru · ⬜ Subhas Chandra Bose · ⬜ Rabindranath Tagore · ✅ Mahatma Gandhi
+
+**Ord:** *carriage* — a train car where passengers sit · *official* — a person who works for a government or a company and has some power · *resistance* — fighting against something, here without weapons · *prejudice* — an unfair opinion about people, often based on the group they belong to
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Country Splits in Two</summary>
+
+> In 1947, Mr X's homeland finally becomes independent.  
+> British rulers and Indian leaders also divide the land into two new countries.  
+> Millions of Hindus, Muslims, and Sikhs must suddenly move.  
+> Violence breaks out between neighbors of different faiths.  
+> Estimates say hundreds of thousands of people, maybe far more, are killed.  
+> Mr X is heartbroken by violence he has tried to prevent.  
+> In the capital, he refuses all food to make the killing stop.  
+> His fast works: Hindu and Sikh leaders promise to protect their Muslim neighbors.  
+> Not everyone welcomes his message of friendship between faiths.  
+> Twelve days later, a Hindu nationalist shoots him dead.  
+> The gunman believes Mr X is too friendly toward Muslims.  
+> His death shocks the young nation.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ B. R. Ambedkar · ⬜ Muhammad Ali Jinnah · ⬜ Jawaharlal Nehru · ✅ Mahatma Gandhi
+
+**Ord:** *independent* — free to rule itself, not controlled by another country · *violence* — actions that hurt or kill people · *estimates* — careful guesses based on the facts we have · *nationalist* — a person with very strong pride in one nation, sometimes against other groups
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Debates That Outlive Him</summary>
+
+> Mr X becomes one of the most studied leaders of the twentieth century.  
+> Not everyone in India agrees with his methods or his ideas.  
+> B. R. Ambedkar is a leader of the Dalits, the people the caste system places lowest.  
+> He says Mr X defends the caste order and does too little against caste discrimination.  
+> Ambedkar wants strong legal protection, not only a change of heart.  
+> Other leaders find peaceful protest too slow and want an armed uprising instead.  
+> Mr X insists that the method matters as much as the goal.  
+> Decades later, movements on other continents study his method of nonviolent protest.  
+> He writes a long autobiography, openly admitting many of his own mistakes.  
+> His collected writings and letters fill about one hundred volumes.  
+> Even British police files, kept to watch him, survive as evidence today.  
+> Together, these sources let historians question the popular image of the man.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Jawaharlal Nehru · ✅ Mahatma Gandhi · ⬜ Muhammad Ali Jinnah · ⬜ Subhas Chandra Bose
+
+**Ord:** *caste* — a group a person is born into in India's old social order, ranked above or below other groups · *discrimination* — treating a group of people unfairly because of who they are · *autobiography* — a book a person writes about their own life · *volume* — one book in a long series of books that belong together
+
+</details>
+
+### Förenta nationerna
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Talk Instead of Fight</summary>
+
+> The biggest war in history ends in 1945.  
+> Many countries want peace to last this time.  
+> Fifty countries meet in San Francisco, a city by the sea.  
+> There they sign a long agreement together.  
+> One more country signs it a little later.  
+> Now Organization X starts with fifty-one countries.  
+> Today, almost every country in the world belongs to it.  
+> Every country sends people to one huge hall.  
+> In that hall, each country gets exactly one vote.  
+> Organization X also feeds hungry children and sends doctors.  
+> **Which organization is Organization X?**
+
+**Svar:** ⬜ The League of Nations · ✅ The United Nations · ⬜ The Commonwealth · ⬜ NATO
+
+**Ord:** *agreement* — a promise that two or more people or countries make together · *peace* — a time with no war or fighting
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Rule That Can Stop Everything</summary>
+
+> Organization X works by clear, simple rules.  
+> All member countries meet in one big assembly.  
+> There, the biggest and the smallest country have one vote each.  
+> A smaller council also meets, with fewer countries.  
+> Five countries always have a seat on that council.  
+> The council can send soldiers to keep the peace.  
+> The soldiers wear plain blue helmets for this work.  
+> Each of the five can also say no to a plan.  
+> This power to block a plan is called a veto.  
+> One veto is enough to stop the whole council.  
+> So the same five stay strong, but help can be blocked too.  
+> **Which organization is Organization X?**
+
+**Svar:** ⬜ The World Bank · ⬜ The Arab League · ✅ The United Nations · ⬜ The European Union
+
+**Ord:** *assembly* — a big meeting where every member has a seat · *council* — a smaller group that meets often and decides on quick action · *veto* — the power to say no and stop a plan, even if everyone else says yes · *helmet* — a hard hat that protects the head
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A List for Every Human</summary>
+
+> In 1948, Organization X writes a new kind of list.  
+> The list names rights that every human should have.  
+> People from many cultures help write thirty short articles.  
+> A woman leads the committee that writes the text.  
+> A philosopher from China also shapes the final words.  
+> Long debates happen about rights that fit every culture.  
+> When the vote comes, no country votes against the list.  
+> A few countries choose not to vote for or against.  
+> Translators later put the text into hundreds of languages.  
+> Still, the list is only words on paper.  
+> The gap between the words and daily life stays wide.  
+> **Which organization is Organization X?**
+
+**Svar:** ⬜ The League of Nations · ⬜ The Red Cross · ⬜ The European Union · ✅ The United Nations
+
+**Ord:** *committee* — a small group of people chosen to do one job · *philosopher* — a person who thinks deeply about big questions like right and wrong · *articles* — short, numbered parts of a longer written text
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — New Members, Hard Failures</summary>
+
+> About eighty years ago, empires still rule most of Africa and much of Asia.  
+> Over the next decades, dozens of new countries join Organization X.  
+> Each new member brings its own voice to the big assembly.  
+> Organization X openly supports countries that want independence.  
+> Later, it bans arms sales to the apartheid state in South Africa.  
+> It also calls on countries to stop trading with that state.  
+> But Organization X also fails badly at times.  
+> In 1994, in Rwanda, its soldiers are ordered to stand back.  
+> About eight hundred thousand people are killed there in only a few months.  
+> The next year, in Srebrenica, its soldiers cannot protect a town that trusts them.  
+> About eight thousand men and boys are killed after the town falls.  
+> Both failures are studied closely so such harm does not happen again.  
+> **Which organization is Organization X?**
+
+**Svar:** ✅ The United Nations · ⬜ The Organization of African Unity · ⬜ The Commonwealth · ⬜ The World Bank
+
+**Ord:** *empires* — large groups of lands and peoples ruled by one strong power · *independence* — being free to rule yourself, without another country in charge · *apartheid* — a system of laws in South Africa that kept people apart by skin color and gave white people the power
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Question Archives Cannot Answer</summary>
+
+> Historians study Organization X like any other institution.  
+> After an earlier great war, countries make a first attempt at world peace.  
+> That first attempt is too weak, and it collapses within twenty years.  
+> Its failure shapes the design of the second attempt in 1945.  
+> Five countries keep a veto from the very first drafts.  
+> For decades, diplomats argue about who deserves a permanent seat too.  
+> Historians disagree about how to measure the organization's success.  
+> Some count wars it stops, others count wars it fails to stop.  
+> Old archives and internal memos help settle some of these arguments.  
+> But the records cannot answer the hardest question of all.  
+> Can states protect people from their own governments?  
+> That question stays open.  
+> **Which organization is Organization X?**
+
+**Svar:** ⬜ The League of Nations · ⬜ NATO · ✅ The United Nations · ⬜ The Red Cross
+
+**Ord:** *institution* — a large, lasting organization with clear rules · *archives* — old papers and records kept safe for later study · *diplomats* — people who represent their country and talk with other countries
+
+</details>
+
+### Första världskriget
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Two rows of dominoes</summary>
+
+> War X starts more than a hundred years ago, in Europe.  
+> Many countries have signed alliances before the war starts.  
+> These alliances work like two rows of dominoes.  
+> If one country falls into war, its allies often follow.  
+> In the summer of 1914, a prince is shot and killed.  
+> It happens in a city named Sarajevo, in the Balkans.  
+> Historians call this shot the spark, not the cause.  
+> Alliances turn one shot into a war across a continent.  
+> Many young men, not all, march off cheering.  
+> Many believe they will be home again by Christmas.  
+> Instead, War X lasts four long years.  
+> **Which war is War X?**
+
+**Svar:** ⬜ The Balkan Wars · ✅ World War I · ⬜ World War II · ⬜ The Russian Civil War
+
+**Ord:** *alliance* — a promise between countries to help each other in war · *spark* — a small thing that starts something much bigger · *continent* — a very large area of land, like Europe or Africa · *dominoes* — small flat game pieces, when one falls, it knocks over the next
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A line that does not move</summary>
+
+> War X is fought mostly in the fields of Europe.  
+> Soldiers on each side dig long trenches in the earth.  
+> These trenches stretch across the land for hundreds of kilometers.  
+> Between the two lines lies open ground called no man's land.  
+> Machine guns can fire hundreds of bullets every minute.  
+> Both sides also use poison gases that burn the eyes and lungs.  
+> For years, the front line barely moves at all.  
+> Soldiers spend long weeks in mud, cold, and fear.  
+> They write letters home to wives, mothers, and children.  
+> Lice and rats share the trenches with the soldiers.  
+> By the end, about ten million soldiers have died.  
+> **Which war is War X?**
+
+**Svar:** ⬜ The Vietnam War · ⬜ The Korean War · ✅ World War I · ⬜ The Spanish Civil War
+
+**Ord:** *trench* — a long, deep ditch dug in the ground · *no man's land* — the open, dangerous ground between two enemy lines · *lice* — tiny bugs that live in hair or clothes and bite
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Soldiers from every continent</summary>
+
+> War X is fought by soldiers from every continent.  
+> It begins in 1914 and lasts four years.  
+> European countries call on soldiers from their colonies too.  
+> Soldiers from India fight in the trenches of France and on other fronts.  
+> Men from Senegal cross the sea to fight in France.  
+> Australians, Canadians, and soldiers from the Caribbean join as well.  
+> The Ottoman Empire, ruling much of the Middle East, fights too.  
+> It loses the war, and the empire falls apart.  
+> New borders are then drawn across the Middle East.  
+> Some of these borders still shape the region today.  
+> At home, many men leave their jobs to fight.  
+> Women take their place in factories that make weapons and tools.  
+> **Which war is War X?**
+
+**Svar:** ⬜ World War II · ⬜ The Korean War · ⬜ The Balkan Wars · ✅ World War I
+
+**Ord:** *colonies* — lands ruled by a country far away · *empire* — many lands and peoples ruled by one strong state · *front* — here: a line where two armies fight each other
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The eleventh hour</summary>
+
+> In 1917, War X has already lasted for years.  
+> The United States joins the war and sends soldiers across the ocean.  
+> That same year, a revolution shakes the empire of Russia.  
+> Its new leaders soon pull the country out of the war.  
+> Fighting on the other fronts continues for one more year.  
+> At last, an armistice stops the fighting.  
+> It is eleven o'clock on the eleventh day of the eleventh month.  
+> Crowds in many cities cheer, cry, and hug strangers.  
+> The next year, leaders sign a peace treaty at the palace of Versailles.  
+> It says one country caused the war and must pay for the damage.  
+> Around the same time, a new sickness spreads across the world.  
+> In two more years, it kills even more people than the war.  
+> **Which war is War X?**
+
+**Svar:** ⬜ The Russian Civil War · ✅ World War I · ⬜ The Spanish Civil War · ⬜ World War II
+
+**Ord:** *armistice* — an agreement between enemies to stop fighting · *revolution* — a sudden, big change in who rules a country · *treaty* — a written agreement between countries
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Whose fault, and how do we know</summary>
+
+> Historians agree on the main events of War X.  
+> It begins in Europe in 1914, more than a hundred years ago.  
+> But historians still argue about its deeper cause.  
+> One group of historians blames the ambition of one country in particular.  
+> Another group says the leaders of Europe drift into war like sleepwalkers.  
+> On this view, no leader wants the huge war that follows.  
+> The sources from the time are hard to use.  
+> Soldiers write letters home, but a censor removes some lines.  
+> A diary gives private views, yet not many soldiers keep one.  
+> After the war, each government writes its own official history.  
+> Even the number of soldiers who die is still debated today.  
+> Historians keep comparing new sources to test old answers.  
+> **Which war is War X?**
+
+**Svar:** ⬜ The Balkan Wars · ⬜ The Vietnam War · ✅ World War I · ⬜ The Korean War
+
+**Ord:** *censor* — a person who reads letters and removes parts before they are sent · *diary* — a book where a person writes each day about life · *ambition* — a strong wish to gain power or success
+
+</details>
+
+### Andra världskriget
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A small suitcase and a new home</summary>
+
+> War X begins in 1939.  
+> It grows bigger than any war before it.  
+> Armies fight on land, at sea, and in the air.  
+> Soldiers fight on three continents and across the oceans.  
+> In some countries, governments evacuate many children from the big cities.  
+> Each child carries a small suitcase and a name tag.  
+> Trains carry them to new families in the countryside.  
+> Back home, food grows scarce, so families use ration books.  
+> A ration book says how much sugar or meat you may buy.  
+> Thick, dark curtains cover every window at night.  
+> No light may show outside, or planes might see the town.  
+> At school, children practice putting on gas masks.  
+> **Which war is War X?**
+
+**Svar:** ⬜ The Korean War · ✅ World War II · ⬜ The Chinese Civil War · ⬜ The Spanish Civil War
+
+**Ord:** *evacuate* — to send people away from a dangerous place to somewhere safer · *ration book* — a small book that says how much food a family may buy · *scarce* — hard to find, because there is not much of it · *gas mask* — a mask that covers your face and helps you breathe clean air
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — One war, many fronts</summary>
+
+> War X does not begin only in Europe.  
+> In Asia, Japan already fights a long war in China.  
+> In Europe, a dictator's armies conquer most of the continent in two years.  
+> Then his armies invade the Soviet Union, a huge country to the east.  
+> Soon after, Japan attacks an American naval base in the Pacific.  
+> The United States joins the war.  
+> Now fighting truly covers most of the world.  
+> Deep inside the Soviet Union, one long battle becomes a turning point.  
+> In the Pacific, a great sea battle turns the tide too.  
+> Soldiers from many countries land on the beaches of northern France.  
+> Steadily, armies push the dictator's forces back toward Germany.  
+> After almost six years of war, Germany surrenders in 1945.  
+> **Which war is War X?**
+
+**Svar:** ⬜ World War I · ⬜ The Vietnam War · ✅ World War II · ⬜ The Gulf War
+
+**Ord:** *invade* — to enter another country with an army in order to take control of it · *continent* — one of the world's very large areas of land, such as Europe or Asia · *turning point* — the moment when something starts to change in a big way · *tide* — here: the direction that a war is going, toward one side winning
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Six million, and how we know</summary>
+
+> In Germany, more than eighty years ago, a dictator takes power.  
+> His government spreads hatred and blames Jewish people for the country's problems.  
+> Step by step, new laws take away their rights and their safety.  
+> During the war, the dictator's state turns this hatred into organized mass murder.  
+> In occupied lands, it forces Jewish families into sealed districts called ghettos.  
+> In the east, its police and special units shoot huge numbers of Jewish civilians.  
+> The regime also builds camps whose only purpose is killing people.  
+> Roma people are murdered there too, and so are other groups.  
+> Disabled people are murdered in special killing centers in Germany.  
+> In total, about six million Jewish people are murdered in this genocide.  
+> Not everyone looks away. Some neighbors hide families at great risk.  
+> After the war, survivors tell their stories, so today we know what happened.  
+> **Which war is War X?**
+
+**Svar:** ✅ World War II · ⬜ The Chinese Civil War · ⬜ World War I · ⬜ The Gulf War
+
+**Ord:** *ghetto* — a closed off part of a city where a group of people is forced to live · *genocide* — the planned murder of a whole group of people because of who they are · *regime* — a government, especially one with great and often harsh power · *survivor* — a person who lives through something very dangerous
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Soldiers, workers, and bombs across the world</summary>
+
+> War X reaches almost every part of the world, not only Europe.  
+> Millions of soldiers from Africa and India fight for the empires ruling them.  
+> Soldiers and workers from the Caribbean and Latin America join too.  
+> At home, women take new jobs building weapons and bombers.  
+> Bombers attack cities on every side, and many civilians die.  
+> In August 1945, two powerful new bombs destroy two cities in Japan.  
+> By the end of that year, about two hundred thousand people are dead.  
+> Days later, Japan surrenders, and the fighting finally stops everywhere.  
+> In total, historians count more than sixty million dead.  
+> Most of them are not soldiers, but ordinary civilians.  
+> **Which war is War X?**
+
+**Svar:** ⬜ The Vietnam War · ⬜ The Korean War · ⬜ The Spanish Civil War · ✅ World War II
+
+**Ord:** *empire* — a large group of countries or peoples ruled by one powerful country · *surrender* — to stop fighting and admit defeat · *bomber* — a plane built to carry and drop bombs · *civilian* — a person who is not a soldier
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Counting the dead, keeping the memory</summary>
+
+> Historians still argue about the exact number of dead in War X.  
+> Estimates range from about fifty million to about eighty million people.  
+> In some countries, records are incomplete, lost, or never kept.  
+> After the war, courts in Nuremberg and Tokyo try the former leaders.  
+> Judges from the winning countries hear evidence of war crimes and mass murder.  
+> Historians also debate the two atomic bombs dropped on Japan.  
+> Some argue the bombs saved lives by ending the war quickly.  
+> Others argue that the war was already close to its end.  
+> They add that the Soviet attack on Japan mattered too.  
+> Museums, memorials, and survivor testimony keep the memory of the war alive.  
+> A few people falsely deny the genocide of six million Jewish people.  
+> Historians answer with documents, photographs, and the words of survivors.  
+> **Which war is War X?**
+
+**Svar:** ⬜ World War I · ✅ World War II · ⬜ The Chinese Civil War · ⬜ The Vietnam War
+
+**Ord:** *estimate* — a careful guess based on the information you have · *testimony* — what a witness says about what happened · *deny* — to say that something is not true, even when it is · *memorial* — a place built to help people remember something important
+
+</details>
+
+### Winston Churchill
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — An Escape Among Coal Sacks</summary>
+
+> As a boy, Mr X does badly in Latin and mathematics.  
+> He loves toy soldiers more than lessons.  
+> More than a hundred years ago, he becomes a young army officer.  
+> He fights for his country's army in Sudan and writes for newspapers.  
+> Later, he travels with soldiers in South Africa, as a reporter.  
+> Boer fighters capture him and lock him in a prison camp.  
+> One night, Mr X climbs over the camp wall.  
+> He hides among coal sacks on a goods train.  
+> Then helpers hide him in a mine and on another train.  
+> After a long, dangerous journey, he reaches safety.  
+> Newspapers print his escape story, and he becomes famous.  
+> Years later, he leads his country's government in the war against Germany's dictator.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ David Lloyd George · ✅ Winston Churchill · ⬜ Neville Chamberlain · ⬜ Harold Macmillan
+
+**Ord:** *reporter* — a person whose job is to write news for a newspaper · *prison camp* — a guarded place where captured soldiers are kept · *toy soldiers* — small model soldiers that children play with · *Boer* — a farmer of Dutch family background in South Africa, more than a hundred years ago
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Only Blood, Toil, Tears, and Sweat</summary>
+
+> In 1940, Mr X becomes the leader of his country's government.  
+> It stands almost alone in the war against the dictator in Germany.  
+> In parliament he promises only blood, toil, tears, and sweat.  
+> Newspapers print his words, and people repeat them.  
+> His words are simple, and many people say they give them courage.  
+> Soon, enemy planes bomb the capital city, night after night.  
+> Families hide in shelters and underground stations.  
+> Fires burn through whole streets by morning.  
+> Mr X walks through the ruins the next day.  
+> He talks with tired families among the broken houses.  
+> His speeches from these months become famous around the world.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Neville Chamberlain · ⬜ Charles de Gaulle · ⬜ Clement Attlee · ✅ Winston Churchill
+
+**Ord:** *toil* — hard, tiring work · *parliament* — the group of elected people who make a country's laws · *shelter* — a safe place that protects people from danger · *ruins* — what is left after buildings are destroyed
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Blame, Warnings, and a Lost Election</summary>
+
+> In 1915, Mr X pushes hard for a bold naval attack.  
+> The target is a narrow sea strait, far from the main front.  
+> The plan fails badly.  
+> More than one hundred thousand soldiers die on both sides.  
+> Mr X takes much of the blame, and he loses his government job.  
+> He returns within two years and holds high office in the 1920s.  
+> Then come ten years without office, which biographers later call his wilderness years.  
+> In these years, he warns that a dictator in Germany grows more dangerous.  
+> Few politicians want to listen to his warnings.  
+> Later, he leads his country through the war in Europe.  
+> Weeks after victory, his country holds an election.  
+> Voters choose another party, which promises new housing, health care, and jobs.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Winston Churchill · ⬜ David Lloyd George · ⬜ Neville Chamberlain · ⬜ Clement Attlee
+
+**Ord:** *strait* — a narrow strip of sea between two areas of land · *wilderness years* — a long period out of power and influence · *blame* — responsibility for something bad that happens
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Empire, India, and a Famine in Bengal</summary>
+
+> Mr X leads his country's government in the war against Germany's dictator.  
+> He believes strongly that his country's empire is a good thing.  
+> He says harsh words about Indian people and their wish for independence.  
+> In 1943, famine strikes the region of Bengal, in India.  
+> A cyclone and floods ruin the rice harvest, and crop disease spreads.  
+> The war cuts off rice from Burma, and ships carry weapons, not grain.  
+> Officials in India beg his government for more help.  
+> His government refuses to send enough food ships.  
+> About three million people die from hunger and disease.  
+> Historians still argue about how much blame belongs to Mr X.  
+> Some point to wartime shipping shortages everywhere.  
+> Others point to his own words and choices about India.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Clement Attlee · ⬜ Harold Macmillan · ✅ Winston Churchill · ⬜ David Lloyd George
+
+**Ord:** *famine* — a time when many people cannot get enough food · *cyclone* — a huge storm with very strong winds that comes in from the sea · *harvest* — the crops gathered from fields at the end of the growing season · *shortage* — not having enough of something that is needed
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Man Who Writes His Own History</summary>
+
+> After the war in Europe, Mr X writes his own history of it.  
+> A team of helpers works with him.  
+> His account fills six thick volumes.  
+> The books shape how people remember the war for decades.  
+> In 1953, he receives the Nobel Prize in Literature.  
+> The prize honors his speeches and his historical writing, not his politics.  
+> Away from politics, Mr X often paints quiet landscapes.  
+> He calls painting his way to escape dark moods.  
+> Historians later study his private papers, letters, and cabinet documents.  
+> These sources sometimes support his own account, and sometimes contradict it.  
+> Slowly, historians separate his own myth from the documented record.  
+> His own story remains powerful, but it is now read with care.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Charles de Gaulle · ✅ Winston Churchill · ⬜ Joseph Stalin · ⬜ Franklin Roosevelt
+
+**Ord:** *volume* — one book in a set of books that belong together · *account* — here: a person's own telling of what happened · *cabinet* — the group of top ministers who advise a country's leader · *myth* — a popular story that is not fully true
+
+</details>
+
 ## Kortens struktur
 
 Varje person får fem oberoende kort med stigande svårighetsgrad:
