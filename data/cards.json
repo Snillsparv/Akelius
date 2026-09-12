@@ -23099,6 +23099,845 @@
           }
         }
       ]
+    },
+    {
+      "slug": "cold-war",
+      "person": "The Cold War",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Two giants that never fight",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Conflict X starts after the biggest war in history ends in 1945.",
+            "Two very strong powers come out of that war.",
+            "One power stands in the west, one power stands in the east.",
+            "Each side builds bombs strong enough to destroy whole cities.",
+            "The two powers never openly fight each other.",
+            "Instead, each side fears the plans of the other.",
+            "A line of fences and guards cuts Europe in two.",
+            "People call this line an iron curtain.",
+            "In some schools, children practice a hiding drill under their desks.",
+            "They fear a bomb might fall from the sky.",
+            "This tense rivalry lasts for more than forty years."
+          ],
+          "question": "Which conflict is Conflict X?",
+          "options": [
+            "World War II",
+            "The Cold War",
+            "The Korean War",
+            "The Vietnam War"
+          ],
+          "correct": "The Cold War",
+          "words": [
+            {
+              "word": "iron curtain",
+              "explanation": "a name for the guarded line that cuts Europe in two"
+            },
+            {
+              "word": "guard",
+              "explanation": "a person whose job is to stop people from crossing a border"
+            },
+            {
+              "word": "drill",
+              "explanation": "a practice exercise done again and again to prepare for danger"
+            },
+            {
+              "word": "rivalry",
+              "explanation": "a long contest between two sides that both want to be the strongest"
+            }
+          ],
+          "main_image": {
+            "description": "A 1950s classroom: a teacher in a plain cardigan and pencil skirt stands calmly at the front while a group of children in period school clothes crouch under their wooden desks with hands over their heads during a practice drill, a blank chalkboard behind, tall windows with soft daylight. Production note: 1950s furniture and clothing only, no modern desks, computers, phones or screens, no flags, no national emblems, no readable text on the chalkboard or any wall chart, no recognizable faces, no visible fear or distress on faces.",
+            "caption": "Some children practice hiding under their desks, just in case.",
+            "shutterstock_query": "1950s classroom children hiding under desks drill illustration",
+            "ai_prompt": "Photorealistic illustration of a 1950s classroom, a teacher in a plain cardigan and pencil skirt standing calmly at the front while a group of children in period school clothes crouch under their wooden desks with hands over their heads during a practice drill, a blank chalkboard, tall windows with soft daylight, calm orderly mood, 1950s furniture and clothing only, no modern desks, no computers, no phones, no posters, no emblems, no recognizable faces, no text, no letters, no numbers, no flags."
+          },
+          "side_image": {
+            "description": "Vertical scene at dusk: a barbed wire fence and a plain wooden watchtower cut across a green field, a lone guard in a generic grey greatcoat and flat cap walks along the fence with a torch, low hills behind, blue evening light. The picture explains the phrase iron curtain. Production note: 1950s to 1960s clothing and equipment only, no modern vehicles, no national insignia, no flags, no emblems, no dogs, no weapons in clear focus, no readable signs, no recognizable face.",
+            "caption": "A line of fences and towers cuts straight across the land.",
+            "shutterstock_query": "1950s fenced border watchtower guard dusk field illustration",
+            "ai_prompt": "Photorealistic vertical scene at dusk of a barbed wire fence and a plain wooden watchtower cutting across a green field, a lone guard in a generic grey greatcoat and flat cap moving along the fence with a torch, low hills behind, blue evening light, tense quiet mood, 1950s to 1960s clothing and equipment only, no modern vehicles, no insignia, no emblems, no dogs, no weapons in clear focus, no recognizable face, no text, no letters, no numbers, no flags."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Fighting through other people's wars",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Conflict X is fought mostly through other countries and other people.",
+            "The two rival powers rarely send soldiers to fight each other.",
+            "In the early 1950s, the western power fights in Korea with its own army.",
+            "The eastern power secretly arms the other side.",
+            "Later, the western power sends its army into a long war in Vietnam.",
+            "The eastern power later sends soldiers into a war in Afghanistan.",
+            "Both powers send weapons and money into a civil war in Angola.",
+            "They also back rival sides in several wars across Central America.",
+            "The two powers also race each other into space.",
+            "A wall cuts one divided city in Europe in two.",
+            "Millions of soldiers and civilians die in these wars."
+          ],
+          "question": "Which conflict is Conflict X?",
+          "options": [
+            "The Gulf War",
+            "The Yugoslav Wars",
+            "The Cold War",
+            "The Spanish Civil War"
+          ],
+          "correct": "The Cold War",
+          "words": [
+            {
+              "word": "rival",
+              "explanation": "a country or person competing strongly against another"
+            },
+            {
+              "word": "civil war",
+              "explanation": "a war fought between groups inside one country"
+            },
+            {
+              "word": "civilian",
+              "explanation": "a person who is not a soldier"
+            }
+          ],
+          "main_image": {
+            "description": "A rural airfield in the 1960s: a propeller cargo plane sits on a dirt strip while soldiers in period fatigues unload plain wooden crates, dense tropical forest around, warm humid light, calm serious mood. Production note: 1960s military clothing and equipment only, no modern aircraft or vehicles, no flags, no emblems, no hammer and sickle, no stars and stripes, no national symbols on the crates or plane, no visible weapons of modern design, no recognizable faces, no violence, no bodies.",
+            "caption": "Soldiers and supplies arrive to help one side in another country's war.",
+            "shutterstock_query": "1960s military cargo plane airfield jungle soldiers illustration",
+            "ai_prompt": "Photorealistic historical scene at a rural airfield in the 1960s, a propeller cargo plane parked on a dirt strip with soldiers in period fatigues unloading plain wooden crates, dense tropical forest around, warm humid light, calm serious mood, 1960s military clothing and equipment only, no modern aircraft or vehicles, no emblems, no hammer and sickle, no stars and stripes, no national symbols, no recognizable faces, no text, no letters, no numbers, no flags."
+          },
+          "side_image": {
+            "description": "Vertical night scene: a tall unmarked rocket stands on a launch tower at a remote 1960s launch site, floodlights lighting steam and smoke at its base, technicians in period overalls observing from a safe distance. The picture explains the phrase race into space. Production note: 1960s rocket design and clothing only, no modern rockets, no emblems, no hammer and sickle, no stars and stripes, no symbols on the rocket body, no readable dials or panels, no recognizable faces.",
+            "caption": "The two powers compete to be first to send rockets into space.",
+            "shutterstock_query": "1960s rocket launch night floodlights technicians illustration",
+            "ai_prompt": "Photorealistic vertical night scene of a tall unmarked rocket on a launch tower at a remote 1960s launch site, floodlights illuminating steam and smoke at its base, technicians in period overalls observing from a safe distance, dramatic night sky, 1960s rocket design and clothing only, no modern rockets, no emblems, no hammer and sickle, no stars and stripes, no symbols on the rocket body, no recognizable faces, no text, no letters, no numbers, no flags."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Thirteen days that shake the world",
+          "category": "twentieth century",
+          "text_sentences": [
+            "In October 1962, Conflict X reaches its most dangerous moment.",
+            "Spy planes find missiles hidden on an island near the United States.",
+            "These missiles could reach many cities within minutes.",
+            "For thirteen tense days, the world fears a nuclear war.",
+            "The two leaders exchange secret letters late at night.",
+            "Military officers on both sides prepare for the worst.",
+            "At last, the two sides agree on a deal, part of it secret.",
+            "One side promises to remove its missiles from the island.",
+            "The other side promises not to invade the island.",
+            "It also secretly agrees to remove missiles near its rival.",
+            "After the crisis, the two leaders set up a direct line for urgent messages.",
+            "They hope fast contact can prevent such danger in the future."
+          ],
+          "question": "Which conflict is Conflict X?",
+          "options": [
+            "The Vietnam War",
+            "The Yugoslav Wars",
+            "The Korean War",
+            "The Cold War"
+          ],
+          "correct": "The Cold War",
+          "words": [
+            {
+              "word": "missile",
+              "explanation": "a weapon that flies through the air to hit a target far away"
+            },
+            {
+              "word": "nuclear",
+              "explanation": "using the huge power inside atoms, strong enough to destroy whole cities"
+            },
+            {
+              "word": "spy plane",
+              "explanation": "an aircraft that flies high and takes secret photographs of another country"
+            }
+          ],
+          "main_image": {
+            "description": "A wide scene at sea in 1962: a grey naval warship of the era steams close beside a merchant cargo ship, sailors in period uniforms standing on deck watching, choppy grey water, overcast sky, tense mood. Production note: 1962 ship design and uniforms only, no modern vessels, no flags, no hammer and sickle, no stars and stripes, no hull symbols or numbers, no readable maps, no mushroom clouds, no weapons fired, no recognizable faces.",
+            "caption": "Warships stop ships heading toward the island and check their cargo.",
+            "shutterstock_query": "1962 naval ships sea blockade grey warship illustration",
+            "ai_prompt": "Photorealistic wide scene at sea in 1962, a grey naval warship of the era steaming close beside a merchant cargo ship, sailors in period uniforms standing on deck watching, choppy grey water, overcast sky, tense quiet mood, 1962 ship design and uniforms only, no modern vessels, no hull symbols, no maps, no mushroom clouds, no weapons fired, no recognizable faces, no text, no letters, no numbers, no flags."
+          },
+          "side_image": {
+            "description": "A vertical night scene: a man in a plain 1960s dark suit sits at a wooden desk writing quickly by lamplight, a closed envelope and an old rotary telephone resting nearby, heavy curtains drawn, seen from behind so the face is hidden. The picture explains the idea of secret letters sent late at night. Production note: 1960s office furniture and clothing only, no modern electronics, no computers or phones of modern design, no flags, no emblems, no readable text on any paper.",
+            "caption": "Late at night, the two leaders send each other careful, secret messages.",
+            "shutterstock_query": "1960s desk lamp man writing letter night from behind illustration",
+            "ai_prompt": "Photorealistic vertical night scene of a man in a plain 1960s dark suit sitting at a wooden desk writing quickly by lamplight, a closed envelope and an old rotary telephone nearby, heavy curtains drawn, seen from behind so the face is hidden, quiet tense mood, 1960s office furniture and clothing only, no modern electronics, no emblems, no text, no letters, no numbers, no flags."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A rivalry that reaches every continent",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Conflict X shapes lives in Asia, Africa and Latin America too.",
+            "Many countries in Asia and Africa become independent around this time.",
+            "In 1955, representatives from twenty-nine countries meet in a city named Bandung.",
+            "Many of them want to stay out of the rivalry between the two powers.",
+            "Still, the rivalry reaches into their countries in painful ways.",
+            "In Congo, outside powers help remove the country's first elected leader.",
+            "Years of crisis and civil conflict follow.",
+            "In Chile, a coup overthrows an elected leader.",
+            "One power helps prepare the coup and welcomes it.",
+            "In Indonesia, political violence kills several hundred thousand people.",
+            "Dictators in many poorer countries receive support from one side or the other.",
+            "Ordinary people bear the heaviest cost of this global rivalry."
+          ],
+          "question": "Which conflict is Conflict X?",
+          "options": [
+            "The Cold War",
+            "The Yugoslav Wars",
+            "The Gulf War",
+            "The Korean War"
+          ],
+          "correct": "The Cold War",
+          "words": [
+            {
+              "word": "representative",
+              "explanation": "a person sent to speak and act for a country or group"
+            },
+            {
+              "word": "coup",
+              "explanation": "a sudden illegal takeover of a government, often by the army"
+            },
+            {
+              "word": "dictator",
+              "explanation": "a ruler who holds total power and allows little freedom"
+            }
+          ],
+          "main_image": {
+            "description": "A wide scene inside a large conference hall in 1955: delegates in a variety of formal national dress from Asia and Africa sit at long curved tables with water glasses and papers lying face down, no nameplates, high windows, warm afternoon light, attentive respectful mood. Production note: 1955 clothing and furniture only, generic delegates not resembling any real named person, no flags, no national emblems, no nameplates, name cards or readable documents, no microphones of modern design, no modern technology.",
+            "caption": "Leaders of many new countries meet and look for their own path.",
+            "shutterstock_query": "1955 conference hall delegates asia africa illustration",
+            "ai_prompt": "Photorealistic wide scene inside a large conference hall in 1955, delegates in a variety of formal national dress from Asia and Africa seated at long curved tables with water glasses and papers lying face down, no nameplates, high windows, warm afternoon light, attentive respectful mood, 1955 clothing and furniture only, generic delegates only, no name cards, no emblems, no modern technology, no text, no letters, no numbers, no flags."
+          },
+          "side_image": {
+            "description": "A vertical night scene: a small group of soldiers in generic dark fatigues of the 1960s stands guard outside the closed doors of a government building, one soldier gripping a rifle, streetlights glowing, empty street. The picture explains the word coup. Production note: 1960s to 1970s military clothing and equipment only, no modern vehicles or gear, no national insignia, no flags, no hammer and sickle, no stars and stripes, no visible violence or bodies, no readable signage, no recognizable faces.",
+            "caption": "One night, soldiers take control of a government building by force.",
+            "shutterstock_query": "1960s soldiers government building night guard illustration",
+            "ai_prompt": "Photorealistic vertical night scene of a small group of soldiers in generic dark fatigues of the 1960s standing guard outside the closed doors of a government building, one soldier gripping a rifle, streetlights glowing, empty street, tense quiet mood, 1960s to 1970s military clothing and equipment only, no modern vehicles or gear, no insignia, no hammer and sickle, no stars and stripes, no recognizable faces, no text, no letters, no numbers, no flags."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Whose fault, and how does it end",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Historians disagree about who is most to blame for Conflict X.",
+            "One early group of historians blames the eastern power's ambitions.",
+            "A later group of historians blames the western power's actions instead.",
+            "A third group argues that fear and misunderstanding drive both sides.",
+            "The rivalry ends gradually between the late 1980s and the early 1990s.",
+            "The eastern power lets its allies in Europe hold free elections.",
+            "Soon after, the eastern superpower breaks apart into fifteen separate countries.",
+            "After 1991, archives in the east open to researchers.",
+            "The new documents force historians to revise some earlier conclusions.",
+            "Historians still argue about which explanation fits the evidence best.",
+            "Each newly opened archive can quietly change the accepted story."
+          ],
+          "question": "Which conflict is Conflict X?",
+          "options": [
+            "World War II",
+            "The Vietnam War",
+            "The Yugoslav Wars",
+            "The Cold War"
+          ],
+          "correct": "The Cold War",
+          "words": [
+            {
+              "word": "ambition",
+              "explanation": "a strong wish to gain power, success, or influence"
+            },
+            {
+              "word": "archive",
+              "explanation": "a place where old documents and records are kept"
+            },
+            {
+              "word": "superpower",
+              "explanation": "an extremely powerful country with influence across the world"
+            }
+          ],
+          "main_image": {
+            "description": "A wide scene in a city square in 1991, seen from a distance: a tall crane lifts a giant dark bronze statue of an anonymous man in a long coat off its stone plinth, a crowd in early-1990s coats and jackets watches from behind, grey autumn light, plain concrete buildings behind. The picture explains how the eastern power's old order ends. Production note: early 1990s clothing, crane and vehicles only, the statue's face generic and in shadow, not resembling any real leader, no hammer and sickle, no flags, no national emblems, no readable inscriptions on the plinth, no graffiti, no identifiable landmarks, no smartphones, no recognizable faces in the crowd.",
+            "caption": "As the rivalry ends, a crane lifts an old statue off its base.",
+            "shutterstock_query": "1991 crane removes statue plinth city square crowd illustration",
+            "ai_prompt": "Photorealistic wide scene in a city square in 1991 seen from a distance, a tall crane lifting a giant dark bronze statue of an anonymous man in a long coat off its stone plinth, a crowd in early-1990s coats and jackets watching from behind, grey autumn light, plain concrete buildings behind, quiet historic mood, early 1990s clothing and vehicles only, statue face generic and in shadow, no hammer and sickle, no emblems, no inscriptions, no graffiti, no identifiable landmarks, no recognizable faces, no text, no letters, no numbers, no flags."
+          },
+          "side_image": {
+            "description": "A vertical scene in a scrapyard in the late 1980s, seen from a distance: a long plain grey missile body without any markings lies on wooden blocks while workers in period overalls and hard hats cut it into sections, a crane holding one cut section in the air, grey overcast sky, piles of scrap metal behind. The picture explains how the two powers begin to disarm as the rivalry ends. Production note: late 1980s clothing, tools and vehicles only, no warhead or explosion shown, no mushroom clouds, no emblems or symbols on the missile, no hammer and sickle, no stars and stripes, no flags, no readable signs, no recognizable faces.",
+            "caption": "The two powers begin to take some of their missiles apart.",
+            "shutterstock_query": "1980s missile dismantled scrapyard crane workers distance illustration",
+            "ai_prompt": "Photorealistic vertical scene in a scrapyard in the late 1980s seen from a distance, a long plain grey missile body without markings lying on wooden blocks while workers in period overalls and hard hats cut it into sections, a crane holding one cut section in the air, grey overcast sky, piles of scrap metal behind, calm working mood, late 1980s clothing, tools and vehicles only, no warhead, no explosion, no mushroom clouds, no emblems or symbols on the missile, no hammer and sickle, no stars and stripes, no recognizable faces, no text, no letters, no numbers, no flags."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "martin-luther-king",
+      "person": "Martin Luther King Jr.",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Year Without the Bus",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X lives in a city in the southern United States.",
+            "In 1955, Black passengers must sit at the back of buses.",
+            "One day, a woman named Rosa Parks refuses to give up her seat.",
+            "Police arrest her, and Black leaders plan a protest.",
+            "They choose Mr X, a young pastor of twenty-six, to lead it.",
+            "For more than a year, Black residents refuse to ride the buses.",
+            "They walk long distances or share rides in cars instead.",
+            "The bus company loses money every single day.",
+            "At last, a court rules that the seating rule is against the law."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Thurgood Marshall",
+            "Jesse Jackson",
+            "Martin Luther King Jr.",
+            "John Lewis"
+          ],
+          "correct": "Martin Luther King Jr.",
+          "words": [
+            {
+              "word": "pastor",
+              "explanation": "a leader of a Christian church"
+            },
+            {
+              "word": "protest",
+              "explanation": "a public action that shows something is wrong"
+            },
+            {
+              "word": "residents",
+              "explanation": "people who live in a place"
+            },
+            {
+              "word": "arrest",
+              "explanation": "when police take a person away and do not let them go free"
+            }
+          ],
+          "main_image": {
+            "description": "The inside of a city bus in the American South in 1955. Black passengers sit in the rear rows on worn padded bench seats covered in green vinyl, White passengers sit near the front, with an empty row between them. Seen from the center aisle looking toward the back, faces turned away or in shadow. Soft afternoon light through the bus windows. Production note: era-correct 1950s bus interior and 1950s clothing only, no wooden benches, no modern buses, no readable advertisements or signs inside the bus, no visible license plates, no recognizable faces, no phones or modern objects, no text, no letters, no numbers.",
+            "caption": "In 1955, where a passenger may sit depends on skin color.",
+            "shutterstock_query": "1950s american city bus interior segregated seating rows illustration",
+            "ai_prompt": "Realistic illustration of the inside of a 1950s American city bus, worn padded bench seats covered in green vinyl, a divider partway back separating the front rows from the rear rows, a mix of passengers in 1950s clothing seated with faces turned away or in shadow so no one is recognizable, soft afternoon light through the windows, no wooden benches, no modern bus features, no advertisements, no readable signs, no license plates, no logos, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A quiet residential street in a southern American city in 1955, seen from behind at a distance. Several Black residents in everyday 1950s clothing walk together along the sidewalk instead of waiting for a bus, some carrying grocery bags or lunch pails. Morning light, calm determined mood. Production note: no recognizable faces, no readable street signs or house numbers, only 1950s architecture and clothing, no modern cars, no text, no letters, no numbers.",
+            "caption": "Many neighbors choose to walk rather than ride the bus.",
+            "shutterstock_query": "1950s american residential street pedestrians walking sidewalk from behind",
+            "ai_prompt": "Realistic vertical illustration of a quiet residential street in a southern American city in 1955, several Black residents in everyday 1950s clothing walking together along the sidewalk instead of waiting for a bus, some carrying grocery bags or lunch pails, seen from behind at a distance so no face is recognizable, small wood-frame houses of the era, morning light, calm determined mood, no readable street signs, no house numbers, no modern cars, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Dogs, Hoses, and a Letter from Jail",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X studies the ideas of a leader in India who fights without weapons.",
+            "He believes protest should never turn to violence, even when police attack.",
+            "In the southern United States, activists sit at lunch counters that refuse to serve them.",
+            "Police arrest Mr X again and again for these peaceful protests.",
+            "In 1963, police put him in jail in a city called Birmingham.",
+            "In jail, Mr X writes a long letter.",
+            "In it, he explains why people must not wait patiently for freedom.",
+            "A few weeks later, children join a big march in the same city.",
+            "Police turn dogs and powerful water hoses on the young marchers.",
+            "Cameras film the attack, and people around the world watch on television."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Thurgood Marshall",
+            "Martin Luther King Jr.",
+            "Medgar Evers",
+            "Jesse Jackson"
+          ],
+          "correct": "Martin Luther King Jr.",
+          "words": [
+            {
+              "word": "activists",
+              "explanation": "people who work hard to bring about change"
+            },
+            {
+              "word": "lunch counter",
+              "explanation": "a long table in a shop where people sit to eat a quick meal"
+            },
+            {
+              "word": "marchers",
+              "explanation": "people who walk together to show what they believe"
+            },
+            {
+              "word": "jail",
+              "explanation": "a place where police keep people who are arrested"
+            }
+          ],
+          "main_image": {
+            "description": "A city street in Birmingham, Alabama in 1963, seen from a distance across a plaza. Powerful arcs of water from fire hoses spray toward a group of young marchers in 1960s clothing, seen only from behind or in silhouette. Police officers and leashed dogs stand at the edge of the frame. Overcast daylight, tense but not graphic mood. Production note: no visible injuries, no contact between dogs and people, no signs, placards or banners of any kind, 1960s cars only in the background, no modern vehicles, no recognizable faces, no text, no letters, no numbers.",
+            "caption": "In 1963, the police use dogs and powerful water hoses against the marchers.",
+            "shutterstock_query": "1963 birmingham civil rights protest water hoses distant silhouette illustration",
+            "ai_prompt": "Realistic illustration of a city street in Birmingham Alabama in 1963 seen from a distance across a plaza, powerful arcs of water from fire hoses spraying toward a group of young marchers in 1960s clothing seen only from behind or in silhouette with no recognizable faces, police officers and leashed dogs at the edge of the frame also without recognizable faces, overcast daylight, tense but not graphic mood, no visible injuries, no contact between dogs and people, no signs, no placards, no banners, 1960s cars in the background only, no modern vehicles, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A small, plain jail cell from the early 1960s, seen from just inside the barred door. A narrow cot, a metal sink, and a small wooden shelf holding a stack of blank scrap paper and a pencil stub sit in a shaft of light from a high window. No people are shown. Production note: paper completely blank, no readable handwriting, no graffiti on the walls, 1960s fixtures only, no modern fixtures, calm and still mood, no text, no letters, no numbers.",
+            "caption": "In a small jail cell, he writes his answer on scraps of paper.",
+            "shutterstock_query": "1960s jail cell interior narrow cot blank paper shelf light",
+            "ai_prompt": "Vertical realistic illustration of a small plain jail cell from the early 1960s, seen from just inside the barred door, a narrow cot, a metal sink, and a small wooden shelf holding a stack of blank scrap paper and a pencil stub, a shaft of light from a high barred window, no people, paper completely blank with no readable handwriting, no graffiti, no modern fixtures, calm still mood, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Dream at the Capital",
+          "category": "twentieth century",
+          "text_sentences": [
+            "In 1963, Mr X helps lead a huge march in the United States.",
+            "About two hundred fifty thousand people gather in the capital to listen.",
+            "He gives a famous speech about his dream for the future.",
+            "He dreams that people will judge his children by their character, not their skin.",
+            "The speech becomes one of the most quoted in the country's history.",
+            "The next year, a new law bans segregation in public places across the country.",
+            "That same year, Mr X receives a great prize for peace.",
+            "At thirty-five, he is then the youngest person ever to win it.",
+            "The year after, another new law protects the right of Black citizens to vote."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "John Lewis",
+            "W. E. B. Du Bois",
+            "Medgar Evers",
+            "Martin Luther King Jr."
+          ],
+          "correct": "Martin Luther King Jr.",
+          "words": [
+            {
+              "word": "capital",
+              "explanation": "the main city of a country, where the government meets"
+            },
+            {
+              "word": "segregation",
+              "explanation": "the unfair separation of people because of skin color"
+            },
+            {
+              "word": "citizens",
+              "explanation": "people who legally belong to a country"
+            },
+            {
+              "word": "character",
+              "explanation": "a person's inner qualities, like honesty and kindness"
+            }
+          ],
+          "main_image": {
+            "description": "A vast crowd fills a long park in the American capital in 1963, seen from a high angle and from behind so no individual face is recognizable. People in 1960s clothing stand shoulder to shoulder, many holding blank paper fans against the summer heat, stretching toward the horizon. No specific monument is shown, only trees and open sky. Production note: 1960s clothing only, no signs, placards or banners, no flags, no famous buildings or monuments recognizable in outline, all fans and papers completely blank, no modern objects, no text, no letters, no numbers.",
+            "caption": "In 1963, about a quarter of a million people gather to listen.",
+            "shutterstock_query": "1963 huge crowd gathered park summer high angle from behind illustration",
+            "ai_prompt": "Realistic illustration of a vast crowd filling a long park in the American capital in 1963, seen from a high angle and from behind so no individual face is recognizable, people in 1960s clothing standing shoulder to shoulder, many holding blank paper fans against the summer heat, the crowd stretching toward the horizon, trees and open sky only with no specific monument shown, warm hazy summer light, no signs, no placards, no banners, no flags, no recognizable famous buildings, all fans and papers completely blank, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A close vertical view of a plain round gold medal resting in an open velvet presentation box on a wooden table, a folded silk ribbon lying beside it. Soft indoor light, no people, no hands. Production note: the medal's surface is smooth and unengraved, no certificate, paper or document of any kind, no readable text or numbers anywhere, no flags or national symbols, no modern objects, no text, no letters, no numbers.",
+            "caption": "That same year, a committee in Europe honors him with a great prize for peace.",
+            "shutterstock_query": "gold medal velvet presentation box ribbon wooden table closeup",
+            "ai_prompt": "Photorealistic vertical close-up of a plain round gold medal resting in an open velvet presentation box on a wooden table, a folded silk ribbon beside it, soft warm indoor light, no people, no hands, the medal surface smooth and unengraved, no certificate, no paper, no document, no flags or national symbols, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Too Slow for the Young",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X faces sharp criticism from other Black leaders.",
+            "A leader named Malcolm X calls his peaceful method too slow.",
+            "In his last years, many younger activists say the same.",
+            "They want faster change and are ready to use force if needed.",
+            "Mr X begins to speak out against the war in Vietnam.",
+            "The president and many old allies turn against him because of this stand.",
+            "He starts a new campaign against poverty for poor Americans of every color.",
+            "In 1968, he travels to Memphis to support sanitation workers who are on strike.",
+            "There, on a motel balcony, a gunman shoots him dead.",
+            "His death shocks the nation, and riots break out in many cities."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Martin Luther King Jr.",
+            "John Lewis",
+            "Thurgood Marshall",
+            "Jesse Jackson"
+          ],
+          "correct": "Martin Luther King Jr.",
+          "words": [
+            {
+              "word": "criticism",
+              "explanation": "comments that say what is wrong with something"
+            },
+            {
+              "word": "campaign",
+              "explanation": "an organized effort to reach a goal"
+            },
+            {
+              "word": "poverty",
+              "explanation": "the state of being very poor"
+            },
+            {
+              "word": "sanitation",
+              "explanation": "the systems that keep a place clean, like trash collection"
+            }
+          ],
+          "main_image": {
+            "description": "A city street in 1968 where a line of sanitation workers in work uniforms of the era stand with arms folded beside parked garbage trucks with rounded fenders, seen from the side at a distance so no face is recognizable. Overcast late-winter light, quiet determined mood. Production note: no signs, placards or boards of any kind, no readable lettering on trucks or uniforms, 1968 trucks and clothing only, no modern vehicles, no violence or police shown, no recognizable faces, no text, no letters, no numbers.",
+            "caption": "In 1968, sanitation workers in Memphis go on strike for fair pay.",
+            "shutterstock_query": "1968 sanitation workers strike memphis garbage trucks street illustration",
+            "ai_prompt": "Realistic illustration of a city street in 1968 where a line of sanitation workers in period work uniforms stand with arms folded beside parked garbage trucks with rounded fenders, seen from the side at a distance so no face is recognizable, overcast late-winter light, quiet determined mood, no signs, no placards, no boards, no readable lettering on trucks or uniforms, 1968 trucks and clothing only, no modern vehicles, no violence, no police, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "The exterior of a plain two-story motel building from 1968, seen from across a parking lot at dusk. A single balcony railing on the upper floor is lit by one outdoor lamp. No people are shown anywhere. Production note: no blood, no figures, no motel sign or room numbers, 1968 cars only in soft focus in the lot, no modern vehicles, calm somber mood, no text, no letters, no numbers.",
+            "caption": "A few weeks later, in Memphis, his story comes to a sudden end.",
+            "shutterstock_query": "1968 motel exterior balcony dusk empty parking lot illustration",
+            "ai_prompt": "Atmospheric realistic illustration of the exterior of a plain two-story motel building from 1968, seen from across a parking lot at dusk, a single balcony railing on the upper floor lit by one outdoor lamp, no people anywhere, 1968 cars in soft focus in the lot, no modern vehicles, no blood, no figures, no motel sign, no room numbers, quiet somber mood, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The Man Behind the Myth",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Historians still debate how much one leader can shape a mass movement.",
+            "Mr X leads a movement for equal rights in the United States after 1955.",
+            "Some argue thousands of local organizers do the daily, quiet work.",
+            "Women such as Ella Baker and Jo Ann Robinson plan and organize for years.",
+            "Yet public memory often remembers only a handful of famous names.",
+            "For years, government agents secretly watch Mr X.",
+            "They record his private conversations and try to damage his reputation.",
+            "Historians study his sermons, recordings, and court records to understand him.",
+            "Today, textbooks often remember a calm dreamer of peaceful change.",
+            "Fewer people remember his later, sharper criticism of poverty and war.",
+            "Historians argue that both pictures are true, and both are incomplete."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Thurgood Marshall",
+            "John Lewis",
+            "Martin Luther King Jr.",
+            "W. E. B. Du Bois"
+          ],
+          "correct": "Martin Luther King Jr.",
+          "words": [
+            {
+              "word": "organizers",
+              "explanation": "people who plan and arrange the work of a group"
+            },
+            {
+              "word": "reputation",
+              "explanation": "what other people think and say about a person"
+            },
+            {
+              "word": "sermons",
+              "explanation": "religious speeches given in a church"
+            },
+            {
+              "word": "incomplete",
+              "explanation": "not whole, missing some parts"
+            }
+          ],
+          "main_image": {
+            "description": "A plain wooden table in a dim 1960s room: a reel-to-reel tape recorder with its reels turning, a large 1960s microphone on a short stand, and a pair of period headphones lying beside them. No people are shown. Cool light through half-closed window blinds, quiet and slightly ominous mood. Production note: 1960s equipment only, no labels, brand marks or readable dials, no visible badges or emblems, no modern computers, phones or electronics, no text, no letters, no numbers.",
+            "caption": "For years, government agents secretly record his private conversations.",
+            "shutterstock_query": "1960s reel to reel tape recorder microphone table dim room",
+            "ai_prompt": "Realistic illustration of a plain wooden table in a dim 1960s room, a reel-to-reel tape recorder with its reels turning, a large 1960s microphone on a short stand, a pair of period headphones lying beside them, no people, cool light through half-closed window blinds, quiet slightly ominous mood, 1960s equipment only, no labels, no brand marks, no readable dials, no badges or emblems, no modern computers, no phones, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A plain wooden church pulpit from the mid-twentieth century, with an open Bible resting on it at an angle so no words are readable, seen from the empty pews looking up. Warm light from a side window. No people are shown. Production note: mid-twentieth-century furnishings only, pages completely blank or blurred, no readable text or verses, no crosses or symbols in sharp focus, no modern lamps or microphones, no text, no letters, no numbers.",
+            "caption": "His sermons, spoken from a pulpit like this, become a key historical source.",
+            "shutterstock_query": "empty church pulpit open bible warm light vertical illustration",
+            "ai_prompt": "Warm vertical realistic illustration of a plain wooden church pulpit from the mid-twentieth century, an open Bible resting on it at an angle so no words are readable, seen from the empty pews looking up, warm light from a side window, no people, pages completely blank or blurred, no readable text or verses, no crosses or symbols in sharp focus, no modern lamps or microphones, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nelson-mandela",
+      "person": "Nelson Mandela",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Boy Who Runs to the City",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X grows up in a small village in South Africa.",
+            "As a boy, he herds cattle on green hills.",
+            "On his first day of school, a teacher gives him a new name.",
+            "Later, his family arranges a marriage for him.",
+            "Mr X does not want this marriage, so he runs away.",
+            "He travels far to a big city and begins to study law.",
+            "New laws now say where people may sit, eat, and travel.",
+            "These laws depend only on the color of a person's skin.",
+            "Mr X decides that these laws are not fair.",
+            "Many years later, he becomes his country's first Black president."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Steve Biko",
+            "Nelson Mandela",
+            "Desmond Tutu",
+            "Oliver Tambo"
+          ],
+          "correct": "Nelson Mandela",
+          "words": [
+            {
+              "word": "herd",
+              "explanation": "to move a group of animals together"
+            },
+            {
+              "word": "cattle",
+              "explanation": "cows and bulls kept by farmers"
+            },
+            {
+              "word": "arrange",
+              "explanation": "to plan something before it happens"
+            },
+            {
+              "word": "marriage",
+              "explanation": "when two people become husband and wife"
+            }
+          ],
+          "main_image": {
+            "description": "A boy in simple traditional dress herds a small group of cattle across green rolling hills in 1920s rural Transkei, South Africa. Distant thatched rondavel huts sit under a wide sky, a dirt path winds through the grass, and the boy is seen from behind and at a distance so no face is visible. Production note: 1920s rural clothing only, bare feet or simple sandals, no modern fencing, no cars or bicycles, no wristwatch, no power lines, no readable marks anywhere, calm warm morning light.",
+            "caption": "In the hills of his home region, a boy learns to herd cattle.",
+            "shutterstock_query": "1920s rural transkei south africa boy herding cattle hills thatched huts",
+            "ai_prompt": "Realistic illustration of a boy in simple 1920s traditional dress herding a small group of cattle across green rolling hills in rural Transkei, South Africa, distant thatched rondavel huts under a wide sky, a dirt path winding through the grass, the boy seen from behind and at a distance so no face is visible, warm calm morning light, 1920s rural setting only, no modern fencing, no cars, no bicycles, no wristwatch, no power lines, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A single weathered wooden park bench stands alone on a mowed lawn in a 1950s South African public park, painted in one plain color. No people are in the frame, no signpost or sign of any kind. Soft afternoon light falls across the empty grass. Production note: 1950s park furnishings only, no signposts, plaques or labels, no letters or symbols anywhere, no modern benches or bins, no vehicles, calm quiet mood.",
+            "caption": "Even a park bench like this one is only for some people.",
+            "shutterstock_query": "empty weathered park bench lawn 1950s public park south africa",
+            "ai_prompt": "Vertical realistic illustration of a single weathered wooden park bench painted in one plain color on a mowed lawn in a 1950s South African public park, no people in the frame, no signpost, soft afternoon light across empty grass, 1950s park furnishings only, no modern benches, no bins, no vehicles, no plaques, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Eighteen Years on an Island",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X works as a lawyer in Johannesburg.",
+            "In 1964, he stands trial for actions against an unfair government.",
+            "In court, he speaks of his ideal of a free society.",
+            "He says he is ready to die for this ideal.",
+            "The judge sends him to prison for the rest of his life.",
+            "Guards take him to an island near Cape Town for eighteen years.",
+            "For thirteen years, he breaks stone in a hot limestone quarry.",
+            "Dust and sunlight from the quarry harm his eyes.",
+            "He may write and receive only a few censored letters.",
+            "Later, guards let him grow a small garden in the yard.",
+            "In total, Mr X spends twenty-seven years behind bars.",
+            "Outside, more and more people around the world sing songs about him."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Walter Sisulu",
+            "Julius Nyerere",
+            "Nelson Mandela",
+            "F. W. de Klerk"
+          ],
+          "correct": "Nelson Mandela",
+          "words": [
+            {
+              "word": "trial",
+              "explanation": "when a court decides if a person did something wrong"
+            },
+            {
+              "word": "quarry",
+              "explanation": "a place where workers cut or break stone from the ground"
+            },
+            {
+              "word": "censored",
+              "explanation": "checked and partly blocked by an authority before it is allowed"
+            },
+            {
+              "word": "ideal",
+              "explanation": "an idea of how something should be, at its best"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a formal 1960s South African courtroom, dark wood paneling and rows of wooden benches for onlookers surround a raised judge's bench at the far end. A lone man in a plain dark suit stands small in the dock, seen from behind, addressing the court. Soft light falls from tall windows. Production note: 1960s courtroom furnishings and clothing only, no cameras, no microphones, no flags, no coats of arms, no recognizable face, calm and serious mood.",
+            "caption": "In a quiet courtroom, Mr X answers for the fight he has chosen.",
+            "shutterstock_query": "1960s courtroom wood paneling judge bench man standing dock from behind",
+            "ai_prompt": "Realistic illustration inside a formal 1960s South African courtroom, dark wood paneling, rows of wooden benches for onlookers, a raised judge's bench at the far end, a lone man in a plain dark suit standing small in the dock seen from behind addressing the court, soft light from tall windows, 1960s courtroom furnishings and clothing only, no cameras, no microphones, no flags, no coats of arms, no recognizable face, calm serious mood, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "In a bright 1970s limestone quarry on a rocky island, several prisoners in plain period prison uniforms of khaki shorts and shirts bend over pale white stone, breaking it with pickaxes and hammers under a harsh glaring sun. A guard tower and the sea are visible in the far distance. All figures are seen from behind or at a distance. Production note: 1970s prison clothing only, hand tools only, no modern tools, no vehicles, no visible numbers or markings on uniforms, no recognizable faces, no blood or injury shown.",
+            "caption": "Far from the courtroom, he spends years breaking stone in the sun.",
+            "shutterstock_query": "1970s prisoners limestone quarry island breaking rock pickaxes from behind",
+            "ai_prompt": "Vertical realistic illustration of a bright 1970s limestone quarry on a rocky island, several prisoners in plain period prison uniforms of khaki shorts and shirts bending over pale white stone breaking it with pickaxes and hammers under harsh glaring sun, a guard tower and the sea visible in the far distance, all figures seen from behind or at a distance, 1970s prison clothing only, hand tools only, no modern tools, no vehicles, no visible numbers or markings on uniforms, no recognizable faces, no blood, no injury, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "From Protest to Sabotage",
+          "category": "twentieth century",
+          "text_sentences": [
+            "For years, Mr X and his movement in South Africa protest without weapons.",
+            "In 1960, police open fire on an unarmed crowd, killing sixty-nine people.",
+            "After this massacre, Mr X changes his mind about peaceful protest alone.",
+            "He believes peaceful methods now meet only violence in return.",
+            "With others, he starts a small armed group for sabotage.",
+            "Later, he explains that it attacks power lines and empty buildings, not people.",
+            "Police arrest him, and at his trial he defends this choice himself.",
+            "He calls it a hard decision, taken only when other paths close.",
+            "While he is in prison, his colleague Oliver Tambo leads the movement from abroad.",
+            "In the 1980s, parts of the movement also turn to violence against people.",
+            "In the end, Mr X chooses talks over more fighting."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Desmond Tutu",
+            "Walter Sisulu",
+            "Kwame Nkrumah",
+            "Nelson Mandela"
+          ],
+          "correct": "Nelson Mandela",
+          "words": [
+            {
+              "word": "massacre",
+              "explanation": "the killing of many people who cannot fight back"
+            },
+            {
+              "word": "unarmed",
+              "explanation": "carrying no weapons"
+            },
+            {
+              "word": "sabotage",
+              "explanation": "damaging machines or buildings on purpose to stop an enemy"
+            },
+            {
+              "word": "colleague",
+              "explanation": "a person who works with you for the same cause"
+            }
+          ],
+          "main_image": {
+            "description": "A wide dusty township square in 1960 South Africa, where a large calm crowd of men and women in plain period clothing stands together outside a low fence, some seated on the ground, hands empty. In the far distance, a blurred line of police vehicles and officers of the era waits. The mood is tense and hushed. Production note: 1960 clothing and vehicles only, no weapons in close focus, no visible injuries, no modern vehicles, no signs or placards, no recognizable faces, the scene shows tension before any violence, not violence itself.",
+            "caption": "A silent crowd gathers, and the mood turns tense and fearful.",
+            "shutterstock_query": "1960 south african township crowd gathered fence tense police distance",
+            "ai_prompt": "Realistic illustration of a wide dusty township square in 1960 South Africa, a large calm crowd of men and women in plain period clothing standing together outside a low fence, some seated on the ground with empty hands, a blurred line of period police vehicles and officers waiting in the far distance, tense hushed mood, 1960 clothing and vehicles only, no weapons in close focus, no visible injuries, no modern vehicles, no signs, no placards, no recognizable faces, showing tension before violence rather than violence itself, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A tall steel electricity pylon stands alone in open countryside at dusk in early 1960s South Africa, its dark silhouette against an orange and purple sky. No people or buildings are nearby. Production note: period-correct 1960s pylon design only, no modern wind turbines or solar panels, no warning signs or plates of any kind, calm but ominous mood.",
+            "caption": "The new campaign aims at towers like this one, not at people, he says.",
+            "shutterstock_query": "electricity pylon silhouette dusk rural south africa countryside",
+            "ai_prompt": "Vertical atmospheric illustration of a tall steel electricity pylon standing alone in open countryside at dusk in early 1960s South Africa, its dark silhouette against an orange and purple sky, no people or buildings nearby, period-correct 1960s pylon design only, no modern wind turbines, no solar panels, no warning signs or plates, calm ominous mood, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "From a Locked Gate to the Ballot Box",
+          "category": "twentieth century",
+          "text_sentences": [
+            "In 1990, guards in South Africa finally open the prison gate for Mr X.",
+            "He walks out hand in hand with his wife.",
+            "Mr X then holds long talks with the white president, F. W. de Klerk.",
+            "During these years, political violence in the country kills thousands of people.",
+            "At last, all sides agree that every adult may now vote.",
+            "Four years after his release, people of every color vote in a first free election.",
+            "Many wait for hours in long, patient lines to vote.",
+            "At seventy-five years old, Mr X becomes the country's new president.",
+            "Later, a commission lets victims and those who hurt them both speak.",
+            "Desmond Tutu leads this Truth and Reconciliation Commission.",
+            "After only one term as president, Mr X steps down from power."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Nelson Mandela",
+            "Walter Sisulu",
+            "Oliver Tambo",
+            "Julius Nyerere"
+          ],
+          "correct": "Nelson Mandela",
+          "words": [
+            {
+              "word": "commission",
+              "explanation": "a group of people given an official job to do"
+            },
+            {
+              "word": "reconciliation",
+              "explanation": "becoming friendly again after a conflict"
+            },
+            {
+              "word": "victims",
+              "explanation": "people who are hurt or harmed by others"
+            },
+            {
+              "word": "term",
+              "explanation": "a fixed length of time in an official job"
+            }
+          ],
+          "main_image": {
+            "description": "A long line of people of every age and skin color waits patiently along a dusty road outside a modest polling station in 1994 South Africa, dressed in the plain everyday clothing of the time, morning light casting long shadows. All figures are seen from behind or at a distance. Production note: early 1990s clothing only, no modern phones, no flags, no signs, posters or ballot papers, no modern vehicles, no recognizable faces, calm hopeful mood.",
+            "caption": "For the first time, people of every skin color stand in line to vote.",
+            "shutterstock_query": "1994 south africa long line voters polling station morning dusty road",
+            "ai_prompt": "Realistic illustration of a long line of people of every age and skin color waiting patiently along a dusty road outside a modest polling station in 1994 South Africa, dressed in plain early 1990s everyday clothing, morning light casting long shadows, all figures seen from behind or at a distance, no modern phones, no flags, no signs, no posters, no ballot papers visible, no modern vehicles, no recognizable faces, calm hopeful mood, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A heavy iron prison gate stands open in 1990 South Africa, and two adult figures walk away from it hand in hand toward a blurred crowd in the far distance. Both are seen from behind, dressed in the plain clothing of the era. Production note: 1990 clothing only, no recognizable faces, no patterned shirts used as an identifying detail, no flags, no cameras, no modern vehicles, no signs on the gate, calm hopeful mood.",
+            "caption": "A gate opens, and two figures walk out together into a waiting crowd.",
+            "shutterstock_query": "1990 prison gate open two figures walking away hand in hand from behind",
+            "ai_prompt": "Vertical realistic illustration of a heavy iron prison gate standing open in 1990 South Africa, two adult figures walking away from it hand in hand toward a blurred crowd in the far distance, both seen from behind dressed in plain 1990 clothing, no recognizable faces, no patterned shirts as an identifying detail, no flags, no cameras, no modern vehicles, no signs on the gate, calm hopeful mood, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Hero, Compromise, or Both?",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Historians still debate how to judge Mr X, a leader in South Africa.",
+            "Some call him a hero who ends a brutal system peacefully.",
+            "Others say he compromises too much, and inequality remains after 1994.",
+            "The gap between rich and poor in his country stays wide for decades.",
+            "Historians also ask how much credit belongs to one man alone.",
+            "A whole movement of thousands works and suffers for the same cause.",
+            "Mr X writes a long autobiography with help, a rich but personal source.",
+            "Historians note what the book leaves out, as well as what it tells.",
+            "Prison guards and officials also keep careful written records of his prison years.",
+            "These archives let researchers check and sometimes correct his own account.",
+            "His country once jails him as a terrorist.",
+            "Later, it calls him a father of the nation."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Steve Biko",
+            "Nelson Mandela",
+            "Kwame Nkrumah",
+            "Julius Nyerere"
+          ],
+          "correct": "Nelson Mandela",
+          "words": [
+            {
+              "word": "compromise",
+              "explanation": "giving up part of what you want, to reach agreement"
+            },
+            {
+              "word": "inequality",
+              "explanation": "when wealth or chances are not shared fairly"
+            },
+            {
+              "word": "autobiography",
+              "explanation": "a book a person writes about their own life"
+            },
+            {
+              "word": "archives",
+              "explanation": "collections of old documents kept for the future"
+            }
+          ],
+          "main_image": {
+            "description": "A small empty prison cell on a rocky island, seen from the corridor through the open barred door, in the plain style of the 1960s to 1980s: a thin sleeping mat rolled on the concrete floor, a small stool, a tin cup and plate, and sunlight from a high barred window falling across the bare wall. No people are shown. Production note: 1960s to 1980s prison fittings only, no modern locks, cameras or electric lights, no numbers or plates on the door, no graffiti or marks on the walls, no plaques or signs, calm still mood, no text, no letters, no numbers.",
+            "caption": "Historians can still visit the small cell where he spends many years.",
+            "shutterstock_query": "empty prison cell island barred window sleeping mat corridor view",
+            "ai_prompt": "Photorealistic illustration of a small empty prison cell on a rocky island seen from the corridor through the open barred door, plain 1960s to 1980s style, a thin sleeping mat rolled on the concrete floor, a small stool, a tin cup and plate, sunlight from a high barred window falling across the bare wall, no people, 1960s to 1980s prison fittings only, no modern locks, no cameras, no electric lights, no numbers or plates on the door, no graffiti, no plaques, calm still mood, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An empty formal high-backed chair stands alone on a small wooden stage under a soft spotlight in a 1990s government hall. No flags, emblems, or people are present, and the surrounding room fades into soft shadow. Production note: 1990s furnishings only, completely plain chair and stage, no carvings that resemble symbols, no plaques or signs, no microphones or modern electronics, calm still mood.",
+            "caption": "An empty chair of power waits for a man once called a terrorist.",
+            "shutterstock_query": "empty formal chair wooden stage spotlight government hall plain",
+            "ai_prompt": "Vertical realistic illustration of an empty formal high-backed chair standing alone on a small wooden stage under a soft spotlight in a 1990s government hall, no flags, no emblems, no people present, the surrounding room fading into soft shadow, 1990s furnishings only, completely plain chair and stage, no carvings resembling symbols, no plaques, no signs, no microphones, calm still mood, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
