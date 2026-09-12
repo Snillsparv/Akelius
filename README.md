@@ -5228,6 +5228,569 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 
 </details>
 
+### Berlinmurens fall
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — One evening in November</summary>
+
+> A big city named Berlin stands cut in two by a wall.  
+> The wall stands there for twenty-eight years.  
+> Families on one side cannot visit the other side.  
+> Guards watch the wall every day and every night.  
+> Then, one evening in November 1989, everything suddenly changes.  
+> Guards at the checkpoints let people through the gates.  
+> Thousands of people walk across to the other side.  
+> Strangers on both sides hug each other and cry.  
+> Some climb up onto the wall itself that night.  
+> They swing hammers and chip small pieces off it.  
+> That November night is Event X.  
+> **Which event is Event X?**
+
+**Svar:** ✅ The fall of the Berlin Wall · ⬜ The Cuban Missile Crisis · ⬜ The Hungarian uprising of 1956 · ⬜ The collapse of the Soviet Union
+
+**Ord:** *checkpoints* — places where guards check who may pass · *chip* — to break a small piece off something hard · *strangers* — people you do not know
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A city cut in two</summary>
+
+> After the biggest war in history, a city lies in ruins.  
+> The winners of the war divide the city into four parts.  
+> One part belongs to a state with closed borders.  
+> In that state, people cannot travel freely to other countries.  
+> Every year, hundreds of thousands leave through the open city border.  
+> So in August 1961, the state acts in one night.  
+> Soldiers roll out barbed wire across the city.  
+> In the days after, workers add a long concrete wall.  
+> Soldiers with dogs and searchlights guard the new border.  
+> At least one hundred and forty people die at the wall.  
+> About a hundred of them die trying to cross it.  
+> Event X comes many years later, the night the wall opens.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Prague Spring · ✅ The fall of the Berlin Wall · ⬜ The Solidarity strikes in Poland · ⬜ The end of apartheid
+
+**Ord:** *concrete* — a hard grey material made from sand, stone and cement · *searchlights* — strong lights used to light up a dark area · *border* — the line where one country or area ends and another begins
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A spokesman reads it wrong</summary>
+
+> By the autumn of 1989, the wall has stood for years.  
+> The leader of the eastern giant now allows reforms.  
+> That September, Hungary announces on television that its western border is open.  
+> Tens of thousands from behind the wall escape through that gap.  
+> Every Monday, crowds in Leipzig grow into hundreds of thousands.  
+> They chant one simple phrase, "We are the people."  
+> Under this pressure, the old leader of the state is pushed out.  
+> One evening, a party spokesman holds a press conference on live television.  
+> At the press table, he reads a new travel rule badly.  
+> A reporter asks when it starts, and he answers, "immediately".  
+> Crowds rush to the checkpoints that same night.  
+> Confused guards finally lift the barrier, and Event X begins.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Hungarian uprising of 1956 · ⬜ The collapse of the Soviet Union · ⬜ The Solidarity strikes in Poland · ✅ The fall of the Berlin Wall
+
+**Ord:** *reforms* — changes made to improve how a country is run · *chant* — to say or shout the same words together, again and again · *spokesman* — a person who speaks to the public for a government or a group · *barrier* — something that blocks the way, like a gate or a fence
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The night the gates open</summary>
+
+> Event X is the night when the wall opens.  
+> After that night, huge changes follow very fast.  
+> In the autumn of 1989, change sweeps across the whole region.  
+> One by one, other closed states loosen their grip on power.  
+> In most places, the change happens peacefully.  
+> In Romania, though, the change turns violent.  
+> Less than a year later, the divided country becomes one again.  
+> Reunion brings joy, yet it also brings hard change in the east.  
+> Many old factories close, and workers there suddenly lose their jobs.  
+> For years, the secret police have watched millions of ordinary citizens.  
+> Two years after Event X, people can read their own secret files.  
+> Some are shocked to learn who reported on them, even neighbors.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Cuban Missile Crisis · ✅ The fall of the Berlin Wall · ⬜ The Prague Spring · ⬜ The end of apartheid
+
+**Ord:** *secret police* — police who work in secret to watch and control people · *reunion* — coming back together after being apart · *violent* — involving force that hurts people or damages things
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Planned, or by mistake</summary>
+
+> Event X is the night the wall opens in 1989.  
+> Historians still debate why it happens.  
+> Some stress the reformer in the eastern giant who allows change.  
+> Others point to the huge crowds who force the pace of events.  
+> Others again stress the churches that shelter the first protest meetings.  
+> Still others point to one spokesman's mistake at the press conference.  
+> Some also point to western television, which reports the gates are open.  
+> No single cause fully explains what happens that night.  
+> To study it, historians use grainy television footage from the time.  
+> They also read files kept by the old secret police.  
+> Interviews with people who were there add memory to the record.  
+> Yet memory itself differs, and east and west recall that night differently.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Hungarian uprising of 1956 · ⬜ The Cuban Missile Crisis · ✅ The fall of the Berlin Wall · ⬜ The Solidarity strikes in Poland
+
+**Ord:** *debate* — to discuss a question on which people disagree · *reformer* — a person who works to change and improve a system · *footage* — recorded pictures from a film or video camera
+
+</details>
+
+### Den första månlandningen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Rocket Taller Than a Building</summary>
+
+> Event X happens in July 1969, more than fifty years ago.  
+> Three men sit inside a tiny capsule.  
+> A giant rocket lifts the capsule into the sky.  
+> The rocket stands taller than a building with thirty floors.  
+> The three men travel through space for four days.  
+> They aim for the Moon, high above the Earth.  
+> Two men climb down a ladder onto grey dust.  
+> The dust keeps their footprints, because there is no wind.  
+> Back home, about 600 million people watch on television.  
+> The two men gather grey stones and carry them home.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The first flight across the Atlantic · ⬜ The first spacewalk · ✅ The first Moon landing · ⬜ The first space station
+
+**Ord:** *capsule* — a small closed vehicle that carries people through space · *rocket* — a tall machine that burns fuel to fly into space · *footprints* — marks left in the ground by feet
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A President Promises the Moon</summary>
+
+> Two great powers compete for years.  
+> One of them sends the first satellite into space.  
+> That happens in 1957, and it shocks the other side.  
+> Some years later, that power also sends the first human into space.  
+> His name is Yuri Gagarin, and he circles the Earth once.  
+> Soon after, a president speaks to his country's lawmakers.  
+> He promises to reach the Moon before the decade ends.  
+> About 400,000 people join the huge program that follows.  
+> Many are engineers, and some are mathematicians.  
+> One mathematician, Katherine Johnson, checks flight paths by hand.  
+> During a test on the ground, a sudden fire kills three astronauts.  
+> Even so, the program moves forward, and Event X still lies ahead.  
+> **Which event is Event X?**
+
+**Svar:** ✅ The first Moon landing · ⬜ The first spacewalk · ⬜ The first woman in space · ⬜ The first flight across the Atlantic
+
+**Ord:** *satellite* — an object that circles a planet or a moon in space · *engineers* — people who design and build machines · *mathematician* — a person who works with numbers and shapes · *decade* — a period of ten years
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Seconds of Fuel Left</summary>
+
+> Event X almost fails before it truly begins.  
+> During the final approach, an onboard computer overloads with alarms.  
+> The commander looks out and sees large rocks ahead.  
+> He takes control and steers past the rocks by hand.  
+> Only seconds of fuel remain when he sets the small craft down.  
+> Hours later, he climbs down onto the dust.  
+> He calls it "one small step for man, one giant leap for mankind."  
+> A second man joins him for about two and a half hours.  
+> A third man waits alone in the main ship, circling above.  
+> Each time he passes behind the Moon, its body blocks radio contact.  
+> Later, all three men fly home in the main ship.  
+> It falls through hot flames and splashes down in the ocean.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The first spacewalk · ⬜ The first human in space · ✅ The first Moon landing · ⬜ The first space station
+
+**Ord:** *overloads* — takes in more signals or work than it can handle · *commander* — the person in charge of a crew · *radio contact* — a spoken link between two places, sent through the air · *splashes down* — comes down and hits water at the end of a flight
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Rat Bites His Sister</summary>
+
+> Event X is the high point of a huge program.  
+> The whole program costs about 25 billion dollars.  
+> That is in the money of that time.  
+> Critics say the money could instead fight poverty at home.  
+> At the same time, the country fights a costly war in Asia.  
+> One poet writes a bitter poem about the huge cost.  
+> In it, a rat bites his sister while a man walks on the Moon.  
+> Not everyone at home shares the pride many feel that summer.  
+> Even so, five more crews step onto the surface after this one.  
+> Three later crews even drive a small open car on the surface.  
+> Then the program ends after only a few years.  
+> No astronaut has walked on the Moon since 1972.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The first satellite in orbit · ✅ The first Moon landing · ⬜ The first expedition to the South Pole · ⬜ The first woman in space
+
+**Ord:** *critics* — people who say something is wrong or has faults · *poverty* — the state of being very poor · *poet* — a person who writes poems
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Mirrors on the Moon</summary>
+
+> Scientists still study Event X using hard evidence today.  
+> Six crews together bring home 382 kilograms of grey rock.  
+> Labs across the world study these stones for new clues.  
+> Some equipment left on the surface still works after decades.  
+> Small mirrors reflect laser light sent from telescopes on Earth.  
+> These signals measure the exact distance between Earth and the Moon.  
+> The rival great power also follows each flight closely.  
+> Its scientists track the flights and never call them fake.  
+> Even so, some people later claim the event never happens at all.  
+> Historians study this false claim as a case of modern doubt.  
+> Scholars still debate whether the program is mainly science, politics, or show.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The first expedition to the South Pole · ⬜ The first woman in space · ⬜ The first flight across the Atlantic · ✅ The first Moon landing
+
+**Ord:** *kilograms* — a unit used to measure how heavy something is · *laser* — a strong, narrow beam of light · *reflect* — to bounce back, the way light bounces off a mirror · *rival* — a person or group competing against another
+
+</details>
+
+### Kalla kriget
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Two giants that never fight</summary>
+
+> Conflict X starts after the biggest war in history ends in 1945.  
+> Two very strong powers come out of that war.  
+> One power stands in the west, one power stands in the east.  
+> Each side builds bombs strong enough to destroy whole cities.  
+> The two powers never openly fight each other.  
+> Instead, each side fears the plans of the other.  
+> A line of fences and guards cuts Europe in two.  
+> People call this line an iron curtain.  
+> In some schools, children practice a hiding drill under their desks.  
+> They fear a bomb might fall from the sky.  
+> This tense rivalry lasts for more than forty years.  
+> **Which conflict is Conflict X?**
+
+**Svar:** ⬜ World War II · ✅ The Cold War · ⬜ The Korean War · ⬜ The Vietnam War
+
+**Ord:** *iron curtain* — a name for the guarded line that cuts Europe in two · *guard* — a person whose job is to stop people from crossing a border · *drill* — a practice exercise done again and again to prepare for danger · *rivalry* — a long contest between two sides that both want to be the strongest
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Fighting through other people's wars</summary>
+
+> Conflict X is fought mostly through other countries and other people.  
+> The two rival powers rarely send soldiers to fight each other.  
+> In the early 1950s, the western power fights in Korea with its own army.  
+> The eastern power secretly arms the other side.  
+> Later, the western power sends its army into a long war in Vietnam.  
+> The eastern power later sends soldiers into a war in Afghanistan.  
+> Both powers send weapons and money into a civil war in Angola.  
+> They also back rival sides in several wars across Central America.  
+> The two powers also race each other into space.  
+> A wall cuts one divided city in Europe in two.  
+> Millions of soldiers and civilians die in these wars.  
+> **Which conflict is Conflict X?**
+
+**Svar:** ⬜ The Gulf War · ⬜ The Yugoslav Wars · ✅ The Cold War · ⬜ The Spanish Civil War
+
+**Ord:** *rival* — a country or person competing strongly against another · *civil war* — a war fought between groups inside one country · *civilian* — a person who is not a soldier
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Thirteen days that shake the world</summary>
+
+> In October 1962, Conflict X reaches its most dangerous moment.  
+> Spy planes find missiles hidden on an island near the United States.  
+> These missiles could reach many cities within minutes.  
+> For thirteen tense days, the world fears a nuclear war.  
+> The two leaders exchange secret letters late at night.  
+> Military officers on both sides prepare for the worst.  
+> At last, the two sides agree on a deal, part of it secret.  
+> One side promises to remove its missiles from the island.  
+> The other side promises not to invade the island.  
+> It also secretly agrees to remove missiles near its rival.  
+> After the crisis, the two leaders set up a direct line for urgent messages.  
+> They hope fast contact can prevent such danger in the future.  
+> **Which conflict is Conflict X?**
+
+**Svar:** ⬜ The Vietnam War · ⬜ The Yugoslav Wars · ⬜ The Korean War · ✅ The Cold War
+
+**Ord:** *missile* — a weapon that flies through the air to hit a target far away · *nuclear* — using the huge power inside atoms, strong enough to destroy whole cities · *spy plane* — an aircraft that flies high and takes secret photographs of another country
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A rivalry that reaches every continent</summary>
+
+> Conflict X shapes lives in Asia, Africa and Latin America too.  
+> Many countries in Asia and Africa become independent around this time.  
+> In 1955, representatives from twenty-nine countries meet in a city named Bandung.  
+> Many of them want to stay out of the rivalry between the two powers.  
+> Still, the rivalry reaches into their countries in painful ways.  
+> In Congo, outside powers help remove the country's first elected leader.  
+> Years of crisis and civil conflict follow.  
+> In Chile, a coup overthrows an elected leader.  
+> One power helps prepare the coup and welcomes it.  
+> In Indonesia, political violence kills several hundred thousand people.  
+> Dictators in many poorer countries receive support from one side or the other.  
+> Ordinary people bear the heaviest cost of this global rivalry.  
+> **Which conflict is Conflict X?**
+
+**Svar:** ✅ The Cold War · ⬜ The Yugoslav Wars · ⬜ The Gulf War · ⬜ The Korean War
+
+**Ord:** *representative* — a person sent to speak and act for a country or group · *coup* — a sudden illegal takeover of a government, often by the army · *dictator* — a ruler who holds total power and allows little freedom
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Whose fault, and how does it end</summary>
+
+> Historians disagree about who is most to blame for Conflict X.  
+> One early group of historians blames the eastern power's ambitions.  
+> A later group of historians blames the western power's actions instead.  
+> A third group argues that fear and misunderstanding drive both sides.  
+> The rivalry ends gradually between the late 1980s and the early 1990s.  
+> The eastern power lets its allies in Europe hold free elections.  
+> Soon after, the eastern superpower breaks apart into fifteen separate countries.  
+> After 1991, archives in the east open to researchers.  
+> The new documents force historians to revise some earlier conclusions.  
+> Historians still argue about which explanation fits the evidence best.  
+> Each newly opened archive can quietly change the accepted story.  
+> **Which conflict is Conflict X?**
+
+**Svar:** ⬜ World War II · ⬜ The Vietnam War · ⬜ The Yugoslav Wars · ✅ The Cold War
+
+**Ord:** *ambition* — a strong wish to gain power, success, or influence · *archive* — a place where old documents and records are kept · *superpower* — an extremely powerful country with influence across the world
+
+</details>
+
+### Martin Luther King
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Year Without the Bus</summary>
+
+> Mr X lives in a city in the southern United States.  
+> In 1955, Black passengers must sit at the back of buses.  
+> One day, a woman named Rosa Parks refuses to give up her seat.  
+> Police arrest her, and Black leaders plan a protest.  
+> They choose Mr X, a young pastor of twenty-six, to lead it.  
+> For more than a year, Black residents refuse to ride the buses.  
+> They walk long distances or share rides in cars instead.  
+> The bus company loses money every single day.  
+> At last, a court rules that the seating rule is against the law.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Thurgood Marshall · ⬜ Jesse Jackson · ✅ Martin Luther King Jr. · ⬜ John Lewis
+
+**Ord:** *pastor* — a leader of a Christian church · *protest* — a public action that shows something is wrong · *residents* — people who live in a place · *arrest* — when police take a person away and do not let them go free
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Dogs, Hoses, and a Letter from Jail</summary>
+
+> Mr X studies the ideas of a leader in India who fights without weapons.  
+> He believes protest should never turn to violence, even when police attack.  
+> In the southern United States, activists sit at lunch counters that refuse to serve them.  
+> Police arrest Mr X again and again for these peaceful protests.  
+> In 1963, police put him in jail in a city called Birmingham.  
+> In jail, Mr X writes a long letter.  
+> In it, he explains why people must not wait patiently for freedom.  
+> A few weeks later, children join a big march in the same city.  
+> Police turn dogs and powerful water hoses on the young marchers.  
+> Cameras film the attack, and people around the world watch on television.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Thurgood Marshall · ✅ Martin Luther King Jr. · ⬜ Medgar Evers · ⬜ Jesse Jackson
+
+**Ord:** *activists* — people who work hard to bring about change · *lunch counter* — a long table in a shop where people sit to eat a quick meal · *marchers* — people who walk together to show what they believe · *jail* — a place where police keep people who are arrested
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A Dream at the Capital</summary>
+
+> In 1963, Mr X helps lead a huge march in the United States.  
+> About two hundred fifty thousand people gather in the capital to listen.  
+> He gives a famous speech about his dream for the future.  
+> He dreams that people will judge his children by their character, not their skin.  
+> The speech becomes one of the most quoted in the country's history.  
+> The next year, a new law bans segregation in public places across the country.  
+> That same year, Mr X receives a great prize for peace.  
+> At thirty-five, he is then the youngest person ever to win it.  
+> The year after, another new law protects the right of Black citizens to vote.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ John Lewis · ⬜ W. E. B. Du Bois · ⬜ Medgar Evers · ✅ Martin Luther King Jr.
+
+**Ord:** *capital* — the main city of a country, where the government meets · *segregation* — the unfair separation of people because of skin color · *citizens* — people who legally belong to a country · *character* — a person's inner qualities, like honesty and kindness
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Too Slow for the Young</summary>
+
+> Mr X faces sharp criticism from other Black leaders.  
+> A leader named Malcolm X calls his peaceful method too slow.  
+> In his last years, many younger activists say the same.  
+> They want faster change and are ready to use force if needed.  
+> Mr X begins to speak out against the war in Vietnam.  
+> The president and many old allies turn against him because of this stand.  
+> He starts a new campaign against poverty for poor Americans of every color.  
+> In 1968, he travels to Memphis to support sanitation workers who are on strike.  
+> There, on a motel balcony, a gunman shoots him dead.  
+> His death shocks the nation, and riots break out in many cities.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Martin Luther King Jr. · ⬜ John Lewis · ⬜ Thurgood Marshall · ⬜ Jesse Jackson
+
+**Ord:** *criticism* — comments that say what is wrong with something · *campaign* — an organized effort to reach a goal · *poverty* — the state of being very poor · *sanitation* — the systems that keep a place clean, like trash collection
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Man Behind the Myth</summary>
+
+> Historians still debate how much one leader can shape a mass movement.  
+> Mr X leads a movement for equal rights in the United States after 1955.  
+> Some argue thousands of local organizers do the daily, quiet work.  
+> Women such as Ella Baker and Jo Ann Robinson plan and organize for years.  
+> Yet public memory often remembers only a handful of famous names.  
+> For years, government agents secretly watch Mr X.  
+> They record his private conversations and try to damage his reputation.  
+> Historians study his sermons, recordings, and court records to understand him.  
+> Today, textbooks often remember a calm dreamer of peaceful change.  
+> Fewer people remember his later, sharper criticism of poverty and war.  
+> Historians argue that both pictures are true, and both are incomplete.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Thurgood Marshall · ⬜ John Lewis · ✅ Martin Luther King Jr. · ⬜ W. E. B. Du Bois
+
+**Ord:** *organizers* — people who plan and arrange the work of a group · *reputation* — what other people think and say about a person · *sermons* — religious speeches given in a church · *incomplete* — not whole, missing some parts
+
+</details>
+
+### Nelson Mandela
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Boy Who Runs to the City</summary>
+
+> Mr X grows up in a small village in South Africa.  
+> As a boy, he herds cattle on green hills.  
+> On his first day of school, a teacher gives him a new name.  
+> Later, his family arranges a marriage for him.  
+> Mr X does not want this marriage, so he runs away.  
+> He travels far to a big city and begins to study law.  
+> New laws now say where people may sit, eat, and travel.  
+> These laws depend only on the color of a person's skin.  
+> Mr X decides that these laws are not fair.  
+> Many years later, he becomes his country's first Black president.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Steve Biko · ✅ Nelson Mandela · ⬜ Desmond Tutu · ⬜ Oliver Tambo
+
+**Ord:** *herd* — to move a group of animals together · *cattle* — cows and bulls kept by farmers · *arrange* — to plan something before it happens · *marriage* — when two people become husband and wife
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Eighteen Years on an Island</summary>
+
+> Mr X works as a lawyer in Johannesburg.  
+> In 1964, he stands trial for actions against an unfair government.  
+> In court, he speaks of his ideal of a free society.  
+> He says he is ready to die for this ideal.  
+> The judge sends him to prison for the rest of his life.  
+> Guards take him to an island near Cape Town for eighteen years.  
+> For thirteen years, he breaks stone in a hot limestone quarry.  
+> Dust and sunlight from the quarry harm his eyes.  
+> He may write and receive only a few censored letters.  
+> Later, guards let him grow a small garden in the yard.  
+> In total, Mr X spends twenty-seven years behind bars.  
+> Outside, more and more people around the world sing songs about him.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Walter Sisulu · ⬜ Julius Nyerere · ✅ Nelson Mandela · ⬜ F. W. de Klerk
+
+**Ord:** *trial* — when a court decides if a person did something wrong · *quarry* — a place where workers cut or break stone from the ground · *censored* — checked and partly blocked by an authority before it is allowed · *ideal* — an idea of how something should be, at its best
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — From Protest to Sabotage</summary>
+
+> For years, Mr X and his movement in South Africa protest without weapons.  
+> In 1960, police open fire on an unarmed crowd, killing sixty-nine people.  
+> After this massacre, Mr X changes his mind about peaceful protest alone.  
+> He believes peaceful methods now meet only violence in return.  
+> With others, he starts a small armed group for sabotage.  
+> Later, he explains that it attacks power lines and empty buildings, not people.  
+> Police arrest him, and at his trial he defends this choice himself.  
+> He calls it a hard decision, taken only when other paths close.  
+> While he is in prison, his colleague Oliver Tambo leads the movement from abroad.  
+> In the 1980s, parts of the movement also turn to violence against people.  
+> In the end, Mr X chooses talks over more fighting.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Desmond Tutu · ⬜ Walter Sisulu · ⬜ Kwame Nkrumah · ✅ Nelson Mandela
+
+**Ord:** *massacre* — the killing of many people who cannot fight back · *unarmed* — carrying no weapons · *sabotage* — damaging machines or buildings on purpose to stop an enemy · *colleague* — a person who works with you for the same cause
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — From a Locked Gate to the Ballot Box</summary>
+
+> In 1990, guards in South Africa finally open the prison gate for Mr X.  
+> He walks out hand in hand with his wife.  
+> Mr X then holds long talks with the white president, F. W. de Klerk.  
+> During these years, political violence in the country kills thousands of people.  
+> At last, all sides agree that every adult may now vote.  
+> Four years after his release, people of every color vote in a first free election.  
+> Many wait for hours in long, patient lines to vote.  
+> At seventy-five years old, Mr X becomes the country's new president.  
+> Later, a commission lets victims and those who hurt them both speak.  
+> Desmond Tutu leads this Truth and Reconciliation Commission.  
+> After only one term as president, Mr X steps down from power.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Nelson Mandela · ⬜ Walter Sisulu · ⬜ Oliver Tambo · ⬜ Julius Nyerere
+
+**Ord:** *commission* — a group of people given an official job to do · *reconciliation* — becoming friendly again after a conflict · *victims* — people who are hurt or harmed by others · *term* — a fixed length of time in an official job
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Hero, Compromise, or Both?</summary>
+
+> Historians still debate how to judge Mr X, a leader in South Africa.  
+> Some call him a hero who ends a brutal system peacefully.  
+> Others say he compromises too much, and inequality remains after 1994.  
+> The gap between rich and poor in his country stays wide for decades.  
+> Historians also ask how much credit belongs to one man alone.  
+> A whole movement of thousands works and suffers for the same cause.  
+> Mr X writes a long autobiography with help, a rich but personal source.  
+> Historians note what the book leaves out, as well as what it tells.  
+> Prison guards and officials also keep careful written records of his prison years.  
+> These archives let researchers check and sometimes correct his own account.  
+> His country once jails him as a terrorist.  
+> Later, it calls him a father of the nation.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Steve Biko · ✅ Nelson Mandela · ⬜ Kwame Nkrumah · ⬜ Julius Nyerere
+
+**Ord:** *compromise* — giving up part of what you want, to reach agreement · *inequality* — when wealth or chances are not shared fairly · *autobiography* — a book a person writes about their own life · *archives* — collections of old documents kept for the future
+
+</details>
+
 ## Kortens struktur
 
 Varje person får fem oberoende kort med stigande svårighetsgrad:
