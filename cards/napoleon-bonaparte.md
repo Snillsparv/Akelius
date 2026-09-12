@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Napoleon Bonaparte. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amerikanska revolutionen, franska revolutionen och industriella revolutionen; etiketten "revolutions" pekar inte ut vilken revolution eller person som är svaret. Frasen "the revolution in France" används exakt en gång, i kort 1, som kontext, och ledtrådskedjan från franska revolutionen kort återberättas inte. Namnen Napoleon och Bonaparte, samt formen "Napoleonic", förekommer aldrig i elevtext, titel, bildtext eller ordlista; hans lagbok kallas alltid "his book of laws", aldrig vid sitt egentliga namn. Washington namnges inte i löptexten. Stenen med tre skrifter beskrivs men visas aldrig läsbar i bild. Myten om kort växt markeras som myt. Bilder: aldrig tvåkornshatt, aldrig en hand i västen, aldrig ett igenkännbart porträtt eller en känd målning.
+Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amerikanska revolutionen, franska revolutionen och industriella revolutionen; etiketten "revolutions" pekar inte ut vilken revolution eller person som är svaret. Frasen "the revolution in France" används exakt en gång, i kort 1, som kontext; kort 5 talar om "the revolution" utan att namnge den, och ledtrådskedjan från franska revolutionen återberättas inte. Namnen Napoleon och Bonaparte, samt formen "Napoleonic", förekommer aldrig i elevtext, titel, bildtext eller ordlista; hans lagbok kallas alltid "his book of laws", aldrig vid sitt egentliga namn. Washington namnges inte i löptexten. Stenen med tre skrifter beskrivs men visas aldrig läsbar i bild: den hittas av soldater i en fästningsmur vid Nilen, inte vid tempel. Myten om kort växt markeras som myt. Reträtten från Ryssland skrivs utan "general vinter"-myten: sjukdom, hunger och strid tar det mesta av armén före kylan. Bilder: aldrig tvåkornshatt, aldrig en hand i västen, aldrig ett igenkännbart porträtt eller en känd målning, ingen ångpress.
 
 ---
 
@@ -15,12 +15,12 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 > Mr X is born on a small island.  
 > The island is called Corsica, near Italy.  
 > France takes the island the year before he is born.  
-> As a child, he speaks French with an accent.  
-> He leaves home young, for a military school.  
+> All his life, he speaks French with an accent.  
+> He leaves home young to go to a military school in France.  
 > There he studies maps, math, and the science of cannons.  
 > He becomes an officer who commands cannons.  
 > At this time, the revolution in France changes everything.  
-> Old rules about family and rank start to break.  
+> Old rules about noble birth and rank start to break.  
 > Now, a soldier can rise fast through skill alone.  
 > Mr X rises very fast, and becomes a general at only twenty-four.  
 > **Who is Mr X?**
@@ -41,10 +41,10 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Huvudbild
 
-- **Motiv:** A stone courtyard at an eighteenth century French military school. Rows of young cadets in plain grey uniforms drill in formation near a large bronze cannon on wooden wheels. One small cadet stands among the group, seen from behind and at a distance. Overcast morning light. Production note: no identifiable faces, no bicorne hats, no flags, no insignia, no readable letters or numbers anywhere.
-- **Bildtext:** *In a military school, one boy among many studies the science of cannons.*
-- **Shutterstock-sökning:** `18th century military school cadets courtyard cannon drill distance`
-- **AI-prompt (alternativ):** Realistic illustration of a stone courtyard at an eighteenth century French military school, rows of young cadets in plain grey uniforms drilling in formation near a large bronze cannon on wooden wheels, one small cadet among the group seen from behind at a distance, overcast morning light, historical atmosphere, no identifiable faces, no bicorne hats, no flags, no insignia, no text, no letters.
+- **Motiv:** A stone courtyard at an eighteenth century French military school. Rows of young cadets in plain blue uniforms drill in formation, a drummer boy stands at one side. One small cadet stands among the group, seen from behind and at a distance. Overcast morning light. Production note: no cannon in this image, no identifiable faces, no bicorne hats, no flags, no insignia, no readable letters or numbers anywhere.
+- **Bildtext:** *In a military school, one boy among many learns to be an officer.*
+- **Shutterstock-sökning:** `18th century military school cadets courtyard drill drummer distance`
+- **AI-prompt (alternativ):** Realistic illustration of a stone courtyard at an eighteenth century French military school, rows of young cadets in plain blue uniforms drilling in formation, a drummer boy at one side, one small cadet among the group seen from behind at a distance, overcast morning light, historical atmosphere, no cannon, no identifiable faces, no bicorne hats, no flags, no insignia, no text, no letters.
 
 ### Sidobild
 
@@ -61,15 +61,16 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Korttext
 
-> Emperor X once is only a young general.  
-> He wins many battles for France.  
-> He takes power in a quiet coup, without much blood.  
-> A few years later, he makes himself emperor.  
-> In a great church in Paris, the pope is present, but Emperor X takes the crown himself and places it on his own head.  
-> He also writes a new book of laws for the country.  
-> This book gives equal rules to all citizens, and clear rules for property and family.  
+> At first, Emperor X is only a young general.  
+> After many victories for France, he takes power in a coup, with little fighting.  
+> He sells Louisiana, a huge area in North America, to a young country.  
+> A few years after the coup, he makes himself emperor in a great ceremony.  
+> In a great church in Paris, the pope stands beside him.  
+> But Emperor X takes the crown himself and places it on his own head.  
+> Under him, law experts write a new book of laws for the country.  
+> It gives all men the same rules, and clear rules for property and family.  
+> Women get fewer rights than men.  
 > Many countries still use ideas from this book today.  
-> He sells a huge area of land in North America, called Louisiana, to a young country.  
 > His armies fight many wars across Europe.  
 > Soon he rules over much of the continent, directly or through his family.  
 > **Who is Emperor X?**
@@ -85,7 +86,7 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 - **coup** — *a sudden takeover of power, often fast and by surprise*
 - **ceremony** — *a special formal event that marks an important moment*
-- **citizens** — *people who are full legal members of a country*
+- **emperor** — *a ruler above kings, who rules a very large land or many lands*
 - **property** — *things or land that belong to a person by law*
 
 ### Huvudbild
@@ -110,18 +111,18 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Korttext
 
-> By now, Emperor X rules over much of Europe.  
-> In 1812, he marches into Russia with about six hundred thousand soldiers.  
-> The great city ahead is empty, and much of it burns.  
-> Winter comes early, and food runs short.  
-> On the long retreat, very many soldiers die from cold and hunger.  
+> In 1812, Emperor X marches into Russia with about six hundred thousand soldiers.  
+> On the long march, sickness, hunger, and battle cost him most of his men.  
+> When he reaches the great city, it is empty, and soon much of it burns.  
+> Then winter comes, and the Russian army attacks his retreat.  
+> Soldiers die by the thousands from cold, hunger, and fighting.  
 > Most of his huge army never comes home.  
-> Other countries then unite against him.  
-> Two years later, he loses power and gives up his throne.  
+> Other countries then unite against him, and two years later he gives up his throne.  
 > His enemies send him to a small island called Elba.  
 > Within a year, he escapes, and rules again for a hundred days.  
 > His last battle ends in defeat near a village called Waterloo.  
-> This time, his enemies send him far away, to a lonely island in the ocean, where he later dies.  
+> This time, his enemies send him to a lonely island far out at sea.  
+> He dies there about six years later.  
 > **Who is Emperor X?**
 
 ### Svarsalternativ
@@ -129,7 +130,7 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 - ✅ Napoleon Bonaparte
 - ⬜ Julius Caesar
 - ⬜ Alexander the Great
-- ⬜ Otto von Bismarck
+- ⬜ The Duke of Wellington
 
 ### Ordförklaringar (marginal)
 
@@ -141,36 +142,36 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 ### Huvudbild
 
 - **Motiv:** A long line of soldiers in worn coats trudges through deep snow across a vast white plain. Seen from a high, distant angle. Grey winter sky, scattered abandoned carts and horses far in the background. No faces visible. Production note: no visible injuries, no gore, no flags, no readable text or numbers, the mood is cold and weary, not violent.
-- **Bildtext:** *The retreat from Russia. Cold and hunger defeat the army before any enemy does.*
+- **Bildtext:** *The retreat from Russia. Sickness, hunger, cold, and enemy attacks destroy the army.*
 - **Shutterstock-sökning:** `army retreat snow winter plain distant aerial soldiers trudging`
 - **AI-prompt (alternativ):** Realistic wide illustration of a long line of soldiers in worn coats trudging through deep snow across a vast white plain, seen from a high distant angle, grey winter sky, a few abandoned carts far in the background, no faces visible, cold and weary mood, no injuries, no gore, no flags, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A small, isolated rocky island far out in the ocean, steep cliffs, one plain stone house on top, seen from a ship at a distance. Overcast sky, grey sea. No people visible. Production note: no flags, no signs, no text or letters anywhere.
+- **Motiv:** A steep volcanic island far out in the ocean, dark cliffs by the sea and green hills inland, a small town in a cleft by the shore, seen from a ship at a distance. Overcast sky, grey sea. No people visible. Production note: no flags, no signs, no text or letters anywhere.
 - **Bildtext:** *A lonely island far out in the ocean. Here the ruler spends his last years.*
-- **Shutterstock-sökning:** `remote rocky island ocean cliffs distant lonely overcast`
-- **AI-prompt (alternativ):** Atmospheric vertical photo style image of a small isolated rocky island far out in the ocean, steep cliffs, one plain stone house on top, seen from a ship at a distance, overcast sky and grey sea, no people, no flags, no signs, no text, no letters.
+- **Shutterstock-sökning:** `remote volcanic island ocean dark cliffs green hills small town distant overcast`
+- **AI-prompt (alternativ):** Atmospheric vertical photo style image of a steep volcanic island far out in the ocean, dark cliffs by the sea and green hills inland, a small town in a cleft by the shore, seen from a ship at a distance, overcast sky and grey sea, no people, no flags, no signs, no text, no letters.
 
 ---
 
-## Kort 4 · Årskurs 12 (B) — Look at the Other Side of the Story
+## Kort 4 · Årskurs 12 (B) — The Other Side of the Story
 
 **Kategori:** `revolutions`
 
 ### Korttext
 
-> Mr X leads French soldiers into Egypt for a while.  
-> He brings scientists and artists along with his army.  
-> Near old temples, they find a black stone with three kinds of writing on it.  
+> Mr X leads a French army into Egypt, with scientists and artists too.  
+> By the river Nile, his soldiers rebuild an old fort.  
+> In one wall, they find a dark grey stone with three kinds of writing.  
 > This stone later helps experts read ancient Egyptian writing.  
-> A few years earlier, France had ended slavery in its colonies.  
+> Some years before this, France ends slavery in its colonies.  
 > Mr X brings slavery back to the French colonies.  
-> On one island, enslaved people already fight for their freedom.  
-> They defeat his army there, and the island becomes independent.  
-> Many call it the first free nation built by former slaves.  
+> On one island, people freed from slavery fight to stay free.  
+> They defeat his army there, and their colony becomes independent.  
+> Many call it the first free nation of formerly enslaved people.  
 > Old cartoons and enemy jokes show Mr X as a very short man.  
-> Historians check the records: he is about one hundred sixty-eight centimeters tall, close to average for the time.  
+> Historians check the records: he is about one meter sixty-eight, a normal height for his time.  
 > So the story of the short leader is a myth, not a fact.  
 > **Who is Mr X?**
 
@@ -190,15 +191,15 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Huvudbild
 
-- **Motiv:** A team of scholars and soldiers examine a large black stone slab covered in three different kinds of writing, half buried in sand near ruined stone columns in Egypt. Seen from behind and at a distance, hot afternoon light. Production note: the writing on the stone must be blurred or at a sharp angle so nothing is readable, no famous specific monument shown, no faces close up, no text anywhere.
-- **Bildtext:** *Near old ruins, scholars find a stone with three kinds of writing.*
-- **Shutterstock-sökning:** `archaeologists examining ancient stone slab desert ruins distance`
-- **AI-prompt (alternativ):** Realistic illustration of a team of scholars and soldiers examining a large black stone slab covered in three different kinds of writing, half buried in sand near ruined stone columns in Egypt, seen from behind at a distance, hot afternoon light, the writing on the stone blurred and at a sharp angle so nothing is readable, no famous specific monument, no close faces, no text, no letters.
+- **Motiv:** Soldiers and one scholar in plain coats examine a large dark grey stone slab just pulled from the rubble of an old fort wall beside a wide river. The carved face of the stone is turned away from the viewer and mostly hidden by the men's backs, the surface toward the viewer is plain rough stone. Seen from behind and at a distance, hot afternoon light, flat river landscape, no temples or columns. Production note: no readable or pseudo script anywhere, no famous monument, no faces close up, no flags, no text, no letters, no numbers.
+- **Bildtext:** *In an old fort by the river, soldiers find a stone with three kinds of writing.*
+- **Shutterstock-sökning:** `soldiers scholar examining large stone slab old fort wall river egypt distance`
+- **AI-prompt (alternativ):** Realistic illustration of soldiers and one scholar in plain coats examining a large dark grey stone slab just pulled from the rubble of an old fort wall beside a wide river in Egypt, the carved face of the stone turned away from the viewer and mostly hidden by the men's backs, the visible surface plain rough stone, seen from behind at a distance, hot afternoon light, flat river landscape, no temples, no columns, no famous monument, no close faces, no script, no text, no letters, no numbers.
 
 ### Sidobild
 
 - **Motiv:** A close vertical view of a single broken iron chain link lying open on red tropical soil, palm trees and a green mountain softly out of focus in the background. Warm island light. No people. Production note: no text, no signs, no flags anywhere, the mood is hopeful, not violent.
-- **Bildtext:** *A broken chain. On this island, former slaves fight and win their freedom.*
+- **Bildtext:** *A broken chain. On this island, formerly enslaved people fight and win their freedom.*
 - **Shutterstock-sökning:** `broken iron chain link tropical soil palm trees closeup`
 - **AI-prompt (alternativ):** Warm realistic vertical close-up of a single broken iron chain link lying open on red tropical soil, palm trees and a green mountain softly out of focus in the background, warm island light, no people, hopeful mood, no text, no letters.
 
@@ -216,7 +217,7 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 > As ruler, he controls most newspapers in the country.  
 > He also pays painters to make heroic pictures of himself in battle.  
 > These pictures shape how people see him for generations.  
-> On his last island, he has years of free time.  
+> On his last island, he has many empty years.  
 > He dictates his own life story to loyal followers there.  
 > In his story, he is always wise, and his mistakes are small.  
 > Historians read these memoirs with great care.  
@@ -240,16 +241,16 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Huvudbild
 
-- **Motiv:** Inside a dim printing house, seen from the back of the room. Rows of identical newspapers pass off a large press while a supervisor in a plain coat watches from a shadowed doorway. Warm lamp light. Production note: no readable headlines or text on the newspapers, blur or angle them so nothing is legible, no faces close up.
-- **Bildtext:** *The ruler controls what most newspapers in the country print.*
-- **Shutterstock-sökning:** `old printing press newspapers dim workshop supervisor doorway`
-- **AI-prompt (alternativ):** Realistic illustration inside a dim printing house, seen from the back of the room, rows of identical newspapers passing off a large press, a supervisor in a plain coat watching from a shadowed doorway, warm lamp light, the newspapers blurred or at a sharp angle so no headlines are readable, no close faces, no text, no letters.
+- **Motiv:** A large painter's studio with tall windows. A huge canvas on an easel is seen from the back, so only its wooden frame and the raw back of the canvas show. A painter in a smock works on the far side, partly hidden by the canvas. A saddle and a plumed helmet rest on a stand as props. Production note: the painted side is never visible, no faces, no bicorne hat, no flags, no text, letters, or numbers anywhere.
+- **Bildtext:** *The ruler pays painters to show him as a hero in battle.*
+- **Shutterstock-sökning:** `painter studio huge canvas seen from behind easel tall windows saddle helmet props`
+- **AI-prompt (alternativ):** Realistic illustration of a large painter's studio with tall windows, a huge canvas on an easel seen from the back so only its wooden frame and the raw back of the canvas show, a painter in a smock working on the far side partly hidden by the canvas, a saddle and a plumed helmet resting on a stand as props, soft daylight, the painted side never visible, no faces, no bicorne hat, no flags, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** A single aged leather notebook, closed, resting on a plain wooden desk beside an unlit oil lamp and a quill pen. Dark neutral background, soft directional light. No people. Production note: the cover must be completely plain, no letters, no numbers, no symbols.
-- **Bildtext:** *Alone, he tells his own story. He decides what the world will remember.*
-- **Shutterstock-sökning:** `aged leather notebook closed wooden desk quill lamp closeup`
-- **AI-prompt (alternativ):** Realistic close-up of a single aged leather notebook, closed, resting on a plain wooden desk beside an unlit oil lamp and a quill pen, dark neutral background, soft directional light, no people, the cover completely plain, no letters, no numbers, no text.
+- **Motiv:** On the stone terrace of a plain house on a windswept island, a man in a plain dark coat walks slowly, seen only from behind, while a seated secretary writes at a small table. Grey sea far below. Production note: no bicorne hat, no hand in a waistcoat, no visible face, no readable writing on any paper, no text, letters, or numbers.
+- **Bildtext:** *Far from Europe, he tells his own story to loyal followers.*
+- **Shutterstock-sökning:** `man walking stone terrace island house from behind seated secretary writing grey sea`
+- **AI-prompt (alternativ):** Atmospheric vertical illustration of the stone terrace of a plain house on a windswept island, a man in a plain dark coat walking slowly seen only from behind, a seated secretary writing at a small table, grey sea far below, overcast light, no bicorne hat, no visible face, no readable writing, no text, no letters, no numbers.
 
 ---

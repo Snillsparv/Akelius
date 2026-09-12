@@ -12,18 +12,18 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Korttext
 
-> Revolution X begins in France about 230 years ago, in 1789.  
+> Revolution X begins in France in 1789, almost 240 years ago.  
 > Bad harvests make bread very expensive.  
 > Poor families cannot buy enough food.  
 > Society here has three big groups, called estates.  
 > The first estate is priests, and the second is nobles.  
-> The third estate is everyone else, almost all people.  
-> Only the third estate pays most of the taxes.  
+> The third estate is everyone else, almost everybody.  
+> The third estate pays nearly all the taxes.  
 > Anger grows over hunger and unfair taxes.  
 > In Paris, the capital city, a crowd gathers.  
 > The crowd attacks an old fortress used as a prison.  
 > Only seven prisoners are inside the huge building.  
-> The crowd breaks in and takes weapons stored there.  
+> The crowd breaks in and takes the gunpowder stored there.  
 > **Which revolution is Revolution X?**
 
 ### Svarsalternativ
@@ -62,18 +62,18 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Korttext
 
-> Revolution X begins in France about 230 years ago.  
+> In France, Revolution X is only a few months old.  
 > A new parliament takes power from the king.  
 > Nobles must give up their old special rights.  
-> The rich no longer skip most of the taxes.  
-> The parliament then writes a bold declaration.  
+> The rich must now pay taxes too.  
+> The parliament then writes a declaration of rights.  
 > All men are born free and equal, it states.  
 > Free speech and fair trials become new rights.  
-> A few months later, bread is still scarce in Paris.  
+> A few weeks later, bread is still hard to find in Paris.  
 > Thousands of women march to the king's palace outside the city.  
-> They demand bread, and they demand the king comes to Paris.  
+> They demand bread, and they want the king to live in Paris.  
 > He agrees, and the royal family moves to the city under guard.  
-> Two years later, the king tries to flee the country in secret, but he is caught.  
+> Two years later, the king tries to flee in secret, but he is caught.  
 > **Which revolution is Revolution X?**
 
 ### Svarsalternativ
@@ -99,10 +99,10 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Sidobild
 
-- **Motiv:** A closed carriage stopped at night at a small town gate, two guards holding lanterns and checking papers held by a driver, warm lantern light against the dark. The picture explains the word flee. Production note: no faces of the carriage's passengers are visible, no coats of arms on the carriage, no readable text on any paper, calm tense mood without violence.
+- **Motiv:** A closed carriage stopped at night at a small town gate, two guards raise lanterns to the carriage window and door, warm lantern light against the dark. The picture explains the word flee. Production note: no faces of the carriage's passengers are visible, no coats of arms on the carriage, no papers or documents in the scene, no readable text anywhere, calm tense mood without violence.
 - **Bildtext:** *A carriage is stopped at night, far from Paris.*
 - **Shutterstock-sökning:** `carriage stopped night town gate guards lanterns illustration`
-- **AI-prompt (alternativ):** Atmospheric vertical illustration of a closed carriage stopped at night at a small town gate, two guards holding lanterns and checking papers held by the driver, warm lantern light against dark surroundings, calm tense mood, no visible passengers, no coats of arms, no text, no letters.
+- **AI-prompt (alternativ):** Atmospheric vertical illustration of a closed carriage stopped at night at a small town gate, two guards raising lanterns to the carriage window and door, warm lantern light against dark surroundings, calm tense mood, no visible passengers, no coats of arms, no papers, no text, no letters.
 
 ---
 
@@ -112,17 +112,16 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Korttext
 
-> Revolution X begins in France about 230 years ago.  
-> Step by step, leaders remove the old king's power.  
-> Three years in, they declare a republic and end the monarchy.  
+> In France, Revolution X removes the old king's power step by step.  
+> After three years, its leaders end the monarchy and declare a republic.  
 > The former king stands trial for crimes against the new nation.  
-> Soon after, he is executed by the state.  
+> Soon after, the new republic executes him.  
 > Fear of enemies, at home and abroad, grows fast.  
 > A period called the Terror begins.  
-> Courts work quickly, and suspected enemies are executed in large numbers.  
-> Officially, about seventeen thousand people die this way within about a year.  
+> Courts work quickly, and they sentence thousands of suspected enemies to death.  
+> Official records count about seventeen thousand such deaths in one year.  
 > Many more die in prisons or in fighting across the country.  
-> One powerful leader, Robespierre, drives much of this policy.  
+> One powerful leader, Robespierre, leads much of this.  
 > The following year, his own allies turn against him, and he is executed too.  
 > **Which revolution is Revolution X?**
 
@@ -142,10 +141,10 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Huvudbild
 
-- **Motiv:** A grand hall turned into a courtroom: a row of serious judges sits behind a long table on a raised platform, a single generic accused figure stands before them, onlookers fill a gallery behind, soft window light. Production note: no guillotine, no weapons, no crowd violence, no readable text on any document or banner, faces generic and not resembling any real historical person, calm and dignified mood.
-- **Bildtext:** *A court of judges decides the fate of a man once above the law.*
-- **Shutterstock-sökning:** `revolutionary tribunal courtroom judges platform illustration`
-- **AI-prompt (alternativ):** Detailed historical illustration of a grand hall turned into a courtroom, a row of serious judges seated behind a long table on a raised platform, a single generic accused man standing before them, onlookers filling a gallery behind, soft window light, calm dignified mood, no guillotine, no weapons, no banners, no text, no letters.
+- **Motiv:** A grand hall turned into a courtroom: rows of seated deputies fill a large hall, one presiding officer sits on a raised platform, a single generic accused man stands before them, onlookers fill a gallery behind, soft window light. Production note: no guillotine, no weapons, no crowd violence, no readable text on any document or banner, faces generic and not resembling any real historical person, calm and dignified mood.
+- **Bildtext:** *Hundreds of lawmakers sit as a court to judge a man once above the law.*
+- **Shutterstock-sökning:** `national assembly hall deputies trial accused standing platform illustration`
+- **AI-prompt (alternativ):** Detailed historical illustration of a grand hall turned into a courtroom, rows of seated deputies filling the large hall, one presiding officer on a raised platform, a single generic accused man standing before them, onlookers filling a gallery behind, soft window light, calm dignified mood, no guillotine, no weapons, no banners, no text, no letters.
 
 ### Sidobild
 
@@ -156,23 +155,23 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ---
 
-## Kort 4 · Årskurs 12 (B) — Left out, and pushing in
+## Kort 4 · Årskurs 12 (B) — Not Yet for Everyone
 
 **Kategori:** `revolutions`
 
 ### Korttext
 
 > Revolution X promises liberty, equality, and brotherhood for all.  
-> At first, though, only men can vote.  
+> At first, though, only some men can vote.  
 > A woman writer named Olympe de Gouges disagrees.  
 > She writes her own declaration for the rights of woman.  
 > She demands votes and equal rights for women too.  
-> Her ideas anger powerful men, and she is executed.  
-> Far away, on the colony of Saint-Domingue, enslaved people hear these new ideas too.  
-> They rise up against their enslavers on the island.  
-> Soon after, the parliament in France abolishes slavery in its colonies.  
+> Later she attacks the new leaders in print.  
+> They have her executed.  
+> Far away, in the colony of Saint-Domingue, enslaved people rise up against their enslavers.  
+> A few years later, the parliament in France abolishes slavery in its colonies.  
 > It is one of the first such laws anywhere in the world.  
-> The new government also creates a fresh system for measuring things.  
+> The new government also creates a new system of measurement.  
 > Meters and kilograms slowly replace hundreds of old local units.  
 > **Which revolution is Revolution X?**
 
@@ -193,7 +192,7 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 ### Huvudbild
 
 - **Motiv:** A line of formerly enslaved people in simple clothes walks away from a sugarcane plantation building along a dirt path at dawn, some carrying small bundles or farm tools, calm and dignified, seen from a distance. Production note: no chains, no whips, no violence, no visible overseer, no readable signs, warm early light, respectful and hopeful mood.
-- **Bildtext:** *On a distant island colony, enslaved people rise up for their freedom.*
+- **Bildtext:** *On a distant island colony, enslaved people walk out to claim their freedom.*
 - **Shutterstock-sökning:** `formerly enslaved people walking free plantation path dawn illustration`
 - **AI-prompt (alternativ):** Warm historical illustration of a line of formerly enslaved people in simple clothes walking away from a sugarcane plantation building along a dirt path at dawn, some carrying small bundles or farm tools, seen from a respectful distance, calm dignified mood, no chains, no whips, no violence, no signs, no text, no letters.
 
@@ -216,10 +215,10 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 > Older historians tell a story of class struggle.  
 > In this story, a rising middle class overthrows a tired old nobility.  
 > Later historians, called revisionists, question this simple picture.  
-> They study pamphlets, letters, and police reports from the time.  
+> They study pamphlets, letters, and police reports from Paris and the provinces.  
 > These sources show many local causes, not just one big class conflict.  
-> Politics, personal networks, and sheer chance also seem to matter.  
-> Historians also compare Revolution X with the uprising on Saint-Domingue.  
+> Politics, personal networks, and pure chance also matter.  
+> Historians also compare Revolution X with the uprising in Saint-Domingue.  
 > Enslaved people there use the same words about liberty and rights.  
 > Yet their revolution follows its own separate path to freedom.  
 > The comparison shows how one revolution's ideals can travel far.  
@@ -242,10 +241,10 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Huvudbild
 
-- **Motiv:** Still life on a dark wooden table: a small stack of thin, worn pamphlets, a bound ledger of police reports, and a magnifying glass resting on top, warm lamp light from one side. Production note: all covers and pages must be blank, blurred, or angled away, no readable letters or words anywhere, quiet scholarly mood.
-- **Bildtext:** *Old pamphlets and reports. Historians read them again and again.*
-- **Shutterstock-sökning:** `old pamphlets ledger magnifying glass wooden table still life`
-- **AI-prompt (alternativ):** Photorealistic still life on a dark wooden table of a small stack of thin worn pamphlets, a bound ledger of police reports, and a magnifying glass resting on top, warm lamp light from one side, quiet scholarly mood, all pages blank or angled away, no readable letters, no text.
+- **Motiv:** A long archive aisle with tall shelves of old paper bundles tied with string and plain grey boxes on both sides, seen straight down the aisle in soft light from a high window at the far end, no labels, no people. Production note: no readable labels, letters, or numbers anywhere, all bundles and boxes plain, quiet scholarly mood.
+- **Bildtext:** *Old papers in an archive. Historians read them again and again.*
+- **Shutterstock-sökning:** `archive aisle tall shelves paper bundles string grey boxes soft light no people`
+- **AI-prompt (alternativ):** Photorealistic view straight down a long archive aisle with tall shelves of old paper bundles tied with string and plain grey boxes on both sides, soft light from a high window at the far end, no labels, no people, quiet scholarly mood, no text, no letters, no numbers.
 
 ### Sidobild
 

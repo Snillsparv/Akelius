@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Amerikanska revolutionen. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American och namnet Washington förekommer aldrig i korttext, bildtext eller ordlista, bara i svarsalternativen. Frankrikes skuld nämns kort utan att peka ut Napoleon eller den franska revolutionen vid namn. Universitetskortet nämner Simón Bolívar.
+Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American och namnet Washington förekommer aldrig i korttext, bildtext eller ordlista, bara i svarsalternativen. Frankrikes skuld nämns kort utan att peka ut Napoleon eller den franska revolutionen vid namn. Universitetskortet nämner Simón Bolívar. Högst ett exakt årtal per kort; övrig tid anges relativt.
 
 ---
 
@@ -15,11 +15,11 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 > Revolution X begins about 250 years ago.  
 > Thirteen colonies sit on the east coast of North America.  
 > Settlers there live under a king who rules from far away.  
-> His country just finishes a long, costly war.  
-> He needs money, so he adds new taxes on the colonies.  
+> His country has just ended a long, costly war.  
+> He needs money, so his parliament puts new taxes on the colonies.  
 > The colonists have no voice in his faraway parliament.  
 > No taxation without representation, they say.  
-> One cold night, colonists board three ships at a Boston wharf.  
+> One cold night, colonists board three ships in the harbor of Boston.  
 > They break open chests of tea and dump it into the water.  
 > The king's government answers with harsh new laws.  
 > Anger now spreads fast across all thirteen colonies.  
@@ -41,17 +41,17 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Huvudbild
 
-- **Motiv:** A moonlit colonial harbor at night: three tall sailing ships rest at a wooden quay, a small group of colonists in plain coats walk up a gangplank onto the nearest ship, dark water, a quiet town with low rooftops behind. Production note: no flags or banners of any kind, no readable text on ships or crates, faces small and not recognizable, calm and non-violent mood, no crowd, no fire.
-- **Bildtext:** *At night, colonists board the ships at the wharf.*
+- **Motiv:** A moonlit colonial harbor at night: three tall sailing ships rest at a long wooden quay, a small group of colonists in plain coats walk up a gangplank onto the nearest ship, dark water, a quiet town with low rooftops behind. Production note: no flags or banners of any kind, no readable text on ships or crates, faces small and not recognizable, calm and non-violent mood, no crowd, no fire.
+- **Bildtext:** *At night, colonists board the ships in the harbor.*
 - **Shutterstock-sökning:** `colonial sailing ships harbor night wharf illustration eighteenth century`
-- **AI-prompt (alternativ):** Wide historical illustration of a moonlit colonial harbor around 1773, three tall wooden sailing ships resting at a stone quay, a small group of colonists in plain coats walking up a gangplank onto the nearest ship, dark calm water, a quiet town with low rooftops in the background, cool silvery moonlight, no flags, no banners, no fire, no crowd, no text, no letters.
+- **AI-prompt (alternativ):** Wide historical illustration of a moonlit colonial harbor around 1773, three tall wooden sailing ships resting at a long wooden quay, a small group of colonists in plain coats walking up a gangplank onto the nearest ship, dark calm water, a quiet town with low rooftops in the background, cool silvery moonlight, no flags, no banners, no fire, no crowd, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** A colonial tax collector sits at a small wooden table at a market, a merchant hands over coins, an open ledger with blank pages lies on the table, a small locked strongbox beside it. The picture explains the word 'taxes'. Production note: no readable text or numbers on the ledger or coins, generic faces, calm everyday mood, no conflict.
-- **Bildtext:** *Every trader must pay part of what he earns to the king.*
-- **Shutterstock-sökning:** `colonial tax collector market table coins ledger illustration`
-- **AI-prompt (alternativ):** Vertical historical illustration of a colonial tax collector seated at a small wooden table at an outdoor market, a merchant handing over coins, an open ledger with blank pages and a small locked strongbox on the table, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters.
+- **Motiv:** A colonial customs officer sits at a small wooden table on a harbor quay beside stacked crates and barrels, a merchant hands over coins, a closed ledger and a small locked strongbox lie on the table. The picture explains the word 'taxes'. Production note: no readable text or numbers on crates, ledger or coins, generic faces, calm everyday mood, no conflict.
+- **Bildtext:** *Traders must pay the king a tax on goods such as tea, glass, and paper.*
+- **Shutterstock-sökning:** `colonial customs officer harbor table coins crates barrels illustration`
+- **AI-prompt (alternativ):** Vertical historical illustration of a colonial customs officer seated at a small wooden table on a harbor quay beside stacked wooden crates and barrels, a merchant handing over coins, a closed ledger and a small locked strongbox on the table, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters.
 
 ---
 
@@ -61,17 +61,17 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Korttext
 
-> Revolution X turns into full war in 1775.  
+> Revolution X turns into full war about 250 years ago.  
 > Colonists take up arms against the king's soldiers.  
 > A tall general from Virginia leads the colonial army.  
 > Representatives from all thirteen colonies meet.  
 > In 1776, they declare independence from the king.  
 > Their declaration states that all men are created equal.  
-> At the same time, about one fifth of the people in the colonies live enslaved.  
+> Yet about one in five people in the colonies live enslaved.  
 > The declaration does not free them.  
 > Some colonists disagree with the revolt and stay loyal to the king.  
-> Most Native nations along the frontier side with the king too.  
-> Independence, once declared, still has to be won by war.  
+> The new nation must now win its independence in war.  
+> The king's army is strong, and the war lasts for years.  
 > **Which revolution is Revolution X?**
 
 ### Svarsalternativ
@@ -97,10 +97,10 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Sidobild
 
-- **Motiv:** In a small town square, a man in plain clothes reads aloud from a sheet of paper to a modest gathered crowd of townspeople, seen from behind the crowd, the paper held too far away to read. The picture explains the word 'declare'. Production note: the paper must show no readable letters or words, generic faces, calm attentive mood, no flags or symbols.
+- **Motiv:** In a small town square, a man in plain clothes reads aloud from a sheet of paper to a modest gathered crowd of townspeople, seen from the side so the sheet is seen edge-on and cannot be read. The picture explains the word 'declare'. Production note: the paper must show no readable letters or words, generic faces, calm attentive mood, no flags or symbols.
 - **Bildtext:** *A reader announces the new declaration to the town.*
 - **Shutterstock-sökning:** `town square reading proclamation crowd colonial illustration`
-- **AI-prompt (alternativ):** Vertical historical illustration of a small colonial town square, a man in plain clothes reading aloud from a sheet of paper to a modest crowd of townspeople seen from behind, the paper angled away from the viewer, warm daylight, calm attentive mood, no flags, no symbols, no readable text, no letters.
+- **AI-prompt (alternativ):** Vertical historical illustration of a small colonial town square, a man in plain clothes reading aloud from a sheet of paper to a modest crowd of townspeople, seen from the side so the sheet is edge-on to the viewer, warm daylight, calm attentive mood, no flags, no symbols, no readable text, no letters.
 
 ---
 
@@ -112,15 +112,16 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 > Revolution X promises liberty to the colonies.  
 > But that liberty is not equal for everyone.  
-> About one in five people in the new nation remain enslaved, with no change to their lives.  
+> Most enslaved people gain nothing from the new liberty.  
+> Some northern states begin to end slavery slowly, but the south keeps it.  
 > Free women support the cause with money, letters, and even secret spying.  
-> Still, when the new nation forms, they gain no right to vote.  
+> Still, almost no woman gains the right to vote.  
 > Loyalists, who wish to stay under the king, become outsiders overnight.  
-> Thousands leave their homes for Canada or Britain, losing land and property.  
+> Tens of thousands leave for Canada or Britain, losing land and property.  
 > Most Native nations along the frontier side with the king during the war.  
 > They fear that independent settlers will take even more of their land.  
 > After the war, that fear comes true again and again.  
-> So the new liberty of some becomes the new loss of others.  
+> So the liberty of some becomes the loss of others.  
 > **Which revolution is Revolution X?**
 
 ### Svarsalternativ
@@ -159,17 +160,18 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Korttext
 
-> By 1777, Revolution X is not going well for the colonies.  
+> After two years of war, Revolution X is going badly for the colonies.  
 > The colonial army loses battle after battle.  
-> It struggles through hard years, often short of food, pay, and supplies.  
-> Then France decides to help, partly to weaken its old rival across the sea.  
-> In 1778, French ships, soldiers, weapons, and money arrive.  
-> French warships later trap the king's army near the coast in 1781.  
+> It is often short of food, pay, and supplies.  
+> Then the colonists win a big battle in the north.  
+> Now France decides to help, partly to weaken its old rival across the sea.  
+> The next year, French ships, soldiers, weapons, and money arrive.  
+> Three years later, French warships trap the king's army near the coast.  
 > Surrounded by land and sea, that army finally surrenders.  
 > The colonies have now won their war.  
 > But helping costs the French king enormous sums of money.  
 > His treasury sinks even deeper into debt.  
-> That royal debt will soon cause serious trouble back home too.  
+> That royal debt soon helps cause serious trouble back home too.  
 > **Which revolution is Revolution X?**
 
 ### Svarsalternativ
@@ -195,10 +197,10 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 ### Sidobild
 
-- **Motiv:** In a dim stone room, a royal treasurer in formal clothes counts coins from a canvas money bag onto a table stacked with more bags and a closed ledger book, candlelight, a worried expression. The picture explains the word 'treasury'. Production note: no readable text or numbers, generic face not resembling any known portrait, calm but tense mood.
+- **Motiv:** A large iron-bound royal chest stands open and almost empty in a grand candlelit room, a few coins at the bottom, no people. The picture explains the word 'treasury'. Production note: no readable text or numbers, no coats of arms, calm but tense mood.
 - **Bildtext:** *Helping a war far away costs a fortune at home.*
-- **Shutterstock-sökning:** `royal treasurer counting coins candlelight illustration eighteenth century`
-- **AI-prompt (alternativ):** Vertical historical illustration of a royal treasurer in formal eighteenth-century clothes counting coins from a canvas money bag onto a table stacked with more bags and a closed ledger book, warm candlelight in a dim stone room, a worried expression, generic face, no readable text, no numbers, no letters.
+- **Shutterstock-sökning:** `open empty iron bound royal chest candlelit palace room eighteenth century`
+- **AI-prompt (alternativ):** Vertical historical illustration of a large iron-bound royal chest standing open and almost empty in a grand candlelit eighteenth-century room, a few coins at the bottom, no people, warm candlelight, quiet tense mood, no coats of arms, no readable text, no numbers, no letters.
 
 ---
 
@@ -209,14 +211,15 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 ### Korttext
 
 > Historians still debate the true impact of Revolution X.  
-> Is it a true revolution, or just a change of rulers while much of society stays the same?  
-> The colonies replace a distant king with elected leaders. Yet plantation slavery grows for decades after.  
-> Most Native nations lose still more land in the new republic that follows.  
+> Is it a true revolution, or only a change of rulers?  
+> The new republic replaces a distant king with elected leaders.  
+> Yet plantation slavery grows for decades after.  
+> Freedom of religion and a free press become law, new ideas for the time.  
 > A written constitution, ratified in the 1780s, still shapes government today.  
-> Its early history relies on letters, diaries, and army records, many saved only by chance.  
+> Its early history relies on letters, diaries, and army records, many saved by chance.  
 > Newspapers of the time already tell the story differently, depending on who prints them.  
-> Two generations later, the idea of throwing off a king inspires new fighters far to the south.  
-> In Spanish colonies of South America, a general named Simón Bolívar reads about the northern revolt.  
+> One generation later, the idea inspires new fighters far to the south.  
+> In South America, a general named Simón Bolívar reads about the northern revolt.  
 > He leads years of war so his own homeland can also become independent.  
 > So one revolution's words echo across a continent, long after Revolution X itself ends.  
 > **Which revolution is Revolution X?**

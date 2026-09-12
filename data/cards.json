@@ -16879,6 +16879,1150 @@
           }
         }
       ]
+    },
+    {
+      "slug": "american-revolution",
+      "person": "The American Revolution",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Tea in the harbor",
+          "category": "revolutions",
+          "text_sentences": [
+            "Revolution X begins about 250 years ago.",
+            "Thirteen colonies sit on the east coast of North America.",
+            "Settlers there live under a king who rules from far away.",
+            "His country has just ended a long, costly war.",
+            "He needs money, so his parliament puts new taxes on the colonies.",
+            "The colonists have no voice in his faraway parliament.",
+            "No taxation without representation, they say.",
+            "One cold night, colonists board three ships in the harbor of Boston.",
+            "They break open chests of tea and dump it into the water.",
+            "The king's government answers with harsh new laws.",
+            "Anger now spreads fast across all thirteen colonies."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The Glorious Revolution",
+            "The American Revolution",
+            "The French Revolution",
+            "The Industrial Revolution"
+          ],
+          "correct": "The American Revolution",
+          "words": [
+            {
+              "word": "colonies",
+              "explanation": "lands ruled by another, faraway country"
+            },
+            {
+              "word": "parliament",
+              "explanation": "a group of people who make the laws of a country"
+            },
+            {
+              "word": "taxes",
+              "explanation": "money that people must pay to their government"
+            },
+            {
+              "word": "representation",
+              "explanation": "having someone who speaks and votes for you"
+            }
+          ],
+          "main_image": {
+            "description": "A moonlit colonial harbor at night: three tall sailing ships rest at a long wooden quay, a small group of colonists in plain coats walk up a gangplank onto the nearest ship, dark water, a quiet town with low rooftops behind. Production note: no flags or banners of any kind, no readable text on ships or crates, faces small and not recognizable, calm and non-violent mood, no crowd, no fire.",
+            "caption": "At night, colonists board the ships in the harbor.",
+            "shutterstock_query": "colonial sailing ships harbor night wharf illustration eighteenth century",
+            "ai_prompt": "Wide historical illustration of a moonlit colonial harbor around 1773, three tall wooden sailing ships resting at a long wooden quay, a small group of colonists in plain coats walking up a gangplank onto the nearest ship, dark calm water, a quiet town with low rooftops in the background, cool silvery moonlight, no flags, no banners, no fire, no crowd, no text, no letters."
+          },
+          "side_image": {
+            "description": "A colonial customs officer sits at a small wooden table on a harbor quay beside stacked crates and barrels, a merchant hands over coins, a closed ledger and a small locked strongbox lie on the table. The picture explains the word 'taxes'. Production note: no readable text or numbers on crates, ledger or coins, generic faces, calm everyday mood, no conflict.",
+            "caption": "Traders must pay the king a tax on goods such as tea, glass, and paper.",
+            "shutterstock_query": "colonial customs officer harbor table coins crates barrels illustration",
+            "ai_prompt": "Vertical historical illustration of a colonial customs officer seated at a small wooden table on a harbor quay beside stacked wooden crates and barrels, a merchant handing over coins, a closed ledger and a small locked strongbox on the table, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A declaration, and a war",
+          "category": "revolutions",
+          "text_sentences": [
+            "Revolution X turns into full war about 250 years ago.",
+            "Colonists take up arms against the king's soldiers.",
+            "A tall general from Virginia leads the colonial army.",
+            "Representatives from all thirteen colonies meet.",
+            "In 1776, they declare independence from the king.",
+            "Their declaration states that all men are created equal.",
+            "Yet about one in five people in the colonies live enslaved.",
+            "The declaration does not free them.",
+            "Some colonists disagree with the revolt and stay loyal to the king.",
+            "The new nation must now win its independence in war.",
+            "The king's army is strong, and the war lasts for years."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The Russian Revolution",
+            "The Haitian Revolution",
+            "The American Revolution",
+            "The Glorious Revolution"
+          ],
+          "correct": "The American Revolution",
+          "words": [
+            {
+              "word": "representatives",
+              "explanation": "people chosen to speak and act for a group"
+            },
+            {
+              "word": "declare",
+              "explanation": "to say something clearly and officially"
+            },
+            {
+              "word": "enslaved",
+              "explanation": "forced to work for no pay and with no freedom"
+            },
+            {
+              "word": "loyal",
+              "explanation": "staying faithful and true to someone"
+            }
+          ],
+          "main_image": {
+            "description": "Colonial militia in worn coats stand in loose rows in an open field at dawn, muskets resting on their shoulders, an officer in a plain coat stands facing them, mist over distant trees, no fighting in progress. Production note: no flags with stars or stripes, no banners, no readable text, faces small and not resembling any known portrait, calm pre-march mood, no blood, no smoke.",
+            "caption": "Farmers and workers become soldiers almost overnight.",
+            "shutterstock_query": "colonial militia field dawn muskets illustration eighteenth century",
+            "ai_prompt": "Wide historical illustration of colonial militia in worn coats standing in loose rows in an open field at dawn, muskets resting on shoulders, an officer in a plain coat facing them, light mist over distant trees, calm pre-march mood, no flags, no banners, no fighting, no smoke, no text, no letters."
+          },
+          "side_image": {
+            "description": "In a small town square, a man in plain clothes reads aloud from a sheet of paper to a modest gathered crowd of townspeople, seen from the side so the sheet is seen edge-on and cannot be read. The picture explains the word 'declare'. Production note: the paper must show no readable letters or words, generic faces, calm attentive mood, no flags or symbols.",
+            "caption": "A reader announces the new declaration to the town.",
+            "shutterstock_query": "town square reading proclamation crowd colonial illustration",
+            "ai_prompt": "Vertical historical illustration of a small colonial town square, a man in plain clothes reading aloud from a sheet of paper to a modest crowd of townspeople, seen from the side so the sheet is edge-on to the viewer, warm daylight, calm attentive mood, no flags, no symbols, no readable text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Whose liberty?",
+          "category": "revolutions",
+          "text_sentences": [
+            "Revolution X promises liberty to the colonies.",
+            "But that liberty is not equal for everyone.",
+            "Most enslaved people gain nothing from the new liberty.",
+            "Some northern states begin to end slavery slowly, but the south keeps it.",
+            "Free women support the cause with money, letters, and even secret spying.",
+            "Still, almost no woman gains the right to vote.",
+            "Loyalists, who wish to stay under the king, become outsiders overnight.",
+            "Tens of thousands leave for Canada or Britain, losing land and property.",
+            "Most Native nations along the frontier side with the king during the war.",
+            "They fear that independent settlers will take even more of their land.",
+            "After the war, that fear comes true again and again.",
+            "So the liberty of some becomes the loss of others."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The American Revolution",
+            "The Mexican Revolution",
+            "The Industrial Revolution",
+            "The Haitian Revolution"
+          ],
+          "correct": "The American Revolution",
+          "words": [
+            {
+              "word": "liberty",
+              "explanation": "freedom to live and choose as you wish"
+            },
+            {
+              "word": "loyalists",
+              "explanation": "people who stay faithful to the old king"
+            },
+            {
+              "word": "frontier",
+              "explanation": "the edge of settled land, close to the wild land beyond"
+            },
+            {
+              "word": "property",
+              "explanation": "land or things that a person owns"
+            }
+          ],
+          "main_image": {
+            "description": "Outside a plain wooden building, a line of men in working clothes waits to cast a paper ballot into a wooden box held by an official, while a small group of women and other townspeople stand apart at a distance, watching. Production note: no readable text on any ballot or sign, generic faces, calm orderly mood, no conflict, no symbols.",
+            "caption": "Only some people may vote for the leaders of the new nation.",
+            "shutterstock_query": "colonial election ballot box line voters illustration eighteenth century",
+            "ai_prompt": "Wide historical illustration outside a plain wooden building, a line of men in working clothes waiting to place a paper ballot into a wooden box held by an official, a small group of women and other townspeople standing apart at a distance watching, soft daylight, calm orderly mood, no readable text, no signs, no letters, no symbols."
+          },
+          "side_image": {
+            "description": "A family in plain clothes loads bundles and a wooden chest onto a horse cart outside a modest house, one of them looks back at the house, a light rain begins to fall. The picture explains the word 'loyalists'. Production note: no flags, no readable text, generic faces, somber but calm mood, no violence.",
+            "caption": "A family that stays true to the king must now leave its home.",
+            "shutterstock_query": "colonial family loading cart leaving home illustration eighteenth century",
+            "ai_prompt": "Vertical historical illustration of a family in plain eighteenth-century clothes loading bundles and a small wooden chest onto a horse cart outside a modest house, one figure looking back toward the house, light rain beginning to fall, somber calm mood, no flags, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A costly rescue at sea",
+          "category": "revolutions",
+          "text_sentences": [
+            "After two years of war, Revolution X is going badly for the colonies.",
+            "The colonial army loses battle after battle.",
+            "It is often short of food, pay, and supplies.",
+            "Then the colonists win a big battle in the north.",
+            "Now France decides to help, partly to weaken its old rival across the sea.",
+            "The next year, French ships, soldiers, weapons, and money arrive.",
+            "Three years later, French warships trap the king's army near the coast.",
+            "Surrounded by land and sea, that army finally surrenders.",
+            "The colonies have now won their war.",
+            "But helping costs the French king enormous sums of money.",
+            "His treasury sinks even deeper into debt.",
+            "That royal debt soon helps cause serious trouble back home too."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The Mexican Revolution",
+            "The American Revolution",
+            "The Russian Revolution",
+            "The Glorious Revolution"
+          ],
+          "correct": "The American Revolution",
+          "words": [
+            {
+              "word": "rival",
+              "explanation": "a country or person competing against another"
+            },
+            {
+              "word": "surrenders",
+              "explanation": "stops fighting and admits defeat"
+            },
+            {
+              "word": "treasury",
+              "explanation": "the money and wealth that a government or king controls"
+            },
+            {
+              "word": "debt",
+              "explanation": "money that you owe and must pay back"
+            }
+          ],
+          "main_image": {
+            "description": "A line of tall warships with sails furled rides at anchor across the mouth of a wide river, seen from a wooded shore at a distance, evening light, calm water, no visible fighting. Production note: no flags of any kind, no readable text on hulls, no smoke, no soldiers in close view, quiet tense mood.",
+            "caption": "Warships block the river. No one can escape by sea.",
+            "shutterstock_query": "warships blockade river mouth anchored evening illustration eighteenth century",
+            "ai_prompt": "Wide historical illustration of a line of tall wooden warships with sails furled riding at anchor across the mouth of a wide river, seen from a wooded shore at a distance, warm evening light, calm water, no visible fighting, no flags, no smoke, no text, no letters."
+          },
+          "side_image": {
+            "description": "A large iron-bound royal chest stands open and almost empty in a grand candlelit room, a few coins at the bottom, no people. The picture explains the word 'treasury'. Production note: no readable text or numbers, no coats of arms, calm but tense mood.",
+            "caption": "Helping a war far away costs a fortune at home.",
+            "shutterstock_query": "open empty iron bound royal chest candlelit palace room eighteenth century",
+            "ai_prompt": "Vertical historical illustration of a large iron-bound royal chest standing open and almost empty in a grand candlelit eighteenth-century room, a few coins at the bottom, no people, warm candlelight, quiet tense mood, no coats of arms, no readable text, no numbers, no letters."
+          }
+        },
+        {
+          "level": "university",
+          "title": "One revolution's long echo",
+          "category": "revolutions",
+          "text_sentences": [
+            "Historians still debate the true impact of Revolution X.",
+            "Is it a true revolution, or only a change of rulers?",
+            "The new republic replaces a distant king with elected leaders.",
+            "Yet plantation slavery grows for decades after.",
+            "Freedom of religion and a free press become law, new ideas for the time.",
+            "A written constitution, ratified in the 1780s, still shapes government today.",
+            "Its early history relies on letters, diaries, and army records, many saved by chance.",
+            "Newspapers of the time already tell the story differently, depending on who prints them.",
+            "One generation later, the idea inspires new fighters far to the south.",
+            "In South America, a general named Simón Bolívar reads about the northern revolt.",
+            "He leads years of war so his own homeland can also become independent.",
+            "So one revolution's words echo across a continent, long after Revolution X itself ends."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The French Revolution",
+            "The Industrial Revolution",
+            "The American Revolution",
+            "The Haitian Revolution"
+          ],
+          "correct": "The American Revolution",
+          "words": [
+            {
+              "word": "ratified",
+              "explanation": "officially approved and accepted"
+            },
+            {
+              "word": "republic",
+              "explanation": "a country led by chosen leaders, not a king"
+            },
+            {
+              "word": "inspires",
+              "explanation": "gives someone else a new idea or wish to act"
+            },
+            {
+              "word": "homeland",
+              "explanation": "the country where a person is born and belongs"
+            }
+          ],
+          "main_image": {
+            "description": "A long column of South American soldiers and horses crosses a high, snow-dusted mountain pass, seen from a distance, dramatic peaks around them, cold clear light, no flags visible. Production note: no readable text or banners, figures small and generic, no violence, no recognizable portrait among the riders.",
+            "caption": "Far to the south, decades later, new fighters cross the mountains for their own freedom.",
+            "shutterstock_query": "army crossing mountain pass south america historical illustration",
+            "ai_prompt": "Wide historical illustration of a long column of South American soldiers and horses crossing a high, snow-dusted mountain pass, seen from a distance, dramatic rocky peaks around them, cold clear daylight, no flags, no banners, no readable text, no letters."
+          },
+          "side_image": {
+            "description": "Close-up of a hand pressing a wax seal onto a rolled parchment document resting on a dark wooden table, warm candlelight, the rest of the room in soft shadow. The picture explains the word 'ratified'. Production note: no readable text or letters on the parchment, no other people visible, quiet formal mood.",
+            "caption": "A new agreement becomes official once it is sealed.",
+            "shutterstock_query": "hand wax seal parchment document candlelight closeup",
+            "ai_prompt": "Photorealistic close-up of a hand pressing a wax seal onto a rolled parchment document on a dark wooden table, warm candlelight, soft shadow filling the rest of the room, quiet formal mood, no readable text, no letters."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "george-washington",
+      "person": "George Washington",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The General Who Will Not Quit",
+          "category": "revolutions",
+          "text_sentences": [
+            "General X grows up on a farm in Virginia.",
+            "As a young man, he works as a surveyor.",
+            "He walks through forests and measures wild land as his job.",
+            "Years later, thirteen colonies in North America rise up against the British king.",
+            "Leaders choose General X to lead their new army.",
+            "His soldiers are mostly farmers, not trained soldiers.",
+            "In many early battles, his army must retreat.",
+            "On a freezing Christmas night, he crosses an icy river in the dark.",
+            "His tired men win a small battle early the next morning.",
+            "The next winter, his army camps in cold and mud with little food.",
+            "About two thousand of his soldiers die from sickness and cold that winter.",
+            "General X stays with his men, and the army holds together."
+          ],
+          "question": "Who is General X?",
+          "options": [
+            "Napoleon Bonaparte",
+            "George Washington",
+            "Simón Bolívar",
+            "Alexander Hamilton"
+          ],
+          "correct": "George Washington",
+          "words": [
+            {
+              "word": "surveyor",
+              "explanation": "a person whose job is to measure and map land"
+            },
+            {
+              "word": "colonies",
+              "explanation": "lands ruled by a country far away, across the sea"
+            },
+            {
+              "word": "retreat",
+              "explanation": "to move back and away from a battle, not forward"
+            }
+          ],
+          "main_image": {
+            "description": "Seen from a snowy riverbank at night in deep winter: soldiers in plain, worn coats push flat wooden boats into dark water full of floating ice. All figures are seated in the boats or pushing from the bank, no one stands in a boat, no figure is singled out. Snow falls softly. Grim, determined mood. Production note: original composition, not a reproduction of any famous painting; no flag of any kind; no recognizable face or portrait on any figure; no text, letters, or numbers.",
+            "caption": "On a freezing night, General X and his men cross an icy river in secret.",
+            "shutterstock_query": "soldiers pushing boats icy river night winter riverbank historical illustration",
+            "ai_prompt": "Atmospheric realistic illustration seen from a snowy riverbank at night in deep winter, soldiers in plain worn coats pushing flat wooden boats into dark water full of floating ice, all figures seated in the boats or pushing from the bank, no one standing in a boat, no figure singled out, soft falling snow, grim determined mood, original composition, not a reproduction of any famous painting, no flag, no visible faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A young man in plain eighteenth century clothes stands alone in a sunlit forest clearing, seen from a distance or from behind, holding a long measuring chain and a simple wooden survey instrument on a tripod. Tall trees and wild, untouched land around him. The picture explains the word surveyor. Production note: no visible face, no recognizable portrait; no text, letters, numbers, or signs anywhere.",
+            "caption": "Before he leads an army, young General X works as a surveyor.",
+            "shutterstock_query": "young surveyor forest colonial era measuring chain tripod distance",
+            "ai_prompt": "Photorealistic vertical illustration of a young man in plain eighteenth century clothes standing alone in a sunlit forest clearing, seen from a distance with his back turned, holding a long measuring chain and a simple wooden survey instrument on a tripod, tall trees and wild untouched land around him, calm daylight, no visible face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The General Who Gives Back His Command",
+          "category": "revolutions",
+          "text_sentences": [
+            "Mr X leads thirteen colonies in a long war against their British king.",
+            "Near the end of the war, one of his officers writes him a letter.",
+            "The officer suggests that Mr X should become a king.",
+            "Mr X refuses at once, angry at the idea.",
+            "The colonies win the war, with important help from France.",
+            "Many expect Mr X to become the most powerful man in the land.",
+            "Instead, he goes in uniform to the new lawmakers and hands back his commission.",
+            "He gives up all his power and goes home to his farm.",
+            "Across Europe, people are amazed: a winning general who does not want to rule.",
+            "A few years later, leaders choose him as the country's first president.",
+            "After two terms, he steps down and goes home again.",
+            "Today, the capital of his country carries his name."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "John Adams",
+            "Thomas Jefferson",
+            "George Washington",
+            "Benjamin Franklin"
+          ],
+          "correct": "George Washington",
+          "words": [
+            {
+              "word": "commission",
+              "explanation": "the official paper that gives an officer his rank and command"
+            },
+            {
+              "word": "term",
+              "explanation": "a fixed period of years in a job like president"
+            },
+            {
+              "word": "capital",
+              "explanation": "the main city of a country, where its leaders work"
+            },
+            {
+              "word": "refuse",
+              "explanation": "to say no, and mean it"
+            }
+          ],
+          "main_image": {
+            "description": "A plain wood panelled hall of the late eighteenth century. A man in a military coat, seen from behind or at a distance with no visible face, stands before rows of seated lawmakers and hands a folded paper to a seated presiding officer. Soft daylight from tall windows, calm and solemn mood. Production note: no recognizable face or portrait; no flag of any kind; the paper is folded and shows no writing; no text, letters, or numbers anywhere.",
+            "caption": "After the war is won, Mr X gives his command back to the lawmakers.",
+            "shutterstock_query": "officer in uniform hands folded paper to seated official hall eighteenth century from behind",
+            "ai_prompt": "Realistic historical illustration inside a plain wood panelled hall of the late eighteenth century, a man in a military coat seen from behind at a distance handing a folded paper to a seated presiding officer before rows of seated lawmakers, soft daylight through tall windows, calm solemn mood, no visible face, no flag, the paper folded with no writing, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A wide river seen from a hill at a distance, with a half built city on its muddy banks. Government buildings stand in scaffolding, plain unfinished walls, no domes, workers as tiny distant figures. Soft morning light. The picture explains the word capital: a brand new capital city slowly rising from the land. Production note: no obelisk shaped monument, no domes, no readable signs or text, no flag of any kind.",
+            "caption": "A brand new capital city slowly rises beside a wide river.",
+            "shutterstock_query": "unfinished capital city construction river distant hill eighteenth century",
+            "ai_prompt": "Photorealistic vertical view from a hill at a distance of a wide river with a half built city on its muddy banks, government buildings in scaffolding with plain unfinished walls and no domes, tiny distant workers, soft morning light, hopeful quiet mood, no obelisk shaped monument, no readable signs, no text, no letters, no flag."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Farm Built on Slavery",
+          "category": "revolutions",
+          "text_sentences": [
+            "Mr X owns a large farm called Mount Vernon, in Virginia.",
+            "Hundreds of enslaved people live and work there, forced and unpaid.",
+            "Mr X personally owns more than one hundred of these people.",
+            "One enslaved woman named Ona works as his wife's personal maid.",
+            "While Mr X serves as the country's first president, Ona plans her escape.",
+            "She flees north to a city and never goes back.",
+            "Mr X tries hard to find her and bring her back.",
+            "Ona is never caught.",
+            "She lives free in a northern town for the rest of her life.",
+            "In his will, Mr X gives an order: free the people I own.",
+            "But the will delays this until his wife also dies.",
+            "Historians see him as both a founder and an enslaver."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Benjamin Franklin"
+          ],
+          "correct": "George Washington",
+          "words": [
+            {
+              "word": "enslaved",
+              "explanation": "forced to work for no pay and with no freedom, as property"
+            },
+            {
+              "word": "will",
+              "explanation": "a paper that says what happens to a person's things after they die"
+            },
+            {
+              "word": "escape",
+              "explanation": "to get away and become free"
+            }
+          ],
+          "main_image": {
+            "description": "Wide farm fields at Mount Vernon at dawn, fields of wheat and corn stretching toward a large house far in the background. Several people walk upright toward the fields carrying farm tools, seen from a distance with no visible faces. Soft early light, quiet and solemn mood, not violent. Production note: no visible faces on any figure, no recognizable portrait, no violence or gore of any kind; no text, letters, or numbers.",
+            "caption": "Hundreds of enslaved people work the fields of Mr X's large farm.",
+            "shutterstock_query": "plantation fields dawn distant figures walking farm tools historical illustration",
+            "ai_prompt": "Solemn realistic illustration of wide farm fields at dawn, fields of wheat and corn stretching toward a large house far in the background, several people walking upright toward the fields carrying farm tools, seen from a distance with no visible faces, soft early light, quiet respectful mood, no violence, no gore, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A quiet harbor at night, a small one-masted sailing ship at the dock with its sail half raised, ready to leave. A single small figure, a woman in a plain dress, walks alone toward the gangway, seen from behind and at a distance, no visible face. Lantern light on the water. The picture shows the idea of escape to freedom. Production note: no visible face, no recognizable portrait; no readable signs or ship names, no text, no letters, no numbers.",
+            "caption": "Ona escapes by ship, and she never lets herself be brought back.",
+            "shutterstock_query": "harbor night small sailing sloop lone woman walking gangway lantern light",
+            "ai_prompt": "Atmospheric vertical illustration of a quiet harbor at night, a small one-masted sailing ship at the dock with its sail half raised, a single small figure of a woman in a plain dress walking alone toward the gangway seen from behind at a distance with no visible face, warm lantern light reflected on the water, calm hopeful mood, no readable ship name, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Shot in the Forest, a World at War",
+          "category": "revolutions",
+          "text_sentences": [
+            "As a young officer, Mr X serves the British in North America.",
+            "Britain and France both want the same forest land, further west.",
+            "Mr X and his Native allies lead a small group into the forest.",
+            "In a short, sudden fight, several French soldiers are killed.",
+            "Weeks later, young Mr X must surrender a small fort to French forces.",
+            "This small clash in the forest helps start a much bigger war.",
+            "Soon Britain and France fight each other on several continents.",
+            "Years later, the colonies rise up, and Mr X leads their new army.",
+            "Now France becomes his key ally against the British king.",
+            "Near a coastal town, Mr X and French troops trap a British army.",
+            "A French fleet blocks the sea, so no escape is possible by water.",
+            "The trapped army surrenders, and Britain soon starts to seek peace."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Napoleon Bonaparte",
+            "Alexander Hamilton",
+            "John Adams",
+            "George Washington"
+          ],
+          "correct": "George Washington",
+          "words": [
+            {
+              "word": "ally",
+              "explanation": "a country or group that fights on your side"
+            },
+            {
+              "word": "surrender",
+              "explanation": "to stop fighting and admit defeat"
+            },
+            {
+              "word": "fleet",
+              "explanation": "a large group of warships that sail together"
+            }
+          ],
+          "main_image": {
+            "description": "A misty forest clearing at dawn. A few colonial militia soldiers in plain coats crouch behind fallen logs, muskets raised, and a few Native allies stand among the trees beside them, all seen from a distance. Thin smoke drifts through the mist. Tense but quiet mood, no visible blood or injury. Production note: no visible faces close enough to recognize, no gore, no blood; no text, letters, or numbers anywhere.",
+            "caption": "In a misty forest, a small fight begins a very big war.",
+            "shutterstock_query": "colonial militia forest clearing dawn mist muskets distance historical",
+            "ai_prompt": "Atmospheric realistic illustration of a misty forest clearing at dawn, a few colonial militia soldiers in plain coats crouched behind fallen logs with muskets raised and a few Native allies standing among the trees beside them, seen from a distance among tall trees, thin smoke drifting through the mist, tense quiet mood, no visible blood or injury, no close recognizable faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A small round wooden stockade fort in a wet green meadow ringed by forest, seen from a distance in heavy rain. A column of tired soldiers in plain coats files out through the gate with muskets shouldered, while a second group in different uniforms waits at the edge of the woods. The picture explains the word surrender. Production note: no flags of any kind, no visible faces, no blood or wounded, no text, letters, or numbers.",
+            "caption": "In the rain, young Mr X must surrender a small wooden fort.",
+            "shutterstock_query": "small wooden stockade fort meadow rain soldiers marching out distance eighteenth century",
+            "ai_prompt": "Atmospheric vertical illustration of a small round wooden stockade fort in a wet green meadow ringed by forest, seen from a distance in heavy rain, a column of tired soldiers in plain coats filing out through the gate with muskets shouldered, a second group in different uniforms waiting at the edge of the woods, grey rainy light, no flags, no visible faces, no blood, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The Cherry Tree That Never Was",
+          "category": "revolutions",
+          "text_sentences": [
+            "Mr X dies at the end of the eighteenth century.",
+            "A few years later, a preacher and writer publishes a short book about him.",
+            "The book tells a sweet story: young Mr X damages a cherry tree.",
+            "When his father asks who did it, the boy says: I cannot tell a lie.",
+            "No letter, diary, or witness from Mr X's own lifetime mentions this story.",
+            "Historians agree: the writer most likely invents the whole scene.",
+            "Still, generations of children learn the story as if it is true.",
+            "The new nation wants a perfect founding hero, honest and brave.",
+            "Historians instead study his letters and account books.",
+            "These pages record daily details, from crops sold to money spent.",
+            "From small, dry facts, historians slowly rebuild a truer picture of his life.",
+            "This picture is less simple than the cherry tree story."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Abraham Lincoln",
+            "George Washington",
+            "Thomas Jefferson",
+            "John Adams"
+          ],
+          "correct": "George Washington",
+          "words": [
+            {
+              "word": "invent",
+              "explanation": "to make up something that is not true or real"
+            },
+            {
+              "word": "witness",
+              "explanation": "a person who sees an event happen and can tell about it"
+            },
+            {
+              "word": "generations",
+              "explanation": "groups of people born and living around the same time"
+            }
+          ],
+          "main_image": {
+            "description": "A cozy writing desk in an early nineteenth century study, lit by one candle. A quill rests mid stroke over a blank sheet of paper. Beside the inkwell sit a small wooden toy hatchet and a bowl of ripe cherries. Warm, nostalgic mood, no people in the frame. The picture shows a writer inventing a famous story. Production note: no visible person, hand, or face; no readable text on any paper; no letters or numbers.",
+            "caption": "A writer invents a sweet story about a boy and a cherry tree.",
+            "shutterstock_query": "candlelit writing desk quill toy hatchet cherries still life",
+            "ai_prompt": "Warm photorealistic still life of a cozy writing desk in an early nineteenth century study lit by one candle, a quill resting mid stroke over a blank sheet of paper, an inkwell beside a small wooden toy hatchet and a bowl of ripe cherries, nostalgic mood, no people, no hands, no readable text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A wooden table holds a stack of old bound ledgers, all closed, and a bundle of letters folded with their blank backs outward, tied crosswise with faded ribbon so no writing surface shows. Soft light from an archive window. The picture shows how historians rebuild a truer picture from small, dry facts. Production note: no readable text, letters, numbers, or handwriting anywhere; no people in the frame.",
+            "caption": "Historians rebuild the truer picture from old letters and account books.",
+            "shutterstock_query": "old closed ledgers bundle folded letters faded ribbon archive table",
+            "ai_prompt": "Photorealistic vertical still life of a wooden table with a stack of old bound ledgers all closed and a bundle of letters folded with their blank backs outward, tied crosswise with faded ribbon so no writing surface shows, soft light from an archive window, quiet studious mood, no people, no readable text, no letters, no numbers, no handwriting."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "french-revolution",
+      "person": "The French Revolution",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Not enough bread",
+          "category": "revolutions",
+          "text_sentences": [
+            "Revolution X begins in France in 1789, almost 240 years ago.",
+            "Bad harvests make bread very expensive.",
+            "Poor families cannot buy enough food.",
+            "Society here has three big groups, called estates.",
+            "The first estate is priests, and the second is nobles.",
+            "The third estate is everyone else, almost everybody.",
+            "The third estate pays nearly all the taxes.",
+            "Anger grows over hunger and unfair taxes.",
+            "In Paris, the capital city, a crowd gathers.",
+            "The crowd attacks an old fortress used as a prison.",
+            "Only seven prisoners are inside the huge building.",
+            "The crowd breaks in and takes the gunpowder stored there."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The American Revolution",
+            "The French Revolution",
+            "The Russian Revolution",
+            "The Industrial Revolution"
+          ],
+          "correct": "The French Revolution",
+          "words": [
+            {
+              "word": "estate",
+              "explanation": "one of the big social groups in an old kingdom"
+            },
+            {
+              "word": "noble",
+              "explanation": "a person born into a rich, powerful family"
+            },
+            {
+              "word": "fortress",
+              "explanation": "a strong building built to defend against attack"
+            },
+            {
+              "word": "tax",
+              "explanation": "money that people must pay to a government"
+            }
+          ],
+          "main_image": {
+            "description": "A large crowd of ordinary people in plain late-eighteenth-century clothes gathers at a distance outside a tall stone fortress with round towers in a city street, some carrying sticks or old muskets, dust and pale smoke drifting near the gate, overcast morning light. Production note: seen from a respectful distance, no close-up violence, no blood, no flags or banners of any kind, no readable signs or writing anywhere, the fortress is generic in design and not a literal reproduction of a real building or famous painting.",
+            "caption": "In the capital, a crowd attacks an old fortress used as a prison.",
+            "shutterstock_query": "crowd storming old stone fortress city street eighteenth century illustration",
+            "ai_prompt": "Wide historical illustration seen from a respectful distance of a large crowd of ordinary people in plain late-eighteenth-century clothes gathered outside a tall stone fortress with round towers on a city street, a few carrying sticks or old muskets, pale dust and smoke drifting near the gate, overcast morning light, no close-up violence, no flags, no banners, no signs, no text, no letters."
+          },
+          "side_image": {
+            "description": "Three people stand calmly side by side just outside a small market, seen from a respectful distance: a priest in a plain dark robe, a noble in fine embroidered clothing, and a farmer in simple work clothes holding a loaf of bread. The picture explains the word estate. Production note: no confrontation between the three figures, no readable text on clothing or signs, no coats of arms, calm neutral mood, faces ordinary and not resembling any real person.",
+            "caption": "Priests, nobles, and everyone else. Society here has three big groups.",
+            "shutterstock_query": "priest noble farmer standing together eighteenth century market illustration",
+            "ai_prompt": "Vertical historical illustration of three people standing calmly side by side outside a small market: a priest in a plain dark robe, a noble in fine embroidered clothing, and a farmer in simple work clothes holding a loaf of bread, soft daylight, calm neutral mood, ordinary generic faces, no confrontation, no coats of arms, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A king tries to run",
+          "category": "revolutions",
+          "text_sentences": [
+            "In France, Revolution X is only a few months old.",
+            "A new parliament takes power from the king.",
+            "Nobles must give up their old special rights.",
+            "The rich must now pay taxes too.",
+            "The parliament then writes a declaration of rights.",
+            "All men are born free and equal, it states.",
+            "Free speech and fair trials become new rights.",
+            "A few weeks later, bread is still hard to find in Paris.",
+            "Thousands of women march to the king's palace outside the city.",
+            "They demand bread, and they want the king to live in Paris.",
+            "He agrees, and the royal family moves to the city under guard.",
+            "Two years later, the king tries to flee in secret, but he is caught."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The Glorious Revolution",
+            "The Mexican Revolution",
+            "The French Revolution",
+            "The Haitian Revolution"
+          ],
+          "correct": "The French Revolution",
+          "words": [
+            {
+              "word": "parliament",
+              "explanation": "a group of people chosen to make laws for a country"
+            },
+            {
+              "word": "declaration",
+              "explanation": "an official written statement that says something clearly"
+            },
+            {
+              "word": "guard",
+              "explanation": "a soldier who protects a person or a place"
+            },
+            {
+              "word": "flee",
+              "explanation": "to run away from danger, often in secret"
+            }
+          ],
+          "main_image": {
+            "description": "A long line of women in plain everyday clothes walks along a country road toward a distant grand building, some carrying kitchen tools, sticks, or old muskets, grey autumn sky, seen from a distance. Production note: no flags, no banners, no readable signs, calm determined mood rather than violent, faces ordinary and generic, no reproduction of any known painting.",
+            "caption": "Thousands of women walk out of the city to demand bread.",
+            "shutterstock_query": "women marching country road eighteenth century illustration",
+            "ai_prompt": "Wide historical illustration of a long line of women in plain everyday eighteenth-century clothes walking along a country road toward a distant grand building, some carrying kitchen tools or sticks, grey autumn sky, seen from a distance, calm determined mood, no flags, no banners, no signs, no text, no letters."
+          },
+          "side_image": {
+            "description": "A closed carriage stopped at night at a small town gate, two guards raise lanterns to the carriage window and door, warm lantern light against the dark. The picture explains the word flee. Production note: no faces of the carriage's passengers are visible, no coats of arms on the carriage, no papers or documents in the scene, no readable text anywhere, calm tense mood without violence.",
+            "caption": "A carriage is stopped at night, far from Paris.",
+            "shutterstock_query": "carriage stopped night town gate guards lanterns illustration",
+            "ai_prompt": "Atmospheric vertical illustration of a closed carriage stopped at night at a small town gate, two guards raising lanterns to the carriage window and door, warm lantern light against dark surroundings, calm tense mood, no visible passengers, no coats of arms, no papers, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The king stands trial",
+          "category": "revolutions",
+          "text_sentences": [
+            "In France, Revolution X removes the old king's power step by step.",
+            "After three years, its leaders end the monarchy and declare a republic.",
+            "The former king stands trial for crimes against the new nation.",
+            "Soon after, the new republic executes him.",
+            "Fear of enemies, at home and abroad, grows fast.",
+            "A period called the Terror begins.",
+            "Courts work quickly, and they sentence thousands of suspected enemies to death.",
+            "Official records count about seventeen thousand such deaths in one year.",
+            "Many more die in prisons or in fighting across the country.",
+            "One powerful leader, Robespierre, leads much of this.",
+            "The following year, his own allies turn against him, and he is executed too."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The French Revolution",
+            "The Russian Revolution",
+            "The American Revolution",
+            "The Haitian Revolution"
+          ],
+          "correct": "The French Revolution",
+          "words": [
+            {
+              "word": "monarchy",
+              "explanation": "a country ruled by a king or queen"
+            },
+            {
+              "word": "republic",
+              "explanation": "a state without a king, led by chosen representatives"
+            },
+            {
+              "word": "trial",
+              "explanation": "a formal process in court that decides if someone is guilty"
+            },
+            {
+              "word": "execute",
+              "explanation": "to kill a person as a legal punishment"
+            }
+          ],
+          "main_image": {
+            "description": "A grand hall turned into a courtroom: rows of seated deputies fill a large hall, one presiding officer sits on a raised platform, a single generic accused man stands before them, onlookers fill a gallery behind, soft window light. Production note: no guillotine, no weapons, no crowd violence, no readable text on any document or banner, faces generic and not resembling any real historical person, calm and dignified mood.",
+            "caption": "Hundreds of lawmakers sit as a court to judge a man once above the law.",
+            "shutterstock_query": "national assembly hall deputies trial accused standing platform illustration",
+            "ai_prompt": "Detailed historical illustration of a grand hall turned into a courtroom, rows of seated deputies filling the large hall, one presiding officer on a raised platform, a single generic accused man standing before them, onlookers filling a gallery behind, soft window light, calm dignified mood, no guillotine, no weapons, no banners, no text, no letters."
+          },
+          "side_image": {
+            "description": "An empty gilded throne room, the ornate throne partly covered by a plain dust sheet, tall shuttered windows letting in narrow beams of light, dust floating in the air. The picture explains the word monarchy. Production note: no people in the room, no coats of arms, no readable text or plaques, quiet and slightly melancholy mood.",
+            "caption": "An empty throne. The old kingdom is gone.",
+            "shutterstock_query": "empty gilded throne room dust sheet shuttered windows illustration",
+            "ai_prompt": "Photorealistic vertical image of an empty gilded throne room, the ornate throne partly covered by a plain dust sheet, tall shuttered windows letting in narrow beams of light, dust floating in the air, quiet melancholy mood, no people, no coats of arms, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Not Yet for Everyone",
+          "category": "revolutions",
+          "text_sentences": [
+            "Revolution X promises liberty, equality, and brotherhood for all.",
+            "At first, though, only some men can vote.",
+            "A woman writer named Olympe de Gouges disagrees.",
+            "She writes her own declaration for the rights of woman.",
+            "She demands votes and equal rights for women too.",
+            "Later she attacks the new leaders in print.",
+            "They have her executed.",
+            "Far away, in the colony of Saint-Domingue, enslaved people rise up against their enslavers.",
+            "A few years later, the parliament in France abolishes slavery in its colonies.",
+            "It is one of the first such laws anywhere in the world.",
+            "The new government also creates a new system of measurement.",
+            "Meters and kilograms slowly replace hundreds of old local units."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The Haitian Revolution",
+            "The French Revolution",
+            "The Industrial Revolution",
+            "The Glorious Revolution"
+          ],
+          "correct": "The French Revolution",
+          "words": [
+            {
+              "word": "liberty",
+              "explanation": "freedom; the right to live and choose without being controlled by others"
+            },
+            {
+              "word": "colony",
+              "explanation": "a land ruled and controlled by another, distant country"
+            },
+            {
+              "word": "abolish",
+              "explanation": "to end something completely, especially by law"
+            },
+            {
+              "word": "enslaved",
+              "explanation": "forced by others to work without freedom or pay"
+            }
+          ],
+          "main_image": {
+            "description": "A line of formerly enslaved people in simple clothes walks away from a sugarcane plantation building along a dirt path at dawn, some carrying small bundles or farm tools, calm and dignified, seen from a distance. Production note: no chains, no whips, no violence, no visible overseer, no readable signs, warm early light, respectful and hopeful mood.",
+            "caption": "On a distant island colony, enslaved people walk out to claim their freedom.",
+            "shutterstock_query": "formerly enslaved people walking free plantation path dawn illustration",
+            "ai_prompt": "Warm historical illustration of a line of formerly enslaved people in simple clothes walking away from a sugarcane plantation building along a dirt path at dawn, some carrying small bundles or farm tools, seen from a respectful distance, calm dignified mood, no chains, no whips, no violence, no signs, no text, no letters."
+          },
+          "side_image": {
+            "description": "A woman in plain eighteenth-century dress sits at a wooden desk by candlelight, writing with a quill on a sheet of paper, more blank sheets stacked beside her, a calm focused expression. The picture explains the word liberty. Production note: the page must be blank or angled away so no writing is readable, the woman is a generic figure and does not resemble any real historical portrait, quiet studious mood.",
+            "caption": "A woman writes her own declaration of rights.",
+            "shutterstock_query": "woman writing quill candlelight desk eighteenth century illustration",
+            "ai_prompt": "Warm vertical illustration of a woman in plain eighteenth-century dress sitting at a wooden desk by candlelight, writing with a quill on a sheet of paper, more blank sheets stacked beside her, calm focused expression, quiet studious mood, page blank or angled away, no readable writing, no text, no letters."
+          }
+        },
+        {
+          "level": "university",
+          "title": "One revolution, many stories",
+          "category": "revolutions",
+          "text_sentences": [
+            "Historians still argue about the causes of Revolution X.",
+            "Older historians tell a story of class struggle.",
+            "In this story, a rising middle class overthrows a tired old nobility.",
+            "Later historians, called revisionists, question this simple picture.",
+            "They study pamphlets, letters, and police reports from Paris and the provinces.",
+            "These sources show many local causes, not just one big class conflict.",
+            "Politics, personal networks, and pure chance also matter.",
+            "Historians also compare Revolution X with the uprising in Saint-Domingue.",
+            "Enslaved people there use the same words about liberty and rights.",
+            "Yet their revolution follows its own separate path to freedom.",
+            "The comparison shows how one revolution's ideals can travel far.",
+            "Every generation of historians asks new questions of the same old sources."
+          ],
+          "question": "Which revolution is Revolution X?",
+          "options": [
+            "The Russian Revolution",
+            "The Mexican Revolution",
+            "The Glorious Revolution",
+            "The French Revolution"
+          ],
+          "correct": "The French Revolution",
+          "words": [
+            {
+              "word": "pamphlet",
+              "explanation": "a small, thin printed text that argues for an idea"
+            },
+            {
+              "word": "revisionist",
+              "explanation": "a historian who questions and rewrites an older, accepted story"
+            },
+            {
+              "word": "nobility",
+              "explanation": "the group of people born into powerful, high-ranking families"
+            },
+            {
+              "word": "source",
+              "explanation": "an old text or thing that gives us knowledge about the past"
+            }
+          ],
+          "main_image": {
+            "description": "A long archive aisle with tall shelves of old paper bundles tied with string and plain grey boxes on both sides, seen straight down the aisle in soft light from a high window at the far end, no labels, no people. Production note: no readable labels, letters, or numbers anywhere, all bundles and boxes plain, quiet scholarly mood.",
+            "caption": "Old papers in an archive. Historians read them again and again.",
+            "shutterstock_query": "archive aisle tall shelves paper bundles string grey boxes soft light no people",
+            "ai_prompt": "Photorealistic view straight down a long archive aisle with tall shelves of old paper bundles tied with string and plain grey boxes on both sides, soft light from a high window at the far end, no labels, no people, quiet scholarly mood, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A historian sits at a small desk in a quiet study, comparing two old documents side by side under a soft lamp, one hand holding a magnifying glass, shelves of books in the background. The picture explains the word source. Production note: both documents must be blank, blurred, or angled away, no readable letters, generic face not resembling any real person, calm focused mood.",
+            "caption": "A historian compares two old stories side by side.",
+            "shutterstock_query": "historian comparing old documents desk lamp study illustration",
+            "ai_prompt": "Photorealistic vertical image of a historian sitting at a small desk in a quiet study, comparing two old documents side by side under a soft lamp, one hand holding a magnifying glass, shelves of books in the background, calm focused mood, documents blank or angled away, no readable letters, no text."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "napoleon-bonaparte",
+      "person": "Napoleon Bonaparte",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Boy from an Island Becomes a General",
+          "category": "revolutions",
+          "text_sentences": [
+            "Mr X is born on a small island.",
+            "The island is called Corsica, near Italy.",
+            "France takes the island the year before he is born.",
+            "All his life, he speaks French with an accent.",
+            "He leaves home young to go to a military school in France.",
+            "There he studies maps, math, and the science of cannons.",
+            "He becomes an officer who commands cannons.",
+            "At this time, the revolution in France changes everything.",
+            "Old rules about noble birth and rank start to break.",
+            "Now, a soldier can rise fast through skill alone.",
+            "Mr X rises very fast, and becomes a general at only twenty-four."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Napoleon Bonaparte",
+            "Julius Caesar",
+            "Charlemagne",
+            "Otto von Bismarck"
+          ],
+          "correct": "Napoleon Bonaparte",
+          "words": [
+            {
+              "word": "officer",
+              "explanation": "a leader in the army, with soldiers under his command"
+            },
+            {
+              "word": "cannons",
+              "explanation": "big heavy guns that shoot iron balls far away"
+            },
+            {
+              "word": "revolution",
+              "explanation": "a fast, big change in a country's rulers and rules"
+            },
+            {
+              "word": "rank",
+              "explanation": "your level or position in an army or a group"
+            }
+          ],
+          "main_image": {
+            "description": "A stone courtyard at an eighteenth century French military school. Rows of young cadets in plain blue uniforms drill in formation, a drummer boy stands at one side. One small cadet stands among the group, seen from behind and at a distance. Overcast morning light. Production note: no cannon in this image, no identifiable faces, no bicorne hats, no flags, no insignia, no readable letters or numbers anywhere.",
+            "caption": "In a military school, one boy among many learns to be an officer.",
+            "shutterstock_query": "18th century military school cadets courtyard drill drummer distance",
+            "ai_prompt": "Realistic illustration of a stone courtyard at an eighteenth century French military school, rows of young cadets in plain blue uniforms drilling in formation, a drummer boy at one side, one small cadet among the group seen from behind at a distance, overcast morning light, historical atmosphere, no cannon, no identifiable faces, no bicorne hats, no flags, no insignia, no text, no letters."
+          },
+          "side_image": {
+            "description": "A close vertical view of an old bronze cannon barrel resting on a wooden carriage in a stone armory courtyard. A small stack of iron cannonballs lies beside the wheel. No people. Soft daylight. Production note: no markings, no regimental symbols, no text, no numbers anywhere.",
+            "caption": "A cannon is a big heavy gun. Young officers learn to use it well.",
+            "shutterstock_query": "bronze cannon wooden carriage cannonballs armory courtyard",
+            "ai_prompt": "Realistic vertical image of an old bronze cannon barrel on a wooden carriage in a stone armory courtyard, a small stack of iron cannonballs beside the wheel, soft overcast daylight, no people, no markings, no numbers, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Man Who Crowns Himself",
+          "category": "revolutions",
+          "text_sentences": [
+            "At first, Emperor X is only a young general.",
+            "After many victories for France, he takes power in a coup, with little fighting.",
+            "He sells Louisiana, a huge area in North America, to a young country.",
+            "A few years after the coup, he makes himself emperor in a great ceremony.",
+            "In a great church in Paris, the pope stands beside him.",
+            "But Emperor X takes the crown himself and places it on his own head.",
+            "Under him, law experts write a new book of laws for the country.",
+            "It gives all men the same rules, and clear rules for property and family.",
+            "Women get fewer rights than men.",
+            "Many countries still use ideas from this book today.",
+            "His armies fight many wars across Europe.",
+            "Soon he rules over much of the continent, directly or through his family."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Napoleon Bonaparte",
+            "Louis XIV",
+            "Charlemagne",
+            "George Washington"
+          ],
+          "correct": "Napoleon Bonaparte",
+          "words": [
+            {
+              "word": "coup",
+              "explanation": "a sudden takeover of power, often fast and by surprise"
+            },
+            {
+              "word": "ceremony",
+              "explanation": "a special formal event that marks an important moment"
+            },
+            {
+              "word": "emperor",
+              "explanation": "a ruler above kings, who rules a very large land or many lands"
+            },
+            {
+              "word": "property",
+              "explanation": "things or land that belong to a person by law"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a great stone church, seen from far back near the entrance, a wide view of the nave. A small robed figure at the distant altar raises a crown above his own head, tiny and anonymous. Rows of nobles in fine clothing sit in the pews, seen only from behind. Candlelight and tall windows. Production note: the main figure must stay tiny, distant, and faceless, this is not a copy of any known painting, no readable banners, no eagle symbols, no text anywhere.",
+            "caption": "In a great church, a ruler places a crown on his own head.",
+            "shutterstock_query": "grand cathedral interior nave distant coronation ceremony from behind candlelight",
+            "ai_prompt": "Wide realistic illustration inside a great stone church, seen from far back near the entrance down the length of the nave, a small distant robed figure at the altar raising a crown above his own head, tiny and anonymous, rows of nobles in fine clothing seen from behind in the pews, candlelight and tall windows, original composition and not a reproduction of any known painting, no readable banners, no eagle symbols, no text, no letters."
+          },
+          "side_image": {
+            "description": "A stack of thick leather-bound law books, closed, on an old wooden desk in a quiet study. An unlit oil lamp and a quill pen rest beside the stack. Warm lamp light, no people. Production note: all spines and covers must be completely plain, no letters, no numbers, no symbols.",
+            "caption": "This book of laws still shapes laws in many countries today.",
+            "shutterstock_query": "stack leather law books wooden desk study lamp closeup",
+            "ai_prompt": "Warm realistic close-up of a stack of thick leather-bound law books, closed, on an old wooden desk in a quiet study, an unlit oil lamp and a quill pen beside the stack, soft warm light, no people, all spines completely plain, no letters, no numbers, no text."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Long Road Back from Russia",
+          "category": "revolutions",
+          "text_sentences": [
+            "In 1812, Emperor X marches into Russia with about six hundred thousand soldiers.",
+            "On the long march, sickness, hunger, and battle cost him most of his men.",
+            "When he reaches the great city, it is empty, and soon much of it burns.",
+            "Then winter comes, and the Russian army attacks his retreat.",
+            "Soldiers die by the thousands from cold, hunger, and fighting.",
+            "Most of his huge army never comes home.",
+            "Other countries then unite against him, and two years later he gives up his throne.",
+            "His enemies send him to a small island called Elba.",
+            "Within a year, he escapes, and rules again for a hundred days.",
+            "His last battle ends in defeat near a village called Waterloo.",
+            "This time, his enemies send him to a lonely island far out at sea.",
+            "He dies there about six years later."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Napoleon Bonaparte",
+            "Julius Caesar",
+            "Alexander the Great",
+            "The Duke of Wellington"
+          ],
+          "correct": "Napoleon Bonaparte",
+          "words": [
+            {
+              "word": "retreat",
+              "explanation": "when an army stops fighting and moves back"
+            },
+            {
+              "word": "throne",
+              "explanation": "the special seat and power of a king or emperor"
+            },
+            {
+              "word": "defeat",
+              "explanation": "when you lose a battle or a fight"
+            },
+            {
+              "word": "unite",
+              "explanation": "to join together for one purpose"
+            }
+          ],
+          "main_image": {
+            "description": "A long line of soldiers in worn coats trudges through deep snow across a vast white plain. Seen from a high, distant angle. Grey winter sky, scattered abandoned carts and horses far in the background. No faces visible. Production note: no visible injuries, no gore, no flags, no readable text or numbers, the mood is cold and weary, not violent.",
+            "caption": "The retreat from Russia. Sickness, hunger, cold, and enemy attacks destroy the army.",
+            "shutterstock_query": "army retreat snow winter plain distant aerial soldiers trudging",
+            "ai_prompt": "Realistic wide illustration of a long line of soldiers in worn coats trudging through deep snow across a vast white plain, seen from a high distant angle, grey winter sky, a few abandoned carts far in the background, no faces visible, cold and weary mood, no injuries, no gore, no flags, no text, no letters."
+          },
+          "side_image": {
+            "description": "A steep volcanic island far out in the ocean, dark cliffs by the sea and green hills inland, a small town in a cleft by the shore, seen from a ship at a distance. Overcast sky, grey sea. No people visible. Production note: no flags, no signs, no text or letters anywhere.",
+            "caption": "A lonely island far out in the ocean. Here the ruler spends his last years.",
+            "shutterstock_query": "remote volcanic island ocean dark cliffs green hills small town distant overcast",
+            "ai_prompt": "Atmospheric vertical photo style image of a steep volcanic island far out in the ocean, dark cliffs by the sea and green hills inland, a small town in a cleft by the shore, seen from a ship at a distance, overcast sky and grey sea, no people, no flags, no signs, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Other Side of the Story",
+          "category": "revolutions",
+          "text_sentences": [
+            "Mr X leads a French army into Egypt, with scientists and artists too.",
+            "By the river Nile, his soldiers rebuild an old fort.",
+            "In one wall, they find a dark grey stone with three kinds of writing.",
+            "This stone later helps experts read ancient Egyptian writing.",
+            "Some years before this, France ends slavery in its colonies.",
+            "Mr X brings slavery back to the French colonies.",
+            "On one island, people freed from slavery fight to stay free.",
+            "They defeat his army there, and their colony becomes independent.",
+            "Many call it the first free nation of formerly enslaved people.",
+            "Old cartoons and enemy jokes show Mr X as a very short man.",
+            "Historians check the records: he is about one meter sixty-eight, a normal height for his time.",
+            "So the story of the short leader is a myth, not a fact."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Napoleon Bonaparte",
+            "Simón Bolívar",
+            "Louis XIV",
+            "Charlemagne"
+          ],
+          "correct": "Napoleon Bonaparte",
+          "words": [
+            {
+              "word": "colonies",
+              "explanation": "lands ruled and controlled by another, faraway country"
+            },
+            {
+              "word": "enslaved",
+              "explanation": "forced by others to work, with no freedom and no pay"
+            },
+            {
+              "word": "independent",
+              "explanation": "free to rule itself, not controlled by another country"
+            },
+            {
+              "word": "myth",
+              "explanation": "a story many people believe, but it is not true"
+            }
+          ],
+          "main_image": {
+            "description": "Soldiers and one scholar in plain coats examine a large dark grey stone slab just pulled from the rubble of an old fort wall beside a wide river. The carved face of the stone is turned away from the viewer and mostly hidden by the men's backs, the surface toward the viewer is plain rough stone. Seen from behind and at a distance, hot afternoon light, flat river landscape, no temples or columns. Production note: no readable or pseudo script anywhere, no famous monument, no faces close up, no flags, no text, no letters, no numbers.",
+            "caption": "In an old fort by the river, soldiers find a stone with three kinds of writing.",
+            "shutterstock_query": "soldiers scholar examining large stone slab old fort wall river egypt distance",
+            "ai_prompt": "Realistic illustration of soldiers and one scholar in plain coats examining a large dark grey stone slab just pulled from the rubble of an old fort wall beside a wide river in Egypt, the carved face of the stone turned away from the viewer and mostly hidden by the men's backs, the visible surface plain rough stone, seen from behind at a distance, hot afternoon light, flat river landscape, no temples, no columns, no famous monument, no close faces, no script, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A close vertical view of a single broken iron chain link lying open on red tropical soil, palm trees and a green mountain softly out of focus in the background. Warm island light. No people. Production note: no text, no signs, no flags anywhere, the mood is hopeful, not violent.",
+            "caption": "A broken chain. On this island, formerly enslaved people fight and win their freedom.",
+            "shutterstock_query": "broken iron chain link tropical soil palm trees closeup",
+            "ai_prompt": "Warm realistic vertical close-up of a single broken iron chain link lying open on red tropical soil, palm trees and a green mountain softly out of focus in the background, warm island light, no people, hopeful mood, no text, no letters."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Hero of the Revolution or Its Gravedigger",
+          "category": "revolutions",
+          "text_sentences": [
+            "Historians still argue about Emperor X.",
+            "Some call him the heir of the revolution, who saves its best ideas.",
+            "Others call him its gravedigger, who buries freedom under his own crown.",
+            "As ruler, he controls most newspapers in the country.",
+            "He also pays painters to make heroic pictures of himself in battle.",
+            "These pictures shape how people see him for generations.",
+            "On his last island, he has many empty years.",
+            "He dictates his own life story to loyal followers there.",
+            "In his story, he is always wise, and his mistakes are small.",
+            "Historians read these memoirs with great care.",
+            "They compare his words with letters, orders, and reports from his own time.",
+            "The true picture of Emperor X lies somewhere between the myth and the man."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Napoleon Bonaparte",
+            "Otto von Bismarck",
+            "Julius Caesar",
+            "Simón Bolívar"
+          ],
+          "correct": "Napoleon Bonaparte",
+          "words": [
+            {
+              "word": "heir",
+              "explanation": "a person who continues someone else's work or place"
+            },
+            {
+              "word": "memoirs",
+              "explanation": "a book where a person writes the story of their own life"
+            },
+            {
+              "word": "loyal",
+              "explanation": "always faithful and supportive, especially to a leader"
+            },
+            {
+              "word": "generations",
+              "explanation": "large groups of people born and living around the same time"
+            }
+          ],
+          "main_image": {
+            "description": "A large painter's studio with tall windows. A huge canvas on an easel is seen from the back, so only its wooden frame and the raw back of the canvas show. A painter in a smock works on the far side, partly hidden by the canvas. A saddle and a plumed helmet rest on a stand as props. Production note: the painted side is never visible, no faces, no bicorne hat, no flags, no text, letters, or numbers anywhere.",
+            "caption": "The ruler pays painters to show him as a hero in battle.",
+            "shutterstock_query": "painter studio huge canvas seen from behind easel tall windows saddle helmet props",
+            "ai_prompt": "Realistic illustration of a large painter's studio with tall windows, a huge canvas on an easel seen from the back so only its wooden frame and the raw back of the canvas show, a painter in a smock working on the far side partly hidden by the canvas, a saddle and a plumed helmet resting on a stand as props, soft daylight, the painted side never visible, no faces, no bicorne hat, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "On the stone terrace of a plain house on a windswept island, a man in a plain dark coat walks slowly, seen only from behind, while a seated secretary writes at a small table. Grey sea far below. Production note: no bicorne hat, no hand in a waistcoat, no visible face, no readable writing on any paper, no text, letters, or numbers.",
+            "caption": "Far from Europe, he tells his own story to loyal followers.",
+            "shutterstock_query": "man walking stone terrace island house from behind seated secretary writing grey sea",
+            "ai_prompt": "Atmospheric vertical illustration of the stone terrace of a plain house on a windswept island, a man in a plain dark coat walking slowly seen only from behind, a seated secretary writing at a small table, grey sea far below, overcast light, no bicorne hat, no visible face, no readable writing, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
