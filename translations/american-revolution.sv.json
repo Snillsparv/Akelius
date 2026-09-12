@@ -1,0 +1,224 @@
+{
+  "slug": "american-revolution",
+  "person_sv": "Amerikanska revolutionen",
+  "cards": [
+    {
+      "title": "Te i hamnen",
+      "text_sentences": [
+        "Revolutionen X börjar för ungefär 250 år sedan.",
+        "Tretton kolonier ligger på östkusten av kontinenten.",
+        "Nybyggarna där lever under en kung som styr långt bortifrån.",
+        "Hans land har just avslutat ett långt, dyrt krig.",
+        "Han behöver pengar, så hans parlament inför nya skatter på kolonierna.",
+        "Kolonisterna har ingen röst i hans avlägsna parlament.",
+        "”Ingen skatt utan representation”, säger de.",
+        "En kall natt går kolonister ombord på tre skepp i hamnen i Boston.",
+        "De bryter upp tekistor och häller teet i vattnet.",
+        "Kungens regering svarar med hårda nya lagar.",
+        "Ilskan sprider sig nu snabbt genom alla tretton kolonier."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Ärorika revolutionen",
+        "Amerikanska revolutionen",
+        "Franska revolutionen",
+        "Industriella revolutionen"
+      ],
+      "words": [
+        {
+          "word": "kolonier",
+          "explanation": "länder som styrs av ett annat, avlägset land"
+        },
+        {
+          "word": "parlament",
+          "explanation": "en grupp människor som stiftar lagarna i ett land"
+        },
+        {
+          "word": "skatter",
+          "explanation": "pengar som människor måste betala till sin regering"
+        },
+        {
+          "word": "representation",
+          "explanation": "att ha någon som talar och röstar för dig"
+        }
+      ],
+      "main_caption": "På natten går kolonister ombord på skeppen i hamnen.",
+      "side_caption": "Handlare måste betala kungen en skatt på varor som te, glas och papper."
+    },
+    {
+      "title": "En förklaring, och ett krig",
+      "text_sentences": [
+        "Revolutionen X blir ett fullskaligt krig för ungefär 250 år sedan.",
+        "Kolonisterna tar till vapen mot kungens soldater.",
+        "En lång general från Virginia leder kolonisternas armé.",
+        "Representanter från alla tretton kolonier möts.",
+        "År 1776 förklarar de sig självständiga från kungen.",
+        "Deras självständighetsförklaring säger att ”alla människor är skapade jämlika”.",
+        "Ändå lever ungefär var femte person i kolonierna förslavad.",
+        "Förklaringen befriar dem inte.",
+        "Några kolonister ogillar upproret och förblir lojala mot kungen.",
+        "Den nya nationen måste nu vinna sin självständighet i krig.",
+        "Kungens armé är stark, och kriget varar i flera år."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Ryska revolutionen",
+        "Haitiska revolutionen",
+        "Amerikanska revolutionen",
+        "Ärorika revolutionen"
+      ],
+      "words": [
+        {
+          "word": "representanter",
+          "explanation": "människor som väljs för att tala och agera för en grupp"
+        },
+        {
+          "word": "självständighetsförklaring",
+          "explanation": "ett papper som säger tydligt och officiellt att ett land inte längre lyder under kungen"
+        },
+        {
+          "word": "förslavad",
+          "explanation": "tvingad att arbeta utan lön och utan frihet"
+        },
+        {
+          "word": "lojal",
+          "explanation": "trogen och sann mot någon, till exempel en kung"
+        }
+      ],
+      "main_caption": "En läsare läser upp den nya förklaringen för staden.",
+      "side_caption": "Bönder och arbetare blir soldater nästan över en natt."
+    },
+    {
+      "title": "Vems frihet?",
+      "text_sentences": [
+        "Revolutionen X lovar frihet till kolonierna.",
+        "Men den friheten är inte lika för alla.",
+        "De flesta förslavade får ingenting av den nya friheten.",
+        "Några delstater i norr börjar avskaffa slaveriet sakta, men söder behåller det.",
+        "Fria kvinnor stödjer saken med pengar, brev och till och med hemligt spioneri.",
+        "Ändå får nästan ingen kvinna rösträtt.",
+        "Lojalister, som vill förbli under kungen, blir utstötta över en natt.",
+        "Tiotusentals lämnar landet för Kanada eller Storbritannien och förlorar mark och egendom.",
+        "De flesta urfolk längs gränstrakten står på kungens sida under kriget.",
+        "De fruktar att självständiga nybyggare ska ta ännu mer av deras mark.",
+        "Efter kriget besannas den rädslan om och om igen.",
+        "Så blir friheten för några till en förlust för andra."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Amerikanska revolutionen",
+        "Mexikanska revolutionen",
+        "Industriella revolutionen",
+        "Haitiska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "frihet",
+          "explanation": "rätten att leva och välja som du själv vill"
+        },
+        {
+          "word": "lojalister",
+          "explanation": "människor som förblir trogna den gamla kungen"
+        },
+        {
+          "word": "gränstrakten",
+          "explanation": "kanten av den bosatta marken, nära den vilda marken bortom"
+        },
+        {
+          "word": "egendom",
+          "explanation": "mark eller saker som en person äger"
+        }
+      ],
+      "main_caption": "Bara vissa personer får rösta på ledarna för den nya nationen.",
+      "side_caption": "En familj som förblir trogen kungen måste nu lämna sitt hem."
+    },
+    {
+      "title": "En dyr räddning till sjöss",
+      "text_sentences": [
+        "Efter två års krig går revolutionen X dåligt för kolonierna.",
+        "Kolonisternas armé förlorar strid efter strid.",
+        "Den saknar ofta mat, lön och förnödenheter.",
+        "Sedan vinner kolonisterna ett stort slag i norr.",
+        "Nu bestämmer sig Frankrike för att hjälpa till, delvis för att försvaga sin gamla rival på andra sidan havet.",
+        "Året därpå anländer franska skepp, soldater, vapen och pengar.",
+        "Tre år senare fångar franska krigsskepp in kungens armé nära kusten.",
+        "Omringad på land och till sjöss kapitulerar den armén till slut.",
+        "Kolonierna har nu vunnit sitt krig.",
+        "Men att hjälpa till kostar den franske kungen enorma summor pengar.",
+        "Hans skattkammare sjunker ännu djupare ner i skuld.",
+        "Den kungliga skulden hjälper snart till att orsaka allvarliga problem hemma också."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Mexikanska revolutionen",
+        "Amerikanska revolutionen",
+        "Ryska revolutionen",
+        "Ärorika revolutionen"
+      ],
+      "words": [
+        {
+          "word": "rival",
+          "explanation": "ett land eller en person som tävlar mot ett annat"
+        },
+        {
+          "word": "kapitulerar",
+          "explanation": "slutar strida och erkänner sig besegrad"
+        },
+        {
+          "word": "skattkammare",
+          "explanation": "pengarna och rikedomen som en regering eller kung kontrollerar"
+        },
+        {
+          "word": "skuld",
+          "explanation": "pengar som du är skyldig och måste betala tillbaka"
+        }
+      ],
+      "main_caption": "Krigsskepp blockerar floden. Ingen kan fly till sjöss.",
+      "side_caption": "Att hjälpa till i ett krig långt borta kostar en förmögenhet hemma."
+    },
+    {
+      "title": "En revolutions långa eko",
+      "text_sentences": [
+        "Historiker tvistar fortfarande om den sanna betydelsen av revolutionen X.",
+        "Är det en äkta revolution, eller bara ett byte av härskare?",
+        "Den nya republiken ersätter en avlägsen kung med valda ledare.",
+        "Ändå växer plantageslaveriet under decennier efteråt.",
+        "Religionsfrihet och fri press blir lag, nya idéer för sin tid.",
+        "En skriven konstitution, ratificerad på 1780-talet, formar fortfarande styret i dag.",
+        "Dess tidiga historia bygger på brev, dagböcker och militära uppteckningar, många bevarade av en slump.",
+        "Tidningar från tiden berättar redan historien olika, beroende på vem som trycker dem.",
+        "En generation senare inspirerar idén nya kämpar långt söderut.",
+        "Längre söderut på kontinenten läser en general vid namn Simón Bolívar om upproret i norr.",
+        "Han leder år av krig så att hans eget hemland också kan bli självständigt.",
+        "Så ekar en revolutions ord över en hel kontinent, långt efter att revolutionen X själv tar slut."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Franska revolutionen",
+        "Industriella revolutionen",
+        "Amerikanska revolutionen",
+        "Haitiska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "ratificerad",
+          "explanation": "officiellt godkänd och accepterad"
+        },
+        {
+          "word": "republiken",
+          "explanation": "ett land som leds av valda ledare, inte av en kung"
+        },
+        {
+          "word": "inspirerar",
+          "explanation": "ger någon annan en ny idé eller vilja att handla"
+        },
+        {
+          "word": "hemland",
+          "explanation": "landet där en person är född och hör hemma"
+        }
+      ],
+      "main_caption": "Långt söderut, decennier senare, korsar nya kämpar bergen för sin egen frihet.",
+      "side_caption": "En ny överenskommelse blir officiell när den förseglas."
+    }
+  ]
+}

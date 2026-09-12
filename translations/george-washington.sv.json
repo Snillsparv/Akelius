@@ -1,0 +1,210 @@
+{
+  "slug": "george-washington",
+  "person_sv": "George Washington",
+  "cards": [
+    {
+      "title": "Generalen som inte ger upp",
+      "text_sentences": [
+        "General X växer upp på en gård i Virginia.",
+        "Som ung man arbetar han som lantmätare.",
+        "Han går genom skogar och mäter vildmark som sitt jobb.",
+        "År senare gör tretton kolonier i Nordamerika uppror mot den brittiska kungen.",
+        "Ledare väljer general X att leda deras nya armé.",
+        "Hans soldater är mest bönder, inte utbildade soldater.",
+        "I många tidiga strider måste hans armé retirera.",
+        "På en iskall julnatt korsar han en isbelagd flod i mörkret.",
+        "Hans trötta män vinner en liten strid tidigt nästa morgon.",
+        "Nästa vinter slår hans armé läger i kyla och lera, med lite mat.",
+        "Omkring tvåtusen av hans soldater dör av sjukdom och kyla den vintern.",
+        "General X stannar hos sina män, och armén håller ihop."
+      ],
+      "question": "Vem är general X?",
+      "options": [
+        "Napoleon Bonaparte",
+        "George Washington",
+        "Simón Bolívar",
+        "Alexander Hamilton"
+      ],
+      "words": [
+        {
+          "word": "lantmätare",
+          "explanation": "en person vars jobb är att mäta och rita kartor över mark"
+        },
+        {
+          "word": "kolonier",
+          "explanation": "länder styrda av ett annat land långt bort, över havet"
+        },
+        {
+          "word": "retirera",
+          "explanation": "att dra sig tillbaka från en strid, inte gå framåt"
+        }
+      ],
+      "main_caption": "En iskall natt korsar general X och hans män en isbelagd flod i hemlighet.",
+      "side_caption": "Innan han leder en armé arbetar den unge general X som lantmätare."
+    },
+    {
+      "title": "Generalen som lämnar tillbaka sitt befäl",
+      "text_sentences": [
+        "Herr X leder tretton kolonier i ett långt krig mot deras brittiska kung.",
+        "Nära krigets slut skriver en av hans officerare ett brev till honom.",
+        "Officeren föreslår att herr X ska bli kung.",
+        "Herr X vägrar genast, arg över idén.",
+        "Kolonierna vinner kriget, med viktig hjälp från Frankrike.",
+        "Många förväntar sig att herr X blir den mäktigaste mannen i landet.",
+        "Istället går han i uniform till de nya lagstiftarna och lämnar tillbaka sin fullmakt.",
+        "Han ger upp all sin makt och åker hem till sin gård.",
+        "Över hela Europa är människor förvånade: en segrande general som inte vill styra.",
+        "Några år senare väljer ledare honom till landets första president.",
+        "Efter två mandatperioder avgår han och åker hem igen.",
+        "I dag bär landets huvudstad hans namn."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "John Adams",
+        "Thomas Jefferson",
+        "George Washington",
+        "Benjamin Franklin"
+      ],
+      "words": [
+        {
+          "word": "fullmakt",
+          "explanation": "det officiella papper som ger en officer hans rang och befäl"
+        },
+        {
+          "word": "mandatperiod",
+          "explanation": "en bestämd tidsperiod i ett jobb som president"
+        },
+        {
+          "word": "huvudstad",
+          "explanation": "landets viktigaste stad, där ledarna arbetar"
+        },
+        {
+          "word": "vägra",
+          "explanation": "att säga nej, och mena det"
+        }
+      ],
+      "main_caption": "Efter att kriget är vunnet lämnar herr X tillbaka sitt befäl till lagstiftarna.",
+      "side_caption": "En helt ny huvudstad växer långsamt fram vid en bred flod."
+    },
+    {
+      "title": "En gård byggd på slaveri",
+      "text_sentences": [
+        "Herr X äger en stor gård som heter Mount Vernon, i Virginia.",
+        "Hundratals förslavade människor bor och arbetar där, tvingade och obetalda.",
+        "Herr X äger personligen fler än hundra av dessa människor.",
+        "En förslavad kvinna som heter Ona arbetar som kammarjungfru åt hans hustru.",
+        "Medan herr X tjänstgör som landets första president planerar Ona sin flykt.",
+        "Hon flyr norrut till en stad och återvänder aldrig.",
+        "Herr X försöker hårt att hitta henne och föra tillbaka henne.",
+        "Ona blir aldrig fångad.",
+        "Hon lever fri i en stad i norr resten av sitt liv.",
+        "I sitt testamente ger herr X en order: frige de människor jag äger.",
+        "Men testamentet skjuter upp detta tills även hans hustru dör.",
+        "Historiker ser honom som både en grundare och en slavägare."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Benjamin Franklin"
+      ],
+      "words": [
+        {
+          "word": "förslavad",
+          "explanation": "tvingad att arbeta utan lön och utan frihet, som egendom"
+        },
+        {
+          "word": "testamente",
+          "explanation": "ett papper som säger vad som händer med en persons saker efter att personen dör"
+        },
+        {
+          "word": "flykt",
+          "explanation": "att komma undan och bli fri"
+        }
+      ],
+      "main_caption": "Hundratals förslavade människor arbetar på fälten på herr X:s stora gård.",
+      "side_caption": "Ona flyr med ett skepp, och hon låter sig aldrig föras tillbaka."
+    },
+    {
+      "title": "Ett skott i skogen, en värld i krig",
+      "text_sentences": [
+        "Som ung officer tjänstgör herr X åt britterna i Nordamerika.",
+        "Storbritannien och Frankrike vill båda ha samma skogsmark, längre västerut.",
+        "Herr X och hans allierade bland ursprungsbefolkningen leder en liten grupp in i skogen.",
+        "I en kort, plötslig strid dödas flera franska soldater.",
+        "Veckor senare tvingas den unge herr X kapitulera och överlämna ett litet fort till franska styrkor.",
+        "Denna lilla sammandrabbning i skogen hjälper till att starta ett mycket större krig.",
+        "Snart slåss Storbritannien och Frankrike mot varandra på flera kontinenter.",
+        "År senare gör kolonierna uppror, och herr X leder deras nya armé.",
+        "Nu blir Frankrike hans viktigaste allierade mot den brittiska kungen.",
+        "Nära en kuststad fångar herr X och franska trupper in en brittisk armé.",
+        "En fransk flotta blockerar havet, så ingen flykt är möjlig sjövägen.",
+        "Den instängda armén kapitulerar, och Storbritannien börjar snart söka fred."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Napoleon Bonaparte",
+        "Alexander Hamilton",
+        "John Adams",
+        "George Washington"
+      ],
+      "words": [
+        {
+          "word": "allierad",
+          "explanation": "ett land eller en grupp som slåss på din sida"
+        },
+        {
+          "word": "kapitulera",
+          "explanation": "att sluta slåss och erkänna nederlag"
+        },
+        {
+          "word": "flotta",
+          "explanation": "en stor grupp krigsskepp som seglar tillsammans"
+        }
+      ],
+      "main_caption": "I en dimmig skog startar en liten strid ett mycket stort krig.",
+      "side_caption": "I regnet tvingas den unge herr X kapitulera vid ett litet fort av trä."
+    },
+    {
+      "title": "Körsbärsträdet som aldrig fanns",
+      "text_sentences": [
+        "Herr X dör i slutet av sjuttonhundratalet.",
+        "Några år senare publicerar en predikant och författare en kort bok om honom.",
+        "Boken berättar en söt historia: den unge herr X skadar ett körsbärsträd.",
+        "När hans far frågar vem som gjorde det, säger pojken: ”jag kan inte ljuga”.",
+        "Inget brev, ingen dagbok och inget vittne från herr X:s egen livstid nämner denna historia.",
+        "Historiker är överens: författaren hittar troligen på hela scenen.",
+        "Ändå lär sig generationer av barn historien som om den vore sann.",
+        "Den nya nationen vill ha en perfekt grundarhjälte, ärlig och modig.",
+        "Historiker studerar istället hans brev och räkenskapsböcker.",
+        "Dessa sidor bokför dagliga detaljer, allt från sålda skördar till pengar som spenderats.",
+        "Utifrån små, torra fakta bygger historiker sakta upp en sannare bild av hans liv.",
+        "Denna bild är mindre enkel än historien om körsbärsträdet."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "words": [
+        {
+          "word": "hitta på",
+          "explanation": "att skapa något som inte är sant eller verkligt"
+        },
+        {
+          "word": "vittne",
+          "explanation": "en person som ser en händelse hända och kan berätta om den"
+        },
+        {
+          "word": "generationer",
+          "explanation": "grupper av människor födda och levande vid ungefär samma tid"
+        }
+      ],
+      "main_caption": "En författare hittar på en söt historia om en pojke och ett körsbärsträd.",
+      "side_caption": "Historiker bygger upp den sannare bilden utifrån gamla brev och räkenskapsböcker."
+    }
+  ]
+}

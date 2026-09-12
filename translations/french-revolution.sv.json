@@ -1,0 +1,225 @@
+{
+  "slug": "french-revolution",
+  "person_sv": "Franska revolutionen",
+  "cards": [
+    {
+      "title": "För lite bröd",
+      "text_sentences": [
+        "Revolutionen X börjar i Frankrike 1789, för nästan 240 år sedan.",
+        "Dåliga skördar gör bröd mycket dyrt.",
+        "Fattiga familjer kan inte köpa tillräckligt med mat.",
+        "Samhället här har tre stora grupper, kallade stånd.",
+        "Det första ståndet är präster, och det andra är adelsmän.",
+        "Det tredje ståndet är alla andra, nästan alla.",
+        "Tredje ståndet betalar nästan alla skatter.",
+        "Ilskan växer över hunger och orättvisa skatter.",
+        "I Paris, huvudstaden, samlas en folkmassa.",
+        "Folkmassan attackerar en gammal fästning som används som fängelse.",
+        "Bara sju fångar finns inne i den enorma byggnaden.",
+        "Folkmassan bryter sig in och tar krutet som förvaras där."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Amerikanska revolutionen",
+        "Franska revolutionen",
+        "Ryska revolutionen",
+        "Industriella revolutionen"
+      ],
+      "words": [
+        {
+          "word": "stånd",
+          "explanation": "en av de stora samhällsgrupperna i ett gammalt kungarike"
+        },
+        {
+          "word": "adelsman",
+          "explanation": "en person född i en rik, mäktig familj"
+        },
+        {
+          "word": "fästning",
+          "explanation": "en stark byggnad byggd för att försvara sig mot angrepp"
+        },
+        {
+          "word": "skatt",
+          "explanation": "pengar som människor måste betala till en regering"
+        }
+      ],
+      "main_caption": "I huvudstaden attackerar en folkmassa en gammal fästning som används som fängelse.",
+      "side_caption": "Präster, adelsmän och alla andra. Samhället här har tre stora grupper."
+    },
+    {
+      "title": "Kungen försöker fly",
+      "text_sentences": [
+        "I Frankrike är revolutionen X bara några månader gammal.",
+        "En ny nationalförsamling tar makten från kungen.",
+        "Adelsmän måste ge upp sina gamla särskilda rättigheter.",
+        "De rika måste nu också betala skatt.",
+        "Nationalförsamlingen skriver sedan en förklaring om rättigheter.",
+        "Alla män föds fria och jämlika, står det.",
+        "Yttrandefrihet och rättvisa rättegångar blir nya rättigheter.",
+        "Några veckor senare är bröd fortfarande svårt att få tag på i Paris.",
+        "Tusentals kvinnor marscherar till kungens slott utanför staden.",
+        "De kräver bröd, och de vill att kungen ska bo i Paris.",
+        "Han går med på det, och kungafamiljen flyttar till staden med vakter.",
+        "Två år senare försöker kungen fly i hemlighet, men han grips."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Ärorika revolutionen",
+        "Mexikanska revolutionen",
+        "Franska revolutionen",
+        "Haitiska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "nationalförsamling",
+          "explanation": "en grupp människor som väljs för att göra lagar åt ett land"
+        },
+        {
+          "word": "förklaring",
+          "explanation": "ett officiellt skrivet uttalande som säger något tydligt"
+        },
+        {
+          "word": "vakt",
+          "explanation": "en soldat som skyddar en person eller en plats"
+        },
+        {
+          "word": "fly",
+          "explanation": "att springa bort från fara, ofta i hemlighet"
+        }
+      ],
+      "main_caption": "Tusentals kvinnor lämnar staden för att kräva bröd.",
+      "side_caption": "En vagn stoppas på natten, långt från Paris."
+    },
+    {
+      "title": "Kungen ställs inför rätta",
+      "text_sentences": [
+        "I Frankrike tar revolutionen X bort den gamle kungens makt steg för steg.",
+        "Efter tre år avskaffar dess ledare monarkin och utropar en republik.",
+        "Den förre kungen ställs inför en rättegång för brott mot den nya nationen.",
+        "Strax därefter avrättar den nya republiken honom.",
+        "Rädslan för fiender, hemma och utomlands, växer snabbt.",
+        "En period som kallas skräckväldet börjar.",
+        "Domstolar arbetar snabbt, och de dömer tusentals misstänkta fiender till döden.",
+        "Officiella register räknar omkring 17 000 sådana dödsfall på ett år.",
+        "Många fler dör i fängelser eller i strider runt om i landet.",
+        "En mäktig ledare, Robespierre, leder mycket av detta.",
+        "Året efter vänder sig hans egna allierade mot honom, och även han avrättas."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Franska revolutionen",
+        "Ryska revolutionen",
+        "Amerikanska revolutionen",
+        "Haitiska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "monarki",
+          "explanation": "ett land som styrs av en kung eller en drottning"
+        },
+        {
+          "word": "republik",
+          "explanation": "en stat utan kung, ledd av valda representanter"
+        },
+        {
+          "word": "rättegång",
+          "explanation": "en formell process i domstol som avgör om någon är skyldig"
+        },
+        {
+          "word": "avrätta",
+          "explanation": "att döda en person som ett lagligt straff"
+        }
+      ],
+      "main_caption": "Hundratals lagstiftare sitter som domstol för att döma en man som en gång stod över lagen.",
+      "side_caption": "En tom tron. Det gamla kungariket är borta."
+    },
+    {
+      "title": "Inte än för alla",
+      "text_sentences": [
+        "Revolutionen X lovar frihet, jämlikhet och broderskap för alla.",
+        "Först är det ändå bara vissa män som får rösta.",
+        "En kvinnlig författare vid namn Olympe de Gouges håller inte med.",
+        "Hon skriver sin egen förklaring om kvinnans rättigheter.",
+        "Hon kräver rösträtt och lika rättigheter även för kvinnor.",
+        "Senare angriper hon de nya ledarna i tryck.",
+        "De låter avrätta henne.",
+        "Långt bort, i kolonin Saint-Domingue, reser sig förslavade människor mot sina förslavare.",
+        "Några år senare avskaffar nationalförsamlingen i Frankrike slaveriet i landets kolonier.",
+        "Det är en av de första sådana lagarna någonstans i världen.",
+        "Den nya regeringen skapar också ett nytt system för mätning.",
+        "Meter och kilogram ersätter sakta hundratals gamla lokala enheter."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Haitiska revolutionen",
+        "Franska revolutionen",
+        "Industriella revolutionen",
+        "Ärorika revolutionen"
+      ],
+      "words": [
+        {
+          "word": "frihet",
+          "explanation": "rätten att leva och välja utan att andra bestämmer över dig"
+        },
+        {
+          "word": "koloni",
+          "explanation": "ett land som styrs och kontrolleras av ett annat, avlägset land"
+        },
+        {
+          "word": "avskaffa",
+          "explanation": "att avsluta något helt, särskilt genom en lag"
+        },
+        {
+          "word": "förslavad",
+          "explanation": "tvingad av andra att arbeta utan frihet eller lön"
+        }
+      ],
+      "main_caption": "I en avlägsen koloni på en ö går förslavade människor ut för att kräva sin frihet.",
+      "side_caption": "En kvinna skriver sin egen förklaring om rättigheter."
+    },
+    {
+      "title": "En revolution, många berättelser",
+      "text_sentences": [
+        "Historiker tvistar fortfarande om orsakerna till revolutionen X.",
+        "Äldre historiker berättar en historia om klasskamp.",
+        "I den historien störtar en växande medelklass en trött gammal adel.",
+        "Senare historiker, kallade revisionister, ifrågasätter denna enkla bild.",
+        "De studerar flygblad, brev och polisrapporter från Paris och landsorten.",
+        "Dessa källor visar många lokala orsaker, inte bara en stor klasskonflikt.",
+        "Politik, personliga nätverk och ren slump spelar också roll.",
+        "Historiker jämför också revolutionen X med resningen i Saint-Domingue.",
+        "Förslavade människor där använder samma ord om frihet och rättigheter.",
+        "Ändå följer deras revolution sin egen, separata väg till frihet.",
+        "Jämförelsen visar hur en revolutions idéer kan nå långt.",
+        "Varje generation av historiker ställer nya frågor till samma gamla källor."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Ryska revolutionen",
+        "Mexikanska revolutionen",
+        "Ärorika revolutionen",
+        "Franska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "flygblad",
+          "explanation": "en liten, tunn tryckt text som argumenterar för en idé"
+        },
+        {
+          "word": "revisionist",
+          "explanation": "en historiker som ifrågasätter och skriver om en äldre, vedertagen historia"
+        },
+        {
+          "word": "adel",
+          "explanation": "gruppen av människor som föds in i mäktiga, högt uppsatta familjer"
+        },
+        {
+          "word": "källa",
+          "explanation": "en gammal text eller sak som ger oss kunskap om det förflutna"
+        }
+      ],
+      "main_caption": "Gamla papper i ett arkiv. Historiker läser dem om och om igen.",
+      "side_caption": "En historiker jämför två gamla berättelser sida vid sida."
+    }
+  ]
+}
