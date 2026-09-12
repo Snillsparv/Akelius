@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Industriella revolutionen. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text, korttitlar, bildtexter och ordförklaringar, skriv i stället factories, mills, machines. Marx och Darwin namnges inte, de har egna set i samma leverans. Ingen koppling till personer eller skeenden på rad 40-50 i masterlistan.
+Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text, korttitlar, bildtexter, ordförklaringar och bildbriefer, skriv i stället factories, mills, machines. Marx och Darwin namnges inte, de har egna set i samma leverans. Ingen koppling till personer eller skeenden på rad 40-50 i masterlistan. Årtal: högst ett exakt årtal per kort, annars decennier eller "about X years ago"; 1830 står bara i kort 3.
 
 ---
 
@@ -20,8 +20,8 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 > A big wheel in the river turns the machines inside.  
 > Later, a new engine burns coal for power instead.  
 > Now a mill does not need a river nearby.  
-> A small town in the north of England grows fast.  
-> Thousands of new workers move there to find work.  
+> A town in the north of England grows very fast.  
+> Thousands of people move there to work in the mills.  
 > Tall chimneys rise over the town, and smoke fills the sky.  
 > **Which revolution is Revolution X?**
 
@@ -42,16 +42,16 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 ### Huvudbild
 
 - **Motiv:** A stone textile mill stands beside a river in the north of England in the early eighteen hundreds. A large wooden waterwheel turns at the side of the building. Workers in plain period clothes walk toward the entrance. On a hill behind, a small town with a few smoking chimneys is visible. Production note: no readable signs, names, or numbers anywhere on the building; calm morning light, no people in visible distress.
-- **Bildtext:** *A new mill rises by the river. The wheel outside turns the machines within.*
-- **Shutterstock-sökning:** `industrial revolution textile mill river waterwheel historical illustration`
+- **Bildtext:** *A new mill rises by the river. The wheel outside turns the machines inside.*
+- **Shutterstock-sökning:** `textile mill river waterwheel northern england historical illustration`
 - **AI-prompt (alternativ):** Warm historical illustration of a stone textile mill beside a river in early nineteenth-century northern England, a large wooden waterwheel turning at its side, workers in plain period clothes walking toward the entrance, a small town with a few smoking chimneys on a hill behind, soft morning light; no signs, no numbers, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** Inside a simple cottage, an older woman sits by the fire and spins raw cotton into thread on a small wooden spinning wheel, a basket of raw cotton beside her. Supports the word 'spin'. Production note: no readable text or labels anywhere in the room; warm, calm domestic mood.
-- **Bildtext:** *At home, a family spins thread by hand, one wheel at a time.*
+- **Motiv:** Inside a simple cottage, an older woman sits by the fire and spins soft carded cotton into thread on a small wooden spinning wheel, a basket of soft carded cotton rolls beside her. Supports the word 'spin'. Production note: no readable text or labels anywhere in the room; warm, calm domestic mood.
+- **Bildtext:** *At home, a woman spins thread by hand, one wheel at a time.*
 - **Shutterstock-sökning:** `spinning wheel cottage hearth woman cotton thread historical illustration`
-- **AI-prompt (alternativ):** Warm vertical illustration of an older woman sitting by a cottage fireplace, spinning raw cotton into thread on a small wooden spinning wheel, a basket of raw cotton at her feet, soft firelight on her hands and face; no text, no letters, no signs.
+- **AI-prompt (alternativ):** Warm vertical illustration of an older woman sitting by a cottage fireplace, spinning soft carded cotton into thread on a small wooden spinning wheel, a basket of soft carded cotton rolls at her feet, soft firelight on her hands and face; no text, no letters, no signs.
 
 ---
 
@@ -61,15 +61,15 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 ### Korttext
 
-> Revolution X changes daily life for working families.  
+> About 200 years ago, Revolution X changes life for working families.  
 > Children as young as six work inside the mills.  
 > A working day often lasts twelve to fourteen hours.  
-> Small children crawl under machines to fix broken thread.  
-> Other children work far underground, digging coal in mines.  
-> Families move from small villages into fast growing cities.  
+> Small children crawl under moving machines to sweep up loose cotton.  
+> Other children work far underground, pulling carts of coal in mines.  
+> Families move from small villages into fast-growing cities.  
 > Many of them live crowded together in one small room.  
-> Clean water is scarce, and sickness spreads fast there.  
-> A disease called cholera kills thousands in poor city streets.  
+> There is little clean water, and sickness spreads fast.  
+> A disease called cholera kills tens of thousands in poor city streets.  
 > Slowly, new laws limit how young a working child can be.  
 > Workers also start to join together in groups called unions.  
 > Together, they ask for shorter days and safer machines.  
@@ -93,7 +93,7 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 - **Motiv:** Inside a large mill workroom, rows of tall spinning machines run in dim light. A child worker of about ten, dressed in simple plain clothes, walks carefully between two machines, and an adult supervisor stands watching at a distance. Production note: no injury, no dirt suggesting danger, no readable signs or numbers, respectful and calm depiction, faces neutral not distressed.
 - **Bildtext:** *Inside the mill, even young children work long hours among the machines.*
-- **Shutterstock-sökning:** `industrial revolution child labor mill interior spinning machines historical illustration`
+- **Shutterstock-sökning:** `child labor cotton mill interior spinning machines nineteenth century historical illustration`
 - **AI-prompt (alternativ):** Historical illustration of the dim interior of a large textile mill, rows of tall spinning machines running, a child worker of about ten in plain clothes walking carefully between two machines, an adult supervisor watching from a distance, muted light from high windows; no visible injury, no readable signs, no numbers, no text, no letters.
 
 ### Sidobild
@@ -114,14 +114,14 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 > Revolution X depends on a new kind of engine.  
 > Earlier engines already pump water out of coal mines.  
 > An engineer named Watt makes this kind of engine far better.  
-> He receives a patent for his improved engine in 1769.  
-> Factories start using his engines from the 1770s onward.  
-> Steam power can now drive machines far from any river.  
+> He receives a patent for his improved engine about 250 years ago.  
+> Mines and ironworks use his engines from the 1770s.  
+> From the 1780s, his engines also turn machines in mills.  
 > Britain also mines huge amounts of coal and iron.  
 > Workers first move heavy goods along new canals by boat.  
-> In 1830, the first railway links two English towns.  
-> A steam engine now pulls both passengers and goods together.  
-> Steam also powers ships across oceans and wide rivers.  
+> In 1830, the first passenger railway links two English cities.  
+> A steam engine now pulls both passengers and goods.  
+> Soon, steam also powers ships on wide rivers and across oceans.  
 > Journeys that once took days can now take only hours.  
 > **Which revolution is Revolution X?**
 
@@ -141,10 +141,10 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 ### Huvudbild
 
-- **Motiv:** An early steam locomotive pulls a short line of open wooden carriages across the English countryside on a raised earth track in 1830. Passengers in period clothes sit in the carriages, a small station building and a distant town with a few mill chimneys are visible. Production note: no readable name or number on the locomotive or carriages, no flags, no signs; clear daylight, ordinary calm mood.
-- **Bildtext:** *In 1830, a new engine pulls people and goods between two towns.*
-- **Shutterstock-sökning:** `1830 steam locomotive railway carriages historical illustration england`
-- **AI-prompt (alternativ):** Historical illustration of an early steam locomotive pulling a short line of open wooden carriages across the English countryside on a raised earth embankment around 1830, passengers in period clothes seated inside, a small station building and a distant town with mill chimneys visible, clear daylight; no readable name or number on the locomotive, no flags, no signs, no text, no letters.
+- **Motiv:** An early steam locomotive with a tall chimney pulls a short line of open wooden carriages across the English countryside on a raised earth embankment around 1830, seen at a three-quarter angle from a distance. Passengers in period clothes sit in the carriages, a small stone bridge and a distant town with a few mill chimneys are visible. Production note: plain boiler and tall chimney, no nameplate, no number plate, no lettering or crests on the carriages, no flags, no signs; clear daylight, ordinary calm mood.
+- **Bildtext:** *A new engine pulls people and goods between two towns.*
+- **Shutterstock-sökning:** `early steam locomotive open carriages embankment countryside 1830 historical illustration`
+- **AI-prompt (alternativ):** Historical illustration of an early steam locomotive with a tall chimney pulling a short line of open wooden carriages across the English countryside on a raised earth embankment around 1830, seen at a three-quarter angle from a distance, passengers in period clothes seated inside, a small stone bridge and a distant town with mill chimneys visible, clear daylight; plain boiler, no nameplate, no number plate, no lettering or crests on the carriages, no flags, no signs, no text, no letters.
 
 ### Sidobild
 
@@ -161,7 +161,7 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 ### Korttext
 
-> Revolution X starts in Britain, but its threads reach the whole world.  
+> Revolution X starts in Britain, but it soon changes the whole world.  
 > British mills need huge amounts of raw cotton every year.  
 > Enslaved workers in the southern United States pick most of it.  
 > Farmers in India and Egypt also grow cotton for British mills.  
@@ -172,7 +172,7 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 > Belgium and parts of Germany build mills within a few decades.  
 > The United States and later Japan follow a similar path.  
 > Everywhere, burning coal sends smoke and gas into the air.  
-> Over time, this slowly starts to change the whole planet's air.  
+> Over two centuries, this gas slowly warms the whole planet.  
 > **Which revolution is Revolution X?**
 
 ### Svarsalternativ
@@ -198,10 +198,10 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 ### Sidobild
 
-- **Motiv:** Inside a simple home in India, a weaver sits at a large wooden hand loom, weaving a length of fine cotton cloth, natural light coming through an open door. Supports the word 'weaver'. Production note: the woven cloth shows only plain simple patterns, no readable text or letters anywhere, calm respectful mood.
-- **Bildtext:** *For centuries, skilled weavers make cloth by hand. Now cheap mill cloth takes away much of his work.*
-- **Shutterstock-sökning:** `indian handloom weaver traditional cotton weaving historical illustration`
-- **AI-prompt (alternativ):** Vertical historical illustration of a weaver sitting at a large wooden hand loom inside a simple home in India, weaving a length of fine cotton cloth, natural light coming through an open door, calm focused mood; the cloth shows only plain simple patterns, no readable text, no letters.
+- **Motiv:** Inside a simple home in India, a weaver sits at a simple pit loom set into the floor, his legs in the pit, weaving a length of fine cotton cloth, natural light coming through an open door. Supports the word 'weaver'. Production note: the woven cloth shows only plain simple patterns, no readable text or letters anywhere, calm respectful mood.
+- **Bildtext:** *A weaver in India makes fine cloth by hand. Cheap mill cloth now takes away his work.*
+- **Shutterstock-sökning:** `indian pit loom weaver traditional cotton weaving historical illustration`
+- **AI-prompt (alternativ):** Vertical historical illustration of a weaver sitting at a simple pit loom set into the floor with his legs in the pit, inside a simple home in India, weaving a length of fine cotton cloth, natural light coming through an open door, calm focused mood; the cloth shows only plain simple patterns, no readable text, no letters.
 
 ---
 
@@ -211,18 +211,18 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 ### Korttext
 
-> Historians argue about the name Revolution X itself.  
-> Some changes happen fast, like the first railway in 1830.  
+> Historians even argue about the word revolution itself.  
+> Some changes come fast, like the first steam railways.  
 > But many other changes take a full century to spread.  
 > So some historians prefer to speak of slow, steady change.  
 > Others still call it a true revolution in how people live.  
 > A second question asks why this begins in Britain first.  
 > Britain has coal, money to invest, and colonies for raw goods.  
-> It also has wide markets and workers who earn more than most.  
+> It also has wide markets and, some say, well-paid workers.  
 > Historians compare Britain with wealthy regions in China at the time.  
-> For a long time, both regions look similarly advanced.  
+> Some historians say both regions look similarly advanced for a long time.  
 > Then their paths separate, and historians call this the great divergence.  
-> To study all this, historians read reports from factory inspectors, local church records, and old wage lists.  
+> Historians read factory inspectors' reports, church records, and old wage lists.  
 > **Which revolution is Revolution X?**
 
 ### Svarsalternativ
@@ -241,16 +241,16 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 ### Huvudbild
 
-- **Motiv:** A wide historical illustration compares two riverside towns side by side. On the left, a British town with tall mill chimneys and smoke against the sky. On the right, a Chinese canal town with busy workshops, boats, and warehouses. Both towns look equally busy and prosperous. Production note: no readable signs, flags, or text anywhere in either scene, balanced and respectful depiction of both towns.
-- **Bildtext:** *Two busy regions, once similarly advanced. Later, their paths separate.*
-- **Shutterstock-sökning:** `great divergence comparison british town chinese canal town historical illustration`
-- **AI-prompt (alternativ):** Wide historical illustration comparing two riverside towns side by side: on the left, a British town with tall mill chimneys and smoke against the sky; on the right, a Chinese canal town with busy workshops, boats, and warehouses, both equally busy and prosperous looking, soft daylight; no readable signs, no flags, no text, no letters.
+- **Motiv:** A wide historical illustration compares two riverside towns side by side, both before the age of steam. On the left, a British river town with waterwheels, stone warehouses, and workshops by the water, no smoking chimneys. On the right, a Chinese canal town with wooden workshops, plain boats, and warehouses along the canal. Both towns look equally busy and prosperous. Production note: no lanterns, banners, or shop signs with characters, plain wooden walls and plain boats; no readable signs, flags, or text anywhere in either scene; balanced and respectful depiction of both towns.
+- **Bildtext:** *Some say these two regions once look alike. Later, their paths separate.*
+- **Shutterstock-sökning:** `british river town waterwheel warehouses chinese canal town comparison historical illustration`
+- **AI-prompt (alternativ):** Wide historical illustration comparing two riverside towns side by side before the age of steam: on the left, a British river town with waterwheels, stone warehouses, and workshops by the water and no smoking chimneys; on the right, a Chinese canal town with wooden workshops, plain boats, and warehouses along the canal, both equally busy and prosperous looking, soft daylight; no lanterns, no banners, no shop signs, no readable signs, no flags, no text, no letters.
 
 ### Sidobild
 
-- **Motiv:** On an old wooden desk, a stack of worn paper reports sits beside an open ledger, an ink pen, a pair of spectacles, and a small magnifying glass. Supports the word 'inspector'. Production note: all pages and covers must be blank or show only faint marks, no readable text, letters, or numbers anywhere, warm calm lighting.
-- **Bildtext:** *An inspector's old reports help historians see how people once lived and worked.*
-- **Shutterstock-sökning:** `old reports ledger desk magnifying glass spectacles still life historical`
-- **AI-prompt (alternativ):** Photorealistic vertical still life of an old wooden desk with a stack of worn paper reports, an open ledger, an ink pen, a pair of spectacles, and a small magnifying glass, warm lamp light; all pages and covers blank or with only faint marks, no readable text, no letters, no numbers.
+- **Motiv:** Seen from behind, a man in a dark coat and tall hat stands at the open iron gate of a mill yard, a closed notebook under his arm, while workers in plain clothes walk past him into the yard; a tall brick mill wall rises ahead. Supports the word 'inspector'. Production note: the figure dominates the foreground and is seen from behind only, no face; no readable signs, labels, or numbers on the gate or wall; calm grey daylight.
+- **Bildtext:** *An inspector visits a mill. Much later, his reports help historians.*
+- **Shutterstock-sökning:** `man top hat coat from behind factory gate workers nineteenth century illustration`
+- **AI-prompt (alternativ):** Vertical historical illustration of a man in a dark coat and tall hat seen from behind, standing at the open iron gate of a mill yard with a closed notebook under his arm, workers in plain clothes walking past him into the yard, a tall brick mill wall ahead, calm grey daylight; no face visible, no readable signs, no labels, no numbers, no text, no letters.
 
 ---

@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Charles Darwin. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd text, titel, bildtext eller ordlista. Beagle, natural selection och evolution får nämnas. Finkarna är delvis en senare rekonstruktion och ska inte bära berättelsen, härmtrastarna nämns i stället på universitetskortet. Oxforddebatten 1860 återges olika av samtida vittnen, markeras som osäker. Tro markeras alltid som tro, ingen sida framställs som den rätta. Missbruket av idéerna för rasism och sociala teorier markeras tydligt som missbruk, inte som något han själv skrev. Inget igenkännbart skäggigt ålderdomsporträtt i bilderna.
+Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd text, titel, bildtext eller ordlista. Beagle, natural selection och evolution får nämnas. Finkarna är delvis en senare rekonstruktion och ska inte bära berättelsen, härmtrastarna nämns i stället på universitetskortet. Oxforddebatten 1860 återges olika av samtida vittnen, markeras som osäker. Tro markeras alltid som tro, ingen sida framställs som den rätta. Missbruket av idéerna för rasism och sociala teorier markeras tydligt som missbruk, inte som något han själv skrev. Inget igenkännbart skäggigt ålderdomsporträtt i bilderna. Årtal: högst ett exakt årtal per kort (1859 i kort 4, 1837 i kort 5), annars relativ tid eller decennier. Inga anteckningsbokssidor som bildmotiv, de lockar bildmodellen att skriva text.
 
 ---
 
@@ -12,15 +12,15 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ### Korttext
 
-> Mr X is a young man in Britain.  
+> Mr X is a young man in Britain, almost 200 years ago.  
 > He studies medicine in Edinburgh but hates it.  
 > Blood and pain make him feel sick.  
 > He collects rare beetles as a hobby.  
-> His father wants him to become a priest instead.  
+> His father wants him to work for the church instead.  
 > Then a ship captain invites him to sail.  
 > The small ship sails around the whole world.  
 > The long voyage lasts almost five years.  
-> Mr X feels seasick almost every single day.  
+> Mr X feels seasick almost every day at sea.  
 > On islands in the Pacific, he meets giant tortoises.  
 > He also sees strange birds that live nowhere else.  
 > **Who is Mr X?**
@@ -35,6 +35,7 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 ### Ordförklaringar (marginal)
 
 - **beetle** — *a small insect with a hard shiny cover over its wings*
+- **voyage** — *a long journey by ship*
 - **seasick** — *feeling sick because a ship moves on the waves*
 - **tortoise** — *a slow animal with a hard shell that walks on land*
 
@@ -60,17 +61,17 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ### Korttext
 
-> Mr X returns home after his long voyage.  
+> Mr X returns to England after five years at sea.  
 > For years, he thinks about living things and change.  
 > He notices something: animals fit their surroundings well.  
 > Animals that fit well survive and have young.  
-> Over very long time, this slowly changes life.  
+> Over a very long time, this slowly changes all living things.  
 > Mr X calls this idea natural selection.  
 > He fills notebook after notebook with his ideas.  
 > Twenty years pass, and he tells almost nobody.  
 > Then a letter arrives from a naturalist in Asia.  
 > That man, Wallace, has the very same idea.  
-> Soon after, Mr X finally publishes his famous book.  
+> The next year, Mr X finally publishes his famous book.  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -82,16 +83,16 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ### Ordförklaringar (marginal)
 
-- **voyage** — *a long journey, often by ship*
+- **survive** — *to stay alive*
 - **natural selection** — *nature lets the best-fitting animals and plants survive and have young*
 - **naturalist** — *a person who studies plants, animals, and nature*
 
 ### Huvudbild
 
-- **Motiv:** A wooden writing desk at night lit by one candle, covered with several similar closed leather notebooks stacked beside an open one, a simple quill pen resting on the open page, a pair of hands resting near the pen. Production note: hands only, no visible face, all pages and covers show no readable words, letters, or numbers, only blurred pencil marks.
-- **Bildtext:** *For twenty years, Mr X fills notebook after notebook.*
-- **Shutterstock-sökning:** `old writing desk candlelight stacked notebooks quill pen hands`
-- **AI-prompt (alternativ):** Photorealistic warm candlelit scene of a wooden writing desk at night, several similar closed leather notebooks stacked beside one open notebook, a simple quill pen on the page, a pair of hands resting nearby with no face visible, cozy focused mood, all writing blurred and unreadable, no text, no letters, no numbers.
+- **Motiv:** A long straight sandy path through a quiet wooded garden in England, tall trees on both sides, a man in a dark coat seen from behind walking slowly with his hands behind his back, soft grey daylight. Production note: anonymous figure seen from behind only, no face, no recognizable portrait; no text, letters, or numbers anywhere.
+- **Bildtext:** *For twenty years, Mr X walks, thinks, and fills his notebooks.*
+- **Shutterstock-sökning:** `man walking alone wooded garden path from behind grey daylight england`
+- **AI-prompt (alternativ):** Photorealistic image of a long straight sandy path through a quiet wooded English garden, tall trees on both sides, a man in a dark coat seen from behind walking slowly with his hands behind his back, soft grey daylight, calm thoughtful mood, no face visible, no text, no letters, no numbers.
 
 ### Sidobild
 
@@ -108,17 +109,17 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ### Korttext
 
-> Mr X works quietly at home for decades.  
+> More than 150 years ago, Mr X works quietly at home in England.  
 > He breeds many different kinds of pigeons himself.  
 > Breeders already change pigeons a lot by choosing parents.  
 > Mr X wonders if nature chooses in the same way.  
 > For eight long years, he studies tiny sea barnacles.  
-> He carefully describes hundreds of different barnacle types.  
+> He carefully describes every known kind of barnacle.  
 > In his garden, he studies unusual orchid flowers.  
 > He watches how earthworms slowly move soil under grass.  
-> He works alone, patient, testing idea after idea.  
+> He works alone and patiently tests idea after idea.  
 > He writes many letters to farmers and gardeners.  
-> Slowly, small home experiments build a very large case.  
+> Slowly, many small experiments at home support one big idea.  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -157,15 +158,16 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 ### Korttext
 
 > In 1859, Mr X publishes a book that changes science.  
+> It says that all living things slowly change over time.  
 > Many people read it, and a big argument starts.  
-> In 1860, scholars debate the book in Oxford.  
+> The next year, scholars debate the book in Oxford.  
 > A bishop and a scientist argue in front of a crowd.  
-> Later writers tell the debate in different ways.  
-> Even witnesses that day remember the words differently.  
+> Later writers describe the debate in different ways.  
+> Even people who are there remember the words differently.  
 > Some religious leaders feel angry about the new idea.  
 > Other believers see no conflict with their own faith.  
 > Mr X himself stays quietly at home, often unwell.  
-> He dies in 1882, an old and respected man.  
+> He dies more than twenty years later, old and respected.  
 > He is buried with honor in Westminster Abbey.  
 > **Who is Mr X?**
 
@@ -198,7 +200,7 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ---
 
-## Kort 5 · Universitet — A Tree Sketch, a Rival, and a Twisted Legacy
+## Kort 5 · Universitet — A Tree Sketch, a Second Discoverer, and a Misused Legacy
 
 **Kategori:** `science`
 
@@ -206,16 +208,16 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 > Mr X visits Pacific islands as a young man.  
 > Later stories say finches teach him everything at once.  
-> In fact, he barely labels his island finches then.  
+> In fact, he hardly notes which island each finch comes from.  
 > Mockingbirds interest him more at the time.  
-> Historians later shape the famous finch story.  
-> Another naturalist, Wallace, reaches the same idea independently.  
-> Some historians ask who deserves more credit for it.  
+> Later scientists and school books shape the famous finch story.  
+> In the 1980s, a historian shows the story is a legend.  
+> Some historians ask if Wallace, another naturalist, deserves more credit.  
 > We know his ideas from notebooks and many letters.  
 > One page from 1837 shows a small sketch of a tree.  
-> Beside the sketch, he writes just two words: I think.  
-> Decades later, other men twist his ideas into cruelty.  
-> He never writes those cruel later theories himself.  
+> Above the sketch, he writes two words: I think.  
+> Other men later misuse his ideas to excuse racism.  
+> He never calls for such policies himself.  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -227,22 +229,23 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 ### Ordförklaringar (marginal)
 
+- **legend** — *a well-known story that is not fully true*
 - **naturalist** — *a person who studies plants, animals, and nature*
 - **sketch** — *a quick, simple drawing*
 - **credit** — *praise or recognition for doing something*
 
 ### Huvudbild
 
-- **Motiv:** A flat lay view of an aged, yellowed notebook page from above, showing a simple pencil sketch of a small branching tree diagram with short blurred marks beside some branches, a magnifying glass resting nearby on the desk. Production note: all handwriting and marks must be blurred and unreadable, no legible words, letters, or numbers anywhere.
-- **Bildtext:** *On one old page from 1837, Mr X sketches a small branching tree.*
-- **Shutterstock-sökning:** `old notebook page pencil tree diagram sketch magnifying glass flat lay`
-- **AI-prompt (alternativ):** Photorealistic flat lay of an aged yellowed notebook page seen from directly above, a simple pencil sketch of a small branching tree diagram with short blurred handwriting marks beside some branches, a magnifying glass resting nearby on a wooden desk, soft natural light, no legible words, no letters, no numbers, no text.
+- **Motiv:** A single old tree with many branching limbs stands alone on a green English hillside in winter, bare of leaves, so that the branching pattern shows clearly against a pale sky. No people. The picture echoes the idea of life as a branching tree. Production note: no text, letters, numbers, or signs anywhere; calm natural mood.
+- **Bildtext:** *Mr X draws life as a tree. One branch splits into many.*
+- **Shutterstock-sökning:** `lone bare tree many branches winter hillside pale sky`
+- **AI-prompt (alternativ):** Photorealistic image of a single old tree with many branching limbs standing alone on a green English hillside in winter, bare of leaves, the branching pattern clear against a pale sky, soft natural light, no people, calm mood, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** A worn leather mail satchel lies open on a wooden ship's deck, several sealed envelopes with wax seals peeking out, ocean visible softly blurred in the background. The picture shows how naturalists on different continents share ideas by letter. Production note: no readable addresses, stamps, or postmarks, no letters or numbers of any kind visible.
+- **Motiv:** A worn leather mail satchel lies open on a wooden ship's deck, several sealed envelopes seen from the back with wax seals only, no fronts visible, ocean softly blurred in the background. The picture shows how naturalists on different continents share ideas by letter. Production note: no addresses, stamps, or postmarks, no letters or numbers of any kind visible.
 - **Bildtext:** *Naturalists on different continents share their ideas by letter.*
-- **Shutterstock-sökning:** `old leather mail satchel sealed envelopes ship deck`
-- **AI-prompt (alternativ):** Photorealistic close-up of a worn leather mail satchel lying open on a wooden ship's deck, several sealed envelopes with wax seals peeking out, ocean softly blurred in the background, warm light, no readable addresses, no stamps, no text, no letters, no numbers.
+- **Shutterstock-sökning:** `old leather mail satchel sealed envelopes wax seals ship deck`
+- **AI-prompt (alternativ):** Photorealistic close-up of a worn leather mail satchel lying open on a wooden ship's deck, several sealed envelopes seen from the back showing only their wax seals, no envelope fronts visible, ocean softly blurred in the background, warm light, no addresses, no stamps, no text, no letters, no numbers.
 
 ---
