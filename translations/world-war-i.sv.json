@@ -1,0 +1,208 @@
+{
+  "slug": "world-war-i",
+  "person_sv": "Första världskriget",
+  "cards": [
+    {
+      "title": "Två rader av dominobrickor",
+      "text_sentences": [
+        "Kriget X börjar för mer än hundra år sedan, i Europa.",
+        "Många länder har skrivit på allianser innan kriget börjar.",
+        "Dessa allianser fungerar som två rader av dominobrickor.",
+        "Om ett land hamnar i krig följer ofta dess allierade efter.",
+        "Sommaren 1914 blir en prins skjuten och dödad.",
+        "Det händer i en stad som heter Sarajevo, på Balkan.",
+        "Historiker kallar detta skott gnistan, inte orsaken.",
+        "Allianserna gör ett enda skott till ett krig över en hel kontinent.",
+        "Många unga män, men inte alla, marscherar i väg under jubel.",
+        "Många tror att de ska vara hemma igen till jul.",
+        "Men i stället varar kriget X i fyra långa år."
+      ],
+      "question": "Vilket krig är kriget X?",
+      "options": [
+        "Balkankrigen",
+        "Första världskriget",
+        "Andra världskriget",
+        "Ryska inbördeskriget"
+      ],
+      "words": [
+        {
+          "word": "allians",
+          "explanation": "ett löfte mellan länder att hjälpa varandra i krig"
+        },
+        {
+          "word": "gnista",
+          "explanation": "en liten sak som startar något mycket större"
+        },
+        {
+          "word": "kontinent",
+          "explanation": "ett mycket stort landområde, till exempel Europa eller Afrika"
+        },
+        {
+          "word": "dominobrickor",
+          "explanation": "små platta spelbrickor, när en faller välter den nästa"
+        }
+      ],
+      "main_caption": "Unga män ger sig av till kriget. Många tror att de snart ska vara hemma igen.",
+      "side_caption": "Ett land hamnar i krig. Dess allierade följer efter, som dominobrickor."
+    },
+    {
+      "title": "En linje som inte rör sig",
+      "text_sentences": [
+        "Kriget X utkämpas mest på fälten i Europa.",
+        "Soldater på båda sidor gräver långa skyttegravar i marken.",
+        "Skyttegravarna sträcker sig över landet i hundratals kilometer.",
+        "Mellan de två linjerna ligger öppen mark som kallas ingenmansland.",
+        "Kulsprutor kan skjuta hundratals kulor varje minut.",
+        "Båda sidor använder också giftgas som bränner ögonen och lungorna.",
+        "I flera år rör sig frontlinjen knappt alls.",
+        "Soldaterna tillbringar långa veckor i lera, kyla och rädsla.",
+        "De skriver brev hem till fruar, mödrar och barn.",
+        "Löss och råttor delar skyttegravarna med soldaterna.",
+        "När kriget tar slut har omkring tio miljoner soldater dött."
+      ],
+      "question": "Vilket krig är kriget X?",
+      "options": [
+        "Vietnamkriget",
+        "Koreakriget",
+        "Första världskriget",
+        "Spanska inbördeskriget"
+      ],
+      "words": [
+        {
+          "word": "skyttegrav",
+          "explanation": "en lång, djup grop grävd i marken"
+        },
+        {
+          "word": "ingenmansland",
+          "explanation": "den öppna, farliga marken mellan två fiendelinjer"
+        },
+        {
+          "word": "löss",
+          "explanation": "mycket små insekter som lever i hår eller kläder och biter"
+        }
+      ],
+      "main_caption": "Soldaterna tillbringar långa veckor i lera och kyla, nära fiendens linje.",
+      "side_caption": "Mellan de två skyttegravslinjerna ligger tom, farlig mark."
+    },
+    {
+      "title": "Soldater från varje kontinent",
+      "text_sentences": [
+        "Kriget X utkämpas av soldater från varje kontinent.",
+        "Det börjar 1914 och varar i fyra år.",
+        "Europeiska länder kallar in soldater från sina kolonier också.",
+        "Soldater från Indien strider i skyttegravarna i Frankrike och på andra fronter.",
+        "Män från Senegal korsar havet för att strida i Frankrike.",
+        "Australiensare, kanadensare och soldater från Karibien deltar också.",
+        "Osmanska riket, som styr över stora delar av Mellanöstern, strider också.",
+        "Det förlorar kriget, och riket faller sönder.",
+        "Nya gränser dras då över Mellanöstern.",
+        "Några av dessa gränser formar fortfarande regionen i dag.",
+        "Hemma lämnar många män sina jobb för att strida.",
+        "Kvinnor tar deras plats i fabriker som tillverkar vapen och verktyg."
+      ],
+      "question": "Vilket krig är kriget X?",
+      "options": [
+        "Andra världskriget",
+        "Koreakriget",
+        "Balkankrigen",
+        "Första världskriget"
+      ],
+      "words": [
+        {
+          "word": "kolonier",
+          "explanation": "länder styrda av ett land långt borta"
+        },
+        {
+          "word": "rike",
+          "explanation": "många länder och folk styrda av en stark stat"
+        },
+        {
+          "word": "front",
+          "explanation": "här: en linje där två arméer strider mot varandra"
+        }
+      ],
+      "main_caption": "Soldater anländer från en koloni långt borta för att strida i Europa.",
+      "side_caption": "Hemma tar kvinnor nya jobb i fabriker."
+    },
+    {
+      "title": "Den elfte timmen",
+      "text_sentences": [
+        "1917 har kriget X redan pågått i flera år.",
+        "USA går med i kriget och skickar soldater över havet.",
+        "Samma år skakas det ryska riket av en revolution.",
+        "Landets nya ledare drar snart ut landet ur kriget.",
+        "Striderna på de andra fronterna fortsätter i ytterligare ett år.",
+        "Till sist stoppar ett vapenstillestånd striderna.",
+        "Klockan är elva på den elfte dagen i den elfte månaden.",
+        "Folkmassor i många städer jublar, gråter och kramar om främlingar.",
+        "Året efter skriver ledare under ett fredsavtal på slottet Versailles.",
+        "Det säger att ett land orsakade kriget och måste betala för skadorna.",
+        "Ungefär samtidigt sprids en ny sjukdom över hela världen.",
+        "Inom två år till dödar den ännu fler människor än kriget."
+      ],
+      "question": "Vilket krig är kriget X?",
+      "options": [
+        "Ryska inbördeskriget",
+        "Första världskriget",
+        "Spanska inbördeskriget",
+        "Andra världskriget"
+      ],
+      "words": [
+        {
+          "word": "vapenstillestånd",
+          "explanation": "en överenskommelse mellan fiender om att sluta strida"
+        },
+        {
+          "word": "revolution",
+          "explanation": "en plötslig, stor förändring i vem som styr ett land"
+        },
+        {
+          "word": "fredsavtal",
+          "explanation": "ett skriftligt avtal mellan länder"
+        }
+      ],
+      "main_caption": "När striderna äntligen tar slut fylls gatorna av glada och lättade människor.",
+      "side_caption": "En ny sjukdom fyller sjukhusavdelningar, även efter att striderna tar slut."
+    },
+    {
+      "title": "Vems fel, och hur vet vi det",
+      "text_sentences": [
+        "Historiker är överens om huvudhändelserna i kriget X.",
+        "Det börjar i Europa 1914, för mer än hundra år sedan.",
+        "Men historiker tvistar fortfarande om dess djupare orsak.",
+        "En grupp historiker skyller på ambitionen hos ett visst land.",
+        "En annan grupp säger att Europas ledare glider in i kriget som sömngångare.",
+        "Enligt den synen vill ingen ledare ha det enorma krig som följer.",
+        "Källorna från den tiden är svåra att använda.",
+        "Soldater skriver brev hem, men en censor tar bort vissa rader.",
+        "En dagbok ger privata tankar, men inte många soldater för en.",
+        "Efter kriget skriver varje regering sin egen officiella historia.",
+        "Även antalet soldater som dör diskuteras fortfarande i dag.",
+        "Historiker fortsätter att jämföra nya källor för att pröva gamla svar."
+      ],
+      "question": "Vilket krig är kriget X?",
+      "options": [
+        "Balkankrigen",
+        "Vietnamkriget",
+        "Första världskriget",
+        "Koreakriget"
+      ],
+      "words": [
+        {
+          "word": "censor",
+          "explanation": "en person som läser brev och tar bort delar innan de skickas"
+        },
+        {
+          "word": "dagbok",
+          "explanation": "en bok där en person skriver om livet varje dag"
+        },
+        {
+          "word": "ambition",
+          "explanation": "en stark vilja att få makt eller framgång"
+        }
+      ],
+      "main_caption": "Ett brev hem från en soldat. En censor har redan tagit bort några rader.",
+      "side_caption": "En soldat skriver i sin dagbok. Historiker läser sådana privata anteckningar med omsorg."
+    }
+  ]
+}
