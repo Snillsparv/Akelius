@@ -41,10 +41,10 @@ Not (ej elevvänd): konflikten kallas Conflict X, frågan är alltid Which confl
 
 ### Huvudbild
 
-- **Motiv:** A 1950s classroom: a teacher in a plain cardigan and pencil skirt stands calmly at the front while a group of children in period school clothes crouch under their wooden desks with hands over their heads during a practice drill, a blank chalkboard behind, tall windows with soft daylight. Production note: 1950s furniture and clothing only, no modern desks, computers, phones or screens, no flags, no national emblems, no readable text on the chalkboard or any wall chart, no recognizable faces, no visible fear or distress on faces.
+- **Motiv:** A calm 1950s classroom seen from the back of the room: rows of wooden desks, a few children in period school clothes kneeling quietly beside their desks with heads bowed during a practice drill, seen from behind, a teacher in a plain cardigan standing calmly at the front, a blank chalkboard, tall windows with soft daylight. Production note: nothing frightening, no alarm, no smoke, calm orderly mood; 1950s furniture and clothing only, no modern desks, no computers, no posters, no emblems, no recognizable faces; no text, letters or numbers on the chalkboard or anywhere.
 - **Bildtext:** *Some children practice hiding under their desks, just in case.*
 - **Shutterstock-sökning:** `1950s classroom children hiding under desks drill illustration`
-- **AI-prompt (alternativ):** Photorealistic illustration of a 1950s classroom, a teacher in a plain cardigan and pencil skirt standing calmly at the front while a group of children in period school clothes crouch under their wooden desks with hands over their heads during a practice drill, a blank chalkboard, tall windows with soft daylight, calm orderly mood, 1950s furniture and clothing only, no modern desks, no computers, no phones, no posters, no emblems, no recognizable faces, no text, no letters, no numbers, no flags.
+- **AI-prompt (alternativ):** Photorealistic illustration of a calm 1950s classroom seen from the back of the room, rows of wooden desks, a few children in period school clothes kneeling quietly beside their desks with heads bowed as in a practice drill, seen from behind, a teacher in a plain cardigan and pencil skirt standing calmly at the front, a blank chalkboard, tall windows with soft daylight, calm orderly mood, 1950s furniture and clothing only, no modern desks, no computers, no phones, no posters, no emblems, no recognizable faces, no text, no letters, no numbers, no flags.
 
 ### Sidobild
 
