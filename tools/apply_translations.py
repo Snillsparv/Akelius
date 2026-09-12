@@ -27,7 +27,12 @@ def leak_stem(answer):
     """Ordstam för läckkontroll: 'Vikingarna' -> 'viking', 'Rom' -> 'rom'."""
     a = answer.lower()
     a = re.sub(r'^(the |de |den |det )', '', a)
-    a = a.split()[0] if a.split() else a
+    words = a.split()
+    # Ordningstal och "förenta" bär ingen läcka i sig ("andra" är ett vardagsord);
+    # stammen tas då från nästa ord: "Andra världskriget" -> "världskrig".
+    while len(words) > 1 and words[0] in ('första', 'andra', 'tredje', 'förenta'):
+        words = words[1:]
+    a = words[0] if words else a
     for suffix in ('arna', 'erna', 'orna', 'en', 'et', 'na', 'ar', 'er'):
         if len(a) > len(suffix) + 3 and a.endswith(suffix):
             return a[:-len(suffix)]

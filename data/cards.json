@@ -19551,6 +19551,850 @@
         }
       ],
       "person_sv": "Napoleon Bonaparte"
+    },
+    {
+      "slug": "adolf-hitler",
+      "person": "Adolf Hitler",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Country Loses Its Freedom",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X lives in Germany, about ninety years ago.",
+            "His country holds free elections and has free newspapers.",
+            "Hard times come, and millions of people lose their jobs.",
+            "Mr X leads a party with an angry, simple promise.",
+            "He blames Jewish people and other groups for the hard times.",
+            "He promises to make the country strong and proud again.",
+            "In 1933, the old president names him head of government.",
+            "Within months, the government shuts down free newspapers.",
+            "It bans every other political party.",
+            "People go to prison simply for their opinions.",
+            "In school, children now learn to hate these groups."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Joseph Stalin",
+            "Adolf Hitler",
+            "Benito Mussolini",
+            "Francisco Franco"
+          ],
+          "correct": "Adolf Hitler",
+          "words": [
+            {
+              "word": "elections",
+              "explanation": "when people vote to choose their leaders"
+            },
+            {
+              "word": "president",
+              "explanation": "the highest elected leader of a country"
+            },
+            {
+              "word": "bans",
+              "explanation": "makes something against the law"
+            },
+            {
+              "word": "opinions",
+              "explanation": "what a person thinks or believes"
+            }
+          ],
+          "main_image": {
+            "description": "A street corner in a German town in 1933, a newspaper office with its metal shutters pulled down and locked over the windows and door, seen from across a cobblestone street, an anonymous couple in 1930s coats walking past without stopping, one parked car of the period at the curb. Calm, quiet, ordinary daylight. Production note: the shutters and any sign board must be completely blank, no letters, no numbers, no logos; people stay small and anonymous with no visible faces; no flags, no party symbols, no posters.",
+            "caption": "A newspaper office stands closed. No one prints the free news anymore.",
+            "shutterstock_query": "1930s german street shuttered newspaper office storefront closed",
+            "ai_prompt": "Photorealistic 1930s Germany street scene, a newspaper office with metal shutters pulled down and locked, seen at an angle from across a cobblestone street, an anonymous couple in 1930s period coats and hats walking past, one 1930s car parked at the curb, soft overcast daylight, calm quiet mood, no flags, no party symbols, no posters, no readable signs, no modern vehicles, no modern street lamps, no text, no letters, no symbols."
+          },
+          "side_image": {
+            "description": "The tall wooden front door of a German school building in the 1930s, closed and seen straight on from a few worn stone steps below, a bare leafless tree to one side. No people. Quiet, solemn mood. Production note: no plaque, sign, or lettering anywhere on the door or building; no flags or emblems; the scene must feel closed and still, not frightening.",
+            "caption": "The school door has closed behind the children. Inside, they learn a new lesson.",
+            "shutterstock_query": "old european school building wooden front door closed steps 1930s",
+            "ai_prompt": "Photorealistic vertical image of a tall wooden front door of a 1930s German school building, closed, seen straight on from worn stone steps below, a bare leafless tree beside the entrance, soft gray daylight, quiet solemn mood, 1930s door fittings only, no modern locks or intercoms, no plaque, no sign, no lettering, no flags, no emblems, no people, no text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Failed Painter Who Wants Power",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X wants to become a painter as a young man.",
+            "He moves to Vienna and tries to enter the art academy.",
+            "The academy rejects him, not once but twice.",
+            "He lives alone in a cheap shelter for poor men.",
+            "When the great war of 1914 begins, he becomes a soldier.",
+            "He is wounded, and near the end of the war he is gassed.",
+            "After the war, he joins a small party blaming Jews and democracy for the defeat.",
+            "In Munich, he tries to seize power by force.",
+            "The attempt fails, and he goes to prison.",
+            "In prison, he writes a book full of hate.",
+            "In one election, his party wins fewer than three votes in every hundred.",
+            "After a great economic crisis, one voter in three chooses his party, never a majority."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Kaiser Wilhelm II",
+            "Paul von Hindenburg",
+            "Adolf Hitler",
+            "Benito Mussolini"
+          ],
+          "correct": "Adolf Hitler",
+          "words": [
+            {
+              "word": "academy",
+              "explanation": "a school for special skills, like art or science"
+            },
+            {
+              "word": "gassed",
+              "explanation": "poisoned by a dangerous gas, used as a weapon in the war"
+            },
+            {
+              "word": "seize",
+              "explanation": "to take something suddenly and by force"
+            },
+            {
+              "word": "economic crisis",
+              "explanation": "a time when many businesses fail and people lose work and money"
+            }
+          ],
+          "main_image": {
+            "description": "A plain dormitory room in a shelter for poor men in Vienna in the early 1900s, a row of five simple iron beds along a long wall, one blank canvas on a wooden easel standing near the nearest bed, morning light through tall bare windows. No people. Modest, poor, orderly mood. Production note: the canvas must show no image or marks, completely blank; no paintings visible elsewhere; no text, letters, or signs anywhere; early 1900s furnishings only, no later objects.",
+            "caption": "A blank canvas waits in a shelter for poor men. The academy has said no, twice.",
+            "shutterstock_query": "early 1900s vienna mens shelter dormitory iron beds empty easel",
+            "ai_prompt": "Photorealistic image of a plain early 1900s dormitory room in a shelter for poor men in Vienna, a row of five simple iron beds along a long wall, one completely blank canvas on a wooden easel near the nearest bed, morning light through tall bare windows, modest orderly mood, no people, early 1900s furnishings only, gas or oil lamps only, no electric fittings, no modern objects, no paintings, no text, no letters, no symbols."
+          },
+          "side_image": {
+            "description": "The interior of a plain but roomy prison room in Germany in the 1920s, one barred window letting in daylight, a plain wooden desk below it with blank sheets of paper and a pen, a simple bed along the wall. No people. Bare, plain, unromantic mood. Production note: the paper must be completely blank, no writing, no title; no symbols anywhere; period-accurate 1920s furnishings only, no modern objects.",
+            "caption": "In a prison room, a prisoner writes a book full of hate.",
+            "shutterstock_query": "1920s prison room interior barred window desk blank paper",
+            "ai_prompt": "Photorealistic vertical image of a plain but roomy 1920s German prison room interior, one barred window letting in daylight onto a plain wooden desk with blank sheets of paper and a pen, a simple bed along the wall, bare plain unromantic mood, no people, no writing on the paper, no symbols, period-accurate 1920s furnishings only, no modern objects, no text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Windows Break Across a Country",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X leads the government of Germany.",
+            "His government targets one group above all: Jewish citizens.",
+            "In his first year in power, his supporters block the doors of Jewish shops.",
+            "Two years later, new laws take away their rights as citizens.",
+            "The same laws forbid marriage between Jews and other Germans.",
+            "In November 1938, his party sends its men to attack Jewish homes, shops, and synagogues.",
+            "Crowds join in, and windows break across the country in one night.",
+            "About thirty thousand Jewish men are sent to camps.",
+            "Jewish families now try to leave the country.",
+            "Many countries let in only a few of them.",
+            "Then war comes, and the persecution turns into mass murder.",
+            "His state murders six million Jews, and also Roma people, disabled people, and others."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Joseph Stalin",
+            "Hideki Tojo",
+            "Adolf Hitler",
+            "Francisco Franco"
+          ],
+          "correct": "Adolf Hitler",
+          "words": [
+            {
+              "word": "citizens",
+              "explanation": "people who legally belong to a country and share its rights"
+            },
+            {
+              "word": "synagogues",
+              "explanation": "buildings where Jewish people gather to pray"
+            },
+            {
+              "word": "camps",
+              "explanation": "here: guarded places where prisoners are kept against their will"
+            },
+            {
+              "word": "persecution",
+              "explanation": "cruel and unfair treatment of a group, again and again"
+            }
+          ],
+          "main_image": {
+            "description": "A smashed shop window seen from across a German street in November 1938, the glass shattered, broken glass scattered on the pavement below, the shop inside wrecked, seen at a distance in early morning light, no people nearby, no sign or lettering above the window. Sober, quiet, no gore. Production note: no sign, no lettering, no religious symbol of any kind, no bodies or injury, no fire or fire damage, only the aftermath at a respectful distance.",
+            "caption": "By morning, broken glass covers the pavement outside a Jewish family's shop.",
+            "shutterstock_query": "broken shop window glass pavement historical street distance morning",
+            "ai_prompt": "Photorealistic 1930s Germany street scene at a respectful distance, a shop window smashed with broken glass on the pavement below and the shop inside wrecked, no sign or lettering above the window, early gray morning light, 1930s shopfront and cobblestones, no people, sober quiet mood, no religious symbols, no fire, no fire damage, no bodies, no injury, no modern vehicles, no modern shopfronts, no text, no letters, no symbols."
+          },
+          "side_image": {
+            "description": "A packed leather suitcase standing beside the front door of a German townhouse in the 1930s, seen close up, the door slightly ajar, a folded coat resting on top of the suitcase, soft afternoon light. No people. The image suggests a family about to leave everything behind. Production note: no labels, tags, or stickers with readable text on the suitcase; no people or faces; calm, dignified mood.",
+            "caption": "A packed suitcase waits by the door. Many countries will not let the family in.",
+            "shutterstock_query": "vintage leather suitcase front door 1930s european townhouse closeup",
+            "ai_prompt": "Photorealistic vertical close-up of a packed 1930s leather suitcase with brass fittings standing beside the front door of a 1930s German townhouse, door slightly ajar, a folded wool coat of the period resting on top, soft afternoon light, calm dignified mood, no people, no readable labels or tags, no modern luggage, no wheels on the suitcase, no text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "One Voice in the Kitchen",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X's government in Germany controls what people hear and see.",
+            "A radio stands in most homes, and one voice fills it.",
+            "Huge rallies gather crowds under bright lights and loud music.",
+            "One group of students burns books that the government calls dangerous.",
+            "Children must join youth groups run by the state.",
+            "A secret police force listens for any word against the government.",
+            "Neighbors grow afraid to trust each other.",
+            "Most people simply join in, or quietly look away.",
+            "A different group of students resists: in Munich, they print leaflets against the government.",
+            "In February 1943, the government executes three of them for their leaflets.",
+            "Fear alone cannot explain it all: many ordinary people choose to believe."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Benito Mussolini",
+            "Adolf Hitler",
+            "Joseph Stalin",
+            "Hideki Tojo"
+          ],
+          "correct": "Adolf Hitler",
+          "words": [
+            {
+              "word": "rallies",
+              "explanation": "big public meetings to cheer for a leader or a cause"
+            },
+            {
+              "word": "youth groups",
+              "explanation": "clubs where children and teenagers meet, often run by the state"
+            },
+            {
+              "word": "secret police",
+              "explanation": "police who spy on citizens in secret, not openly"
+            },
+            {
+              "word": "leaflets",
+              "explanation": "small printed sheets of paper with a message"
+            }
+          ],
+          "main_image": {
+            "description": "A wooden radio set on a kitchen table in a modest German home in the 1930s, its fabric speaker grille facing the viewer, a cup of tea and a folded cloth beside it, warm lamp light, a plain wall behind. No people. Production note: the radio dial and any brand plate must be blank or blurred so nothing is readable; no symbols on the fabric grille; warm and ordinary mood, not sinister.",
+            "caption": "In most homes, a radio brings one voice into the kitchen.",
+            "shutterstock_query": "vintage 1930s wooden radio kitchen table warm light closeup",
+            "ai_prompt": "Photorealistic close-up of a 1930s wooden valve radio set on a kitchen table in a modest 1930s German home, fabric speaker grille facing the viewer, a cup of tea and a folded cloth beside it, warm lamp light, plain wall behind, ordinary mood, no people, radio dial and brand plate blank and unreadable, no symbols on the grille, no modern appliances, no plastic, no text, no letters, no symbols."
+          },
+          "side_image": {
+            "description": "A plain stone marker in a university courtyard in Munich today, a small cluster of lit candles at its base, seen in the blue light of early evening, cobblestones around it slightly wet. No people. The image is calm and reflective, honoring students who resisted. Production note: the stone must be completely blank with no inscription or symbol of any kind; no flowers arranged in a shape that could read as a symbol; quiet respectful mood.",
+            "caption": "A few students print words against the government. It costs them their lives.",
+            "shutterstock_query": "plain stone memorial lit candles courtyard evening blank no inscription",
+            "ai_prompt": "Photorealistic vertical image of a plain blank stone marker in a university courtyard in Munich today, a small cluster of lit candles at its base, blue light of early evening, wet cobblestones around it, calm reflective mood, no people, no inscription or symbol on the stone, no flags, no text, no letters, no symbols."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Not One Man, But a Whole Machine",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Historians no longer explain Mr X as one evil genius acting alone.",
+            "They ask a harder question: how does a whole society follow him?",
+            "One group of historians stresses his own choices and intentions.",
+            "Another group stresses the structures around him: rivals, chaos, and weak institutions.",
+            "A famous phrase describes officials who guess his wishes and act without orders.",
+            "One historian calls this: working towards the leader.",
+            "The sources include party files, private diaries, and letters home.",
+            "After the war, trials use these sources to judge the accused.",
+            "Some people later deny that the murder of six million Jews and others even happened.",
+            "Historians study this denial too, as a phenomenon in itself.",
+            "In 1945, with his war lost and Berlin surrounded, Mr X takes his own life."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Francisco Franco",
+            "Hideki Tojo",
+            "Joseph Stalin",
+            "Adolf Hitler"
+          ],
+          "correct": "Adolf Hitler",
+          "words": [
+            {
+              "word": "intentions",
+              "explanation": "the plans or purposes inside a person's mind"
+            },
+            {
+              "word": "institutions",
+              "explanation": "the organizations and systems that run a country"
+            },
+            {
+              "word": "phenomenon",
+              "explanation": "something that happens and that can be studied and explained"
+            },
+            {
+              "word": "denial",
+              "explanation": "refusing to accept that something true really happened"
+            }
+          ],
+          "main_image": {
+            "description": "A large wood-paneled courtroom seen from the back row of public seating, rows of empty wooden benches leading toward a raised judges bench in soft focus in the distance, tall windows along one side, late 1940s furnishings. No people, or a few anonymous backs of heads in the middle distance. Solemn, orderly mood. Production note: no flags, no emblems, no readable plaques or documents anywhere; the judges bench stays out of sharp focus so no faces are recognizable.",
+            "caption": "After the war, courts in Nuremberg and elsewhere try to judge what happened.",
+            "shutterstock_query": "empty courtroom wooden benches from behind historical 1940s",
+            "ai_prompt": "Photorealistic image of a large wood-paneled 1940s courtroom seen from the back row of public seating, rows of empty wooden benches leading toward a raised judges bench softly out of focus in the distance, tall windows along one side, solemn orderly mood, 1940s furnishings only, no flags, no emblems, no readable plaques or documents, no microphones, no modern fixtures, no text, no letters, no symbols."
+          },
+          "side_image": {
+            "description": "A small bundle of old envelopes tied with plain string and a closed private diary with a plain cloth cover, lying on a plain wooden table in soft window light, 1940s paper, a fountain pen beside them. No people. The image suggests the private sources, diaries and letters home, that historians read. Production note: the envelopes must be blank and face down, no stamps, no addresses, no handwriting visible; the diary closed with no title; no symbols; bare, still mood.",
+            "caption": "Private diaries and letters home help historians understand how it all happened.",
+            "shutterstock_query": "bundle old envelopes tied string closed diary wooden table 1940s",
+            "ai_prompt": "Photorealistic vertical still life of a small bundle of old 1940s envelopes tied with plain string beside a closed diary with a plain cloth cover on a plain wooden table, a fountain pen beside them, soft window light, envelopes blank and face down, no stamps, no addresses, no handwriting, diary closed with no title, bare still mood, no people, no modern objects, no text, no letters, no symbols."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mahatma-gandhi",
+      "person": "Mahatma Gandhi",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Long Walk to the Sea",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X lives in India, where British rulers are in charge.",
+            "An old law says only the rulers may make and sell salt.",
+            "Salt comes free from the sea, but people must pay a tax.",
+            "Mr X says this law is not fair to poor people.",
+            "In 1930, he starts to walk from his home toward the coast.",
+            "Every day along the road, more people join him.",
+            "The walk takes about twenty-four days in all.",
+            "He and his followers walk nearly four hundred kilometers.",
+            "At the seashore, Mr X bends down to the water.",
+            "He picks up a small handful of natural salt.",
+            "With this quiet act, he breaks the tax law.",
+            "Police arrest tens of thousands of his followers, but they do not fight back."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Muhammad Ali Jinnah",
+            "Subhas Chandra Bose"
+          ],
+          "correct": "Mahatma Gandhi",
+          "words": [
+            {
+              "word": "tax",
+              "explanation": "money that people must pay to the rulers"
+            },
+            {
+              "word": "coast",
+              "explanation": "the land next to the sea"
+            },
+            {
+              "word": "followers",
+              "explanation": "people who join and support a leader"
+            },
+            {
+              "word": "arrest",
+              "explanation": "when police take a person away and do not let them go free"
+            }
+          ],
+          "main_image": {
+            "description": "A long dusty road along the coast of Gujarat in 1930s India. A growing crowd of men and women in simple homespun cotton clothes of the era walks toward the sea, seen from behind and from a distance so that no single face is recognizable. Dust rises around bare and sandaled feet. Palm trees line the road, and the sea glints far ahead. Morning light, calm and determined mood. Production note: no leader shown with a recognizable face, no round glasses, no walking stick used as a personal silhouette, no flags, no readable signs or banners, only 1930s clothing and no modern vehicles.",
+            "caption": "Day by day, the crowd walking toward the sea grows longer.",
+            "shutterstock_query": "1930s india crowd walking dusty road toward coast homespun clothing",
+            "ai_prompt": "Realistic illustration of a long dusty road along the Gujarat coast in 1930s India, a growing crowd of men and women in simple white homespun cotton clothing of the 1930s, dhotis, saris and cloth caps, walking toward the sea, seen from behind and from a distance so no single face is recognizable, dust around bare and sandaled feet, palm trees lining the road, the sea glinting ahead, warm morning light, calm determined mood, no recognizable leader, no round glasses, no walking stick silhouette, no flags, no modern vehicles, no asphalt road, no power lines, no text, no letters."
+          },
+          "side_image": {
+            "description": "A close-up vertical view of a bare hand reaching down to wet sand at the edge of the sea, picking up a small handful of natural gray salt crystals mixed with sand. Gentle waves wash nearby. Only the hand and forearm are visible, no face, no jewelry, no clothing detail that could identify a person. The picture explains the act of taking salt from the sea. Production note: hand only, no ring, no watch, no readable marks on the skin, calm bright daylight, no text, no letters.",
+            "caption": "A handful of salt from the sea, taken in front of everyone.",
+            "shutterstock_query": "close up hand picking natural salt wet sand seashore",
+            "ai_prompt": "Vertical close-up realistic illustration of a bare hand reaching down to wet sand at the edge of the sea, picking up a small handful of natural gray salt crystals mixed with sand, gentle waves nearby, only the hand and forearm visible, no face, no jewelry, no watch, calm bright daylight, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A Fight With No Weapons",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X leads a movement in India, about a hundred years ago.",
+            "He believes people can fight injustice without any weapons.",
+            "He calls this method satyagraha, or holding on to truth.",
+            "Instead of buying British cloth, he asks people to spin their own.",
+            "He often sits and spins cotton thread on a simple wooden wheel.",
+            "Homespun cloth becomes a quiet symbol of independence.",
+            "British rulers repeatedly send Mr X to prison for his protests.",
+            "In total, he spends about six years of his life in prison.",
+            "Sometimes he refuses all food as a form of protest.",
+            "He calls these fasts an appeal to people's conscience.",
+            "Slowly, a small movement grows into one that includes millions."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Rabindranath Tagore",
+            "B. R. Ambedkar",
+            "Mahatma Gandhi",
+            "Muhammad Ali Jinnah"
+          ],
+          "correct": "Mahatma Gandhi",
+          "words": [
+            {
+              "word": "injustice",
+              "explanation": "something that is not fair or right"
+            },
+            {
+              "word": "satyagraha",
+              "explanation": "a special word for fighting for what is right without violence"
+            },
+            {
+              "word": "homespun",
+              "explanation": "cloth spun and woven by hand at home, not made in a factory"
+            },
+            {
+              "word": "conscience",
+              "explanation": "the inner feeling that tells a person right from wrong"
+            }
+          ],
+          "main_image": {
+            "description": "A simple wooden spinning wheel on a woven mat in an Indian courtyard of the 1920s. A pair of weathered hands turns the wheel and draws out a thread of white cotton. Soft sunlight falls through an open doorway behind. Only the hands and the wheel are in focus; no face, no full figure. Production note: the spinning wheel is plain wood with no carvings or symbols, no readable marks, no modern fabric or machinery, warm quiet mood, no text, no letters.",
+            "caption": "Spinning thread by hand becomes a quiet act of protest.",
+            "shutterstock_query": "hand spinning wheel charkha cotton thread india 1920s closeup",
+            "ai_prompt": "Warm realistic illustration of a simple wooden hand-turned spinning wheel on a woven mat in an Indian courtyard of the 1920s, a pair of weathered hands turning the wheel and drawing out a thread of white cotton, soft sunlight through an open doorway, only the hands and wheel in focus, no face, no full figure, plain undecorated wood, no electric machinery, no plastic, no modern fabric, no text, no letters."
+          },
+          "side_image": {
+            "description": "A vertical view of a row of plain stone prison cells with barred windows in a colonial-era Indian jail, seen across an empty courtyard at dusk. No people are visible, only quiet gray light and long shadows. The picture explains what it means to be sent to prison for a protest. Production note: no signs, no numbers on the doors, no modern security fittings, calm and non-frightening mood, no text, no letters.",
+            "caption": "For his protests, he spends years locked behind walls like these.",
+            "shutterstock_query": "colonial era prison courtyard barred windows empty dusk illustration",
+            "ai_prompt": "Vertical atmospheric illustration of a row of plain stone prison cells with barred windows in a 1920s colonial-era Indian jail, seen across an empty courtyard at dusk, no people visible, quiet gray light and long shadows, no signs, no numbers, no modern security fittings, no cameras, no electric floodlights, calm non-frightening mood, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Thrown Off the Train",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X studies law in London, more than a hundred years ago.",
+            "After his studies, he takes work in South Africa.",
+            "There, laws treat people differently because of the color of their skin.",
+            "One night, he sits in a first-class train carriage with a valid ticket.",
+            "An official orders him off because of his skin color.",
+            "He refuses to move, and guards throw him off the train.",
+            "Cold and angry on the empty platform, he decides to act.",
+            "Over the next twenty-one years, he builds a method of peaceful resistance.",
+            "He organizes Indians in South Africa to resist unfair laws without violence.",
+            "Historians note that his early writings there share the prejudice of his time against Africans.",
+            "Only later does his thinking grow to include all people."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Subhas Chandra Bose",
+            "Rabindranath Tagore",
+            "Mahatma Gandhi"
+          ],
+          "correct": "Mahatma Gandhi",
+          "words": [
+            {
+              "word": "carriage",
+              "explanation": "a train car where passengers sit"
+            },
+            {
+              "word": "official",
+              "explanation": "a person who works for a government or a company and has some power"
+            },
+            {
+              "word": "resistance",
+              "explanation": "fighting against something, here without weapons"
+            },
+            {
+              "word": "prejudice",
+              "explanation": "an unfair opinion about people, often based on the group they belong to"
+            }
+          ],
+          "main_image": {
+            "description": "A dim railway platform at a small South African station in the 1890s. An old steam locomotive with wooden carriages waits under gas lamps. A young man in a formal Western suit of the 1890s stands alone on the platform with a leather trunk beside him, seen from behind or in silhouette, his breath visible in the cold night air. Production note: no recognizable face, no round glasses, era-correct 1890s steam train only, no modern trains or platforms, no readable signs or station names, no text, no letters.",
+            "caption": "Thrown off the train at night, he decides to act.",
+            "shutterstock_query": "1890s steam train station platform silhouette man trunk south africa",
+            "ai_prompt": "Atmospheric realistic illustration of a dim railway platform at a small South African station in the 1890s, an old steam locomotive with a tall funnel and wooden carriages under gas lamps, a young man in a formal 1890s suit with a high collar standing alone on the platform with a leather trunk beside him, seen from behind or in silhouette, breath visible in the cold night air, no recognizable face, no round glasses, era-correct steam train only, no electric trains, no electric lamps, no readable signs, no text, no letters."
+          },
+          "side_image": {
+            "description": "A vertical scene of a small group of Indian mine workers in early 1900s South African clothing standing quietly together outside a mine gate, tools laid down on the ground, on strike, heads calm, hands still, no signs of fear. A mounted colonial policeman waits at a distance. No violence, no weapons drawn, no contact between the two groups. Production note: the men stand, no sit-in, respectful and calm, no injuries, no raised fists, no readable signs or banners, no text, no letters.",
+            "caption": "He teaches a new idea: break unfair laws openly, and never fight back.",
+            "shutterstock_query": "early 1900s indian mine workers strike south africa mine gate illustration",
+            "ai_prompt": "Vertical realistic illustration of a small group of Indian mine workers in early 1900s South African work clothing standing quietly together outside a wooden mine gate, tools laid down on the ground, heads calm and hands still, a mounted colonial policeman in an early 1900s uniform waiting at a distance, the men standing not sitting, no violence, no weapons drawn, no contact between the groups, no raised fists, calm respectful mood, no motor vehicles, no readable signs or banners, no text, no letters."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Country Splits in Two",
+          "category": "twentieth century",
+          "text_sentences": [
+            "In 1947, Mr X's homeland finally becomes independent.",
+            "British rulers and Indian leaders also divide the land into two new countries.",
+            "Millions of Hindus, Muslims, and Sikhs must suddenly move.",
+            "Violence breaks out between neighbors of different faiths.",
+            "Estimates say hundreds of thousands of people, maybe far more, are killed.",
+            "Mr X is heartbroken by violence he has tried to prevent.",
+            "In the capital, he refuses all food to make the killing stop.",
+            "His fast works: Hindu and Sikh leaders promise to protect their Muslim neighbors.",
+            "Not everyone welcomes his message of friendship between faiths.",
+            "Twelve days later, a Hindu nationalist shoots him dead.",
+            "The gunman believes Mr X is too friendly toward Muslims.",
+            "His death shocks the young nation."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "B. R. Ambedkar",
+            "Muhammad Ali Jinnah",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi"
+          ],
+          "correct": "Mahatma Gandhi",
+          "words": [
+            {
+              "word": "independent",
+              "explanation": "free to rule itself, not controlled by another country"
+            },
+            {
+              "word": "violence",
+              "explanation": "actions that hurt or kill people"
+            },
+            {
+              "word": "estimates",
+              "explanation": "careful guesses based on the facts we have"
+            },
+            {
+              "word": "nationalist",
+              "explanation": "a person with very strong pride in one nation, sometimes against other groups"
+            }
+          ],
+          "main_image": {
+            "description": "A long column of refugee families crosses a dusty plain on the Indian subcontinent in 1947. Men, women, and children in worn travel clothing of the era walk together, ox-carts loaded with bundles and belongings, dust hanging in the warm afternoon light. Production note: no faces recognizable in close detail, no flags, no readable signs, no modern vehicles, era-correct 1940s clothing and carts only, no text, no letters.",
+            "caption": "In 1947, millions cross the new border between two countries.",
+            "shutterstock_query": "1947 partition india refugees ox cart column dusty plain illustration",
+            "ai_prompt": "Realistic illustration of a long column of refugee families crossing a dusty plain on the Indian subcontinent in 1947, men, women, and children in worn 1940s cotton travel clothing walking together, wooden ox-carts loaded with bundles, dust hanging in warm afternoon light, no faces recognizable in close detail, no flags, no readable signs, no motor vehicles, no asphalt roads, no power lines, no text, no letters."
+          },
+          "side_image": {
+            "description": "A vertical close-up of an empty metal bowl and a small cup of water resting on a plain woven mat in soft evening light. No person is shown. The picture explains the idea of refusing food as a form of protest. Production note: plain undecorated bowl and cup, no religious symbols, no readable marks, calm and still mood, no text, no letters.",
+            "caption": "He refuses food and asks: please, let the killing stop.",
+            "shutterstock_query": "empty bowl cup water plain mat fasting symbol evening light",
+            "ai_prompt": "Vertical still-life illustration of an empty plain metal bowl and a small metal cup of water resting on a plain woven mat in soft evening light, 1940s Indian household objects, no person shown, plain undecorated objects, no plastic, no religious symbols, calm still mood, no text, no letters."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Debates That Outlive Him",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Mr X becomes one of the most studied leaders of the twentieth century.",
+            "Not everyone in India agrees with his methods or his ideas.",
+            "B. R. Ambedkar is a leader of the Dalits, the people the caste system places lowest.",
+            "He says Mr X defends the caste order and does too little against caste discrimination.",
+            "Ambedkar wants strong legal protection, not only a change of heart.",
+            "Other leaders find peaceful protest too slow and want an armed uprising instead.",
+            "Mr X insists that the method matters as much as the goal.",
+            "Decades later, movements on other continents study his method of nonviolent protest.",
+            "He writes a long autobiography, openly admitting many of his own mistakes.",
+            "His collected writings and letters fill about one hundred volumes.",
+            "Even British police files, kept to watch him, survive as evidence today.",
+            "Together, these sources let historians question the popular image of the man."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Muhammad Ali Jinnah",
+            "Subhas Chandra Bose"
+          ],
+          "correct": "Mahatma Gandhi",
+          "words": [
+            {
+              "word": "caste",
+              "explanation": "a group a person is born into in India's old social order, ranked above or below other groups"
+            },
+            {
+              "word": "discrimination",
+              "explanation": "treating a group of people unfairly because of who they are"
+            },
+            {
+              "word": "autobiography",
+              "explanation": "a book a person writes about their own life"
+            },
+            {
+              "word": "volume",
+              "explanation": "one book in a long series of books that belong together"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet archive room from the mid-twentieth century, with tall wooden shelves lined with a long row of identical old leather-bound volumes, and a nearby desk stacked with tied brown paper file folders marked only with plain string, no readable labels. Soft window light, dust visible in the air, no people. Production note: all spines and folders completely plain, no lettering, no numbers, no stamps, no text anywhere.",
+            "caption": "His own words fill about a hundred volumes, and police files add still more.",
+            "shutterstock_query": "archive room old leather bound volumes tied file folders desk no labels",
+            "ai_prompt": "Photorealistic illustration of a quiet mid-twentieth-century archive room with tall wooden shelves lined with a long row of identical old leather-bound volumes, a nearby wooden desk stacked with tied brown paper file folders marked only with plain string, soft window light, dust visible in the air, no people, 1950s furnishings only, no computers, no plastic boxes, no metal shelving, all spines and folders completely plain, no lettering, no numbers, no text, no letters."
+          },
+          "side_image": {
+            "description": "A vertical view inside a plain empty debating hall from the mid-twentieth century, with rows of wooden benches facing a single podium, soft light from tall windows, no flags, no portraits, no people. The picture supports the idea that different leaders argue for different paths forward. Production note: completely plain benches and podium, no emblems, no readable signs, calm still mood, no text, no letters.",
+            "caption": "Some leaders want new laws, others want a very different kind of protest.",
+            "shutterstock_query": "empty legislative hall wooden benches podium plain no flags illustration",
+            "ai_prompt": "Vertical realistic illustration of a plain empty debating hall from the mid-twentieth century, rows of wooden benches facing a single wooden podium, soft light from tall windows, 1940s furnishings only, no microphones, no screens, no flags, no portraits, no people, completely plain surfaces, no emblems, no readable signs, calm still mood, no text, no letters."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "united-nations",
+      "person": "The United Nations",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Talk Instead of Fight",
+          "category": "twentieth century",
+          "text_sentences": [
+            "The biggest war in history ends in 1945.",
+            "Many countries want peace to last this time.",
+            "Fifty countries meet in San Francisco, a city by the sea.",
+            "There they sign a long agreement together.",
+            "One more country signs it a little later.",
+            "Now Organization X starts with fifty-one countries.",
+            "Today, almost every country in the world belongs to it.",
+            "Every country sends people to one huge hall.",
+            "In that hall, each country gets exactly one vote.",
+            "Organization X also feeds hungry children and sends doctors."
+          ],
+          "question": "Which organization is Organization X?",
+          "options": [
+            "The League of Nations",
+            "The United Nations",
+            "The Commonwealth",
+            "NATO"
+          ],
+          "correct": "The United Nations",
+          "words": [
+            {
+              "word": "agreement",
+              "explanation": "a promise that two or more people or countries make together"
+            },
+            {
+              "word": "peace",
+              "explanation": "a time with no war or fighting"
+            }
+          ],
+          "main_image": {
+            "description": "A grand hall in 1945 where rows of delegates in dark postwar suits and simple dresses lean over a very long table to sign a thick paper document with fountain pens, seen from behind the seated rows so faces stay indistinct, tall windows, warm afternoon light. Production note: no visible letterhead or writing on the paper, no flags or coats of arms anywhere, no readable text, calm formal mood.",
+            "caption": "Fifty countries sign a long agreement. More join later.",
+            "shutterstock_query": "1945 delegates signing document long table historical photo",
+            "ai_prompt": "Photorealistic wide shot of a grand 1945 conference hall, rows of delegates in dark 1940s suits with wide lapels and simple 1940s dresses leaning over a very long table, signing a thick paper document with fountain pens, seen from behind the seated rows so faces stay indistinct, tall arched windows, warm afternoon light, formal calm mood, no flags, no coats of arms, no letterhead visible, no microphones, no modern objects; no text, no letters, no flags."
+          },
+          "side_image": {
+            "description": "Close view of two hands from different people meeting in a handshake over a plain wooden table, simple 1940s cuffs and sleeves, a blank sheet of paper and a closed fountain pen resting beside them, soft window light. Production note: no faces in frame, no rings or watches, no readable text on the paper.",
+            "caption": "An agreement is a promise that countries make to each other.",
+            "shutterstock_query": "handshake hands over table 1940s closeup agreement",
+            "ai_prompt": "Photorealistic close-up of two hands from different people meeting in a handshake over a plain wooden table, simple 1940s wool suit sleeves and white shirt cuffs, a blank sheet of paper and a closed fountain pen resting beside them, soft window light, warm calm mood, no faces in frame, no rings or watches, no modern pens; no text, no letters, no flags."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Rule That Can Stop Everything",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Organization X works by clear, simple rules.",
+            "All member countries meet in one big assembly.",
+            "There, the biggest and the smallest country have one vote each.",
+            "A smaller council also meets, with fewer countries.",
+            "Five countries always have a seat on that council.",
+            "The council can send soldiers to keep the peace.",
+            "The soldiers wear plain blue helmets for this work.",
+            "Each of the five can also say no to a plan.",
+            "This power to block a plan is called a veto.",
+            "One veto is enough to stop the whole council.",
+            "So the same five stay strong, but help can be blocked too."
+          ],
+          "question": "Which organization is Organization X?",
+          "options": [
+            "The World Bank",
+            "The Arab League",
+            "The United Nations",
+            "The European Union"
+          ],
+          "correct": "The United Nations",
+          "words": [
+            {
+              "word": "assembly",
+              "explanation": "a big meeting where every member has a seat"
+            },
+            {
+              "word": "council",
+              "explanation": "a smaller group that meets often and decides on quick action"
+            },
+            {
+              "word": "veto",
+              "explanation": "the power to say no and stop a plan, even if everyone else says yes"
+            },
+            {
+              "word": "helmet",
+              "explanation": "a hard hat that protects the head"
+            }
+          ],
+          "main_image": {
+            "description": "Wide high-angle view inside a very large assembly hall in the 1950s: tiers of delegates in plain suits and dresses sit at curved rows of desks, many raise their hands to vote at once, seen from a high angle at the back so faces stay distant. Production note: all desk plates blank, no cards or papers held up, no readable text or numbers, no flags or emblems anywhere, warm formal light.",
+            "caption": "Hands go up in the big hall: one vote for each country.",
+            "shutterstock_query": "1950s assembly hall delegates raising hands vote high angle",
+            "ai_prompt": "Photorealistic wide high-angle view inside a very large assembly hall in the 1950s, tiers of delegates in plain 1950s suits and simple dresses seated at curved rows of wooden desks, many raising their hands to vote at once, faces distant and indistinct, warm formal lighting, 1950s furnishings only; all desk plates blank with no readable text or numbers, no cards held up, no flags, no emblems, no screens, no laptops, no electronic voting boards; no text, no letters, no flags."
+          },
+          "side_image": {
+            "description": "A soldier in a plain blue helmet and ordinary fatigues from the 1990s stands with his back to the camera at a wooden barrier on a quiet dirt road, calm dusk light, empty fields beyond. Production note: no letters, numbers, or emblems on the helmet or vest, no vehicle in frame, no weapon prominent in frame, respectful calm mood.",
+            "caption": "Soldiers in plain blue helmets try to keep the peace.",
+            "shutterstock_query": "peacekeeper soldier blue helmet back road dusk",
+            "ai_prompt": "Photorealistic vertical shot of a soldier in a plain blue helmet and ordinary 1990s fatigues standing with his back to the camera at a wooden barrier on a quiet dirt road, calm dusk light, empty fields beyond, respectful calm mood; no letters, numbers, or emblems on the helmet or vest, no vehicle in frame, no weapon prominent; no text, no letters, no flags."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A List for Every Human",
+          "category": "twentieth century",
+          "text_sentences": [
+            "In 1948, Organization X writes a new kind of list.",
+            "The list names rights that every human should have.",
+            "People from many cultures help write thirty short articles.",
+            "A woman leads the committee that writes the text.",
+            "A philosopher from China also shapes the final words.",
+            "Long debates happen about rights that fit every culture.",
+            "When the vote comes, no country votes against the list.",
+            "A few countries choose not to vote for or against.",
+            "Translators later put the text into hundreds of languages.",
+            "Still, the list is only words on paper.",
+            "The gap between the words and daily life stays wide."
+          ],
+          "question": "Which organization is Organization X?",
+          "options": [
+            "The League of Nations",
+            "The Red Cross",
+            "The European Union",
+            "The United Nations"
+          ],
+          "correct": "The United Nations",
+          "words": [
+            {
+              "word": "committee",
+              "explanation": "a small group of people chosen to do one job"
+            },
+            {
+              "word": "philosopher",
+              "explanation": "a person who thinks deeply about big questions like right and wrong"
+            },
+            {
+              "word": "articles",
+              "explanation": "short, numbered parts of a longer written text"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet committee room in 1948: a woman in a simple dark dress chairs a small meeting, several men and women in period suits and dresses sit around an oval table with papers, one leans forward mid-sentence, tall windows behind. Production note: all faces generic and not resembling any real person, no readable text on the papers, no flags, calm concentrated mood.",
+            "caption": "A small committee writes a list of rights for every human.",
+            "shutterstock_query": "1948 committee meeting oval table woman chair historical",
+            "ai_prompt": "Photorealistic wide shot of a quiet committee room in 1948, a woman in a simple dark 1940s dress chairing a small meeting, several men and women in 1940s suits and dresses seated around an oval table with papers, one leaning forward mid-sentence, tall windows behind, soft daylight, calm concentrated mood, 1940s furnishings only; all faces generic and not resembling any real person, no readable text, no flags, no microphones, no modern objects; no text, no letters, no flags."
+          },
+          "side_image": {
+            "description": "A thoughtful East Asian man in his forties in a plain 1940s academic suit sits at a small desk, pen in hand, looking up from a blank sheet of paper, a low stack of closed books with plain covers beside him, soft lamp light. Production note: generic face not resembling any real person, no readable text on the books or paper, quiet studious mood.",
+            "caption": "A philosopher helps choose the exact words for every right.",
+            "shutterstock_query": "1940s east asian scholar desk lamp thinking pen paper closeup",
+            "ai_prompt": "Photorealistic vertical close-up of a thoughtful East Asian man in his forties in a plain 1940s academic suit with a narrow tie sitting at a small desk, fountain pen in hand, looking up from a blank sheet of paper, a low stack of closed books with plain covers beside him, soft warm lamp light, quiet studious mood, generic face not resembling any real person; no readable text on books or paper, no modern objects; no text, no letters, no flags."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "New Members, Hard Failures",
+          "category": "twentieth century",
+          "text_sentences": [
+            "About eighty years ago, empires still rule most of Africa and much of Asia.",
+            "Over the next decades, dozens of new countries join Organization X.",
+            "Each new member brings its own voice to the big assembly.",
+            "Organization X openly supports countries that want independence.",
+            "Later, it bans arms sales to the apartheid state in South Africa.",
+            "It also calls on countries to stop trading with that state.",
+            "But Organization X also fails badly at times.",
+            "In 1994, in Rwanda, its soldiers are ordered to stand back.",
+            "About eight hundred thousand people are killed there in only a few months.",
+            "The next year, in Srebrenica, its soldiers cannot protect a town that trusts them.",
+            "About eight thousand men and boys are killed after the town falls.",
+            "Both failures are studied closely so such harm does not happen again."
+          ],
+          "question": "Which organization is Organization X?",
+          "options": [
+            "The United Nations",
+            "The Organization of African Unity",
+            "The Commonwealth",
+            "The World Bank"
+          ],
+          "correct": "The United Nations",
+          "words": [
+            {
+              "word": "empires",
+              "explanation": "large groups of lands and peoples ruled by one strong power"
+            },
+            {
+              "word": "independence",
+              "explanation": "being free to rule yourself, without another country in charge"
+            },
+            {
+              "word": "apartheid",
+              "explanation": "a system of laws in South Africa that kept people apart by skin color and gave white people the power"
+            }
+          ],
+          "main_image": {
+            "description": "A 1960s airport apron: a small delegation of men and women in West African and South Asian formal dress of the 1960s walks away from a propeller airliner toward a low terminal building, seen from behind, briefcases in hand, bright daylight. Production note: no flags, no lettering or logos on the aircraft or buildings, no modern jets, no faces visible, calm hopeful mood.",
+            "caption": "New countries send their first delegates to the big hall.",
+            "shutterstock_query": "1960s airport apron delegation propeller airliner walking from behind",
+            "ai_prompt": "Photorealistic wide shot of a 1960s airport apron, a small delegation of men and women in West African and South Asian formal dress of the 1960s, flowing robes, saris and dark suits, walking away from a four-engine propeller airliner toward a low terminal building, seen from behind, briefcases in hand, bright daylight, calm hopeful mood; no flags, no lettering or logos on the aircraft or buildings, no jet engines, no modern jets, no jet bridges, no faces visible; no text, no letters, no flags."
+          },
+          "side_image": {
+            "description": "A plain wooden chair sits empty at a small table inside a quiet guard post, a pair of binoculars and a closed logbook left on the table, dusty evening light through a small window, a quiet empty street visible outside from the 1990s. Production note: no people in frame, no blood, no weapons, no readable text on the logbook, solemn still mood, not a scene of violence.",
+            "caption": "The guard post stands empty. Help does not come in time.",
+            "shutterstock_query": "empty guard post chair window quiet street dusk",
+            "ai_prompt": "Photorealistic vertical still life of a plain wooden chair sitting empty at a small table inside a quiet 1990s guard post, a pair of binoculars and a closed logbook with a plain cover left on the table, dusty evening light through a small window, a quiet empty 1990s street visible outside, solemn still mood, not a scene of violence; no people, no blood, no weapons, no readable text, no modern screens; no text, no letters, no flags."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The Question Archives Cannot Answer",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Historians study Organization X like any other institution.",
+            "After an earlier great war, countries make a first attempt at world peace.",
+            "That first attempt is too weak, and it collapses within twenty years.",
+            "Its failure shapes the design of the second attempt in 1945.",
+            "Five countries keep a veto from the very first drafts.",
+            "For decades, diplomats argue about who deserves a permanent seat too.",
+            "Historians disagree about how to measure the organization's success.",
+            "Some count wars it stops, others count wars it fails to stop.",
+            "Old archives and internal memos help settle some of these arguments.",
+            "But the records cannot answer the hardest question of all.",
+            "Can states protect people from their own governments?",
+            "That question stays open."
+          ],
+          "question": "Which organization is Organization X?",
+          "options": [
+            "The League of Nations",
+            "NATO",
+            "The United Nations",
+            "The Red Cross"
+          ],
+          "correct": "The United Nations",
+          "words": [
+            {
+              "word": "institution",
+              "explanation": "a large, lasting organization with clear rules"
+            },
+            {
+              "word": "archives",
+              "explanation": "old papers and records kept safe for later study"
+            },
+            {
+              "word": "diplomats",
+              "explanation": "people who represent their country and talk with other countries"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet diplomatic reading room in the 1950s: a long polished wooden table with a row of closed plain folders, a single green-shaded reading lamp, the hands of one reader in a dark 1950s suit sleeve turning a blank page, tall curtained windows, no faces. Production note: all folders plain with no labels, the page completely blank, no flags, no emblems, no modern objects, calm studious mood.",
+            "caption": "Old records help historians study what the organization did and did not do.",
+            "shutterstock_query": "1950s reading room long table folders reading lamp hands turning page",
+            "ai_prompt": "Photorealistic wide shot of a quiet 1950s diplomatic reading room, a long polished wooden table with a row of closed plain folders, a single green-shaded reading lamp, the hands of one reader in a dark 1950s suit sleeve turning a blank page, tall curtained windows, soft light, calm studious mood, 1950s furnishings only; all folders plain with no labels, page completely blank, no faces, no flags, no emblems, no computers, no modern objects; no text, no letters, no flags."
+          },
+          "side_image": {
+            "description": "Close view of a formal council table in the 1940s: identical plain high-backed chairs stand around it, one is occupied by a diplomat in a dark suit leaning forward mid-sentence with one hand raised as if to object, blank folders in front of each seat. Production note: face generic and not resembling any real person, no readable text on the folders, no flags or emblems, formal tense mood.",
+            "caption": "One seat at the table can say no to everyone else.",
+            "shutterstock_query": "1940s council table high-backed chairs diplomat objecting",
+            "ai_prompt": "Photorealistic vertical close-up of a formal council table in the 1940s, identical plain high-backed chairs around it, one occupied by a diplomat in a dark 1940s suit leaning forward mid-sentence with one hand raised as if to object, blank folders in front of each seat, warm formal light, tense formal mood, 1940s furnishings only, generic face not resembling any real person; no readable text, no flags, no emblems, no microphones, no modern objects; no text, no letters, no flags."
+          }
+        }
+      ]
     }
   ]
 }
