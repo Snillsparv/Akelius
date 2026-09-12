@@ -589,8 +589,10 @@ X?"); Upplysningen är Movement X med frågan "Which movement is Movement X?"
   och luft (skriv försiktigt, inte "bakterier"), byggde på en antik grekisk
   filosof (namnges inte), vandrade mellan hov i Hamadan och Isfahan, var
   vesir, satt kort i fängelse, dog 1037 i Hamadan. Universitet: hans
-  metafysik och Europa, striden med senare teologer, myten om det totala
-  minnet. Fångar: "Sina", "Avicenna", "Avicennian". Distraktorer: al-Razi,
+  metafysik och Europa, striden med senare teologer, berättelsen om de fyrtio genomläsningarna
+  av Metafysiken tills en kort bok av al-Farabi öppnade den är hans egen
+  självbiografi via eleven al-Juzjani och läses kritiskt, inte som legend
+  mot självbiografi. Fångar: "Sina", "Avicenna", "Avicennian". Distraktorer: al-Razi,
   Ibn Rushd, al-Biruni, Ibn al-Haytham, Maimonides, al-Farabi, al-Zahrawi,
   Hippocrates, Galen. Bilder: 1000-talets Centralasien, apotek med krukor
   utan etiketter, palatsbibliotek med stängda böcker, karavanväg.
