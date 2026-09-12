@@ -524,8 +524,8 @@ karavaner, hamnar, gårdar, bibliotek utan synlig text.
 
 Korsläckor att vakta: inget av de sex seten namnger något av de andra fem.
 Al-Khwarizmisetet och Ibn Sina-setet skriver "a great library in Baghdad"
-respektive ingenting om Bagdadhuset; Bagdadsetet skriver "a young
-mathematician from the east" utan namn. Aristoteles, Platon, Sokrates,
+respektive ingenting om Bagdadhuset; Bagdadsetet skriver "a
+  mathematician from the east" utan namn. Aristoteles, Platon, Sokrates,
 Alexander, Julius Caesar, Kopernikus, Galilei, Newton, Columbus, Magellan,
 Djingis khan, digerdöden, renässansen, reformationen, amerikanska och
 franska revolutionen, Washington och Napoleon namnges inte i löptexten
@@ -604,8 +604,8 @@ X?"); Upplysningen är Movement X med frågan "Which movement is Movement X?"
   papperet från Kina (legenden om kinesiska fångar efter slaget vid Talas
   751 markeras som berättelse; pappersbruk i Bagdad omkring 794),
   kalifen al-Ma'mun som beskyddare, astronomer som mätte jordens omkrets,
-  bröderna Banu Musa och deras maskiner, en ung matematiker från öster
-  (namnges inte), arvet till Europa via översättningar i Toledo och på
+  bröderna Banu Musa och deras maskiner, en matematiker från öster
+  (namnges inte, han var vuxen man under al-Ma'mun), arvet till Europa via översättningar i Toledo och på
   Sicilien på 1100-talet, staden plundrad 1258 av armén från stäpperna
   (ledaren namnges inte, berättelsen om floden svart av bläck är en
   berättelse). Universitet: historikerna är oense om huset var en stor
@@ -618,8 +618,9 @@ X?"); Upplysningen är Movement X med frågan "Which movement is Movement X?"
   synlig skrift, Tigris med båtar.
 - **Ibn Battuta**: Mr X. Född 1304 i Tanger i Marocko, lämnade hemmet 1325
   vid 21 år för pilgrimsfärden till Mecka, reste i nära trettio år och
-  omkring 120 000 kilometer (skriv "about three times as far as the most
-  famous traveler from Venice", Marco Polo får namnges, är inget set, men
+  omkring 120 000 kilometer enligt vanliga uppskattningar (skriv "several
+  times as far as the most famous traveler from Venice", kvoten är inte
+  fastställd, Marco Polo får namnges, är inget set, men
   då inte distraktor på det kortet), Östafrikas kust med Kilwa och
   Mogadishu, Anatolien, stäppriket vid Volga, Konstantinopel, Centralasien,
   Delhi där sultanen gjorde honom till domare i flera år, Maldiverna som
@@ -646,9 +647,10 @@ X?"); Upplysningen är Movement X med frågan "Which movement is Movement X?"
   kaffehusen, en engelsk vetenskapsmans lagar som förebild (namnges inte),
   Beccaria mot tortyr och dödsstraff 1764, Wollstonecraft 1792 om kvinnors
   rättigheter, idéerna bakom revolutionerna i Nordamerika och Frankrike
-  (seten namnges inte). Universitet: skuggsidan, tänkare som rättfärdigade
-  slaveri och rashierarkier medan andra som Condorcet och Raynal fördömde
-  dem, eurocentrismen, kritiken från 1900-talet om förnuftets baksida.
+  (seten namnges inte). Universitet: skuggsidan, en del skribenter som använde den nya vetenskapen till att
+  rangordna folk medan slavhandeln pågick, och andra som Condorcet och
+  Raynal som angrep slaveriet; de stora filosoferna försvarade inte
+  slaveriet, skriv inte så, eurocentrismen, kritiken från 1900-talet om förnuftets baksida.
   Fångar: "Enlightenment", "enlightened", "enlighten", "Age of Reason"
   (ordet "reason" ensamt är tillåtet och centralt), svenska "upplysning" i
   alla former och "förnuftets tidsålder". Distraktorer: The Renaissance,
