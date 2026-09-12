@@ -21,10 +21,12 @@ ordlista eller bild.
 
 - 50 ämnen, 250 kort, 500 bilder, 100 procent tvåspråkigt (leverans 1-8).
   Masterlistan med 50 ämnen är därmed färdigproducerad.
-- Näst på tur: **vänta på val**. Förslaget på utökad lista mot 600+ kort ligger
-  i `docs/forslag-utokad-lista.md` (84 ämnen i tre nivåer med frågor till
-  Jonas och Roger). Ingen ny produktion förrän Jonas eller Roger valt ämnen,
-  kategorietiketter och kortantal per ämne.
+- Pågår: leverans 9 ur den utökade listan i `docs/forslag-utokad-lista.md`,
+  vetenskapsblocket med fem kort per ämne: Newton, Einstein, Marie Curie,
+  Pasteur, Turing, Florence Nightingale (rad 51-54, 59, 79). Klartecken att
+  fortsätta gavs 2026-09-12. Frågorna om trekortsset, nya kategorietiketter,
+  ordning och nivå 3 är fortfarande öppna, så tills vidare produceras bara
+  femkortsämnen med befintliga etiketter, i förslagets ordning.
 - Öppet hos Roger: baksidestexter för befintliga kort, nivå 3-kort,
   "about X years ago" kontra århundraden.
 
@@ -128,6 +130,9 @@ Verifiera sidorna vid behov med Playwright: `node` + `playwright-core` med
   typografiska citattecken ”…”; Kopernikus, Djingis khan, tainofolket.
 - Presenskravet är hävt (2026-08-26); befintliga presenstexter behålls.
 - Sju ord per mening är riktmärke, inte lag.
+- Ett annat sets svar får stå som distraktor bland svarsalternativen
+  (2026-09-12). I löptexten namnges andra sets svar fortfarande inte.
+- Gifta kvinnor anonymiseras Mrs X = fru X (infört med Marie Curie, leverans 9).
 
 ## Rapportformat efter en körning
 

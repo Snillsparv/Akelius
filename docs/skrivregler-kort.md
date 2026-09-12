@@ -382,3 +382,123 @@ Churchill eller FN vid namn.
   fenomen. Fångar: "landing", "Moon landing"; ordet "Moon" är en tillåten
   ledtråd. Bilder: inga flaggor, inga läsbara texter på dräkter eller
   landare, jorden över horisonten.
+
+## Ämnesnoter, leverans 9
+
+Första leveransen ur den utökade listan (`docs/forslag-utokad-lista.md`),
+vetenskapsblockets femkortsämnen: rad 51 Newton, 52 Einstein, 53 Marie
+Curie, 54 Pasteur, 59 Turing, 79 Florence Nightingale. Kategori för alla
+sex set: `science` (etiketten finns redan, jämför Kopernikus, Galilei,
+Darwin). Distraktorer ur vetenskapshistorien, gärna kvinnor och forskare
+utanför Europa: Galileo Galilei, Nicolaus Copernicus, Johannes Kepler,
+Charles Darwin, Michael Faraday, James Clerk Maxwell, Niels Bohr, Max
+Planck, Ernest Rutherford, Lise Meitner, Rosalind Franklin, Robert Koch,
+Edward Jenner, Joseph Lister, Alexander Fleming, Ignaz Semmelweis, Mary
+Seacole, Elizabeth Blackwell, Clara Barton, Charles Babbage, Ada Lovelace,
+Grace Hopper, John von Neumann, Claude Shannon, Gottfried Leibniz, Robert
+Hooke, Edmond Halley, Chien-Shiung Wu, C. V. Raman, Hideki Yukawa, Abdus
+Salam. Sedan 2026-09-12 får ett annat sets svar stå som distraktor, men
+löptexten namnger fortfarande inte andra sets svar.
+
+Korsläckor att vakta: inget av de sex seten namnger något av de andra
+fem i elevvänd text. Einsteinsetet skriver "the laws of motion from two
+hundred years earlier", inte Newton. Inget set namnger Galilei, Kopernikus,
+Darwin, Hitler eller Churchill i löptexten, och skriver inte "World War I"
+eller "World War II" som egennamn; "the war", "a world war", "the great war
+that begins in 1939" räcker. Nobelpriset får nämnas fritt, det är inget set.
+
+Anonymisering: Mr X för männen, Miss X för Nightingale, Mrs X för Curie
+(svenska: fru X). Frågan alltid "Who is Mr X?" respektive "Who is Miss X?",
+"Who is Mrs X?".
+
+- **Isaac Newton**: Mr X. Född i en by i England 1642 enligt dåtidens
+  kalender, fadern död före födseln, pestens år 1665-1666 hemma på gården
+  då de stora idéerna föds, prismat som visar att vitt ljus består av
+  alla färger, spegelteleskopet 1668, de tre rörelselagarna och den
+  allmänna gravitationen i boken 1687, samma kraft som får äpplet att falla
+  håller månen i sin bana. Äpplet är en berättelse han själv spred på
+  ålderns höst, skriv "a story says". Striden med Leibniz om vem som
+  uppfann den nya matematiken, alkemin och teologin han ägnade lika mycket
+  tid åt, chefen för myntverket som jagade falskmyntare, "standing on the
+  shoulders of giants" i brevet 1675, begravd i Westminster Abbey.
+  Universitet: hur mycket han byggde på andra, alkemin, den svåra
+  personligheten. Fångar: "Newton", "Newtonian", "newton", "Isaac".
+  Bilder: 1600-talets England, peruker, ljus och prisma, inga läsbara
+  boksidor, inga formler.
+- **Albert Einstein**: Mr X. Född i Ulm 1879, sen att tala enligt
+  familjelegenden, kompassen som barn, patentkontoret i Bern, underåret
+  1905 med fyra artiklar: ljuset som partiklar, molekylernas dans i vatten,
+  den speciella relativiteten, massa och energi som samma sak. Allmänna
+  relativiteten 1915, solförmörkelsen 1919 som visade att ljus böjs vid
+  solen och gjorde honom världsberömd, Nobelpriset för ljuset som partiklar,
+  inte för relativiteten. Lämnar Tyskland 1933 när diktatorn tar makten,
+  Princeton, brevet till presidenten 1939 om att en bomb var möjlig, ångern
+  efteråt och fredsarbetet, tackade nej till att bli Israels president 1952.
+  Universitet: vad relativiteten ändrade, kvantfysiken han aldrig
+  accepterade, brevet och ansvaret. Formeln skrivs aldrig ut med bokstäver,
+  beskriv den med ord. Fångar: "Einstein", "Albert", "Einsteinian";
+  "relativity" är en tillåten ledtråd. Bilder: inga porträtt med det kända
+  håret, inga tavlor med formler, inga läsbara papper.
+- **Marie Curie**: Mrs X. Född i Warszawa 1867 under ryskt styre, flickor
+  fick inte läsa vid universitetet, det hemliga "flygande universitetet",
+  guvernant i åtta år för att betala systerns studier, Paris 1891, bäst i
+  klassen i fysik, gifter sig 1895 med en fysiker (skriv "her husband",
+  aldrig hans namn), två nya grundämnen 1898 varav ett uppkallat efter
+  hemlandet, tonvis med malm kokad i ett skjul, första kvinnan att få
+  Nobelpriset 1903, maken dör i en olycka 1906, första kvinnliga
+  professorn vid Sorbonne, andra Nobelpriset 1911 som första människa med
+  två, röntgenbilar vid fronten 1914-1918 med dottern (skriv "her
+  daughter"), dör 1934 av sjukdom från strålningen, anteckningsböckerna
+  strålar än, Panthéon 1995. Universitet: hur priset 1903 först bara skulle
+  gå till männen, pressen 1911, strålningens pris. Fångar: "Curie",
+  "curie", "Marie", "Maria", "Skłodowska", "Pierre", "Irène". Bilder:
+  1890-talets Paris, skjulet, glödande glas i mörker, inga etiketter.
+- **Louis Pasteur**: Mr X. Kemist från östra Frankrike, kristallerna 1848,
+  jäsning orsakas av levande mikrober, svanhalskolven 1859-1861 som
+  avgjorde att liv inte uppstår av sig självt i buljong, silkesmaskarnas
+  sjukdom 1865, uppvärmningen som gör vin, öl och mjölk hållbar (skriv
+  "gentle heating kills the germs", ordet för processen är förbjudet),
+  hönskoleran 1879 där en glömd odling gav idén om försvagade smittämnen,
+  mjältbrandsvaccinet 1881 på fåren i Pouilly-le-Fort, rabiesvaccinet 1885
+  på pojken Joseph Meister, institutet i Paris 1888, tre döttrar döda i
+  tyfus, slaganfallet 1868, rivalen i Berlin (Robert Koch, får namnges,
+  är inget set). Universitet: anteckningsböckerna som visade att han ibland
+  förskönade sina resultat, etiken kring Meister, striden med Koch.
+  Fångar: "Pasteur", "pasteur", "Louis", alla former av "pasteuriz".
+  Svenska: "pastör" i alla former förbjudet. Bilder: 1800-talets
+  laboratorium, glaskolvar, får, inga etiketter eller skyltar.
+- **Alan Turing**: Mr X. Skolpojken som sprang milsvitt, vännen som dog
+  1930, Cambridge, artikeln 1936 om en tänkt maskin som kan räkna allt som
+  går att räkna, datorns idé före datorn, Princeton, Bletchley Park från
+  1939, den tyska kodmaskinen Enigma, bomben, den elektromekaniska maskinen
+  som sökte inställningar, byggde vidare på polska matematikers arbete
+  före kriget (måste nämnas), ubåtskriget i Atlanten, hemligheten som
+  hölls i trettio år, datorn i Manchester 1948, artikeln 1950 om huruvida
+  maskiner kan tänka och spelet där en domare inte ska kunna skilja
+  människa från maskin, mönstren i naturen 1952. Döms 1952 enligt dåtidens
+  lag för sitt privatliv, förlorar sitt säkerhetstillstånd, dör 1954 av
+  cyanid, dödsorsaken bedömdes som självmord, regeringens ursäkt 2009 och
+  benådningen 2013. Känslighet: kort 1 och 2 utelämnar domen helt; kort
+  3-5 nämner den i en eller två neutrala meningar, "a law of that time
+  punishes him for loving another man", ingen medicinsk detalj, ingen
+  moralisering, ursäkten och benådningen nämns alltid i samma andetag.
+  Klassrummen finns i Tanzania och Bhutan; lyft formuleringen till Jonas.
+  Fångar: "Turing", "Alan". Premiärministern namnges inte. Bilder: 1940-
+  talets maskiner utan läsbara paneler, inga sedlar, inga porträtt.
+- **Florence Nightingale**: Miss X. Född 1820 i en italiensk stad hon
+  fick sitt namn efter (staden namnges inte), rik engelsk familj, säger
+  sig ha hört ett kall (tro markeras som tro), familjen emot, utbildning
+  vid ett sjukhus i Tyskland, Krimkriget 1854 med 38 sjuksköterskor till
+  militärsjukhuset i Scutari vid Konstantinopel, smutsen, dödligheten i
+  sjukdom större än i sår, nattronden med lampan (motivet får användas
+  men inte som fast epitet med stor bokstav), dödligheten föll framför
+  allt efter att en sanitetskommission 1855 rensade avlopp (historikerna
+  är ense om det), hem 1856 som nationalhjälte, diagrammen som visade
+  varför soldaterna dog, första kvinnan i det statistiska sällskapet 1858,
+  boken om sjukvård 1859, sjuksköterskeskolan i London 1860, sängliggande
+  i årtionden av en sjukdom från Krim, rådgivare om Indiens sanitet, Order
+  of Merit 1907 som första kvinna. Balans: Mary Seacole från Jamaica, som
+  vårdade soldater i samma krig och nekades plats i gruppen, får nämnas
+  och är bra distraktor. Fångar: "Nightingale", "nightingale", "Florence",
+  "Lady with the Lamp". Bilder: 1850-talets sjukhussal, lampa, inga
+  läsbara diagram, ingen gore.

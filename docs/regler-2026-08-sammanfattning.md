@@ -76,3 +76,14 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
    inte årtal" — är "in the fifth century BC" att föredra?
 2. Baksidestexter ("extra comments", bakgrund) — ska vi producera dem för de 110
    befintliga korten? (Ej uttryckligen besvarad i svaret 2026-08-23.)
+
+## Jonas besked 2026-09-12 (efter leverans 8)
+
+- Ett annat sets svar får stå som distraktor i svarsalternativen, t.ex.
+  "World War II" på kalla kriget-korten. Löptexten namnger fortfarande inte
+  andra sets svar.
+- Gmail saknades i produktionssessionen; steget hoppas över tills vidare.
+- Månlandningen kort 4: blandad publik att föredra, bilden görs om.
+- Frågorna om den utökade listan (trekortsset, nya kategorietiketter,
+  ordning, nivå 3) besvaras senare. Klartecken att fortsätta produktionen
+  ur förslaget under tiden; leverans 9 blir vetenskapsblockets femkortsämnen.

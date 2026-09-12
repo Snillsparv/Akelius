@@ -1,6 +1,9 @@
 # Förslag: utökad ämneslista mot 600+ kort
 
-Status: förslag, inget producerat. Väntar på Jonas eller Rogers val.
+Status: klartecken att fortsätta gavs 2026-09-12. Produktionen börjar med
+vetenskapsblockets femkortsämnen (rad 51-54, 59, 79) som leverans 9. Frågorna
+1-4 nedan är fortfarande obesvarade, så trekortsämnen, nya kategorietiketter
+och nivå 3 väntar.
 Underlag: Rogers besked 2026-08-23 (idéhistoria och utveckling viktigast,
 gärna matematiker, fysiker och nobelpristagare, målgrupp eleverna i Tanzania
 och Bhutan, över 600 kort) och 2026-08-24 (ytterligare kanske femhundra kort).
