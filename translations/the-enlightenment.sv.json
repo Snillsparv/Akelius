@@ -1,0 +1,218 @@
+{
+  "slug": "the-enlightenment",
+  "person_sv": "Upplysningen",
+  "cards": [
+    {
+      "title": "Ställ dina egna frågor",
+      "text_sentences": [
+        "Rörelsen X sprider sig över Europa på sjuttonhundratalet.",
+        "Före den här tiden lyder de flesta människor bara kungen, herrarna och kyrkan.",
+        "Nu säger några tänkare något nytt.",
+        "Varje människa kan använda sitt eget förstånd, säger de.",
+        "Ställ frågor, säger de, och tro inte bara på gamla regler.",
+        "I ett land planerar författare en jättebok som försöker förklara allt i världen.",
+        "I livliga kaffehus sitter män i timmar och diskuterar dessa nya idéer.",
+        "I fina rum i Paris är kvinnor värdinnor för samtal där tänkare möts och talar fritt.",
+        "Sakta börjar allt fler människor tänka på detta sätt."
+      ],
+      "question": "Vilken rörelse är rörelsen X?",
+      "options": [
+        "Renässansen",
+        "Den vetenskapliga revolutionen",
+        "Upplysningen",
+        "Romantiken"
+      ],
+      "words": [
+        {
+          "word": "lyda",
+          "explanation": "att göra det som någon som bestämmer säger åt dig"
+        },
+        {
+          "word": "kaffehus",
+          "explanation": "en plats där man sitter, dricker kaffe och pratar"
+        },
+        {
+          "word": "värdinna",
+          "explanation": "en kvinna som bjuder in gäster och tar emot dem"
+        },
+        {
+          "word": "diskutera",
+          "explanation": "att prata om ett ämne när man inte är överens"
+        }
+      ],
+      "main_caption": "Män samlas i kaffehus och pratar i timmar om djärva nya idéer.",
+      "side_caption": "Förut lyder de flesta människor bara kungen, herrarna och kyrkan."
+    },
+    {
+      "title": "En bok som inte går att stoppa",
+      "text_sentences": [
+        "Rörelsen X växer snabbt på sjuttonhundratalet.",
+        "Två författare, Diderot och d'Alembert, leder arbetet med en enorm encyklopedi som ska förklara all mänsklig kunskap.",
+        "Den ska ha tusentals långa artiklar, om allt från jordbruksredskap till stjärnorna.",
+        "Snart förbjuder kyrkans och statens ledare encyklopedin, eftersom de fruktar dess farliga idéer.",
+        "Diderot slutar inte, och han fortsätter att arbeta halvt i hemlighet.",
+        "Sakta växer encyklopedin till många tjocka böcker.",
+        "En berömd författare inom rörelsen, Voltaire, blir känd för en annan kamp.",
+        "År 1762 avrättar domare i Frankrike felaktigt en far som tillhör en liten religiös grupp.",
+        "Voltaire skriver och argumenterar i flera år, tills mannens namn till slut rentvås.",
+        "Han säger att människor av varje tro förtjänar rättvis behandling inför lagen.",
+        "Denna idé, som kallas tolerans, blir central för rörelsen."
+      ],
+      "question": "Vilken rörelse är rörelsen X?",
+      "options": [
+        "Upplysningen",
+        "Reformationen",
+        "Humanismen",
+        "Industriella revolutionen"
+      ],
+      "words": [
+        {
+          "word": "encyklopedi",
+          "explanation": "en enorm bok, eller flera böcker, som förklarar många olika ämnen"
+        },
+        {
+          "word": "förbjuda",
+          "explanation": "att säga officiellt att något inte är tillåtet"
+        },
+        {
+          "word": "avrätta",
+          "explanation": "att döda en person som ett straff enligt lagen"
+        },
+        {
+          "word": "tolerans",
+          "explanation": "att acceptera att andra människor kan tro eller leva på ett annat sätt"
+        }
+      ],
+      "main_caption": "Arbetarna fortsätter trycka encyklopedin, även om den är förbjuden.",
+      "side_caption": "Människor med olika tro delar en stad i fred. Det är vad tolerans betyder."
+    },
+    {
+      "title": "En kväll med djärva samtal",
+      "text_sentences": [
+        "Rörelsen X formar nya idéer om styre på sjuttonhundratalet.",
+        "En tänkare, Montesquieu, säger att makten aldrig bör ligga på ett enda ställe.",
+        "Lagstiftning, styre och dömande ska, menar han, vara tre skilda makter.",
+        "Varje makt bör bevaka och begränsa de andra två, säger han.",
+        "En annan tänkare, Rousseau, ställer en annan fråga: varför ska någon alls lyda en härskare?",
+        "Han svarar att ett rättvist styre vilar på ett samhällsfördrag, en överenskommelse mellan fria människor.",
+        "Långt innan detta hävdar en engelsk tänkare vid namn Locke att härskare behöver folkets samtycke.",
+        "Mycket av detta samtal sker i salonger, regelbundna sammankomster som hålls i privata hem.",
+        "I Paris är en kvinna vid namn madame Geoffrin värdinna för en av tidens mest berömda salonger.",
+        "Där möts tänkare, diskuterar och delar ny text långt innan den trycks.",
+        "Årtionden senare inspirerar dessa idéer om makt och samtycke revolutionerna i Nordamerika och Frankrike."
+      ],
+      "question": "Vilken rörelse är rörelsen X?",
+      "options": [
+        "Motreformationen",
+        "Den vetenskapliga revolutionen",
+        "Positivismen",
+        "Upplysningen"
+      ],
+      "words": [
+        {
+          "word": "samhällsfördrag",
+          "explanation": "en överenskommelse mellan människor om hur de ska styras"
+        },
+        {
+          "word": "samtycke",
+          "explanation": "att säga ja och gå med på något"
+        },
+        {
+          "word": "salong",
+          "explanation": "en regelbunden privat sammankomst där man pratar om idéer"
+        },
+        {
+          "word": "lagstiftning",
+          "explanation": "arbetet med att skriva de lagar som ett land följer"
+        }
+      ],
+      "main_caption": "I rum som detta delar tänkare djärva nya idéer om makt och styre.",
+      "side_caption": "En rättvis härskare behöver folkets samtycke, säger några tänkare nu."
+    },
+    {
+      "title": "Modet att tänka",
+      "text_sentences": [
+        "En tidskrift i Berlin trycker en fråga: vad är rörelsen X?",
+        "År 1784 svarar en filosof vid namn Kant med en hel essä.",
+        "En rad i den blir berömd: ha mod att använda ditt eget förstånd.",
+        "Lita inte bara på gamla auktoriteter, säger han, och tänk själv, noggrant och modigt.",
+        "Tjugo år tidigare angriper en italiensk tänkare vid namn Beccaria två vanliga metoder i domstolarna.",
+        "Tortyr som används för att tvinga fram bekännelser är grym och opålitlig, menar han.",
+        "Dödsstraffet stoppar inte ens brott, tillägger han, och domstolar bör använda rättvisare metoder i stället.",
+        "År 1792 ställer en brittisk författare vid namn Wollstonecraft en djärv fråga: varför inte utbilda kvinnor lika noggrant som män?",
+        "Kvinnor verkar bara svagare för att de får en sämre utbildning, menar hon.",
+        "Inom hela rörelsen beundrar tänkare ett lysande exempel: en engelsk vetenskapsmans rörelselagar, publicerade ett sekel tidigare.",
+        "Om noggrant förnuft kan förklara hur planeterna rör sig, frågar de, varför inte använda det på lagar och styre?"
+      ],
+      "question": "Vilken rörelse är rörelsen X?",
+      "options": [
+        "Romantiken",
+        "Upplysningen",
+        "Renässansen",
+        "Industriella revolutionen"
+      ],
+      "words": [
+        {
+          "word": "auktoritet",
+          "explanation": "en person eller grupp som har makt att säga åt andra vad de ska göra"
+        },
+        {
+          "word": "tortyr",
+          "explanation": "att med avsikt orsaka någon stor smärta; här: för att tvinga fram en bekännelse"
+        },
+        {
+          "word": "bekännelse",
+          "explanation": "när en person erkänner, ofta under press, att hen har gjort något"
+        },
+        {
+          "word": "förnuft",
+          "explanation": "noggrant tänkande som används för att komma fram till ett svar"
+        }
+      ],
+      "main_caption": "En domstol från sjuttonhundratalet. Några tänkare ifrågasätter nu dess hårdaste metoder.",
+      "side_caption": "Låsta dörrar och gamla regler. Nu frågar sig några tänkare om reglerna är rättvisa."
+    },
+    {
+      "title": "Vems förnuft räknas?",
+      "text_sentences": [
+        "Historiker tvistar fortfarande om arvet efter rörelsen X, en rörelse av filosofer på sjuttonhundratalet.",
+        "Dess tänkare prisar förnuft, frihet och lika rättigheter för alla människor.",
+        "Ändå använder några skribenter från tiden den nya vetenskapen för att rangordna folkslag, och kallar hela nationer naturligt underlägsna.",
+        "Samtidigt växer de europeiska rikena, och handeln med förslavade människor från Afrika till Amerika fortsätter.",
+        "Tänkare inom rörelsen, som Condorcet och Raynal, angriper slaveriet och kolonial grymhet i sina egna texter.",
+        "Senare historiker frågar sig också vems förnuft rörelsen egentligen kretsar kring: mestadels europeiska män av en viss klass.",
+        "Kvinnor är värdinnor för salongerna men får sällan publicera.",
+        "Koloniserade folk och de fattiga sitter aldrig vid salongens bord.",
+        "På nittonhundratalet ställer filosofer en mörkare fråga: kan kall beräkning i sig leda till fruktansvärt våld?",
+        "Ändå lär skolor på varje kontinent i dag ut dess centrala idé: ifrågasätt auktoriteter, och tänk själv utifrån bevis."
+      ],
+      "question": "Vilken rörelse är rörelsen X?",
+      "options": [
+        "Humanismen",
+        "Motreformationen",
+        "Upplysningen",
+        "Positivismen"
+      ],
+      "words": [
+        {
+          "word": "underlägsen",
+          "explanation": "lägre i värde eller förmåga än andra; här: vad några skribenter felaktigt påstod om hela folkslag"
+        },
+        {
+          "word": "rike",
+          "explanation": "många länder och folk som styrs av en avlägsen makt"
+        },
+        {
+          "word": "koloniserad",
+          "explanation": "att leva under kontroll av en avlägsen härskande makt"
+        },
+        {
+          "word": "beräkning",
+          "explanation": "noggrann räkning eller tänkande som används för att lösa ett problem"
+        }
+      ],
+      "main_caption": "Dess böcker prisar förnuft och frihet. Historiker tvistar fortfarande om vad det betydde för alla andra.",
+      "side_caption": "Rikena blir rika på varor från långt borta. Filosofernas lovord om frihet når inte alla."
+    }
+  ]
+}
