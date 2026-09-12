@@ -501,3 +501,158 @@ Anonymisering: Mr X för männen, Miss X för Nightingale, Mrs X för Curie
   och är bra distraktor. Fångar: "Nightingale", "nightingale", "Florence",
   "Lady with the Lamp". Bilder: 1850-talets sjukhussal, lampa, inga
   läsbara diagram, ingen gore.
+
+## Ämnesnoter, leverans 10
+
+Andra leveransen ur den utökade listan, i förslagets ordning bland
+femkortsämnena: rad 61 Arkimedes, 62 al-Khwarizmi, 71 Ibn Sina, 72 Visdomens
+hus i Bagdad, 74 Ibn Battuta, 76 Upplysningen. Kategorier: `mathematics`
+(ny etikett, svenska "matematik") för Arkimedes och al-Khwarizmi, `ideas` för
+Ibn Sina, Visdomens hus och Upplysningen, `exploration` för Ibn Battuta.
+Bilder produceras när bildtjänstens krediter är påfyllda; briefer skrivs
+ändå färdiga nu.
+
+Islamisk guldålder, bindande för fyra av seten: Muhammed avbildas aldrig
+och namnges inte i löptexten (skriv "the Prophet's city" bara om det
+behövs, hellre "Mecca" och "the pilgrimage"). Ingen arabisk kalligrafi i
+någon bild, inte heller pseudokalligrafi eller skriftband på väggar och
+tyger; manuskript visas stängda, på avstånd eller i sådan vinkel att inga
+tecken syns; astrolabier och instrument utan gravyr; geometriska
+mönster är tillåtna. Tro markeras som tro. Koranen får nämnas som bok
+("the holy book of Islam"). Kaba och böneplatser avbildas inte; visa
+karavaner, hamnar, gårdar, bibliotek utan synlig text.
+
+Korsläckor att vakta: inget av de sex seten namnger något av de andra fem.
+Al-Khwarizmisetet och Ibn Sina-setet skriver "a great library in Baghdad"
+respektive ingenting om Bagdadhuset; Bagdadsetet skriver "a young
+mathematician from the east" utan namn. Aristoteles, Platon, Sokrates,
+Alexander, Julius Caesar, Kopernikus, Galilei, Newton, Columbus, Magellan,
+Djingis khan, digerdöden, renässansen, reformationen, amerikanska och
+franska revolutionen, Washington och Napoleon namnges inte i löptexten
+(alla är set); skriv "an ancient Greek philosopher", "an English scientist's
+laws", "the revolutions in North America and France", "a great plague",
+"the army from the steppes". Orden "Greek", "Roman", "Mongol" som adjektiv
+är tillåtna eftersom de inte är något sets svar. Alexandria, Baghdad,
+Mecca, Tangier, Syracuse, Paris är avsiktliga ledtrådar och får nämnas.
+
+Anonymisering: Mr X för personerna; Visdomens hus är Place X med frågan
+"Which place is Place X?" (svenska "platsen X", "Vilken plats är platsen
+X?"); Upplysningen är Movement X med frågan "Which movement is Movement X?"
+(svenska "rörelsen X").
+
+- **Archimedes**: Mr X. Grekisk matematiker i Syrakusa på Sicilien, född
+  omkring 287 f.Kr., troligen studier i Alexandria, hävstången ("give me a
+  place to stand" är ett senare citat, skriv "a story says"), badkaret och
+  kronan är en berättelse från Vitruvius två sekler senare (skriv "a famous
+  story says", ropet i badet nämns inte med ordet), vattenskruven för
+  bevattning, pi inringat mellan två bråk med månghörningar, klotets volym
+  som två tredjedelar av cylindern och att han ville ha figuren på sin
+  gravsten (Cicero fann graven 75 f.Kr.), Sandräknaren med enorma tal,
+  krigsmaskinerna under romarnas belägring 214-212 f.Kr. (brännspeglarna
+  är en sen legend, utelämna eller markera), dödad av en romersk soldat när
+  staden föll trots order att skona honom ("do not disturb my circles" är
+  en senare berättelse), palimpsesten: en avskrift från 900-talet skrapades
+  och överskrevs med en bönbok på 1200-talet, hittades 1906 och lästes med
+  modern bildteknik 1998-2008 och avslöjade Metoden. Universitet: vad som
+  är dokumenterat och vad som är legend, metoden som föregrep integralen.
+  Fångar: "Archimedes", "Archimedean", "Eureka", "Archimedes' screw" (skriv
+  "the water screw"). Distraktorer: Euclid, Pythagoras, Eratosthenes, Hero
+  of Alexandria, Thales, Hipparchus, Apollonius, Hypatia, Ptolemy. Bilder:
+  antik hamnstad, skruv i flod, badkar utan person, geometriska figurer i
+  sand utan bokstäver, inga togor med text, inga sköldar med emblem.
+- **al-Khwarizmi**: Mr X. Persisk lärd i Bagdad omkring 780-850 under
+  kalifen al-Ma'mun (får namnges), arbetade vid det stora biblioteket
+  (namnges inte), boken om "restoring and balancing" som gav Europa ordet
+  algebra (ordet "algebra" är en tillåten ledtråd, det kommer från
+  boktiteln, inte från hans namn), lösning av andragradsekvationer i ord
+  och figurer utan symboler, boken om de indiska siffrorna med nollan som
+  spreds till Europa via latinska översättningar på 1100-talet, hans
+  latiniserade namn gav ordet för en steg-för-steg-regel (ordet
+  "algorithm" är förbjudet, liksom "Algoritmi"), astronomiska tabeller,
+  geografiboken med förbättrad världskarta, namnet kommer från en region i
+  Centralasien (namnges inte, "Khwarazm" förbjudet, skriv "a region east of
+  the Caspian Sea"). Universitet: vad som är hans eget och vad som är arv
+  från Indien och Grekland, hur sifferboken överlevde bara på latin.
+  Fångar: "Khwarizmi", "Khwarazm", "Algoritmi", "algorithm", "algorithmic".
+  Distraktorer: Omar Khayyam, al-Kindi, al-Biruni, Ibn al-Haytham,
+  Fibonacci, Brahmagupta, Thabit ibn Qurra, al-Battani, Nasir al-Din
+  al-Tusi. Bilder: räknebräde med stenar, karavan, observatorium, kartor
+  utan text, inga siffror i bild.
+- **Ibn Sina**: Mr X. Född 980 nära Buchara i dagens Uzbekistan, persisk,
+  enligt sin egen självbiografi kunde han den heliga boken utantill vid tio
+  år (skriv "he says"), läkare vid sexton eller arton, botade emiren och
+  fick tillgång till palatsbiblioteket, den stora medicinboken i fem delar
+  ("Canon" får nämnas som boktitel, hellre "his great book of medicine")
+  som användes vid Europas universitet in på 1600-talet, boken om
+  helandet med filosofi och naturvetenskap, tankeexperimentet med den
+  svävande människan, tanken att sjukdomar sprids av något osynligt i vatten
+  och luft (skriv försiktigt, inte "bakterier"), byggde på en antik grekisk
+  filosof (namnges inte), vandrade mellan hov i Hamadan och Isfahan, var
+  vesir, satt kort i fängelse, dog 1037 i Hamadan. Universitet: hans
+  metafysik och Europa, striden med senare teologer, myten om det totala
+  minnet. Fångar: "Sina", "Avicenna", "Avicennian". Distraktorer: al-Razi,
+  Ibn Rushd, al-Biruni, Ibn al-Haytham, Maimonides, al-Farabi, al-Zahrawi,
+  Hippocrates, Galen. Bilder: 1000-talets Centralasien, apotek med krukor
+  utan etiketter, palatsbibliotek med stängda böcker, karavanväg.
+- **The House of Wisdom in Baghdad**: Place X. Bagdad grundat 762 som rund
+  stad av kalifen al-Mansur, världens största stad omkring år 800,
+  översättningsrörelsen på 700-900-talen: grekiska, persiska och indiska
+  verk till arabiska, Hunayn ibn Ishaq som chefsöversättare (berättelsen
+  att han fick böckernas vikt i guld är en legend, skriv "a story says"),
+  papperet från Kina (legenden om kinesiska fångar efter slaget vid Talas
+  751 markeras som berättelse; pappersbruk i Bagdad omkring 794),
+  kalifen al-Ma'mun som beskyddare, astronomer som mätte jordens omkrets,
+  bröderna Banu Musa och deras maskiner, en ung matematiker från öster
+  (namnges inte), arvet till Europa via översättningar i Toledo och på
+  Sicilien på 1100-talet, staden plundrad 1258 av armén från stäpperna
+  (ledaren namnges inte, berättelsen om floden svart av bläck är en
+  berättelse). Universitet: historikerna är oense om huset var en stor
+  akademi eller främst kalifens bibliotek, mycket av bilden är senare
+  legend. Fångar: "House of Wisdom", "Wisdom", "Bayt al-Hikma", "Hikma".
+  Distraktorer: The Library of Alexandria, The Academy in Athens,
+  Al-Qarawiyyin in Fez, Al-Azhar in Cairo, The University of Bologna, The
+  Library of Cordoba, Nalanda, Sankore in Timbuktu. Bilder: rund stad från
+  ovan, papperstillverkning, observatorium, bokhyllor på avstånd utan
+  synlig skrift, Tigris med båtar.
+- **Ibn Battuta**: Mr X. Född 1304 i Tanger i Marocko, lämnade hemmet 1325
+  vid 21 år för pilgrimsfärden till Mecka, reste i nära trettio år och
+  omkring 120 000 kilometer (skriv "about three times as far as the most
+  famous traveler from Venice", Marco Polo får namnges, är inget set, men
+  då inte distraktor på det kortet), Östafrikas kust med Kilwa och
+  Mogadishu, Anatolien, stäppriket vid Volga, Konstantinopel, Centralasien,
+  Delhi där sultanen gjorde honom till domare i flera år, Maldiverna som
+  domare, Sri Lanka, Sumatra, Kina (historikerna tvivlar på delar av
+  Kinaavsnittet), hem 1349 under en stor pest (namnges inte), sedan
+  Granada och Mali över Sahara 1352-1353 med guldet, saltet och det som
+  förvånade honom vid hovet, dikterade reseboken 1355 för en skrivare i Fez
+  (Ibn Juzayy får namnges). Universitet: lån från andra reseskildringar,
+  vad som är sett och vad som är hört, hans blick på kvinnor och slavar i
+  de länder han beskriver, sakligt. Fångar: "Battuta", "Batuta".
+  Distraktorer: Marco Polo, Zheng He, Xuanzang, Evliya Celebi, Leo
+  Africanus, Rabban Bar Sauma, Benjamin of Tudela, Vasco da Gama,
+  Christopher Columbus, Ferdinand Magellan. Bilder: kamelkaravan, dhow i
+  monsunvind, Delhi-palats på avstånd, saltblock, inga kartor med text,
+  inga flaggor, Kaba avbildas inte.
+- **The Enlightenment**: Movement X. Europa på 1700-talet, förnuftet och
+  erfarenheten som domare över tradition och auktoritet, Kants svar 1784
+  "have the courage to use your own understanding" (dokumenterat, får
+  citeras kort), Encyklopedin 1751-1772 av Diderot och d'Alembert med
+  tusentals artiklar om hantverk och vetenskap, förbjuden 1759 och ändå
+  fullbordad, Voltaire och toleransen med Calas-affären 1762, Montesquieu
+  och maktdelningen 1748, Rousseau om samhällsfördraget och uppfostran
+  1762, Locke som föregångare 1689, salongerna som kvinnor ledde och
+  kaffehusen, en engelsk vetenskapsmans lagar som förebild (namnges inte),
+  Beccaria mot tortyr och dödsstraff 1764, Wollstonecraft 1792 om kvinnors
+  rättigheter, idéerna bakom revolutionerna i Nordamerika och Frankrike
+  (seten namnges inte). Universitet: skuggsidan, tänkare som rättfärdigade
+  slaveri och rashierarkier medan andra som Condorcet och Raynal fördömde
+  dem, eurocentrismen, kritiken från 1900-talet om förnuftets baksida.
+  Fångar: "Enlightenment", "enlightened", "enlighten", "Age of Reason"
+  (ordet "reason" ensamt är tillåtet och centralt), svenska "upplysning" i
+  alla former och "förnuftets tidsålder". Distraktorer: The Renaissance,
+  The Reformation, Romanticism, The Scientific Revolution, Humanism, The
+  Counter-Reformation, The Industrial Revolution, Positivism; ledtrådarna
+  måste utesluta den vetenskapliga revolutionen (1700-talet, filosofer,
+  encyklopedin, salongerna). Bilder: 1700-talets salong bakifrån,
+  kaffehus, tryckeri utan läsbara sidor, en glob, inga porträtt, inga
+  boktitlar.

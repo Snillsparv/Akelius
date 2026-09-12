@@ -87,3 +87,8 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
 - Frågorna om den utökade listan (trekortsset, nya kategorietiketter,
   ordning, nivå 3) besvaras senare. Klartecken att fortsätta produktionen
   ur förslaget under tiden; leverans 9 blir vetenskapsblockets femkortsämnen.
+- 2026-09-12, senare samma dag: "Fortsätt" efter lägesrapporten för leverans 9.
+  Leverans 10 tas ur förslagets ordning med enbart femkortsämnen: Arkimedes,
+  al-Khwarizmi, Ibn Sina, Visdomens hus i Bagdad, Ibn Battuta, Upplysningen.
+  Etiketten `mathematics` infördes för matematikerna, i väntan på svar på
+  fråga 2 i förslaget. Bilder väntar på påfyllda krediter hos bildtjänsten.

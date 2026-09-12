@@ -137,6 +137,8 @@ Verifiera sidorna vid behov med Playwright: `node` + `playwright-core` med
 - Ett annat sets svar får stå som distraktor bland svarsalternativen
   (2026-09-12). I löptexten namnges andra sets svar fortfarande inte.
 - Gifta kvinnor anonymiseras Mrs X = fru X (infört med Marie Curie, leverans 9).
+- Kategorietiketten `mathematics` (svenska: matematik) infördes med leverans 10;
+  `ideas` och `exploration` återanvänds för idéhistoria och resenärer.
 
 ## Rapportformat efter en körning
 
