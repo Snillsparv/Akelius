@@ -8,11 +8,11 @@
         "Fru X är en flicka i Warszawa för mer än 150 år sedan.",
         "Ett främmande rike styr hennes land vid den här tiden.",
         "Flickor får inte studera vid universitetet där.",
-        "Så unga kvinnor studerar i hemlighet, i ett nytt rum varje gång.",
+        "Därför studerar unga kvinnor i hemlighet, i ett nytt rum varje gång.",
         "I ungefär fem år arbetar fru X som guvernant.",
         "Hon sparar pengar för att hjälpa sin syster att studera först.",
         "Till slut reser hon själv till Paris.",
-        "Hon studerar sent på natten, ofta hungrig och frusen.",
+        "Hon studerar till långt in på natten, ofta hungrig och frusen.",
         "Senare arbetar hon i ett kallt skjul av trä.",
         "Inuti glöder ett märkligt nytt ämne svagt i mörkret."
       ],
@@ -49,12 +49,12 @@
       "text_sentences": [
         "Fru X arbetar nu som forskare i Paris.",
         "Hon studerar märkliga strålar som kommer från en tung mörk malm.",
-        "Tillsammans med sin man söker hon efter deras verkliga källa.",
+        "Tillsammans med sin man söker hon efter strålarnas verkliga källa.",
         "Inom ett år hittar de två nya grundämnen.",
         "De döper ett till polonium, efter hennes hemland, och ett till radium.",
         "Sedan tar det år av hårt arbete att få fram en liten mängd rent radium.",
         "År 1903 vinner fru X Nobelpriset.",
-        "Hon är den första kvinnan någonsin att vinna det.",
+        "Hon är den första kvinna som någonsin vinner det.",
         "Tre år senare dör hennes man i en gatuolycka.",
         "Hon fortsätter arbeta ensam, i djup sorg.",
         "Sorbonne ger henne då hans gamla tjänst.",
@@ -74,33 +74,33 @@
         },
         {
           "word": "grundämne",
-          "explanation": "ett av de enkla grundämnen som allt annat är uppbyggt av"
+          "explanation": "ett av de enkla ämnen som allt annat är uppbyggt av"
         },
         {
           "word": "sorg",
-          "explanation": "den djupa sorgsna känslan efter att någon har dött"
+          "explanation": "den djupa, ledsna känslan efter att någon har dött"
         },
         {
           "word": "tjänst",
           "explanation": "ett arbete eller en officiell befattning"
         }
       ],
-      "main_caption": "Universitetet i Paris ger fru X en stor heder.",
+      "main_caption": "Universitetet i Paris ger fru X en stor ära.",
       "side_caption": "Inuti denna tunga mörka sten döljer sig två grundämnen som ingen ännu har namngett."
     },
     {
-      "title": "Det andra priset, och en kropp som sakta får betala",
+      "title": "Det andra priset, och en kropp som sakta betalar priset",
       "text_sentences": [
         "Fru X har redan Nobelpriset sedan flera år tillbaka.",
         "Hennes man har dött, men hon fortsätter arbeta ensam.",
         "År 1911 vinner hon Nobelpriset en andra gång, för sin egen forskning.",
-        "Hon blir den första personen i historien att vinna två.",
+        "Hon blir den första personen i historien som vinner två.",
         "Vid den här tiden arbetar hon dagligen med starkt glödande ämnen.",
         "Folk säger att hon bär små glödande rör i fickan.",
-        "Hon älskar det mjuka ljus de ger på natten.",
+        "Hon älskar det mjuka ljuset som de ger på natten.",
         "Få förstår ännu hur mycket de osynliga strålarna kan skada kroppen under många år.",
         "Sakta blir hennes händer grova, och hennes ögon blir svaga.",
-        "År av exponering skadar tyst hennes hälsa."
+        "År av exponering skadar hennes hälsa i tysthet."
       ],
       "question": "Vem är fru X?",
       "options": [
@@ -127,22 +127,22 @@
           "explanation": "att vara nära något, om och om igen, under lång tid"
         }
       ],
-      "main_caption": "År nära de märkliga strålarna skadar sakta hennes händer.",
-      "side_caption": "Ett andra stort pris gör henne till den första personen någonsin att vinna två."
+      "main_caption": "Åren nära de märkliga strålarna skadar sakta hennes händer.",
+      "side_caption": "Ett andra stort pris gör henne till den första person som någonsin vinner två."
     },
     {
       "title": "Röntgenbilar vid fronten, och anteckningsböcker inlåsta i bly",
       "text_sentences": [
-        "Det stora kriget 1914 börjar i Europa.",
-        "Sårade soldater kommer till sjukhusen varje dag.",
-        "Fru X får en idé för att hjälpa läkare se brutna ben snabbt.",
-        "Hon sätter enkla röntgenmaskiner inuti vanliga bilar.",
-        "Hon utbildar unga kvinnor i att köra och använda maskinerna nära fronten.",
+        "År 1914 börjar det stora kriget i Europa.",
+        "Sårade soldater kommer till sjukhusen varenda dag.",
+        "Fru X får en idé som kan hjälpa läkare att snabbt se brutna ben.",
+        "Hon sätter in enkla röntgenapparater i vanliga bilar.",
+        "Hon lär unga kvinnor att köra och att använda apparaterna nära fronten.",
         "Hennes egen tonårsdotter arbetar vid hennes sida som hjälpreda.",
-        "Röntgentjänsten de bygger upp undersöker mer än en miljon sårade män.",
+        "Röntgentjänsten som de bygger upp undersöker mer än en miljon sårade män.",
         "Efter kriget återvänder fru X till sitt tysta laboratorium.",
-        "Hon dör 1934, utsliten efter decennier nära stark strålning.",
-        "Än i dag är hennes gamla anteckningsböcker för radioaktiva för att röra vid säkert."
+        "Hon dör år 1934, utsliten efter årtionden nära stark strålning.",
+        "Än i dag är hennes gamla anteckningsböcker så radioaktiva att ingen kan röra dem säkert."
       ],
       "question": "Vem är fru X?",
       "options": [
@@ -165,21 +165,21 @@
           "explanation": "som avger starka osynliga strålar som kan skada kroppen"
         }
       ],
-      "main_caption": "Fru X skickar enkla röntgenbilar nära de sårade soldaterna.",
-      "side_caption": "Hennes gamla anteckningsböcker hålls fortfarande inlåsta i dag, för farliga att röra vid fritt."
+      "main_caption": "Fru X skickar enkla röntgenbilar till fronten, nära de sårade soldaterna.",
+      "side_caption": "Hennes gamla anteckningsböcker hålls än i dag inlåsta, för farliga att röra vid fritt."
     },
     {
       "title": "Ett pris nästan utan hennes namn",
       "text_sentences": [
-        "År 1903 planerar en kommitté för Nobelpriset först att hedra bara två män.",
+        "År 1903 planerar en Nobelkommitté först att hedra bara två män.",
         "En av männen, hennes man, kräver att hennes namn också läggs till.",
-        "Så hennes namn läggs till, och hon delar priset.",
+        "Så läggs hennes namn till, och hon delar priset.",
         "Åtta år senare följer ett andra pris, bara för hennes eget arbete.",
         "Samma år angriper en fientlig press hennes privatliv i stället för hennes vetenskap.",
-        "Vissa tidningar ifrågasätter till och med om en utlandsfödd kvinna förtjänar sådan heder.",
-        "Historiker studerar senare dessa angrepp som ett fall av kön och fördomar.",
+        "Vissa tidningar ifrågasätter till och med om en utlandsfödd kvinna förtjänar sådan ära.",
+        "Historiker studerar senare dessa angrepp som ett fall där kön och fördomar spelar in.",
         "Hennes liv väcker också en svår fråga om priset för ny kunskap.",
-        "Mer än sextio år efter hennes död flyttar Frankrike hennes kvarlevor till sin stora hall för hedrade medborgare.",
+        "Mer än sextio år efter hennes död flyttar Frankrike hennes kvarlevor till sin stora minneshall för hedrade medborgare.",
         "Hon blir den första kvinnan som hedras där för sina egna bedrifter."
       ],
       "question": "Vem är fru X?",

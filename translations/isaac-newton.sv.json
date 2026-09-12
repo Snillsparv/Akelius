@@ -16,7 +16,7 @@
         "Senare i livet berättar han en historia om ett äpple.",
         "Han säger att han ser ett äpple falla från ett träd.",
         "Han frågar sig själv vad som drar äpplet ner mot marken.",
-        "Han undrar om samma dragkraft håller kvar månen på himlen."
+        "Han undrar om samma dragningskraft håller kvar månen på himlen."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -36,10 +36,10 @@
         },
         {
           "word": "sjukdom",
-          "explanation": "en åkomma, ett problem med hälsan"
+          "explanation": "ett problem med hälsan, att kroppen inte är frisk"
         },
         {
-          "word": "dragkraft",
+          "word": "dragningskraft",
           "explanation": "en kraft som drar något mot sig"
         }
       ],
@@ -57,8 +57,8 @@
         "En lins av glas delar upp ljuset på samma sätt, så gamla teleskop gör bilden suddig.",
         "År 1668 bygger han i stället ett teleskop med en böjd spegel.",
         "Bilden blir skarpare, och röret blir mycket kortare.",
-        "Han blir professor bara 26 år gammal.",
-        "Lärda i London blir förbluffade av hans lilla teleskop.",
+        "Han blir professor när han bara är 26 år gammal.",
+        "De lärda i London blir förbluffade över hans lilla teleskop.",
         "Han skriver också ner tre enkla lagar om hur saker rör sig.",
         "En lag säger att en sak i rörelse fortsätter röra sig om inget stoppar den."
       ],
@@ -95,16 +95,16 @@
       "text_sentences": [
         "Herr X blir en berömd lärd i England.",
         "I ett brev till en rival skriver han en rad som låter ödmjuk.",
-        "Han säger att han ser långt bara genom att stå på jättars axlar.",
+        "Han säger att han ser långt bara genom att stå på jättars skuldror.",
         "År 1687 ger han ut sin största bok.",
         "Boken ger exakta lagar för hur krafter rör alla ting.",
         "Den beskriver också en enda kraft som kallas gravitation.",
         "Varje föremål drar i varje annat föremål, säger han, och tunga föremål drar hårdast.",
-        "Kraften som får en sten att falla håller också månen på dess bana.",
+        "Kraften som får en sten att falla håller också månen i sin bana.",
         "Månens dragningskraft lyfter haven och skapar tidvattnet.",
         "Samma kraft håller varje planet i rörelse runt solen.",
         "Före denna bok verkar jorden och himlen följa olika regler.",
-        "Efter den förklarar en enda uppsättning lagar båda delarna."
+        "Efter den förklarar en enda uppsättning lagar både jorden och himlen."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -172,7 +172,7 @@
         },
         {
           "word": "smältugn",
-          "explanation": "en sluten eld byggd för att göra saker mycket heta"
+          "explanation": "en ugn med mycket het eld där man smälter metall"
         }
       ],
       "main_caption": "Senare i livet jagar herr X män som gör falska mynt.",
@@ -184,7 +184,7 @@
         "Herr X blir en av historiens mest kända vetenskapsmän.",
         "Men historiker påminner oss om att han inte arbetar ensam i ett tomt rum.",
         "Tidigare tänkare studerar redan fallande föremål och planeter i rörelse.",
-        "En rivaliserande vetenskapsman gissar redan att en dragande kraft blir svagare med avståndet.",
+        "En rivaliserande vetenskapsman gissar redan att en dragningskraft blir svagare med avståndet.",
         "Herr X tar sådana spridda ledtrådar och bevisar dem med exakt matematik.",
         "Han skriver mycket fler sidor om gammal kemi och om Bibeln än om rörelse.",
         "Kollegor beskriver honom som lysande men också svår och hemlighetsfull.",
@@ -214,7 +214,7 @@
         },
         {
           "word": "hemlighetsfull",
-          "explanation": "att hålla många saker dolda eller privata"
+          "explanation": "som håller många saker dolda eller privata"
         }
       ],
       "main_caption": "Herr X ser längre bara för att andra studerar himlen före honom.",

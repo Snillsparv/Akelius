@@ -26595,6 +26595,51 @@
             "caption": "The sickness closes shops and empties the streets.",
             "shutterstock_query": "empty cobbled street closed shutters historical english town quiet",
             "ai_prompt": "Photorealistic vertical image of a narrow cobbled street in a small seventeenth-century English town, empty in flat daylight, timber-framed houses with wooden shop shutters closed on every building, a single distant figure in a plain seventeenth-century coat and hat walking away near the far end, quiet still mood, not frightening. No people close to the camera, no shop signs, no red crosses or plague markings on any door, no gore, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En berättelse om ett äpple",
+            "text_sentences": [
+              "Herr X föds i en liten by i England.",
+              "Hans far dör strax innan han föds.",
+              "Han växer upp på familjens gård.",
+              "Senare studerar han vid ett universitet.",
+              "En allvarlig sjukdom stänger universitetet ett tag.",
+              "Herr X åker hem till gården.",
+              "Han stannar där i mer än ett år.",
+              "Han tänker och tänker på världen omkring sig.",
+              "Senare i livet berättar han en historia om ett äpple.",
+              "Han säger att han ser ett äpple falla från ett träd.",
+              "Han frågar sig själv vad som drar äpplet ner mot marken.",
+              "Han undrar om samma dragningskraft håller kvar månen på himlen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Isaac Newton",
+              "Galileo Galilei",
+              "Charles Darwin",
+              "Robert Hooke"
+            ],
+            "correct": "Isaac Newton",
+            "words": [
+              {
+                "word": "by",
+                "explanation": "en liten plats där människor bor, mindre än en stad"
+              },
+              {
+                "word": "universitet",
+                "explanation": "en skola där vuxna studerar efter den vanliga skolan"
+              },
+              {
+                "word": "sjukdom",
+                "explanation": "ett problem med hälsan, att kroppen inte är frisk"
+              },
+              {
+                "word": "dragningskraft",
+                "explanation": "en kraft som drar något mot sig"
+              }
+            ],
+            "main_caption": "En lugn eftermiddag i en fruktträdgård, för länge sedan i England.",
+            "side_caption": "Sjukdomen stänger butiker och tömmer gatorna."
           }
         },
         {
@@ -26652,6 +26697,51 @@
             "caption": "Sunlight through a prism becomes a small rainbow of colors.",
             "shutterstock_query": "glass prism sunlight rainbow wooden windowsill close up historical",
             "ai_prompt": "Photorealistic vertical close-up of a plain triangular glass prism resting on a dark wooden windowsill inside a seventeenth-century English room with a small leaded window and a rough plaster wall, a thin beam of sunlight passing through the prism and spreading into a small rainbow of colors across the wood below, soft warm daylight, calm quiet mood. No people, no hands, no modern objects, no drawn lines or diagrams, prism plain and unmarked, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett prisma, en spegel och tre lagar",
+            "text_sentences": [
+              "Herr X studerar vid ett universitet i England.",
+              "En dödlig pest stänger det ett tag, och han åker hem.",
+              "Han låter solljus passera genom ett prisma av glas.",
+              "Vitt ljus sprids ut i regnbågens alla färger.",
+              "Så vitt ljus är en blandning av alla färger, säger han.",
+              "En lins av glas delar upp ljuset på samma sätt, så gamla teleskop gör bilden suddig.",
+              "År 1668 bygger han i stället ett teleskop med en böjd spegel.",
+              "Bilden blir skarpare, och röret blir mycket kortare.",
+              "Han blir professor när han bara är 26 år gammal.",
+              "De lärda i London blir förbluffade över hans lilla teleskop.",
+              "Han skriver också ner tre enkla lagar om hur saker rör sig.",
+              "En lag säger att en sak i rörelse fortsätter röra sig om inget stoppar den."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Isaac Newton",
+              "Galileo Galilei",
+              "Robert Hooke",
+              "Edmond Halley"
+            ],
+            "correct": "Isaac Newton",
+            "words": [
+              {
+                "word": "pest",
+                "explanation": "en farlig sjukdom som sprider sig snabbt och dödar många människor"
+              },
+              {
+                "word": "prisma",
+                "explanation": "en glasbit med platta sidor som delar upp ljus i färger"
+              },
+              {
+                "word": "lins",
+                "explanation": "en böjd glasbit som böjer ljus"
+              },
+              {
+                "word": "spegel",
+                "explanation": "en slät yta som reflekterar ljus och visar en bild"
+              }
+            ],
+            "main_caption": "Med sina egna händer bygger herr X en ny sorts teleskop.",
+            "side_caption": "Solljus genom ett prisma blir till en liten regnbåge av färger."
           }
         },
         {
@@ -26709,6 +26799,51 @@
             "caption": "The moon's pull lifts the seas and makes the tides.",
             "shutterstock_query": "low tide sandy beach wooden rowing boat seaweed rocks evening cliffs",
             "ai_prompt": "Photorealistic vertical image of a wide sandy beach on the English coast at low tide in the evening, wet sand shining, seaweed-covered rocks and a small plain wooden rowing boat lying on the sand far from the water's edge, low grassy cliffs behind, soft evening light, calm mood. No people, no motor boat, no modern objects, no buildings, no wires, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En enda kraft för jorden och himlen",
+            "text_sentences": [
+              "Herr X blir en berömd lärd i England.",
+              "I ett brev till en rival skriver han en rad som låter ödmjuk.",
+              "Han säger att han ser långt bara genom att stå på jättars skuldror.",
+              "År 1687 ger han ut sin största bok.",
+              "Boken ger exakta lagar för hur krafter rör alla ting.",
+              "Den beskriver också en enda kraft som kallas gravitation.",
+              "Varje föremål drar i varje annat föremål, säger han, och tunga föremål drar hårdast.",
+              "Kraften som får en sten att falla håller också månen i sin bana.",
+              "Månens dragningskraft lyfter haven och skapar tidvattnet.",
+              "Samma kraft håller varje planet i rörelse runt solen.",
+              "Före denna bok verkar jorden och himlen följa olika regler.",
+              "Efter den förklarar en enda uppsättning lagar både jorden och himlen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Galileo Galilei",
+              "Isaac Newton",
+              "Johannes Kepler",
+              "Gottfried Leibniz"
+            ],
+            "correct": "Isaac Newton",
+            "words": [
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar och kan mycket om ett ämne"
+              },
+              {
+                "word": "rival",
+                "explanation": "en person som tävlar mot dig eller inte håller med dig"
+              },
+              {
+                "word": "gravitation",
+                "explanation": "dragningskraften mellan jorden, månen och alla andra ting"
+              },
+              {
+                "word": "tidvatten",
+                "explanation": "havets stigande och sjunkande, två gånger om dagen"
+              }
+            ],
+            "main_caption": "En enda kraft håller månen på himlen och drar varje sten mot marken.",
+            "side_caption": "Månens dragningskraft lyfter haven och skapar tidvattnet."
           }
         },
         {
@@ -26766,6 +26901,51 @@
             "caption": "In secret, he heats metals in a furnace and hopes to make gold.",
             "shutterstock_query": "old brick furnace crucible tongs bellows stone workroom daylight",
             "ai_prompt": "Photorealistic vertical image of a small brick furnace glowing with charcoal in a plain stone-walled seventeenth-century English workroom, a clay crucible held in iron tongs resting on the furnace edge, a leather bellows on the stone floor, a few lumps of dull metal on a wooden bench, cool daylight from a small window mixing with the orange glow, quiet secretive mood. No people, no skulls, no occult symbols, no labelled bottles, no modern tools, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En bitter strid, ett mynt och en hemlig smältugn",
+            "text_sentences": [
+              "Herr X uppfinner en kraftfull ny sorts matematik.",
+              "Några år senare uppfinner en matematiker i Paris mycket liknande idéer.",
+              "Hans namn är Gottfried Leibniz, och han arbetar också ensam.",
+              "I flera år tvistar de två männen om vem som var först.",
+              "Anhängare på båda sidor skriver arga brev.",
+              "Den bittra striden varar tills båda männen är döda.",
+              "Senare i livet får herr X en hög post vid det kungliga myntverket.",
+              "Där jagar han män som gör falska mynt.",
+              "Han studerar domstolshandlingar och förhör vittnen själv.",
+              "Få människor vet att han också ägnar år åt hemliga experiment.",
+              "I en het smältugn försöker han förvandla billiga metaller till guld.",
+              "Han fyller också många privata sidor med sina egna tankar om Bibeln."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Johannes Kepler",
+              "Isaac Newton",
+              "Robert Hooke",
+              "Edmond Halley"
+            ],
+            "correct": "Isaac Newton",
+            "words": [
+              {
+                "word": "matematiker",
+                "explanation": "en person som är expert på siffror och matematik"
+              },
+              {
+                "word": "vittne",
+                "explanation": "en person som ser något hända och kan berätta det för andra"
+              },
+              {
+                "word": "falsk",
+                "explanation": "inte äkta, gjord för att se ut som något den inte är"
+              },
+              {
+                "word": "smältugn",
+                "explanation": "en ugn med mycket het eld där man smälter metall"
+              }
+            ],
+            "main_caption": "Senare i livet jagar herr X män som gör falska mynt.",
+            "side_caption": "I hemlighet hettar han upp metaller i en smältugn och hoppas kunna göra guld."
           }
         },
         {
@@ -26821,9 +27001,53 @@
             "caption": "His laws still guide the builders of bridges and machines today.",
             "shutterstock_query": "steel suspension bridge from below cables beams pale sky",
             "ai_prompt": "Photorealistic vertical image of a tall modern steel suspension bridge seen from below against a pale morning sky, thick cables and steel beams forming a clean geometric pattern, soft daylight, calm mood. No people, no cars, no signs, no logos, no painted marks, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "På andra mäns arbete",
+            "text_sentences": [
+              "Herr X blir en av historiens mest kända vetenskapsmän.",
+              "Men historiker påminner oss om att han inte arbetar ensam i ett tomt rum.",
+              "Tidigare tänkare studerar redan fallande föremål och planeter i rörelse.",
+              "En rivaliserande vetenskapsman gissar redan att en dragningskraft blir svagare med avståndet.",
+              "Herr X tar sådana spridda ledtrådar och bevisar dem med exakt matematik.",
+              "Han skriver mycket fler sidor om gammal kemi och om Bibeln än om rörelse.",
+              "Kollegor beskriver honom som lysande men också svår och hemlighetsfull.",
+              "Han medger sällan sina egna misstag, och han förlåter nästan aldrig en rival.",
+              "Mer än tvåhundra år senare ändrar ny vetenskap några av hans regler.",
+              "Ändå styr hans grundläggande lagar fortfarande broar, raketer och maskiner i dag."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Robert Hooke",
+              "Isaac Newton",
+              "Christiaan Huygens",
+              "Gottfried Leibniz"
+            ],
+            "correct": "Isaac Newton",
+            "words": [
+              {
+                "word": "historiker",
+                "explanation": "en person som studerar och skriver om det förflutna"
+              },
+              {
+                "word": "avstånd",
+                "explanation": "hur långt bort en sak är från en annan"
+              },
+              {
+                "word": "kollega",
+                "explanation": "en person du arbetar med"
+              },
+              {
+                "word": "hemlighetsfull",
+                "explanation": "som håller många saker dolda eller privata"
+              }
+            ],
+            "main_caption": "Herr X ser längre bara för att andra studerar himlen före honom.",
+            "side_caption": "Hans lagar styr fortfarande dem som bygger broar och maskiner i dag."
           }
         }
-      ]
+      ],
+      "person_sv": "Isaac Newton"
     },
     {
       "slug": "albert-einstein",
@@ -26883,6 +27107,50 @@
             "caption": "A small compass like this one fills Mr X with wonder.",
             "shutterstock_query": "child hand holding antique brass compass close up",
             "ai_prompt": "Photorealistic vertical close-up of a small child's hand in a plain 1880s wool sleeve holding an old brass pocket compass, the plain compass face showing only a dark needle and a few small plain marks, the needle clearly pointing to one side, soft warm indoor light, softly blurred plain background, calm curious mood. No face, no modern objects, no engraved letters or numbers on the compass face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En kompass, ett skrivbord och en stor fråga",
+            "text_sentences": [
+              "Herr X är en liten pojke i Tyskland för mer än 140 år sedan.",
+              "Hans familj säger att han är sen med att börja prata.",
+              "En dag visar hans far honom en liten kompass.",
+              "Nålen pekar alltid åt samma håll, och det förvånar honom.",
+              "Han vill veta varför, och han slutar aldrig fråga varför.",
+              "Han älskar också att spela fiol.",
+              "Som ung man kan han inte hitta ett fast jobb som lärare.",
+              "I stället tar han ett jobb på ett kontor i Schweiz.",
+              "Hans jobb är att kontrollera andra människors nya uppfinningar.",
+              "På fritiden tänker han på ljus och tid.",
+              "Flera år senare testas hans märkliga idéer, och han blir berömd över hela världen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Albert Einstein",
+              "Isaac Newton",
+              "Michael Faraday",
+              "Niels Bohr"
+            ],
+            "correct": "Albert Einstein",
+            "words": [
+              {
+                "word": "kompass",
+                "explanation": "ett litet verktyg med en nål som alltid pekar mot norr"
+              },
+              {
+                "word": "fiol",
+                "explanation": "ett litet musikinstrument av trä med strängar, som man spelar med en stråke"
+              },
+              {
+                "word": "uppfinning",
+                "explanation": "en ny sak som en person gör för första gången"
+              },
+              {
+                "word": "förvåna",
+                "explanation": "att överraska någon mycket"
+              }
+            ],
+            "main_caption": "Herr X kontrollerar andra människors nya uppfinningar hela dagen.",
+            "side_caption": "En liten kompass som den här fyller herr X med förundran."
           }
         },
         {
@@ -26940,6 +27208,51 @@
             "caption": "Only under a microscope can you see tiny bits of matter dance in water.",
             "shutterstock_query": "antique brass microscope glass slide water drop wooden bench",
             "ai_prompt": "Photorealistic vertical image of an early 1900s brass microscope with a black iron base standing on a plain wooden laboratory bench, a small glass slide with a single drop of water resting under its lens, soft daylight from a window, dark softly blurred background, calm scientific mood. No maker's name or engraved marks on the brass, no labels, no modern equipment, no plastic, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett märkligt år, och sedan i väg med ett skepp",
+            "text_sentences": [
+              "Herr X arbetar på ett tyst kontor för mer än 100 år sedan.",
+              "Under ett enda år skriver han fyra fantastiska artiklar.",
+              "En artikel säger att ljus kan bete sig som små partiklar, inte bara som vågor.",
+              "En annan artikel förklarar varför små bitar av materia dansar i vatten under ett mikroskop.",
+              "En tredje artikel ger märkliga nya regler för rum och tid.",
+              "En fjärde artikel säger att massa och enorm energi egentligen är samma sak.",
+              "Bara några få forskare lägger märke till artiklarna till en början.",
+              "Många år senare vinner han ett stort vetenskapspris.",
+              "Priset är för artikeln om ljus som partiklar.",
+              "Det är inte för hans idé som kallas relativitetsteorin, som är ännu mer berömd.",
+              "År 1933 tar en ny diktator makten i hans hemland.",
+              "Herr X lämnar landet för gott och seglar till USA, där han är trygg."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Max Planck",
+              "Albert Einstein",
+              "Ernest Rutherford",
+              "Lise Meitner"
+            ],
+            "correct": "Albert Einstein",
+            "words": [
+              {
+                "word": "partikel",
+                "explanation": "en väldigt, väldigt liten bit av något"
+              },
+              {
+                "word": "materia",
+                "explanation": "allt som tar upp plats, som vatten, trä eller luft"
+              },
+              {
+                "word": "mikroskop",
+                "explanation": "ett verktyg med linser som gör mycket små saker stora"
+              },
+              {
+                "word": "diktator",
+                "explanation": "en ledare som har all makt och inte låter någon säga emot"
+              }
+            ],
+            "main_caption": "År 1933 lämnar herr X sitt hemland och återvänder aldrig.",
+            "side_caption": "Bara under ett mikroskop kan man se små bitar av materia dansa i vatten."
           }
         },
         {
@@ -26997,6 +27310,51 @@
             "caption": "During the eclipse, the hidden sun lets scientists see stars nearby.",
             "shutterstock_query": "total solar eclipse corona dark sky stars around black disk",
             "ai_prompt": "Photorealistic astronomical image of a total solar eclipse as seen on an old photographic plate, a round black disk with a large streaky glowing white corona around its edge, a few tiny white points of starlight scattered around it against a deep black sky, crisp and calm. No arrows, no labels, no diagram lines, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Stjärnljuset böjer sig, precis som han säger",
+            "text_sentences": [
+              "Herr X utvecklar en märklig ny idé om rum och tid.",
+              "Andra kallar snart idén relativitetsteorin.",
+              "Inget kan färdas snabbare än ljusets hastighet, säger han.",
+              "Tiden själv kan gå långsammare eller snabbare, beroende på hastigheten.",
+              "Tio år senare blir han klar med en ännu större version av idén.",
+              "Den här gången handlar det om gravitation.",
+              "Gravitation är ingen dragningskraft, säger han, utan en böjning av rummet självt.",
+              "Tunga stjärnor och planeter böjer rummet och tiden omkring sig.",
+              "Om han har rätt borde stjärnljus böjas när det passerar nära solen.",
+              "År 1919 döljer en total solförmörkelse solens ljus i några minuter.",
+              "Forskare fotograferar stjärnor nära den förmörkade solen och mäter böjningen.",
+              "Resultatet stödjer hans idé, och han blir berömd över hela världen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Arthur Eddington",
+              "Max Planck",
+              "Albert Einstein",
+              "James Clerk Maxwell"
+            ],
+            "correct": "Albert Einstein",
+            "words": [
+              {
+                "word": "gravitation",
+                "explanation": "kraften som drar saker mot varandra, som jorden som drar dig nedåt"
+              },
+              {
+                "word": "relativitetsteorin",
+                "explanation": "en vetenskaplig idé som kopplar samman rum, tid och rörelse"
+              },
+              {
+                "word": "solförmörkelse",
+                "explanation": "när månen täcker solen och himlen blir mörk en stund"
+              },
+              {
+                "word": "böja",
+                "explanation": "att kröka, så att något inte längre är rakt"
+              }
+            ],
+            "main_caption": "År 1919 reser forskare långt för att testa hans märkliga nya idé.",
+            "side_caption": "Under solförmörkelsen är solen dold, och forskarna kan se stjärnorna bredvid den."
           }
         },
         {
@@ -27054,6 +27412,51 @@
             "caption": "For the rest of his life, he works and speaks for peace.",
             "shutterstock_query": "olive branch stone windowsill university building soft light",
             "ai_prompt": "Photorealistic vertical close-up of a single leafy olive branch resting on a worn stone windowsill, an old ivy-covered 1930s stone university building softly blurred beyond the window glass, gentle warm afternoon light, calm hopeful mood, no people. No signs, no plaques, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett brev, ett vapen och ett avböjt erbjudande",
+            "text_sentences": [
+              "År 1933 tar en diktator makten i Tyskland.",
+              "Herr X ger sig av, och i slutet av 1930-talet bor han tryggt i USA.",
+              "Han hör att forskare i Europa nu kan klyva atomens lilla kärna.",
+              "Att klyva den här kärnan kan frigöra en enorm mängd energi på en gång.",
+              "Andra forskare oroar sig för att diktatorns land skulle kunna bygga ett kraftfullt vapen.",
+              "Strax innan ett stort krig bryter ut i Europa skriver herr X under ett brev till den amerikanska presidenten.",
+              "Brevet varnar för att ett sådant vapen nu är möjligt.",
+              "Han arbetar aldrig själv med vapenprojektet.",
+              "Flera år senare används vapnet, och han känner djup ånger.",
+              "Under resten av sitt liv talar och skriver han för fred mellan nationer.",
+              "Sent i livet erbjuder Israel honom sitt högsta ämbete.",
+              "Han tackar vänligt nej och säger att han förstår idéer bättre än människor."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Leo Szilard",
+              "Otto Hahn",
+              "Albert Einstein",
+              "Max Planck"
+            ],
+            "correct": "Albert Einstein",
+            "words": [
+              {
+                "word": "atom",
+                "explanation": "en av de mycket små delarna som allt är gjort av"
+              },
+              {
+                "word": "vapen",
+                "explanation": "ett verktyg som är gjort för att skada eller förstöra"
+              },
+              {
+                "word": "ånger",
+                "explanation": "en ledsen känsla över något du önskar inte hade hänt"
+              },
+              {
+                "word": "tacka nej",
+                "explanation": "att säga nej till ett erbjudande"
+              }
+            ],
+            "main_caption": "År 1939 skriver herr X under en allvarlig varning till presidenten.",
+            "side_caption": "Under resten av sitt liv arbetar och talar han för fred."
           }
         },
         {
@@ -27111,9 +27514,55 @@
             "caption": "Behind the famous image is a quiet, private man.",
             "shutterstock_query": "elderly man walking away snowy university campus path from behind",
             "ai_prompt": "Photorealistic wide vertical shot of a lone elderly man in a loose 1950s wool cardigan and soft grey trousers, wearing a plain dark wool hat that fully hides his hair, walking slowly away along a quiet snowy path on an American university campus, seen from a distance and from behind, bare trees lining the path, old brick and stone buildings softly blurred beyond, soft winter light, calm reflective mood. No visible face, no visible hair, no modern cars, no signs, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ikonen och mannen bakom den",
+            "text_sentences": [
+              "På 1920-talet har herr X redan förändrat hur forskare tänker om rum, tid och gravitation.",
+              "Hans idéer går längre än de rörelselagar som styr vetenskapen i tvåhundra år.",
+              "Under samma årtionde får en ny och märkligare vetenskap sin fulla form: kvantteorin.",
+              "Den här teorin säger att naturen, djupast sett, kanske bara erbjuder sannolikheter, aldrig visshet.",
+              "Herr X hjälper till att starta den nya vetenskapen, men han accepterar aldrig hela bilden av den.",
+              "Han är känd för att hävda att naturen inte kan lämna saker helt åt slumpen.",
+              "De flesta fysiker håller inte med honom, och kvantteorin fortsätter att lyckas.",
+              "År 1939 övertalar oroliga kollegor honom att skriva under ett ödesdigert brev.",
+              "Historiker debatterar fortfarande hur stort ansvar en enda underskrift egentligen bär.",
+              "Hans ansikte blir en av de mest tryckta och kopierade bilderna i historien.",
+              "Ändå är den verkliga mannen ofta ängslig, osäker och självkritisk i det privata.",
+              "Den berömda ikonen och den verkliga mannen är inte riktigt samma person."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Niels Bohr",
+              "Isaac Newton",
+              "Albert Einstein",
+              "Ernest Rutherford"
+            ],
+            "correct": "Albert Einstein",
+            "words": [
+              {
+                "word": "kvantteorin",
+                "explanation": "en vetenskap om mycket små saker, som atomer, som ofta fungerar genom slump"
+              },
+              {
+                "word": "visshet",
+                "explanation": "att vara helt säker på att något är sant"
+              },
+              {
+                "word": "ödesdiger",
+                "explanation": "som har mycket viktiga och allvarliga följder senare"
+              },
+              {
+                "word": "ikon",
+                "explanation": "en person eller bild som står för något berömt och viktigt"
+              }
+            ],
+            "main_caption": "Vart han än går väntar kamerorna på honom.",
+            "side_caption": "Bakom den berömda bilden finns en tyst och tillbakadragen man."
           }
         }
-      ]
+      ],
+      "person_sv": "Albert Einstein"
     },
     {
       "slug": "marie-curie",
@@ -27172,6 +27621,49 @@
             "caption": "For about five years, Mrs X earns money teaching other people's children.",
             "shutterstock_query": "1880s governess teaching two children sitting room abacus closed book",
             "ai_prompt": "Photorealistic vertical image of a young woman in a modest dark 1880s dress with a high collar sitting at a table with two small children in plain 1880s clothes in a simple Polish sitting room, a closed book and a wooden bead abacus between them, soft daylight through a window, calm domestic mood, seen from the side at a small distance. No open book, no slate, no writing, no modern clothing or objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En hemlig skola och en glödande burk i ett skjul",
+            "text_sentences": [
+              "Fru X är en flicka i Warszawa för mer än 150 år sedan.",
+              "Ett främmande rike styr hennes land vid den här tiden.",
+              "Flickor får inte studera vid universitetet där.",
+              "Därför studerar unga kvinnor i hemlighet, i ett nytt rum varje gång.",
+              "I ungefär fem år arbetar fru X som guvernant.",
+              "Hon sparar pengar för att hjälpa sin syster att studera först.",
+              "Till slut reser hon själv till Paris.",
+              "Hon studerar till långt in på natten, ofta hungrig och frusen.",
+              "Senare arbetar hon i ett kallt skjul av trä.",
+              "Inuti glöder ett märkligt nytt ämne svagt i mörkret."
+            ],
+            "question": "Vem är fru X?",
+            "options": [
+              "Marie Curie",
+              "Rosalind Franklin",
+              "Emmy Noether",
+              "Ada Lovelace"
+            ],
+            "correct": "Marie Curie",
+            "words": [
+              {
+                "word": "rike",
+                "explanation": "en stor grupp länder eller områden som styrs av en makt"
+              },
+              {
+                "word": "guvernant",
+                "explanation": "en kvinna som får betalt för att undervisa barn hemma"
+              },
+              {
+                "word": "ämne",
+                "explanation": "ett material, det som en sak är gjord av"
+              },
+              {
+                "word": "glöda",
+                "explanation": "att avge ett mjukt, svagt sken"
+              }
+            ],
+            "main_caption": "I ett kallt skjul av trä börjar något märkligt att glöda.",
+            "side_caption": "I ungefär fem år tjänar fru X pengar på att undervisa andra människors barn."
           }
         },
         {
@@ -27229,6 +27721,51 @@
             "caption": "Inside this heavy dark rock hide two elements nobody has named yet.",
             "shutterstock_query": "dark uranium ore chunk old wooden lab table brass scale",
             "ai_prompt": "Photorealistic vertical close-up of a rough chunk of dark, almost black mineral ore resting on an old wooden laboratory table, faint mineral dust around it, a simple antique brass balance scale nearby, dim natural window light, 1890s scientific setting. No modern lab equipment, no labels, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Två nya grundämnen och ett pris som ingen kvinna fått förut",
+            "text_sentences": [
+              "Fru X arbetar nu som forskare i Paris.",
+              "Hon studerar märkliga strålar som kommer från en tung mörk malm.",
+              "Tillsammans med sin man söker hon efter strålarnas verkliga källa.",
+              "Inom ett år hittar de två nya grundämnen.",
+              "De döper ett till polonium, efter hennes hemland, och ett till radium.",
+              "Sedan tar det år av hårt arbete att få fram en liten mängd rent radium.",
+              "År 1903 vinner fru X Nobelpriset.",
+              "Hon är den första kvinna som någonsin vinner det.",
+              "Tre år senare dör hennes man i en gatuolycka.",
+              "Hon fortsätter arbeta ensam, i djup sorg.",
+              "Sorbonne ger henne då hans gamla tjänst.",
+              "Hon blir dess allra första kvinnliga professor."
+            ],
+            "question": "Vem är fru X?",
+            "options": [
+              "Lise Meitner",
+              "Marie Curie",
+              "Chien-Shiung Wu",
+              "Elizabeth Blackwell"
+            ],
+            "correct": "Marie Curie",
+            "words": [
+              {
+                "word": "malm",
+                "explanation": "sten som innehåller en användbar metall eller ett användbart material"
+              },
+              {
+                "word": "grundämne",
+                "explanation": "ett av de enkla ämnen som allt annat är uppbyggt av"
+              },
+              {
+                "word": "sorg",
+                "explanation": "den djupa, ledsna känslan efter att någon har dött"
+              },
+              {
+                "word": "tjänst",
+                "explanation": "ett arbete eller en officiell befattning"
+              }
+            ],
+            "main_caption": "Universitetet i Paris ger fru X en stor ära.",
+            "side_caption": "Inuti denna tunga mörka sten döljer sig två grundämnen som ingen ännu har namngett."
           }
         },
         {
@@ -27284,6 +27821,49 @@
             "caption": "A second great prize makes her the first person ever to win two.",
             "shutterstock_query": "gold medal velvet cushion soft light angle closeup",
             "ai_prompt": "Photorealistic vertical close-up of a round gold medal of early 1900s style resting at an angle on a dark blue velvet cushion, soft warm light catching its curved edge, the engraved face turned just out of clear view so no design is readable, calm reverent mood. No readable portrait or symbol on the medal, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Det andra priset, och en kropp som sakta betalar priset",
+            "text_sentences": [
+              "Fru X har redan Nobelpriset sedan flera år tillbaka.",
+              "Hennes man har dött, men hon fortsätter arbeta ensam.",
+              "År 1911 vinner hon Nobelpriset en andra gång, för sin egen forskning.",
+              "Hon blir den första personen i historien som vinner två.",
+              "Vid den här tiden arbetar hon dagligen med starkt glödande ämnen.",
+              "Folk säger att hon bär små glödande rör i fickan.",
+              "Hon älskar det mjuka ljuset som de ger på natten.",
+              "Få förstår ännu hur mycket de osynliga strålarna kan skada kroppen under många år.",
+              "Sakta blir hennes händer grova, och hennes ögon blir svaga.",
+              "År av exponering skadar hennes hälsa i tysthet."
+            ],
+            "question": "Vem är fru X?",
+            "options": [
+              "Elizabeth Blackwell",
+              "Grace Hopper",
+              "Marie Curie",
+              "Mary Seacole"
+            ],
+            "correct": "Marie Curie",
+            "words": [
+              {
+                "word": "forskning",
+                "explanation": "noggrann undersökning för att ta reda på nya saker"
+              },
+              {
+                "word": "ämne",
+                "explanation": "ett material, det som en sak är gjord av"
+              },
+              {
+                "word": "osynlig",
+                "explanation": "omöjlig att se"
+              },
+              {
+                "word": "exponering",
+                "explanation": "att vara nära något, om och om igen, under lång tid"
+              }
+            ],
+            "main_caption": "Åren nära de märkliga strålarna skadar sakta hennes händer.",
+            "side_caption": "Ett andra stort pris gör henne till den första person som någonsin vinner två."
           }
         },
         {
@@ -27335,6 +27915,45 @@
             "caption": "Her old notebooks are still kept locked away today, too dangerous to touch freely.",
             "shutterstock_query": "lead lined metal box old notebook archive gloved hand",
             "ai_prompt": "Photorealistic vertical image of a thick lead-lined grey metal box standing open on a quiet archive shelf, revealing a single worn old leather notebook inside, a present-day archivist's hand in a thin grey protective glove reaching toward it but not yet touching, soft archive lighting, calm careful mood. No radiation warning symbols, no readable text on the notebook cover, no labels, no stack of books, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Röntgenbilar vid fronten, och anteckningsböcker inlåsta i bly",
+            "text_sentences": [
+              "År 1914 börjar det stora kriget i Europa.",
+              "Sårade soldater kommer till sjukhusen varenda dag.",
+              "Fru X får en idé som kan hjälpa läkare att snabbt se brutna ben.",
+              "Hon sätter in enkla röntgenapparater i vanliga bilar.",
+              "Hon lär unga kvinnor att köra och att använda apparaterna nära fronten.",
+              "Hennes egen tonårsdotter arbetar vid hennes sida som hjälpreda.",
+              "Röntgentjänsten som de bygger upp undersöker mer än en miljon sårade män.",
+              "Efter kriget återvänder fru X till sitt tysta laboratorium.",
+              "Hon dör år 1934, utsliten efter årtionden nära stark strålning.",
+              "Än i dag är hennes gamla anteckningsböcker så radioaktiva att ingen kan röra dem säkert."
+            ],
+            "question": "Vem är fru X?",
+            "options": [
+              "Lise Meitner",
+              "Marie Curie",
+              "Mary Seacole",
+              "Rosalind Franklin"
+            ],
+            "correct": "Marie Curie",
+            "words": [
+              {
+                "word": "sårad",
+                "explanation": "skadad, ofta i ett krig"
+              },
+              {
+                "word": "front",
+                "explanation": "platsen där två arméer strider som närmast varandra"
+              },
+              {
+                "word": "radioaktiv",
+                "explanation": "som avger starka osynliga strålar som kan skada kroppen"
+              }
+            ],
+            "main_caption": "Fru X skickar enkla röntgenbilar till fronten, nära de sårade soldaterna.",
+            "side_caption": "Hennes gamla anteckningsböcker hålls än i dag inlåsta, för farliga att röra vid fritt."
           }
         },
         {
@@ -27390,9 +28009,53 @@
             "caption": "A small committee first decides who deserves the great prize.",
             "shutterstock_query": "empty formal meeting room long table chairs daylight",
             "ai_prompt": "Photorealistic vertical image of an empty formal early 1900s meeting room with a long polished wooden table and several empty upholstered chairs, tall windows with soft daylight, a few closed leather folders stacked neatly at one end of the table, no people, quiet formal mood. No electric ceiling lights of modern type, no readable text on folders, no plaques, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett pris nästan utan hennes namn",
+            "text_sentences": [
+              "År 1903 planerar en Nobelkommitté först att hedra bara två män.",
+              "En av männen, hennes man, kräver att hennes namn också läggs till.",
+              "Så läggs hennes namn till, och hon delar priset.",
+              "Åtta år senare följer ett andra pris, bara för hennes eget arbete.",
+              "Samma år angriper en fientlig press hennes privatliv i stället för hennes vetenskap.",
+              "Vissa tidningar ifrågasätter till och med om en utlandsfödd kvinna förtjänar sådan ära.",
+              "Historiker studerar senare dessa angrepp som ett fall där kön och fördomar spelar in.",
+              "Hennes liv väcker också en svår fråga om priset för ny kunskap.",
+              "Mer än sextio år efter hennes död flyttar Frankrike hennes kvarlevor till sin stora minneshall för hedrade medborgare.",
+              "Hon blir den första kvinnan som hedras där för sina egna bedrifter."
+            ],
+            "question": "Vem är fru X?",
+            "options": [
+              "Emmy Noether",
+              "Marie Curie",
+              "Chien-Shiung Wu",
+              "Lise Meitner"
+            ],
+            "correct": "Marie Curie",
+            "words": [
+              {
+                "word": "kommitté",
+                "explanation": "en liten grupp människor som väljs ut för att besluta om något"
+              },
+              {
+                "word": "fientlig",
+                "explanation": "ovänlig och full av ilska"
+              },
+              {
+                "word": "fördom",
+                "explanation": "en orättvis åsikt om någon som bildas innan man känner personen"
+              },
+              {
+                "word": "kvarlevor",
+                "explanation": "här: kroppen efter en person som har dött"
+              }
+            ],
+            "main_caption": "Långt efter hennes död ger Frankrike henne en plats bland sina mest hedrade medborgare.",
+            "side_caption": "En liten kommitté avgör först vem som förtjänar det stora priset."
           }
         }
-      ]
+      ],
+      "person_sv": "Marie Curie"
     }
   ]
 }

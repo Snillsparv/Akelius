@@ -15,7 +15,7 @@
         "I stället tar han ett jobb på ett kontor i Schweiz.",
         "Hans jobb är att kontrollera andra människors nya uppfinningar.",
         "På fritiden tänker han på ljus och tid.",
-        "År senare testas hans märkliga idéer, och han blir berömd över hela världen."
+        "Flera år senare testas hans märkliga idéer, och han blir berömd över hela världen."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -50,16 +50,16 @@
       "text_sentences": [
         "Herr X arbetar på ett tyst kontor för mer än 100 år sedan.",
         "Under ett enda år skriver han fyra fantastiska artiklar.",
-        "En artikel säger att ljus kan bete sig som små partiklar, inte bara vågor.",
+        "En artikel säger att ljus kan bete sig som små partiklar, inte bara som vågor.",
         "En annan artikel förklarar varför små bitar av materia dansar i vatten under ett mikroskop.",
         "En tredje artikel ger märkliga nya regler för rum och tid.",
         "En fjärde artikel säger att massa och enorm energi egentligen är samma sak.",
-        "Bara några få forskare lägger märke till artiklarna först.",
+        "Bara några få forskare lägger märke till artiklarna till en början.",
         "Många år senare vinner han ett stort vetenskapspris.",
         "Priset är för artikeln om ljus som partiklar.",
         "Det är inte för hans idé som kallas relativitetsteorin, som är ännu mer berömd.",
         "År 1933 tar en ny diktator makten i hans hemland.",
-        "Herr X lämnar landet för gott och seglar till säkerhet i USA."
+        "Herr X lämnar landet för gott och seglar till USA, där han är trygg."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -95,14 +95,14 @@
         "Herr X utvecklar en märklig ny idé om rum och tid.",
         "Andra kallar snart idén relativitetsteorin.",
         "Inget kan färdas snabbare än ljusets hastighet, säger han.",
-        "Tiden själv kan gå långsammare eller snabbare, beroende på hastighet.",
+        "Tiden själv kan gå långsammare eller snabbare, beroende på hastigheten.",
         "Tio år senare blir han klar med en ännu större version av idén.",
         "Den här gången handlar det om gravitation.",
         "Gravitation är ingen dragningskraft, säger han, utan en böjning av rummet självt.",
         "Tunga stjärnor och planeter böjer rummet och tiden omkring sig.",
         "Om han har rätt borde stjärnljus böjas när det passerar nära solen.",
         "År 1919 döljer en total solförmörkelse solens ljus i några minuter.",
-        "Forskare fotograferar stjärnor nära den mörklagda solen och mäter böjningen.",
+        "Forskare fotograferar stjärnor nära den förmörkade solen och mäter böjningen.",
         "Resultatet stödjer hans idé, och han blir berömd över hela världen."
       ],
       "question": "Vem är herr X?",
@@ -131,7 +131,7 @@
         }
       ],
       "main_caption": "År 1919 reser forskare långt för att testa hans märkliga nya idé.",
-      "side_caption": "Under solförmörkelsen låter den dolda solen forskare se stjärnor i närheten."
+      "side_caption": "Under solförmörkelsen är solen dold, och forskarna kan se stjärnorna bredvid den."
     },
     {
       "title": "Ett brev, ett vapen och ett avböjt erbjudande",
@@ -139,12 +139,12 @@
         "År 1933 tar en diktator makten i Tyskland.",
         "Herr X ger sig av, och i slutet av 1930-talet bor han tryggt i USA.",
         "Han hör att forskare i Europa nu kan klyva atomens lilla kärna.",
-        "Att klyva den här kärnan kan frigöra ett enormt utbrott av energi.",
+        "Att klyva den här kärnan kan frigöra en enorm mängd energi på en gång.",
         "Andra forskare oroar sig för att diktatorns land skulle kunna bygga ett kraftfullt vapen.",
-        "Precis innan ett stort krig bryter ut i Europa skriver herr X under ett brev till den amerikanska presidenten.",
+        "Strax innan ett stort krig bryter ut i Europa skriver herr X under ett brev till den amerikanska presidenten.",
         "Brevet varnar för att ett sådant vapen nu är möjligt.",
         "Han arbetar aldrig själv med vapenprojektet.",
-        "År senare används vapnet, och han känner djup ånger.",
+        "Flera år senare används vapnet, och han känner djup ånger.",
         "Under resten av sitt liv talar och skriver han för fred mellan nationer.",
         "Sent i livet erbjuder Israel honom sitt högsta ämbete.",
         "Han tackar vänligt nej och säger att han förstår idéer bättre än människor."
@@ -180,17 +180,17 @@
     {
       "title": "Ikonen och mannen bakom den",
       "text_sentences": [
-        "Vid 1920-talet har herr X förändrat hur forskare tänker om rum, tid och gravitation.",
+        "På 1920-talet har herr X redan förändrat hur forskare tänker om rum, tid och gravitation.",
         "Hans idéer går längre än de rörelselagar som styr vetenskapen i tvåhundra år.",
-        "Under samma årtionde tar en ny och märkligare vetenskap form: kvantteorin.",
-        "Den här teorin säger att naturen, djupast sett, kanske bara erbjuder chanser, aldrig visshet.",
+        "Under samma årtionde får en ny och märkligare vetenskap sin fulla form: kvantteorin.",
+        "Den här teorin säger att naturen, djupast sett, kanske bara erbjuder sannolikheter, aldrig visshet.",
         "Herr X hjälper till att starta den nya vetenskapen, men han accepterar aldrig hela bilden av den.",
         "Han är känd för att hävda att naturen inte kan lämna saker helt åt slumpen.",
         "De flesta fysiker håller inte med honom, och kvantteorin fortsätter att lyckas.",
         "År 1939 övertalar oroliga kollegor honom att skriva under ett ödesdigert brev.",
-        "Historiker debatterar fortfarande hur mycket ansvar en enda underskrift egentligen bär.",
+        "Historiker debatterar fortfarande hur stort ansvar en enda underskrift egentligen bär.",
         "Hans ansikte blir en av de mest tryckta och kopierade bilderna i historien.",
-        "Ändå är den verkliga mannen ofta ängslig, osäker och privat självkritisk.",
+        "Ändå är den verkliga mannen ofta ängslig, osäker och självkritisk i det privata.",
         "Den berömda ikonen och den verkliga mannen är inte riktigt samma person."
       ],
       "question": "Vem är herr X?",
@@ -210,7 +210,7 @@
           "explanation": "att vara helt säker på att något är sant"
         },
         {
-          "word": "ödesdigert",
+          "word": "ödesdiger",
           "explanation": "som har mycket viktiga och allvarliga följder senare"
         },
         {
@@ -219,7 +219,7 @@
         }
       ],
       "main_caption": "Vart han än går väntar kamerorna på honom.",
-      "side_caption": "Bakom den berömda bilden finns en tyst, privat man."
+      "side_caption": "Bakom den berömda bilden finns en tyst och tillbakadragen man."
     }
   ]
 }
