@@ -1,0 +1,225 @@
+{
+  "slug": "industrial-revolution",
+  "person_sv": "Industriella revolutionen",
+  "cards": [
+    {
+      "title": "Från hjul till fabrik vid floden",
+      "text_sentences": [
+        "Revolutionen X börjar i Storbritannien för ungefär 250 år sedan.",
+        "Först spinner kvinnor bomullstråd för hand hemma.",
+        "De vrider ett litet hjul bredvid elden.",
+        "Nya maskiner kan spinna mycket mer tråd på en gång.",
+        "Arbetare bygger en stor fabrik vid en flod.",
+        "Ett stort hjul i floden driver maskinerna inuti fabriken.",
+        "Senare bränner en ny ångmaskin kol för att skapa kraft i stället.",
+        "Nu behöver en fabrik ingen flod i närheten.",
+        "En stad i norra England växer mycket snabbt.",
+        "Tusentals människor flyttar dit för att arbeta i fabrikerna.",
+        "Höga skorstenar reser sig över staden, och rök fyller himlen."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Jordbruksrevolutionen",
+        "Industriella revolutionen",
+        "Den vetenskapliga revolutionen",
+        "Franska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "spinna",
+          "explanation": "att göra bomull eller ull till lång tråd"
+        },
+        {
+          "word": "fabrik",
+          "explanation": "en stor byggnad full av maskiner som gör tyg"
+        },
+        {
+          "word": "ångmaskin",
+          "explanation": "en maskin som skapar kraft genom att bränna bränsle"
+        },
+        {
+          "word": "skorsten",
+          "explanation": "ett högt rör som leder rök upp mot himlen"
+        }
+      ],
+      "main_caption": "En ny fabrik reser sig vid floden. Hjulet utanför driver maskinerna inuti.",
+      "side_caption": "Hemma spinner en kvinna tråd för hand, ett hjul i taget."
+    },
+    {
+      "title": "Tolv timmar i fabriken",
+      "text_sentences": [
+        "För ungefär 200 år sedan förändrar revolutionen X livet för arbetarfamiljer.",
+        "Barn så unga som sex år arbetar i fabrikerna.",
+        "En arbetsdag varar ofta tolv till fjorton timmar.",
+        "Små barn kryper under maskiner i rörelse för att sopa upp lös bomull.",
+        "Andra barn arbetar långt under jorden och drar vagnar med kol i gruvor.",
+        "Familjer flyttar från små byar till snabbt växande städer.",
+        "Många av dem bor trångt tillsammans i ett enda litet rum.",
+        "Det finns lite rent vatten, och sjukdom sprids snabbt.",
+        "En sjukdom som kallas kolera dödar tiotusentals människor på fattiga stadsgator.",
+        "Sakta börjar nya lagar begränsa hur ung ett arbetande barn får vara.",
+        "Arbetare börjar också gå samman i grupper som kallas fackföreningar.",
+        "Tillsammans ber de om kortare arbetsdagar och säkrare maskiner."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Franska revolutionen",
+        "Industriella revolutionen",
+        "Jordbruksrevolutionen",
+        "Amerikanska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "gruva",
+          "explanation": "ett djupt hål eller en tunnel där arbetare gräver ut kol"
+        },
+        {
+          "word": "kolera",
+          "explanation": "en farlig sjukdom som sprids genom smutsigt vatten"
+        },
+        {
+          "word": "fackförening",
+          "explanation": "en grupp arbetare som går samman för att be om bättre och säkrare arbete"
+        },
+        {
+          "word": "trångt",
+          "explanation": "fullt av för många människor på en liten yta"
+        }
+      ],
+      "main_caption": "Inne i fabriken arbetar även små barn långa timmar bland maskinerna.",
+      "side_caption": "Andra barn arbetar under jorden, i gruvor långt från alla fabriker."
+    },
+    {
+      "title": "Ångmaskinen som förändrar avstånden",
+      "text_sentences": [
+        "Revolutionen X bygger på en ny sorts ångmaskin.",
+        "Tidigare ångmaskiner pumpar redan vatten ur kolgruvor.",
+        "En ingenjör vid namn Watt gör den här sortens ångmaskin mycket bättre.",
+        "Han får patent på sin förbättrade ångmaskin för ungefär 250 år sedan.",
+        "Gruvor och järnbruk använder hans ångmaskiner från 1770-talet.",
+        "Från 1780-talet driver hans ångmaskiner också maskiner i fabriker.",
+        "Storbritannien bryter också enorma mängder kol och järn.",
+        "Arbetare flyttar först tunga varor med båt längs nya kanaler.",
+        "År 1830 binder den första järnvägen för passagerare samman två engelska städer.",
+        "Ett ånglok drar nu både passagerare och gods.",
+        "Snart driver ånga också fartyg på breda floder och över haven.",
+        "Resor som en gång tog dagar kan nu ta bara timmar."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Den vetenskapliga revolutionen",
+        "Jordbruksrevolutionen",
+        "Industriella revolutionen",
+        "Den digitala revolutionen"
+      ],
+      "words": [
+        {
+          "word": "ingenjör",
+          "explanation": "en person som ritar och bygger maskiner eller byggnadsverk"
+        },
+        {
+          "word": "patent",
+          "explanation": "ett officiellt papper som ger en person ensamrätt till en uppfinning"
+        },
+        {
+          "word": "kanal",
+          "explanation": "en vattenväg som människor gräver åt båtar att färdas på"
+        },
+        {
+          "word": "passagerare",
+          "explanation": "en person som reser i ett fordon men inte kör det"
+        }
+      ],
+      "main_caption": "Ett nytt ånglok drar människor och gods mellan två städer.",
+      "side_caption": "En ingenjör studerar ångmaskinen noga och gör den starkare och säkrare."
+    },
+    {
+      "title": "Bomull från tre kontinenter",
+      "text_sentences": [
+        "Revolutionen X börjar i Storbritannien, men den förändrar snart hela världen.",
+        "Brittiska fabriker behöver enorma mängder rå bomull varje år.",
+        "Förslavade arbetare i södra USA plockar det mesta av den.",
+        "Bönder i Indien och Egypten odlar också bomull åt brittiska fabriker.",
+        "I århundraden gör skickliga vävare i Indien fint bomullstyg för hand.",
+        "Nu översvämmar billigt tyg från brittiska fabriker deras lokala marknader.",
+        "Många indiska vävare förlorar sakta sitt arbete och sin inkomst.",
+        "Andra länder bygger snart egna fabriker och verkstäder.",
+        "Belgien och delar av Tyskland bygger fabriker inom några decennier.",
+        "USA och senare Japan följer en liknande väg.",
+        "Överallt släpper brinnande kol ut rök och gas i luften.",
+        "Under två århundraden värmer den här gasen sakta upp hela planeten."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Den vetenskapliga revolutionen",
+        "Amerikanska revolutionen",
+        "Industriella revolutionen",
+        "Jordbruksrevolutionen"
+      ],
+      "words": [
+        {
+          "word": "förslavad",
+          "explanation": "tvingad att arbeta utan lön och ägd av en annan person"
+        },
+        {
+          "word": "vävare",
+          "explanation": "en person som gör tyg av tråd, ofta för hand"
+        },
+        {
+          "word": "inkomst",
+          "explanation": "pengarna en person tjänar på att arbeta"
+        },
+        {
+          "word": "decennium",
+          "explanation": "en period på tio år"
+        }
+      ],
+      "main_caption": "Skepp för rå bomull från långt bort. Brittiska fabriker gör den till tyg.",
+      "side_caption": "En vävare i Indien gör fint tyg för hand. Billigt fabrikstyg tar nu hans arbete ifrån honom."
+    },
+    {
+      "title": "Revolution eller långsam förändring?",
+      "text_sentences": [
+        "Historiker tvistar till och med om själva ordet revolution.",
+        "Vissa förändringar kommer snabbt, som de första järnvägarna med ånglok.",
+        "Men många andra förändringar tar ett helt sekel på sig att sprida sig.",
+        "Så några historiker föredrar att tala om långsam, stadig förändring.",
+        "Andra kallar det ändå för en verklig revolution i hur människor lever.",
+        "En andra fråga är varför detta börjar i Storbritannien först.",
+        "Storbritannien har kol, pengar att investera och kolonier för råvaror.",
+        "Landet har också stora marknader och, enligt vissa, välbetalda arbetare.",
+        "Historiker jämför Storbritannien med rika regioner i Kina vid den tiden.",
+        "Några historiker säger att båda regionerna verkar lika utvecklade under lång tid.",
+        "Sedan skiljs deras vägar åt, och historiker kallar detta den stora divergensen.",
+        "Historiker läser inspektörers rapporter från fabriker, kyrkoböcker och gamla lönelistor."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Industriella revolutionen",
+        "Den vetenskapliga revolutionen",
+        "Jordbruksrevolutionen",
+        "Franska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "historiker",
+          "explanation": "en person som studerar och skriver om det förflutna"
+        },
+        {
+          "word": "koloni",
+          "explanation": "ett land som styrs och används av ett annat, mäktigare land"
+        },
+        {
+          "word": "divergens",
+          "explanation": "punkten där två lika saker börjar bli mycket olika"
+        },
+        {
+          "word": "inspektör",
+          "explanation": "en person vars jobb är att kontrollera att regler följs"
+        }
+      ],
+      "main_caption": "Några säger att de två regionerna en gång ser likadana ut. Senare skiljs deras vägar åt.",
+      "side_caption": "En inspektör besöker en fabrik. Långt senare hjälper hans rapporter historiker."
+    }
+  ]
+}

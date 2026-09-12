@@ -1,0 +1,208 @@
+{
+  "slug": "karl-marx",
+  "person_sv": "Karl Marx",
+  "cards": [
+    {
+      "title": "Skribenten i ett kallt rum",
+      "text_sentences": [
+        "Herr X bor i en liten lägenhet i London, för ungefär 175 år sedan.",
+        "Innan dess stänger regeringen i Tyskland hans tidning, så han lämnar landet.",
+        "Varje dag sitter herr X vid ett litet bord och skriver.",
+        "Han skriver om fattiga arbetare och rika fabriksägare.",
+        "Arbetarna gör arbetet, säger han, men ägarna blir rika.",
+        "Familjen är mycket fattig, och lägenheten är kall på vintern.",
+        "Några av hans barn blir sjuka och dör.",
+        "Hans gode vän Friedrich Engels bor i Manchester.",
+        "Familjen Engels äger en del av ett stort bomullsspinneri.",
+        "Friedrich skickar pengar om och om igen, så familjen kan äta.",
+        "Herr X fortsätter att skriva, år efter år."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Friedrich Engels",
+        "Karl Marx",
+        "Charles Dickens",
+        "Adam Smith"
+      ],
+      "words": [
+        {
+          "word": "regering",
+          "explanation": "en grupp människor som styr ett land"
+        },
+        {
+          "word": "bomullsspinneri",
+          "explanation": "en stor fabrik som spinner bomull till garn"
+        },
+        {
+          "word": "fabriksägare",
+          "explanation": "en person som äger en fabrik"
+        }
+      ],
+      "main_caption": "En fattig familj bor i en liten, kall lägenhet. Fadern skriver varje dag.",
+      "side_caption": "I Manchester äger en väns familj en del av ett stort bomullsspinneri."
+    },
+    {
+      "title": "En liten bok för arbetarna",
+      "text_sentences": [
+        "Herr X bor i Bryssel, i Belgien.",
+        "Året är 1848.",
+        "Med en vän som arbetade i Manchester skriver han en kort bok.",
+        "Den är till för en liten grupp arbetare.",
+        "Boken säger: historien är en berättelse om kamp.",
+        "I varje tidsålder äger några människor verktygen och marken.",
+        "Andra människor arbetar åt dem, för låg lön.",
+        "Boken kallar detta en kamp mellan klasser.",
+        "Den slutar med en uppmaning: ”arbetare i alla länder, förena er!”",
+        "Boken är kort, billig och lätt att trycka.",
+        "Först är det nästan ingen som läser den.",
+        "Långt senare blir den en av de mest tryckta böckerna någonsin."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Robert Owen",
+        "Vladimir Lenin",
+        "Karl Marx",
+        "Georg Hegel"
+      ],
+      "words": [
+        {
+          "word": "kamp",
+          "explanation": "en hård strid för att få eller behålla något"
+        },
+        {
+          "word": "klass",
+          "explanation": "en grupp människor med en liknande plats i samhället"
+        },
+        {
+          "word": "förena",
+          "explanation": "att gå samman till en enda grupp"
+        }
+      ],
+      "main_caption": "En billig liten bok kommer ut ur pressen, om och om igen.",
+      "side_caption": "Boken slutar med en uppmaning till arbetarna: gå samman."
+    },
+    {
+      "title": "Var kommer vinsten ifrån?",
+      "text_sentences": [
+        "Herr X studerar i läsesalen på ett stort museum i London.",
+        "Där läser han år efter år för att skriva en stor ny bok.",
+        "Boken kommer ut för ungefär 160 år sedan.",
+        "Den ställer en svår fråga: var kommer vinsten ifrån?",
+        "En arbetare tillverkar varor värda mer än sin lön, säger boken.",
+        "Fabriksägaren behåller det extra värdet.",
+        "Herr X kallar detta extra värde mervärde.",
+        "Som bevis läser han verkliga regeringsrapporter.",
+        "Rapporterna beskriver män, kvinnor och barn vid maskinerna.",
+        "Många arbetar tolv timmar om dagen eller mer.",
+        "Boken är tjock, och få människor läser ut den medan han lever."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Karl Marx",
+        "Adam Smith",
+        "John Stuart Mill",
+        "Friedrich Engels"
+      ],
+      "words": [
+        {
+          "word": "vinst",
+          "explanation": "pengar ett företag tjänar utöver sina kostnader"
+        },
+        {
+          "word": "värde",
+          "explanation": "hur mycket något är värt"
+        },
+        {
+          "word": "mervärde",
+          "explanation": "ett extra värde utöver det som behövs"
+        }
+      ],
+      "main_caption": "Varje dag sitter herr X och läser i ett stort runt bibliotek.",
+      "side_caption": "En hög med mynt räcker precis. Den andra högen har mer."
+    },
+    {
+      "title": "En man som inte kan komma hem",
+      "text_sentences": [
+        "Herr X föds för mer än 200 år sedan i Trier.",
+        "Trier är en stad i Preussen, en tysk delstat.",
+        "Hans familj har judiska rötter, och hans far är jurist.",
+        "Herr X studerar juridik och filosofi i Bonn och Berlin.",
+        "Sedan blir han redaktör för en tidning.",
+        "Efter några månader stänger regeringen tidningen.",
+        "Han lämnar landet och lever större delen av sitt liv i exil.",
+        "Han bor först i Paris, sedan i Bryssel, sedan i London.",
+        "Hans fru Jenny kommer från en adlig familj i Tyskland.",
+        "Jenny skriver av hans röriga handstil till rena sidor, för boktryckaren.",
+        "Han dör för mer än 140 år sedan.",
+        "Bara ungefär elva personer kommer till hans begravning."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Georg Hegel",
+        "Friedrich Engels",
+        "Charles Dickens",
+        "Karl Marx"
+      ],
+      "words": [
+        {
+          "word": "redaktör",
+          "explanation": "en person som driver en tidning och bestämmer vad den trycker"
+        },
+        {
+          "word": "exil",
+          "explanation": "att leva borta från sitt hemland, ofta för att man inte kan åka tillbaka"
+        },
+        {
+          "word": "adlig",
+          "explanation": "tillhör en familj med hög rang eller ställning"
+        }
+      ],
+      "main_caption": "Herr X måste lämna en stad efter en annan.",
+      "side_caption": "Hans fru skriver av hans röriga handstil till rena sidor, varje dag."
+    },
+    {
+      "title": "Ett namn som lever längre än mannen",
+      "text_sentences": [
+        "Herr X skriver om historia, arbete och pengar, för mer än 150 år sedan.",
+        "Han dör för mer än 140 år sedan.",
+        "Senare, på 1900-talet, tar stater i Ryssland och Kina hans namn.",
+        "Dessa stater styr med våld och svält som herr X aldrig ser.",
+        "Historiker ställer en svår fråga: hur mycket av detta är hans fel?",
+        "Många historiker skiljer tänkaren från de senare rörelser som är uppkallade efter honom.",
+        "Hans gamle vän Friedrich Engels återger senare en enda mening.",
+        "Några efterföljare i Frankrike använder hans namn för sina idéer.",
+        "Herr X säger om dem: jag är inte en av dem.",
+        "Ingen annan skriver ner denna mening, så historiker behandlar den med försiktighet.",
+        "I dag studerar några ekonomer fortfarande hans idé om kris på marknaden.",
+        "Många historiker säger att framtiden inte blir som han väntar sig."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Vladimir Lenin",
+        "Karl Marx",
+        "Friedrich Engels",
+        "Georg Hegel"
+      ],
+      "words": [
+        {
+          "word": "svält",
+          "explanation": "en tid då många människor har lite eller ingen mat"
+        },
+        {
+          "word": "rörelse",
+          "explanation": "en grupp människor som arbetar tillsammans för en stor idé"
+        },
+        {
+          "word": "ekonom",
+          "explanation": "en person som studerar pengar, arbete och handel"
+        },
+        {
+          "word": "kris",
+          "explanation": "en mycket svår och farlig tid, ofta inom ekonomin"
+        }
+      ],
+      "main_caption": "I dag studerar historiker och studenter fortfarande herr X och det som kom efter honom.",
+      "side_caption": "På en tyst kyrkogård i London slutar herr X:s historia."
+    }
+  ]
+}
