@@ -1,0 +1,199 @@
+{
+  "slug": "ibn-sina",
+  "person_sv": "Ibn Sina",
+  "cards": [
+    {
+      "title": "Pojken nära Buchara som lär sig snabbt",
+      "text_sentences": [
+        "Herr X är en pojke som bor nära Buchara.",
+        "Det är för mer än tusen år sedan.",
+        "Buchara är en stad i Centralasien.",
+        "Herr X lär sig läsa mycket tidigt.",
+        "Senare skriver han sin egen levnadsberättelse.",
+        "Där säger han att han kan islams heliga bok utantill vid tio års ålder.",
+        "Snart kan han mer än sina egna lärare, säger han.",
+        "Han studerar medicin och börjar behandla sjuka människor.",
+        "Hans levnadsberättelse säger att han redan arbetar som läkare vid sexton års ålder.",
+        "En dag blir härskaren i hans stad mycket sjuk.",
+        "Herr X behandlar honom, och härskaren blir frisk igen.",
+        "Som belöning låter härskaren honom läsa varje bok i sitt privata bibliotek."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Ibn Sina", "Hippokrates", "Galenos", "al-Razi"],
+      "words": [
+        {
+          "word": "härskare",
+          "explanation": "en person som styr ett land eller en stad"
+        },
+        {
+          "word": "behandla",
+          "explanation": "att hjälpa en sjuk person bli frisk"
+        },
+        {
+          "word": "belöning",
+          "explanation": "något bra du får för att ha gjort något som hjälper"
+        },
+        {
+          "word": "privat",
+          "explanation": "bara för en person, inte för alla"
+        }
+      ],
+      "main_caption": "En ung läkare undersöker härskaren som har blivit sjuk.",
+      "side_caption": "Den tacksamma härskaren öppnar sitt privata bibliotek för den unge läkaren."
+    },
+    {
+      "title": "En läkarbok i hundratals år",
+      "text_sentences": [
+        "Herr X föds nära Buchara, för mer än tusen år sedan.",
+        "Han växer upp och blir läkare och tänkare.",
+        "Han skriver en stor läkarbok.",
+        "Boken har fem långa delar.",
+        "Den beskriver sjukdomar, läkemedel och hur man vårdar kroppen.",
+        "Läkare i hela den muslimska världen använder boken i århundraden.",
+        "Senare når den också universitet i Europa.",
+        "Där läser läkare den fortfarande hundratals år efter hans död.",
+        "Herr X är också mycket noga med att testa läkemedel.",
+        "Han säger att ett nytt läkemedel först måste prövas på riktiga patienter.",
+        "Det måste också fungera om och om igen innan läkare kan lita på det.",
+        "Hans regler för att testa läkemedel låter moderna än i dag."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["al-Zahrawi", "Ibn Sina", "Ibn Rushd", "al-Razi"],
+      "words": [
+        {
+          "word": "århundraden",
+          "explanation": "perioder på hundra år vardera"
+        },
+        {
+          "word": "universitet",
+          "explanation": "platser där man studerar på högsta nivå efter skolan"
+        },
+        {
+          "word": "patienter",
+          "explanation": "människor som är sjuka och behöver hjälp av en läkare"
+        },
+        {
+          "word": "modern",
+          "explanation": "av vår egen tid, inte av gamla tider"
+        }
+      ],
+      "main_caption": "Han testar och förbereder varje läkemedel med stor omsorg.",
+      "side_caption": "Långt borta i Europa studerar läkare hans bok i hundratals år."
+    },
+    {
+      "title": "Boken om botandet och den svävande mannen",
+      "text_sentences": [
+        "Herr X är läkare i Persien omkring år 1000.",
+        "Han är också filosof.",
+        "Han skriver en stor bok som heter Boken om botandet.",
+        "Den handlar om idéer, inte om medicin.",
+        "Den handlar om logik, naturen och själen.",
+        "Han bygger vidare på en antik grekisk filosof, utan att kopiera honom.",
+        "Han lägger också till många egna nya idéer.",
+        "En idé är ett märkligt tankeexperiment.",
+        "Föreställ dig en man som svävar ensam i tom luft.",
+        "Han kan inte se, höra eller känna något runt omkring sig.",
+        "Ändå vet mannen att han finns, argumenterar herr X.",
+        "Detta visar, säger han, att sinnet kan känna sig själv direkt."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["al-Farabi", "Ibn Rushd", "Ibn Sina", "Maimonides"],
+      "words": [
+        {
+          "word": "filosof",
+          "explanation": "en person som tänker djupt på stora frågor"
+        },
+        {
+          "word": "logik",
+          "explanation": "noggrant och klart tänkande, steg för steg"
+        },
+        {
+          "word": "själ",
+          "explanation": "den inre delen av en person som tänker och känner"
+        },
+        {
+          "word": "argumentera",
+          "explanation": "att ge skäl för det du tror är sant"
+        }
+      ],
+      "main_caption": "I ett tyst rum tänker och skriver han om svåra nya idéer.",
+      "side_caption": "Föreställ dig en man som svävar ensam och inte känner något alls runt omkring sig."
+    },
+    {
+      "title": "Mellan palats, fängelse och en dold fara",
+      "text_sentences": [
+        "Herr X stannar inte länge på samma plats.",
+        "Han flyttar mellan härskares hov i Persien och Centralasien.",
+        "Ett tag arbetar han som vesir, en högsta rådgivare.",
+        "Senare låser en arg härskare in honom i flera månader.",
+        "Efter sin flykt fortsätter han att skriva och flyttar vidare igen.",
+        "Han arbetar ofta hela dagen och skriver långt in på natten.",
+        "I sina läkarskrifter föreslår han en ovanlig idé.",
+        "Kanske sprids sjukdom genom något osynligt i vattnet.",
+        "Kanske sprids den genom något osynligt i luften också, säger han.",
+        "Herr X dör i staden Hamadan år 1037."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["al-Biruni", "Galenos", "Ibn Rushd", "Ibn Sina"],
+      "words": [
+        {
+          "word": "vesir",
+          "explanation": "en högsta hjälpare och rådgivare åt en härskare"
+        },
+        {
+          "word": "flykt",
+          "explanation": "att komma fri från en plats där man är inlåst"
+        },
+        {
+          "word": "föreslå",
+          "explanation": "att säga att något kanske är sant, som en idé"
+        },
+        {
+          "word": "osynlig",
+          "explanation": "något som inte kan ses med ögonen"
+        }
+      ],
+      "main_caption": "Han flyttar från ett härskares hov till ett annat.",
+      "side_caption": "Kanske gömmer sig sjukdom, osynlig, i vatten och luft."
+    },
+    {
+      "title": "Ett perfekt minne? Vad källorna säger",
+      "text_sentences": [
+        "Herr X är läkare och tänkare i Persien, för omkring tusen år sedan.",
+        "Han skriver om metafysik, läran om vad som verkligen finns.",
+        "Senare lärda översätter hans verk till latin.",
+        "I århundraden formar hans idéer undervisningen vid avlägsna universitet.",
+        "Några senare teologer är starkt oense med delar av hans filosofi.",
+        "De menar att hans idéer inte passar deras religiösa tro.",
+        "En berömd legend säger att herr X minns varje bok han någonsin läser.",
+        "Hans egen levnadsberättelse framställer honom som ett geni med ett fantastiskt minne.",
+        "Han säger att han läser en svår grekisk bok fyrtio gånger och ändå inte förstår den.",
+        "Sedan förklarar en liten, billig bok av en annan lärd den för honom med en gång, säger han.",
+        "Historiker påpekar att han berättar sin levnadsberättelse för att visa hur speciell han är.",
+        "De jämför de gamla källorna noga innan de litar på sådana berättelser."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["al-Biruni", "Ibn Sina", "Maimonides", "al-Farabi"],
+      "words": [
+        {
+          "word": "metafysik",
+          "explanation": "läran om vad saker verkligen är"
+        },
+        {
+          "word": "teolog",
+          "explanation": "en person som studerar religiös tro på djupet"
+        },
+        {
+          "word": "legend",
+          "explanation": "en gammal, känd berättelse som kanske inte är helt sann"
+        },
+        {
+          "word": "geni",
+          "explanation": "en person med ett mycket stort förstånd"
+        }
+      ],
+      "main_caption": "Senare tänkare tvistar häftigt om hans svåra idéer.",
+      "side_caption": "Metafysiken frågar vad som verkligen finns, från en enda tegelsten till stjärnorna."
+    }
+  ]
+}
