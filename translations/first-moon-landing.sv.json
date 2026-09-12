@@ -6,14 +6,14 @@
       "title": "En raket högre än en byggnad",
       "text_sentences": [
         "Händelsen X sker i juli 1969, för mer än femtio år sedan.",
-        "Tre män sitter inuti en liten kapsel.",
+        "Tre män sitter inuti en mycket liten kapsel.",
         "En jättelik raket lyfter kapseln upp mot himlen.",
         "Raketen är högre än en byggnad med trettio våningar.",
         "De tre männen reser genom rymden i fyra dagar.",
         "De siktar mot månen, högt ovanför jorden.",
-        "Två män klättrar ner för en stege och ut på grått stoft.",
-        "Stoftet behåller deras fotspår, för det finns ingen vind där.",
-        "Hemma tittar ungefär sexhundra miljoner människor på tv.",
+        "Två män klättrar nerför en stege och ut på grått stoft.",
+        "Deras fotspår blir kvar i stoftet, för det finns ingen vind där.",
+        "Hemma tittar ungefär 600 miljoner människor på tv.",
         "De två männen samlar grå stenar och tar med dem hem."
       ],
       "question": "Vilken händelse är händelsen X?",
@@ -43,18 +43,18 @@
     {
       "title": "En president lovar månen",
       "text_sentences": [
-        "Två stormakter tävlar mot varandra i flera år.",
+        "Två stormakter tävlar mot varandra i många år.",
         "En av dem skickar upp den första satelliten i rymden.",
         "Det händer 1957, och det chockar den andra sidan.",
         "Några år senare skickar samma stormakt också den första människan ut i rymden.",
         "Han heter Jurij Gagarin, och han kretsar ett varv runt jorden.",
         "Strax efter det håller en president tal för sitt lands lagstiftare.",
         "Han lovar att nå månen innan årtiondet är slut.",
-        "Ungefär fyrahundratusen människor deltar i det enorma programmet som följer.",
+        "Ungefär 400 000 människor deltar i det enorma programmet som följer.",
         "Många av dem är ingenjörer, och några är matematiker.",
         "En matematiker, Katherine Johnson, kontrollerar flygbanor för hand.",
         "Under ett test på marken dödar en plötslig brand tre astronauter.",
-        "Ändå fortsätter programmet, och händelsen X ligger fortfarande framför dem."
+        "Ändå fortsätter programmet, och händelsen X ligger ännu framför dem."
       ],
       "question": "Vilken händelse är händelsen X?",
       "options": [
@@ -81,24 +81,24 @@
           "explanation": "en period på tio år"
         }
       ],
-      "main_caption": "Rader av arbetare tittar på små skärmar och papper medan flygningen fortsätter.",
+      "main_caption": "Rader av medarbetare tittar på små skärmar och papper medan flygningen pågår.",
       "side_caption": "Innan datorer gör jobbet själva kontrollerar en människa siffrorna för hand."
     },
     {
-      "title": "Sekunder med bränsle kvar",
+      "title": "Några sekunders bränsle kvar",
       "text_sentences": [
-        "Händelsen X misslyckas nästan innan den ens riktigt börjar.",
+        "Händelsen X misslyckas nästan innan den riktigt har börjat.",
         "Under den sista inflygningen överbelastas en dator ombord av larm.",
         "Befälhavaren tittar ut och ser stora stenblock framför sig.",
         "Han tar över kontrollen och styr förbi stenblocken för hand.",
-        "Bara sekunder av bränsle återstår när han sätter ner den lilla farkosten.",
+        "Bara några sekunders bränsle återstår när han sätter ner den lilla farkosten.",
         "Timmar senare klättrar han ner i stoftet.",
         "Han kallar det ”ett litet steg för en människa, ett jättekliv för mänskligheten”.",
-        "En andra man ansluter sig till honom i ungefär två och en halv timme.",
+        "Ytterligare en man gör honom sällskap i ungefär två och en halv timme.",
         "En tredje man väntar ensam i moderskeppet och kretsar ovanför.",
-        "Varje gång han passerar bakom månen blockerar den all radiokontakt.",
+        "Varje gång han passerar bakom månen blockerar själva månen all radiokontakt.",
         "Senare flyger alla tre männen hem i moderskeppet.",
-        "Det faller genom heta lågor och slår ner i havet."
+        "Det faller genom heta lågor och plaskar ner i havet."
       ],
       "question": "Vilken händelse är händelsen X?",
       "options": [
@@ -110,22 +110,22 @@
       "words": [
         {
           "word": "överbelastas",
-          "explanation": "tar emot fler signaler eller mer arbete än den klarar av"
+          "explanation": "får in fler signaler eller mer arbete än den klarar av"
         },
         {
           "word": "befälhavare",
-          "explanation": "personen som är ansvarig för en besättning"
+          "explanation": "den som leder och ansvarar för en besättning"
         },
         {
           "word": "radiokontakt",
-          "explanation": "en talad förbindelse mellan två platser, skickad genom luften"
+          "explanation": "en förbindelse där man kan tala med varandra på avstånd via radio"
         },
         {
-          "word": "slår ner",
-          "explanation": "kommer ner och träffar vatten i slutet av en flygning"
+          "word": "plaskar ner",
+          "explanation": "kommer ner och träffar vattnet i slutet av en flygning"
         }
       ],
-      "main_caption": "Genom fönstret ser befälhavaren stenar där farkosten är på väg.",
+      "main_caption": "Genom fönstret ser befälhavaren stenblock i farkostens väg.",
       "side_caption": "Bakom månen kan ingen signal nå mannen som kretsar ensam."
     },
     {
@@ -133,13 +133,13 @@
       "text_sentences": [
         "Händelsen X är höjdpunkten i ett enormt program.",
         "Hela programmet kostar omkring 25 miljarder dollar.",
-        "Det är i dåtidens penningvärde.",
-        "Kritiker säger att pengarna i stället kunde bekämpa fattigdom hemma.",
-        "Samtidigt för landet ett kostsamt krig i Asien.",
+        "Det är räknat i den tidens penningvärde.",
+        "Kritiker säger att pengarna i stället kunde bekämpa fattigdomen i det egna landet.",
+        "Samtidigt utkämpar landet ett kostsamt krig i Asien.",
         "En poet skriver en bitter dikt om den enorma kostnaden.",
-        "I dikten biter en råtta hans syster, medan en man går på månen.",
-        "Inte alla hemma delar den stolthet som många känner den sommaren.",
-        "Ändå kliver fem besättningar till ut på ytan efter den här.",
+        "I dikten biter en råtta hans syster medan en man går på månen.",
+        "Inte alla i landet delar den stolthet som många känner den sommaren.",
+        "Ändå kliver ytterligare fem besättningar ut på ytan efter den här.",
         "Tre senare besättningar kör till och med en liten öppen bil på ytan.",
         "Sedan tar programmet slut redan efter några få år.",
         "Ingen astronaut har gått på månen sedan 1972."
@@ -165,21 +165,21 @@
           "explanation": "en person som skriver dikter"
         }
       ],
-      "main_caption": "Vissa människor frågar om pengarna i stället borde hjälpa familjer hemma.",
+      "main_caption": "Vissa människor frågar om pengarna i stället borde hjälpa familjer i det egna landet.",
       "side_caption": "En senare besättning kör den här lilla bilen över den grå marken."
     },
     {
       "title": "Speglar på månen",
       "text_sentences": [
-        "Forskare studerar fortfarande händelsen X med hjälp av konkreta bevis i dag.",
-        "Sex besättningar tar tillsammans med sig 382 kilo grå sten hem.",
-        "Laboratorier över hela världen studerar dessa stenar efter nya ledtrådar.",
-        "En del utrustning som lämnades kvar på ytan fungerar fortfarande efter årtionden.",
+        "Än i dag studerar forskare händelsen X med hjälp av handfasta bevis.",
+        "Sex besättningar tar tillsammans hem 382 kilo grå sten.",
+        "Laboratorier över hela världen studerar dessa stenar för att hitta nya ledtrådar.",
+        "En del utrustning som lämnades kvar på ytan fungerar fortfarande efter flera årtionden.",
         "Små speglar reflekterar laserljus som skickas från teleskop på jorden.",
         "Dessa signaler mäter det exakta avståndet mellan jorden och månen.",
         "Den rivaliserande stormakten följer också varje flygning noga.",
-        "Dess forskare följer flygningarna och kallar dem aldrig falska.",
-        "Ändå hävdar vissa människor senare att händelsen aldrig äger rum.",
+        "Dess forskare spårar flygningarna och kallar dem aldrig för bluff.",
+        "Ändå hävdar vissa människor senare att händelsen aldrig ens äger rum.",
         "Historiker studerar detta falska påstående som ett exempel på modernt tvivel.",
         "Forskare debatterar fortfarande om programmet mest handlar om vetenskap, politik eller skådespel."
       ],
@@ -205,10 +205,10 @@
         },
         {
           "word": "rivaliserande",
-          "explanation": "som tävlar mot en annan grupp"
+          "explanation": "som tävlar mot någon annan om samma sak"
         }
       ],
-      "main_caption": "Forskare i laboratorier runt om i världen studerar fortfarande dessa grå stenar i dag.",
+      "main_caption": "Forskare i laboratorier runt om i världen studerar än i dag dessa grå stenar.",
       "side_caption": "En laserstråle stiger mot en liten spegel som lämnades kvar på ytan för länge sedan."
     }
   ]

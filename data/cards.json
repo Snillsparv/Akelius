@@ -22600,6 +22600,46 @@
             "caption": "People chip small pieces off the wall with hammers.",
             "shutterstock_query": "hands hammer chipping concrete wall night 1989 illustration",
             "ai_prompt": "Photorealistic close vertical view of several pairs of hands in wool gloves holding small hammers and chisels, chipping pieces off a rough concrete wall lit by floodlights at night, the wall surface covered in blurred abstract patches of faded spray paint, small dust particles in the air, no faces in frame, no letters, no words, no symbols, no readable shapes, no flags, no text, no numbers."
+          },
+          "sv": {
+            "title": "En kväll i november",
+            "text_sentences": [
+              "En stor stad som heter Berlin är delad mitt itu av en mur.",
+              "Muren står där i tjugoåtta år.",
+              "Familjer på ena sidan kan inte besöka den andra sidan.",
+              "Vakter bevakar muren varje dag och varje natt.",
+              "Så en kväll i november 1989 förändras plötsligt allt.",
+              "Vakterna vid gränsövergångarna släpper människor genom grindarna.",
+              "Tusentals människor går över till andra sidan.",
+              "Främlingar på båda sidor kramar varandra och gråter.",
+              "Några klättrar upp på själva muren den natten.",
+              "De svingar hammare och hugger loss små bitar av den.",
+              "Den novembernatten är händelsen X."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Berlinmurens fall",
+              "Kubakrisen",
+              "Ungernrevolten 1956",
+              "Sovjetunionens upplösning"
+            ],
+            "correct": "Berlinmurens fall",
+            "words": [
+              {
+                "word": "gränsövergångar",
+                "explanation": "platser där vakter kontrollerar vilka som får gå igenom"
+              },
+              {
+                "word": "hugga loss",
+                "explanation": "slå bort en liten bit från något hårt"
+              },
+              {
+                "word": "främlingar",
+                "explanation": "människor du inte känner"
+              }
+            ],
+            "main_caption": "En kväll kliver vakterna åt sidan och släpper igenom folkmassan.",
+            "side_caption": "Folk hugger loss små bitar av muren med hammare."
           }
         },
         {
@@ -22653,6 +22693,47 @@
             "caption": "A searchlight sweeps over the empty ground along the border.",
             "shutterstock_query": "watchtower searchlight border night historic illustration",
             "ai_prompt": "Photorealistic vertical night scene of a tall wooden watchtower, a bright searchlight beam sweeping across an empty sandy strip of ground below, a coil of barbed wire fence in the foreground, a guard silhouette barely visible at the top of the tower, tense quiet mood, 1960s style tower and equipment only, no modern lamps, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En stad delad mitt itu",
+            "text_sentences": [
+              "Efter det största kriget i historien ligger en stad i ruiner.",
+              "Segrarna i kriget delar staden i fyra delar.",
+              "En del tillhör en stat med stängda gränser.",
+              "I den staten kan människor inte resa fritt till andra länder.",
+              "Varje år lämnar hundratusentals människor landet genom stadens öppna gräns.",
+              "Så i augusti 1961 agerar staten på en enda natt.",
+              "Soldater rullar ut taggtråd tvärs över staden.",
+              "Under dagarna som följer bygger arbetare en lång mur av betong.",
+              "Soldater med hundar och strålkastare bevakar den nya gränsen.",
+              "Minst hundrafyrtio människor dör vid muren.",
+              "Ungefär hundra av dem dör när de försöker ta sig över den.",
+              "Händelsen X kommer många år senare, natten då muren öppnas."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Pragvåren",
+              "Berlinmurens fall",
+              "Solidaritetsstrejkerna i Polen",
+              "Apartheids fall"
+            ],
+            "correct": "Berlinmurens fall",
+            "words": [
+              {
+                "word": "betong",
+                "explanation": "ett hårt grått material gjort av sand, sten och cement"
+              },
+              {
+                "word": "strålkastare",
+                "explanation": "starka lampor som lyser upp ett mörkt område"
+              },
+              {
+                "word": "gräns",
+                "explanation": "linjen där ett land eller område slutar och ett annat börjar"
+              }
+            ],
+            "main_caption": "På en natt stängs gränsen. Inom några dagar kommer en mur.",
+            "side_caption": "En strålkastare sveper över den tomma marken längs gränsen."
           }
         },
         {
@@ -22710,6 +22791,51 @@
             "caption": "At the press table, a spokesman reads a new rule out loud, and reads it badly.",
             "shutterstock_query": "1989 press conference spokesman table microphones illustration",
             "ai_prompt": "Photorealistic vertical close view of a plain wooden press table at a press conference in 1989, a man in a grey 1980s suit sits behind a cluster of 1980s microphones without logos, reading from a sheet of paper held in both hands, uncertain expression, a glass of water beside him, soft camera flashes reflected in the background, 1989 clothing and equipment only, no smartphones, no laptops, no modern cameras, face generic and not a recognizable portrait, no readable text on the paper, no flags, no logos, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En talesman läser fel",
+            "text_sentences": [
+              "Hösten 1989 har muren stått i många år.",
+              "Ledaren för den östra stormakten tillåter nu reformer.",
+              "I september det året meddelar Ungern i tv att landets västra gräns är öppen.",
+              "Tiotusentals människor bakom muren flyr genom den öppningen.",
+              "Varje måndag växer folkmassorna i Leipzig till hundratusentals.",
+              "De skanderar en enkel fras: ”Vi är folket”.",
+              "Under den pressen tvingas statens gamla ledare avgå.",
+              "En kväll håller en talesman för partiet en presskonferens som sänds direkt i tv.",
+              "Vid pressbordet läser han klumpigt upp en ny reseregel.",
+              "En reporter frågar när den börjar gälla, och han svarar: ”omedelbart”.",
+              "Folkmassor rusar till gränsövergångarna samma natt.",
+              "Förvirrade vakter lyfter till slut bommen, och händelsen X börjar."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Ungernrevolten 1956",
+              "Sovjetunionens upplösning",
+              "Solidaritetsstrejkerna i Polen",
+              "Berlinmurens fall"
+            ],
+            "correct": "Berlinmurens fall",
+            "words": [
+              {
+                "word": "reformer",
+                "explanation": "förändringar som görs för att förbättra hur ett land styrs"
+              },
+              {
+                "word": "skanderar",
+                "explanation": "säger eller ropar samma ord tillsammans, om och om igen"
+              },
+              {
+                "word": "talesman",
+                "explanation": "en person som talar till allmänheten för en regering eller grupp"
+              },
+              {
+                "word": "bommen",
+                "explanation": "en stång som stänger av vägen och kan lyftas upp"
+              }
+            ],
+            "main_caption": "Varje måndagskväll blir folkmassorna i en stad större och större.",
+            "side_caption": "Vid pressbordet läser en talesman upp en ny regel högt, och han gör det klumpigt."
           }
         },
         {
@@ -22763,6 +22889,47 @@
             "caption": "In the east, reunion also means that some old factories close.",
             "shutterstock_query": "idle factory machines worker leaving 1990s illustration",
             "ai_prompt": "Photorealistic vertical scene inside a large factory hall in the early 1990s, most heavy machines standing idle and silent, a single worker in worn overalls walks away down the aisle carrying a small cloth bag of belongings, dusty light falling through high windows, quiet somber mood, early 1990s clothing and machinery only, no modern equipment, no readable signs, no flags, no logos, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Natten då grindarna öppnas",
+            "text_sentences": [
+              "Händelsen X är natten då muren öppnas.",
+              "Efter den natten följer enorma förändringar mycket snabbt.",
+              "Hösten 1989 sveper förändringen över hela regionen.",
+              "En efter en lossar andra slutna stater greppet om makten.",
+              "På de flesta platser sker förändringen fredligt.",
+              "I Rumänien blir förändringen dock våldsam.",
+              "Mindre än ett år senare blir det delade landet ett igen.",
+              "Återföreningen ger glädje, men den för också med sig svåra förändringar i öst.",
+              "Många gamla fabriker stänger, och arbetarna där förlorar plötsligt sina jobb.",
+              "I åratal har den hemliga polisen övervakat miljontals vanliga medborgare.",
+              "Två år efter händelsen X kan människor läsa sina egna hemliga akter.",
+              "Några blir chockade när de får veta vem som angav dem, till och med grannar."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Kubakrisen",
+              "Berlinmurens fall",
+              "Pragvåren",
+              "Apartheids fall"
+            ],
+            "correct": "Berlinmurens fall",
+            "words": [
+              {
+                "word": "hemliga polisen",
+                "explanation": "poliser som arbetar i hemlighet för att övervaka och kontrollera människor"
+              },
+              {
+                "word": "återföreningen",
+                "explanation": "att komma samman igen efter att ha varit skilda åt"
+              },
+              {
+                "word": "våldsam",
+                "explanation": "med kraft som skadar människor eller förstör saker"
+              }
+            ],
+            "main_caption": "Efter återföreningen kan människor be om att få läsa akterna som skrevs om dem.",
+            "side_caption": "I öst innebär återföreningen också att vissa gamla fabriker stänger."
           }
         },
         {
@@ -22816,9 +22983,51 @@
             "caption": "Later interviews add personal memory to what the old pictures show.",
             "shutterstock_query": "oral history interview elderly person cassette recorder living room 1990s illustration",
             "ai_prompt": "Photorealistic vertical scene of two people sitting in armchairs in a cozy 1990s living room, an older person speaks while a younger interviewer holds a small handheld cassette recorder between them, soft lamp light, warm respectful mood, both shown from the side so faces are not the focus, 1990s clothing and equipment only, no smartphones, no digital recorders, no modern screens, no text, no letters, no numbers, no logos, no flags."
+          },
+          "sv": {
+            "title": "Planerat, eller av misstag",
+            "text_sentences": [
+              "Händelsen X är natten då muren öppnas 1989.",
+              "Historiker debatterar fortfarande varför det händer.",
+              "Några betonar reformpolitikern i den östra stormakten som tillåter förändring.",
+              "Andra pekar på de enorma folkmassorna som driver på händelseförloppet.",
+              "Ytterligare andra betonar kyrkorna som ger skydd åt de första protestmötena.",
+              "Åter andra pekar på en talesmans misstag vid presskonferensen.",
+              "Några pekar också på tv-sändningarna från väst, som rapporterar att grindarna är öppna.",
+              "Ingen enskild orsak förklarar helt vad som händer den natten.",
+              "För att studera det använder historiker korniga tv-bilder från den tiden.",
+              "De läser också de akter som den gamla hemliga polisen förde.",
+              "Intervjuer med människor som var där tillför minnen till källmaterialet.",
+              "Men minnet i sig skiljer sig åt, och öst och väst minns den natten på olika sätt."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Ungernrevolten 1956",
+              "Kubakrisen",
+              "Berlinmurens fall",
+              "Solidaritetsstrejkerna i Polen"
+            ],
+            "correct": "Berlinmurens fall",
+            "words": [
+              {
+                "word": "debatterar",
+                "explanation": "diskuterar en fråga som människor är oense om"
+              },
+              {
+                "word": "reformpolitiker",
+                "explanation": "en politiker som arbetar för att förändra och förbättra ett system"
+              },
+              {
+                "word": "korniga",
+                "explanation": "suddiga och prickiga, som bilderna i en gammal film"
+              }
+            ],
+            "main_caption": "I dag visar en rad stenar i en park var muren en gång stod.",
+            "side_caption": "Senare intervjuer tillför personliga minnen till det de gamla bilderna visar."
           }
         }
-      ]
+      ],
+      "person_sv": "Berlinmurens fall"
     },
     {
       "slug": "first-moon-landing",
@@ -22873,6 +23082,45 @@
             "caption": "Back home, millions of families watch the grey pictures on television.",
             "shutterstock_query": "1969 family watching television living room seen from behind vintage",
             "ai_prompt": "Photorealistic vertical scene of a late 1960s living room seen from behind a family in 1969 clothing sitting close together on a sofa and the floor around a boxy wooden television set, the screen showing only blurred grey shapes, warm lamp light, patterned wallpaper, a low coffee table, quiet expectant mood, 1969 furniture and clothing only, no flat screens, no smartphones, no cameras held up, no modern objects, faces not visible, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En raket högre än en byggnad",
+            "text_sentences": [
+              "Händelsen X sker i juli 1969, för mer än femtio år sedan.",
+              "Tre män sitter inuti en mycket liten kapsel.",
+              "En jättelik raket lyfter kapseln upp mot himlen.",
+              "Raketen är högre än en byggnad med trettio våningar.",
+              "De tre männen reser genom rymden i fyra dagar.",
+              "De siktar mot månen, högt ovanför jorden.",
+              "Två män klättrar nerför en stege och ut på grått stoft.",
+              "Deras fotspår blir kvar i stoftet, för det finns ingen vind där.",
+              "Hemma tittar ungefär 600 miljoner människor på tv.",
+              "De två männen samlar grå stenar och tar med dem hem."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Den första flygningen över Atlanten",
+              "Den första rymdpromenaden",
+              "Den första månlandningen",
+              "Den första rymdstationen"
+            ],
+            "correct": "Den första månlandningen",
+            "words": [
+              {
+                "word": "kapsel",
+                "explanation": "en liten sluten farkost som för människor genom rymden"
+              },
+              {
+                "word": "raket",
+                "explanation": "en hög maskin som bränner bränsle för att flyga upp i rymden"
+              },
+              {
+                "word": "fotspår",
+                "explanation": "märken som fötter lämnar i marken"
+              }
+            ],
+            "main_caption": "En raket står redo. Den ska bära tre män långt ovanför jorden.",
+            "side_caption": "Hemma tittar miljontals familjer på de grå bilderna på tv."
           }
         },
         {
@@ -22930,6 +23178,51 @@
             "caption": "Before computers do the work alone, a person checks the numbers by hand.",
             "shutterstock_query": "1960s woman mathematician desk graph paper adding machine illustration",
             "ai_prompt": "Photorealistic vertical scene of a woman at a desk in the 1960s, plain blouse and pinned up hair, bent over a large sheet of graph paper covered with hand drawn curves fully blurred and unreadable, a mechanical adding machine beside her hand, soft desk lamp light, quiet focused mood, 1960s clothing and equipment only, no modern computers, generic face not a recognizable portrait, no numbers, no letters, no logos, no text."
+          },
+          "sv": {
+            "title": "En president lovar månen",
+            "text_sentences": [
+              "Två stormakter tävlar mot varandra i många år.",
+              "En av dem skickar upp den första satelliten i rymden.",
+              "Det händer 1957, och det chockar den andra sidan.",
+              "Några år senare skickar samma stormakt också den första människan ut i rymden.",
+              "Han heter Jurij Gagarin, och han kretsar ett varv runt jorden.",
+              "Strax efter det håller en president tal för sitt lands lagstiftare.",
+              "Han lovar att nå månen innan årtiondet är slut.",
+              "Ungefär 400 000 människor deltar i det enorma programmet som följer.",
+              "Många av dem är ingenjörer, och några är matematiker.",
+              "En matematiker, Katherine Johnson, kontrollerar flygbanor för hand.",
+              "Under ett test på marken dödar en plötslig brand tre astronauter.",
+              "Ändå fortsätter programmet, och händelsen X ligger ännu framför dem."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Den första månlandningen",
+              "Den första rymdpromenaden",
+              "Den första kvinnan i rymden",
+              "Den första flygningen över Atlanten"
+            ],
+            "correct": "Den första månlandningen",
+            "words": [
+              {
+                "word": "satellit",
+                "explanation": "ett föremål som kretsar runt en planet eller en måne i rymden"
+              },
+              {
+                "word": "ingenjörer",
+                "explanation": "personer som konstruerar och bygger maskiner"
+              },
+              {
+                "word": "matematiker",
+                "explanation": "en person som arbetar med tal och former"
+              },
+              {
+                "word": "årtionde",
+                "explanation": "en period på tio år"
+              }
+            ],
+            "main_caption": "Rader av medarbetare tittar på små skärmar och papper medan flygningen pågår.",
+            "side_caption": "Innan datorer gör jobbet själva kontrollerar en människa siffrorna för hand."
           }
         },
         {
@@ -22987,6 +23280,51 @@
             "caption": "Behind the Moon, no signal can reach the man who circles alone.",
             "shutterstock_query": "spacecraft orbit sunlit far side moon craters no earth vertical illustration",
             "ai_prompt": "Photorealistic vertical view of a small silver spacecraft in orbit above the sunlit far side of the Moon, bright grey craters stretching below in full daylight, a plain black sky with no stars, the Earth nowhere in view, a thin antenna pointing away into empty space, quiet isolated mood, surface sunlit not dark, no Earth, no stars, no flags, no badges, no readable marks, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Några sekunders bränsle kvar",
+            "text_sentences": [
+              "Händelsen X misslyckas nästan innan den riktigt har börjat.",
+              "Under den sista inflygningen överbelastas en dator ombord av larm.",
+              "Befälhavaren tittar ut och ser stora stenblock framför sig.",
+              "Han tar över kontrollen och styr förbi stenblocken för hand.",
+              "Bara några sekunders bränsle återstår när han sätter ner den lilla farkosten.",
+              "Timmar senare klättrar han ner i stoftet.",
+              "Han kallar det ”ett litet steg för en människa, ett jättekliv för mänskligheten”.",
+              "Ytterligare en man gör honom sällskap i ungefär två och en halv timme.",
+              "En tredje man väntar ensam i moderskeppet och kretsar ovanför.",
+              "Varje gång han passerar bakom månen blockerar själva månen all radiokontakt.",
+              "Senare flyger alla tre männen hem i moderskeppet.",
+              "Det faller genom heta lågor och plaskar ner i havet."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Den första rymdpromenaden",
+              "Den första människan i rymden",
+              "Den första månlandningen",
+              "Den första rymdstationen"
+            ],
+            "correct": "Den första månlandningen",
+            "words": [
+              {
+                "word": "överbelastas",
+                "explanation": "får in fler signaler eller mer arbete än den klarar av"
+              },
+              {
+                "word": "befälhavare",
+                "explanation": "den som leder och ansvarar för en besättning"
+              },
+              {
+                "word": "radiokontakt",
+                "explanation": "en förbindelse där man kan tala med varandra på avstånd via radio"
+              },
+              {
+                "word": "plaskar ner",
+                "explanation": "kommer ner och träffar vattnet i slutet av en flygning"
+              }
+            ],
+            "main_caption": "Genom fönstret ser befälhavaren stenblock i farkostens väg.",
+            "side_caption": "Bakom månen kan ingen signal nå mannen som kretsar ensam."
           }
         },
         {
@@ -23040,6 +23378,47 @@
             "caption": "A later crew drives this small car across the grey ground.",
             "shutterstock_query": "lunar rover vehicle grey surface wire wheels vertical illustration",
             "ai_prompt": "Photorealistic vertical image of a small open topped vehicle with four large wire mesh wheels parked on grey dusty ground, its frame simple metal tubing with a folded dish antenna and two plain seats side by side, deep black sky above, still quiet mood, no flags, no badges, no readable plates, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En råtta biter hans syster",
+            "text_sentences": [
+              "Händelsen X är höjdpunkten i ett enormt program.",
+              "Hela programmet kostar omkring 25 miljarder dollar.",
+              "Det är räknat i den tidens penningvärde.",
+              "Kritiker säger att pengarna i stället kunde bekämpa fattigdomen i det egna landet.",
+              "Samtidigt utkämpar landet ett kostsamt krig i Asien.",
+              "En poet skriver en bitter dikt om den enorma kostnaden.",
+              "I dikten biter en råtta hans syster medan en man går på månen.",
+              "Inte alla i landet delar den stolthet som många känner den sommaren.",
+              "Ändå kliver ytterligare fem besättningar ut på ytan efter den här.",
+              "Tre senare besättningar kör till och med en liten öppen bil på ytan.",
+              "Sedan tar programmet slut redan efter några få år.",
+              "Ingen astronaut har gått på månen sedan 1972."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Den första satelliten i omloppsbana",
+              "Den första månlandningen",
+              "Den första expeditionen till Sydpolen",
+              "Den första kvinnan i rymden"
+            ],
+            "correct": "Den första månlandningen",
+            "words": [
+              {
+                "word": "kritiker",
+                "explanation": "personer som säger att något är fel eller har brister"
+              },
+              {
+                "word": "fattigdom",
+                "explanation": "att vara mycket fattig"
+              },
+              {
+                "word": "poet",
+                "explanation": "en person som skriver dikter"
+              }
+            ],
+            "main_caption": "Vissa människor frågar om pengarna i stället borde hjälpa familjer i det egna landet.",
+            "side_caption": "En senare besättning kör den här lilla bilen över den grå marken."
           }
         },
         {
@@ -23096,9 +23475,54 @@
             "caption": "A laser beam climbs toward a small mirror left on the surface long ago.",
             "shutterstock_query": "observatory dome green laser beam night sky vertical illustration",
             "ai_prompt": "Photorealistic vertical night view of a large white observatory dome open to a starry sky, a thin bright green beam of light shoots upward from the opening toward the Moon, the dome silhouetted against deep blue darkness, calm awe filled mood, no people in frame, no logos, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Speglar på månen",
+            "text_sentences": [
+              "Än i dag studerar forskare händelsen X med hjälp av handfasta bevis.",
+              "Sex besättningar tar tillsammans hem 382 kilo grå sten.",
+              "Laboratorier över hela världen studerar dessa stenar för att hitta nya ledtrådar.",
+              "En del utrustning som lämnades kvar på ytan fungerar fortfarande efter flera årtionden.",
+              "Små speglar reflekterar laserljus som skickas från teleskop på jorden.",
+              "Dessa signaler mäter det exakta avståndet mellan jorden och månen.",
+              "Den rivaliserande stormakten följer också varje flygning noga.",
+              "Dess forskare spårar flygningarna och kallar dem aldrig för bluff.",
+              "Ändå hävdar vissa människor senare att händelsen aldrig ens äger rum.",
+              "Historiker studerar detta falska påstående som ett exempel på modernt tvivel.",
+              "Forskare debatterar fortfarande om programmet mest handlar om vetenskap, politik eller skådespel."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Den första expeditionen till Sydpolen",
+              "Den första kvinnan i rymden",
+              "Den första flygningen över Atlanten",
+              "Den första månlandningen"
+            ],
+            "correct": "Den första månlandningen",
+            "words": [
+              {
+                "word": "kilo",
+                "explanation": "en enhet som används för att mäta hur tungt något är"
+              },
+              {
+                "word": "laser",
+                "explanation": "en stark, smal ljusstråle"
+              },
+              {
+                "word": "reflekterar",
+                "explanation": "studsar tillbaka, som när ljus studsar mot en spegel"
+              },
+              {
+                "word": "rivaliserande",
+                "explanation": "som tävlar mot någon annan om samma sak"
+              }
+            ],
+            "main_caption": "Forskare i laboratorier runt om i världen studerar än i dag dessa grå stenar.",
+            "side_caption": "En laserstråle stiger mot en liten spegel som lämnades kvar på ytan för länge sedan."
           }
         }
-      ]
+      ],
+      "person_sv": "Den första månlandningen"
     },
     {
       "slug": "cold-war",
