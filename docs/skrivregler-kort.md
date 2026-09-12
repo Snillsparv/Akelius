@@ -55,6 +55,13 @@ Ordet ska förekomma i kortets text.
   får sitt no-text-suffix automatiskt av pipelinen, men välj motiv där kravet
   är realistiskt, t.ex. boksidor på avstånd eller i vinkel).
 - Upprepa inte samma bildmotiv mellan kort i setet (en Sokratesstaty räcker).
+- Ange alltid epokens klädsel, vapen och teknik uttryckligen i AI-prompten
+  (t.ex. "1770s dress, tricorn hats, knee breeches, muskets", "1840s
+  locomotive with tall chimney") och förbjud det troliga felet ("no steel
+  helmets, no khaki, no motor vehicles, no electric lamps"). Utan sådana
+  ankare faller bildmodellen tillbaka på 1900-talet; i leverans 6 föll 18 av
+  70 bilder på detta. Undvik motiv som är textbärare av naturen (tidslinjer,
+  liggare, sigill med prägling, boksidor i närbild, skyltar).
 
 ## Känslighet och balans
 
