@@ -62,6 +62,10 @@ Ordet ska förekomma i kortets text.
   ankare faller bildmodellen tillbaka på 1900-talet; i leverans 6 föll 18 av
   70 bilder på detta. Undvik motiv som är textbärare av naturen (tidslinjer,
   liggare, sigill med prägling, boksidor i närbild, skyltar).
+- Ange huvudpersonens och folkmängdens hudfärg uttryckligen när den bär
+  historien ("a Black South African man seen from behind", "Black and white
+  spectators"). Utan det ritar bildmodellen vita figurer; i leverans 8 föll
+  två Mandelabilder på detta.
 
 ## Känslighet och balans
 
