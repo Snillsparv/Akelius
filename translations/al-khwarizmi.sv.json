@@ -1,0 +1,189 @@
+{
+  "slug": "al-khwarizmi",
+  "person_sv": "al-Khwarizmi",
+  "cards": [
+    {
+      "title": "En rättvis delning i en ny stad",
+      "text_sentences": [
+        "Herr X lever för ungefär tolvhundra år sedan.",
+        "Hans hem är Bagdad, en stor ny stad byggd av en kalif.",
+        "Handelsmän, poeter och lärda fyller gatorna innanför dess runda murar.",
+        "Herr X arbetar med tal varje enda dag.",
+        "När en far dör, grälar familjer ofta om jorden och guldet.",
+        "Herr X skriver en bok som hjälper dem att dela allt rättvist.",
+        "Han lär sig också om de nya indiska siffrorna.",
+        "Ett konstigt litet tecken betyder ingenting alls.",
+        "I dag kallar vi det noll.",
+        "Med de nya siffrorna blir svår räkning mycket lättare för alla."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Brahmagupta", "al-Khwarizmi", "Fibonacci", "Omar Khayyam"],
+      "words": [
+        {
+          "word": "kalif",
+          "explanation": "en muslimsk härskare som leder ett stort rike på den tiden"
+        },
+        {
+          "word": "lärda",
+          "explanation": "människor som studerar och lär sig mycket"
+        },
+        {
+          "word": "gräla",
+          "explanation": "att prata på ett argt sätt för att man inte är överens"
+        }
+      ],
+      "main_caption": "En stor ny stad vid en stor flod, full av handelsmän och båtar.",
+      "side_caption": "En rad på brädet är tom. Ett helt nytt tal: ingenting alls."
+    },
+    {
+      "title": "Balans på båda sidor",
+      "text_sentences": [
+        "Herr X arbetar i Bagdad på 800-talet.",
+        "Han skriver en matematikbok med en konstig lång titel.",
+        "Titeln handlar om att återställa tal och balansera dem, som en våg.",
+        "I boken löser han svåra gåtor med tal.",
+        "Han använder aldrig plustecken, minustecken eller bokstäver för okända tal.",
+        "I stället förklarar han varje steg med vanliga ord och enkla bilder.",
+        "Han skriver den för köpmän, domare och byggmästare som behöver den i sitt dagliga arbete.",
+        "Århundraden senare översätter europeiska lärda hans bok till latin.",
+        "Från titeln tar de ett helt nytt ord för den här sortens matematik.",
+        "I dag använder elever över hela världen fortfarande det ordet: algebra."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Thabit ibn Qurra", "Fibonacci", "al-Khwarizmi", "al-Kindi"],
+      "words": [
+        {
+          "word": "gåtor",
+          "explanation": "problem som man måste tänka noga för att lösa"
+        },
+        {
+          "word": "översätta",
+          "explanation": "att ändra ord från ett språk till ett annat"
+        },
+        {
+          "word": "våg",
+          "explanation": "ett redskap som visar om två saker väger lika mycket"
+        },
+        {
+          "word": "algebra",
+          "explanation": "en sorts matematik som använder bokstäver eller ord för okända tal"
+        }
+      ],
+      "main_caption": "Han förklarar varje steg med vanliga ord och enkla bilder.",
+      "side_caption": "Balans: samma vikt på båda sidor, så att inget tippar över."
+    },
+    {
+      "title": "Förlorad på arabiska, räddad på latin",
+      "text_sentences": [
+        "Herr X skriver två viktiga böcker i Bagdad på 800-talet.",
+        "En bok handlar om att återställa och balansera tal.",
+        "Den andra boken förklarar de nya indiska siffrorna, inklusive nollan.",
+        "På 1100-talet översätter en lärd i Europa den andra boken.",
+        "Han gör om de arabiska orden till latin.",
+        "Ingen vet exakt vem den här översättaren är.",
+        "Senare försvinner varje arabisk kopia av boken.",
+        "Bara den latinska texten överlever.",
+        "Den latinska texten börjar med hans namn, skrivet på ett latinskt sätt.",
+        "Så småningom använder lärda den latinska formen av hans namn till något nytt.",
+        "Det blir ett ord för en tydlig rad av steg som alltid ger samma svar.",
+        "Det ordet används fortfarande i dag, i varje skola och varje dator."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Nasir al-Din al-Tusi", "al-Khwarizmi", "Fibonacci", "al-Biruni"],
+      "words": [
+        {
+          "word": "översättare",
+          "explanation": "en person som ändrar ord från ett språk till ett annat"
+        },
+        {
+          "word": "överleva",
+          "explanation": "att fortfarande finnas kvar efter lång tid eller en stor fara"
+        },
+        {
+          "word": "latin",
+          "explanation": "språket i antikens Rom, som lärda använde i många århundraden"
+        },
+        {
+          "word": "steg",
+          "explanation": "de små delarna av ett arbete, gjorda en efter en"
+        }
+      ],
+      "main_caption": "En översättare gör om bokens arabiska ord till latin.",
+      "side_caption": "Steg: ett tydligt steg, sedan nästa, som alltid leder samma väg."
+    },
+    {
+      "title": "En ny karta över hela världen",
+      "text_sentences": [
+        "Herr X arbetar som astronom och geograf i Bagdad.",
+        "Han gör detaljerade tabeller som följer solen, månen och planeterna.",
+        "Andra lärda använder tabellerna för att göra kalendrar, hitta bönetider och läsa stjärnorna.",
+        "Herr X studerar också geografiböckerna från forntidens grekiska lärda.",
+        "En tidigare grekisk lärd ritade en berömd karta över den kända världen.",
+        "Den gamla kartan har många fel om kuster, floder och avstånd.",
+        "Tillsammans med andra lärda kontrollerar och rättar herr X mer än tvåtusen platser.",
+        "Tillsammans ritar de en ny och mer exakt karta över världen.",
+        "Hans eget namn kan peka på en region öster om Kaspiska havet.",
+        "Historiker är inte säkra på om han själv är född där."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["al-Battani", "al-Khwarizmi", "al-Biruni", "Nasir al-Din al-Tusi"],
+      "words": [
+        {
+          "word": "astronom",
+          "explanation": "en vetenskapsperson som studerar stjärnorna, solen och planeterna"
+        },
+        {
+          "word": "geograf",
+          "explanation": "en person som studerar och kartlägger jorden, dess land och hav"
+        },
+        {
+          "word": "exakt",
+          "explanation": "rätt, med inga eller väldigt få fel"
+        },
+        {
+          "word": "region",
+          "explanation": "ett stort landområde, större än en enda stad"
+        }
+      ],
+      "main_caption": "På dagen mäter lärda solens skugga och skriver ner vad de finner.",
+      "side_caption": "En ny karta över världen, ritad för att rätta gamla fel."
+    },
+    {
+      "title": "Mellan Indien, Grekland och hans egna idéer",
+      "text_sentences": [
+        "Herr X arbetar som matematiker och lärd i Bagdad på 800-talet.",
+        "Historiker känner till hans liv mest genom en handfull korta, senare biografiska anteckningar.",
+        "Inga personliga brev från honom finns bevarade.",
+        "Hans berömda bok om att återställa och balansera tal bygger på äldre traditioner.",
+        "Några av metoderna kommer troligen från tidigare babylonisk, indisk och grekisk matematik.",
+        "Ändå organiserar herr X dessa metoder till tydliga, allmänna regler för första gången.",
+        "Senare lärda i Mellanöstern och Europa bygger vidare på hans regler i århundraden.",
+        "Vissa historiker kallar honom fadern till den här sortens matematik.",
+        "Andra säger att hans stora gåva är att samla och organisera det som andra vet.",
+        "Historiker diskuterar fortfarande hur mycket som verkligen är hans egen uppfinning."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Thabit ibn Qurra", "Arkimedes", "al-Khwarizmi", "Brahmagupta"],
+      "words": [
+        {
+          "word": "biografisk",
+          "explanation": "handlar om en persons livshistoria"
+        },
+        {
+          "word": "traditioner",
+          "explanation": "gamla sätt att göra eller veta saker, som förs vidare genom tiden"
+        },
+        {
+          "word": "organisera",
+          "explanation": "att sätta saker i tydlig ordning"
+        },
+        {
+          "word": "uppfinning",
+          "explanation": "något nytt, skapat för första gången"
+        }
+      ],
+      "main_caption": "Gammal kunskap från många länder står sida vid sida i hans hylla.",
+      "side_caption": "Spridda idéer, samlade i ett tydligt och ordnat mönster."
+    }
+  ]
+}
