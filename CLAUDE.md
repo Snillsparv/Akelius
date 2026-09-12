@@ -19,14 +19,18 @@ ordlista eller bild.
 
 ## Status (uppdatera vid varje leverans)
 
-- 50 ämnen, 250 kort, 500 bilder, 100 procent tvåspråkigt (leverans 1-8).
-  Masterlistan med 50 ämnen är därmed färdigproducerad.
-- Pågår: leverans 9 ur den utökade listan i `docs/forslag-utokad-lista.md`,
-  vetenskapsblocket med fem kort per ämne: Newton, Einstein, Marie Curie,
-  Pasteur, Turing, Florence Nightingale (rad 51-54, 59, 79). Klartecken att
-  fortsätta gavs 2026-09-12. Frågorna om trekortsset, nya kategorietiketter,
-  ordning och nivå 3 är fortfarande öppna, så tills vidare produceras bara
-  femkortsämnen med befintliga etiketter, i förslagets ordning.
+- 56 ämnen, 280 kort, 544 av 560 bilder, 100 procent tvåspråkigt (leverans 1-9).
+  Masterlistan med 50 ämnen är färdig; leverans 9 (Newton, Einstein, Marie
+  Curie, Pasteur, Turing, Florence Nightingale, rad 51-54, 59, 79 i
+  `docs/forslag-utokad-lista.md`) är färdig i text och svenska. 44 bilder är
+  granskade och godkända; 16 bilder saknas (Einstein kort 3-5, hela Curie)
+  eftersom OpenAI-kontots krediter tog slut 2026-09-12 (`credit_balance_exhausted`).
+- Näst på tur: **fyll på OpenAI-krediter**, kör sedan
+  `python3 tools/generate_images.py --only albert-einstein --workers 4` och
+  samma för `marie-curie`, bildgranska de två seten, bygg om sidorna.
+  Därefter nästa block ur den utökade listan i förslagets ordning; frågorna
+  om trekortsset, nya kategorietiketter, ordning och nivå 3 är fortfarande
+  öppna hos Jonas, så tills vidare bara femkortsämnen med befintliga etiketter.
 - Öppet hos Roger: baksidestexter för befintliga kort, nivå 3-kort,
   "about X years ago" kontra århundraden.
 

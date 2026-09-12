@@ -1,9 +1,13 @@
 # Förslag: utökad ämneslista mot 600+ kort
 
-Status: klartecken att fortsätta gavs 2026-09-12. Produktionen börjar med
-vetenskapsblockets femkortsämnen (rad 51-54, 59, 79) som leverans 9. Frågorna
-1-4 nedan är fortfarande obesvarade, så trekortsämnen, nya kategorietiketter
-och nivå 3 väntar.
+Status: klartecken att fortsätta gavs 2026-09-12. Leverans 9 = rad 51-54, 59
+och 79 (Newton, Einstein, Marie Curie, Pasteur, Turing, Florence Nightingale),
+färdig i text, granskning och svenska; 44 av 60 bilder klara, resten väntar
+på påfyllda OpenAI-krediter. Frågorna 1-4 nedan är fortfarande obesvarade, så
+trekortsämnen, nya kategorietiketter och nivå 3 väntar. Nästa femkortsämnen i
+förslagets ordning: 61 Arkimedes, 62 al-Khwarizmi, 71 Ibn Sina, 72 Visdomens
+hus, 74 Ibn Battuta, 76 Upplysningen (kräver beslut om etiketterna
+`mathematics` och `ideas`).
 Underlag: Rogers besked 2026-08-23 (idéhistoria och utveckling viktigast,
 gärna matematiker, fysiker och nobelpristagare, målgrupp eleverna i Tanzania
 och Bhutan, över 600 kort) och 2026-08-24 (ytterligare kanske femhundra kort).
@@ -35,15 +39,15 @@ bilder, granskning och svenska. Bildkostnaden är cirka 0,34 USD per kort.
 
 | # | Ämne | Block | Kort | Motivering |
 |---|---|---|---|---|
-| 51 | Isaac Newton | vetenskap | 5 | Gravitationen, ljuset, den vetenskapliga revolutionens slutpunkt |
-| 52 | Albert Einstein | vetenskap | 5 | Relativitet, nobelpris, flykten 1933, brevet om bomben |
-| 53 | Marie Curie | vetenskap, nobel | 5 | Två nobelpris, radioaktivitet, röntgenbilar i kriget |
-| 54 | Louis Pasteur | vetenskap | 5 | Bakterier, vaccin, pastörisering, mjölken i varje hem |
+| 51 | Isaac Newton | vetenskap | 5 ✅ Leverans 9 | Gravitationen, ljuset, den vetenskapliga revolutionens slutpunkt |
+| 52 | Albert Einstein | vetenskap | 5 ✅ Leverans 9 | Relativitet, nobelpris, flykten 1933, brevet om bomben |
+| 53 | Marie Curie | vetenskap, nobel | 5 ✅ Leverans 9 | Två nobelpris, radioaktivitet, röntgenbilar i kriget |
+| 54 | Louis Pasteur | vetenskap | 5 ✅ Leverans 9 | Bakterier, vaccin, pastörisering, mjölken i varje hem |
 | 55 | Gregor Mendel | vetenskap | 3 | Ärtorna i klosterträdgården, ärftlighetens lagar |
 | 56 | Dmitrij Mendelejev | vetenskap | 3 | Periodiska systemet, luckorna som fylldes |
 | 57 | Niels Bohr | vetenskap, nobel | 3 | Atommodellen, flykten från Danmark, ansvaret |
 | 58 | Alexander Fleming | vetenskap, nobel | 3 | Penicillinet, den glömda skålen, antibiotikans följder |
-| 59 | Alan Turing | vetenskap | 5 | Kodknäckaren, datorns idé, förföljelsen, upprättelsen |
+| 59 | Alan Turing | vetenskap | 5 ✅ Leverans 9 | Kodknäckaren, datorns idé, förföljelsen, upprättelsen |
 | 60 | Euklides | matematik | 3 | Elementa, bevisets idé, läroboken i två tusen år |
 | 61 | Arkimedes | matematik | 5 | Hävstången, badkaret som legend, Syrakusa, skruven |
 | 62 | al-Khwarizmi | matematik | 5 | Algebra, algoritmens namn, siffrorna från Indien via Bagdad |
@@ -63,7 +67,7 @@ bilder, granskning och svenska. Bildkostnaden är cirka 0,34 USD per kort.
 | 76 | Upplysningen | idéhistoria | 5 | Encyklopedin, Voltaire, Rousseau, kritik och kolonialt arv |
 | 77 | Mary Wollstonecraft | idéhistoria | 3 | Kvinnors rättigheter 1792, dottern som skrev Frankenstein |
 | 78 | Adam Smith | idéhistoria | 3 | Nålfabriken, marknaden, moralen han också skrev om |
-| 79 | Florence Nightingale | vetenskap | 5 | Statistiken som räddade liv, sjukvårdens yrke |
+| 79 | Florence Nightingale | vetenskap | 5 ✅ Leverans 9 | Statistiken som räddade liv, sjukvårdens yrke |
 | 80 | Sigmund Freud | idéhistoria | 3 | Det omedvetna, drömmarna, kritiken |
 | 81 | Rabindranath Tagore | idéhistoria, nobel | 3 | Poeten, skolan i Santiniketan, dialogen med Gandhi |
 | 82 | Wangari Maathai | nobel | 3 | Träden i Kenya, kvinnorna, fredspriset 2004 |

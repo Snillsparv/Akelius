@@ -9,7 +9,7 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**250 kort · 50 ämnen**, samtliga faktagranskade och specgranskade.
+**280 kort · 56 ämnen**, samtliga faktagranskade och specgranskade.
 Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
 svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
@@ -31,6 +31,8 @@ svensk översättning (växla språk med knappen på förhandsvisningssidorna).
   Adolf Hitler, Mahatma Gandhi, Förenta nationerna
 - **Leverans 8** — Kalla kriget, Martin Luther King, Nelson Mandela,
   Berlinmurens fall, Den första månlandningen
+- **Leverans 9** — Isaac Newton, Albert Einstein, Marie Curie, Louis Pasteur,
+  Alan Turing, Florence Nightingale *(första leveransen ur den utökade listan)*
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -78,11 +80,13 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(500 st för leverans 1–8: 250 kort × huvudbild + sidobild).
+(560 st för leverans 1–9: 280 kort × huvudbild + sidobild).
 
-**Status: 500 av 500 bilder klara** — samtliga kort i leverans 1–8 har
-huvudbild och sidobild. Varje batch har kvalitetsgranskats bild för bild
-mot sina briefer, och underkända bilder har genererats om.
+**Status: 544 av 560 bilder klara** — samtliga kort i leverans 1–8 har
+huvudbild och sidobild; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
+hela Marie Curie) i väntan på påfyllda krediter hos bildtjänsten. Varje batch
+har kvalitetsgranskats bild för bild mot sina briefer, och underkända bilder
+har genererats om.
 
 Arbetsflöde per batch:
 
@@ -5788,6 +5792,686 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 **Svar:** ⬜ Steve Biko · ✅ Nelson Mandela · ⬜ Kwame Nkrumah · ⬜ Julius Nyerere
 
 **Ord:** *compromise* — giving up part of what you want, to reach agreement · *inequality* — when wealth or chances are not shared fairly · *autobiography* — a book a person writes about their own life · *archives* — collections of old documents kept for the future
+
+</details>
+
+### Louis Pasteur
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Sour Wine, Gentle Heat, and a Boy Bitten by a Dog</summary>
+
+> Mr X is a scientist who lives in France, about 150 years ago.  
+> He studies tiny living things that people cannot see.  
+> These tiny living things can make milk and wine turn sour.  
+> They can also make cuts and wounds turn bad.  
+> Mr X finds a way to heat wine and beer very gently.  
+> The gentle heat kills the tiny living things inside.  
+> After that, the wine and beer stay good for much longer.  
+> Later, other people use his idea for milk.  
+> In 1885, a dog with rabies bites a boy named Joseph Meister.  
+> Two doctors say the boy will die without help.  
+> Mr X makes a new treatment in his laboratory.  
+> A doctor gives the boy the treatment while Mr X watches, and the boy lives.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Edward Jenner · ✅ Louis Pasteur · ⬜ Alexander Fleming · ⬜ Ignaz Semmelweis
+
+**Ord:** *sour* — tasting sharp and bad, like old milk · *wound* — a cut or hurt place on the body · *rabies* — a dangerous disease that a sick animal can give with a bite · *laboratory* — a room where a scientist does tests and experiments
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Bent Glass Neck, Sick Silkworms, and a Field of Sheep</summary>
+
+> Mr X works in a laboratory in France, about 160 years ago.  
+> Many people believe that life can appear from nothing inside old soup.  
+> Mr X boils broth inside a glass flask with a long, bent neck.  
+> Air can enter the flask, but dust and germs cannot pass the bend.  
+> The broth stays clear for months, so life does not appear by itself.  
+> This experiment shows that germs always come from other germs.  
+> Later, Mr X helps save the French silk industry from a silkworm disease.  
+> He shows which tiny living things make the silkworms sick.  
+> Farmers learn to keep only healthy silkworm eggs.  
+> He then makes a vaccine from weakened germs.  
+> In 1881, he tests it on sheep in front of a large crowd.  
+> The treated sheep stay healthy, and the idea spreads across the world.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Robert Koch · ⬜ Joseph Lister · ✅ Louis Pasteur · ⬜ Charles Darwin
+
+**Ord:** *broth* — a thin, watery liquid made by boiling something, like a simple soup · *silkworm* — a small caterpillar that makes silk thread · *vaccine* — a weak form of a germ given to protect the body against the strong form · *weakened* — made less strong than before
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — An Idea Doctors Do Not Want to Believe</summary>
+
+> In France, about 150 years ago, many doctors do not believe that germs cause disease.  
+> Some doctors still think that bad smells and bad air alone make people sick.  
+> Mr X strongly disagrees, and he calls this old idea wrong and dangerous.  
+> He argues that germs too small to see cause infection in wounds and blood.  
+> Many respected doctors mock this idea, and Mr X faces years of criticism.  
+> A famous story says that in 1879 an assistant leaves the laboratory to go on holiday.  
+> He forgets to inject hens with a fresh culture of chicken cholera germs.  
+> When he returns, he uses the old, weak sample instead.  
+> The hens get slightly sick but recover, and they survive a later infection too.  
+> Mr X understands that a weakened germ can train the body to fight disease.  
+> This discovery slowly changes how doctors around the world think about illness.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Joseph Lister · ⬜ Robert Koch · ⬜ Ignaz Semmelweis · ✅ Louis Pasteur
+
+**Ord:** *infection* — illness caused by germs getting into the body · *criticism* — when people say something is wrong or bad · *culture* — a group of tiny living things grown together in a laboratory · *recover* — to get well again after being sick
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A New Research Center in Paris and a Life of Loss</summary>
+
+> Mr X is a French chemist, not a licensed doctor.  
+> He studies the tiny living things that cause disease.  
+> In 1885, his treatment saves a boy bitten by a dog with rabies.  
+> Newspapers around the world report the extraordinary news.  
+> People from many countries send money to thank him.  
+> With this money, a new research center opens in Paris in 1888.  
+> Scientists there study disease and treat rabies patients who travel from far away.  
+> Mr X already knows deep personal loss.  
+> Three of his daughters die as children, two of them of typhoid.  
+> Years earlier, a stroke leaves one side of his body weak.  
+> Even so, he keeps directing his research with the help of loyal assistants.  
+> After his death, these assistants carry on his work at the center.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Edward Jenner · ⬜ Robert Koch · ✅ Louis Pasteur · ⬜ Alexander Fleming
+
+**Ord:** *licensed* — officially allowed to do a job, like being a doctor · *extraordinary* — very unusual or amazing · *typhoid* — a serious disease spread by dirty water and food · *stroke* — a sudden illness in the brain that can leave part of the body weak
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Polished Notebooks and a Rival in Berlin</summary>
+
+> Mr X keeps detailed laboratory notebooks throughout his working life.  
+> He tells his family that nobody may ever read them.  
+> Decades later, in the 1970s, a historian finally studies these private notebooks.  
+> The notebooks reveal that his public reports sometimes hide the messy, real story.  
+> In one famous case, his published method differs from what he actually used.  
+> Historians still debate how much this changes his reputation as a careful scientist.  
+> They also ask if it was ethical to treat a boy for rabies in 1885 before the animal tests were finished.  
+> In the 1880s, a rival scientist in Berlin, Robert Koch, studies the germs behind tuberculosis.  
+> Robert Koch and Mr X compete fiercely, partly because their countries are rivals too.  
+> This competition between French and German science pushes both men to work faster.  
+> As germ theory becomes accepted, more hospitals begin washing hands and cleaning instruments carefully.  
+> Death rates from infection in hospitals and disease in growing cities begin to fall.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Edward Jenner · ✅ Louis Pasteur · ⬜ Alexander Fleming · ⬜ Charles Darwin
+
+**Ord:** *reputation* — what other people think and say about someone · *ethical* — right and fair according to moral rules · *rival* — someone who competes strongly against another person · *tuberculosis* — a serious lung disease caused by germs
+
+</details>
+
+### Alan Turing
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Boy Who Loved Puzzles and Long Runs</summary>
+
+> Mr X is a boy in England, about a hundred years ago.  
+> He loves numbers and hard puzzles.  
+> He also loves running very long distances alone.  
+> He is not the best student in other subjects.  
+> Later, he studies at a famous old university in England.  
+> As a young man, he dreams of a machine that follows a list of steps.  
+> Such a machine could solve almost any puzzle.  
+> Then a great war starts in Europe.  
+> Mr X moves to a secret place with wooden huts.  
+> Many clever men and women work there in secret.  
+> They try to break a very hard enemy code.  
+> Mr X and his friends find a way to read the enemy's secret messages.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Charles Babbage · ✅ Alan Turing · ⬜ Ada Lovelace · ⬜ Konrad Zuse
+
+**Ord:** *hut* — a small simple building, often made of wood · *code* — a secret way of writing so only some people can read it · *puzzle* — a problem that is fun and hard to solve · *enemy* — a country or person you are fighting against in a war
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Bletchley Park, Enigma, and a Machine Called the Bombe</summary>
+
+> Mr X studies mathematics at Cambridge, in England.  
+> In 1939, a great war begins in Europe.  
+> Mr X moves to Bletchley Park, a secret country estate.  
+> There, teams try to break Enigma, a German machine that makes secret codes.  
+> Polish mathematicians break the machine's secrets first, before the war.  
+> Building on their work, Mr X helps design a large machine called the bombe.  
+> Every day, it tests thousands of possible code settings.  
+> Reading the German messages helps convoys of ships cross the Atlantic safely.  
+> Thousands of people work at Bletchley Park, and most of them are women.  
+> They must never tell anyone what they do there.  
+> The secret is kept for about thirty years after the war.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Alan Turing · ⬜ John von Neumann · ⬜ Claude Shannon · ⬜ Grace Hopper
+
+**Ord:** *mathematics* — the study of numbers, shapes and patterns · *estate* — a large piece of land with a big house on it · *setting* — one specific way that a machine's parts are arranged · *convoy* — a group of ships that travel together for safety
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A Machine on Paper and a Question About Thinking</summary>
+
+> In 1936, a young Cambridge mathematician named Mr X publishes an unusual paper.  
+> He imagines a simple machine that reads and writes symbols on a paper tape.  
+> One such machine, built the right way, can copy the work of any other.  
+> Soon after, he spends two years studying in Princeton, in the United States.  
+> In 1948, he moves to Manchester and writes programs for one of the first real computers.  
+> In 1950, he publishes a paper asking a simple question: can machines think?  
+> He describes a game: a judge asks written questions to two hidden players.  
+> One player is a person, the other is a computer program.  
+> If the judge often cannot tell which is which, he says, the machine has passed the test.  
+> In 1952, a law of that time punishes him for loving another man.  
+> The government says sorry in 2009, and he is pardoned in 2013.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Charles Babbage · ⬜ Konrad Zuse · ✅ Alan Turing · ⬜ John von Neumann
+
+**Ord:** *symbol* — a written mark that stands for a letter, a number or a sound · *tape* — a long thin strip, here used to store information · *judge* — a person who decides who is right, or who wins a game · *program* — a list of steps that tells a computer what to do
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Computer Design, a Chess Program, and a Marathon Runner</summary>
+
+> Mr X is a British mathematician who does secret work during a world war.  
+> When the war ends in 1945, he still cannot tell anyone what he has done.  
+> He joins a national laboratory near London and designs a computer of his own.  
+> The machine is built later, smaller than he planned, and a company sells copies of it.  
+> He also writes one of the first chess programs, by hand on paper.  
+> No computer of the time can run it, so he plays the moves himself.  
+> Outside work, he runs marathons and is among the fastest marathon runners in Britain.  
+> In 1952, a law of that time punishes him for loving another man.  
+> He dies in 1954.  
+> The government says sorry in 2009, and he is pardoned in 2013.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Claude Shannon · ⬜ Konrad Zuse · ⬜ Grace Hopper · ✅ Alan Turing
+
+**Ord:** *laboratory* — a place where scientists do tests and build new things · *designs* — makes a plan for how to build something · *chess* — a board game for two players with kings, queens and knights · *marathon* — a running race of about forty-two kilometers
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Founder, Secrets, and a Late Apology</summary>
+
+> Historians today call Mr X one of the founders of computer science.  
+> In 1936, he proves that some problems can never be solved by any machine.  
+> Real computers, built about ten years later, follow the basic idea of his paper.  
+> His codebreaking role in a world war is barely known until the 1970s.  
+> Only then can historians begin to judge his part in that war.  
+> The question and the game he describes in 1950 still shape how we test machines today.  
+> Late in life, he studies why spots and stripes form on animal skin.  
+> In 1952, a law of that time punishes him for loving another man.  
+> He dies in 1954, and the inquest calls it suicide.  
+> The government says sorry in 2009, and he is pardoned in 2013.  
+> Today, the highest prize in computer science carries his name.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ John von Neumann · ✅ Alan Turing · ⬜ Claude Shannon · ⬜ Charles Babbage
+
+**Ord:** *founder* — a person who starts something important, like a new field of study · *codebreaking* — finding out how to read secret messages · *inquest* — an official inquiry to find out how a person died
+
+</details>
+
+### Florence Nightingale
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Rich Girl Who Wants to Nurse the Sick</summary>
+
+> Miss X grows up in a rich family in England, about 200 years ago.  
+> She has a big house, servants, and a comfortable life.  
+> Most rich girls of her time do not choose a job at all.  
+> One day, she says she hears a call from God.  
+> She believes God wants her to help sick and hurt people.  
+> Her family is not happy about her plan.  
+> They want her to marry and stay quietly at home instead.  
+> She trains as a nurse anyway, far from home.  
+> Later, her country goes to war in a land far away.  
+> She travels there with a small team of nurses.  
+> At night, she walks through the hospital with a small lamp.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Mary Seacole · ✅ Florence Nightingale · ⬜ Elizabeth Blackwell · ⬜ Clara Barton
+
+**Ord:** *servants* — people who are paid to work and help in a rich home · *call* — here, a strong feeling that God wants you to do something · *train* — to learn the skills you need for a job · *lamp* — a small light that burns oil or holds a candle
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Thirty-Eight Nurses in a Filthy War Hospital</summary>
+
+> Miss X is a nurse in England in 1854.  
+> Her country fights a war far away, called the Crimean War.  
+> Newspapers report that wounded soldiers get very poor care.  
+> Miss X leads a team of thirty-eight nurses to help.  
+> They travel to a huge army hospital at Scutari, near Constantinople.  
+> The building is dirty, cold, and full of rats.  
+> Clean water and clean bandages are hard to find.  
+> More soldiers die from disease than from their wounds.  
+> Miss X works hard to make the wards cleaner and calmer.  
+> She buys food and clean shirts for the soldiers with money from newspaper readers at home.  
+> The next year, a special team cleans the hospital's sewers, and far fewer soldiers die.  
+> When she goes home, the whole country calls her a hero.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Clara Barton · ⬜ Mary Seacole · ✅ Florence Nightingale · ⬜ Dorothea Dix
+
+**Ord:** *wounded* — hurt badly in a fight or accident · *bandages* — strips of cloth used to cover a wound · *disease* — an illness, often caused by germs, not an injury · *ward* — a large room in a hospital with many beds · *sewer* — an underground pipe that carries away dirty water and waste
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Diagrams That Explain Why Soldiers Die</summary>
+
+> Miss X is a nurse who comes home from a war far away.  
+> After the war, she studies numbers, not battles.  
+> She collects careful facts about every soldier who dies in hospital.  
+> Most deaths come from disease, not from enemy weapons.  
+> She draws colorful diagrams to show this clearly.  
+> Army officials and politicians find the diagrams easy to read.  
+> The diagrams help push for cleaner hospitals and cleaner army camps.  
+> In 1858, a scientific society elects her as its first woman member.  
+> That society studies numbers and facts about people and countries, called statistics.  
+> Miss X argues that careful facts, not luck, save lives.  
+> Her careful work slowly changes how governments plan health care.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Ada Lovelace · ✅ Florence Nightingale · ⬜ Elizabeth Blackwell · ⬜ Marie Curie
+
+**Ord:** *diagrams* — pictures that use shapes or lines to show facts clearly · *officials* — people who have an important job in the army or government · *elects* — chooses someone for a role by voting · *statistics* — the study of facts and numbers about many people or things
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A School, a Book, and Years in Bed</summary>
+
+> Miss X is born in an Italian city, and her family names her after it.  
+> She grows up rich in England but later becomes sick from her time at war.  
+> For the rest of her life, weak health often keeps her in bed.  
+> Yet she keeps working hard from her bedroom for many years.  
+> She writes a famous book about good nursing care.  
+> Soon after, she opens a school for nurses in London.  
+> The school trains women to nurse with clean, careful methods.  
+> Officials in India ask for her advice about clean water and clean camps.  
+> She never travels to India herself, but she studies its reports closely.  
+> In 1907, a king gives her a high honor, the first time for a woman.  
+> **Who is Miss X?**
+
+**Svar:** ⬜ Marie Curie · ⬜ Edith Cavell · ⬜ Elizabeth Garrett Anderson · ✅ Florence Nightingale
+
+**Ord:** *advice* — ideas about what someone should do · *honor* — a special way of showing great respect · *method* — a careful, planned way of doing something · *reports* — written accounts that describe facts or events
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — A Statistician, a Legend, and Another Nurse From Jamaica</summary>
+
+> Miss X believes dirty air, not tiny living germs, causes most disease.  
+> Later scientists show that germs are the true cause of infection.  
+> Still, her hunt for clean air pushes hospitals to become cleaner anyway.  
+> In 1855, during the Crimean War, deaths at her army hospital fall sharply after a team cleans its sewers.  
+> Years later, Miss X studies this result closely and draws a clear lesson from it.  
+> Popular stories later remember her mostly for her kindness at night.  
+> Historians remind us she is also a tough, careful statistician.  
+> Mary Seacole, a nurse from Jamaica, also wants to help in that war.  
+> She asks to join the nurses sent out, but the officials say no.  
+> So Mary Seacole cares for soldiers her own way instead.  
+> Today, both women are honored as pioneers of modern nursing.  
+> **Who is Miss X?**
+
+**Svar:** ✅ Florence Nightingale · ⬜ Elizabeth Blackwell · ⬜ Clara Barton · ⬜ Marie Curie
+
+**Ord:** *germs* — tiny living things, too small to see, that can cause disease · *infection* — illness caused by germs getting into the body · *statistician* — a person who studies facts and numbers carefully · *pioneers* — people who are among the first to try or achieve something new
+
+</details>
+
+### Isaac Newton
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Story About an Apple</summary>
+
+> Mr X is born in a small village in England.  
+> His father dies just before he is born.  
+> He grows up on the family farm.  
+> Later, he studies at a university.  
+> A serious sickness closes the university for a time.  
+> Mr X goes home to the farm.  
+> He stays there for more than a year.  
+> He thinks and thinks about the world around him.  
+> Later in life, he tells a story about an apple.  
+> He says he watches an apple fall from a tree.  
+> He asks himself what pulls the apple down to the ground.  
+> He wonders if the same pull holds the moon in the sky.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Isaac Newton · ⬜ Galileo Galilei · ⬜ Charles Darwin · ⬜ Robert Hooke
+
+**Ord:** *village* — a small place where people live, smaller than a town · *university* — a school where adults study after ordinary school · *sickness* — an illness, a disease · *pull* — a force that draws something toward it
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Prism, a Mirror, and Three Laws</summary>
+
+> Mr X studies at a university in England.  
+> A deadly plague closes it for a time, and he goes home.  
+> He lets sunlight pass through a glass prism.  
+> White light spreads into all the colors of a rainbow.  
+> So white light is a mix of all colors, he says.  
+> A glass lens splits light in the same way, so old telescopes blur the picture.  
+> In 1668, he builds a telescope with a curved mirror instead.  
+> The picture is sharper, and the tube is much shorter.  
+> He becomes a professor at only 26.  
+> Scholars in London are amazed by his small telescope.  
+> He also writes down three simple laws about how things move.  
+> One law says a moving thing keeps moving unless something stops it.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Isaac Newton · ⬜ Galileo Galilei · ⬜ Robert Hooke · ⬜ Edmond Halley
+
+**Ord:** *plague* — a dangerous disease that spreads quickly and kills many people · *prism* — a piece of glass with flat sides that splits light into colors · *lens* — a curved piece of glass that bends light · *mirror* — a smooth surface that reflects light and shows a picture
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — One Force for Earth and Sky</summary>
+
+> Mr X becomes a famous scholar in England.  
+> In a letter to a rival, he writes a line that sounds humble.  
+> He says he sees far only by standing on the shoulders of giants.  
+> In 1687, he publishes his greatest book.  
+> The book gives exact laws for how forces move all things.  
+> It also describes one single force called gravitation.  
+> Every object pulls every other object, he says, and heavy objects pull hardest.  
+> The force that makes a stone fall also holds the moon in its path.  
+> The moon's pull lifts the seas and makes the tides.  
+> The same force keeps every planet moving around the sun.  
+> Before this book, earth and sky seem to follow different rules.  
+> After it, one set of laws explains both.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Galileo Galilei · ✅ Isaac Newton · ⬜ Johannes Kepler · ⬜ Gottfried Leibniz
+
+**Ord:** *scholar* — a person who studies and knows a lot about a subject · *rival* — a person who competes against you or disagrees with you · *gravitation* — the pulling force between the earth, the moon, and all other things · *tide* — the rise and fall of the sea, twice each day
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Bitter Argument, a Coin, and a Secret Furnace</summary>
+
+> Mr X invents a powerful new kind of mathematics.  
+> Some years later, a mathematician in Paris invents very similar ideas.  
+> His name is Gottfried Leibniz, and he works alone too.  
+> For years, the two men argue about who was first.  
+> Followers on both sides write angry letters.  
+> The bitter argument lasts until both men are dead.  
+> Later in life, Mr X takes a high post at the royal money house.  
+> There, he hunts down men who make fake coins.  
+> He studies court records and questions witnesses himself.  
+> Few people know that he also spends years on secret experiments.  
+> In a hot furnace, he tries to turn cheap metals into gold.  
+> He also fills many private pages with his own ideas about the Bible.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Johannes Kepler · ✅ Isaac Newton · ⬜ Robert Hooke · ⬜ Edmond Halley
+
+**Ord:** *mathematician* — a person who is an expert in numbers and mathematics · *witness* — a person who sees something happen and can tell others about it · *fake* — not real, made to look like something it is not · *furnace* — a closed fire built to make things very hot
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Standing on Other Men's Work</summary>
+
+> Mr X becomes one of the most famous scientists in history.  
+> But historians remind us he does not work alone in an empty room.  
+> Earlier thinkers already study falling objects and moving planets.  
+> A rival scientist already guesses that a pulling force weakens with distance.  
+> Mr X takes such scattered clues and proves them with exact mathematics.  
+> He writes far more pages about old chemistry and about the Bible than about motion.  
+> Colleagues describe him as brilliant but also difficult and secretive.  
+> He rarely admits his own mistakes, and he almost never forgives a rival.  
+> More than two hundred years later, new science changes some of his rules.  
+> Even so, his basic laws still guide bridges, rockets, and machines today.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Robert Hooke · ✅ Isaac Newton · ⬜ Christiaan Huygens · ⬜ Gottfried Leibniz
+
+**Ord:** *historian* — a person who studies and writes about the past · *distance* — how far away one thing is from another · *colleague* — a person you work with · *secretive* — keeping many things hidden or private
+
+</details>
+
+### Albert Einstein
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Compass, a Desk, and a Big Question</summary>
+
+> Mr X is a small boy in Germany, more than 140 years ago.  
+> His family says he is slow to start talking.  
+> One day his father shows him a small compass.  
+> The needle always points the same way, and this amazes him.  
+> He wants to know why, and he never stops asking why.  
+> He also loves to play the violin.  
+> As a young man, he cannot find a steady job as a teacher.  
+> He takes a job in an office in Switzerland instead.  
+> His job is to check other people's new inventions.  
+> In his free time, he thinks about light and time.  
+> Years later, his strange ideas are tested, and he becomes famous all over the world.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Albert Einstein · ⬜ Isaac Newton · ⬜ Michael Faraday · ⬜ Niels Bohr
+
+**Ord:** *compass* — a small tool with a needle that always points north · *violin* — a small wooden music instrument with strings, played with a bow · *invention* — a new thing that a person makes for the first time · *amaze* — to surprise someone very much
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — One Strange Year, Then a Ship Away</summary>
+
+> Mr X works in a quiet office, more than 100 years ago.  
+> In one single year, he writes four amazing papers.  
+> One paper says light can act like tiny particles, not only waves.  
+> Another paper explains why tiny bits of matter dance in water under a microscope.  
+> A third paper gives strange new rules for space and time.  
+> A fourth paper says mass and huge energy are really the same thing.  
+> Only a few scientists notice these papers at first.  
+> Many years later, he wins a great science prize.  
+> The prize is for the paper about light as particles.  
+> It is not for his idea called relativity, which is even more famous.  
+> In 1933, a new dictator takes power in his home country.  
+> Mr X leaves for good and sails to safety in the United States.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Max Planck · ✅ Albert Einstein · ⬜ Ernest Rutherford · ⬜ Lise Meitner
+
+**Ord:** *particle* — a very, very small piece of something · *matter* — anything that takes up space, like water, wood, or air · *microscope* — a tool with lenses that makes very small things look big · *dictator* — a ruler who has all the power and lets nobody disagree
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Starlight Bends, Just as He Says</summary>
+
+> Mr X works out a strange new idea about space and time.  
+> Others soon call the idea relativity.  
+> Nothing can travel faster than the speed of light, he says.  
+> Time itself can run slower or faster, depending on speed.  
+> Ten years later, he finishes an even bigger version of the idea.  
+> This time, it is about gravity.  
+> Gravity is not a pull, he says, but a bending of space itself.  
+> Heavy stars and planets bend the space and time around them.  
+> If he is right, starlight should bend when it passes close to the sun.  
+> In 1919, a total eclipse hides the sun's light for a few minutes.  
+> Scientists photograph stars near the darkened sun and measure the bending.  
+> The result supports his idea, and he becomes famous all over the world.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Arthur Eddington · ⬜ Max Planck · ✅ Albert Einstein · ⬜ James Clerk Maxwell
+
+**Ord:** *gravity* — the force that pulls things toward each other, like the earth pulling you down · *relativity* — a scientific idea that connects space, time, and motion · *eclipse* — when the moon covers the sun and the sky goes dark for a while · *bend* — to curve, so something is no longer straight
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Letter, a Weapon, and an Offer Refused</summary>
+
+> In 1933, a dictator takes power in Germany.  
+> Mr X leaves, and by the late 1930s he lives safely in the United States.  
+> He hears that scientists in Europe can now split the tiny core of an atom.  
+> Splitting this core can release a huge burst of energy.  
+> Other scientists worry that the dictator's country could build a powerful weapon.  
+> Just before a great war begins in Europe, Mr X signs a letter to the American president.  
+> The letter warns that such a weapon is now possible.  
+> He never works on the weapon project himself.  
+> Years later, the weapon is used, and he feels deep regret.  
+> For the rest of his life, he speaks and writes for peace between nations.  
+> Late in his life, Israel offers him its highest office.  
+> He kindly refuses, saying he understands ideas better than people.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Leo Szilard · ⬜ Otto Hahn · ✅ Albert Einstein · ⬜ Max Planck
+
+**Ord:** *atom* — one of the very small pieces that everything is made of · *weapon* — a tool made to hurt or destroy · *regret* — a sad feeling about something you wish had not happened · *refuse* — to say no to an offer
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Icon and the Man Behind It</summary>
+
+> By the 1920s, Mr X has changed how scientists think about space, time, and gravity.  
+> His ideas go beyond the laws of motion that rule science for two hundred years.  
+> In the same decade, a new and stranger science takes full shape: quantum theory.  
+> This theory says that, deep down, nature may only offer chances, never certainty.  
+> Mr X helps start this new science, but he never accepts its full picture.  
+> He famously argues that nature cannot simply leave things to pure chance.  
+> Most physicists disagree with him, and quantum theory keeps succeeding.  
+> In 1939, worried colleagues persuade him to sign a fateful letter.  
+> Historians still debate how much responsibility one signature really carries.  
+> His face becomes one of the most printed and copied images in history.  
+> Yet the real man is often anxious, uncertain, and privately self-critical.  
+> The famous icon and the real man are not quite the same person.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Niels Bohr · ⬜ Isaac Newton · ✅ Albert Einstein · ⬜ Ernest Rutherford
+
+**Ord:** *quantum theory* — a science of very small things, like atoms, that often works by chance · *certainty* — being completely sure that something is true · *fateful* — having very important and serious results later · *icon* — a person or image that stands for something famous and important
+
+</details>
+
+### Marie Curie
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Secret School and a Glowing Jar in a Shed</summary>
+
+> Mrs X is a girl in Warsaw, more than 150 years ago.  
+> A foreign empire rules her country at this time.  
+> Girls cannot study at the university there.  
+> So young women study in secret, in a different room each time.  
+> For about five years, Mrs X works as a governess.  
+> She saves money to help her sister study first.  
+> At last, she travels to Paris herself.  
+> She studies late into the night, often hungry and cold.  
+> Later, she works in a cold wooden shed.  
+> Inside, a strange new substance glows softly in the dark.  
+> **Who is Mrs X?**
+
+**Svar:** ✅ Marie Curie · ⬜ Rosalind Franklin · ⬜ Emmy Noether · ⬜ Ada Lovelace
+
+**Ord:** *empire* — a large group of countries or lands ruled by one power · *governess* — a woman paid to teach children at home · *substance* — a material, the stuff that a thing is made of · *glow* — to give off a soft, gentle light
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Two New Elements and a Prize Never Given to a Woman Before</summary>
+
+> Mrs X now works as a scientist in Paris.  
+> She studies strange rays coming from a heavy dark ore.  
+> With her husband, she searches for their true source.  
+> Within one year, they find two new elements.  
+> They name one polonium, after her home country, and one radium.  
+> It then takes years of hard work to make a tiny amount of pure radium.  
+> In 1903, Mrs X wins the Nobel Prize.  
+> She is the first woman ever to win it.  
+> Three years later, her husband dies in a street accident.  
+> She keeps working alone, deep in grief.  
+> The Sorbonne then gives her his old post.  
+> She becomes its very first woman professor.  
+> **Who is Mrs X?**
+
+**Svar:** ⬜ Lise Meitner · ✅ Marie Curie · ⬜ Chien-Shiung Wu · ⬜ Elizabeth Blackwell
+
+**Ord:** *ore* — rock that contains a useful metal or material · *element* — one of the basic simple substances that make up everything · *grief* — the deep sad feeling after someone dies · *post* — a job or official position
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — The Second Prize, and a Body Slowly Paying the Price</summary>
+
+> Mrs X already holds the Nobel Prize from years earlier.  
+> Her husband has died, but she keeps working alone.  
+> In 1911, she wins the Nobel Prize a second time, for her own research.  
+> She becomes the first person in history to win two.  
+> By now, she works daily with strong glowing substances.  
+> People say she carries small glowing tubes around in her pocket.  
+> She loves the soft light they give at night.  
+> Few yet understand how much the invisible rays can hurt the body over many years.  
+> Slowly, her hands grow rough, and her eyes grow weak.  
+> Years of exposure quietly damage her health.  
+> **Who is Mrs X?**
+
+**Svar:** ⬜ Elizabeth Blackwell · ⬜ Grace Hopper · ✅ Marie Curie · ⬜ Mary Seacole
+
+**Ord:** *research* — careful study to find out new things · *substance* — a material, the stuff that a thing is made of · *invisible* — impossible to see · *exposure* — being close to something, again and again, over time
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — X-ray Cars at the Front, and Notebooks Locked in Lead</summary>
+
+> The great war of 1914 begins in Europe.  
+> Wounded soldiers arrive at hospitals every single day.  
+> Mrs X has an idea to help doctors see broken bones fast.  
+> She puts simple X-ray machines inside ordinary cars.  
+> She trains young women to drive and use the machines near the front.  
+> Her own teenage daughter works beside her as a helper.  
+> The X-ray service they build examines more than a million wounded men.  
+> After the war, Mrs X returns to her quiet laboratory.  
+> She dies in 1934, worn out after decades near strong radiation.  
+> Even today, her old notebooks are too radioactive to touch safely.  
+> **Who is Mrs X?**
+
+**Svar:** ⬜ Lise Meitner · ✅ Marie Curie · ⬜ Mary Seacole · ⬜ Rosalind Franklin
+
+**Ord:** *wounded* — hurt or injured, often in a war · *front* — the place where two armies fight closest to each other · *radioactive* — giving off strong invisible rays that can harm the body
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — A Prize Almost Without Her Name</summary>
+
+> In 1903, a Nobel Prize committee first plans to honor only two men.  
+> One of the men, her husband, insists that her name be added too.  
+> So her name is added, and she shares the prize.  
+> Eight years later, a second prize follows, for her own work alone.  
+> That same year, a hostile press attacks her private life instead of her science.  
+> Some newspapers even question whether a foreign-born woman deserves such honors.  
+> Historians later study these attacks as a case of gender and prejudice.  
+> Her life also raises a hard question about the price of new knowledge.  
+> More than sixty years after her death, France moves her remains to its great hall of honored citizens.  
+> She becomes the first woman honored there for her own achievements.  
+> **Who is Mrs X?**
+
+**Svar:** ⬜ Emmy Noether · ✅ Marie Curie · ⬜ Chien-Shiung Wu · ⬜ Lise Meitner
+
+**Ord:** *committee* — a small group of people chosen to decide something · *hostile* — unfriendly and full of anger · *prejudice* — an unfair opinion about someone formed before knowing them · *remains* — here: the body of a person who has died
 
 </details>
 
