@@ -25006,6 +25006,868 @@
         }
       ],
       "person_sv": "Nelson Mandela"
+    },
+    {
+      "slug": "louis-pasteur",
+      "person": "Louis Pasteur",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Sour Wine, Gentle Heat, and a Boy Bitten by a Dog",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is a scientist who lives in France, about 150 years ago.",
+            "He studies tiny living things that people cannot see.",
+            "These tiny living things can make milk and wine turn sour.",
+            "They can also make cuts and wounds turn bad.",
+            "Mr X finds a way to heat wine and beer very gently.",
+            "The gentle heat kills the tiny living things inside.",
+            "After that, the wine and beer stay good for much longer.",
+            "Later, other people use his idea for milk.",
+            "In 1885, a dog with rabies bites a boy named Joseph Meister.",
+            "Two doctors say the boy will die without help.",
+            "Mr X makes a new treatment in his laboratory.",
+            "A doctor gives the boy the treatment while Mr X watches, and the boy lives."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Edward Jenner",
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Ignaz Semmelweis"
+          ],
+          "correct": "Louis Pasteur",
+          "words": [
+            {
+              "word": "sour",
+              "explanation": "tasting sharp and bad, like old milk"
+            },
+            {
+              "word": "wound",
+              "explanation": "a cut or hurt place on the body"
+            },
+            {
+              "word": "rabies",
+              "explanation": "a dangerous disease that a sick animal can give with a bite"
+            },
+            {
+              "word": "laboratory",
+              "explanation": "a room where a scientist does tests and experiments"
+            }
+          ],
+          "main_image": {
+            "description": "A pair of hands in the plain white linen shirt sleeves of the 1860s lowers a plain dark glass wine bottle into a large copper pan of warm water on a simple brick hearth in a French wine cellar, gentle steam rising, a few wooden wine barrels blurred behind, soft daylight from a small high window. No face, no other body parts visible. Production note: no labels on any bottle, no modern equipment, no electric light, no oil lamp, no plastic, no readable text.",
+            "caption": "Mr X shows that gentle heat kills the tiny living things in wine.",
+            "shutterstock_query": "hands wine bottle copper pan warm water cellar barrels nineteenth century",
+            "ai_prompt": "Photorealistic close-up of a pair of hands in plain white linen 1860s shirt sleeves with the edge of a dark waistcoat, lowering a plain dark glass wine bottle with a cork into a large copper pan of warm water on a simple brick hearth inside a French stone wine cellar, gentle steam rising, wooden wine barrels softly blurred behind, soft daylight from a small high window, calm careful mood. No face or other body part visible, no labels on any bottle, no modern kitchen equipment, no plastic, no electric light, no oil lamp, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A calm medium-sized brown dog rests on a plain rope leash outside a rustic French stone farmhouse, seen at a respectful distance in warm late afternoon light, a dirt path and wooden fence nearby. No people, no signs of illness or distress. Production note: no readable text or numbers anywhere, no modern leash materials, dog looks healthy and calm.",
+            "caption": "In 1885, Mr X helps a boy who is bitten by a dog like this one.",
+            "shutterstock_query": "calm brown dog rope leash rustic french stone farmhouse afternoon light",
+            "ai_prompt": "Photorealistic vertical image of a calm, healthy-looking medium-sized brown dog resting on a plain rope leash outside a rustic nineteenth-century French stone farmhouse, seen at a respectful distance, warm late afternoon light, a dirt path and simple wooden fence nearby, no people, peaceful mood, no signs of illness or distress, no modern leash or collar hardware, no modern objects, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A Bent Glass Neck, Sick Silkworms, and a Field of Sheep",
+          "category": "science",
+          "text_sentences": [
+            "Mr X works in a laboratory in France, about 160 years ago.",
+            "Many people believe that life can appear from nothing inside old soup.",
+            "Mr X boils broth inside a glass flask with a long, bent neck.",
+            "Air can enter the flask, but dust and germs cannot pass the bend.",
+            "The broth stays clear for months, so life does not appear by itself.",
+            "This experiment shows that germs always come from other germs.",
+            "Later, Mr X helps save the French silk industry from a silkworm disease.",
+            "He shows which tiny living things make the silkworms sick.",
+            "Farmers learn to keep only healthy silkworm eggs.",
+            "He then makes a vaccine from weakened germs.",
+            "In 1881, he tests it on sheep in front of a large crowd.",
+            "The treated sheep stay healthy, and the idea spreads across the world."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Robert Koch",
+            "Joseph Lister",
+            "Louis Pasteur",
+            "Charles Darwin"
+          ],
+          "correct": "Louis Pasteur",
+          "words": [
+            {
+              "word": "broth",
+              "explanation": "a thin, watery liquid made by boiling something, like a simple soup"
+            },
+            {
+              "word": "silkworm",
+              "explanation": "a small caterpillar that makes silk thread"
+            },
+            {
+              "word": "vaccine",
+              "explanation": "a weak form of a germ given to protect the body against the strong form"
+            },
+            {
+              "word": "weakened",
+              "explanation": "made less strong than before"
+            }
+          ],
+          "main_image": {
+            "description": "A single glass flask with a long, thin, curved swan-shaped neck stands on a worn wooden laboratory bench, half filled with pale clear liquid, lit by a small brass oil lamp beside it, blurred wooden shelves in the soft background. No people. Production note: no readable labels or markings on the flask, no modern glassware, no electric light.",
+            "caption": "Inside this bent glass neck, Mr X proves where tiny living things really come from.",
+            "shutterstock_query": "swan neck glass flask laboratory bench oil lamp nineteenth century",
+            "ai_prompt": "Photorealistic close-up of a single glass flask with a long, thin, curved swan-shaped neck standing on a worn wooden 1860s laboratory bench, half filled with pale clear liquid, lit warmly by a small brass oil lamp beside it, blurred wooden shelves with plain glass bottles in the soft background, quiet studious mood. No people, no readable labels, no markings, no modern glassware or plastic, no electric light, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A small flock of sheep grazes peacefully in a green French pasture in the early 1880s, a low wooden fence and a distant stone farmhouse in the background, soft daylight. No people, all animals calm and healthy. Production note: no readable signs, no ear tags with numbers, no modern fencing.",
+            "caption": "In 1881, Mr X tests his vaccine on sheep like these, in front of a watching crowd.",
+            "shutterstock_query": "sheep grazing green pasture french farm nineteenth century wooden fence",
+            "ai_prompt": "Photorealistic vertical image of a small flock of healthy sheep grazing peacefully in a green French pasture around 1880, a low wooden fence and a distant stone farmhouse in the background, soft natural daylight, calm rural mood, no people, no ear tags, no readable signs, no modern fencing or equipment, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "An Idea Doctors Do Not Want to Believe",
+          "category": "science",
+          "text_sentences": [
+            "In France, about 150 years ago, many doctors do not believe that germs cause disease.",
+            "Some doctors still think that bad smells and bad air alone make people sick.",
+            "Mr X strongly disagrees, and he calls this old idea wrong and dangerous.",
+            "He argues that germs too small to see cause infection in wounds and blood.",
+            "Many respected doctors mock this idea, and Mr X faces years of criticism.",
+            "A famous story says that in 1879 an assistant leaves the laboratory to go on holiday.",
+            "He forgets to inject hens with a fresh culture of chicken cholera germs.",
+            "When he returns, he uses the old, weak sample instead.",
+            "The hens get slightly sick but recover, and they survive a later infection too.",
+            "Mr X understands that a weakened germ can train the body to fight disease.",
+            "This discovery slowly changes how doctors around the world think about illness."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Joseph Lister",
+            "Robert Koch",
+            "Ignaz Semmelweis",
+            "Louis Pasteur"
+          ],
+          "correct": "Louis Pasteur",
+          "words": [
+            {
+              "word": "infection",
+              "explanation": "illness caused by germs getting into the body"
+            },
+            {
+              "word": "criticism",
+              "explanation": "when people say something is wrong or bad"
+            },
+            {
+              "word": "culture",
+              "explanation": "a group of tiny living things grown together in a laboratory"
+            },
+            {
+              "word": "recover",
+              "explanation": "to get well again after being sick"
+            }
+          ],
+          "main_image": {
+            "description": "A brass microscope of the 1870s stands on a worn wooden laboratory bench by a tall window, a few plain glass slides and a small glass dish beside it, soft daylight, no people. Production note: no labels, no readable text, no modern equipment, no electric light, no oil lamp.",
+            "caption": "Mr X looks for tiny living things that many doctors do not believe in.",
+            "shutterstock_query": "antique brass microscope wooden bench window daylight nineteenth century",
+            "ai_prompt": "Photorealistic close-up of an 1870s brass microscope with a single tube and a small round mirror beneath the stage, standing on a worn wooden laboratory bench by a tall window in a French laboratory, a few plain glass slides and a small glass dish beside it, soft daylight, quiet studious mood, no people, no labels, no modern microscope, no plastic, no electric light, no oil lamp, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A small group of brown and white hens walks calmly inside a simple wooden farmyard coop, soft daylight from an open side, straw on the ground. No people, all birds healthy and calm. Production note: no readable signs, no numbers, no modern wire fencing.",
+            "caption": "A story says a forgotten sample of hen disease germs leads Mr X to a new idea.",
+            "shutterstock_query": "brown white hens wooden farmyard coop straw daylight",
+            "ai_prompt": "Photorealistic vertical image of a small group of healthy brown and white hens walking calmly inside a simple nineteenth-century wooden farmyard coop, soft daylight coming through an open side, straw scattered on the ground, no people, calm rural mood, no readable signs, no modern wire fencing, no modern objects, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A New Research Center in Paris and a Life of Loss",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is a French chemist, not a licensed doctor.",
+            "He studies the tiny living things that cause disease.",
+            "In 1885, his treatment saves a boy bitten by a dog with rabies.",
+            "Newspapers around the world report the extraordinary news.",
+            "People from many countries send money to thank him.",
+            "With this money, a new research center opens in Paris in 1888.",
+            "Scientists there study disease and treat rabies patients who travel from far away.",
+            "Mr X already knows deep personal loss.",
+            "Three of his daughters die as children, two of them of typhoid.",
+            "Years earlier, a stroke leaves one side of his body weak.",
+            "Even so, he keeps directing his research with the help of loyal assistants.",
+            "After his death, these assistants carry on his work at the center."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Edward Jenner",
+            "Robert Koch",
+            "Louis Pasteur",
+            "Alexander Fleming"
+          ],
+          "correct": "Louis Pasteur",
+          "words": [
+            {
+              "word": "licensed",
+              "explanation": "officially allowed to do a job, like being a doctor"
+            },
+            {
+              "word": "extraordinary",
+              "explanation": "very unusual or amazing"
+            },
+            {
+              "word": "typhoid",
+              "explanation": "a serious disease spread by dirty water and food"
+            },
+            {
+              "word": "stroke",
+              "explanation": "a sudden illness in the brain that can leave part of the body weak"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a bright 1880s Paris laboratory, an older man in a dark frock coat is seen only from behind, leaning on a plain wooden cane with one arm hanging stiffly at his side, as he watches two younger assistants in long white aprons, seen from the side and slightly behind, work at a wooden bench with glass flasks, soft daylight from tall windows. No faces clearly visible. Production note: no labels, no readable text, no modern equipment, no electric light, no oil lamp.",
+            "caption": "After a stroke, Mr X still directs his loyal assistants at the bench.",
+            "shutterstock_query": "nineteenth century laboratory assistants aprons flasks man cane from behind",
+            "ai_prompt": "Photorealistic image inside a bright 1880s Paris laboratory, an older man in a dark 1880s frock coat seen only from behind, leaning on a plain wooden cane with one arm hanging stiffly at his side, watching two younger assistants in long white cotton aprons and dark trousers, seen from the side and slightly behind, work at a worn wooden bench with plain glass flasks and test tubes, soft daylight from tall windows, calm focused mood, no faces clearly visible, no labels, no modern laboratory equipment, no plastic, no electric light, no oil lamp, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A worn brown leather travelling trunk with brass corners and a soft carpet bag stand together on the stone floor of a plain 1880s Paris hallway, a wooden bench behind them, soft daylight from a tall window, no people. The picture shows that patients travel from far away. Production note: no labels, tags or stickers on the luggage, no readable text, no modern suitcases.",
+            "caption": "Patients travel from far away to the new research center in Paris.",
+            "shutterstock_query": "antique leather travelling trunk carpet bag hallway stone floor nineteenth century",
+            "ai_prompt": "Photorealistic vertical image of a worn brown leather 1880s travelling trunk with brass corners and a soft patterned carpet bag standing together on the stone floor of a plain Paris hallway, a wooden bench behind them, soft daylight from a tall window, quiet expectant mood, no people, no labels, tags or stickers on the luggage, no modern suitcases or wheels, no electric light, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Polished Notebooks and a Rival in Berlin",
+          "category": "science",
+          "text_sentences": [
+            "Mr X keeps detailed laboratory notebooks throughout his working life.",
+            "He tells his family that nobody may ever read them.",
+            "Decades later, in the 1970s, a historian finally studies these private notebooks.",
+            "The notebooks reveal that his public reports sometimes hide the messy, real story.",
+            "In one famous case, his published method differs from what he actually used.",
+            "Historians still debate how much this changes his reputation as a careful scientist.",
+            "They also ask if it was ethical to treat a boy for rabies in 1885 before the animal tests were finished.",
+            "In the 1880s, a rival scientist in Berlin, Robert Koch, studies the germs behind tuberculosis.",
+            "Robert Koch and Mr X compete fiercely, partly because their countries are rivals too.",
+            "This competition between French and German science pushes both men to work faster.",
+            "As germ theory becomes accepted, more hospitals begin washing hands and cleaning instruments carefully.",
+            "Death rates from infection in hospitals and disease in growing cities begin to fall."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Edward Jenner",
+            "Louis Pasteur",
+            "Alexander Fleming",
+            "Charles Darwin"
+          ],
+          "correct": "Louis Pasteur",
+          "words": [
+            {
+              "word": "reputation",
+              "explanation": "what other people think and say about someone"
+            },
+            {
+              "word": "ethical",
+              "explanation": "right and fair according to moral rules"
+            },
+            {
+              "word": "rival",
+              "explanation": "someone who competes strongly against another person"
+            },
+            {
+              "word": "tuberculosis",
+              "explanation": "a serious lung disease caused by germs"
+            }
+          ],
+          "main_image": {
+            "description": "A single old notebook with a plain worn dark cover lies closed on a long wooden table in a quiet library reading room, an empty wooden chair pushed back, tall windows with daylight, rows of shelves softly blurred behind, no people. Production note: no readable text, letters or numbers on the cover or spine, no other papers, no modern desk items, no screens.",
+            "caption": "Decades after his death, a historian finally opens Mr X's private notebooks.",
+            "shutterstock_query": "old notebook closed library reading table daylight shelves",
+            "ai_prompt": "Photorealistic image of a single old notebook with a plain worn dark cloth cover lying closed on a long polished wooden table in a quiet library reading room, an empty wooden chair pushed back, tall windows with soft daylight, rows of bookshelves softly blurred in the background, calm scholarly mood, no people, no other papers, no readable text on the cover or spine, no modern desk items, no screens, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A row of plain steel surgical instruments lies on a clean folded white cloth on a wooden table in an 1880s hospital room, a copper pan of gently steaming water beside them, soft daylight from a tall window, no people, no blood. The picture shows that hospitals begin to clean their instruments with care. Production note: no readable text, no modern equipment, no electric light, no gore.",
+            "caption": "As germ theory wins, hospitals begin to clean their instruments with care.",
+            "shutterstock_query": "antique surgical instruments white cloth copper pan steam hospital nineteenth century",
+            "ai_prompt": "Photorealistic vertical still life of a row of plain polished steel 1880s surgical instruments lying on a clean folded white linen cloth on a wooden table in a bright hospital room, a copper pan of gently steaming water beside them, soft daylight from a tall window, calm clean mood, no people, no blood, no gore, no modern equipment, no plastic, no electric light, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "alan-turing",
+      "person": "Alan Turing",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Boy Who Loved Puzzles and Long Runs",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is a boy in England, about a hundred years ago.",
+            "He loves numbers and hard puzzles.",
+            "He also loves running very long distances alone.",
+            "He is not the best student in other subjects.",
+            "Later, he studies at a famous old university in England.",
+            "As a young man, he dreams of a machine that follows a list of steps.",
+            "Such a machine could solve almost any puzzle.",
+            "Then a great war starts in Europe.",
+            "Mr X moves to a secret place with wooden huts.",
+            "Many clever men and women work there in secret.",
+            "They try to break a very hard enemy code.",
+            "Mr X and his friends find a way to read the enemy's secret messages."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Charles Babbage",
+            "Alan Turing",
+            "Ada Lovelace",
+            "Konrad Zuse"
+          ],
+          "correct": "Alan Turing",
+          "words": [
+            {
+              "word": "hut",
+              "explanation": "a small simple building, often made of wood"
+            },
+            {
+              "word": "code",
+              "explanation": "a secret way of writing so only some people can read it"
+            },
+            {
+              "word": "puzzle",
+              "explanation": "a problem that is fun and hard to solve"
+            },
+            {
+              "word": "enemy",
+              "explanation": "a country or person you are fighting against in a war"
+            }
+          ],
+          "main_image": {
+            "description": "A boy of about fourteen in plain 1920s British school clothes, grey flannel shorts, long grey socks and a dark wool jersey, runs alone along a quiet country lane between bare winter trees, seen from behind at a distance, cool grey morning light, faint breath visible in the cold air. No other people, no school badge or crest visible anywhere.",
+            "caption": "Mr X often runs long distances alone, even in cold weather.",
+            "shutterstock_query": "boy running country lane 1920s school clothes behind distance",
+            "ai_prompt": "Photorealistic wide image of a boy of about fourteen wearing plain 1920s British school clothes, grey flannel shorts, long grey socks and a dark wool jersey, running alone along a quiet country lane between bare winter trees, seen from behind at a distance, cool grey morning light, faint breath visible in the cold air, calm determined mood, no other people, no visible school badge or crest, no modern sportswear, no trainers with logos, no modern vehicles, no road markings, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A row of plain low wooden huts with sloped roofs stands on a green lawn behind tall iron gates, a gravel path leading toward them, two generic figures in 1940s British coats and hats walking between the huts, seen from a distance in soft overcast daylight.",
+            "caption": "Later, Mr X works in simple wooden huts like these, in secret.",
+            "shutterstock_query": "wartime wooden huts country estate lawn distance 1940s",
+            "ai_prompt": "Photorealistic vertical image of a row of plain low wooden huts with sloped roofs on a green lawn behind tall iron gates, a gravel path leading toward them, two generic figures in 1940s British wool coats and felt hats walking between the huts seen from a distance, soft overcast daylight, quiet secretive mood, no readable signs, no vehicles, no modern cars, no panels with lettering, no modern computers, no screens, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Bletchley Park, Enigma, and a Machine Called the Bombe",
+          "category": "science",
+          "text_sentences": [
+            "Mr X studies mathematics at Cambridge, in England.",
+            "In 1939, a great war begins in Europe.",
+            "Mr X moves to Bletchley Park, a secret country estate.",
+            "There, teams try to break Enigma, a German machine that makes secret codes.",
+            "Polish mathematicians break the machine's secrets first, before the war.",
+            "Building on their work, Mr X helps design a large machine called the bombe.",
+            "Every day, it tests thousands of possible code settings.",
+            "Reading the German messages helps convoys of ships cross the Atlantic safely.",
+            "Thousands of people work at Bletchley Park, and most of them are women.",
+            "They must never tell anyone what they do there.",
+            "The secret is kept for about thirty years after the war."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Alan Turing",
+            "John von Neumann",
+            "Claude Shannon",
+            "Grace Hopper"
+          ],
+          "correct": "Alan Turing",
+          "words": [
+            {
+              "word": "mathematics",
+              "explanation": "the study of numbers, shapes and patterns"
+            },
+            {
+              "word": "estate",
+              "explanation": "a large piece of land with a big house on it"
+            },
+            {
+              "word": "setting",
+              "explanation": "one specific way that a machine's parts are arranged"
+            },
+            {
+              "word": "convoy",
+              "explanation": "a group of ships that travel together for safety"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a plain 1940s British wartime hut with wooden walls, a tall electromechanical machine about the size of a large wardrobe stands with many rows of small round drums and thick bundles of wires running to a plain panel, two young women in dark 1940s naval style uniform dresses with white collars and no visible badges work at it, seen from behind, dim warm electric light, serious focused mood.",
+            "caption": "A new machine searches through thousands of possible code settings.",
+            "shutterstock_query": "wartime codebreaking machine drums wires women naval uniform 1940s",
+            "ai_prompt": "Photorealistic image inside a plain 1940s British wartime hut with wooden walls, a tall electromechanical machine about the height and width of a large wardrobe with many rows of small round drums and thick bundles of wires running to a plain panel, two young women in dark 1940s naval style uniform dresses with white collars, dark stockings and pinned-up hair, no visible badges, working at it seen from behind, dim warm electric light, serious focused mood, no headscarves, no civilian factory clothes, no readable dials, no digits, no lettering on any panel, no banknotes, no modern computers, no screens, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A group of grey merchant ships and one small escort ship sail together in a loose formation across a rough grey Atlantic ocean, seen from a distance under an overcast 1940s sky, no flags or hull markings visible.",
+            "caption": "Convoys of ships cross the ocean together, for safety.",
+            "shutterstock_query": "atlantic convoy merchant ships formation grey ocean overcast",
+            "ai_prompt": "Photorealistic vertical image of a group of grey 1940s merchant steamships with tall funnels and a small escort ship sailing together in a loose formation across a rough grey Atlantic ocean, seen from a distance under an overcast sky, no visible flags, no hull names or numbers, no readable markings, calm documentary mood, no modern vessels, no container ships, no screens, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Machine on Paper and a Question About Thinking",
+          "category": "science",
+          "text_sentences": [
+            "In 1936, a young Cambridge mathematician named Mr X publishes an unusual paper.",
+            "He imagines a simple machine that reads and writes symbols on a paper tape.",
+            "One such machine, built the right way, can copy the work of any other.",
+            "Soon after, he spends two years studying in Princeton, in the United States.",
+            "In 1948, he moves to Manchester and writes programs for one of the first real computers.",
+            "In 1950, he publishes a paper asking a simple question: can machines think?",
+            "He describes a game: a judge asks written questions to two hidden players.",
+            "One player is a person, the other is a computer program.",
+            "If the judge often cannot tell which is which, he says, the machine has passed the test.",
+            "In 1952, a law of that time punishes him for loving another man.",
+            "The government says sorry in 2009, and he is pardoned in 2013."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Charles Babbage",
+            "Konrad Zuse",
+            "Alan Turing",
+            "John von Neumann"
+          ],
+          "correct": "Alan Turing",
+          "words": [
+            {
+              "word": "symbol",
+              "explanation": "a written mark that stands for a letter, a number or a sound"
+            },
+            {
+              "word": "tape",
+              "explanation": "a long thin strip, here used to store information"
+            },
+            {
+              "word": "judge",
+              "explanation": "a person who decides who is right, or who wins a game"
+            },
+            {
+              "word": "program",
+              "explanation": "a list of steps that tells a computer what to do"
+            }
+          ],
+          "main_image": {
+            "description": "In a quiet wood-panelled 1930s Cambridge study, only a young man's hands in plain tweed jacket sleeves rest on a bare wooden desk holding a coil of blank paper tape, a fountain pen lying capped beside a glass ink pot, no papers, soft daylight through a tall window, face and body not shown.",
+            "caption": "On paper, Mr X imagines a simple machine that could compute anything.",
+            "shutterstock_query": "hands holding paper tape coil bare desk fountain pen 1930s study",
+            "ai_prompt": "Photorealistic close image inside a quiet wood-panelled 1930s Cambridge study, only a young man's hands visible in plain brown tweed jacket sleeves and white shirt cuffs, resting on a bare polished wooden desk and holding a loose coil of blank cream paper tape with no punched pattern, a fountain pen lying capped beside a glass ink pot, no papers on the desk, soft daylight through a tall window, calm thoughtful mood, face and body not shown, no handwriting, no modern objects, no screens, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Two plain wooden booths stand side by side in a bare late 1940s room, each with a closed curtain and an old mechanical typewriter just visible inside, a single empty wooden chair faces them at a small table with blank paper, soft neutral daylight, no people.",
+            "caption": "A judge asks questions and tries to guess who answers, person or machine.",
+            "shutterstock_query": "two booths curtain typewriter empty chair plain room",
+            "ai_prompt": "Photorealistic vertical image of two plain wooden booths standing side by side in a bare late 1940s British room, each with a closed dark curtain and an old black mechanical typewriter just visible inside, a single empty wooden chair facing them at a small table with a few sheets of blank paper, soft neutral daylight, calm quiet mood, no people, no writing on any paper, no modern computers, no screens, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Computer Design, a Chess Program, and a Marathon Runner",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is a British mathematician who does secret work during a world war.",
+            "When the war ends in 1945, he still cannot tell anyone what he has done.",
+            "He joins a national laboratory near London and designs a computer of his own.",
+            "The machine is built later, smaller than he planned, and a company sells copies of it.",
+            "He also writes one of the first chess programs, by hand on paper.",
+            "No computer of the time can run it, so he plays the moves himself.",
+            "Outside work, he runs marathons and is among the fastest marathon runners in Britain.",
+            "In 1952, a law of that time punishes him for loving another man.",
+            "He dies in 1954.",
+            "The government says sorry in 2009, and he is pardoned in 2013."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Claude Shannon",
+            "Konrad Zuse",
+            "Grace Hopper",
+            "Alan Turing"
+          ],
+          "correct": "Alan Turing",
+          "words": [
+            {
+              "word": "laboratory",
+              "explanation": "a place where scientists do tests and build new things"
+            },
+            {
+              "word": "designs",
+              "explanation": "makes a plan for how to build something"
+            },
+            {
+              "word": "chess",
+              "explanation": "a board game for two players with kings, queens and knights"
+            },
+            {
+              "word": "marathon",
+              "explanation": "a running race of about forty-two kilometers"
+            }
+          ],
+          "main_image": {
+            "description": "A wooden chessboard with plain carved wooden pieces in the middle of a game stands on a small table beside a window in a plain late 1940s British room, a pencil and a few sheets of blank paper lie beside the board, a simple wooden chair, soft daylight, no people. Production note: no writing on the paper, no letters or numbers on the board edge, no modern objects.",
+            "caption": "Mr X writes a chess program on paper and plays its moves by hand.",
+            "shutterstock_query": "wooden chessboard mid game table window pencil blank paper 1940s room",
+            "ai_prompt": "Photorealistic image of a wooden chessboard with plain carved wooden pieces in the middle of a game standing on a small table beside a window in a plain late 1940s British room, a pencil and a few sheets of blank paper beside the board, a simple wooden chair, soft daylight, calm thoughtful mood, no people, no writing on the paper, no letters or numbers on the board edge, no modern plastic pieces, no modern objects, no screens, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Extreme close-up of a single rack of glowing glass valves with their metal bases and thin wires, warm orange light from the valves themselves, shallow depth of field, a late 1940s laboratory blurred behind, no people, no panels.",
+            "caption": "Glowing glass valves like these do the counting inside the first computers.",
+            "shutterstock_query": "vintage glass vacuum tubes glowing rack close up warm light",
+            "ai_prompt": "Photorealistic vertical extreme close-up of a single rack of glowing 1940s glass valves with their metal bases and thin wires, warm orange light coming from the valves themselves, shallow depth of field, a late 1940s laboratory softly blurred behind, quiet technical mood, no people, no panels, no dials, no modern circuit boards, no screens, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Founder, Secrets, and a Late Apology",
+          "category": "science",
+          "text_sentences": [
+            "Historians today call Mr X one of the founders of computer science.",
+            "In 1936, he proves that some problems can never be solved by any machine.",
+            "Real computers, built about ten years later, follow the basic idea of his paper.",
+            "His codebreaking role in a world war is barely known until the 1970s.",
+            "Only then can historians begin to judge his part in that war.",
+            "The question and the game he describes in 1950 still shape how we test machines today.",
+            "Late in life, he studies why spots and stripes form on animal skin.",
+            "In 1952, a law of that time punishes him for loving another man.",
+            "He dies in 1954, and the inquest calls it suicide.",
+            "The government says sorry in 2009, and he is pardoned in 2013.",
+            "Today, the highest prize in computer science carries his name."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "John von Neumann",
+            "Alan Turing",
+            "Claude Shannon",
+            "Charles Babbage"
+          ],
+          "correct": "Alan Turing",
+          "words": [
+            {
+              "word": "founder",
+              "explanation": "a person who starts something important, like a new field of study"
+            },
+            {
+              "word": "codebreaking",
+              "explanation": "finding out how to read secret messages"
+            },
+            {
+              "word": "inquest",
+              "explanation": "an official inquiry to find out how a person died"
+            }
+          ],
+          "main_image": {
+            "description": "An extreme close-up of an animal's coat showing an irregular natural pattern of dark rosette spots on pale golden fur, soft natural daylight, shallow depth of field, no full animal or face shown, quiet contemplative mood.",
+            "caption": "Late in life, Mr X studies why patterns like this form in nature.",
+            "shutterstock_query": "animal fur spots pattern close up macro texture",
+            "ai_prompt": "Photorealistic extreme close-up of an animal's coat showing an irregular natural pattern of dark rosette spots on pale golden fur, soft natural daylight, shallow depth of field, no full animal visible, no face, no people, calm quiet mood, no screens, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A plain grey steel filing cabinet stands closed in a bare 1940s British government office, a small plain red wax seal fixed over the lock of the top drawer, dim warm electric light, no people.",
+            "caption": "His war work stays locked away until the 1970s.",
+            "shutterstock_query": "locked steel filing cabinet wax seal government office wartime",
+            "ai_prompt": "Photorealistic vertical image of a plain grey steel filing cabinet standing closed in a bare 1940s British government office with a wooden floor and a plain wooden desk, a small plain red wax seal fixed over the lock of the top drawer, dim warm electric light, quiet secretive mood, no people, no readable labels, no panels with lettering, no banknotes, no modern computers, no screens, no flags, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "florence-nightingale",
+      "person": "Florence Nightingale",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Rich Girl Who Wants to Nurse the Sick",
+          "category": "science",
+          "text_sentences": [
+            "Miss X grows up in a rich family in England, about 200 years ago.",
+            "She has a big house, servants, and a comfortable life.",
+            "Most rich girls of her time do not choose a job at all.",
+            "One day, she says she hears a call from God.",
+            "She believes God wants her to help sick and hurt people.",
+            "Her family is not happy about her plan.",
+            "They want her to marry and stay quietly at home instead.",
+            "She trains as a nurse anyway, far from home.",
+            "Later, her country goes to war in a land far away.",
+            "She travels there with a small team of nurses.",
+            "At night, she walks through the hospital with a small lamp."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Mary Seacole",
+            "Florence Nightingale",
+            "Elizabeth Blackwell",
+            "Clara Barton"
+          ],
+          "correct": "Florence Nightingale",
+          "words": [
+            {
+              "word": "servants",
+              "explanation": "people who are paid to work and help in a rich home"
+            },
+            {
+              "word": "call",
+              "explanation": "here, a strong feeling that God wants you to do something"
+            },
+            {
+              "word": "train",
+              "explanation": "to learn the skills you need for a job"
+            },
+            {
+              "word": "lamp",
+              "explanation": "a small light that burns oil or holds a candle"
+            }
+          ],
+          "main_image": {
+            "description": "A wide view of a fine Victorian country house and its garden in soft evening light. In the foreground, a young woman in a plain dark 1850s dress with a white cap stands with her back to the viewer, looking away from the house toward a distant road. Calm but wistful mood. Production note: seen from behind only, no face, no modern objects, no electric light, no flags, no readable letters, numbers, or text anywhere.",
+            "caption": "A rich family's daughter dreams of a very different life.",
+            "shutterstock_query": "victorian country house garden dusk woman silhouette 1850s",
+            "ai_prompt": "Photorealistic wide view of a fine Victorian English country house and garden in soft evening light, a young woman in a plain dark 1850s dress with no crinoline and a plain white cap standing with her back to the viewer in the foreground looking away toward a distant road, calm wistful mood, no face visible, no modern objects, no modern vehicles, no electric light, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A small 1850s folding candle lantern with a pleated paper shade and a plain metal top and base glows softly on a plain wooden table in a dim room, its candle flame the only light source, no people in the picture. The picture helps explain the word lamp. Production note: no brass oil lamp with a glass chimney, no electric light, no readable markings, no text, letters, or numbers.",
+            "caption": "A small lamp lights the dark for those who work at night.",
+            "shutterstock_query": "antique folding paper candle lantern glowing dark room still life",
+            "ai_prompt": "Photorealistic close-up still life of a small 1850s folding candle lantern with a pleated cream paper shade and a plain metal top and base, a warm candle flame glowing inside it, standing on a plain wooden table in a dim room, soft shadows, no people, no brass oil lamp, no glass chimney, no electric light, no modern objects, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Thirty-Eight Nurses in a Filthy War Hospital",
+          "category": "science",
+          "text_sentences": [
+            "Miss X is a nurse in England in 1854.",
+            "Her country fights a war far away, called the Crimean War.",
+            "Newspapers report that wounded soldiers get very poor care.",
+            "Miss X leads a team of thirty-eight nurses to help.",
+            "They travel to a huge army hospital at Scutari, near Constantinople.",
+            "The building is dirty, cold, and full of rats.",
+            "Clean water and clean bandages are hard to find.",
+            "More soldiers die from disease than from their wounds.",
+            "Miss X works hard to make the wards cleaner and calmer.",
+            "She buys food and clean shirts for the soldiers with money from newspaper readers at home.",
+            "The next year, a special team cleans the hospital's sewers, and far fewer soldiers die.",
+            "When she goes home, the whole country calls her a hero."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Clara Barton",
+            "Mary Seacole",
+            "Florence Nightingale",
+            "Dorothea Dix"
+          ],
+          "correct": "Florence Nightingale",
+          "words": [
+            {
+              "word": "wounded",
+              "explanation": "hurt badly in a fight or accident"
+            },
+            {
+              "word": "bandages",
+              "explanation": "strips of cloth used to cover a wound"
+            },
+            {
+              "word": "disease",
+              "explanation": "an illness, often caused by germs, not an injury"
+            },
+            {
+              "word": "ward",
+              "explanation": "a large room in a hospital with many beds"
+            },
+            {
+              "word": "sewer",
+              "explanation": "an underground pipe that carries away dirty water and waste"
+            }
+          ],
+          "main_image": {
+            "description": "A wide exterior view of a huge pale yellow 1850s barracks building with long plain facades and four square corner towers, standing on a rise above a strait of water at dusk, tiny distant figures of soldiers in dark 1850s uniforms and horse-drawn carts near the entrance, grim overcast sky. Production note: no grey northern fortress, no readable signs or flags, no modern vehicles, no gore, no wounds in close-up, no text, no letters, no numbers.",
+            "caption": "A huge hospital far from home fills with sick and wounded soldiers.",
+            "shutterstock_query": "huge pale yellow barracks corner towers strait dusk 1850s crimean war hospital",
+            "ai_prompt": "Photorealistic wide exterior view of a huge pale yellow ochre 1850s barracks building with long plain facades and four square corner towers, standing on a rise above a strait of water at dusk, tiny distant figures of soldiers in dark 1850s uniforms and horse-drawn carts near the entrance, grim overcast sky, calm documentary mood, no grey stone fortress, no readable signs, no flags, no modern vehicles, no electric light, no gore, no wounds in close-up, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A long stone hospital ward of the 1850s with rows of plain iron beds, most of them empty and neatly made, weak daylight through tall arched windows, a mop and wooden bucket standing in the stone aisle. The picture helps explain the word ward. Production note: no people, no modern hospital equipment, no electric light, no readable signs, no text, no letters, no numbers.",
+            "caption": "A ward is a large room in a hospital with many beds.",
+            "shutterstock_query": "victorian hospital ward iron beds empty stone room",
+            "ai_prompt": "Photorealistic vertical image of a long stone 1850s hospital ward with rows of plain iron beds with grey wool blankets neatly made along both walls, weak daylight through tall arched windows, a mop and wooden bucket standing in the stone aisle, calm empty mood, no people, no modern hospital equipment, no electric light, no plastic, no readable signs, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Diagrams That Explain Why Soldiers Die",
+          "category": "science",
+          "text_sentences": [
+            "Miss X is a nurse who comes home from a war far away.",
+            "After the war, she studies numbers, not battles.",
+            "She collects careful facts about every soldier who dies in hospital.",
+            "Most deaths come from disease, not from enemy weapons.",
+            "She draws colorful diagrams to show this clearly.",
+            "Army officials and politicians find the diagrams easy to read.",
+            "The diagrams help push for cleaner hospitals and cleaner army camps.",
+            "In 1858, a scientific society elects her as its first woman member.",
+            "That society studies numbers and facts about people and countries, called statistics.",
+            "Miss X argues that careful facts, not luck, save lives.",
+            "Her careful work slowly changes how governments plan health care."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Ada Lovelace",
+            "Florence Nightingale",
+            "Elizabeth Blackwell",
+            "Marie Curie"
+          ],
+          "correct": "Florence Nightingale",
+          "words": [
+            {
+              "word": "diagrams",
+              "explanation": "pictures that use shapes or lines to show facts clearly"
+            },
+            {
+              "word": "officials",
+              "explanation": "people who have an important job in the army or government"
+            },
+            {
+              "word": "elects",
+              "explanation": "chooses someone for a role by voting"
+            },
+            {
+              "word": "statistics",
+              "explanation": "the study of facts and numbers about many people or things"
+            }
+          ],
+          "main_image": {
+            "description": "A formal Victorian meeting room with several men in dark 1850s frock coats and high collars seated around a long bare wooden table, one official standing and holding a tightly rolled sheet of paper as he speaks, the other men listening, soft daylight through tall windows. Production note: no chart, no easel, no papers on the table, no modern furniture, no recognizable portraits on the walls, no text, no letters, no numbers.",
+            "caption": "Careful facts convince officials to change how hospitals are run.",
+            "shutterstock_query": "victorian officials meeting room long table standing speaker 1850s illustration",
+            "ai_prompt": "Photorealistic image of a formal Victorian meeting room with several men in dark 1850s frock coats, waistcoats and high collars seated around a long bare polished wooden table, one official standing and holding a tightly rolled sheet of paper as he speaks, the other men listening, soft daylight through tall windows, serious attentive mood, no chart, no easel, no papers on the table, no modern furniture, no electric light, no recognizable portraits on the walls, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A close-up still life of a wooden 1850s drafting table with a brass drawing compass, a wooden ruler, a small stack of plain blank cream paper, and a glass ink pot, soft daylight from a window. The picture helps explain the word diagrams. Production note: the paper is completely blank, no drawn lines, no grid, no numbers, letters, or text visible, no electric lamp.",
+            "caption": "Diagrams use shapes and lines, not battles, to make a point.",
+            "shutterstock_query": "antique drafting table brass compass ruler blank paper ink daylight",
+            "ai_prompt": "Photorealistic vertical close-up still life of a wooden 1850s drafting table with a brass drawing compass, a wooden ruler, a small stack of plain blank cream paper and a glass ink pot with a steel-nib pen, soft daylight from a window, calm studious mood, the paper completely blank with no drawn lines and no grid, no electric lamp, no modern objects, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A School, a Book, and Years in Bed",
+          "category": "science",
+          "text_sentences": [
+            "Miss X is born in an Italian city, and her family names her after it.",
+            "She grows up rich in England but later becomes sick from her time at war.",
+            "For the rest of her life, weak health often keeps her in bed.",
+            "Yet she keeps working hard from her bedroom for many years.",
+            "She writes a famous book about good nursing care.",
+            "Soon after, she opens a school for nurses in London.",
+            "The school trains women to nurse with clean, careful methods.",
+            "Officials in India ask for her advice about clean water and clean camps.",
+            "She never travels to India herself, but she studies its reports closely.",
+            "In 1907, a king gives her a high honor, the first time for a woman."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Marie Curie",
+            "Edith Cavell",
+            "Elizabeth Garrett Anderson",
+            "Florence Nightingale"
+          ],
+          "correct": "Florence Nightingale",
+          "words": [
+            {
+              "word": "advice",
+              "explanation": "ideas about what someone should do"
+            },
+            {
+              "word": "honor",
+              "explanation": "a special way of showing great respect"
+            },
+            {
+              "word": "method",
+              "explanation": "a careful, planned way of doing something"
+            },
+            {
+              "word": "reports",
+              "explanation": "written accounts that describe facts or events"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet 1860s Victorian bedroom, a small writing desk placed beside a curtained window near a canopied bed, a closed leather writing case and a plain pen on the desk, soft daylight through a lace curtain, no person visible. Production note: no people, no loose papers, no modern furniture or electronics, no electric light, no text, no letters, no numbers.",
+            "caption": "Even from her bed, Miss X keeps working for many years.",
+            "shutterstock_query": "victorian bedroom writing desk lace curtain canopy bed still life",
+            "ai_prompt": "Photorealistic image of a quiet 1860s Victorian bedroom, a small writing desk placed beside a curtained window near a canopied bed with plain white linen, a closed dark leather writing case and a plain pen on the desk, soft daylight through a lace curtain, calm still mood, no people, no loose papers, no modern furniture or electronics, no electric light, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A tall white enamel water jug and a wide white basin on a plain wooden washstand in a bare 1860s room, a folded white cloth beside them, soft daylight, no people. The picture helps explain the word method. Production note: no taps, no modern plumbing, no plastic, no text, letters, or numbers.",
+            "caption": "Clean water and clean hands are part of the careful methods her school teaches.",
+            "shutterstock_query": "white enamel jug basin wooden washstand folded cloth victorian room",
+            "ai_prompt": "Photorealistic vertical image of a tall white enamel water jug and a wide white basin standing on a plain wooden washstand in a bare 1860s room with whitewashed walls, a folded white linen cloth beside them, soft daylight from a window, calm clean mood, no people, no taps, no modern plumbing, no plastic, no electric light, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "A Statistician, a Legend, and Another Nurse From Jamaica",
+          "category": "science",
+          "text_sentences": [
+            "Miss X believes dirty air, not tiny living germs, causes most disease.",
+            "Later scientists show that germs are the true cause of infection.",
+            "Still, her hunt for clean air pushes hospitals to become cleaner anyway.",
+            "In 1855, during the Crimean War, deaths at her army hospital fall sharply after a team cleans its sewers.",
+            "Years later, Miss X studies this result closely and draws a clear lesson from it.",
+            "Popular stories later remember her mostly for her kindness at night.",
+            "Historians remind us she is also a tough, careful statistician.",
+            "Mary Seacole, a nurse from Jamaica, also wants to help in that war.",
+            "She asks to join the nurses sent out, but the officials say no.",
+            "So Mary Seacole cares for soldiers her own way instead.",
+            "Today, both women are honored as pioneers of modern nursing."
+          ],
+          "question": "Who is Miss X?",
+          "options": [
+            "Florence Nightingale",
+            "Elizabeth Blackwell",
+            "Clara Barton",
+            "Marie Curie"
+          ],
+          "correct": "Florence Nightingale",
+          "words": [
+            {
+              "word": "germs",
+              "explanation": "tiny living things, too small to see, that can cause disease"
+            },
+            {
+              "word": "infection",
+              "explanation": "illness caused by germs getting into the body"
+            },
+            {
+              "word": "statistician",
+              "explanation": "a person who studies facts and numbers carefully"
+            },
+            {
+              "word": "pioneers",
+              "explanation": "people who are among the first to try or achieve something new"
+            }
+          ],
+          "main_image": {
+            "description": "A wide view of an 1850s hospital courtyard where several workers in 1850s working clothes, waistcoats, rolled shirt sleeves, flat caps and heavy leather boots, dig and repair old stone sewer pipes with simple hand tools and wooden buckets, overcast grey sky, a distant pale yellow hospital building with long walls behind them. Production note: no modern excavation equipment, no hard hats, no high-visibility vests, no rubber boots, no gore, no readable signs, no text, no letters, no numbers.",
+            "caption": "A team fixes the broken sewers, and the death rate falls sharply.",
+            "shutterstock_query": "victorian sewer repair workers courtyard historical illustration",
+            "ai_prompt": "Photorealistic wide image of an 1850s hospital courtyard where several workers in 1850s working clothes, waistcoats, rolled shirt sleeves, flat caps and heavy leather boots, dig and repair old stone sewer pipes with simple hand tools and wooden buckets, overcast grey sky, a distant pale yellow hospital building with long plain walls in the background, calm industrious mood, no modern excavation equipment, no hard hats, no high-visibility vests, no rubber boots, no gore, no readable signs, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A close-up still life of two 1850s nursing kits side by side on a plain wooden table, one a plain dark brown leather bag with a brass clasp, the other a woven basket holding folded cloth bandages and small unlabeled glass jars with cork stoppers. Production note: no labels, no modern medical packaging, no plastic, no readable text, letters, or numbers anywhere.",
+            "caption": "Two nurses, two kits, two ways of caring for soldiers in the same war.",
+            "shutterstock_query": "antique leather bag woven basket bandages jars still life",
+            "ai_prompt": "Photorealistic vertical close-up still life of two 1850s nursing kits side by side on a plain wooden table, one a plain dark brown leather bag with a brass clasp, the other a woven basket holding folded white cloth bandages and small plain glass jars with cork stoppers, soft natural daylight, calm respectful mood, no labels, no modern medical packaging, no plastic, no electric light, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
