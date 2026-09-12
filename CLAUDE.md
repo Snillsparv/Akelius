@@ -19,11 +19,11 @@ ordlista eller bild.
 
 ## Status (uppdatera vid varje leverans)
 
-- 39 ämnen, 195 kort, 390 bilder, 100 procent tvåspråkigt (leverans 1-6).
-- Näst på tur: rad 40-50 i `docs/master-lista-50.md` (världskrigen, Churchill,
-  Hitler, Gandhi, FN, kalla kriget, Martin Luther King, Mandela, Berlinmuren,
-  månlandningen), därefter förslag på utökad lista mot Rogers mål 600+ kort
-  (idéhistoria, matematiker, fysiker, nobelpristagare).
+- 45 ämnen, 225 kort, 450 bilder, 100 procent tvåspråkigt (leverans 1-7).
+- Näst på tur: rad 46-50 i `docs/master-lista-50.md` (kalla kriget, Martin
+  Luther King, Mandela, Berlinmurens fall, månlandningen), därefter förslag på
+  utökad lista mot Rogers mål 600+ kort (idéhistoria, matematiker, fysiker,
+  nobelpristagare).
 - Öppet hos Roger: baksidestexter för befintliga kort, nivå 3-kort,
   "about X years ago" kontra århundraden.
 

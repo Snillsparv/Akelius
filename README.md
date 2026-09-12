@@ -9,7 +9,7 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**195 kort · 39 ämnen**, samtliga faktagranskade och specgranskade.
+**225 kort · 45 ämnen**, samtliga faktagranskade och specgranskade.
 Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
 svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
@@ -27,6 +27,8 @@ svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 - **Leverans 6** — Amerikanska revolutionen, George Washington, Franska
   revolutionen, Napoleon Bonaparte, Industriella revolutionen, Charles Darwin,
   Karl Marx
+- **Leverans 7** — Första världskriget, Andra världskriget, Winston Churchill,
+  Adolf Hitler, Mahatma Gandhi, Förenta nationerna
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -74,9 +76,9 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(390 st för leverans 1–6: 195 kort × huvudbild + sidobild).
+(450 st för leverans 1–7: 225 kort × huvudbild + sidobild).
 
-**Status: 390 av 390 bilder klara** — samtliga kort i leverans 1–6 har
+**Status: 450 av 450 bilder klara** — samtliga kort i leverans 1–7 har
 huvudbild och sidobild. Varje batch har kvalitetsgranskats bild för bild
 mot sina briefer, och underkända bilder har genererats om.
 

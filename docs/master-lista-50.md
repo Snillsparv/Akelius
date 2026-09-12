@@ -46,12 +46,12 @@ status uppdateras löpande.
 | 37 | The Industrial Revolution | Revolutions and New Ideas |✅ Leverans 6 |
 | 38 | Charles Darwin | Revolutions and New Ideas |✅ Leverans 6 |
 | 39 | Karl Marx | Revolutions and New Ideas |✅ Leverans 6 |
-| 40 | World War I | Twentieth Century | |
-| 41 | World War II | Twentieth Century | |
-| 42 | Winston Churchill | Twentieth Century | |
-| 43 | Adolf Hitler | Twentieth Century | |
-| 44 | Mahatma Gandhi | Twentieth Century | |
-| 45 | The United Nations | Twentieth Century | |
+| 40 | World War I | Twentieth Century |✅ Leverans 7 |
+| 41 | World War II | Twentieth Century |✅ Leverans 7 |
+| 42 | Winston Churchill | Twentieth Century |✅ Leverans 7 |
+| 43 | Adolf Hitler | Twentieth Century |✅ Leverans 7 |
+| 44 | Mahatma Gandhi | Twentieth Century |✅ Leverans 7 |
+| 45 | The United Nations | Twentieth Century |✅ Leverans 7 |
 | 46 | The Cold War | Twentieth Century | |
 | 47 | Martin Luther King Jr. | Twentieth Century | |
 | 48 | Nelson Mandela | Twentieth Century | |
