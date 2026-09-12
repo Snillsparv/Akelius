@@ -6,14 +6,14 @@
       "title": "Två jättar som aldrig slåss",
       "text_sentences": [
         "Konflikten X börjar efter att det största kriget i historien tar slut 1945.",
-        "Två mycket starka makter kommer ut ur det kriget.",
+        "Två mycket starka makter växer fram ur det kriget.",
         "En makt står i väst, en makt står i öst.",
-        "Varje sida bygger bomber starka nog att förstöra hela städer.",
+        "Båda sidor bygger bomber som är starka nog att förstöra hela städer.",
         "De två makterna slåss aldrig öppet mot varandra.",
-        "I stället fruktar varje sida den andras planer.",
+        "I stället är varje sida rädd för den andras planer.",
         "En linje av stängsel och vakter delar Europa i två delar.",
-        "Människor ger linjen namnet järnridå.",
-        "I vissa skolor gör barnen en övning i att gömma sig under sina bänkar.",
+        "Människor ger den här linjen namnet järnridå.",
+        "I vissa skolor övar barnen på att gömma sig under bänkarna.",
         "De är rädda att en bomb ska falla från himlen.",
         "Denna spända rivalitet varar i mer än fyrtio år."
       ],
@@ -34,29 +34,29 @@
           "explanation": "en person vars uppgift är att stoppa människor från att korsa en gräns"
         },
         {
-          "word": "övning",
-          "explanation": "en sak man gör om och om igen för att vara redo om något farligt skulle hända"
+          "word": "öva",
+          "explanation": "göra något om och om igen för att vara redo om något farligt skulle hända"
         },
         {
           "word": "rivalitet",
           "explanation": "en lång tävling mellan två sidor som båda vill vara starkast"
         }
       ],
-      "main_caption": "Några barn övar på att gömma sig under sina bänkar, bara för säkerhets skull.",
-      "side_caption": "En linje av stängsel och torn skär rakt genom landet."
+      "main_caption": "Några barn övar på att gömma sig under bänkarna, bara för säkerhets skull.",
+      "side_caption": "En linje av stängsel och torn skär rakt genom landskapet."
     },
     {
-      "title": "Att slåss via andra länders krig",
+      "title": "Andras krig",
       "text_sentences": [
-        "Konflikten X utkämpas mest genom andra länder och andra människor.",
-        "De två rivalerna skickar sällan egna soldater för att slåss mot varandra.",
+        "Konflikten X utkämpas mestadels genom andra länder och andra människor.",
+        "De två rivalerna skickar sällan soldater för att slåss mot varandra.",
         "I början av 1950-talet slåss västmakten i Korea med sin egen armé.",
         "Östmakten beväpnar i hemlighet den andra sidan.",
         "Senare skickar västmakten sin armé till ett långt krig i Vietnam.",
         "Östmakten skickar senare soldater till ett krig i Afghanistan.",
         "Båda makterna skickar vapen och pengar till ett inbördeskrig i Angola.",
-        "De stöder också olika sidor i flera krig i Centralamerika.",
-        "De två makterna tävlar också mot varandra ute i rymden.",
+        "De stöder också motsatta sidor i flera krig i Centralamerika.",
+        "De två makterna tävlar också mot varandra om att nå ut i rymden.",
         "En mur delar en stad i Europa i två delar.",
         "Miljontals soldater och civila dör i dessa krig."
       ],
@@ -77,11 +77,11 @@
           "explanation": "ett krig som utkämpas mellan grupper inom ett och samma land"
         },
         {
-          "word": "civil",
-          "explanation": "en person som inte är soldat"
+          "word": "civila",
+          "explanation": "vanliga människor som inte är soldater"
         }
       ],
-      "main_caption": "Soldater och utrustning kommer för att hjälpa ena sidan i ett annat lands krig.",
+      "main_caption": "Soldater och utrustning kommer för att hjälpa den ena sidan i ett annat lands krig.",
       "side_caption": "De två makterna tävlar om att vara först med att skicka raketer upp i rymden."
     },
     {
@@ -90,15 +90,15 @@
         "I oktober 1962 når konflikten X sitt farligaste ögonblick.",
         "Spaningsplan hittar missiler gömda på en ö nära USA.",
         "Dessa missiler skulle kunna nå många städer inom några minuter.",
-        "Under tretton spända dagar fruktar hela världen ett kärnvapenkrig.",
+        "Under tretton spända dagar fruktar världen ett kärnvapenkrig.",
         "De två ledarna skickar hemliga brev till varandra sent på natten.",
-        "Militärer på båda sidor förbereder sig för det värsta.",
+        "Officerare på båda sidor förbereder sig för det värsta.",
         "Till slut kommer de två sidorna överens om en uppgörelse, delvis hemlig.",
-        "Ena sidan lovar att ta bort sina missiler från ön.",
+        "Den ena sidan lovar att ta bort sina missiler från ön.",
         "Den andra sidan lovar att inte invadera ön.",
-        "Den lovar också i hemlighet att ta bort missiler nära sin rival.",
-        "Efter krisen sätter de två ledarna upp en direktlinje för brådskande meddelanden.",
-        "De hoppas att snabb kontakt kan förhindra sådan fara i framtiden."
+        "Den går också i hemlighet med på att ta bort missiler nära sin rival.",
+        "Efter krisen upprättar de två ledarna en direktlinje för brådskande meddelanden.",
+        "De hoppas att snabb kontakt kan förhindra en sådan fara i framtiden."
       ],
       "question": "Vilken konflikt är konflikten X?",
       "options": [
@@ -121,23 +121,23 @@
           "explanation": "ett flygplan som flyger högt och tar hemliga foton av ett annat land"
         }
       ],
-      "main_caption": "Örlogsfartyg stoppar fartyg på väg mot ön och kontrollerar deras last.",
+      "main_caption": "Krigsfartyg stoppar fartyg på väg mot ön och kontrollerar deras last.",
       "side_caption": "Sent på natten skickar de två ledarna försiktiga, hemliga meddelanden till varandra."
     },
     {
       "title": "En rivalitet som når varje kontinent",
       "text_sentences": [
-        "Konflikten X formar livet också i Asien, Afrika och Latinamerika.",
-        "Många länder i Asien och Afrika blir självständiga vid ungefär den här tiden.",
+        "Konflikten X formar också människors liv i Asien, Afrika och Latinamerika.",
+        "Många länder i Asien och Afrika blir självständiga ungefär vid den här tiden.",
         "År 1955 möts representanter från tjugonio länder i en stad som heter Bandung.",
         "Många av dem vill hålla sig utanför rivaliteten mellan de två makterna.",
         "Ändå når rivaliteten in i deras länder på smärtsamma sätt.",
         "I Kongo hjälper utländska makter till att avsätta landets första folkvalda ledare.",
-        "År av kris och inbördes konflikt följer.",
-        "I Chile störtar en kupp en folkvald ledare.",
+        "År av kris och inre konflikter följer.",
+        "I Chile störtas en folkvald ledare genom en kupp.",
         "En av makterna hjälper till att förbereda kuppen och välkomnar den.",
-        "I Indonesien dödar politiskt våld flera hundra tusen människor.",
-        "Diktatorer i många fattigare länder får stöd från den ena eller andra sidan.",
+        "I Indonesien dödar politiskt våld flera hundratusen människor.",
+        "Diktatorer i många fattigare länder får stöd från den ena eller den andra sidan.",
         "Vanliga människor betalar det högsta priset för denna globala rivalitet."
       ],
       "question": "Vilken konflikt är konflikten X?",
@@ -154,11 +154,11 @@
         },
         {
           "word": "kupp",
-          "explanation": "ett plötsligt olagligt maktövertagande av en regering, ofta genom armén"
+          "explanation": "när någon plötsligt och olagligt tar makten över ett land, ofta med hjälp av armén"
         },
         {
           "word": "diktator",
-          "explanation": "en ledare som har all makt och tillåter mycket lite frihet"
+          "explanation": "en härskare som har all makt och tillåter mycket lite frihet"
         }
       ],
       "main_caption": "Ledare från många nya länder möts och söker sin egen väg.",
@@ -167,17 +167,17 @@
     {
       "title": "Vems fel är det, och hur tar det slut",
       "text_sentences": [
-        "Historiker är oense om vem som bär det största ansvaret för konflikten X.",
+        "Historiker är oense om vem som bär den största skulden till konflikten X.",
         "En tidig grupp historiker skyller på östmaktens ambitioner.",
         "En senare grupp historiker skyller i stället på västmaktens handlingar.",
         "En tredje grupp menar att rädsla och missförstånd driver båda sidor.",
-        "Rivaliteten tar successivt slut mellan slutet av 1980-talet och början av 1990-talet.",
+        "Rivaliteten upphör gradvis mellan slutet av 1980-talet och början av 1990-talet.",
         "Östmakten låter sina allierade i Europa hålla fria val.",
-        "Strax därefter delas den östliga supermakten upp i femton separata länder.",
+        "Strax därefter faller den östra stormakten sönder i femton separata länder.",
         "Efter 1991 öppnas arkiven i öst för forskare.",
-        "De nya dokumenten tvingar historiker att ändra några tidigare slutsatser.",
-        "Historiker tvistar fortfarande om vilken förklaring som passar bevisen bäst.",
-        "Varje nyöppnat arkiv kan tyst ändra den vedertagna berättelsen."
+        "De nya dokumenten tvingar historiker att revidera vissa tidigare slutsatser.",
+        "Historiker tvistar fortfarande om vilken förklaring som stämmer bäst med bevisen.",
+        "Varje nyöppnat arkiv kan i tysthet ändra den vedertagna berättelsen."
       ],
       "question": "Vilken konflikt är konflikten X?",
       "options": [
@@ -196,12 +196,12 @@
           "explanation": "en plats där gamla dokument och handlingar förvaras"
         },
         {
-          "word": "supermakt",
+          "word": "stormakt",
           "explanation": "ett extremt mäktigt land med inflytande över hela världen"
         }
       ],
       "main_caption": "När rivaliteten tar slut lyfter en kran bort en gammal staty från sin sockel.",
-      "side_caption": "De två makterna börjar plocka isär några av sina missiler."
+      "side_caption": "De två makterna börjar ta isär några av sina missiler."
     }
   ]
 }

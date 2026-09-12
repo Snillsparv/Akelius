@@ -23582,6 +23582,50 @@
             "caption": "A line of fences and towers cuts straight across the land.",
             "shutterstock_query": "1950s fenced border watchtower guard dusk field illustration",
             "ai_prompt": "Photorealistic vertical scene at dusk of a barbed wire fence and a plain wooden watchtower cutting across a green field, a lone guard in a generic grey greatcoat and flat cap moving along the fence with a torch, low hills behind, blue evening light, tense quiet mood, 1950s to 1960s clothing and equipment only, no modern vehicles, no insignia, no emblems, no dogs, no weapons in clear focus, no recognizable face, no text, no letters, no numbers, no flags."
+          },
+          "sv": {
+            "title": "Två jättar som aldrig slåss",
+            "text_sentences": [
+              "Konflikten X börjar efter att det största kriget i historien tar slut 1945.",
+              "Två mycket starka makter växer fram ur det kriget.",
+              "En makt står i väst, en makt står i öst.",
+              "Båda sidor bygger bomber som är starka nog att förstöra hela städer.",
+              "De två makterna slåss aldrig öppet mot varandra.",
+              "I stället är varje sida rädd för den andras planer.",
+              "En linje av stängsel och vakter delar Europa i två delar.",
+              "Människor ger den här linjen namnet järnridå.",
+              "I vissa skolor övar barnen på att gömma sig under bänkarna.",
+              "De är rädda att en bomb ska falla från himlen.",
+              "Denna spända rivalitet varar i mer än fyrtio år."
+            ],
+            "question": "Vilken konflikt är konflikten X?",
+            "options": [
+              "Andra världskriget",
+              "Kalla kriget",
+              "Koreakriget",
+              "Vietnamkriget"
+            ],
+            "correct": "Kalla kriget",
+            "words": [
+              {
+                "word": "järnridå",
+                "explanation": "namnet på den bevakade linjen som delar Europa i två delar"
+              },
+              {
+                "word": "vakt",
+                "explanation": "en person vars uppgift är att stoppa människor från att korsa en gräns"
+              },
+              {
+                "word": "öva",
+                "explanation": "göra något om och om igen för att vara redo om något farligt skulle hända"
+              },
+              {
+                "word": "rivalitet",
+                "explanation": "en lång tävling mellan två sidor som båda vill vara starkast"
+              }
+            ],
+            "main_caption": "Några barn övar på att gömma sig under bänkarna, bara för säkerhets skull.",
+            "side_caption": "En linje av stängsel och torn skär rakt genom landskapet."
           }
         },
         {
@@ -23634,6 +23678,46 @@
             "caption": "The two powers compete to be first to send rockets into space.",
             "shutterstock_query": "1960s rocket launch night floodlights technicians illustration",
             "ai_prompt": "Photorealistic vertical night scene of a tall unmarked rocket on a launch tower at a remote 1960s launch site, floodlights illuminating steam and smoke at its base, technicians in period overalls observing from a safe distance, dramatic night sky, 1960s rocket design and clothing only, no modern rockets, no emblems, no hammer and sickle, no stars and stripes, no symbols on the rocket body, no recognizable faces, no text, no letters, no numbers, no flags."
+          },
+          "sv": {
+            "title": "Andras krig",
+            "text_sentences": [
+              "Konflikten X utkämpas mestadels genom andra länder och andra människor.",
+              "De två rivalerna skickar sällan soldater för att slåss mot varandra.",
+              "I början av 1950-talet slåss västmakten i Korea med sin egen armé.",
+              "Östmakten beväpnar i hemlighet den andra sidan.",
+              "Senare skickar västmakten sin armé till ett långt krig i Vietnam.",
+              "Östmakten skickar senare soldater till ett krig i Afghanistan.",
+              "Båda makterna skickar vapen och pengar till ett inbördeskrig i Angola.",
+              "De stöder också motsatta sidor i flera krig i Centralamerika.",
+              "De två makterna tävlar också mot varandra om att nå ut i rymden.",
+              "En mur delar en stad i Europa i två delar.",
+              "Miljontals soldater och civila dör i dessa krig."
+            ],
+            "question": "Vilken konflikt är konflikten X?",
+            "options": [
+              "Gulfkriget",
+              "Jugoslaviska krigen",
+              "Kalla kriget",
+              "Spanska inbördeskriget"
+            ],
+            "correct": "Kalla kriget",
+            "words": [
+              {
+                "word": "rival",
+                "explanation": "ett land eller en person som tävlar starkt mot en annan"
+              },
+              {
+                "word": "inbördeskrig",
+                "explanation": "ett krig som utkämpas mellan grupper inom ett och samma land"
+              },
+              {
+                "word": "civila",
+                "explanation": "vanliga människor som inte är soldater"
+              }
+            ],
+            "main_caption": "Soldater och utrustning kommer för att hjälpa den ena sidan i ett annat lands krig.",
+            "side_caption": "De två makterna tävlar om att vara först med att skicka raketer upp i rymden."
           }
         },
         {
@@ -23687,6 +23771,47 @@
             "caption": "Late at night, the two leaders send each other careful, secret messages.",
             "shutterstock_query": "1960s desk lamp man writing letter night from behind illustration",
             "ai_prompt": "Photorealistic vertical night scene of a man in a plain 1960s dark suit sitting at a wooden desk writing quickly by lamplight, a closed envelope and an old rotary telephone nearby, heavy curtains drawn, seen from behind so the face is hidden, quiet tense mood, 1960s office furniture and clothing only, no modern electronics, no emblems, no text, no letters, no numbers, no flags."
+          },
+          "sv": {
+            "title": "Tretton dagar som skakar världen",
+            "text_sentences": [
+              "I oktober 1962 når konflikten X sitt farligaste ögonblick.",
+              "Spaningsplan hittar missiler gömda på en ö nära USA.",
+              "Dessa missiler skulle kunna nå många städer inom några minuter.",
+              "Under tretton spända dagar fruktar världen ett kärnvapenkrig.",
+              "De två ledarna skickar hemliga brev till varandra sent på natten.",
+              "Officerare på båda sidor förbereder sig för det värsta.",
+              "Till slut kommer de två sidorna överens om en uppgörelse, delvis hemlig.",
+              "Den ena sidan lovar att ta bort sina missiler från ön.",
+              "Den andra sidan lovar att inte invadera ön.",
+              "Den går också i hemlighet med på att ta bort missiler nära sin rival.",
+              "Efter krisen upprättar de två ledarna en direktlinje för brådskande meddelanden.",
+              "De hoppas att snabb kontakt kan förhindra en sådan fara i framtiden."
+            ],
+            "question": "Vilken konflikt är konflikten X?",
+            "options": [
+              "Vietnamkriget",
+              "Jugoslaviska krigen",
+              "Koreakriget",
+              "Kalla kriget"
+            ],
+            "correct": "Kalla kriget",
+            "words": [
+              {
+                "word": "missil",
+                "explanation": "ett vapen som flyger genom luften för att träffa ett mål långt bort"
+              },
+              {
+                "word": "kärnvapen",
+                "explanation": "vapen som använder atomens enorma kraft, starka nog att förstöra hela städer"
+              },
+              {
+                "word": "spaningsplan",
+                "explanation": "ett flygplan som flyger högt och tar hemliga foton av ett annat land"
+              }
+            ],
+            "main_caption": "Krigsfartyg stoppar fartyg på väg mot ön och kontrollerar deras last.",
+            "side_caption": "Sent på natten skickar de två ledarna försiktiga, hemliga meddelanden till varandra."
           }
         },
         {
@@ -23740,6 +23865,47 @@
             "caption": "One night, soldiers take control of a government building by force.",
             "shutterstock_query": "1960s soldiers government building night guard illustration",
             "ai_prompt": "Photorealistic vertical night scene of a small group of soldiers in generic dark fatigues of the 1960s standing guard outside the closed doors of a government building, one soldier gripping a rifle, streetlights glowing, empty street, tense quiet mood, 1960s to 1970s military clothing and equipment only, no modern vehicles or gear, no insignia, no hammer and sickle, no stars and stripes, no recognizable faces, no text, no letters, no numbers, no flags."
+          },
+          "sv": {
+            "title": "En rivalitet som når varje kontinent",
+            "text_sentences": [
+              "Konflikten X formar också människors liv i Asien, Afrika och Latinamerika.",
+              "Många länder i Asien och Afrika blir självständiga ungefär vid den här tiden.",
+              "År 1955 möts representanter från tjugonio länder i en stad som heter Bandung.",
+              "Många av dem vill hålla sig utanför rivaliteten mellan de två makterna.",
+              "Ändå når rivaliteten in i deras länder på smärtsamma sätt.",
+              "I Kongo hjälper utländska makter till att avsätta landets första folkvalda ledare.",
+              "År av kris och inre konflikter följer.",
+              "I Chile störtas en folkvald ledare genom en kupp.",
+              "En av makterna hjälper till att förbereda kuppen och välkomnar den.",
+              "I Indonesien dödar politiskt våld flera hundratusen människor.",
+              "Diktatorer i många fattigare länder får stöd från den ena eller den andra sidan.",
+              "Vanliga människor betalar det högsta priset för denna globala rivalitet."
+            ],
+            "question": "Vilken konflikt är konflikten X?",
+            "options": [
+              "Kalla kriget",
+              "Jugoslaviska krigen",
+              "Gulfkriget",
+              "Koreakriget"
+            ],
+            "correct": "Kalla kriget",
+            "words": [
+              {
+                "word": "representant",
+                "explanation": "en person som skickas för att tala och agera för ett land eller en grupp"
+              },
+              {
+                "word": "kupp",
+                "explanation": "när någon plötsligt och olagligt tar makten över ett land, ofta med hjälp av armén"
+              },
+              {
+                "word": "diktator",
+                "explanation": "en härskare som har all makt och tillåter mycket lite frihet"
+              }
+            ],
+            "main_caption": "Ledare från många nya länder möts och söker sin egen väg.",
+            "side_caption": "En natt tar soldater kontroll över en regeringsbyggnad med våld."
           }
         },
         {
@@ -23792,9 +23958,50 @@
             "caption": "The two powers begin to take some of their missiles apart.",
             "shutterstock_query": "1980s missile dismantled scrapyard crane workers distance illustration",
             "ai_prompt": "Photorealistic vertical scene in a scrapyard in the late 1980s seen from a distance, a long plain grey missile body without markings lying on wooden blocks while workers in period overalls and hard hats cut it into sections, a crane holding one cut section in the air, grey overcast sky, piles of scrap metal behind, calm working mood, late 1980s clothing, tools and vehicles only, no warhead, no explosion, no mushroom clouds, no emblems or symbols on the missile, no hammer and sickle, no stars and stripes, no recognizable faces, no text, no letters, no numbers, no flags."
+          },
+          "sv": {
+            "title": "Vems fel är det, och hur tar det slut",
+            "text_sentences": [
+              "Historiker är oense om vem som bär den största skulden till konflikten X.",
+              "En tidig grupp historiker skyller på östmaktens ambitioner.",
+              "En senare grupp historiker skyller i stället på västmaktens handlingar.",
+              "En tredje grupp menar att rädsla och missförstånd driver båda sidor.",
+              "Rivaliteten upphör gradvis mellan slutet av 1980-talet och början av 1990-talet.",
+              "Östmakten låter sina allierade i Europa hålla fria val.",
+              "Strax därefter faller den östra stormakten sönder i femton separata länder.",
+              "Efter 1991 öppnas arkiven i öst för forskare.",
+              "De nya dokumenten tvingar historiker att revidera vissa tidigare slutsatser.",
+              "Historiker tvistar fortfarande om vilken förklaring som stämmer bäst med bevisen.",
+              "Varje nyöppnat arkiv kan i tysthet ändra den vedertagna berättelsen."
+            ],
+            "question": "Vilken konflikt är konflikten X?",
+            "options": [
+              "Andra världskriget",
+              "Vietnamkriget",
+              "Jugoslaviska krigen",
+              "Kalla kriget"
+            ],
+            "correct": "Kalla kriget",
+            "words": [
+              {
+                "word": "ambition",
+                "explanation": "en stark önskan att få makt, framgång eller inflytande"
+              },
+              {
+                "word": "arkiv",
+                "explanation": "en plats där gamla dokument och handlingar förvaras"
+              },
+              {
+                "word": "stormakt",
+                "explanation": "ett extremt mäktigt land med inflytande över hela världen"
+              }
+            ],
+            "main_caption": "När rivaliteten tar slut lyfter en kran bort en gammal staty från sin sockel.",
+            "side_caption": "De två makterna börjar ta isär några av sina missiler."
           }
         }
-      ]
+      ],
+      "person_sv": "Kalla kriget"
     },
     {
       "slug": "martin-luther-king",
@@ -23852,6 +24059,48 @@
             "caption": "Many neighbors choose to walk rather than ride the bus.",
             "shutterstock_query": "1950s american residential street pedestrians walking sidewalk from behind",
             "ai_prompt": "Realistic vertical illustration of a quiet residential street in a southern American city in 1955, several Black residents in everyday 1950s clothing walking together along the sidewalk instead of waiting for a bus, some carrying grocery bags or lunch pails, seen from behind at a distance so no face is recognizable, small wood-frame houses of the era, morning light, calm determined mood, no readable street signs, no house numbers, no modern cars, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett år utan bussen",
+            "text_sentences": [
+              "Herr X bor i en stad i södra USA.",
+              "År 1955 måste svarta passagerare sitta längst bak i bussarna.",
+              "En dag vägrar en kvinna som heter Rosa Parks att lämna sin plats.",
+              "Polisen arresterar henne, och svarta ledare planerar en protest.",
+              "De väljer herr X, en ung pastor på tjugosex år, till att leda protesten.",
+              "I mer än ett år vägrar svarta invånare att åka buss.",
+              "I stället går de långa sträckor eller samåker i bilar.",
+              "Bussbolaget förlorar pengar varenda dag.",
+              "Till slut slår en domstol fast att regeln om var man får sitta strider mot lagen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Thurgood Marshall",
+              "Jesse Jackson",
+              "Martin Luther King",
+              "John Lewis"
+            ],
+            "correct": "Martin Luther King",
+            "words": [
+              {
+                "word": "pastor",
+                "explanation": "en ledare i en kristen kyrka"
+              },
+              {
+                "word": "protest",
+                "explanation": "en offentlig handling som visar att något är fel"
+              },
+              {
+                "word": "invånare",
+                "explanation": "människor som bor på en plats"
+              },
+              {
+                "word": "arrestera",
+                "explanation": "när polisen för bort en person och inte släpper personen fri"
+              }
+            ],
+            "main_caption": "År 1955 avgör hudfärgen var en passagerare får sitta.",
+            "side_caption": "Många grannar väljer att gå i stället för att åka buss."
           }
         },
         {
@@ -23907,6 +24156,49 @@
             "caption": "In a small jail cell, he writes his answer on scraps of paper.",
             "shutterstock_query": "1960s jail cell interior narrow cot blank paper shelf light",
             "ai_prompt": "Vertical realistic illustration of a small plain jail cell from the early 1960s, seen from just inside the barred door, a narrow cot, a metal sink, and a small wooden shelf holding a stack of blank scrap paper and a pencil stub, a shaft of light from a high barred window, no people, paper completely blank with no readable handwriting, no graffiti, no modern fixtures, calm still mood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Hundar, brandslangar och ett brev från fängelset",
+            "text_sentences": [
+              "Herr X studerar idéerna hos en ledare i Indien som kämpar utan vapen.",
+              "Han anser att protester aldrig bör övergå i våld, inte ens när polisen angriper.",
+              "I södra USA sätter sig aktivister vid lunchdiskar där man vägrar att servera dem.",
+              "Polisen arresterar herr X gång på gång för dessa fredliga protester.",
+              "År 1963 sätter polisen honom i fängelse i en stad som heter Birmingham.",
+              "I fängelset skriver herr X ett långt brev.",
+              "I brevet förklarar han varför människor inte får vänta tålmodigt på frihet.",
+              "Några veckor senare deltar barn i en stor marsch i samma stad.",
+              "Polisen använder hundar och kraftiga brandslangar mot de unga marschdeltagarna.",
+              "Kameror filmar attacken, och människor över hela världen ser den på tv."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Thurgood Marshall",
+              "Martin Luther King",
+              "Medgar Evers",
+              "Jesse Jackson"
+            ],
+            "correct": "Martin Luther King",
+            "words": [
+              {
+                "word": "aktivister",
+                "explanation": "människor som arbetar hårt för att åstadkomma förändring"
+              },
+              {
+                "word": "lunchdisk",
+                "explanation": "ett långt bord i en butik där man sitter och äter en snabb måltid"
+              },
+              {
+                "word": "marschdeltagare",
+                "explanation": "människor som går tillsammans för att visa vad de tycker"
+              },
+              {
+                "word": "fängelse",
+                "explanation": "en plats där polisen håller kvar personer som är arresterade"
+              }
+            ],
+            "main_caption": "År 1963 använder polisen hundar och kraftiga brandslangar mot marschdeltagarna.",
+            "side_caption": "I en liten fängelsecell skriver han sitt svar på papperslappar."
           }
         },
         {
@@ -23961,6 +24253,48 @@
             "caption": "That same year, a committee in Europe honors him with a great prize for peace.",
             "shutterstock_query": "gold medal velvet presentation box ribbon wooden table closeup",
             "ai_prompt": "Photorealistic vertical close-up of a plain round gold medal resting in an open velvet presentation box on a wooden table, a folded silk ribbon beside it, soft warm indoor light, no people, no hands, the medal surface smooth and unengraved, no certificate, no paper, no document, no flags or national symbols, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En dröm i huvudstaden",
+            "text_sentences": [
+              "År 1963 är herr X med och leder en enorm marsch i USA.",
+              "Omkring tvåhundrafemtiotusen människor samlas i huvudstaden för att lyssna.",
+              "Han håller ett berömt tal om sin dröm om framtiden.",
+              "Han drömmer om att människor ska bedöma hans barn efter deras karaktär, inte deras hudfärg.",
+              "Talet blir ett av de mest citerade i landets historia.",
+              "Året efter förbjuder en ny lag segregation på offentliga platser över hela landet.",
+              "Samma år får herr X ett stort fredspris.",
+              "Vid trettiofem års ålder är han då den yngsta person som någonsin har fått priset.",
+              "Året därpå skyddar ännu en ny lag svarta medborgares rätt att rösta."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "John Lewis",
+              "W. E. B. Du Bois",
+              "Medgar Evers",
+              "Martin Luther King"
+            ],
+            "correct": "Martin Luther King",
+            "words": [
+              {
+                "word": "huvudstad",
+                "explanation": "ett lands viktigaste stad, där regeringen sammanträder"
+              },
+              {
+                "word": "segregation",
+                "explanation": "den orättvisa uppdelningen av människor på grund av hudfärg"
+              },
+              {
+                "word": "medborgare",
+                "explanation": "människor som juridiskt tillhör ett land"
+              },
+              {
+                "word": "karaktär",
+                "explanation": "en persons inre egenskaper, som ärlighet och vänlighet"
+              }
+            ],
+            "main_caption": "År 1963 samlas omkring en kvarts miljon människor för att lyssna.",
+            "side_caption": "Samma år hedrar en kommitté i Europa honom med ett stort fredspris."
           }
         },
         {
@@ -24016,6 +24350,49 @@
             "caption": "A few weeks later, in Memphis, his story comes to a sudden end.",
             "shutterstock_query": "1968 motel exterior balcony dusk empty parking lot illustration",
             "ai_prompt": "Atmospheric realistic illustration of the exterior of a plain two-story motel building from 1968, seen from across a parking lot at dusk, a single balcony railing on the upper floor lit by one outdoor lamp, no people anywhere, 1968 cars in soft focus in the lot, no modern vehicles, no blood, no figures, no motel sign, no room numbers, quiet somber mood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "För långsam för de unga",
+            "text_sentences": [
+              "Herr X möter skarp kritik från andra svarta ledare.",
+              "En ledare som heter Malcolm X säger att hans fredliga metod är för långsam.",
+              "Under hans sista år säger många yngre aktivister samma sak.",
+              "De vill se snabbare förändring och är beredda att använda våld om det behövs.",
+              "Herr X börjar tala öppet mot kriget i Vietnam.",
+              "Presidenten och många gamla allierade vänder sig mot honom på grund av denna ståndpunkt.",
+              "Han startar en ny kampanj mot fattigdom för fattiga amerikaner av alla hudfärger.",
+              "År 1968 reser han till Memphis för att stödja sophämtare som strejkar.",
+              "Där, på en motellbalkong, skjuter en skytt honom till döds.",
+              "Hans död chockar nationen, och upplopp bryter ut i många städer."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Martin Luther King",
+              "John Lewis",
+              "Thurgood Marshall",
+              "Jesse Jackson"
+            ],
+            "correct": "Martin Luther King",
+            "words": [
+              {
+                "word": "kritik",
+                "explanation": "kommentarer som säger vad som är fel med något"
+              },
+              {
+                "word": "kampanj",
+                "explanation": "en organiserad insats för att nå ett mål"
+              },
+              {
+                "word": "fattigdom",
+                "explanation": "tillståndet att vara mycket fattig"
+              },
+              {
+                "word": "sophämtare",
+                "explanation": "personer som har till uppgift att hämta sopor och hålla en stad ren"
+              }
+            ],
+            "main_caption": "År 1968 går sophämtare i Memphis i strejk för rättvis lön.",
+            "side_caption": "Några veckor senare, i Memphis, får hans historia ett plötsligt slut."
           }
         },
         {
@@ -24072,9 +24449,54 @@
             "caption": "His sermons, spoken from a pulpit like this, become a key historical source.",
             "shutterstock_query": "empty church pulpit open bible warm light vertical illustration",
             "ai_prompt": "Warm vertical realistic illustration of a plain wooden church pulpit from the mid-twentieth century, an open Bible resting on it at an angle so no words are readable, seen from the empty pews looking up, warm light from a side window, no people, pages completely blank or blurred, no readable text or verses, no crosses or symbols in sharp focus, no modern lamps or microphones, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Mannen bakom myten",
+            "text_sentences": [
+              "Historiker debatterar fortfarande hur mycket en enda ledare kan forma en massrörelse.",
+              "Herr X leder en rörelse för lika rättigheter i USA efter 1955.",
+              "Vissa hävdar att tusentals lokala organisatörer utför det dagliga, tysta arbetet.",
+              "Kvinnor som Ella Baker och Jo Ann Robinson planerar och organiserar i flera år.",
+              "Ändå bevarar det kollektiva minnet ofta bara en handfull kända namn.",
+              "I flera år övervakar regeringens agenter herr X i hemlighet.",
+              "De spelar in hans privata samtal och försöker skada hans rykte.",
+              "Historiker studerar hans predikningar, inspelningar och rättegångsprotokoll för att förstå honom.",
+              "I dag minns läroböcker honom ofta som en lugn drömmare om fredlig förändring.",
+              "Färre människor minns hans senare, skarpare kritik mot fattigdom och krig.",
+              "Historiker hävdar att båda bilderna är sanna, och att båda är ofullständiga."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Thurgood Marshall",
+              "John Lewis",
+              "Martin Luther King",
+              "W. E. B. Du Bois"
+            ],
+            "correct": "Martin Luther King",
+            "words": [
+              {
+                "word": "organisatörer",
+                "explanation": "människor som planerar och ordnar arbetet i en grupp"
+              },
+              {
+                "word": "rykte",
+                "explanation": "vad andra människor tycker och säger om en person"
+              },
+              {
+                "word": "predikan",
+                "explanation": "ett religiöst tal som hålls i en kyrka"
+              },
+              {
+                "word": "ofullständig",
+                "explanation": "inte hel, saknar delar"
+              }
+            ],
+            "main_caption": "I flera år spelar regeringens agenter i hemlighet in hans privata samtal.",
+            "side_caption": "Hans predikningar, hållna från en predikstol som denna, blir en viktig historisk källa."
           }
         }
-      ]
+      ],
+      "person_sv": "Martin Luther King"
     },
     {
       "slug": "nelson-mandela",
@@ -24133,6 +24555,49 @@
             "caption": "Even a park bench like this one is only for some people.",
             "shutterstock_query": "empty weathered park bench lawn 1950s public park south africa",
             "ai_prompt": "Vertical realistic illustration of a single weathered wooden park bench painted in one plain color on a mowed lawn in a 1950s South African public park, no people in the frame, no signpost, soft afternoon light across empty grass, 1950s park furnishings only, no modern benches, no bins, no vehicles, no plaques, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Pojken som rymmer till staden",
+            "text_sentences": [
+              "Herr X växer upp i en liten by i Sydafrika.",
+              "Som pojke vallar han boskap på gröna kullar.",
+              "På sin första skoldag ger en lärare honom ett nytt namn.",
+              "Senare ordnar hans familj ett äktenskap åt honom.",
+              "Herr X vill inte ha det här äktenskapet, så han rymmer.",
+              "Han reser långt till en stor stad och börjar studera juridik.",
+              "Nya lagar säger nu var människor får sitta, äta och resa.",
+              "Dessa lagar bygger bara på en persons hudfärg.",
+              "Herr X kommer fram till att dessa lagar är orättvisa.",
+              "Många år senare blir han sitt lands första svarta president."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Steve Biko",
+              "Nelson Mandela",
+              "Desmond Tutu",
+              "Oliver Tambo"
+            ],
+            "correct": "Nelson Mandela",
+            "words": [
+              {
+                "word": "valla",
+                "explanation": "att flytta en grupp djur tillsammans"
+              },
+              {
+                "word": "boskap",
+                "explanation": "kor och tjurar som bönder har"
+              },
+              {
+                "word": "ordna",
+                "explanation": "att planera något innan det händer"
+              },
+              {
+                "word": "äktenskap",
+                "explanation": "när två personer blir gifta med varandra"
+              }
+            ],
+            "main_caption": "I hemtraktens kullar lär sig en pojke att valla boskap.",
+            "side_caption": "Till och med en parkbänk som den här är bara till för vissa människor."
           }
         },
         {
@@ -24190,6 +24655,51 @@
             "caption": "Far from the courtroom, he spends years breaking stone in the sun.",
             "shutterstock_query": "1970s prisoners limestone quarry island breaking rock pickaxes from behind",
             "ai_prompt": "Vertical realistic illustration of a bright 1970s limestone quarry on a rocky island, several prisoners in plain period prison uniforms of khaki shorts and shirts bending over pale white stone breaking it with pickaxes and hammers under harsh glaring sun, a guard tower and the sea visible in the far distance, all figures seen from behind or at a distance, 1970s prison clothing only, hand tools only, no modern tools, no vehicles, no visible numbers or markings on uniforms, no recognizable faces, no blood, no injury, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Arton år på en ö",
+            "text_sentences": [
+              "Herr X arbetar som advokat i Johannesburg.",
+              "År 1964 ställs han inför rätta för handlingar mot en orättvis regering.",
+              "Under rättegången talar han om sitt ideal om ett fritt samhälle.",
+              "Han säger att han är beredd att dö för detta ideal.",
+              "Domaren dömer honom till livstids fängelse.",
+              "Vakter för honom till en ö nära Kapstaden, där han stannar i arton år.",
+              "I tretton år bryter han sten i ett hett kalkbrott.",
+              "Damm och solljus från kalkbrottet skadar hans ögon.",
+              "Han får bara skriva och ta emot ett fåtal censurerade brev.",
+              "Senare låter vakterna honom odla en liten trädgård på gården.",
+              "Sammanlagt tillbringar herr X tjugosju år bakom galler.",
+              "Utanför fängelset sjunger allt fler människor runt om i världen sånger om honom."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Walter Sisulu",
+              "Julius Nyerere",
+              "Nelson Mandela",
+              "F. W. de Klerk"
+            ],
+            "correct": "Nelson Mandela",
+            "words": [
+              {
+                "word": "rättegång",
+                "explanation": "när en domstol avgör om en person har gjort något fel"
+              },
+              {
+                "word": "kalkbrott",
+                "explanation": "en plats där arbetare bryter sten ur marken"
+              },
+              {
+                "word": "censurerad",
+                "explanation": "kontrollerad av en myndighet som stryker eller stoppar delar av innehållet"
+              },
+              {
+                "word": "ideal",
+                "explanation": "en idé om hur något borde vara, i sin bästa form"
+              }
+            ],
+            "main_caption": "I en tyst rättssal svarar herr X för den kamp han har valt.",
+            "side_caption": "Långt från rättssalen bryter han sten i solen i åratal."
           }
         },
         {
@@ -24246,6 +24756,50 @@
             "caption": "The new campaign aims at towers like this one, not at people, he says.",
             "shutterstock_query": "electricity pylon silhouette dusk rural south africa countryside",
             "ai_prompt": "Vertical atmospheric illustration of a tall steel electricity pylon standing alone in open countryside at dusk in early 1960s South Africa, its dark silhouette against an orange and purple sky, no people or buildings nearby, period-correct 1960s pylon design only, no modern wind turbines, no solar panels, no warning signs or plates, calm ominous mood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Från protest till sabotage",
+            "text_sentences": [
+              "I flera år protesterar herr X och hans rörelse i Sydafrika utan vapen.",
+              "År 1960 öppnar polisen eld mot en obeväpnad folkmassa och dödar sextionio människor.",
+              "Efter denna massaker ändrar herr X sin syn på enbart fredlig protest.",
+              "Han anser att fredliga metoder nu bara möts av våld.",
+              "Tillsammans med andra startar han en liten väpnad grupp för sabotage.",
+              "Senare förklarar han att gruppen angriper kraftledningar och tomma byggnader, inte människor.",
+              "Polisen arresterar honom, och vid rättegången försvarar han själv detta val.",
+              "Han kallar det ett svårt beslut, fattat först när andra vägar stängs.",
+              "Medan han sitter i fängelse leder hans kollega Oliver Tambo rörelsen från utlandet.",
+              "På 1980-talet tar också delar av rörelsen till våld mot människor.",
+              "Till slut väljer herr X samtal framför fortsatta strider."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Desmond Tutu",
+              "Walter Sisulu",
+              "Kwame Nkrumah",
+              "Nelson Mandela"
+            ],
+            "correct": "Nelson Mandela",
+            "words": [
+              {
+                "word": "massaker",
+                "explanation": "dödandet av många människor som inte kan försvara sig"
+              },
+              {
+                "word": "obeväpnad",
+                "explanation": "utan vapen"
+              },
+              {
+                "word": "sabotage",
+                "explanation": "att skada maskiner eller byggnader med avsikt, för att stoppa en fiende"
+              },
+              {
+                "word": "kollega",
+                "explanation": "en person som arbetar tillsammans med någon för samma sak"
+              }
+            ],
+            "main_caption": "En tyst folkmassa samlas, och stämningen blir spänd och orolig.",
+            "side_caption": "Den nya kampanjen riktar sig mot torn som detta, inte mot människor, säger han."
           }
         },
         {
@@ -24302,6 +24856,50 @@
             "caption": "A gate opens, and two figures walk out together into a waiting crowd.",
             "shutterstock_query": "1990 prison gate open two figures walking away hand in hand from behind",
             "ai_prompt": "Vertical realistic illustration of a heavy iron prison gate standing open in 1990 South Africa, two adult figures walking away from it hand in hand toward a blurred crowd in the far distance, both seen from behind dressed in plain 1990 clothing, no recognizable faces, no patterned shirts as an identifying detail, no flags, no cameras, no modern vehicles, no signs on the gate, calm hopeful mood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Från en låst port till valurnan",
+            "text_sentences": [
+              "År 1990 öppnar vakter i Sydafrika äntligen fängelseporten för herr X.",
+              "Han går ut hand i hand med sin fru.",
+              "Herr X för sedan långa samtal med den vite presidenten F. W. de Klerk.",
+              "Under dessa år dödar politiskt våld i landet tusentals människor.",
+              "Till slut kommer alla sidor överens om att alla vuxna nu får rösta.",
+              "Fyra år efter frigivningen röstar människor av alla hudfärger i ett första fritt val.",
+              "Många väntar tålmodigt i timmar i långa köer för att rösta.",
+              "Vid sjuttiofem års ålder blir herr X landets nye president.",
+              "Senare låter en kommission både offer och de som har skadat dem komma till tals.",
+              "Desmond Tutu leder denna sannings- och försoningskommission.",
+              "Efter bara en mandatperiod som president lämnar herr X makten."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Nelson Mandela",
+              "Walter Sisulu",
+              "Oliver Tambo",
+              "Julius Nyerere"
+            ],
+            "correct": "Nelson Mandela",
+            "words": [
+              {
+                "word": "kommission",
+                "explanation": "en grupp människor som får ett officiellt uppdrag"
+              },
+              {
+                "word": "försoning",
+                "explanation": "att bli vänner igen efter en konflikt"
+              },
+              {
+                "word": "offer",
+                "explanation": "människor som blir skadade eller drabbade av andra"
+              },
+              {
+                "word": "mandatperiod",
+                "explanation": "en bestämd tidsperiod i ett officiellt uppdrag"
+              }
+            ],
+            "main_caption": "För första gången köar människor av alla hudfärger för att rösta.",
+            "side_caption": "En port öppnas, och två personer går tillsammans ut mot en väntande folkmassa."
           }
         },
         {
@@ -24359,9 +24957,55 @@
             "caption": "An empty chair of power waits for a man once called a terrorist.",
             "shutterstock_query": "empty formal chair wooden stage spotlight government hall plain",
             "ai_prompt": "Vertical realistic illustration of an empty formal high-backed chair standing alone on a small wooden stage under a soft spotlight in a 1990s government hall, no flags, no emblems, no people present, the surrounding room fading into soft shadow, 1990s furnishings only, completely plain chair and stage, no carvings resembling symbols, no plaques, no signs, no microphones, calm still mood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Hjälte, kompromissare eller både och?",
+            "text_sentences": [
+              "Historiker debatterar fortfarande hur herr X, en ledare i Sydafrika, ska bedömas.",
+              "Vissa kallar honom en hjälte som på fredlig väg gör slut på ett brutalt system.",
+              "Andra säger att han kompromissar för mycket, och att ojämlikheten består efter 1994.",
+              "Klyftan mellan rika och fattiga i hans land förblir stor i årtionden.",
+              "Historiker frågar sig också hur mycket av äran som tillhör en enda man.",
+              "En hel rörelse med tusentals människor arbetar och lider för samma sak.",
+              "Med hjälp av andra skriver herr X en lång självbiografi, en rik men personlig källa.",
+              "Historiker noterar vad boken utelämnar, liksom vad den berättar.",
+              "Fängelsevakter och tjänstemän för också noggranna skriftliga anteckningar om hans fängelseår.",
+              "Dessa arkiv gör det möjligt för forskare att kontrollera och ibland korrigera hans egen berättelse.",
+              "En gång fängslar hans land honom som terrorist.",
+              "Senare kallar samma land honom landsfader."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Steve Biko",
+              "Nelson Mandela",
+              "Kwame Nkrumah",
+              "Julius Nyerere"
+            ],
+            "correct": "Nelson Mandela",
+            "words": [
+              {
+                "word": "kompromissa",
+                "explanation": "att ge upp en del av det man vill ha, för att nå en överenskommelse"
+              },
+              {
+                "word": "ojämlikhet",
+                "explanation": "när rikedom eller möjligheter inte delas rättvist"
+              },
+              {
+                "word": "självbiografi",
+                "explanation": "en bok en person skriver om sitt eget liv"
+              },
+              {
+                "word": "arkiv",
+                "explanation": "samlingar av gamla dokument som sparas för framtiden"
+              }
+            ],
+            "main_caption": "Historiker kan fortfarande besöka den lilla cell där han tillbringar många år.",
+            "side_caption": "Maktens tomma stol väntar på en man som en gång kallades terrorist."
           }
         }
-      ]
+      ],
+      "person_sv": "Nelson Mandela"
     }
   ]
 }

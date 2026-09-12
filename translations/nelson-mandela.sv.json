@@ -9,50 +9,50 @@
         "Som pojke vallar han boskap på gröna kullar.",
         "På sin första skoldag ger en lärare honom ett nytt namn.",
         "Senare ordnar hans familj ett äktenskap åt honom.",
-        "Herr X vill inte ha det äktenskapet, så han rymmer.",
+        "Herr X vill inte ha det här äktenskapet, så han rymmer.",
         "Han reser långt till en stor stad och börjar studera juridik.",
         "Nya lagar säger nu var människor får sitta, äta och resa.",
-        "Dessa lagar beror bara på en persons hudfärg.",
-        "Herr X bestämmer sig för att dessa lagar är orättvisa.",
+        "Dessa lagar bygger bara på en persons hudfärg.",
+        "Herr X kommer fram till att dessa lagar är orättvisa.",
         "Många år senare blir han sitt lands första svarta president."
       ],
       "question": "Vem är herr X?",
       "options": ["Steve Biko", "Nelson Mandela", "Desmond Tutu", "Oliver Tambo"],
       "words": [
-        {"word": "valla", "explanation": "att flytta en grupp djur tillsammans, till exempel för att beta"},
-        {"word": "boskap", "explanation": "kor och andra djur som bönder har"},
+        {"word": "valla", "explanation": "att flytta en grupp djur tillsammans"},
+        {"word": "boskap", "explanation": "kor och tjurar som bönder har"},
         {"word": "ordna", "explanation": "att planera något innan det händer"},
         {"word": "äktenskap", "explanation": "när två personer blir gifta med varandra"}
       ],
       "main_caption": "I hemtraktens kullar lär sig en pojke att valla boskap.",
-      "side_caption": "Till och med en parkbänk som denna är bara till för vissa människor."
+      "side_caption": "Till och med en parkbänk som den här är bara till för vissa människor."
     },
     {
       "title": "Arton år på en ö",
       "text_sentences": [
-        "Herr X arbetar som jurist i Johannesburg.",
-        "År 1964 genomgår han en rättegång för handlingar mot en orättvis regering.",
-        "I rätten talar han om sitt ideal om ett fritt samhälle.",
+        "Herr X arbetar som advokat i Johannesburg.",
+        "År 1964 ställs han inför rätta för handlingar mot en orättvis regering.",
+        "Under rättegången talar han om sitt ideal om ett fritt samhälle.",
         "Han säger att han är beredd att dö för detta ideal.",
         "Domaren dömer honom till livstids fängelse.",
-        "Vakter för honom till en ö nära Kapstaden i arton år.",
+        "Vakter för honom till en ö nära Kapstaden, där han stannar i arton år.",
         "I tretton år bryter han sten i ett hett kalkbrott.",
-        "Damm och solljus från brottet skadar hans ögon.",
+        "Damm och solljus från kalkbrottet skadar hans ögon.",
         "Han får bara skriva och ta emot ett fåtal censurerade brev.",
         "Senare låter vakterna honom odla en liten trädgård på gården.",
         "Sammanlagt tillbringar herr X tjugosju år bakom galler.",
-        "Utanför sjunger allt fler människor runt om i världen sånger om honom."
+        "Utanför fängelset sjunger allt fler människor runt om i världen sånger om honom."
       ],
       "question": "Vem är herr X?",
       "options": ["Walter Sisulu", "Julius Nyerere", "Nelson Mandela", "F. W. de Klerk"],
       "words": [
         {"word": "rättegång", "explanation": "när en domstol avgör om en person har gjort något fel"},
         {"word": "kalkbrott", "explanation": "en plats där arbetare bryter sten ur marken"},
-        {"word": "censurerad", "explanation": "kontrollerad och delvis blockerad av en myndighet innan den tillåts"},
+        {"word": "censurerad", "explanation": "kontrollerad av en myndighet som stryker eller stoppar delar av innehållet"},
         {"word": "ideal", "explanation": "en idé om hur något borde vara, i sin bästa form"}
       ],
       "main_caption": "I en tyst rättssal svarar herr X för den kamp han har valt.",
-      "side_caption": "Långt från rättssalen tillbringar han år med att bryta sten i solen."
+      "side_caption": "Långt från rättssalen bryter han sten i solen i åratal."
     },
     {
       "title": "Från protest till sabotage",
@@ -60,14 +60,14 @@
         "I flera år protesterar herr X och hans rörelse i Sydafrika utan vapen.",
         "År 1960 öppnar polisen eld mot en obeväpnad folkmassa och dödar sextionio människor.",
         "Efter denna massaker ändrar herr X sin syn på enbart fredlig protest.",
-        "Han tror att fredliga metoder nu bara möts av våld.",
+        "Han anser att fredliga metoder nu bara möts av våld.",
         "Tillsammans med andra startar han en liten väpnad grupp för sabotage.",
         "Senare förklarar han att gruppen angriper kraftledningar och tomma byggnader, inte människor.",
-        "Polisen griper honom, och vid sin rättegång försvarar han själv detta val.",
-        "Han kallar det ett svårt beslut, taget bara när andra vägar stängs.",
+        "Polisen arresterar honom, och vid rättegången försvarar han själv detta val.",
+        "Han kallar det ett svårt beslut, fattat först när andra vägar stängs.",
         "Medan han sitter i fängelse leder hans kollega Oliver Tambo rörelsen från utlandet.",
-        "På 1980-talet vänder sig också delar av rörelsen till våld mot människor.",
-        "Till slut väljer herr X samtal framför mer strid."
+        "På 1980-talet tar också delar av rörelsen till våld mot människor.",
+        "Till slut väljer herr X samtal framför fortsatta strider."
       ],
       "question": "Vem är herr X?",
       "options": ["Desmond Tutu", "Walter Sisulu", "Kwame Nkrumah", "Nelson Mandela"],
@@ -75,25 +75,25 @@
         {"word": "massaker", "explanation": "dödandet av många människor som inte kan försvara sig"},
         {"word": "obeväpnad", "explanation": "utan vapen"},
         {"word": "sabotage", "explanation": "att skada maskiner eller byggnader med avsikt, för att stoppa en fiende"},
-        {"word": "kollega", "explanation": "en person som arbetar med dig för samma sak"}
+        {"word": "kollega", "explanation": "en person som arbetar tillsammans med någon för samma sak"}
       ],
-      "main_caption": "En tyst folkmassa samlas, och stämningen blir spänd och rädd.",
+      "main_caption": "En tyst folkmassa samlas, och stämningen blir spänd och orolig.",
       "side_caption": "Den nya kampanjen riktar sig mot torn som detta, inte mot människor, säger han."
     },
     {
-      "title": "Från en låst grind till valurnan",
+      "title": "Från en låst port till valurnan",
       "text_sentences": [
-        "År 1990 öppnar vakter i Sydafrika äntligen fängelsegrinden för herr X.",
+        "År 1990 öppnar vakter i Sydafrika äntligen fängelseporten för herr X.",
         "Han går ut hand i hand med sin fru.",
         "Herr X för sedan långa samtal med den vite presidenten F. W. de Klerk.",
         "Under dessa år dödar politiskt våld i landet tusentals människor.",
-        "Till slut kommer alla sidor överens om att varje vuxen nu får rösta.",
+        "Till slut kommer alla sidor överens om att alla vuxna nu får rösta.",
         "Fyra år efter frigivningen röstar människor av alla hudfärger i ett första fritt val.",
-        "Många väntar i timmar i långa, tåliga köer för att rösta.",
+        "Många väntar tålmodigt i timmar i långa köer för att rösta.",
         "Vid sjuttiofem års ålder blir herr X landets nye president.",
-        "Senare låter en kommission både offer och de som skadade dem komma till tals.",
+        "Senare låter en kommission både offer och de som har skadat dem komma till tals.",
         "Desmond Tutu leder denna sannings- och försoningskommission.",
-        "Efter bara en mandatperiod som president avgår herr X från makten."
+        "Efter bara en mandatperiod som president lämnar herr X makten."
       ],
       "question": "Vem är herr X?",
       "options": ["Nelson Mandela", "Walter Sisulu", "Oliver Tambo", "Julius Nyerere"],
@@ -104,23 +104,23 @@
         {"word": "mandatperiod", "explanation": "en bestämd tidsperiod i ett officiellt uppdrag"}
       ],
       "main_caption": "För första gången köar människor av alla hudfärger för att rösta.",
-      "side_caption": "En grind öppnas, och två personer går tillsammans ut mot en väntande folkmassa."
+      "side_caption": "En port öppnas, och två personer går tillsammans ut mot en väntande folkmassa."
     },
     {
-      "title": "Hjälte, kompromiss eller båda?",
+      "title": "Hjälte, kompromissare eller både och?",
       "text_sentences": [
         "Historiker debatterar fortfarande hur herr X, en ledare i Sydafrika, ska bedömas.",
-        "Vissa kallar honom en hjälte som fredligt gör slut på ett brutalt system.",
+        "Vissa kallar honom en hjälte som på fredlig väg gör slut på ett brutalt system.",
         "Andra säger att han kompromissar för mycket, och att ojämlikheten består efter 1994.",
         "Klyftan mellan rika och fattiga i hans land förblir stor i årtionden.",
-        "Historiker frågar sig också hur mycket äran tillhör en enda man.",
+        "Historiker frågar sig också hur mycket av äran som tillhör en enda man.",
         "En hel rörelse med tusentals människor arbetar och lider för samma sak.",
-        "Herr X skriver med hjälp en lång självbiografi, en rik men personlig källa.",
+        "Med hjälp av andra skriver herr X en lång självbiografi, en rik men personlig källa.",
         "Historiker noterar vad boken utelämnar, liksom vad den berättar.",
         "Fängelsevakter och tjänstemän för också noggranna skriftliga anteckningar om hans fängelseår.",
-        "Dessa arkiv låter forskare kontrollera och ibland korrigera hans egen berättelse.",
-        "Hans land fängslar honom en gång som terrorist.",
-        "Senare kallar det honom landets fader."
+        "Dessa arkiv gör det möjligt för forskare att kontrollera och ibland korrigera hans egen berättelse.",
+        "En gång fängslar hans land honom som terrorist.",
+        "Senare kallar samma land honom landsfader."
       ],
       "question": "Vem är herr X?",
       "options": ["Steve Biko", "Nelson Mandela", "Kwame Nkrumah", "Julius Nyerere"],
@@ -131,7 +131,7 @@
         {"word": "arkiv", "explanation": "samlingar av gamla dokument som sparas för framtiden"}
       ],
       "main_caption": "Historiker kan fortfarande besöka den lilla cell där han tillbringar många år.",
-      "side_caption": "En tom maktstol väntar på en man som en gång kallades terrorist."
+      "side_caption": "Maktens tomma stol väntar på en man som en gång kallades terrorist."
     }
   ]
 }

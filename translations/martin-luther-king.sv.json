@@ -6,14 +6,14 @@
       "title": "Ett år utan bussen",
       "text_sentences": [
         "Herr X bor i en stad i södra USA.",
-        "1955 måste svarta passagerare sitta längst bak i bussarna.",
-        "En dag vägrar en kvinna vid namn Rosa Parks att lämna sin plats.",
+        "År 1955 måste svarta passagerare sitta längst bak i bussarna.",
+        "En dag vägrar en kvinna som heter Rosa Parks att lämna sin plats.",
         "Polisen arresterar henne, och svarta ledare planerar en protest.",
-        "De väljer herr X, en ung pastor på tjugosex år, att leda den.",
+        "De väljer herr X, en ung pastor på tjugosex år, till att leda protesten.",
         "I mer än ett år vägrar svarta invånare att åka buss.",
         "I stället går de långa sträckor eller samåker i bilar.",
         "Bussbolaget förlorar pengar varenda dag.",
-        "Till slut slår en domstol fast att sittregeln strider mot lagen."
+        "Till slut slår en domstol fast att regeln om var man får sitta strider mot lagen."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -47,14 +47,14 @@
       "title": "Hundar, brandslangar och ett brev från fängelset",
       "text_sentences": [
         "Herr X studerar idéerna hos en ledare i Indien som kämpar utan vapen.",
-        "Han tror att protester aldrig bör övergå i våld, även när polisen attackerar.",
-        "I södra USA sitter aktivister vid lunchdiskar som vägrar servera dem.",
+        "Han anser att protester aldrig bör övergå i våld, inte ens när polisen angriper.",
+        "I södra USA sätter sig aktivister vid lunchdiskar där man vägrar att servera dem.",
         "Polisen arresterar herr X gång på gång för dessa fredliga protester.",
         "År 1963 sätter polisen honom i fängelse i en stad som heter Birmingham.",
         "I fängelset skriver herr X ett långt brev.",
         "I brevet förklarar han varför människor inte får vänta tålmodigt på frihet.",
         "Några veckor senare deltar barn i en stor marsch i samma stad.",
-        "Polisen sätter hundar och kraftfulla brandslangar mot de unga marschdeltagarna.",
+        "Polisen använder hundar och kraftiga brandslangar mot de unga marschdeltagarna.",
         "Kameror filmar attacken, och människor över hela världen ser den på tv."
       ],
       "question": "Vem är herr X?",
@@ -82,20 +82,20 @@
           "explanation": "en plats där polisen håller kvar personer som är arresterade"
         }
       ],
-      "main_caption": "År 1963 använder polisen hundar och kraftfulla brandslangar mot marschdeltagarna.",
+      "main_caption": "År 1963 använder polisen hundar och kraftiga brandslangar mot marschdeltagarna.",
       "side_caption": "I en liten fängelsecell skriver han sitt svar på papperslappar."
     },
     {
       "title": "En dröm i huvudstaden",
       "text_sentences": [
-        "År 1963 hjälper herr X till att leda en enorm marsch i USA.",
+        "År 1963 är herr X med och leder en enorm marsch i USA.",
         "Omkring tvåhundrafemtiotusen människor samlas i huvudstaden för att lyssna.",
-        "Han håller ett berömt tal om sin dröm för framtiden.",
+        "Han håller ett berömt tal om sin dröm om framtiden.",
         "Han drömmer om att människor ska bedöma hans barn efter deras karaktär, inte deras hudfärg.",
         "Talet blir ett av de mest citerade i landets historia.",
         "Året efter förbjuder en ny lag segregation på offentliga platser över hela landet.",
-        "Samma år får herr X ett stort pris för fred.",
-        "Vid trettiofem år är han då den yngsta personen som någonsin har vunnit det.",
+        "Samma år får herr X ett stort fredspris.",
+        "Vid trettiofem års ålder är han då den yngsta person som någonsin har fått priset.",
         "Året därpå skyddar ännu en ny lag svarta medborgares rätt att rösta."
       ],
       "question": "Vem är herr X?",
@@ -108,7 +108,7 @@
       "words": [
         {
           "word": "huvudstad",
-          "explanation": "en lands viktigaste stad, där regeringen sammanträder"
+          "explanation": "ett lands viktigaste stad, där regeringen sammanträder"
         },
         {
           "word": "segregation",
@@ -124,20 +124,20 @@
         }
       ],
       "main_caption": "År 1963 samlas omkring en kvarts miljon människor för att lyssna.",
-      "side_caption": "Samma år hedrar en kommitté i Europa honom med ett stort pris för fred."
+      "side_caption": "Samma år hedrar en kommitté i Europa honom med ett stort fredspris."
     },
     {
       "title": "För långsam för de unga",
       "text_sentences": [
         "Herr X möter skarp kritik från andra svarta ledare.",
-        "En ledare som heter Malcolm X kallar hans fredliga metod för långsam.",
+        "En ledare som heter Malcolm X säger att hans fredliga metod är för långsam.",
         "Under hans sista år säger många yngre aktivister samma sak.",
         "De vill se snabbare förändring och är beredda att använda våld om det behövs.",
         "Herr X börjar tala öppet mot kriget i Vietnam.",
         "Presidenten och många gamla allierade vänder sig mot honom på grund av denna ståndpunkt.",
         "Han startar en ny kampanj mot fattigdom för fattiga amerikaner av alla hudfärger.",
         "År 1968 reser han till Memphis för att stödja sophämtare som strejkar.",
-        "Där, på en motellbalkong, skjuter en beväpnad man honom till döds.",
+        "Där, på en motellbalkong, skjuter en skytt honom till döds.",
         "Hans död chockar nationen, och upplopp bryter ut i många städer."
       ],
       "question": "Vem är herr X?",
@@ -166,7 +166,7 @@
         }
       ],
       "main_caption": "År 1968 går sophämtare i Memphis i strejk för rättvis lön.",
-      "side_caption": "Några veckor senare, i Memphis, når hans historia ett plötsligt slut."
+      "side_caption": "Några veckor senare, i Memphis, får hans historia ett plötsligt slut."
     },
     {
       "title": "Mannen bakom myten",
@@ -180,8 +180,8 @@
         "De spelar in hans privata samtal och försöker skada hans rykte.",
         "Historiker studerar hans predikningar, inspelningar och rättegångsprotokoll för att förstå honom.",
         "I dag minns läroböcker honom ofta som en lugn drömmare om fredlig förändring.",
-        "Färre människor minns hans senare, skarpare kritik av fattigdom och krig.",
-        "Historiker hävdar att båda bilderna är sanna, och båda är ofullständiga."
+        "Färre människor minns hans senare, skarpare kritik mot fattigdom och krig.",
+        "Historiker hävdar att båda bilderna är sanna, och att båda är ofullständiga."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -201,7 +201,7 @@
         },
         {
           "word": "predikan",
-          "explanation": "religiösa tal som hålls i en kyrka"
+          "explanation": "ett religiöst tal som hålls i en kyrka"
         },
         {
           "word": "ofullständig",
