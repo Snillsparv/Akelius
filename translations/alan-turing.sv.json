@@ -14,7 +14,7 @@
         "En sådan maskin skulle kunna lösa nästan vilket pussel som helst.",
         "Sedan bryter ett stort krig ut i Europa.",
         "Herr X flyttar till en hemlig plats med barracker av trä.",
-        "Många kloka män och kvinnor arbetar hemligt där.",
+        "Många kloka män och kvinnor arbetar där i hemlighet.",
         "De försöker knäcka fiendens mycket svåra kod.",
         "Herr X och hans vänner hittar ett sätt att läsa fiendens hemliga meddelanden."
       ],
@@ -44,7 +44,7 @@
         }
       ],
       "main_caption": "Herr X springer ofta långa sträckor ensam, även i kallt väder.",
-      "side_caption": "Senare arbetar herr X hemligt i enkla barracker som dessa."
+      "side_caption": "Senare arbetar herr X i hemlighet i enkla barracker som dessa."
     },
     {
       "title": "Bletchley Park, Enigma och en maskin som kallas bomben",
@@ -129,7 +129,7 @@
           "explanation": "en lista med steg som talar om för en dator vad den ska göra"
         }
       ],
-      "main_caption": "På papper föreställer sig herr X en enkel maskin som kan beräkna vad som helst.",
+      "main_caption": "På papper föreställer sig herr X en enkel maskin som skulle kunna beräkna vad som helst.",
       "side_caption": "En domare ställer frågor och försöker gissa vem som svarar, en människa eller en maskin."
     },
     {
@@ -168,7 +168,7 @@
         },
         {
           "word": "maraton",
-          "explanation": "en löptävling på ungefär fyra mil"
+          "explanation": "en löptävling på ungefär 42 kilometer"
         }
       ],
       "main_caption": "Herr X skriver ett schackprogram på papper och spelar dragen för hand.",

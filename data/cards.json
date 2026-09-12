@@ -25066,6 +25066,51 @@
             "caption": "In 1885, Mr X helps a boy who is bitten by a dog like this one.",
             "shutterstock_query": "calm brown dog rope leash rustic french stone farmhouse afternoon light",
             "ai_prompt": "Photorealistic vertical image of a calm, healthy-looking medium-sized brown dog resting on a plain rope leash outside a rustic nineteenth-century French stone farmhouse, seen at a respectful distance, warm late afternoon light, a dirt path and simple wooden fence nearby, no people, peaceful mood, no signs of illness or distress, no modern leash or collar hardware, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Surt vin, försiktig värme och en pojke som blir biten av en hund",
+            "text_sentences": [
+              "Herr X är en vetenskapsman som bor i Frankrike för ungefär 150 år sedan.",
+              "Han studerar pyttesmå levande varelser som människor inte kan se.",
+              "De pyttesmå varelserna kan göra att mjölk och vin blir sura.",
+              "De kan också göra att skärsår och andra sår blir dåliga.",
+              "Herr X hittar ett sätt att värma vin och öl mycket försiktigt.",
+              "Den försiktiga värmen dödar de pyttesmå varelserna inuti.",
+              "Efter det håller sig vinet och ölet bra mycket längre.",
+              "Senare använder andra människor hans idé på mjölk.",
+              "År 1885 biter en hund med rabies en pojke som heter Joseph Meister.",
+              "Två läkare säger att pojken kommer att dö utan hjälp.",
+              "Herr X tar fram en ny behandling i sitt laboratorium.",
+              "En läkare ger pojken behandlingen medan herr X ser på, och pojken överlever."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Edward Jenner",
+              "Louis Pasteur",
+              "Alexander Fleming",
+              "Ignaz Semmelweis"
+            ],
+            "correct": "Louis Pasteur",
+            "words": [
+              {
+                "word": "sur",
+                "explanation": "smakar skarpt och illa, som gammal mjölk"
+              },
+              {
+                "word": "sår",
+                "explanation": "en skada på kroppen, till exempel efter ett slag eller ett snitt"
+              },
+              {
+                "word": "rabies",
+                "explanation": "en farlig sjukdom som ett sjukt djur kan smitta med ett bett"
+              },
+              {
+                "word": "laboratorium",
+                "explanation": "ett rum där en vetenskapsman gör tester och experiment"
+              }
+            ],
+            "main_caption": "Herr X visar att försiktig värme dödar de pyttesmå varelserna i vinet.",
+            "side_caption": "År 1885 hjälper herr X en pojke som blir biten av en hund som den här."
           }
         },
         {
@@ -25123,6 +25168,51 @@
             "caption": "In 1881, Mr X tests his vaccine on sheep like these, in front of a watching crowd.",
             "shutterstock_query": "sheep grazing green pasture french farm nineteenth century wooden fence",
             "ai_prompt": "Photorealistic vertical image of a small flock of healthy sheep grazing peacefully in a green French pasture around 1880, a low wooden fence and a distant stone farmhouse in the background, soft natural daylight, calm rural mood, no people, no ear tags, no readable signs, no modern fencing or equipment, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En böjd glashals, sjuka silkesmaskar och ett fält med får",
+            "text_sentences": [
+              "Herr X arbetar i ett laboratorium i Frankrike för ungefär 160 år sedan.",
+              "Många människor tror att liv kan uppstå ur ingenting i gammal soppa.",
+              "Herr X kokar buljong i en glaskolv med en lång, böjd hals.",
+              "Luft kan komma in i kolven, men damm och smittämnen kan inte ta sig förbi böjen.",
+              "Buljongen förblir klar i flera månader, så inget liv uppstår av sig själv.",
+              "Experimentet visar att smittämnen alltid kommer från andra smittämnen.",
+              "Senare hjälper herr X till att rädda den franska sidenindustrin från en silkesmasksjukdom.",
+              "Han visar vilka pyttesmå varelser som gör silkesmaskarna sjuka.",
+              "Bönderna lär sig att bara behålla friska silkesmaskägg.",
+              "Sedan gör han ett vaccin av försvagade smittämnen.",
+              "År 1881 testar han det på får inför en stor folkmassa.",
+              "De behandlade fåren förblir friska, och idén sprider sig över hela världen."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Robert Koch",
+              "Joseph Lister",
+              "Louis Pasteur",
+              "Charles Darwin"
+            ],
+            "correct": "Louis Pasteur",
+            "words": [
+              {
+                "word": "buljong",
+                "explanation": "en tunn, vattnig vätska som man får genom att koka något, som en enkel soppa"
+              },
+              {
+                "word": "silkesmask",
+                "explanation": "en liten larv som gör silkestråd"
+              },
+              {
+                "word": "vaccin",
+                "explanation": "en försvagad form av ett smittämne som ges för att skydda kroppen mot den starka formen"
+              },
+              {
+                "word": "försvagad",
+                "explanation": "gjord mindre stark än förut"
+              }
+            ],
+            "main_caption": "Inuti den här böjda glashalsen bevisar herr X var pyttesmå levande varelser egentligen kommer ifrån.",
+            "side_caption": "År 1881 testar herr X sitt vaccin på får som de här, inför en folkmassa som ser på."
           }
         },
         {
@@ -25179,6 +25269,50 @@
             "caption": "A story says a forgotten sample of hen disease germs leads Mr X to a new idea.",
             "shutterstock_query": "brown white hens wooden farmyard coop straw daylight",
             "ai_prompt": "Photorealistic vertical image of a small group of healthy brown and white hens walking calmly inside a simple nineteenth-century wooden farmyard coop, soft daylight coming through an open side, straw scattered on the ground, no people, calm rural mood, no readable signs, no modern wire fencing, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En idé som läkarna inte vill tro på",
+            "text_sentences": [
+              "I Frankrike, för ungefär 150 år sedan, är det många läkare som inte tror att smittämnen orsakar sjukdom.",
+              "Några läkare tror fortfarande att det bara är dålig lukt och dålig luft som gör människor sjuka.",
+              "Herr X håller absolut inte med, och han kallar den gamla idén felaktig och farlig.",
+              "Han hävdar att smittämnen som är för små för att se orsakar infektioner i sår och blod.",
+              "Många respekterade läkare hånar idén, och herr X möter år av kritik.",
+              "En känd berättelse säger att en assistent lämnar laboratoriet för att åka på semester 1879.",
+              "Han glömmer att injicera hönsen med en färsk odling av smittämnen för hönskolera.",
+              "När han kommer tillbaka använder han i stället det gamla, svaga provet.",
+              "Hönsen blir lite sjuka men tillfrisknar, och de överlever också en senare infektion.",
+              "Herr X förstår att ett försvagat smittämne kan träna kroppen att bekämpa sjukdom.",
+              "Den här upptäckten förändrar sakta hur läkare runt om i världen tänker om sjukdom."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Joseph Lister",
+              "Robert Koch",
+              "Ignaz Semmelweis",
+              "Louis Pasteur"
+            ],
+            "correct": "Louis Pasteur",
+            "words": [
+              {
+                "word": "infektion",
+                "explanation": "sjukdom som orsakas av att smittämnen kommer in i kroppen"
+              },
+              {
+                "word": "kritik",
+                "explanation": "när människor säger att något är fel eller dåligt"
+              },
+              {
+                "word": "odling",
+                "explanation": "en grupp pyttesmå levande varelser som odlas tillsammans i ett laboratorium"
+              },
+              {
+                "word": "tillfriskna",
+                "explanation": "att bli frisk igen efter att ha varit sjuk"
+              }
+            ],
+            "main_caption": "Herr X letar efter pyttesmå levande varelser som många läkare inte tror på.",
+            "side_caption": "En berättelse säger att ett bortglömt prov med smittämnen för hönssjukdom leder herr X till en ny idé."
           }
         },
         {
@@ -25236,6 +25370,51 @@
             "caption": "Patients travel from far away to the new research center in Paris.",
             "shutterstock_query": "antique leather travelling trunk carpet bag hallway stone floor nineteenth century",
             "ai_prompt": "Photorealistic vertical image of a worn brown leather 1880s travelling trunk with brass corners and a soft patterned carpet bag standing together on the stone floor of a plain Paris hallway, a wooden bench behind them, soft daylight from a tall window, quiet expectant mood, no people, no labels, tags or stickers on the luggage, no modern suitcases or wheels, no electric light, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett nytt forskningscenter i Paris och ett liv präglat av förlust",
+            "text_sentences": [
+              "Herr X är en fransk kemist, inte en legitimerad läkare.",
+              "Han studerar de pyttesmå varelserna som orsakar sjukdom.",
+              "År 1885 räddar hans behandling en pojke som blivit biten av en hund med rabies.",
+              "Tidningar runt om i världen rapporterar den extraordinära nyheten.",
+              "Människor från många länder skickar pengar för att tacka honom.",
+              "Med de här pengarna öppnar ett nytt forskningscenter i Paris 1888.",
+              "Forskarna där studerar sjukdomar och behandlar rabiespatienter som reser långväga ifrån.",
+              "Herr X vet redan vad djup personlig sorg är.",
+              "Tre av hans döttrar dör som barn, två av dem av tyfus.",
+              "Flera år tidigare gör ett slaganfall ena sidan av hans kropp svag.",
+              "Ändå fortsätter han att leda sin forskning med hjälp av trogna assistenter.",
+              "Efter hans död för de här assistenterna vidare hans arbete på centret."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Edward Jenner",
+              "Robert Koch",
+              "Louis Pasteur",
+              "Alexander Fleming"
+            ],
+            "correct": "Louis Pasteur",
+            "words": [
+              {
+                "word": "legitimerad",
+                "explanation": "officiellt godkänd att göra ett jobb, som att vara läkare"
+              },
+              {
+                "word": "extraordinär",
+                "explanation": "väldigt ovanlig eller fantastisk"
+              },
+              {
+                "word": "tyfus",
+                "explanation": "en allvarlig sjukdom som sprids genom smutsigt vatten och smutsig mat"
+              },
+              {
+                "word": "slaganfall",
+                "explanation": "en plötslig sjukdom i hjärnan som kan göra en del av kroppen svag"
+              }
+            ],
+            "main_caption": "Efter ett slaganfall leder herr X ändå sina trogna assistenter vid laboratoriebänken.",
+            "side_caption": "Patienter reser långväga ifrån till det nya forskningscentret i Paris."
           }
         },
         {
@@ -25293,9 +25472,55 @@
             "caption": "As germ theory wins, hospitals begin to clean their instruments with care.",
             "shutterstock_query": "antique surgical instruments white cloth copper pan steam hospital nineteenth century",
             "ai_prompt": "Photorealistic vertical still life of a row of plain polished steel 1880s surgical instruments lying on a clean folded white linen cloth on a wooden table in a bright hospital room, a copper pan of gently steaming water beside them, soft daylight from a tall window, calm clean mood, no people, no blood, no gore, no modern equipment, no plastic, no electric light, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Polerade anteckningsböcker och en rival i Berlin",
+            "text_sentences": [
+              "Herr X för detaljerade laboratorieanteckningar under hela sitt yrkesliv.",
+              "Han säger till sin familj att ingen någonsin får läsa dem.",
+              "Årtionden senare, på 1970-talet, studerar äntligen en historiker de här privata anteckningsböckerna.",
+              "Anteckningsböckerna avslöjar att hans offentliga rapporter ibland döljer den röriga, verkliga historien.",
+              "I ett känt fall skiljer sig hans publicerade metod från det han faktiskt använde.",
+              "Historiker debatterar fortfarande hur mycket detta förändrar hans rykte som en noggrann vetenskapsman.",
+              "De frågar sig också om det var etiskt att behandla en pojke för rabies 1885 innan djurförsöken var avslutade.",
+              "På 1880-talet studerar en rival i Berlin, forskaren Robert Koch, smittämnena bakom tuberkulos.",
+              "Robert Koch och herr X konkurrerar hårt, delvis för att deras länder också är rivaler.",
+              "Den här konkurrensen mellan fransk och tysk vetenskap pressar båda männen att arbeta snabbare.",
+              "När teorin om smittämnen blir accepterad börjar fler sjukhus tvätta händerna och rengöra instrument noggrant.",
+              "Dödstalen från infektioner på sjukhus och sjukdomar i växande städer börjar sjunka."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Edward Jenner",
+              "Louis Pasteur",
+              "Alexander Fleming",
+              "Charles Darwin"
+            ],
+            "correct": "Louis Pasteur",
+            "words": [
+              {
+                "word": "rykte",
+                "explanation": "vad andra människor tycker och säger om någon"
+              },
+              {
+                "word": "etiskt",
+                "explanation": "rätt och rättvist enligt moraliska regler"
+              },
+              {
+                "word": "rival",
+                "explanation": "någon som tävlar hårt mot en annan person"
+              },
+              {
+                "word": "tuberkulos",
+                "explanation": "en allvarlig lungsjukdom som orsakas av smittämnen"
+              }
+            ],
+            "main_caption": "Årtionden efter hans död öppnar äntligen en historiker herr X:s privata anteckningsböcker.",
+            "side_caption": "När teorin om smittämnen vinner mark börjar sjukhusen rengöra sina instrument med omsorg."
           }
         }
-      ]
+      ],
+      "person_sv": "Louis Pasteur"
     },
     {
       "slug": "alan-turing",
@@ -25356,6 +25581,51 @@
             "caption": "Later, Mr X works in simple wooden huts like these, in secret.",
             "shutterstock_query": "wartime wooden huts country estate lawn distance 1940s",
             "ai_prompt": "Photorealistic vertical image of a row of plain low wooden huts with sloped roofs on a green lawn behind tall iron gates, a gravel path leading toward them, two generic figures in 1940s British wool coats and felt hats walking between the huts seen from a distance, soft overcast daylight, quiet secretive mood, no readable signs, no vehicles, no modern cars, no panels with lettering, no modern computers, no screens, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Pojken som älskade pussel och långa löpturer",
+            "text_sentences": [
+              "Herr X är en pojke i England för ungefär hundra år sedan.",
+              "Han älskar tal och svåra pussel.",
+              "Han älskar också att springa mycket långa sträckor ensam.",
+              "Han är inte den bästa eleven i andra ämnen.",
+              "Senare studerar han vid ett berömt gammalt universitet i England.",
+              "Som ung man drömmer han om en maskin som följer en lista med steg.",
+              "En sådan maskin skulle kunna lösa nästan vilket pussel som helst.",
+              "Sedan bryter ett stort krig ut i Europa.",
+              "Herr X flyttar till en hemlig plats med barracker av trä.",
+              "Många kloka män och kvinnor arbetar där i hemlighet.",
+              "De försöker knäcka fiendens mycket svåra kod.",
+              "Herr X och hans vänner hittar ett sätt att läsa fiendens hemliga meddelanden."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Charles Babbage",
+              "Alan Turing",
+              "Ada Lovelace",
+              "Konrad Zuse"
+            ],
+            "correct": "Alan Turing",
+            "words": [
+              {
+                "word": "barack",
+                "explanation": "en liten enkel byggnad, ofta gjord av trä"
+              },
+              {
+                "word": "kod",
+                "explanation": "ett hemligt sätt att skriva, så att bara vissa kan läsa det"
+              },
+              {
+                "word": "pussel",
+                "explanation": "ett problem som är roligt och svårt att lösa"
+              },
+              {
+                "word": "fiende",
+                "explanation": "ett land eller en person som du strider mot i ett krig"
+              }
+            ],
+            "main_caption": "Herr X springer ofta långa sträckor ensam, även i kallt väder.",
+            "side_caption": "Senare arbetar herr X i hemlighet i enkla barracker som dessa."
           }
         },
         {
@@ -25412,6 +25682,50 @@
             "caption": "Convoys of ships cross the ocean together, for safety.",
             "shutterstock_query": "atlantic convoy merchant ships formation grey ocean overcast",
             "ai_prompt": "Photorealistic vertical image of a group of grey 1940s merchant steamships with tall funnels and a small escort ship sailing together in a loose formation across a rough grey Atlantic ocean, seen from a distance under an overcast sky, no visible flags, no hull names or numbers, no readable markings, calm documentary mood, no modern vessels, no container ships, no screens, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Bletchley Park, Enigma och en maskin som kallas bomben",
+            "text_sentences": [
+              "Herr X studerar matematik vid Cambridge i England.",
+              "År 1939 bryter ett stort krig ut i Europa.",
+              "Herr X flyttar till Bletchley Park, ett hemligt gods på landet.",
+              "Där försöker olika grupper knäcka Enigma, en tysk maskin som skapar hemliga koder.",
+              "Polska matematiker knäcker maskinens hemligheter först, före kriget.",
+              "Med deras arbete som grund hjälper herr X till att konstruera en stor maskin som kallas bomben.",
+              "Varje dag testar den tusentals möjliga kodinställningar.",
+              "Att läsa de tyska meddelandena hjälper konvojer av skepp att korsa Atlanten säkert.",
+              "Tusentals människor arbetar på Bletchley Park, och de flesta är kvinnor.",
+              "De får aldrig berätta för någon vad de gör där.",
+              "Hemligheten hålls i ungefär trettio år efter kriget."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Alan Turing",
+              "John von Neumann",
+              "Claude Shannon",
+              "Grace Hopper"
+            ],
+            "correct": "Alan Turing",
+            "words": [
+              {
+                "word": "matematik",
+                "explanation": "läran om tal, former och mönster"
+              },
+              {
+                "word": "gods",
+                "explanation": "ett stort markområde med ett stort hus på"
+              },
+              {
+                "word": "inställning",
+                "explanation": "ett visst sätt som en maskins delar är ställda på"
+              },
+              {
+                "word": "konvoj",
+                "explanation": "en grupp skepp som reser tillsammans för säkerhets skull"
+              }
+            ],
+            "main_caption": "En ny maskin söker igenom tusentals möjliga kodinställningar.",
+            "side_caption": "Konvojer av skepp korsar havet tillsammans, för säkerhets skull."
           }
         },
         {
@@ -25468,6 +25782,50 @@
             "caption": "A judge asks questions and tries to guess who answers, person or machine.",
             "shutterstock_query": "two booths curtain typewriter empty chair plain room",
             "ai_prompt": "Photorealistic vertical image of two plain wooden booths standing side by side in a bare late 1940s British room, each with a closed dark curtain and an old black mechanical typewriter just visible inside, a single empty wooden chair facing them at a small table with a few sheets of blank paper, soft neutral daylight, calm quiet mood, no people, no writing on any paper, no modern computers, no screens, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En maskin på papper och en fråga om tänkande",
+            "text_sentences": [
+              "År 1936 publicerar en ung matematiker vid Cambridge, herr X, en ovanlig artikel.",
+              "Han föreställer sig en enkel maskin som läser och skriver symboler på en pappersremsa.",
+              "Om en sådan maskin byggs på rätt sätt kan den kopiera vilken annan maskins arbete som helst.",
+              "Strax efter tillbringar han två år med att studera i Princeton i USA.",
+              "År 1948 flyttar han till Manchester och skriver program till en av de första riktiga datorerna.",
+              "År 1950 publicerar han en artikel med en enkel fråga: kan maskiner tänka?",
+              "Han beskriver ett spel: en domare ställer skriftliga frågor till två gömda spelare.",
+              "Den ena spelaren är en människa, den andra är ett datorprogram.",
+              "Om domaren ofta inte kan avgöra vem som är vem, säger han, har maskinen klarat testet.",
+              "År 1952 straffar en dåtida lag honom för att han älskar en annan man.",
+              "Regeringen ber om ursäkt 2009, och han benådas 2013."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Charles Babbage",
+              "Konrad Zuse",
+              "Alan Turing",
+              "John von Neumann"
+            ],
+            "correct": "Alan Turing",
+            "words": [
+              {
+                "word": "symbol",
+                "explanation": "ett skrivet tecken som står för en bokstav, en siffra eller ett ljud"
+              },
+              {
+                "word": "pappersremsa",
+                "explanation": "en lång tunn remsa, här använd för att lagra information"
+              },
+              {
+                "word": "domare",
+                "explanation": "en person som avgör vem som har rätt, eller vem som vinner ett spel"
+              },
+              {
+                "word": "program",
+                "explanation": "en lista med steg som talar om för en dator vad den ska göra"
+              }
+            ],
+            "main_caption": "På papper föreställer sig herr X en enkel maskin som skulle kunna beräkna vad som helst.",
+            "side_caption": "En domare ställer frågor och försöker gissa vem som svarar, en människa eller en maskin."
           }
         },
         {
@@ -25523,6 +25881,49 @@
             "caption": "Glowing glass valves like these do the counting inside the first computers.",
             "shutterstock_query": "vintage glass vacuum tubes glowing rack close up warm light",
             "ai_prompt": "Photorealistic vertical extreme close-up of a single rack of glowing 1940s glass valves with their metal bases and thin wires, warm orange light coming from the valves themselves, shallow depth of field, a late 1940s laboratory softly blurred behind, quiet technical mood, no people, no panels, no dials, no modern circuit boards, no screens, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En datorkonstruktion, ett schackprogram och en maratonlöpare",
+            "text_sentences": [
+              "Herr X är en brittisk matematiker som gör hemligt arbete under ett världskrig.",
+              "När kriget slutar 1945 kan han fortfarande inte berätta för någon vad han har gjort.",
+              "Han börjar på ett statligt laboratorium nära London och konstruerar en egen dator.",
+              "Maskinen byggs senare, mindre än han planerat, och ett företag säljer kopior av den.",
+              "Han skriver också ett av de första schackprogrammen, för hand på papper.",
+              "Ingen dator vid den tiden kan köra det, så han spelar dragen själv.",
+              "Utanför arbetet springer han maraton och är en av de snabbaste maratonlöparna i Storbritannien.",
+              "År 1952 straffar en dåtida lag honom för att han älskar en annan man.",
+              "Han dör 1954.",
+              "Regeringen ber om ursäkt 2009, och han benådas 2013."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Claude Shannon",
+              "Konrad Zuse",
+              "Grace Hopper",
+              "Alan Turing"
+            ],
+            "correct": "Alan Turing",
+            "words": [
+              {
+                "word": "laboratorium",
+                "explanation": "en plats där forskare gör tester och bygger nya saker"
+              },
+              {
+                "word": "konstruerar",
+                "explanation": "gör en plan för hur man bygger något"
+              },
+              {
+                "word": "schack",
+                "explanation": "ett brädspel för två spelare med kungar, drottningar och springare"
+              },
+              {
+                "word": "maraton",
+                "explanation": "en löptävling på ungefär 42 kilometer"
+              }
+            ],
+            "main_caption": "Herr X skriver ett schackprogram på papper och spelar dragen för hand.",
+            "side_caption": "Glödande elektronrör som dessa gör beräkningarna inuti de första datorerna."
           }
         },
         {
@@ -25575,9 +25976,50 @@
             "caption": "His war work stays locked away until the 1970s.",
             "shutterstock_query": "locked steel filing cabinet wax seal government office wartime",
             "ai_prompt": "Photorealistic vertical image of a plain grey steel filing cabinet standing closed in a bare 1940s British government office with a wooden floor and a plain wooden desk, a small plain red wax seal fixed over the lock of the top drawer, dim warm electric light, quiet secretive mood, no people, no readable labels, no panels with lettering, no banknotes, no modern computers, no screens, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Grundare, hemligheter och en sen ursäkt",
+            "text_sentences": [
+              "Historiker i dag kallar herr X en av grundarna av datavetenskapen.",
+              "År 1936 bevisar han att vissa problem aldrig kan lösas av någon maskin.",
+              "Riktiga datorer, byggda ungefär tio år senare, följer grundtanken i hans artikel.",
+              "Hans roll i kodknäckningen under ett världskrig är nästan okänd fram till 1970-talet.",
+              "Först då kan historiker börja bedöma hans roll i det kriget.",
+              "Frågan och spelet han beskriver 1950 formar fortfarande hur vi testar maskiner i dag.",
+              "Sent i livet studerar han varför fläckar och ränder bildas på djurs hud.",
+              "År 1952 straffar en dåtida lag honom för att han älskar en annan man.",
+              "Han dör 1954, och utredningen kallar det självmord.",
+              "Regeringen ber om ursäkt 2009, och han benådas 2013.",
+              "I dag bär det finaste priset inom datavetenskap hans namn."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "John von Neumann",
+              "Alan Turing",
+              "Claude Shannon",
+              "Charles Babbage"
+            ],
+            "correct": "Alan Turing",
+            "words": [
+              {
+                "word": "grundare",
+                "explanation": "en person som startar något viktigt, som ett nytt forskningsområde"
+              },
+              {
+                "word": "kodknäckning",
+                "explanation": "att ta reda på hur man läser hemliga meddelanden"
+              },
+              {
+                "word": "utredning",
+                "explanation": "en officiell undersökning för att ta reda på hur en person dog"
+              }
+            ],
+            "main_caption": "Sent i livet studerar herr X varför mönster som detta bildas i naturen.",
+            "side_caption": "Hans krigsarbete förblir inlåst fram till 1970-talet."
           }
         }
-      ]
+      ],
+      "person_sv": "Alan Turing"
     },
     {
       "slug": "florence-nightingale",
@@ -25637,6 +26079,50 @@
             "caption": "A small lamp lights the dark for those who work at night.",
             "shutterstock_query": "antique folding paper candle lantern glowing dark room still life",
             "ai_prompt": "Photorealistic close-up still life of a small 1850s folding candle lantern with a pleated cream paper shade and a plain metal top and base, a warm candle flame glowing inside it, standing on a plain wooden table in a dim room, soft shadows, no people, no brass oil lamp, no glass chimney, no electric light, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Den rika flickan som vill vårda de sjuka",
+            "text_sentences": [
+              "Fröken X växer upp i en rik familj i England, för ungefär 200 år sedan.",
+              "Hon har ett stort hus, tjänare och ett bekvämt liv.",
+              "De flesta rika flickor på hennes tid väljer inget yrke alls.",
+              "En dag säger hon att hon hör en kallelse från Gud.",
+              "Hon tror att Gud vill att hon ska hjälpa sjuka och skadade människor.",
+              "Hennes familj är inte glad över hennes plan.",
+              "De vill i stället att hon ska gifta sig och stanna lugnt hemma.",
+              "Hon utbildar sig ändå till sjuksköterska, långt hemifrån.",
+              "Senare går hennes land i krig, i ett land långt borta.",
+              "Hon reser dit med en liten grupp sjuksköterskor.",
+              "På natten går hon genom sjukhuset med en liten lampa."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Mary Seacole",
+              "Florence Nightingale",
+              "Elizabeth Blackwell",
+              "Clara Barton"
+            ],
+            "correct": "Florence Nightingale",
+            "words": [
+              {
+                "word": "tjänare",
+                "explanation": "personer som får betalt för att arbeta och hjälpa till i ett rikt hem"
+              },
+              {
+                "word": "kallelse",
+                "explanation": "här, en stark känsla av att Gud vill att man ska göra något"
+              },
+              {
+                "word": "utbilda sig",
+                "explanation": "att lära sig det man behöver kunna för ett yrke"
+              },
+              {
+                "word": "lampa",
+                "explanation": "här, en liten lykta som lyser med olja eller ett stearinljus"
+              }
+            ],
+            "main_caption": "En dotter i en rik familj drömmer om ett helt annat liv.",
+            "side_caption": "En liten lampa lyser upp mörkret för dem som arbetar på natten."
           }
         },
         {
@@ -25698,6 +26184,55 @@
             "caption": "A ward is a large room in a hospital with many beds.",
             "shutterstock_query": "victorian hospital ward iron beds empty stone room",
             "ai_prompt": "Photorealistic vertical image of a long stone 1850s hospital ward with rows of plain iron beds with grey wool blankets neatly made along both walls, weak daylight through tall arched windows, a mop and wooden bucket standing in the stone aisle, calm empty mood, no people, no modern hospital equipment, no electric light, no plastic, no readable signs, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Trettioåtta sjuksköterskor på ett smutsigt krigssjukhus",
+            "text_sentences": [
+              "Fröken X är sjuksköterska i England år 1854.",
+              "Hennes land utkämpar ett krig långt bort, som kallas Krimkriget.",
+              "Tidningar rapporterar att sårade soldater får mycket dålig vård.",
+              "Fröken X leder en grupp på trettioåtta sjuksköterskor som ska hjälpa till.",
+              "De reser till ett stort militärsjukhus i Scutari, nära Konstantinopel.",
+              "Byggnaden är smutsig, kall och full av råttor.",
+              "Rent vatten och rena bandage är svåra att få tag på.",
+              "Fler soldater dör av sjukdom än av sina skador.",
+              "Fröken X arbetar hårt för att göra vårdsalarna renare och lugnare.",
+              "Hon köper mat och rena skjortor till soldaterna med pengar från tidningsläsare hemma.",
+              "Året efter rensar en särskild grupp sjukhusets avlopp, och mycket färre soldater dör.",
+              "När hon kommer hem kallar hela landet henne en hjälte."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Clara Barton",
+              "Mary Seacole",
+              "Florence Nightingale",
+              "Dorothea Dix"
+            ],
+            "correct": "Florence Nightingale",
+            "words": [
+              {
+                "word": "sårad",
+                "explanation": "skadad allvarligt i en strid eller olycka"
+              },
+              {
+                "word": "bandage",
+                "explanation": "remsor av tyg som används för att täcka ett sår"
+              },
+              {
+                "word": "sjukdom",
+                "explanation": "när kroppen blir sjuk, ofta av bakterier, inte av en skada"
+              },
+              {
+                "word": "vårdsal",
+                "explanation": "ett stort rum på ett sjukhus med många sängar"
+              },
+              {
+                "word": "avlopp",
+                "explanation": "ett rör under marken som leder bort smutsigt vatten och avfall"
+              }
+            ],
+            "main_caption": "Ett stort sjukhus långt hemifrån fylls med sjuka och sårade soldater.",
+            "side_caption": "En vårdsal är ett stort rum på ett sjukhus med många sängar."
           }
         },
         {
@@ -25754,6 +26289,50 @@
             "caption": "Diagrams use shapes and lines, not battles, to make a point.",
             "shutterstock_query": "antique drafting table brass compass ruler blank paper ink daylight",
             "ai_prompt": "Photorealistic vertical close-up still life of a wooden 1850s drafting table with a brass drawing compass, a wooden ruler, a small stack of plain blank cream paper and a glass ink pot with a steel-nib pen, soft daylight from a window, calm studious mood, the paper completely blank with no drawn lines and no grid, no electric lamp, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Diagram som förklarar varför soldater dör",
+            "text_sentences": [
+              "Fröken X är en sjuksköterska som kommer hem från ett krig långt borta.",
+              "Efter kriget studerar hon siffror, inte strider.",
+              "Hon samlar noggranna fakta om varje soldat som dör på sjukhus.",
+              "De flesta dödsfall beror på sjukdom, inte på fiendens vapen.",
+              "Hon ritar färgglada diagram för att visa detta tydligt.",
+              "Arméns tjänstemän och politiker tycker att diagrammen är lätta att läsa.",
+              "Diagrammen hjälper till att driva fram renare sjukhus och renare arméläger.",
+              "År 1858 väljer ett vetenskapligt sällskap in henne som sin första kvinnliga medlem.",
+              "Det sällskapet studerar siffror och fakta om människor och länder, det som kallas statistik.",
+              "Fröken X hävdar att noggranna fakta, inte tur, räddar liv.",
+              "Hennes noggranna arbete förändrar långsamt hur regeringar planerar sjukvården."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Ada Lovelace",
+              "Florence Nightingale",
+              "Elizabeth Blackwell",
+              "Marie Curie"
+            ],
+            "correct": "Florence Nightingale",
+            "words": [
+              {
+                "word": "diagram",
+                "explanation": "bilder som använder former eller linjer för att visa fakta tydligt"
+              },
+              {
+                "word": "tjänsteman",
+                "explanation": "en person som har ett viktigt arbete inom armén eller staten"
+              },
+              {
+                "word": "välja in",
+                "explanation": "att välja en person till en roll genom röstning"
+              },
+              {
+                "word": "statistik",
+                "explanation": "läran om fakta och siffror om många människor eller saker"
+              }
+            ],
+            "main_caption": "Noggranna fakta övertygar tjänstemän om att ändra hur sjukhus drivs.",
+            "side_caption": "Diagram använder former och linjer, inte strider, för att få fram ett budskap."
           }
         },
         {
@@ -25809,6 +26388,49 @@
             "caption": "Clean water and clean hands are part of the careful methods her school teaches.",
             "shutterstock_query": "white enamel jug basin wooden washstand folded cloth victorian room",
             "ai_prompt": "Photorealistic vertical image of a tall white enamel water jug and a wide white basin standing on a plain wooden washstand in a bare 1860s room with whitewashed walls, a folded white linen cloth beside them, soft daylight from a window, calm clean mood, no people, no taps, no modern plumbing, no plastic, no electric light, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En skola, en bok och år i sängen",
+            "text_sentences": [
+              "Fröken X föds i en italiensk stad, och hennes familj uppkallar henne efter staden.",
+              "Hon växer upp rik i England men blir senare sjuk av sin tid i kriget.",
+              "Under resten av livet gör dålig hälsa att hon ofta ligger till sängs.",
+              "Ändå fortsätter hon att arbeta hårt från sitt sovrum i många år.",
+              "Hon skriver en berömd bok om god omvårdnad.",
+              "Kort därefter öppnar hon en skola för sjuksköterskor i London.",
+              "Skolan lär kvinnor att vårda med rena, noggranna metoder.",
+              "Tjänstemän i Indien ber om hennes råd om rent vatten och rena läger.",
+              "Hon reser aldrig själv till Indien, men hon studerar dess rapporter noggrant.",
+              "År 1907 ger en kung henne en hög utmärkelse, den första gången för en kvinna."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Marie Curie",
+              "Edith Cavell",
+              "Elizabeth Garrett Anderson",
+              "Florence Nightingale"
+            ],
+            "correct": "Florence Nightingale",
+            "words": [
+              {
+                "word": "råd",
+                "explanation": "idéer om vad någon borde göra"
+              },
+              {
+                "word": "utmärkelse",
+                "explanation": "ett pris eller en medalj som visar stor respekt"
+              },
+              {
+                "word": "metod",
+                "explanation": "ett noggrant, planerat sätt att göra något"
+              },
+              {
+                "word": "rapport",
+                "explanation": "en skriven text som beskriver fakta eller händelser"
+              }
+            ],
+            "main_caption": "Även från sin säng fortsätter fröken X att arbeta i många år.",
+            "side_caption": "Rent vatten och rena händer är en del av de noggranna metoder som hennes skola lär ut."
           }
         },
         {
@@ -25865,9 +26487,54 @@
             "caption": "Two nurses, two kits, two ways of caring for soldiers in the same war.",
             "shutterstock_query": "antique leather bag woven basket bandages jars still life",
             "ai_prompt": "Photorealistic vertical close-up still life of two 1850s nursing kits side by side on a plain wooden table, one a plain dark brown leather bag with a brass clasp, the other a woven basket holding folded white cloth bandages and small plain glass jars with cork stoppers, soft natural daylight, calm respectful mood, no labels, no modern medical packaging, no plastic, no electric light, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En statistiker, en legend och en annan sjuksköterska från Jamaica",
+            "text_sentences": [
+              "Fröken X tror att smutsig luft, inte små levande bakterier, orsakar de flesta sjukdomar.",
+              "Senare visar forskare att bakterier är den verkliga orsaken till infektion.",
+              "Ändå leder hennes jakt på ren luft till att sjukhusen blir renare.",
+              "År 1855, under Krimkriget, sjunker dödstalen kraftigt på hennes militärsjukhus efter att en grupp har rensat avloppen.",
+              "Flera år senare studerar fröken X detta resultat noga och drar en tydlig slutsats av det.",
+              "Senare minns folkliga berättelser henne mest för hennes godhet på natten.",
+              "Historiker påminner oss om att hon också är en tuff, noggrann statistiker.",
+              "Mary Seacole, en sjuksköterska från Jamaica, vill också hjälpa till i det kriget.",
+              "Hon ber om att få följa med sjuksköterskorna som skickas ut, men tjänstemännen säger nej.",
+              "Därför vårdar Mary Seacole i stället soldater på sitt eget sätt.",
+              "I dag hedras båda kvinnorna som pionjärer inom modern omvårdnad."
+            ],
+            "question": "Vem är fröken X?",
+            "options": [
+              "Florence Nightingale",
+              "Elizabeth Blackwell",
+              "Clara Barton",
+              "Marie Curie"
+            ],
+            "correct": "Florence Nightingale",
+            "words": [
+              {
+                "word": "bakterie",
+                "explanation": "en mycket liten levande varelse, för liten för att se, som kan orsaka sjukdom"
+              },
+              {
+                "word": "infektion",
+                "explanation": "sjukdom som orsakas av att bakterier kommer in i kroppen"
+              },
+              {
+                "word": "statistiker",
+                "explanation": "en person som noggrant studerar fakta och siffror"
+              },
+              {
+                "word": "pionjär",
+                "explanation": "en person som är bland de första att prova eller uppnå något nytt"
+              }
+            ],
+            "main_caption": "En grupp lagar de trasiga avloppen, och dödstalen sjunker kraftigt.",
+            "side_caption": "Två sjuksköterskor, två väskor, två sätt att vårda soldater i samma krig."
           }
         }
-      ]
+      ],
+      "person_sv": "Florence Nightingale"
     },
     {
       "slug": "isaac-newton",

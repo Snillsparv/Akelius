@@ -39,7 +39,7 @@
         },
         {
           "word": "lampa",
-          "explanation": "en liten ljuskälla som bränner olja eller har ett stearinljus"
+          "explanation": "här, en liten lykta som lyser med olja eller ett stearinljus"
         }
       ],
       "main_caption": "En dotter i en rik familj drömmer om ett helt annat liv.",
@@ -54,10 +54,10 @@
         "Fröken X leder en grupp på trettioåtta sjuksköterskor som ska hjälpa till.",
         "De reser till ett stort militärsjukhus i Scutari, nära Konstantinopel.",
         "Byggnaden är smutsig, kall och full av råttor.",
-        "Rent vatten och rena bandage är svårt att få tag på.",
+        "Rent vatten och rena bandage är svåra att få tag på.",
         "Fler soldater dör av sjukdom än av sina skador.",
         "Fröken X arbetar hårt för att göra vårdsalarna renare och lugnare.",
-        "Hon köper mat och rena skjortor till soldaterna för pengar från tidningsläsare hemma.",
+        "Hon köper mat och rena skjortor till soldaterna med pengar från tidningsläsare hemma.",
         "Året efter rensar en särskild grupp sjukhusets avlopp, och mycket färre soldater dör.",
         "När hon kommer hem kallar hela landet henne en hjälte."
       ],
@@ -79,7 +79,7 @@
         },
         {
           "word": "sjukdom",
-          "explanation": "en åkomma, ofta orsakad av bakterier, inte en skada"
+          "explanation": "när kroppen blir sjuk, ofta av bakterier, inte av en skada"
         },
         {
           "word": "vårdsal",
@@ -134,21 +134,21 @@
         }
       ],
       "main_caption": "Noggranna fakta övertygar tjänstemän om att ändra hur sjukhus drivs.",
-      "side_caption": "Diagram använder former och linjer, inte strider, för att göra en poäng."
+      "side_caption": "Diagram använder former och linjer, inte strider, för att få fram ett budskap."
     },
     {
       "title": "En skola, en bok och år i sängen",
       "text_sentences": [
         "Fröken X föds i en italiensk stad, och hennes familj uppkallar henne efter staden.",
         "Hon växer upp rik i England men blir senare sjuk av sin tid i kriget.",
-        "Under resten av livet håller dålig hälsa henne ofta sängliggande.",
+        "Under resten av livet gör dålig hälsa att hon ofta ligger till sängs.",
         "Ändå fortsätter hon att arbeta hårt från sitt sovrum i många år.",
         "Hon skriver en berömd bok om god omvårdnad.",
         "Kort därefter öppnar hon en skola för sjuksköterskor i London.",
         "Skolan lär kvinnor att vårda med rena, noggranna metoder.",
         "Tjänstemän i Indien ber om hennes råd om rent vatten och rena läger.",
         "Hon reser aldrig själv till Indien, men hon studerar dess rapporter noggrant.",
-        "År 1907 ger en kung henne en hög orden, den första gången för en kvinna."
+        "År 1907 ger en kung henne en hög utmärkelse, den första gången för en kvinna."
       ],
       "question": "Vem är fröken X?",
       "options": [
@@ -163,8 +163,8 @@
           "explanation": "idéer om vad någon borde göra"
         },
         {
-          "word": "orden",
-          "explanation": "ett speciellt sätt att visa stor respekt"
+          "word": "utmärkelse",
+          "explanation": "ett pris eller en medalj som visar stor respekt"
         },
         {
           "word": "metod",
@@ -183,15 +183,15 @@
       "text_sentences": [
         "Fröken X tror att smutsig luft, inte små levande bakterier, orsakar de flesta sjukdomar.",
         "Senare visar forskare att bakterier är den verkliga orsaken till infektion.",
-        "Ändå gör hennes jakt på ren luft att sjukhusen blir renare i alla fall.",
-        "År 1855, under Krimkriget, sjunker dödstalen kraftigt på hennes militärsjukhus efter att en grupp rensar avloppen.",
-        "År senare studerar fröken X detta resultat noga och drar en tydlig slutsats av det.",
-        "Folkliga berättelser minns henne senare mest för hennes godhet på natten.",
+        "Ändå leder hennes jakt på ren luft till att sjukhusen blir renare.",
+        "År 1855, under Krimkriget, sjunker dödstalen kraftigt på hennes militärsjukhus efter att en grupp har rensat avloppen.",
+        "Flera år senare studerar fröken X detta resultat noga och drar en tydlig slutsats av det.",
+        "Senare minns folkliga berättelser henne mest för hennes godhet på natten.",
         "Historiker påminner oss om att hon också är en tuff, noggrann statistiker.",
         "Mary Seacole, en sjuksköterska från Jamaica, vill också hjälpa till i det kriget.",
         "Hon ber om att få följa med sjuksköterskorna som skickas ut, men tjänstemännen säger nej.",
-        "Så Mary Seacole vårdar i stället soldater på sitt eget sätt.",
-        "I dag hedras båda kvinnorna som pionjärer inom modern sjukvård."
+        "Därför vårdar Mary Seacole i stället soldater på sitt eget sätt.",
+        "I dag hedras båda kvinnorna som pionjärer inom modern omvårdnad."
       ],
       "question": "Vem är fröken X?",
       "options": [
@@ -203,7 +203,7 @@
       "words": [
         {
           "word": "bakterie",
-          "explanation": "mycket små levande varelser, för små för att se, som kan orsaka sjukdom"
+          "explanation": "en mycket liten levande varelse, för liten för att se, som kan orsaka sjukdom"
         },
         {
           "word": "infektion",

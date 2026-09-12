@@ -8,7 +8,7 @@
         "Herr X är en vetenskapsman som bor i Frankrike för ungefär 150 år sedan.",
         "Han studerar pyttesmå levande varelser som människor inte kan se.",
         "De pyttesmå varelserna kan göra att mjölk och vin blir sura.",
-        "De kan också göra att sår och skärsår blir dåliga.",
+        "De kan också göra att skärsår och andra sår blir dåliga.",
         "Herr X hittar ett sätt att värma vin och öl mycket försiktigt.",
         "Den försiktiga värmen dödar de pyttesmå varelserna inuti.",
         "Efter det håller sig vinet och ölet bra mycket längre.",
@@ -88,13 +88,13 @@
         }
       ],
       "main_caption": "Inuti den här böjda glashalsen bevisar herr X var pyttesmå levande varelser egentligen kommer ifrån.",
-      "side_caption": "År 1881 testar herr X sitt vaccin på får som de här, inför en tittande folkmassa."
+      "side_caption": "År 1881 testar herr X sitt vaccin på får som de här, inför en folkmassa som ser på."
     },
     {
       "title": "En idé som läkarna inte vill tro på",
       "text_sentences": [
-        "I Frankrike, för ungefär 150 år sedan, tror inte många läkare att smittämnen orsakar sjukdom.",
-        "Några läkare tror fortfarande att bara dålig lukt och dålig luft gör människor sjuka.",
+        "I Frankrike, för ungefär 150 år sedan, är det många läkare som inte tror att smittämnen orsakar sjukdom.",
+        "Några läkare tror fortfarande att det bara är dålig lukt och dålig luft som gör människor sjuka.",
         "Herr X håller absolut inte med, och han kallar den gamla idén felaktig och farlig.",
         "Han hävdar att smittämnen som är för små för att se orsakar infektioner i sår och blod.",
         "Många respekterade läkare hånar idén, och herr X möter år av kritik.",
@@ -143,9 +143,9 @@
         "Människor från många länder skickar pengar för att tacka honom.",
         "Med de här pengarna öppnar ett nytt forskningscenter i Paris 1888.",
         "Forskarna där studerar sjukdomar och behandlar rabiespatienter som reser långväga ifrån.",
-        "Herr X känner redan till djup personlig sorg.",
+        "Herr X vet redan vad djup personlig sorg är.",
         "Tre av hans döttrar dör som barn, två av dem av tyfus.",
-        "Flera år tidigare gör ett slaganfall ena sidan av kroppen svag.",
+        "Flera år tidigare gör ett slaganfall ena sidan av hans kropp svag.",
         "Ändå fortsätter han att leda sin forskning med hjälp av trogna assistenter.",
         "Efter hans död för de här assistenterna vidare hans arbete på centret."
       ],
@@ -174,7 +174,7 @@
           "explanation": "en plötslig sjukdom i hjärnan som kan göra en del av kroppen svag"
         }
       ],
-      "main_caption": "Efter ett slaganfall leder herr X ändå sina trogna assistenter vid bänken.",
+      "main_caption": "Efter ett slaganfall leder herr X ändå sina trogna assistenter vid laboratoriebänken.",
       "side_caption": "Patienter reser långväga ifrån till det nya forskningscentret i Paris."
     },
     {
