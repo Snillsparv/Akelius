@@ -1,0 +1,138 @@
+{
+  "slug": "adolf-hitler",
+  "person_sv": "Adolf Hitler",
+  "cards": [
+    {
+      "title": "Ett land förlorar sin frihet",
+      "text_sentences": [
+        "Herr X bor i Tyskland, för ungefär nittio år sedan.",
+        "Hans land har fria val och fria tidningar.",
+        "Svåra tider kommer, och miljontals människor förlorar sina jobb.",
+        "Herr X leder ett parti med ett argt, enkelt löfte.",
+        "Han skyller på judar och andra grupper för de svåra tiderna.",
+        "Han lovar att göra landet starkt och stolt igen.",
+        "År 1933 utser den gamla presidenten honom till regeringschef.",
+        "Inom några månader stänger regeringen de fria tidningarna.",
+        "Den förbjuder alla andra politiska partier.",
+        "Människor hamnar i fängelse bara för sina åsikter.",
+        "I skolan lär sig barnen nu att hata dessa grupper."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Josef Stalin", "Adolf Hitler", "Benito Mussolini", "Francisco Franco"],
+      "words": [
+        {"word": "val", "explanation": "när människor röstar för att välja sina ledare"},
+        {"word": "president", "explanation": "landets högsta valda ledare"},
+        {"word": "förbjuder", "explanation": "gör något olagligt"},
+        {"word": "åsikter", "explanation": "vad en person tycker eller tror"}
+      ],
+      "main_caption": "En tidningsredaktion står stängd. Ingen trycker de fria nyheterna längre.",
+      "side_caption": "Skoldörren har stängts bakom barnen. Inne lär de sig en ny läxa."
+    },
+    {
+      "title": "Konstnären som misslyckas och vill ha makt",
+      "text_sentences": [
+        "Herr X vill bli målare som ung man.",
+        "Han flyttar till Wien och försöker komma in på konstakademin.",
+        "Akademin avvisar honom, inte bara en gång utan två gånger.",
+        "Han bor ensam på ett billigt härbärge för fattiga män.",
+        "När det stora kriget 1914 börjar blir han soldat.",
+        "Han blir sårad, och nära krigets slut utsätts han för giftgas.",
+        "Efter kriget går han med i ett litet parti som skyller nederlaget på judar och demokrati.",
+        "I München försöker han ta makten med våld.",
+        "Försöket misslyckas, och han hamnar i fängelse.",
+        "I fängelset skriver han en bok full av hat.",
+        "I ett val får hans parti färre än tre röster av hundra.",
+        "Efter en stor ekonomisk kris väljer en väljare av tre hans parti, aldrig en majoritet."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Kejsar Vilhelm II", "Paul von Hindenburg", "Adolf Hitler", "Benito Mussolini"],
+      "words": [
+        {"word": "akademi", "explanation": "en skola för särskilda färdigheter, som konst eller vetenskap"},
+        {"word": "giftgas", "explanation": "en farlig gas som används som vapen i kriget"},
+        {"word": "ta makten med våld", "explanation": "att plötsligt och med våld ta över makten i ett land"},
+        {"word": "ekonomisk kris", "explanation": "en tid då många företag går dåligt och människor förlorar jobb och pengar"}
+      ],
+      "main_caption": "En tom duk väntar i ett härbärge för fattiga män. Akademin har sagt nej, två gånger.",
+      "side_caption": "I ett fängelserum skriver en fånge en bok full av hat."
+    },
+    {
+      "title": "Fönster krossas över ett land",
+      "text_sentences": [
+        "Herr X leder Tysklands regering.",
+        "Hans regering riktar sig mot en grupp mer än andra: judiska medborgare.",
+        "Under hans första år vid makten blockerar hans anhängare dörrarna till judiska butiker.",
+        "Två år senare tar nya lagar bort deras rättigheter som medborgare.",
+        "Samma lagar förbjuder äktenskap mellan judar och andra tyskar.",
+        "I november 1938 skickar hans parti sina män för att attackera judiska hem, butiker och synagogor.",
+        "Folkmassor ansluter sig, och fönster krossas över hela landet på en enda natt.",
+        "Omkring trettiotusen judiska män skickas till läger.",
+        "Judiska familjer försöker nu lämna landet.",
+        "Många länder släpper bara in ett fåtal av dem.",
+        "Sedan kommer kriget, och förföljelsen övergår i massmord.",
+        "Hans stat mördar sex miljoner judar, och även romer, funktionsnedsatta och andra."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Josef Stalin", "Hideki Tojo", "Adolf Hitler", "Francisco Franco"],
+      "words": [
+        {"word": "medborgare", "explanation": "människor som juridiskt tillhör ett land och delar dess rättigheter"},
+        {"word": "synagogor", "explanation": "byggnader där judar samlas för att be"},
+        {"word": "läger", "explanation": "här: bevakade platser där fångar hålls mot sin vilja"},
+        {"word": "förföljelse", "explanation": "grym och orättvis behandling av en grupp, gång på gång"}
+      ],
+      "main_caption": "Till morgonen täcker krossat glas trottoaren utanför en judisk familjs butik.",
+      "side_caption": "En packad resväska väntar vid dörren. Många länder vill inte släppa in familjen."
+    },
+    {
+      "title": "En röst i köket",
+      "text_sentences": [
+        "Herr X:s regering i Tyskland kontrollerar vad människor hör och ser.",
+        "En radio står i de flesta hem, och en röst fyller den.",
+        "Enorma massmöten samlar folkmassor under starka ljus och hög musik.",
+        "En grupp studenter bränner böcker som regeringen kallar farliga.",
+        "Barn måste gå med i ungdomsorganisationer som drivs av staten.",
+        "En hemlig polisstyrka lyssnar efter varje ord mot regeringen.",
+        "Grannar blir rädda för att lita på varandra.",
+        "De flesta människor hakar bara på, eller tittar tyst åt ett annat håll.",
+        "En annan grupp studenter gör motstånd: i München trycker de flygblad mot regeringen.",
+        "I februari 1943 avrättar regeringen tre av dem för deras flygblad.",
+        "Rädsla ensam förklarar inte allt: många vanliga människor väljer att tro."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Benito Mussolini", "Adolf Hitler", "Josef Stalin", "Hideki Tojo"],
+      "words": [
+        {"word": "massmöten", "explanation": "stora offentliga möten för att hylla en ledare eller en sak"},
+        {"word": "ungdomsorganisationer", "explanation": "klubbar där barn och tonåringar träffas, ofta drivna av staten"},
+        {"word": "hemlig polis", "explanation": "poliser som hemligt spionerar på medborgare, inte öppet"},
+        {"word": "flygblad", "explanation": "små tryckta papper med ett budskap"}
+      ],
+      "main_caption": "I de flesta hem för en radio in en röst i köket.",
+      "side_caption": "Några studenter trycker ord mot regeringen. Det kostar dem livet."
+    },
+    {
+      "title": "Inte en enda man, utan en hel maskin",
+      "text_sentences": [
+        "Historiker förklarar inte längre herr X som ett enda ont geni som agerar ensamt.",
+        "De ställer en svårare fråga: hur följer ett helt samhälle honom?",
+        "En grupp historiker betonar hans egna val och avsikter.",
+        "En annan grupp betonar strukturerna runt honom: rivaler, kaos och svaga institutioner.",
+        "En berömd fras beskriver tjänstemän som gissar hans önskningar och agerar utan order.",
+        "En historiker kallar detta: att arbeta i ledarens riktning.",
+        "Källorna omfattar partihandlingar, privata dagböcker och brev hem.",
+        "Efter kriget använder rättegångar dessa källor för att döma de anklagade.",
+        "Vissa människor förnekar senare att mordet på sex miljoner judar och andra ens ägde rum.",
+        "Historiker studerar också denna förnekelse, som ett fenomen i sig själv.",
+        "År 1945, med sitt krig förlorat och Berlin omringat, tar herr X sitt eget liv."
+      ],
+      "question": "Vem är herr X?",
+      "options": ["Francisco Franco", "Hideki Tojo", "Josef Stalin", "Adolf Hitler"],
+      "words": [
+        {"word": "avsikter", "explanation": "planerna eller syftena inne i en persons huvud"},
+        {"word": "institutioner", "explanation": "organisationerna och systemen som styr ett land"},
+        {"word": "fenomen", "explanation": "något som händer och som kan studeras och förklaras"},
+        {"word": "förnekelse", "explanation": "att vägra acceptera att något sant verkligen hände"}
+      ],
+      "main_caption": "Efter kriget försöker domstolar i Nürnberg och på andra platser döma vad som hände.",
+      "side_caption": "Privata dagböcker och brev hem hjälper historiker att förstå hur allt hände."
+    }
+  ]
+}
