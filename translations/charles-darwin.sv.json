@@ -1,0 +1,211 @@
+{
+  "slug": "charles-darwin",
+  "person_sv": "Charles Darwin",
+  "cards": [
+    {
+      "title": "Skalbaggar, sjösjuka och fem år till sjöss",
+      "text_sentences": [
+        "Herr X är en ung man i Storbritannien för nästan 200 år sedan.",
+        "Han studerar medicin i Edinburgh, men hatar det.",
+        "Blod och smärta får honom att må illa.",
+        "Han samlar sällsynta skalbaggar som hobby.",
+        "Hans far vill att han i stället ska arbeta för kyrkan.",
+        "Sedan bjuder en skeppskapten in honom att segla med.",
+        "Det lilla skeppet seglar jorden runt.",
+        "Den långa sjöresan varar i nästan fem år.",
+        "Herr X är sjösjuk nästan varje dag till sjöss.",
+        "På öar i Stilla havet möter han jättesköldpaddor.",
+        "Han ser också konstiga fåglar som inte finns någon annanstans."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Charles Darwin",
+        "Alfred Russel Wallace",
+        "Louis Pasteur",
+        "Carl von Linné"
+      ],
+      "words": [
+        {
+          "word": "skalbagge",
+          "explanation": "en liten insekt med ett hårt, blankt skal över vingarna"
+        },
+        {
+          "word": "sjöresa",
+          "explanation": "en lång resa med skepp"
+        },
+        {
+          "word": "sjösjuk",
+          "explanation": "man mår illa för att ett skepp rör sig på vågorna"
+        },
+        {
+          "word": "jättesköldpadda",
+          "explanation": "ett mycket stort, långsamt djur med ett hårt skal, som lever på land"
+        }
+      ],
+      "main_caption": "I nästan fem år seglar herr X på ett litet träskepp.",
+      "side_caption": "På avlägsna öar möter herr X jättesköldpaddor som denna."
+    },
+    {
+      "title": "Tjugo år av anteckningsböcker och ett brev från Asien",
+      "text_sentences": [
+        "Herr X återvänder till England efter fem år till sjöss.",
+        "I flera år tänker han på levande varelser och förändring.",
+        "Han lägger märke till något: djur passar bra in i sin omgivning.",
+        "Djur som passar bra in överlever och får ungar.",
+        "Under mycket lång tid förändrar detta sakta alla levande varelser.",
+        "Herr X kallar idén naturligt urval.",
+        "Han fyller anteckningsbok efter anteckningsbok med sina idéer.",
+        "Tjugo år går, och han berättar det för nästan ingen.",
+        "Sedan kommer ett brev från en naturforskare i Asien.",
+        "Den mannen, Wallace, har precis samma idé.",
+        "Året därpå ger herr X äntligen ut sin berömda bok."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Charles Darwin",
+        "Alfred Russel Wallace",
+        "Jean-Baptiste Lamarck",
+        "Gregor Mendel"
+      ],
+      "words": [
+        {
+          "word": "överleva",
+          "explanation": "att fortsätta leva"
+        },
+        {
+          "word": "naturligt urval",
+          "explanation": "naturen låter de djur och växter som passar bäst överleva och få ungar"
+        },
+        {
+          "word": "naturforskare",
+          "explanation": "en person som studerar växter, djur och naturen"
+        }
+      ],
+      "main_caption": "I tjugo år går herr X, tänker och fyller sina anteckningsböcker.",
+      "side_caption": "Ett djur som passar in i sin omgivning är svårt att se och svårt att fånga."
+    },
+    {
+      "title": "Duvor, havstulpaner och tålmodiga experiment",
+      "text_sentences": [
+        "För mer än 150 år sedan arbetar herr X tyst hemma i England.",
+        "Han föder själv upp många olika sorters duvor.",
+        "Uppfödare förändrar redan duvor mycket genom att välja föräldrar.",
+        "Herr X undrar om naturen väljer på samma sätt.",
+        "I åtta långa år studerar han små havstulpaner.",
+        "Han beskriver noggrant varje känd sorts havstulpan.",
+        "I sin trädgård studerar han ovanliga orkidéer.",
+        "Han iakttar hur daggmaskar sakta flyttar jord under gräset.",
+        "Han arbetar ensam och testar tålmodigt idé efter idé.",
+        "Han skriver många brev till bönder och trädgårdsmästare.",
+        "Sakta stödjer många små experiment hemma en enda stor idé."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Gregor Mendel",
+        "Charles Darwin",
+        "Carl von Linné",
+        "Jean-Baptiste Lamarck"
+      ],
+      "words": [
+        {
+          "word": "föda upp",
+          "explanation": "att hålla djur eller växter så att de får ungar med utvalda egenskaper"
+        },
+        {
+          "word": "havstulpan",
+          "explanation": "ett litet havsdjur som sitter hårt fast på stenar eller skepp"
+        },
+        {
+          "word": "orkidé",
+          "explanation": "en blomma med en ovanlig form, som ofta odlas för sin skönhet"
+        }
+      ],
+      "main_caption": "Herr X föder upp många olika sorters duvor hemma.",
+      "side_caption": "Havstulpaner: små havsdjur som sitter hårt fast på stenar."
+    },
+    {
+      "title": "En debatt i Oxford, återberättad på många sätt",
+      "text_sentences": [
+        "År 1859 ger herr X ut en bok som förändrar vetenskapen.",
+        "Den säger att alla levande varelser sakta förändras med tiden.",
+        "Många läser den, och en stor strid uppstår.",
+        "Året därpå debatterar lärda män boken i Oxford.",
+        "En biskop och en vetenskapsman argumenterar inför en folkmassa.",
+        "Senare författare beskriver debatten på olika sätt.",
+        "Även de som är där minns orden olika.",
+        "En del religiösa ledare blir arga över den nya idén.",
+        "Andra troende ser ingen konflikt med sin egen tro.",
+        "Herr X själv stannar tyst hemma, ofta sjuklig.",
+        "Han dör mer än tjugo år senare, gammal och respekterad.",
+        "Han begravs med heder i Westminster Abbey."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Charles Darwin",
+        "Louis Pasteur"
+      ],
+      "words": [
+        {
+          "word": "biskop",
+          "explanation": "en hög ledare inom den kristna kyrkan"
+        },
+        {
+          "word": "debatt",
+          "explanation": "en formell diskussion mellan människor som tycker olika"
+        },
+        {
+          "word": "tro",
+          "explanation": "en stark tro, ofta på Gud eller en religion"
+        }
+      ],
+      "main_caption": "I Oxford argumenterar två män om herr X:s nya bok inför en folkmassa.",
+      "side_caption": "Herr X begravs med heder i en stor, gammal abbedikyrka."
+    },
+    {
+      "title": "En trädskiss, en till upptäckare och ett missbrukat arv",
+      "text_sentences": [
+        "Herr X besöker öar i Stilla havet som ung man.",
+        "Senare berättelser säger att finkar lär honom allt på en gång.",
+        "I själva verket antecknar han knappt vilken ö varje fink kommer från.",
+        "Härmtrastar intresserar honom mer vid den tiden.",
+        "Senare forskare och skolböcker formar den berömda finkhistorien.",
+        "På 1980-talet visar en historiker att berättelsen är en legend.",
+        "En del historiker frågar sig om Wallace, en annan naturforskare, förtjänar mer erkännande.",
+        "Vi känner till hans idéer från anteckningsböcker och många brev.",
+        "En sida från 1837 visar en liten skiss av ett träd.",
+        "Ovanför skissen skriver han två ord: ”jag tror”.",
+        "Andra män missbrukar senare hans idéer för att ursäkta rasism.",
+        "Han själv förespråkar aldrig sådan politik."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Alfred Russel Wallace",
+        "Charles Darwin",
+        "Carl von Linné",
+        "Jean-Baptiste Lamarck"
+      ],
+      "words": [
+        {
+          "word": "legend",
+          "explanation": "en välkänd berättelse som inte är helt sann"
+        },
+        {
+          "word": "naturforskare",
+          "explanation": "en person som studerar växter, djur och naturen"
+        },
+        {
+          "word": "skiss",
+          "explanation": "en snabb, enkel teckning"
+        },
+        {
+          "word": "erkännande",
+          "explanation": "beröm eller heder för att ha gjort något"
+        }
+      ],
+      "main_caption": "Herr X ritar livet som ett träd. En gren delar sig i många.",
+      "side_caption": "Naturforskare på olika kontinenter delar sina idéer genom brev."
+    }
+  ]
+}
