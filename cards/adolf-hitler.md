@@ -91,10 +91,10 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-ta
 
 ### Huvudbild
 
-- **Motiv:** A plain dormitory room in a shelter for poor men in Vienna in the early 1900s, a row of five simple iron beds along a long wall, one blank canvas on a wooden easel standing near the nearest bed, morning light through tall bare windows. No people. Modest, poor, orderly mood. Production note: the canvas must show no image or marks, completely blank; no paintings visible elsewhere; no text, letters, or signs anywhere; early 1900s furnishings only, no later objects.
+- **Motiv:** A plain dormitory room in a shelter for poor men in Vienna in the early 1900s, a row of a row of simple iron beds along a long wall, one blank canvas on a wooden easel standing near the nearest bed, morning light through tall bare windows. No people. Modest, poor, orderly mood. Production note: the canvas must show no image or marks, completely blank; no paintings visible elsewhere; no text, letters, or signs anywhere; early 1900s furnishings only, no later objects.
 - **Bildtext:** *A blank canvas waits in a shelter for poor men. The academy has said no, twice.*
 - **Shutterstock-sökning:** `early 1900s vienna mens shelter dormitory iron beds empty easel`
-- **AI-prompt (alternativ):** Photorealistic image of a plain early 1900s dormitory room in a shelter for poor men in Vienna, a row of five simple iron beds along a long wall, one completely blank canvas on a wooden easel near the nearest bed, morning light through tall bare windows, modest orderly mood, no people, early 1900s furnishings only, gas or oil lamps only, no electric fittings, no modern objects, no paintings, no text, no letters, no symbols.
+- **AI-prompt (alternativ):** Photorealistic image of a plain early 1900s dormitory room in a shelter for poor men in Vienna, a row of a row of simple iron beds along a long wall, one completely blank canvas on a wooden easel near the nearest bed, morning light through tall bare windows, modest orderly mood, no people, early 1900s furnishings only, gas or oil lamps only, no electric fittings, no modern objects, no paintings, no text, no letters, no symbols.
 
 ### Sidobild
 
@@ -141,10 +141,10 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-ta
 
 ### Huvudbild
 
-- **Motiv:** A smashed shop window seen from across a German street in November 1938, the glass shattered, broken glass scattered on the pavement below, the shop inside wrecked, seen at a distance in early morning light, no people nearby, no sign or lettering above the window. Sober, quiet, no gore. Production note: no sign, no lettering, no religious symbol of any kind, no bodies or injury, no fire or fire damage, only the aftermath at a respectful distance.
+- **Motiv:** A smashed shop window seen from across a German street in November 1938, the glass shattered, broken glass scattered on the pavement below, the shop inside wrecked, seen at a distance in early morning light, no people nearby, no sign or lettering above the window. Sober, quiet, no gore. Production note: camera on the far pavement across a wide street, the shop small in the middle distance, interior not detailed; no sign, no lettering, no religious symbol of any kind, no bodies or injury, no fire or fire damage, only the aftermath at a respectful distance.
 - **Bildtext:** *By morning, broken glass covers the pavement outside a Jewish family's shop.*
 - **Shutterstock-sökning:** `broken shop window glass pavement historical street distance morning`
-- **AI-prompt (alternativ):** Photorealistic 1930s Germany street scene at a respectful distance, a shop window smashed with broken glass on the pavement below and the shop inside wrecked, no sign or lettering above the window, early gray morning light, 1930s shopfront and cobblestones, no people, sober quiet mood, no religious symbols, no fire, no fire damage, no bodies, no injury, no modern vehicles, no modern shopfronts, no text, no letters, no symbols.
+- **AI-prompt (alternativ):** Photorealistic 1930s Germany street scene photographed from the opposite pavement, looking across a cobblestone street at a small shop whose large front window has been smashed, broken glass scattered on the pavement below the window, the shop interior dimly visible and wrecked but not detailed, the fascia board above the window completely blank, no sign and no lettering, 1930s shopfront and neighbouring stone facades, the street empty, early grey morning light, sober quiet mood, no people, no vehicles, no posters, no flags, no religious symbols, no fire, no fire damage, no bodies, no injury, no modern vehicles, no modern shopfronts, no modern street lamps, no text, no letters, no symbols.
 
 ### Sidobild
 
