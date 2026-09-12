@@ -49,10 +49,10 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Sidobild
 
-- **Motiv:** Three people stand calmly side by side just outside a small market, seen from a respectful distance: a priest in a plain dark robe, a noble in fine embroidered clothing, and a farmer in simple work clothes holding a loaf of bread. The picture explains the word estate. Production note: no confrontation between the three figures, no readable text on clothing or signs, no coats of arms, calm neutral mood, faces ordinary and not resembling any real person.
+- **Motiv:** Three people stand calmly side by side just outside a small market, seen from a respectful distance: a priest in a plain dark robe, a noble in fine embroidered clothing, and a farmer in simple work clothes holding a loaf of bread. The picture explains the word estate. Production note: all three figures in 1780s dress, the noble in a silk coat, waistcoat and breeches, the priest in a black cassock with white bands, no Renaissance or medieval costume; no confrontation between the three figures, no readable text on clothing or signs, no coats of arms, calm neutral mood, faces ordinary and not resembling any real person.
 - **Bildtext:** *Priests, nobles, and everyone else. Society here has three big groups.*
 - **Shutterstock-sökning:** `priest noble farmer standing together eighteenth century market illustration`
-- **AI-prompt (alternativ):** Vertical historical illustration of three people standing calmly side by side outside a small market: a priest in a plain dark robe, a noble in fine embroidered clothing, and a farmer in simple work clothes holding a loaf of bread, soft daylight, calm neutral mood, ordinary generic faces, no confrontation, no coats of arms, no text, no letters.
+- **AI-prompt (alternativ):** Vertical historical illustration of three men standing calmly side by side outside a small market in France in the 1780s: on the left a priest in a plain black cassock with small white bands at the collar, in the middle a noble in a fine embroidered silk coat, long embroidered waistcoat, lace jabot, knee breeches, white silk stockings and buckled shoes, powdered hair tied back with a black ribbon, on the right a farmer in a coarse linen shirt, waistcoat and breeches holding a loaf of bread, soft daylight, calm neutral mood, ordinary generic faces, no confrontation, no beret, no doublet, no Renaissance clothing, no coats of arms, no signs, no text, no letters.
 
 ---
 
@@ -99,10 +99,10 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 
 ### Sidobild
 
-- **Motiv:** A closed carriage stopped at night at a small town gate, two guards raise lanterns to the carriage window and door, warm lantern light against the dark. The picture explains the word flee. Production note: no faces of the carriage's passengers are visible, no coats of arms on the carriage, no papers or documents in the scene, no readable text anywhere, calm tense mood without violence.
+- **Motiv:** A closed carriage stopped at night at a small town gate, two guards raise lanterns to the carriage window and door, warm lantern light against the dark. The picture explains the word flee. Production note: guards in 1791 militia dress with tricorns, long coats and slung muskets under a plain stone arch, no helmets, halberds, portcullis or half-timbered houses; no faces of the carriage's passengers are visible, no coats of arms on the carriage, no papers or documents in the scene, no readable text anywhere, calm tense mood without violence.
 - **Bildtext:** *A carriage is stopped at night, far from Paris.*
 - **Shutterstock-sökning:** `carriage stopped night town gate guards lanterns illustration`
-- **AI-prompt (alternativ):** Atmospheric vertical illustration of a closed carriage stopped at night at a small town gate, two guards raising lanterns to the carriage window and door, warm lantern light against dark surroundings, calm tense mood, no visible passengers, no coats of arms, no papers, no text, no letters.
+- **AI-prompt (alternativ):** Atmospheric vertical illustration of a closed travelling carriage stopped at night under a plain stone arch of a small French town gate in the 1790s, two town militiamen in long dark coats, tricorn hats and gaiters, muskets slung on their backs, one raising a single lantern to the curtained carriage window and the other holding a single lantern at the closed door, warm lantern light against dark wet cobblestones and simple stone houses, calm tense mood, no helmets, no halberds, no swords, no portcullis, no visible passengers, no coats of arms, no papers, no text, no letters.
 
 ---
 
