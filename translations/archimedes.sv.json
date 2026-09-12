@@ -1,0 +1,224 @@
+{
+  "slug": "archimedes",
+  "person_sv": "Arkimedes",
+  "cards": [
+    {
+      "title": "Mannen som älskar former och tal",
+      "text_sentences": [
+        "Herr X bor i en grekisk stad vid havet.",
+        "Staden heter Syrakusa, på ön Sicilien.",
+        "Han älskar former och tal mer än nästan allting.",
+        "Han ritar cirklar och trianglar i sanden.",
+        "Bönder behöver lyfta vatten upp till sina torra fält.",
+        "Herr X bygger en smart maskin: en lång skruv inuti ett rör.",
+        "När du vrider skruven stiger vattnet högre och högre.",
+        "En känd berättelse säger att han flyttar ett enormt skepp nästan ensam.",
+        "Han drar det med rep och många hjul som snurrar.",
+        "Han förklarar också hävstången, en lång stång med ett stöd under den.",
+        "En berättelse säger att han gör ett djärvt påstående om den.",
+        "Med en tillräckligt lång hävstång och en plats att stå på skulle han kunna flytta hela jorden."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Pythagoras",
+        "Arkimedes",
+        "Euklides",
+        "Heron från Alexandria"
+      ],
+      "words": [
+        {
+          "word": "skruv",
+          "explanation": "en bit av metall eller trä som snurrar runt och runt och flyttar saker när den snurrar"
+        },
+        {
+          "word": "rör",
+          "explanation": "ett långt, runt föremål som är tomt inuti"
+        },
+        {
+          "word": "hävstång",
+          "explanation": "en stång som hjälper dig att lyfta eller flytta tunga saker"
+        },
+        {
+          "word": "enorm",
+          "explanation": "mycket, mycket stor"
+        }
+      ],
+      "main_caption": "En skruv inuti ett rör lyfter upp vatten från floden.",
+      "side_caption": "En lång stång och en liten sten kan lyfta en tung sten."
+    },
+    {
+      "title": "Badet, kronan och skeppen från Rom",
+      "text_sentences": [
+        "Herr X bor i den grekiska staden Syrakusa, på Sicilien.",
+        "En kung ber honom kontrollera om en ny krona är rent guld.",
+        "En känd berättelse säger att han hittar svaret i sitt bad.",
+        "Han ser vattnet stiga när han kliver ner i badkaret.",
+        "Guld är mycket tungt för sin storlek, så rent guld tar liten plats.",
+        "En krona av rent guld tränger undan mindre vatten än en blandad krona med samma vikt.",
+        "Hans idéer om vatten förklarar också varför vissa saker flyter och andra sjunker.",
+        "Flera år senare anfaller skepp från Rom hans hemstad.",
+        "Herr X bygger enorma maskiner för att hjälpa till att försvara murarna.",
+        "Långa armar av trä svänger ut och släpper stenar på skeppen.",
+        "År 212 f.Kr. tar sig romerska soldater till slut in i staden.",
+        "En soldat dödar herr X, även om generalen vill ha honom vid liv."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Arkimedes",
+        "Thales",
+        "Eratosthenes",
+        "Ptolemaios"
+      ],
+      "words": [
+        {
+          "word": "krona",
+          "explanation": "en ring av guld som en kung eller en drottning bär på huvudet"
+        },
+        {
+          "word": "ren",
+          "explanation": "inte blandat med något annat"
+        },
+        {
+          "word": "försvara",
+          "explanation": "att slåss för att skydda en plats mot angrepp"
+        },
+        {
+          "word": "general",
+          "explanation": "ledaren för en armé"
+        }
+      ],
+      "main_caption": "Enorma maskiner på murarna släpper stenar på skeppen nedanför.",
+      "side_caption": "Vattnet stiger och rinner över när något går ner i badkaret."
+    },
+    {
+      "title": "Ett tal fångat mellan två bråk",
+      "text_sentences": [
+        "Herr X bor i den grekiska staden Syrakusa på 200-talet f.Kr.",
+        "Han vill veta värdet på ett speciellt tal: pi.",
+        "Pi berättar hur långt det är runt en cirkel, jämfört med dess bredd.",
+        "Han ritar månghörningar precis innanför och precis utanför en cirkel.",
+        "Fler sidor gör att varje form kommer närmare en riktig, rund cirkel.",
+        "Med den här metoden fångar han pi mellan två mycket nära bråk.",
+        "Han studerar också ett klot som passar tätt inuti ett rörformat block.",
+        "Blocket är exakt lika högt som det är brett.",
+        "Han bevisar att klotets volym är två tredjedelar av blockets volym.",
+        "Han är så stolt över det här beviset att han vill ha det på sin grav.",
+        "Långt efter hans död hittar en romersk författare vid namn Cicero graven.",
+        "Den förlorade graven är precis som herr X önskade, med formerna inristade på den."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Euklides",
+        "Hipparchos",
+        "Arkimedes",
+        "Apollonios"
+      ],
+      "words": [
+        {
+          "word": "pi",
+          "explanation": "ett speciellt tal som används för att mäta cirklar"
+        },
+        {
+          "word": "volym",
+          "explanation": "hur mycket plats det finns inuti en form"
+        },
+        {
+          "word": "bevis",
+          "explanation": "fakta och steg som visar att en idé måste vara sann"
+        },
+        {
+          "word": "grav",
+          "explanation": "en plats där en död person är begravd"
+        }
+      ],
+      "main_caption": "En cirkel ligger tätt mellan två månghörningar.",
+      "side_caption": "Ett klot passar tätt inuti ett rörformat block av sten."
+    },
+    {
+      "title": "Att räkna sandkornen i världen",
+      "text_sentences": [
+        "Herr X bor i Syrakusa, en grekisk stad på Sicilien, på 200-talet f.Kr.",
+        "Vissa säger att ingen kan räkna alla sandkorn i världen.",
+        "Herr X håller inte med och uppfinner ett nytt sätt att skriva enorma tal.",
+        "Med sin metod räknar han sandkorn som skulle kunna fylla hela universum.",
+        "Han skriver ner den här idén i en bok till kungens son.",
+        "Han skickar också brev med nya matematiska idéer till lärda i Alexandria.",
+        "I ett brev ber han de lärda bevisa hans påståenden själva.",
+        "Många av breven och böckerna finns kvar, kopierade om och om igen genom tiden.",
+        "Senare författare lägger till dramatiska berättelser om honom.",
+        "En berättelse säger att han bränner fiendens skepp med speglar under ett krig.",
+        "Det är en sen berättelse som många historiker tvivlar på."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Eratosthenes",
+        "Ptolemaios",
+        "Hypatia",
+        "Arkimedes"
+      ],
+      "words": [
+        {
+          "word": "sandkorn",
+          "explanation": "en av de allra minsta bitarna av sand"
+        },
+        {
+          "word": "universum",
+          "explanation": "hela rymden, med alla stjärnor och alla världar"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar och lär sig på djupet"
+        },
+        {
+          "word": "påstående",
+          "explanation": "något som en person säger är sant"
+        }
+      ],
+      "main_caption": "Han skriver ner sina djärvaste idéer om enorma tal och stjärnorna.",
+      "side_caption": "Otaliga små sandkorn, fler än någon kan räkna för hand."
+    },
+    {
+      "title": "En förlorad bok gömd under en bönbok",
+      "text_sentences": [
+        "Herr X är en grekisk matematiker från Syrakusa, på 200-talet f.Kr.",
+        "Mer än tusen år efter hans död kopierar en skrivare hans böcker för hand.",
+        "På 1200-talet behöver munkar pergament och skrapar rent den här kopian.",
+        "De skriver en bönbok över den svaga, gamla matematiska texten.",
+        "I århundraden vet ingen att hans förlorade bok fortfarande gömmer sig under.",
+        "År 1906 hittar en lärd person den gömda boken och läser en del av den.",
+        "Ungefär hundra år senare använder forskare modernt ljus och avbildningsverktyg.",
+        "De läser sidor som är alldeles för svaga för det mänskliga ögat att se.",
+        "En dold text förklarar en metod: att skära former i otaliga tunna skivor.",
+        "Den här metoden kommer mycket nära en stor matematisk idé som utvecklas mycket senare.",
+        "Historiker måste nu skilja hans riktiga, dokumenterade arbete från senare, dramatiska legender."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Apollonios",
+        "Heron från Alexandria",
+        "Hipparchos",
+        "Arkimedes"
+      ],
+      "words": [
+        {
+          "word": "skrivare",
+          "explanation": "en person vars jobb är att kopiera text för hand"
+        },
+        {
+          "word": "skrapa",
+          "explanation": "att gnugga något hårt för att ta bort det översta lagret"
+        },
+        {
+          "word": "pergament",
+          "explanation": "ett material gjort av djurskinn, använt som papper för att skriva på"
+        },
+        {
+          "word": "svag",
+          "explanation": "mycket otydlig och svår att se"
+        }
+      ],
+      "main_caption": "En munk skrapar rent en gammal sida för att skriva en ny bönbok.",
+      "side_caption": "Modernt ljus avslöjar skrift som har varit gömd i århundraden."
+    }
+  ]
+}
