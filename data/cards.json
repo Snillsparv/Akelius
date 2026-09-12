@@ -17582,6 +17582,50 @@
             "caption": "Traders must pay the king a tax on goods such as tea, glass, and paper.",
             "shutterstock_query": "colonial customs officer harbor table coins crates barrels illustration",
             "ai_prompt": "Vertical historical illustration of a colonial customs officer in plain civilian eighteenth-century dress, a brown wool coat, waistcoat and a simple black tricorn hat, no uniform, no epaulettes, no gold lace, seated at a small wooden table on a wooden harbor quay in a North American colonial port around 1770, brick and clapboard warehouses with gabled roofs and a wooden wharf behind him, a merchant in a plain coat and tricorn hat handing over a few coins, a closed leather ledger and a small locked iron strongbox on the table, stacked plain wooden crates and barrels beside them, warm daylight, calm everyday mood, generic faces, no readable text, no numbers, no letters."
+          },
+          "sv": {
+            "title": "Te i hamnen",
+            "text_sentences": [
+              "Revolutionen X börjar för ungefär 250 år sedan.",
+              "Tretton kolonier ligger på Nordamerikas östkust.",
+              "Nybyggarna där lever under en kung som styr långt bortifrån.",
+              "Hans land har just avslutat ett långt, dyrt krig.",
+              "Han behöver pengar, så hans parlament lägger nya skatter på kolonierna.",
+              "Kolonisterna har ingen röst i hans avlägsna parlament.",
+              "”Ingen skatt utan representation”, säger de.",
+              "En kall natt går kolonister ombord på tre skepp i Bostons hamn.",
+              "De bryter upp kistor med te och häller teet i vattnet.",
+              "Kungens regering svarar med hårda nya lagar.",
+              "Ilskan sprider sig nu snabbt över alla tretton kolonierna."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Ärorika revolutionen",
+              "Amerikanska revolutionen",
+              "Franska revolutionen",
+              "Industriella revolutionen"
+            ],
+            "correct": "Amerikanska revolutionen",
+            "words": [
+              {
+                "word": "kolonier",
+                "explanation": "länder som styrs av ett annat, avlägset land"
+              },
+              {
+                "word": "parlament",
+                "explanation": "en grupp människor som bestämmer lagarna i ett land"
+              },
+              {
+                "word": "skatter",
+                "explanation": "pengar som människor måste betala till sin regering"
+              },
+              {
+                "word": "representation",
+                "explanation": "att ha någon som talar och röstar för dig"
+              }
+            ],
+            "main_caption": "På natten går kolonister ombord på skeppen i hamnen.",
+            "side_caption": "Handlare måste betala kungen en skatt på varor som te, glas och papper."
           }
         },
         {
@@ -17638,6 +17682,50 @@
             "caption": "A reader announces the new declaration to the town.",
             "shutterstock_query": "town square reading proclamation crowd colonial illustration",
             "ai_prompt": "Vertical historical illustration of a small colonial town square, a man in plain clothes reading aloud from a sheet of paper to a modest crowd of townspeople, seen from the side so the sheet is edge-on to the viewer, warm daylight, calm attentive mood, no flags, no symbols, no readable text, no letters."
+          },
+          "sv": {
+            "title": "En förklaring, och ett krig",
+            "text_sentences": [
+              "Revolutionen X övergår i fullt krig för ungefär 250 år sedan.",
+              "Kolonister tar till vapen mot kungens soldater.",
+              "En lång general från Virginia leder kolonisternas armé.",
+              "Representanter från alla tretton kolonier möts.",
+              "År 1776 förklarar de sig självständiga från kungen.",
+              "Deras självständighetsförklaring slår fast att ”alla människor är skapade lika”.",
+              "Ändå lever ungefär var femte person i kolonierna förslavad.",
+              "Förklaringen befriar dem inte.",
+              "En del kolonister är emot upproret och förblir lojala mot kungen.",
+              "Den nya nationen måste nu vinna sin självständighet i krig.",
+              "Kungens armé är stark, och kriget varar i flera år."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Ryska revolutionen",
+              "Haitiska revolutionen",
+              "Amerikanska revolutionen",
+              "Ärorika revolutionen"
+            ],
+            "correct": "Amerikanska revolutionen",
+            "words": [
+              {
+                "word": "representanter",
+                "explanation": "människor som väljs för att tala och agera för en grupp"
+              },
+              {
+                "word": "självständighetsförklaring",
+                "explanation": "ett papper som säger tydligt och officiellt att ett land inte längre lyder under kungen"
+              },
+              {
+                "word": "förslavad",
+                "explanation": "tvingad att arbeta utan lön och utan frihet"
+              },
+              {
+                "word": "lojal",
+                "explanation": "trogen mot någon, till exempel mot en kung"
+              }
+            ],
+            "main_caption": "Bönder och arbetare blir soldater nästan över en natt.",
+            "side_caption": "En uppläsare läser upp den nya förklaringen för stadens folk."
           }
         },
         {
@@ -17695,6 +17783,51 @@
             "caption": "A family that stays true to the king must now leave its home.",
             "shutterstock_query": "colonial family loading cart leaving home illustration eighteenth century",
             "ai_prompt": "Vertical historical illustration of a family in plain eighteenth-century clothes loading bundles and a small wooden chest onto a horse cart outside a modest house, one figure looking back toward the house, light rain beginning to fall, somber calm mood, no flags, no text, no letters."
+          },
+          "sv": {
+            "title": "Vems frihet?",
+            "text_sentences": [
+              "Revolutionen X lovar kolonierna frihet.",
+              "Men den friheten är inte lika för alla.",
+              "De flesta förslavade människor får ingenting av den nya friheten.",
+              "Några stater i norr börjar sakta avskaffa slaveriet, men staterna i söder behåller det.",
+              "Fria kvinnor stödjer saken med pengar, brev och till och med hemligt spioneri.",
+              "Ändå får nästan ingen kvinna rösträtt.",
+              "Lojalister, som vill förbli under kungen, blir utstötta över en natt.",
+              "Tiotusentals ger sig av till Kanada eller Storbritannien och förlorar mark och egendom.",
+              "De flesta urfolk i gränstrakterna står på kungens sida under kriget.",
+              "De fruktar att självständiga nybyggare ska ta ännu mer av deras mark.",
+              "Efter kriget besannas den rädslan om och om igen.",
+              "Så blir de enas frihet de andras förlust."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Amerikanska revolutionen",
+              "Mexikanska revolutionen",
+              "Industriella revolutionen",
+              "Haitiska revolutionen"
+            ],
+            "correct": "Amerikanska revolutionen",
+            "words": [
+              {
+                "word": "frihet",
+                "explanation": "rätten att leva och välja som du själv vill"
+              },
+              {
+                "word": "lojalister",
+                "explanation": "människor som förblir trogna den gamla kungen"
+              },
+              {
+                "word": "gränstrakterna",
+                "explanation": "kanten av det bebyggda landet, nära vildmarken bortom"
+              },
+              {
+                "word": "egendom",
+                "explanation": "mark eller saker som en person äger"
+              }
+            ],
+            "main_caption": "Bara vissa får rösta på den nya nationens ledare.",
+            "side_caption": "En familj som förblir trogen kungen måste nu lämna sitt hem."
           }
         },
         {
@@ -17752,6 +17885,51 @@
             "caption": "Helping a war far away costs a fortune at home.",
             "shutterstock_query": "open empty iron bound royal chest candlelit palace room eighteenth century",
             "ai_prompt": "Vertical historical illustration of a large iron-bound royal chest standing open and almost empty in a grand candlelit eighteenth-century room, a few coins at the bottom, no people, warm candlelight, quiet tense mood, no coats of arms, no readable text, no numbers, no letters."
+          },
+          "sv": {
+            "title": "En dyr räddning till sjöss",
+            "text_sentences": [
+              "Efter två års krig går revolutionen X dåligt för kolonierna.",
+              "Kolonisternas armé förlorar strid efter strid.",
+              "Den har ofta ont om mat, lön och förnödenheter.",
+              "Sedan vinner kolonisterna ett stort slag i norr.",
+              "Nu bestämmer sig Frankrike för att hjälpa till, delvis för att försvaga sin gamla rival på andra sidan havet.",
+              "Året därpå anländer franska skepp, soldater, vapen och pengar.",
+              "Tre år senare stänger franska krigsskepp in kungens armé nära kusten.",
+              "Omringad både till lands och till sjöss kapitulerar den armén till slut.",
+              "Kolonierna har nu vunnit sitt krig.",
+              "Men hjälpen kostar den franske kungen enorma summor pengar.",
+              "Hans skattkammare hamnar ännu djupare i skuld.",
+              "Den kungliga skulden bidrar snart till allvarliga problem också där hemma."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Mexikanska revolutionen",
+              "Amerikanska revolutionen",
+              "Ryska revolutionen",
+              "Ärorika revolutionen"
+            ],
+            "correct": "Amerikanska revolutionen",
+            "words": [
+              {
+                "word": "rival",
+                "explanation": "ett land eller en person som tävlar mot någon annan"
+              },
+              {
+                "word": "kapitulerar",
+                "explanation": "slutar strida och erkänner sig besegrad"
+              },
+              {
+                "word": "skattkammare",
+                "explanation": "pengarna och rikedomarna som en regering eller en kung har makt över"
+              },
+              {
+                "word": "skuld",
+                "explanation": "pengar som du är skyldig och måste betala tillbaka"
+              }
+            ],
+            "main_caption": "Krigsskepp blockerar floden. Ingen kan fly sjövägen.",
+            "side_caption": "Hjälp till ett krig långt borta kostar en förmögenhet där hemma."
           }
         },
         {
@@ -17809,9 +17987,55 @@
             "caption": "A new agreement becomes official once it is sealed.",
             "shutterstock_query": "hand wax seal parchment document candlelight closeup",
             "ai_prompt": "Photorealistic close-up of a hand pressing a wax seal onto a rolled parchment document on a dark wooden table, warm candlelight, soft shadow filling the rest of the room, quiet formal mood, no readable text, no letters."
+          },
+          "sv": {
+            "title": "En revolutions långa eko",
+            "text_sentences": [
+              "Historiker tvistar fortfarande om den verkliga betydelsen av revolutionen X.",
+              "Är det en äkta revolution, eller bara ett byte av härskare?",
+              "Den nya republiken ersätter en avlägsen kung med valda ledare.",
+              "Ändå växer plantageslaveriet i årtionden efteråt.",
+              "Religionsfrihet och pressfrihet blir lag, nya idéer för sin tid.",
+              "En skriven konstitution, ratificerad på 1780-talet, formar fortfarande styret i dag.",
+              "Dess tidiga historia bygger på brev, dagböcker och militära uppteckningar, många bevarade av en slump.",
+              "Redan samtidens tidningar berättar historien på olika sätt, beroende på vem som trycker dem.",
+              "En generation senare inspirerar idén nya kämpar långt söderut.",
+              "I de spanska kolonierna i söder läser en general vid namn Simón Bolívar om upproret i norr.",
+              "Han leder flera års krig för att hans eget hemland också ska bli självständigt.",
+              "Så ekar en revolutions ord över en hel kontinent, långt efter att revolutionen X själv är över."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Franska revolutionen",
+              "Industriella revolutionen",
+              "Amerikanska revolutionen",
+              "Haitiska revolutionen"
+            ],
+            "correct": "Amerikanska revolutionen",
+            "words": [
+              {
+                "word": "ratificerad",
+                "explanation": "officiellt godkänd och accepterad"
+              },
+              {
+                "word": "republiken",
+                "explanation": "ett land som leds av valda ledare, inte av en kung"
+              },
+              {
+                "word": "inspirerar",
+                "explanation": "ger någon annan en ny idé eller vilja att handla"
+              },
+              {
+                "word": "hemland",
+                "explanation": "landet där en person är född och hör hemma"
+              }
+            ],
+            "main_caption": "Långt söderut, årtionden senare, korsar nya kämpar bergen för sin egen frihet.",
+            "side_caption": "En ny överenskommelse blir officiell när den förseglas."
           }
         }
-      ]
+      ],
+      "person_sv": "Amerikanska revolutionen"
     },
     {
       "slug": "george-washington",
@@ -17868,6 +18092,47 @@
             "caption": "Before he leads an army, young General X works as a surveyor.",
             "shutterstock_query": "young surveyor forest colonial era measuring chain tripod distance",
             "ai_prompt": "Photorealistic vertical illustration of a young man in plain eighteenth century clothes standing alone in a sunlit forest clearing, seen from a distance with his back turned, holding a long measuring chain and a simple wooden survey instrument on a tripod, tall trees and wild untouched land around him, calm daylight, no visible face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Generalen som inte ger upp",
+            "text_sentences": [
+              "General X växer upp på en gård i Virginia.",
+              "Som ung man arbetar han som lantmätare.",
+              "Hans jobb är att gå genom skogar och mäta upp vild mark.",
+              "Flera år senare gör tretton kolonier i Nordamerika uppror mot den brittiske kungen.",
+              "Ledarna utser general X att leda deras nya armé.",
+              "Hans soldater är mest bönder, inte tränade soldater.",
+              "I många tidiga strider måste hans armé retirera.",
+              "En iskall julnatt korsar han en flod full av is i mörkret.",
+              "Hans trötta män vinner en liten strid tidigt nästa morgon.",
+              "Nästa vinter slår hans armé läger i kyla och lera, med lite mat.",
+              "Omkring tvåtusen av hans soldater dör av sjukdom och kyla den vintern.",
+              "General X stannar hos sina män, och armén håller ihop."
+            ],
+            "question": "Vem är general X?",
+            "options": [
+              "Napoleon Bonaparte",
+              "George Washington",
+              "Simón Bolívar",
+              "Alexander Hamilton"
+            ],
+            "correct": "George Washington",
+            "words": [
+              {
+                "word": "lantmätare",
+                "explanation": "en person vars jobb är att mäta och rita kartor över mark"
+              },
+              {
+                "word": "kolonier",
+                "explanation": "länder som styrs av ett land långt bort, på andra sidan havet"
+              },
+              {
+                "word": "retirera",
+                "explanation": "att dra sig tillbaka från en strid, inte gå framåt"
+              }
+            ],
+            "main_caption": "En iskall natt korsar general X och hans män en flod full av is i hemlighet.",
+            "side_caption": "Innan han leder en armé arbetar den unge general X som lantmätare."
           }
         },
         {
@@ -17925,6 +18190,51 @@
             "caption": "A brand new capital city slowly rises beside a wide river.",
             "shutterstock_query": "unfinished capital city construction river distant hill eighteenth century",
             "ai_prompt": "Photorealistic vertical view from a hill at a distance of a wide river with a half built city on its muddy banks, government buildings in scaffolding with plain unfinished walls and no domes, tiny distant workers, soft morning light, hopeful quiet mood, no obelisk shaped monument, no readable signs, no text, no letters, no flag."
+          },
+          "sv": {
+            "title": "Generalen som lämnar tillbaka sitt befäl",
+            "text_sentences": [
+              "Herr X leder tretton kolonier i ett långt krig mot deras brittiske kung.",
+              "Nära krigets slut skriver en av hans officerare ett brev till honom.",
+              "Officeren föreslår att herr X ska bli kung.",
+              "Herr X vägrar genast, arg över idén.",
+              "Kolonierna vinner kriget, med viktig hjälp från Frankrike.",
+              "Många förväntar sig att herr X ska bli den mäktigaste mannen i landet.",
+              "I stället går han i uniform till de nya lagstiftarna och lämnar tillbaka sin fullmakt.",
+              "Han ger upp all sin makt och åker hem till sin gård.",
+              "I hela Europa häpnar människor: en segrande general som inte vill styra.",
+              "Några år senare väljer ledarna honom till landets förste president.",
+              "Efter två mandatperioder avgår han och åker hem igen.",
+              "I dag bär landets huvudstad hans namn."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "John Adams",
+              "Thomas Jefferson",
+              "George Washington",
+              "Benjamin Franklin"
+            ],
+            "correct": "George Washington",
+            "words": [
+              {
+                "word": "fullmakt",
+                "explanation": "det officiella papper som ger en officer hans rang och befäl"
+              },
+              {
+                "word": "mandatperiod",
+                "explanation": "en bestämd tidsperiod i ett jobb som president"
+              },
+              {
+                "word": "huvudstad",
+                "explanation": "landets viktigaste stad, där ledarna arbetar"
+              },
+              {
+                "word": "vägra",
+                "explanation": "att säga nej, och mena det"
+              }
+            ],
+            "main_caption": "När kriget är vunnet lämnar herr X tillbaka sitt befäl till lagstiftarna.",
+            "side_caption": "En helt ny huvudstad växer långsamt fram vid en bred flod."
           }
         },
         {
@@ -17978,6 +18288,47 @@
             "caption": "Ona escapes by ship, and she never lets herself be brought back.",
             "shutterstock_query": "harbor night small sailing sloop lone woman walking gangway lantern light",
             "ai_prompt": "Atmospheric vertical illustration of a quiet harbor at night, a small one-masted sailing ship at the dock with its sail half raised, a single small figure of a woman in a plain dress walking alone toward the gangway seen from behind at a distance with no visible face, warm lantern light reflected on the water, calm hopeful mood, no readable ship name, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En gård byggd på slaveri",
+            "text_sentences": [
+              "Herr X äger en stor gård som heter Mount Vernon, i Virginia.",
+              "Hundratals förslavade människor bor och arbetar där, tvingade och obetalda.",
+              "Herr X äger personligen fler än hundra av dessa människor.",
+              "En förslavad kvinna som heter Ona arbetar som hans hustrus personliga tjänarinna.",
+              "Medan herr X tjänstgör som landets förste president planerar Ona sin flykt.",
+              "Hon flyr norrut till en stad och återvänder aldrig.",
+              "Herr X anstränger sig hårt för att hitta henne och föra henne tillbaka.",
+              "Ona fångas aldrig in.",
+              "Hon lever fri i en stad i norr resten av sitt liv.",
+              "I sitt testamente ger herr X en order: frige de människor jag äger.",
+              "Men testamentet skjuter upp detta tills hans hustru också dör.",
+              "Historiker ser honom som både en grundare och en slavägare."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "George Washington",
+              "Thomas Jefferson",
+              "Abraham Lincoln",
+              "Benjamin Franklin"
+            ],
+            "correct": "George Washington",
+            "words": [
+              {
+                "word": "förslavad",
+                "explanation": "tvingad att arbeta utan lön och utan frihet, som egendom"
+              },
+              {
+                "word": "testamente",
+                "explanation": "ett papper som säger vad som händer med en persons saker när personen dör"
+              },
+              {
+                "word": "flykt",
+                "explanation": "när någon kommer undan och blir fri"
+              }
+            ],
+            "main_caption": "Hundratals förslavade människor arbetar på fälten på herr X:s stora gård.",
+            "side_caption": "Ona flyr med ett skepp, och hon låter sig aldrig föras tillbaka."
           }
         },
         {
@@ -18031,6 +18382,47 @@
             "caption": "In the rain, young Mr X must surrender a small wooden fort.",
             "shutterstock_query": "small wooden stockade fort meadow rain soldiers marching out distance eighteenth century",
             "ai_prompt": "Atmospheric vertical illustration of a small round wooden stockade fort in a wet green meadow ringed by forest, seen from a distance in heavy rain, a column of tired soldiers in plain coats filing out through the gate with muskets shouldered, a second group in different uniforms waiting at the edge of the woods, grey rainy light, no flags, no visible faces, no blood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett skott i skogen, en värld i krig",
+            "text_sentences": [
+              "Som ung officer tjänstgör herr X åt britterna i Nordamerika.",
+              "Storbritannien och Frankrike vill båda ha samma skogsmark, längre västerut.",
+              "Herr X och hans allierade bland urfolken leder en liten grupp in i skogen.",
+              "I en kort, plötslig strid dödas flera franska soldater.",
+              "Några veckor senare måste den unge herr X ge upp ett litet fort till franska styrkor.",
+              "Denna lilla sammandrabbning i skogen bidrar till att starta ett mycket större krig.",
+              "Snart slåss Storbritannien och Frankrike mot varandra på flera kontinenter.",
+              "Flera år senare gör kolonierna uppror, och herr X leder deras nya armé.",
+              "Nu blir Frankrike hans viktigaste allierade mot den brittiske kungen.",
+              "Nära en kuststad stänger herr X och franska trupper in en brittisk armé.",
+              "En fransk flotta blockerar havet, så ingen kan fly sjövägen.",
+              "Den instängda armén kapitulerar, och Storbritannien börjar snart söka fred."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Napoleon Bonaparte",
+              "Alexander Hamilton",
+              "John Adams",
+              "George Washington"
+            ],
+            "correct": "George Washington",
+            "words": [
+              {
+                "word": "allierad",
+                "explanation": "ett land eller en grupp som slåss på din sida"
+              },
+              {
+                "word": "kapitulera",
+                "explanation": "att sluta slåss och erkänna nederlag"
+              },
+              {
+                "word": "flotta",
+                "explanation": "en stor grupp krigsskepp som seglar tillsammans"
+              }
+            ],
+            "main_caption": "I en dimmig skog startar en liten strid ett mycket stort krig.",
+            "side_caption": "I regnet måste den unge herr X ge upp ett litet fort av trä."
           }
         },
         {
@@ -18084,9 +18476,51 @@
             "caption": "Historians rebuild the truer picture from old letters and account books.",
             "shutterstock_query": "old closed ledgers bundle folded letters faded ribbon archive table",
             "ai_prompt": "Photorealistic vertical still life of a wooden table with a stack of old bound ledgers all closed and a bundle of letters folded with their blank backs outward, tied crosswise with faded ribbon so no writing surface shows, soft light from an archive window, quiet studious mood, no people, no readable text, no letters, no numbers, no handwriting."
+          },
+          "sv": {
+            "title": "Körsbärsträdet som aldrig fanns",
+            "text_sentences": [
+              "Herr X dör i slutet av sjuttonhundratalet.",
+              "Några år senare publicerar en predikant och författare en kort bok om honom.",
+              "Boken berättar en söt historia: den unge herr X skadar ett körsbärsträd.",
+              "När hans far frågar vem som gjorde det, säger pojken: ”jag kan inte ljuga”.",
+              "Inget brev, ingen dagbok och inget vittne från herr X:s egen livstid nämner denna historia.",
+              "Historiker är överens: författaren hittar med största sannolikhet på hela scenen.",
+              "Ändå lär sig generationer av barn historien som om den vore sann.",
+              "Den nya nationen vill ha en perfekt hjälte som grundare, ärlig och modig.",
+              "Historiker studerar i stället hans brev och räkenskapsböcker.",
+              "Dessa sidor antecknar dagliga detaljer, från sålda skördar till spenderade pengar.",
+              "Utifrån små, torra fakta bygger historiker sakta upp en sannare bild av hans liv.",
+              "Denna bild är mindre enkel än historien om körsbärsträdet."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Abraham Lincoln",
+              "George Washington",
+              "Thomas Jefferson",
+              "John Adams"
+            ],
+            "correct": "George Washington",
+            "words": [
+              {
+                "word": "hitta på",
+                "explanation": "att skapa något som inte är sant eller verkligt"
+              },
+              {
+                "word": "vittne",
+                "explanation": "en person som ser en händelse hända och kan berätta om den"
+              },
+              {
+                "word": "generationer",
+                "explanation": "grupper av människor födda och levande vid ungefär samma tid"
+              }
+            ],
+            "main_caption": "En författare hittar på en söt historia om en pojke och ett körsbärsträd.",
+            "side_caption": "Historiker bygger upp den sannare bilden utifrån gamla brev och räkenskapsböcker."
           }
         }
-      ]
+      ],
+      "person_sv": "George Washington"
     },
     {
       "slug": "french-revolution",
@@ -18147,6 +18581,51 @@
             "caption": "Priests, nobles, and everyone else. Society here has three big groups.",
             "shutterstock_query": "priest noble farmer standing together eighteenth century market illustration",
             "ai_prompt": "Vertical historical illustration of three people standing calmly side by side outside a small market: a priest in a plain dark robe, a noble in fine embroidered clothing, and a farmer in simple work clothes holding a loaf of bread, soft daylight, calm neutral mood, ordinary generic faces, no confrontation, no coats of arms, no text, no letters."
+          },
+          "sv": {
+            "title": "För lite bröd",
+            "text_sentences": [
+              "Revolutionen X börjar i Frankrike år 1789, för nästan 240 år sedan.",
+              "Dåliga skördar gör brödet mycket dyrt.",
+              "Fattiga familjer kan inte köpa tillräckligt med mat.",
+              "Samhället här har tre stora grupper, som kallas stånd.",
+              "Det första ståndet är präster, och det andra är adelsmän.",
+              "Det tredje ståndet är alla andra, nästan alla människor.",
+              "Det tredje ståndet betalar nästan alla skatter.",
+              "Ilskan växer över hunger och orättvisa skatter.",
+              "I Paris, huvudstaden, samlas en folkmassa.",
+              "Folkmassan attackerar en gammal fästning som används som fängelse.",
+              "Bara sju fångar finns inne i den enorma byggnaden.",
+              "Folkmassan bryter sig in och tar krutet som förvaras där."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Amerikanska revolutionen",
+              "Franska revolutionen",
+              "Ryska revolutionen",
+              "Industriella revolutionen"
+            ],
+            "correct": "Franska revolutionen",
+            "words": [
+              {
+                "word": "stånd",
+                "explanation": "en av de stora samhällsgrupperna i ett gammalt kungarike"
+              },
+              {
+                "word": "adelsman",
+                "explanation": "en person född i en rik, mäktig familj"
+              },
+              {
+                "word": "fästning",
+                "explanation": "en stark byggnad som är byggd för att stå emot anfall"
+              },
+              {
+                "word": "skatt",
+                "explanation": "pengar som människor måste betala till en regering"
+              }
+            ],
+            "main_caption": "I huvudstaden attackerar en folkmassa en gammal fästning som används som fängelse.",
+            "side_caption": "Präster, adelsmän och alla andra. Samhället här har tre stora grupper."
           }
         },
         {
@@ -18204,6 +18683,51 @@
             "caption": "A carriage is stopped at night, far from Paris.",
             "shutterstock_query": "carriage stopped night town gate guards lanterns illustration",
             "ai_prompt": "Atmospheric vertical illustration of a closed carriage stopped at night at a small town gate, two guards raising lanterns to the carriage window and door, warm lantern light against dark surroundings, calm tense mood, no visible passengers, no coats of arms, no papers, no text, no letters."
+          },
+          "sv": {
+            "title": "Kungen försöker fly",
+            "text_sentences": [
+              "I Frankrike är revolutionen X bara några månader gammal.",
+              "Ett nytt parlament tar makten från kungen.",
+              "Adelsmännen måste ge upp sina gamla särskilda rättigheter.",
+              "De rika måste nu också betala skatt.",
+              "Parlamentet skriver sedan en förklaring om rättigheter.",
+              "Alla människor föds fria och jämlika, står det.",
+              "Yttrandefrihet och rättvisa rättegångar blir nya rättigheter.",
+              "Några veckor senare är det fortfarande svårt att få tag på bröd i Paris.",
+              "Tusentals kvinnor marscherar till kungens slott utanför staden.",
+              "De kräver bröd, och de vill att kungen ska bo i Paris.",
+              "Han går med på det, och kungafamiljen flyttar till staden, bevakad av vakter.",
+              "Två år senare försöker kungen fly i hemlighet, men han grips."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Ärorika revolutionen",
+              "Mexikanska revolutionen",
+              "Franska revolutionen",
+              "Haitiska revolutionen"
+            ],
+            "correct": "Franska revolutionen",
+            "words": [
+              {
+                "word": "parlament",
+                "explanation": "en grupp människor som väljs för att göra lagar åt ett land"
+              },
+              {
+                "word": "förklaring",
+                "explanation": "ett officiellt skrivet uttalande som säger något tydligt"
+              },
+              {
+                "word": "vakt",
+                "explanation": "en soldat som skyddar en person eller en plats"
+              },
+              {
+                "word": "fly",
+                "explanation": "att springa bort från fara, ofta i hemlighet"
+              }
+            ],
+            "main_caption": "Tusentals kvinnor går ut ur staden för att kräva bröd.",
+            "side_caption": "En vagn stoppas på natten, långt från Paris."
           }
         },
         {
@@ -18260,6 +18784,50 @@
             "caption": "An empty throne. The old kingdom is gone.",
             "shutterstock_query": "empty gilded throne room dust sheet shuttered windows illustration",
             "ai_prompt": "Photorealistic vertical image of an empty gilded throne room, the ornate throne partly covered by a plain dust sheet, tall shuttered windows letting in narrow beams of light, dust floating in the air, quiet melancholy mood, no people, no coats of arms, no text, no letters."
+          },
+          "sv": {
+            "title": "Kungen ställs inför rätta",
+            "text_sentences": [
+              "I Frankrike tar revolutionen X bort den gamle kungens makt steg för steg.",
+              "Efter tre år avskaffar dess ledare monarkin och utropar en republik.",
+              "Den förre kungen ställs inför rätta för brott mot den nya nationen.",
+              "Strax därefter avrättar den nya republiken honom.",
+              "Rädslan för fiender, inom landet och utomlands, växer snabbt.",
+              "En period som kallas skräckväldet börjar.",
+              "Domstolar arbetar snabbt, och de dömer tusentals misstänkta fiender till döden.",
+              "Officiella register räknar omkring sjuttontusen sådana dödsfall på ett år.",
+              "Många fler dör i fängelser eller i strider runt om i landet.",
+              "En mäktig ledare, Robespierre, leder mycket av detta.",
+              "Året därpå vänder sig hans egna allierade mot honom, och även han avrättas."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Franska revolutionen",
+              "Ryska revolutionen",
+              "Amerikanska revolutionen",
+              "Haitiska revolutionen"
+            ],
+            "correct": "Franska revolutionen",
+            "words": [
+              {
+                "word": "monarki",
+                "explanation": "ett land som styrs av en kung eller en drottning"
+              },
+              {
+                "word": "republik",
+                "explanation": "en stat utan kung, ledd av valda representanter"
+              },
+              {
+                "word": "ställs inför rätta",
+                "explanation": "prövas i en domstol, som avgör om personen är skyldig"
+              },
+              {
+                "word": "avrätta",
+                "explanation": "att döda en person som ett lagligt straff"
+              }
+            ],
+            "main_caption": "Hundratals lagstiftare sitter som domstol för att döma en man som en gång stod över lagen.",
+            "side_caption": "En tom tron. Det gamla kungariket är borta."
           }
         },
         {
@@ -18317,6 +18885,51 @@
             "caption": "A woman writes her own declaration of rights.",
             "shutterstock_query": "woman writing quill candlelight desk eighteenth century illustration",
             "ai_prompt": "Warm vertical illustration of a woman in plain eighteenth-century dress sitting at a wooden desk by candlelight, writing with a quill on a sheet of paper, more blank sheets stacked beside her, calm focused expression, quiet studious mood, page blank or angled away, no readable writing, no text, no letters."
+          },
+          "sv": {
+            "title": "Ännu inte för alla",
+            "text_sentences": [
+              "Revolutionen X lovar frihet, jämlikhet och broderskap för alla.",
+              "Till en början får ändå bara vissa män rösta.",
+              "En kvinnlig författare vid namn Olympe de Gouges håller inte med.",
+              "Hon skriver sin egen förklaring om kvinnans rättigheter.",
+              "Hon kräver rösträtt och lika rättigheter även för kvinnor.",
+              "Senare angriper hon de nya ledarna i tryck.",
+              "De låter avrätta henne.",
+              "Långt bort, i kolonin Saint-Domingue, reser sig förslavade människor mot sina slavägare.",
+              "Några år senare avskaffar parlamentet i Frankrike slaveriet i landets kolonier.",
+              "Det är en av de första lagarna av sitt slag i världen.",
+              "Den nya regeringen skapar också ett nytt måttsystem.",
+              "Meter och kilogram ersätter sakta hundratals gamla lokala måttenheter."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Haitiska revolutionen",
+              "Franska revolutionen",
+              "Industriella revolutionen",
+              "Ärorika revolutionen"
+            ],
+            "correct": "Franska revolutionen",
+            "words": [
+              {
+                "word": "frihet",
+                "explanation": "rätten att leva och välja utan att andra bestämmer över dig"
+              },
+              {
+                "word": "koloni",
+                "explanation": "ett land som styrs och kontrolleras av ett annat, avlägset land"
+              },
+              {
+                "word": "avskaffa",
+                "explanation": "att avsluta något helt, särskilt genom en lag"
+              },
+              {
+                "word": "förslavad",
+                "explanation": "tvingad av andra att arbeta utan frihet eller lön"
+              }
+            ],
+            "main_caption": "I en avlägsen koloni på en ö går förslavade människor ut för att kräva sin frihet.",
+            "side_caption": "En kvinna skriver sin egen förklaring om rättigheter."
           }
         },
         {
@@ -18374,9 +18987,55 @@
             "caption": "A historian compares two old stories side by side.",
             "shutterstock_query": "historian comparing old documents desk lamp study illustration",
             "ai_prompt": "Photorealistic vertical image of a historian sitting at a small desk in a quiet study, comparing two old documents side by side under a soft lamp, one hand holding a magnifying glass, shelves of books in the background, calm focused mood, documents blank or angled away, no readable letters, no text."
+          },
+          "sv": {
+            "title": "En revolution, många berättelser",
+            "text_sentences": [
+              "Historiker tvistar fortfarande om orsakerna till revolutionen X.",
+              "Äldre historiker berättar en historia om klasskamp.",
+              "I den historien störtar en växande medelklass en trött gammal adel.",
+              "Senare historiker, kallade revisionister, ifrågasätter denna enkla bild.",
+              "De studerar pamfletter, brev och polisrapporter från Paris och landsorten.",
+              "Dessa källor visar många lokala orsaker, inte bara en stor klasskonflikt.",
+              "Politik, personliga nätverk och ren slump spelar också roll.",
+              "Historiker jämför också revolutionen X med resningen i Saint-Domingue.",
+              "Förslavade människor där använder samma ord om frihet och rättigheter.",
+              "Ändå följer deras revolution sin egen, separata väg till frihet.",
+              "Jämförelsen visar hur en revolutions ideal kan nå långt.",
+              "Varje generation av historiker ställer nya frågor till samma gamla källor."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Ryska revolutionen",
+              "Mexikanska revolutionen",
+              "Ärorika revolutionen",
+              "Franska revolutionen"
+            ],
+            "correct": "Franska revolutionen",
+            "words": [
+              {
+                "word": "pamflett",
+                "explanation": "en liten, tunn tryckt skrift som argumenterar för en idé"
+              },
+              {
+                "word": "revisionist",
+                "explanation": "en historiker som ifrågasätter och skriver om en äldre, vedertagen historia"
+              },
+              {
+                "word": "adel",
+                "explanation": "gruppen av människor som föds in i mäktiga, högt uppsatta familjer"
+              },
+              {
+                "word": "källa",
+                "explanation": "en gammal text eller sak som ger oss kunskap om det förflutna"
+              }
+            ],
+            "main_caption": "Gamla papper i ett arkiv. Historiker läser dem om och om igen.",
+            "side_caption": "En historiker jämför två gamla berättelser sida vid sida."
           }
         }
-      ]
+      ],
+      "person_sv": "Franska revolutionen"
     },
     {
       "slug": "napoleon-bonaparte",
@@ -18436,6 +19095,50 @@
             "caption": "A cannon is a big heavy gun. Young officers learn to use it well.",
             "shutterstock_query": "bronze cannon wooden carriage cannonballs armory courtyard",
             "ai_prompt": "Realistic vertical image of an old bronze cannon barrel on a wooden carriage in a stone armory courtyard, a small stack of iron cannonballs beside the wheel, soft overcast daylight, no people, no markings, no numbers, no text, no letters."
+          },
+          "sv": {
+            "title": "En pojke från en ö blir general",
+            "text_sentences": [
+              "Herr X föds på en liten ö.",
+              "Ön heter Korsika och ligger nära Italien.",
+              "Frankrike tar ön året innan han föds.",
+              "Hela sitt liv talar han landets språk med brytning.",
+              "Han lämnar hemmet som ung för att gå på en militärskola i Frankrike.",
+              "Där studerar han kartor, matematik och vetenskapen om kanoner.",
+              "Han blir officer med befäl över kanoner.",
+              "Vid den här tiden förändrar revolutionen i Frankrike allt.",
+              "Gamla regler om adlig börd och rang börjar falla.",
+              "Nu kan en soldat stiga snabbt i graderna bara genom skicklighet.",
+              "Herr X stiger mycket snabbt i graderna och blir general vid bara tjugofyra års ålder."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Napoleon Bonaparte",
+              "Julius Caesar",
+              "Karl den store",
+              "Otto von Bismarck"
+            ],
+            "correct": "Napoleon Bonaparte",
+            "words": [
+              {
+                "word": "officer",
+                "explanation": "en ledare i armén, med soldater under sitt befäl"
+              },
+              {
+                "word": "kanoner",
+                "explanation": "stora tunga vapen som skjuter järnkulor långt bort"
+              },
+              {
+                "word": "revolution",
+                "explanation": "en snabb, stor förändring av ett lands ledare och regler"
+              },
+              {
+                "word": "rang",
+                "explanation": "din nivå eller position i en armé eller grupp"
+              }
+            ],
+            "main_caption": "På en militärskola lär sig en pojke bland många att bli officer.",
+            "side_caption": "En kanon är ett stort tungt vapen. Unga officerare lär sig att använda den väl."
           }
         },
         {
@@ -18493,6 +19196,51 @@
             "caption": "This book of laws still shapes laws in many countries today.",
             "shutterstock_query": "stack leather law books wooden desk study lamp closeup",
             "ai_prompt": "Warm realistic close-up of a stack of thick leather-bound law books, closed, on an old wooden desk in a quiet study, an unlit oil lamp and a quill pen beside the stack, soft warm light, no people, all spines completely plain, no letters, no numbers, no text."
+          },
+          "sv": {
+            "title": "Mannen som kröner sig själv",
+            "text_sentences": [
+              "Först är kejsar X bara en ung general.",
+              "Efter många segrar för Frankrike tar han makten i en statskupp, nästan utan strid.",
+              "Han säljer Louisiana, ett enormt område i Nordamerika, till ett ungt land.",
+              "Några år efter statskuppen gör han sig själv till kejsare i en stor ceremoni.",
+              "I en stor kyrka i Paris står påven bredvid honom.",
+              "Men kejsar X tar kronan själv och sätter den på sitt eget huvud.",
+              "Under honom skriver jurister en ny lagbok för landet.",
+              "Den ger alla män samma regler, och tydliga regler för egendom och familj.",
+              "Kvinnor får färre rättigheter än män.",
+              "Många länder använder fortfarande idéer från denna lagbok i dag.",
+              "Hans arméer utkämpar många krig runt om i Europa.",
+              "Snart styr han över stora delar av kontinenten, direkt eller genom sin familj."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Napoleon Bonaparte",
+              "Ludvig XIV",
+              "Karl den store",
+              "George Washington"
+            ],
+            "correct": "Napoleon Bonaparte",
+            "words": [
+              {
+                "word": "statskupp",
+                "explanation": "ett plötsligt maktövertagande, ofta snabbt och som en överraskning"
+              },
+              {
+                "word": "ceremoni",
+                "explanation": "en speciell högtidlig händelse som markerar ett viktigt ögonblick"
+              },
+              {
+                "word": "kejsare",
+                "explanation": "en härskare över kungar, som styr ett mycket stort land eller många länder"
+              },
+              {
+                "word": "egendom",
+                "explanation": "saker eller mark som tillhör en person enligt lagen"
+              }
+            ],
+            "main_caption": "I en stor kyrka sätter en härskare en krona på sitt eget huvud.",
+            "side_caption": "Denna lagbok formar fortfarande lagar i många länder i dag."
           }
         },
         {
@@ -18550,6 +19298,51 @@
             "caption": "A lonely island far out in the ocean. Here the ruler spends his last years.",
             "shutterstock_query": "remote volcanic island ocean dark cliffs green hills small town distant overcast",
             "ai_prompt": "Atmospheric vertical photo style image of a steep volcanic island far out in the ocean, dark cliffs by the sea and green hills inland, a small town in a cleft by the shore, seen from a ship at a distance, overcast sky and grey sea, no people, no flags, no signs, no text, no letters."
+          },
+          "sv": {
+            "title": "Den långa vägen tillbaka från Ryssland",
+            "text_sentences": [
+              "År 1812 marscherar kejsar X in i Ryssland med omkring sexhundratusen soldater.",
+              "Under den långa marschen kostar sjukdom, hunger och strid honom de flesta av hans män.",
+              "När han når den stora staden är den tom, och snart brinner stora delar av den.",
+              "Sedan kommer vintern, och den ryska armén angriper honom under reträtten.",
+              "Soldater dör i tusental av kyla, hunger och strider.",
+              "Större delen av hans enorma armé kommer aldrig hem.",
+              "Andra länder förenar sig då mot honom, och två år senare ger han upp sin tron.",
+              "Hans fiender skickar honom till en liten ö som heter Elba.",
+              "Inom ett år flyr han och styr igen i hundra dagar.",
+              "Hans sista slag slutar i nederlag nära en by som heter Waterloo.",
+              "Den här gången skickar hans fiender honom till en ensam ö långt ute till havs.",
+              "Han dör där omkring sex år senare."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Napoleon Bonaparte",
+              "Julius Caesar",
+              "Alexander den store",
+              "Hertigen av Wellington"
+            ],
+            "correct": "Napoleon Bonaparte",
+            "words": [
+              {
+                "word": "reträtt",
+                "explanation": "när en armé slutar strida och drar sig tillbaka"
+              },
+              {
+                "word": "tron",
+                "explanation": "den speciella platsen och makten som en kung eller kejsare har"
+              },
+              {
+                "word": "nederlag",
+                "explanation": "när du förlorar en strid eller en kamp"
+              },
+              {
+                "word": "förenar sig",
+                "explanation": "går samman för ett gemensamt syfte"
+              }
+            ],
+            "main_caption": "Reträtten från Ryssland. Sjukdom, hunger, kyla och fiendens angrepp förstör armén.",
+            "side_caption": "En ensam ö långt ute i havet. Här tillbringar härskaren sina sista år."
           }
         },
         {
@@ -18607,6 +19400,51 @@
             "caption": "A broken chain. On this island, formerly enslaved people fight and win their freedom.",
             "shutterstock_query": "broken iron chain link tropical soil palm trees closeup",
             "ai_prompt": "Warm realistic vertical close-up of a single broken iron chain link lying open on red tropical soil, palm trees and a green mountain softly out of focus in the background, warm island light, no people, hopeful mood, no text, no letters."
+          },
+          "sv": {
+            "title": "Historiens andra sida",
+            "text_sentences": [
+              "Herr X leder en armé från Frankrike in i Egypten, tillsammans med forskare och konstnärer.",
+              "Vid floden Nilen återuppbygger hans soldater ett gammalt fort.",
+              "I en vägg hittar de en mörkgrå sten med tre sorters skrift.",
+              "Den här stenen hjälper senare experter att läsa forntida egyptisk skrift.",
+              "Några år tidigare avskaffar Frankrike slaveriet i sina kolonier.",
+              "Herr X återinför slaveriet i Frankrikes kolonier.",
+              "På en ö kämpar människor som befriats från slaveriet för att förbli fria.",
+              "De besegrar hans armé där, och deras koloni blir självständig.",
+              "Många kallar det den första fria nationen av tidigare förslavade människor.",
+              "Gamla skämtteckningar och fienders skämt visar herr X som en mycket kort man.",
+              "Historiker kontrollerar källorna: han är omkring en meter sextioåtta, en normal längd för sin tid.",
+              "Så berättelsen om den korte ledaren är en myt, inte ett faktum."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Napoleon Bonaparte",
+              "Simón Bolívar",
+              "Ludvig XIV",
+              "Karl den store"
+            ],
+            "correct": "Napoleon Bonaparte",
+            "words": [
+              {
+                "word": "kolonier",
+                "explanation": "länder som styrs och kontrolleras av ett annat, avlägset land"
+              },
+              {
+                "word": "förslavade",
+                "explanation": "människor som tvingas arbeta av andra, utan frihet och utan lön"
+              },
+              {
+                "word": "självständig",
+                "explanation": "fri att styra sig själv, inte kontrollerad av ett annat land"
+              },
+              {
+                "word": "myt",
+                "explanation": "en berättelse som många tror på, men den är inte sann"
+              }
+            ],
+            "main_caption": "I ett gammalt fort vid floden hittar soldater en sten med tre sorters skrift.",
+            "side_caption": "En bruten kedja. På den här ön kämpar tidigare förslavade människor och vinner sin frihet."
           }
         },
         {
@@ -18664,9 +19502,55 @@
             "caption": "Far from Europe, he tells his own story to loyal followers.",
             "shutterstock_query": "man walking stone terrace island house from behind seated secretary writing grey sea",
             "ai_prompt": "Atmospheric vertical illustration of the stone terrace of a plain house on a windswept island, a man in a plain dark coat walking slowly seen only from behind, a seated secretary writing at a small table, grey sea far below, overcast light, no bicorne hat, no visible face, no readable writing, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Revolutionens hjälte eller dess dödgrävare",
+            "text_sentences": [
+              "Historiker tvistar fortfarande om kejsar X.",
+              "Vissa kallar honom revolutionens arvtagare, som räddar dess bästa idéer.",
+              "Andra kallar honom dess dödgrävare, som begraver friheten under sin egen krona.",
+              "Som härskare kontrollerar han de flesta tidningarna i landet.",
+              "Han betalar också målare för att göra heroiska bilder av honom i strid.",
+              "Dessa bilder formar hur människor ser på honom i generationer.",
+              "På sin sista ö har han många tomma år.",
+              "Där dikterar han sin egen livshistoria för lojala anhängare.",
+              "I hans berättelse är han alltid vis, och hans misstag är små.",
+              "Historiker läser dessa memoarer med stor försiktighet.",
+              "De jämför hans ord med brev, order och rapporter från hans egen tid.",
+              "Den sanna bilden av kejsar X ligger någonstans mellan myten och mannen."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Napoleon Bonaparte",
+              "Otto von Bismarck",
+              "Julius Caesar",
+              "Simón Bolívar"
+            ],
+            "correct": "Napoleon Bonaparte",
+            "words": [
+              {
+                "word": "arvtagare",
+                "explanation": "en person som fortsätter någon annans arbete eller plats"
+              },
+              {
+                "word": "memoarer",
+                "explanation": "en bok där en person skriver sitt eget livs historia"
+              },
+              {
+                "word": "lojala",
+                "explanation": "alltid trogna och stödjande, särskilt mot en ledare"
+              },
+              {
+                "word": "generationer",
+                "explanation": "stora grupper av människor födda och levande under ungefär samma tid"
+              }
+            ],
+            "main_caption": "Härskaren betalar målare för att visa honom som en hjälte i strid.",
+            "side_caption": "Långt från Europa berättar han sin egen historia för lojala anhängare."
           }
         }
-      ]
+      ],
+      "person_sv": "Napoleon Bonaparte"
     }
   ]
 }

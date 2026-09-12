@@ -5,13 +5,13 @@
     {
       "title": "För lite bröd",
       "text_sentences": [
-        "Revolutionen X börjar i Frankrike 1789, för nästan 240 år sedan.",
-        "Dåliga skördar gör bröd mycket dyrt.",
+        "Revolutionen X börjar i Frankrike år 1789, för nästan 240 år sedan.",
+        "Dåliga skördar gör brödet mycket dyrt.",
         "Fattiga familjer kan inte köpa tillräckligt med mat.",
-        "Samhället här har tre stora grupper, kallade stånd.",
+        "Samhället här har tre stora grupper, som kallas stånd.",
         "Det första ståndet är präster, och det andra är adelsmän.",
-        "Det tredje ståndet är alla andra, nästan alla.",
-        "Tredje ståndet betalar nästan alla skatter.",
+        "Det tredje ståndet är alla andra, nästan alla människor.",
+        "Det tredje ståndet betalar nästan alla skatter.",
         "Ilskan växer över hunger och orättvisa skatter.",
         "I Paris, huvudstaden, samlas en folkmassa.",
         "Folkmassan attackerar en gammal fästning som används som fängelse.",
@@ -36,7 +36,7 @@
         },
         {
           "word": "fästning",
-          "explanation": "en stark byggnad byggd för att försvara sig mot angrepp"
+          "explanation": "en stark byggnad som är byggd för att stå emot anfall"
         },
         {
           "word": "skatt",
@@ -50,16 +50,16 @@
       "title": "Kungen försöker fly",
       "text_sentences": [
         "I Frankrike är revolutionen X bara några månader gammal.",
-        "En ny nationalförsamling tar makten från kungen.",
-        "Adelsmän måste ge upp sina gamla särskilda rättigheter.",
+        "Ett nytt parlament tar makten från kungen.",
+        "Adelsmännen måste ge upp sina gamla särskilda rättigheter.",
         "De rika måste nu också betala skatt.",
-        "Nationalförsamlingen skriver sedan en förklaring om rättigheter.",
-        "Alla män föds fria och jämlika, står det.",
+        "Parlamentet skriver sedan en förklaring om rättigheter.",
+        "Alla människor föds fria och jämlika, står det.",
         "Yttrandefrihet och rättvisa rättegångar blir nya rättigheter.",
-        "Några veckor senare är bröd fortfarande svårt att få tag på i Paris.",
+        "Några veckor senare är det fortfarande svårt att få tag på bröd i Paris.",
         "Tusentals kvinnor marscherar till kungens slott utanför staden.",
         "De kräver bröd, och de vill att kungen ska bo i Paris.",
-        "Han går med på det, och kungafamiljen flyttar till staden med vakter.",
+        "Han går med på det, och kungafamiljen flyttar till staden, bevakad av vakter.",
         "Två år senare försöker kungen fly i hemlighet, men han grips."
       ],
       "question": "Vilken revolution är revolutionen X?",
@@ -71,7 +71,7 @@
       ],
       "words": [
         {
-          "word": "nationalförsamling",
+          "word": "parlament",
           "explanation": "en grupp människor som väljs för att göra lagar åt ett land"
         },
         {
@@ -87,7 +87,7 @@
           "explanation": "att springa bort från fara, ofta i hemlighet"
         }
       ],
-      "main_caption": "Tusentals kvinnor lämnar staden för att kräva bröd.",
+      "main_caption": "Tusentals kvinnor går ut ur staden för att kräva bröd.",
       "side_caption": "En vagn stoppas på natten, långt från Paris."
     },
     {
@@ -95,15 +95,15 @@
       "text_sentences": [
         "I Frankrike tar revolutionen X bort den gamle kungens makt steg för steg.",
         "Efter tre år avskaffar dess ledare monarkin och utropar en republik.",
-        "Den förre kungen ställs inför en rättegång för brott mot den nya nationen.",
+        "Den förre kungen ställs inför rätta för brott mot den nya nationen.",
         "Strax därefter avrättar den nya republiken honom.",
-        "Rädslan för fiender, hemma och utomlands, växer snabbt.",
+        "Rädslan för fiender, inom landet och utomlands, växer snabbt.",
         "En period som kallas skräckväldet börjar.",
         "Domstolar arbetar snabbt, och de dömer tusentals misstänkta fiender till döden.",
-        "Officiella register räknar omkring 17 000 sådana dödsfall på ett år.",
+        "Officiella register räknar omkring sjuttontusen sådana dödsfall på ett år.",
         "Många fler dör i fängelser eller i strider runt om i landet.",
         "En mäktig ledare, Robespierre, leder mycket av detta.",
-        "Året efter vänder sig hans egna allierade mot honom, och även han avrättas."
+        "Året därpå vänder sig hans egna allierade mot honom, och även han avrättas."
       ],
       "question": "Vilken revolution är revolutionen X?",
       "options": [
@@ -122,8 +122,8 @@
           "explanation": "en stat utan kung, ledd av valda representanter"
         },
         {
-          "word": "rättegång",
-          "explanation": "en formell process i domstol som avgör om någon är skyldig"
+          "word": "ställs inför rätta",
+          "explanation": "prövas i en domstol, som avgör om personen är skyldig"
         },
         {
           "word": "avrätta",
@@ -134,20 +134,20 @@
       "side_caption": "En tom tron. Det gamla kungariket är borta."
     },
     {
-      "title": "Inte än för alla",
+      "title": "Ännu inte för alla",
       "text_sentences": [
         "Revolutionen X lovar frihet, jämlikhet och broderskap för alla.",
-        "Först är det ändå bara vissa män som får rösta.",
+        "Till en början får ändå bara vissa män rösta.",
         "En kvinnlig författare vid namn Olympe de Gouges håller inte med.",
         "Hon skriver sin egen förklaring om kvinnans rättigheter.",
         "Hon kräver rösträtt och lika rättigheter även för kvinnor.",
         "Senare angriper hon de nya ledarna i tryck.",
         "De låter avrätta henne.",
-        "Långt bort, i kolonin Saint-Domingue, reser sig förslavade människor mot sina förslavare.",
-        "Några år senare avskaffar nationalförsamlingen i Frankrike slaveriet i landets kolonier.",
-        "Det är en av de första sådana lagarna någonstans i världen.",
-        "Den nya regeringen skapar också ett nytt system för mätning.",
-        "Meter och kilogram ersätter sakta hundratals gamla lokala enheter."
+        "Långt bort, i kolonin Saint-Domingue, reser sig förslavade människor mot sina slavägare.",
+        "Några år senare avskaffar parlamentet i Frankrike slaveriet i landets kolonier.",
+        "Det är en av de första lagarna av sitt slag i världen.",
+        "Den nya regeringen skapar också ett nytt måttsystem.",
+        "Meter och kilogram ersätter sakta hundratals gamla lokala måttenheter."
       ],
       "question": "Vilken revolution är revolutionen X?",
       "options": [
@@ -184,13 +184,13 @@
         "Äldre historiker berättar en historia om klasskamp.",
         "I den historien störtar en växande medelklass en trött gammal adel.",
         "Senare historiker, kallade revisionister, ifrågasätter denna enkla bild.",
-        "De studerar flygblad, brev och polisrapporter från Paris och landsorten.",
+        "De studerar pamfletter, brev och polisrapporter från Paris och landsorten.",
         "Dessa källor visar många lokala orsaker, inte bara en stor klasskonflikt.",
         "Politik, personliga nätverk och ren slump spelar också roll.",
         "Historiker jämför också revolutionen X med resningen i Saint-Domingue.",
         "Förslavade människor där använder samma ord om frihet och rättigheter.",
         "Ändå följer deras revolution sin egen, separata väg till frihet.",
-        "Jämförelsen visar hur en revolutions idéer kan nå långt.",
+        "Jämförelsen visar hur en revolutions ideal kan nå långt.",
         "Varje generation av historiker ställer nya frågor till samma gamla källor."
       ],
       "question": "Vilken revolution är revolutionen X?",
@@ -202,8 +202,8 @@
       ],
       "words": [
         {
-          "word": "flygblad",
-          "explanation": "en liten, tunn tryckt text som argumenterar för en idé"
+          "word": "pamflett",
+          "explanation": "en liten, tunn tryckt skrift som argumenterar för en idé"
         },
         {
           "word": "revisionist",

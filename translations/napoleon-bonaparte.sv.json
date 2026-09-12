@@ -6,16 +6,16 @@
       "title": "En pojke från en ö blir general",
       "text_sentences": [
         "Herr X föds på en liten ö.",
-        "Ön heter Korsika, nära Italien.",
+        "Ön heter Korsika och ligger nära Italien.",
         "Frankrike tar ön året innan han föds.",
-        "Hela sitt liv talar han Frankrikes språk med en brytning.",
-        "Han lämnar hemmet ung för att gå på en militärskola i Frankrike.",
+        "Hela sitt liv talar han landets språk med brytning.",
+        "Han lämnar hemmet som ung för att gå på en militärskola i Frankrike.",
         "Där studerar han kartor, matematik och vetenskapen om kanoner.",
-        "Han blir officer och har befäl över kanoner.",
+        "Han blir officer med befäl över kanoner.",
         "Vid den här tiden förändrar revolutionen i Frankrike allt.",
-        "Gamla regler om adlig börd och rang börjar brytas ner.",
-        "Nu kan en soldat stiga snabbt enbart genom skicklighet.",
-        "Herr X stiger mycket snabbt och blir general vid bara tjugofyra års ålder."
+        "Gamla regler om adlig börd och rang börjar falla.",
+        "Nu kan en soldat stiga snabbt i graderna bara genom skicklighet.",
+        "Herr X stiger mycket snabbt i graderna och blir general vid bara tjugofyra års ålder."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -49,8 +49,8 @@
       "title": "Mannen som kröner sig själv",
       "text_sentences": [
         "Först är kejsar X bara en ung general.",
-        "Efter många segrar för Frankrike tar han makten i en statskupp, med lite strid.",
-        "Han säljer Louisiana, ett stort område i Nordamerika, till ett ungt land.",
+        "Efter många segrar för Frankrike tar han makten i en statskupp, nästan utan strid.",
+        "Han säljer Louisiana, ett enormt område i Nordamerika, till ett ungt land.",
         "Några år efter statskuppen gör han sig själv till kejsare i en stor ceremoni.",
         "I en stor kyrka i Paris står påven bredvid honom.",
         "Men kejsar X tar kronan själv och sätter den på sitt eget huvud.",
@@ -58,7 +58,7 @@
         "Den ger alla män samma regler, och tydliga regler för egendom och familj.",
         "Kvinnor får färre rättigheter än män.",
         "Många länder använder fortfarande idéer från denna lagbok i dag.",
-        "Hans arméer strider i många krig över hela Europa.",
+        "Hans arméer utkämpar många krig runt om i Europa.",
         "Snart styr han över stora delar av kontinenten, direkt eller genom sin familj."
       ],
       "question": "Vem är kejsar X?",
@@ -92,16 +92,16 @@
     {
       "title": "Den långa vägen tillbaka från Ryssland",
       "text_sentences": [
-        "År 1812 marscherar kejsar X in i Ryssland med omkring 600 000 soldater.",
+        "År 1812 marscherar kejsar X in i Ryssland med omkring sexhundratusen soldater.",
         "Under den långa marschen kostar sjukdom, hunger och strid honom de flesta av hans män.",
-        "När han når den stora staden är den tom, och snart brinner mycket av den.",
-        "Sedan kommer vintern, och den ryska armén angriper hans reträtt.",
+        "När han når den stora staden är den tom, och snart brinner stora delar av den.",
+        "Sedan kommer vintern, och den ryska armén angriper honom under reträtten.",
         "Soldater dör i tusental av kyla, hunger och strider.",
-        "Det mesta av hans enorma armé kommer aldrig hem.",
+        "Större delen av hans enorma armé kommer aldrig hem.",
         "Andra länder förenar sig då mot honom, och två år senare ger han upp sin tron.",
         "Hans fiender skickar honom till en liten ö som heter Elba.",
         "Inom ett år flyr han och styr igen i hundra dagar.",
-        "Hans sista strid slutar i nederlag nära en by som heter Waterloo.",
+        "Hans sista slag slutar i nederlag nära en by som heter Waterloo.",
         "Den här gången skickar hans fiender honom till en ensam ö långt ute till havs.",
         "Han dör där omkring sex år senare."
       ],
@@ -136,18 +136,18 @@
     {
       "title": "Historiens andra sida",
       "text_sentences": [
-        "Herr X leder Frankrikes armé in i Egypten, tillsammans med forskare och konstnärer.",
+        "Herr X leder en armé från Frankrike in i Egypten, tillsammans med forskare och konstnärer.",
         "Vid floden Nilen återuppbygger hans soldater ett gammalt fort.",
         "I en vägg hittar de en mörkgrå sten med tre sorters skrift.",
         "Den här stenen hjälper senare experter att läsa forntida egyptisk skrift.",
-        "Några år innan detta avskaffar Frankrike slaveriet i sina kolonier.",
-        "Herr X för tillbaka slaveriet till Frankrikes kolonier.",
-        "På en ö kämpar människor som är befriade från slaveriet för att förbli fria.",
+        "Några år tidigare avskaffar Frankrike slaveriet i sina kolonier.",
+        "Herr X återinför slaveriet i Frankrikes kolonier.",
+        "På en ö kämpar människor som befriats från slaveriet för att förbli fria.",
         "De besegrar hans armé där, och deras koloni blir självständig.",
         "Många kallar det den första fria nationen av tidigare förslavade människor.",
-        "Gamla skämtteckningar och fiendens skämt visar herr X som en mycket kort man.",
+        "Gamla skämtteckningar och fienders skämt visar herr X som en mycket kort man.",
         "Historiker kontrollerar källorna: han är omkring en meter sextioåtta, en normal längd för sin tid.",
-        "Så historien om den korta ledaren är en myt, inte ett faktum."
+        "Så berättelsen om den korte ledaren är en myt, inte ett faktum."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -175,7 +175,7 @@
         }
       ],
       "main_caption": "I ett gammalt fort vid floden hittar soldater en sten med tre sorters skrift.",
-      "side_caption": "En trasig kedja. På den här ön kämpar tidigare förslavade människor och vinner sin frihet."
+      "side_caption": "En bruten kedja. På den här ön kämpar tidigare förslavade människor och vinner sin frihet."
     },
     {
       "title": "Revolutionens hjälte eller dess dödgrävare",
@@ -183,13 +183,13 @@
         "Historiker tvistar fortfarande om kejsar X.",
         "Vissa kallar honom revolutionens arvtagare, som räddar dess bästa idéer.",
         "Andra kallar honom dess dödgrävare, som begraver friheten under sin egen krona.",
-        "Som härskare kontrollerar han de flesta tidningar i landet.",
-        "Han betalar också målare för att göra heroiska bilder av honom själv i strid.",
-        "Dessa bilder formar hur människor ser honom i generationer.",
+        "Som härskare kontrollerar han de flesta tidningarna i landet.",
+        "Han betalar också målare för att göra heroiska bilder av honom i strid.",
+        "Dessa bilder formar hur människor ser på honom i generationer.",
         "På sin sista ö har han många tomma år.",
         "Där dikterar han sin egen livshistoria för lojala anhängare.",
         "I hans berättelse är han alltid vis, och hans misstag är små.",
-        "Historiker läser dessa memoarer med stor omsorg.",
+        "Historiker läser dessa memoarer med stor försiktighet.",
         "De jämför hans ord med brev, order och rapporter från hans egen tid.",
         "Den sanna bilden av kejsar X ligger någonstans mellan myten och mannen."
       ],

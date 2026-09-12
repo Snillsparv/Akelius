@@ -7,12 +7,12 @@
       "text_sentences": [
         "General X växer upp på en gård i Virginia.",
         "Som ung man arbetar han som lantmätare.",
-        "Han går genom skogar och mäter vildmark som sitt jobb.",
-        "År senare gör tretton kolonier i Nordamerika uppror mot den brittiska kungen.",
-        "Ledare väljer general X att leda deras nya armé.",
-        "Hans soldater är mest bönder, inte utbildade soldater.",
+        "Hans jobb är att gå genom skogar och mäta upp vild mark.",
+        "Flera år senare gör tretton kolonier i Nordamerika uppror mot den brittiske kungen.",
+        "Ledarna utser general X att leda deras nya armé.",
+        "Hans soldater är mest bönder, inte tränade soldater.",
         "I många tidiga strider måste hans armé retirera.",
-        "På en iskall julnatt korsar han en isbelagd flod i mörkret.",
+        "En iskall julnatt korsar han en flod full av is i mörkret.",
         "Hans trötta män vinner en liten strid tidigt nästa morgon.",
         "Nästa vinter slår hans armé läger i kyla och lera, med lite mat.",
         "Omkring tvåtusen av hans soldater dör av sjukdom och kyla den vintern.",
@@ -32,29 +32,29 @@
         },
         {
           "word": "kolonier",
-          "explanation": "länder styrda av ett annat land långt bort, över havet"
+          "explanation": "länder som styrs av ett land långt bort, på andra sidan havet"
         },
         {
           "word": "retirera",
           "explanation": "att dra sig tillbaka från en strid, inte gå framåt"
         }
       ],
-      "main_caption": "En iskall natt korsar general X och hans män en isbelagd flod i hemlighet.",
+      "main_caption": "En iskall natt korsar general X och hans män en flod full av is i hemlighet.",
       "side_caption": "Innan han leder en armé arbetar den unge general X som lantmätare."
     },
     {
       "title": "Generalen som lämnar tillbaka sitt befäl",
       "text_sentences": [
-        "Herr X leder tretton kolonier i ett långt krig mot deras brittiska kung.",
+        "Herr X leder tretton kolonier i ett långt krig mot deras brittiske kung.",
         "Nära krigets slut skriver en av hans officerare ett brev till honom.",
         "Officeren föreslår att herr X ska bli kung.",
         "Herr X vägrar genast, arg över idén.",
         "Kolonierna vinner kriget, med viktig hjälp från Frankrike.",
-        "Många förväntar sig att herr X blir den mäktigaste mannen i landet.",
-        "Istället går han i uniform till de nya lagstiftarna och lämnar tillbaka sin fullmakt.",
+        "Många förväntar sig att herr X ska bli den mäktigaste mannen i landet.",
+        "I stället går han i uniform till de nya lagstiftarna och lämnar tillbaka sin fullmakt.",
         "Han ger upp all sin makt och åker hem till sin gård.",
-        "Över hela Europa är människor förvånade: en segrande general som inte vill styra.",
-        "Några år senare väljer ledare honom till landets första president.",
+        "I hela Europa häpnar människor: en segrande general som inte vill styra.",
+        "Några år senare väljer ledarna honom till landets förste president.",
         "Efter två mandatperioder avgår han och åker hem igen.",
         "I dag bär landets huvudstad hans namn."
       ],
@@ -83,7 +83,7 @@
           "explanation": "att säga nej, och mena det"
         }
       ],
-      "main_caption": "Efter att kriget är vunnet lämnar herr X tillbaka sitt befäl till lagstiftarna.",
+      "main_caption": "När kriget är vunnet lämnar herr X tillbaka sitt befäl till lagstiftarna.",
       "side_caption": "En helt ny huvudstad växer långsamt fram vid en bred flod."
     },
     {
@@ -92,14 +92,14 @@
         "Herr X äger en stor gård som heter Mount Vernon, i Virginia.",
         "Hundratals förslavade människor bor och arbetar där, tvingade och obetalda.",
         "Herr X äger personligen fler än hundra av dessa människor.",
-        "En förslavad kvinna som heter Ona arbetar som kammarjungfru åt hans hustru.",
-        "Medan herr X tjänstgör som landets första president planerar Ona sin flykt.",
+        "En förslavad kvinna som heter Ona arbetar som hans hustrus personliga tjänarinna.",
+        "Medan herr X tjänstgör som landets förste president planerar Ona sin flykt.",
         "Hon flyr norrut till en stad och återvänder aldrig.",
-        "Herr X försöker hårt att hitta henne och föra tillbaka henne.",
-        "Ona blir aldrig fångad.",
+        "Herr X anstränger sig hårt för att hitta henne och föra henne tillbaka.",
+        "Ona fångas aldrig in.",
         "Hon lever fri i en stad i norr resten av sitt liv.",
         "I sitt testamente ger herr X en order: frige de människor jag äger.",
-        "Men testamentet skjuter upp detta tills även hans hustru dör.",
+        "Men testamentet skjuter upp detta tills hans hustru också dör.",
         "Historiker ser honom som både en grundare och en slavägare."
       ],
       "question": "Vem är herr X?",
@@ -116,11 +116,11 @@
         },
         {
           "word": "testamente",
-          "explanation": "ett papper som säger vad som händer med en persons saker efter att personen dör"
+          "explanation": "ett papper som säger vad som händer med en persons saker när personen dör"
         },
         {
           "word": "flykt",
-          "explanation": "att komma undan och bli fri"
+          "explanation": "när någon kommer undan och blir fri"
         }
       ],
       "main_caption": "Hundratals förslavade människor arbetar på fälten på herr X:s stora gård.",
@@ -131,15 +131,15 @@
       "text_sentences": [
         "Som ung officer tjänstgör herr X åt britterna i Nordamerika.",
         "Storbritannien och Frankrike vill båda ha samma skogsmark, längre västerut.",
-        "Herr X och hans allierade bland ursprungsbefolkningen leder en liten grupp in i skogen.",
+        "Herr X och hans allierade bland urfolken leder en liten grupp in i skogen.",
         "I en kort, plötslig strid dödas flera franska soldater.",
-        "Veckor senare tvingas den unge herr X kapitulera och överlämna ett litet fort till franska styrkor.",
-        "Denna lilla sammandrabbning i skogen hjälper till att starta ett mycket större krig.",
+        "Några veckor senare måste den unge herr X ge upp ett litet fort till franska styrkor.",
+        "Denna lilla sammandrabbning i skogen bidrar till att starta ett mycket större krig.",
         "Snart slåss Storbritannien och Frankrike mot varandra på flera kontinenter.",
-        "År senare gör kolonierna uppror, och herr X leder deras nya armé.",
-        "Nu blir Frankrike hans viktigaste allierade mot den brittiska kungen.",
-        "Nära en kuststad fångar herr X och franska trupper in en brittisk armé.",
-        "En fransk flotta blockerar havet, så ingen flykt är möjlig sjövägen.",
+        "Flera år senare gör kolonierna uppror, och herr X leder deras nya armé.",
+        "Nu blir Frankrike hans viktigaste allierade mot den brittiske kungen.",
+        "Nära en kuststad stänger herr X och franska trupper in en brittisk armé.",
+        "En fransk flotta blockerar havet, så ingen kan fly sjövägen.",
         "Den instängda armén kapitulerar, och Storbritannien börjar snart söka fred."
       ],
       "question": "Vem är herr X?",
@@ -164,7 +164,7 @@
         }
       ],
       "main_caption": "I en dimmig skog startar en liten strid ett mycket stort krig.",
-      "side_caption": "I regnet tvingas den unge herr X kapitulera vid ett litet fort av trä."
+      "side_caption": "I regnet måste den unge herr X ge upp ett litet fort av trä."
     },
     {
       "title": "Körsbärsträdet som aldrig fanns",
@@ -174,11 +174,11 @@
         "Boken berättar en söt historia: den unge herr X skadar ett körsbärsträd.",
         "När hans far frågar vem som gjorde det, säger pojken: ”jag kan inte ljuga”.",
         "Inget brev, ingen dagbok och inget vittne från herr X:s egen livstid nämner denna historia.",
-        "Historiker är överens: författaren hittar troligen på hela scenen.",
+        "Historiker är överens: författaren hittar med största sannolikhet på hela scenen.",
         "Ändå lär sig generationer av barn historien som om den vore sann.",
-        "Den nya nationen vill ha en perfekt grundarhjälte, ärlig och modig.",
-        "Historiker studerar istället hans brev och räkenskapsböcker.",
-        "Dessa sidor bokför dagliga detaljer, allt från sålda skördar till pengar som spenderats.",
+        "Den nya nationen vill ha en perfekt hjälte som grundare, ärlig och modig.",
+        "Historiker studerar i stället hans brev och räkenskapsböcker.",
+        "Dessa sidor antecknar dagliga detaljer, från sålda skördar till spenderade pengar.",
         "Utifrån små, torra fakta bygger historiker sakta upp en sannare bild av hans liv.",
         "Denna bild är mindre enkel än historien om körsbärsträdet."
       ],
