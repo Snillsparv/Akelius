@@ -1,0 +1,225 @@
+{
+  "slug": "louis-pasteur",
+  "person_sv": "Louis Pasteur",
+  "cards": [
+    {
+      "title": "Surt vin, försiktig värme och en pojke som blir biten av en hund",
+      "text_sentences": [
+        "Herr X är en vetenskapsman som bor i Frankrike för ungefär 150 år sedan.",
+        "Han studerar pyttesmå levande varelser som människor inte kan se.",
+        "De pyttesmå varelserna kan göra att mjölk och vin blir sura.",
+        "De kan också göra att sår och skärsår blir dåliga.",
+        "Herr X hittar ett sätt att värma vin och öl mycket försiktigt.",
+        "Den försiktiga värmen dödar de pyttesmå varelserna inuti.",
+        "Efter det håller sig vinet och ölet bra mycket längre.",
+        "Senare använder andra människor hans idé på mjölk.",
+        "År 1885 biter en hund med rabies en pojke som heter Joseph Meister.",
+        "Två läkare säger att pojken kommer att dö utan hjälp.",
+        "Herr X tar fram en ny behandling i sitt laboratorium.",
+        "En läkare ger pojken behandlingen medan herr X ser på, och pojken överlever."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Ignaz Semmelweis"
+      ],
+      "words": [
+        {
+          "word": "sur",
+          "explanation": "smakar skarpt och illa, som gammal mjölk"
+        },
+        {
+          "word": "sår",
+          "explanation": "en skada på kroppen, till exempel efter ett slag eller ett snitt"
+        },
+        {
+          "word": "rabies",
+          "explanation": "en farlig sjukdom som ett sjukt djur kan smitta med ett bett"
+        },
+        {
+          "word": "laboratorium",
+          "explanation": "ett rum där en vetenskapsman gör tester och experiment"
+        }
+      ],
+      "main_caption": "Herr X visar att försiktig värme dödar de pyttesmå varelserna i vinet.",
+      "side_caption": "År 1885 hjälper herr X en pojke som blir biten av en hund som den här."
+    },
+    {
+      "title": "En böjd glashals, sjuka silkesmaskar och ett fält med får",
+      "text_sentences": [
+        "Herr X arbetar i ett laboratorium i Frankrike för ungefär 160 år sedan.",
+        "Många människor tror att liv kan uppstå ur ingenting i gammal soppa.",
+        "Herr X kokar buljong i en glaskolv med en lång, böjd hals.",
+        "Luft kan komma in i kolven, men damm och smittämnen kan inte ta sig förbi böjen.",
+        "Buljongen förblir klar i flera månader, så inget liv uppstår av sig själv.",
+        "Experimentet visar att smittämnen alltid kommer från andra smittämnen.",
+        "Senare hjälper herr X till att rädda den franska sidenindustrin från en silkesmasksjukdom.",
+        "Han visar vilka pyttesmå varelser som gör silkesmaskarna sjuka.",
+        "Bönderna lär sig att bara behålla friska silkesmaskägg.",
+        "Sedan gör han ett vaccin av försvagade smittämnen.",
+        "År 1881 testar han det på får inför en stor folkmassa.",
+        "De behandlade fåren förblir friska, och idén sprider sig över hela världen."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Robert Koch",
+        "Joseph Lister",
+        "Louis Pasteur",
+        "Charles Darwin"
+      ],
+      "words": [
+        {
+          "word": "buljong",
+          "explanation": "en tunn, vattnig vätska som man får genom att koka något, som en enkel soppa"
+        },
+        {
+          "word": "silkesmask",
+          "explanation": "en liten larv som gör silkestråd"
+        },
+        {
+          "word": "vaccin",
+          "explanation": "en försvagad form av ett smittämne som ges för att skydda kroppen mot den starka formen"
+        },
+        {
+          "word": "försvagad",
+          "explanation": "gjord mindre stark än förut"
+        }
+      ],
+      "main_caption": "Inuti den här böjda glashalsen bevisar herr X var pyttesmå levande varelser egentligen kommer ifrån.",
+      "side_caption": "År 1881 testar herr X sitt vaccin på får som de här, inför en tittande folkmassa."
+    },
+    {
+      "title": "En idé som läkarna inte vill tro på",
+      "text_sentences": [
+        "I Frankrike, för ungefär 150 år sedan, tror inte många läkare att smittämnen orsakar sjukdom.",
+        "Några läkare tror fortfarande att bara dålig lukt och dålig luft gör människor sjuka.",
+        "Herr X håller absolut inte med, och han kallar den gamla idén felaktig och farlig.",
+        "Han hävdar att smittämnen som är för små för att se orsakar infektioner i sår och blod.",
+        "Många respekterade läkare hånar idén, och herr X möter år av kritik.",
+        "En känd berättelse säger att en assistent lämnar laboratoriet för att åka på semester 1879.",
+        "Han glömmer att injicera hönsen med en färsk odling av smittämnen för hönskolera.",
+        "När han kommer tillbaka använder han i stället det gamla, svaga provet.",
+        "Hönsen blir lite sjuka men tillfrisknar, och de överlever också en senare infektion.",
+        "Herr X förstår att ett försvagat smittämne kan träna kroppen att bekämpa sjukdom.",
+        "Den här upptäckten förändrar sakta hur läkare runt om i världen tänker om sjukdom."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Joseph Lister",
+        "Robert Koch",
+        "Ignaz Semmelweis",
+        "Louis Pasteur"
+      ],
+      "words": [
+        {
+          "word": "infektion",
+          "explanation": "sjukdom som orsakas av att smittämnen kommer in i kroppen"
+        },
+        {
+          "word": "kritik",
+          "explanation": "när människor säger att något är fel eller dåligt"
+        },
+        {
+          "word": "odling",
+          "explanation": "en grupp pyttesmå levande varelser som odlas tillsammans i ett laboratorium"
+        },
+        {
+          "word": "tillfriskna",
+          "explanation": "att bli frisk igen efter att ha varit sjuk"
+        }
+      ],
+      "main_caption": "Herr X letar efter pyttesmå levande varelser som många läkare inte tror på.",
+      "side_caption": "En berättelse säger att ett bortglömt prov med smittämnen för hönssjukdom leder herr X till en ny idé."
+    },
+    {
+      "title": "Ett nytt forskningscenter i Paris och ett liv präglat av förlust",
+      "text_sentences": [
+        "Herr X är en fransk kemist, inte en legitimerad läkare.",
+        "Han studerar de pyttesmå varelserna som orsakar sjukdom.",
+        "År 1885 räddar hans behandling en pojke som blivit biten av en hund med rabies.",
+        "Tidningar runt om i världen rapporterar den extraordinära nyheten.",
+        "Människor från många länder skickar pengar för att tacka honom.",
+        "Med de här pengarna öppnar ett nytt forskningscenter i Paris 1888.",
+        "Forskarna där studerar sjukdomar och behandlar rabiespatienter som reser långväga ifrån.",
+        "Herr X känner redan till djup personlig sorg.",
+        "Tre av hans döttrar dör som barn, två av dem av tyfus.",
+        "Flera år tidigare gör ett slaganfall ena sidan av kroppen svag.",
+        "Ändå fortsätter han att leda sin forskning med hjälp av trogna assistenter.",
+        "Efter hans död för de här assistenterna vidare hans arbete på centret."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Edward Jenner",
+        "Robert Koch",
+        "Louis Pasteur",
+        "Alexander Fleming"
+      ],
+      "words": [
+        {
+          "word": "legitimerad",
+          "explanation": "officiellt godkänd att göra ett jobb, som att vara läkare"
+        },
+        {
+          "word": "extraordinär",
+          "explanation": "väldigt ovanlig eller fantastisk"
+        },
+        {
+          "word": "tyfus",
+          "explanation": "en allvarlig sjukdom som sprids genom smutsigt vatten och smutsig mat"
+        },
+        {
+          "word": "slaganfall",
+          "explanation": "en plötslig sjukdom i hjärnan som kan göra en del av kroppen svag"
+        }
+      ],
+      "main_caption": "Efter ett slaganfall leder herr X ändå sina trogna assistenter vid bänken.",
+      "side_caption": "Patienter reser långväga ifrån till det nya forskningscentret i Paris."
+    },
+    {
+      "title": "Polerade anteckningsböcker och en rival i Berlin",
+      "text_sentences": [
+        "Herr X för detaljerade laboratorieanteckningar under hela sitt yrkesliv.",
+        "Han säger till sin familj att ingen någonsin får läsa dem.",
+        "Årtionden senare, på 1970-talet, studerar äntligen en historiker de här privata anteckningsböckerna.",
+        "Anteckningsböckerna avslöjar att hans offentliga rapporter ibland döljer den röriga, verkliga historien.",
+        "I ett känt fall skiljer sig hans publicerade metod från det han faktiskt använde.",
+        "Historiker debatterar fortfarande hur mycket detta förändrar hans rykte som en noggrann vetenskapsman.",
+        "De frågar sig också om det var etiskt att behandla en pojke för rabies 1885 innan djurförsöken var avslutade.",
+        "På 1880-talet studerar en rival i Berlin, forskaren Robert Koch, smittämnena bakom tuberkulos.",
+        "Robert Koch och herr X konkurrerar hårt, delvis för att deras länder också är rivaler.",
+        "Den här konkurrensen mellan fransk och tysk vetenskap pressar båda männen att arbeta snabbare.",
+        "När teorin om smittämnen blir accepterad börjar fler sjukhus tvätta händerna och rengöra instrument noggrant.",
+        "Dödstalen från infektioner på sjukhus och sjukdomar i växande städer börjar sjunka."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Charles Darwin"
+      ],
+      "words": [
+        {
+          "word": "rykte",
+          "explanation": "vad andra människor tycker och säger om någon"
+        },
+        {
+          "word": "etiskt",
+          "explanation": "rätt och rättvist enligt moraliska regler"
+        },
+        {
+          "word": "rival",
+          "explanation": "någon som tävlar hårt mot en annan person"
+        },
+        {
+          "word": "tuberkulos",
+          "explanation": "en allvarlig lungsjukdom som orsakas av smittämnen"
+        }
+      ],
+      "main_caption": "Årtionden efter hans död öppnar äntligen en historiker herr X:s privata anteckningsböcker.",
+      "side_caption": "När teorin om smittämnen vinner mark börjar sjukhusen rengöra sina instrument med omsorg."
+    }
+  ]
+}
