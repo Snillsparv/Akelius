@@ -1,0 +1,209 @@
+{
+  "slug": "fall-of-the-berlin-wall",
+  "person_sv": "Berlinmurens fall",
+  "cards": [
+    {
+      "title": "En kväll i november",
+      "text_sentences": [
+        "En stor stad som heter Berlin är delad mitt itu av en mur.",
+        "Muren står där i tjugoåtta år.",
+        "Familjer på ena sidan kan inte besöka den andra sidan.",
+        "Vakter vaktar muren varje dag och varje natt.",
+        "Sedan, en kväll i november 1989, förändras allt plötsligt.",
+        "Vakterna vid gränsövergångarna släpper människor genom grindarna.",
+        "Tusentals människor går över till andra sidan.",
+        "Främlingar på båda sidor kramar varandra och gråter.",
+        "Några klättrar upp på själva muren den natten.",
+        "De svingar hammare och hugger loss små bitar av den.",
+        "Den novembernatten är händelsen X."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Berlinmurens fall",
+        "Kubakrisen",
+        "Ungernrevolten 1956",
+        "Sovjetunionens upplösning"
+      ],
+      "words": [
+        {
+          "word": "gränsövergångarna",
+          "explanation": "platser där vakter kollar vilka som får gå igenom"
+        },
+        {
+          "word": "hugger loss",
+          "explanation": "slår bort en liten bit från något hårt"
+        },
+        {
+          "word": "främlingar",
+          "explanation": "människor du inte känner"
+        }
+      ],
+      "main_caption": "En kväll kliver vakterna åt sidan och släpper igenom folkmassan.",
+      "side_caption": "Folk hugger loss små bitar av muren med hammare."
+    },
+    {
+      "title": "En stad delad i två",
+      "text_sentences": [
+        "Efter det största kriget i historien ligger en stad i ruiner.",
+        "Krigets vinnare delar staden i fyra delar.",
+        "En del tillhör en stat med stängda gränser.",
+        "I den staten kan människor inte resa fritt till andra länder.",
+        "Varje år lämnar hundratusentals människor landet genom stadens öppna gräns.",
+        "Så i augusti 1961 handlar staten på en enda natt.",
+        "Soldater rullar ut taggtråd tvärs över staden.",
+        "Under dagarna som följer bygger arbetare en lång mur av betong.",
+        "Soldater med hundar och strålkastare vaktar den nya gränsen.",
+        "Minst hundrafyrtio människor dör vid muren.",
+        "Ungefär hundra av dem dör när de försöker korsa den.",
+        "Händelsen X kommer många år senare, natten då muren öppnas."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Pragvåren",
+        "Berlinmurens fall",
+        "Solidaritetsstrejkerna i Polen",
+        "Apartheids fall"
+      ],
+      "words": [
+        {
+          "word": "betong",
+          "explanation": "ett hårt grått material gjort av sand, sten och cement"
+        },
+        {
+          "word": "strålkastare",
+          "explanation": "starka lampor som lyser upp ett mörkt område"
+        },
+        {
+          "word": "gräns",
+          "explanation": "linjen där ett land eller område slutar och ett annat börjar"
+        }
+      ],
+      "main_caption": "På en natt stängs gränsen. Inom några dagar kommer en mur.",
+      "side_caption": "En strålkastare sveper över den tomma marken längs gränsen."
+    },
+    {
+      "title": "En talesman läser fel",
+      "text_sentences": [
+        "Hösten 1989 har muren stått i flera år.",
+        "Ledaren för den östra stormakten tillåter nu reformer.",
+        "I september det året meddelar Ungern i tv att landets västra gräns är öppen.",
+        "Tiotusentals människor bakom muren flyr genom den öppningen.",
+        "Varje måndag växer folkmassorna i Leipzig till hundratusentals.",
+        "De skanderar en enkel fras, ”Vi är folket”.",
+        "Under detta tryck tvingas landets gamla ledare avgå.",
+        "En kväll håller en talesman för partiet en presskonferens som sänds direkt i tv.",
+        "Vid pressbordet läser han upp en ny reseregel dåligt.",
+        "En reporter frågar när den börjar gälla, och han svarar, ”omedelbart”.",
+        "Folkmassor rusar till gränsövergångarna samma natt.",
+        "Förvirrade vakter lyfter till slut bommen, och händelsen X börjar."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Ungernrevolten 1956",
+        "Sovjetunionens upplösning",
+        "Solidaritetsstrejkerna i Polen",
+        "Berlinmurens fall"
+      ],
+      "words": [
+        {
+          "word": "reformer",
+          "explanation": "förändringar som görs för att förbättra hur ett land styrs"
+        },
+        {
+          "word": "skanderar",
+          "explanation": "säger eller ropar samma ord tillsammans, om och om igen"
+        },
+        {
+          "word": "talesman",
+          "explanation": "en person som talar till allmänheten för en regering eller grupp"
+        },
+        {
+          "word": "bommen",
+          "explanation": "något som blockerar vägen, som en grind eller ett staket"
+        }
+      ],
+      "main_caption": "Varje måndagskväll växer folkmassorna i en stad sig större och större.",
+      "side_caption": "Vid pressbordet läser en talesman upp en ny regel högt, och läser den dåligt."
+    },
+    {
+      "title": "Natten då grindarna öppnas",
+      "text_sentences": [
+        "Händelsen X är natten då muren öppnas.",
+        "Efter den natten följer enorma förändringar mycket snabbt.",
+        "Hösten 1989 sveper förändring över hela regionen.",
+        "En efter en släpper andra slutna stater greppet om makten.",
+        "På de flesta platser sker förändringen fredligt.",
+        "I Rumänien blir förändringen dock våldsam.",
+        "Mindre än ett år senare blir det delade landet ett igen.",
+        "Återföreningen ger glädje, men den för också med sig tuffa förändringar i öst.",
+        "Många gamla fabriker stänger, och arbetarna där förlorar plötsligt sina jobb.",
+        "I flera år har den hemliga polisen övervakat miljontals vanliga medborgare.",
+        "Två år efter händelsen X kan människor läsa sina egna hemliga akter.",
+        "Några blir chockade när de får veta vem som angav dem, till och med grannar."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Kubakrisen",
+        "Berlinmurens fall",
+        "Pragvåren",
+        "Apartheids fall"
+      ],
+      "words": [
+        {
+          "word": "hemliga polisen",
+          "explanation": "poliser som arbetar i hemlighet för att övervaka och kontrollera människor"
+        },
+        {
+          "word": "återföreningen",
+          "explanation": "att komma samman igen efter att ha varit åtskilda"
+        },
+        {
+          "word": "våldsam",
+          "explanation": "handlar om kraft som skadar människor eller förstör saker"
+        }
+      ],
+      "main_caption": "Efter återföreningen kan människor be om att få läsa akterna som skrevs om dem.",
+      "side_caption": "I öst innebär återföreningen också att vissa gamla fabriker stänger."
+    },
+    {
+      "title": "Planerat, eller av misstag",
+      "text_sentences": [
+        "Händelsen X är natten då muren öppnas 1989.",
+        "Historiker debatterar fortfarande varför det händer.",
+        "Några betonar reformatorn i den östra stormakten som tillåter förändring.",
+        "Andra pekar på de enorma folkmassorna som driver på händelseförloppet.",
+        "Ytterligare andra betonar kyrkorna som hyser de första protestmötena.",
+        "Åter andra pekar på en talesmans misstag vid presskonferensen.",
+        "Några pekar också på västtysk tv, som rapporterar att grindarna är öppna.",
+        "Ingen enskild orsak förklarar helt vad som händer den natten.",
+        "För att studera det använder historiker kornigt tv-filmmaterial från den tiden.",
+        "De läser också akter som förvarades av den gamla hemliga polisen.",
+        "Intervjuer med människor som var där tillför minnen till historieskrivningen.",
+        "Men minnena själva skiljer sig åt, och öst och väst minns den natten olika."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Ungernrevolten 1956",
+        "Kubakrisen",
+        "Berlinmurens fall",
+        "Solidaritetsstrejkerna i Polen"
+      ],
+      "words": [
+        {
+          "word": "debatterar",
+          "explanation": "diskuterar en fråga som människor är oense om"
+        },
+        {
+          "word": "reformatorn",
+          "explanation": "en person som arbetar för att förändra och förbättra ett system"
+        },
+        {
+          "word": "tv-filmmaterial",
+          "explanation": "inspelade bilder från en film- eller videokamera"
+        }
+      ],
+      "main_caption": "I dag visar en rad stenar i en park var muren en gång stod.",
+      "side_caption": "Senare intervjuer tillför personliga minnen till det de gamla bilderna visar."
+    }
+  ]
+}
