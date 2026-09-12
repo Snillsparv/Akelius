@@ -9,7 +9,7 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**280 kort · 56 ämnen**, samtliga faktagranskade och specgranskade.
+**310 kort · 62 ämnen**, samtliga faktagranskade och specgranskade.
 Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
 svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
@@ -33,6 +33,8 @@ svensk översättning (växla språk med knappen på förhandsvisningssidorna).
   Berlinmurens fall, Den första månlandningen
 - **Leverans 9** — Isaac Newton, Albert Einstein, Marie Curie, Louis Pasteur,
   Alan Turing, Florence Nightingale *(första leveransen ur den utökade listan)*
+- **Leverans 10** — Arkimedes, al-Khwarizmi, Ibn Sina, Visdomens hus i Bagdad,
+  Ibn Battuta, Upplysningen
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -80,11 +82,12 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(560 st för leverans 1–9: 280 kort × huvudbild + sidobild).
+(620 st för leverans 1–10: 310 kort × huvudbild + sidobild).
 
-**Status: 544 av 560 bilder klara** — samtliga kort i leverans 1–8 har
+**Status: 544 av 620 bilder klara** — samtliga kort i leverans 1–8 har
 huvudbild och sidobild; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
-hela Marie Curie) i väntan på påfyllda krediter hos bildtjänsten. Varje batch
+hela Marie Curie) och leverans 10 väntar helt, i väntan på påfyllda krediter
+hos bildtjänsten. Varje batch
 har kvalitetsgranskats bild för bild mot sina briefer, och underkända bilder
 har genererats om.
 
@@ -6472,6 +6475,680 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 **Svar:** ⬜ Emmy Noether · ✅ Marie Curie · ⬜ Chien-Shiung Wu · ⬜ Lise Meitner
 
 **Ord:** *committee* — a small group of people chosen to decide something · *hostile* — unfriendly and full of anger · *prejudice* — an unfair opinion about someone formed before knowing them · *remains* — here: the body of a person who has died
+
+</details>
+
+### Arkimedes
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Man Who Loves Shapes and Numbers</summary>
+
+> Mr X lives in a Greek city by the sea.  
+> The city is called Syracuse, on the island of Sicily.  
+> He loves shapes and numbers more than almost anything.  
+> He draws circles and triangles in the sand.  
+> Farmers need to lift water up to their dry fields.  
+> Mr X builds a clever machine: a long screw inside a tube.  
+> When you turn the screw, water climbs up and up.  
+> A famous story says he moves a huge ship almost alone.  
+> He pulls it with ropes and many turning wheels.  
+> He also explains the lever, a long stick with a support under it.  
+> A story says he makes a bold claim about it.  
+> With a long enough lever and a place to stand, he could move the whole Earth.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Pythagoras · ✅ Archimedes · ⬜ Euclid · ⬜ Hero of Alexandria
+
+**Ord:** *screw* — a piece of metal or wood that turns round and round and moves things as it turns · *tube* — a long, hollow, round object, like a pipe · *lever* — a bar or stick that helps you lift or move heavy things · *huge* — very, very big
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Bath, the Crown, and the Ships from Rome</summary>
+
+> Mr X lives in the Greek city of Syracuse, on Sicily.  
+> A king asks him to check if a new crown is pure gold.  
+> A famous story says he finds the answer in his bath.  
+> He watches the water rise as he steps into the tub.  
+> Gold is very heavy for its size, so pure gold takes up little room.  
+> A crown of pure gold pushes out less water than a mixed crown of the same weight.  
+> His ideas about water also explain why some things float and others sink.  
+> Years later, ships from Rome attack his home city.  
+> Mr X builds huge machines to help defend the walls.  
+> Long wooden arms swing out and drop stones on the ships.  
+> In 212 BC, Roman soldiers finally break into the city.  
+> A soldier kills Mr X, even though the general wants him alive.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Archimedes · ⬜ Thales · ⬜ Eratosthenes · ⬜ Ptolemy
+
+**Ord:** *crown* — a gold ring worn on the head by a king or a queen · *pure* — not mixed with anything else · *defend* — to fight to protect a place from attack · *general* — the leader of an army
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Trapping a Number Between Two Fractions</summary>
+
+> Mr X lives in the Greek city of Syracuse in the 200s BC.  
+> He wants to know the value of a special number: pi.  
+> Pi tells you how far around a circle is, compared to its width.  
+> He draws many-sided shapes just inside and just outside a circle.  
+> More sides make each shape closer to a true, round circle.  
+> With this method, he traps pi between two very close fractions.  
+> He also studies a ball fitting tightly inside a tube-shaped block.  
+> The block is exactly as tall as it is wide.  
+> He proves the ball's volume is two thirds of the block's volume.  
+> He is so proud of this proof that he wants it on his tomb.  
+> Long after his death, a Roman writer named Cicero finds the tomb.  
+> The lost grave is exactly as Mr X wished, with the shapes carved on it.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Euclid · ⬜ Hipparchus · ✅ Archimedes · ⬜ Apollonius
+
+**Ord:** *pi* — a special number used to measure circles · *volume* — how much space is inside a shape · *proof* — facts and steps that show an idea must be true · *tomb* — a place where a dead person is buried
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Counting the Grains of Sand in the World</summary>
+
+> Mr X lives in Syracuse, a Greek city on Sicily, in the 200s BC.  
+> Some people say nobody can count all the grains of sand in the world.  
+> Mr X disagrees and invents a new way to write huge numbers.  
+> With his method, he counts grains of sand that could fill the whole universe.  
+> He writes this idea down in a book for the king's son.  
+> He also sends letters with new mathematical ideas to scholars in Alexandria.  
+> In one letter, he asks the scholars to prove his claims for themselves.  
+> Many of these letters and books survive, copied again and again over time.  
+> Later writers add dramatic stories about him.  
+> One story says he burns enemy ships with mirrors during a war.  
+> It is a late story that many historians doubt.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Eratosthenes · ⬜ Ptolemy · ⬜ Hypatia · ✅ Archimedes
+
+**Ord:** *grain* — one tiny piece, like one small piece of sand · *universe* — all of space, with every star and every world · *scholar* — a person who studies and learns deeply · *claim* — something a person says is true
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — A Lost Book Hidden Under a Prayer Book</summary>
+
+> Mr X is a Greek mathematician from Syracuse, in the 200s BC.  
+> More than a thousand years after his death, a scribe copies his books by hand.  
+> In the 13th century, monks need parchment and scrape this copy clean.  
+> They write a prayer book over the faint, old mathematical text.  
+> For centuries, nobody knows his lost book still hides underneath.  
+> In 1906, a scholar finds the hidden book and reads part of it.  
+> About a hundred years later, scientists use modern light and imaging tools.  
+> They read pages far too faint for the human eye to see.  
+> One hidden text explains a method: cutting shapes into countless thin slices.  
+> This method comes very close to a big mathematical idea developed much later.  
+> Historians must now separate his real, documented work from later, dramatic legends.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Apollonius · ⬜ Hero of Alexandria · ⬜ Hipparchus · ✅ Archimedes
+
+**Ord:** *scribe* — a person whose job is to copy text by hand · *scrape* — to rub something hard to remove its top layer · *parchment* — a material made from animal skin, used like paper for writing · *faint* — very weak and hard to see
+
+</details>
+
+### al-Khwarizmi
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Fair Shares in a New City</summary>
+
+> Mr X lives about twelve hundred years ago.  
+> His home is Baghdad, a great new city built by a caliph.  
+> Traders, poets, and scholars fill the streets inside its round walls.  
+> Mr X works with numbers every single day.  
+> When a father dies, families often argue about the land and the gold.  
+> Mr X writes a book that helps them share it fairly.  
+> He also learns about new number signs that come from India.  
+> One strange little sign stands for nothing at all.  
+> Today we call it zero.  
+> With these new numbers, hard counting becomes much easier for everyone.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Brahmagupta · ✅ al-Khwarizmi · ⬜ Fibonacci · ⬜ Omar Khayyam
+
+**Ord:** *caliph* — a Muslim ruler who leads a large early empire · *scholars* — people who study and learn very much · *argue* — to talk in an angry way because people do not agree
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Balancing Both Sides</summary>
+
+> Mr X works in Baghdad in the ninth century.  
+> He writes a math book with a strange long title.  
+> The title talks about restoring numbers and balancing them, like a scale.  
+> In the book, he solves hard number puzzles.  
+> He never uses plus signs, minus signs, or letters for unknown numbers.  
+> Instead, he explains every step in plain words and simple pictures.  
+> He writes it for merchants, judges, and builders who need it in their daily work.  
+> Centuries later, European scholars translate his book into Latin.  
+> From its title, they take a brand new word for this kind of mathematics.  
+> Today, students all over the world still use that word: algebra.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Thabit ibn Qurra · ⬜ Fibonacci · ✅ al-Khwarizmi · ⬜ al-Kindi
+
+**Ord:** *puzzles* — problems that need careful thinking to solve · *translate* — to change words from one language into another · *scale* — a tool that shows if two things weigh the same · *algebra* — a kind of mathematics that uses letters or words for unknown numbers
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Lost in Arabic, Saved in Latin</summary>
+
+> Mr X writes two important books in Baghdad in the ninth century.  
+> One book is about restoring and balancing numbers.  
+> The other book explains the new number signs from India, including zero.  
+> In the twelfth century, a scholar in Europe translates this second book.  
+> He turns the Arabic words into Latin.  
+> Nobody knows exactly who this translator is.  
+> Later, every Arabic copy of the book is lost.  
+> Only the Latin text survives.  
+> The Latin text begins with his name, written in a Latin way.  
+> Slowly, scholars use that Latin form of his name for something new.  
+> It becomes a word for any clear set of steps that always gives the same answer.  
+> That word is still used today, in every school and every computer.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Nasir al-Din al-Tusi · ✅ al-Khwarizmi · ⬜ Fibonacci · ⬜ al-Biruni
+
+**Ord:** *translator* — a person who changes words from one language into another · *survive* — to still exist after a long time or a big danger · *Latin* — the language of ancient Rome, used by scholars for many centuries · *steps* — the small parts of a job, done one after another
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A New Map of the Whole World</summary>
+
+> Mr X works as an astronomer and geographer in Baghdad.  
+> He makes detailed tables that track the sun, the moon, and the planets.  
+> Other scholars use these tables to make calendars, find prayer times, and read the stars.  
+> Mr X also studies the geography books of Greek scholars of old.  
+> An earlier Greek scholar drew a famous map of the known world.  
+> That old map has many mistakes about coasts, rivers, and distances.  
+> With other scholars, Mr X checks and corrects more than two thousand place locations.  
+> Together, they draw a new and more accurate map of the world.  
+> His own name may point to a region east of the Caspian Sea.  
+> Historians are not sure if he himself is born there.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ al-Battani · ✅ al-Khwarizmi · ⬜ al-Biruni · ⬜ Nasir al-Din al-Tusi
+
+**Ord:** *astronomer* — a scientist who studies the stars, the sun, and the planets · *geographer* — a person who studies and maps the earth, its lands and seas · *accurate* — correct, with no or very few mistakes · *region* — a big area of land, bigger than one town or city
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Between India, Greece, and His Own Ideas</summary>
+
+> Mr X works as a mathematician and scholar in Baghdad in the ninth century.  
+> Historians know his life mainly from a handful of short, later biographical notes.  
+> No personal letters from him survive.  
+> His famous book on restoring and balancing numbers draws on older traditions.  
+> Some of its methods likely come from earlier Babylonian, Indian, and Greek mathematics.  
+> Yet Mr X organizes these methods into clear, general rules for the first time.  
+> Later scholars in the Middle East and Europe build on his rules for centuries.  
+> Some historians call him the father of this kind of mathematics.  
+> Others say his great gift is to collect and organize what others know.  
+> Historians still debate how much is truly his own invention.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Thabit ibn Qurra · ⬜ Archimedes · ✅ al-Khwarizmi · ⬜ Brahmagupta
+
+**Ord:** *biographical* — about a person's life story · *traditions* — old ways of doing or knowing things, passed down over time · *organize* — to put things in a clear order · *invention* — something new, made for the first time
+
+</details>
+
+### Ibn Sina
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Boy Near Bukhara Who Learns Fast</summary>
+
+> Mr X is a boy who lives near Bukhara.  
+> That is more than a thousand years ago.  
+> Bukhara is a city in Central Asia.  
+> Mr X learns to read very early.  
+> Later he writes his own life story.  
+> In it, he says he knows the holy book of Islam by heart at ten.  
+> Soon he knows more than his own teachers, he says.  
+> He studies medicine and starts to treat sick people.  
+> His life story says he already works as a doctor at sixteen.  
+> One day, the ruler of his city becomes very ill.  
+> Mr X treats him, and the ruler gets well again.  
+> As a reward, the ruler lets him read every book in his private library.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Ibn Sina · ⬜ Hippocrates · ⬜ Galen · ⬜ al-Razi
+
+**Ord:** *ruler* — a person who governs a country or a city · *treat* — to help a sick person get well · *reward* — something good that you get for doing something helpful · *private* — only for one person, not for everyone
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Book of Medicine for Hundreds of Years</summary>
+
+> Mr X is born near Bukhara, more than a thousand years ago.  
+> He grows up to become a doctor and a thinker.  
+> He writes a huge book about medicine.  
+> The book has five long parts.  
+> It describes diseases, medicines, and how to care for the body.  
+> Doctors across the Muslim world use the book for centuries.  
+> Later, it reaches universities in Europe too.  
+> There, doctors still read it hundreds of years after his death.  
+> Mr X is also very careful about testing medicines.  
+> He says a new medicine must first be tried on real patients.  
+> It must also work again and again before doctors can trust it.  
+> His rules for testing a medicine still sound modern today.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ al-Zahrawi · ✅ Ibn Sina · ⬜ Ibn Rushd · ⬜ al-Razi
+
+**Ord:** *centuries* — periods of one hundred years each · *universities* — places where people study at the highest level after school · *patients* — people who are ill and need a doctor's help · *modern* — of our own time, not of old times
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — The Book of Healing and the Floating Man</summary>
+
+> Mr X is a doctor in Persia around the year 1000.  
+> He is also a philosopher.  
+> He writes a huge book called the Book of Healing.  
+> It is about ideas, not about medicine.  
+> It talks about logic, nature, and the soul.  
+> He builds on an ancient Greek philosopher, without copying him.  
+> He also adds many new ideas of his own.  
+> One idea is a strange thought experiment.  
+> Imagine a man floating alone in empty air.  
+> He cannot see, hear, or touch anything around him.  
+> Yet the man still knows that he exists, Mr X argues.  
+> This shows, he says, that the mind can know itself directly.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ al-Farabi · ⬜ Ibn Rushd · ✅ Ibn Sina · ⬜ Maimonides
+
+**Ord:** *philosopher* — a person who thinks deeply about big questions · *logic* — careful and clear thinking, step by step · *soul* — the inner part of a person that thinks and feels · *argue* — to give reasons for what you think is true
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Between Palaces, Prison, and a Hidden Danger</summary>
+
+> Mr X does not stay in one place for long.  
+> He moves between rulers' courts in Persia and Central Asia.  
+> For a while, he works as a vizier, a top adviser.  
+> Later, an angry ruler locks him away for months.  
+> After his escape, he keeps writing and moves on again.  
+> He often works all day and writes deep into the night.  
+> In his medical writings, he suggests an unusual idea.  
+> Maybe illness spreads through something unseen in water.  
+> Maybe it spreads through something unseen in the air too, he says.  
+> Mr X dies in the city of Hamadan in 1037.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ al-Biruni · ⬜ Galen · ⬜ Ibn Rushd · ✅ Ibn Sina
+
+**Ord:** *vizier* — a top helper and adviser to a ruler · *escape* — to get free from a place where you are locked in · *suggest* — to say that something might be true, as an idea · *unseen* — something that cannot be seen with the eyes
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — A Perfect Memory? What the Sources Say</summary>
+
+> Mr X is a doctor and thinker in Persia, about a thousand years ago.  
+> He writes about metaphysics, the study of what truly exists.  
+> Later scholars translate his work into Latin.  
+> For centuries, his ideas shape teaching at distant universities.  
+> Some later theologians disagree strongly with parts of his philosophy.  
+> They argue that his ideas do not fit their religious beliefs.  
+> A famous legend says Mr X remembers every book he ever reads.  
+> His own life story presents him as a genius with an amazing memory.  
+> He says he reads one hard Greek book forty times and still does not understand it.  
+> Then a small, cheap book by another scholar explains it to him at once, he says.  
+> Historians point out that he tells his life story to show how special he is.  
+> They compare the old sources carefully before they trust such stories.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ al-Biruni · ✅ Ibn Sina · ⬜ Maimonides · ⬜ al-Farabi
+
+**Ord:** *metaphysics* — the study of what things truly are · *theologian* — a person who studies religious belief deeply · *legend* — an old, popular story that may not be fully true · *genius* — a person with a very great mind
+
+</details>
+
+### Visdomens hus i Bagdad
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Round City by the River</summary>
+
+> Place X is a home for books.  
+> It stands in Baghdad, a round city on a great river, in a hot desert land.  
+> A ruler builds the city about 1,300 years ago.  
+> He wants a perfect city, so he makes it in a circle, with high walls.  
+> Soon the city grows into the biggest city in the world.  
+> A later ruler pays smart people to translate old books from far away lands.  
+> At this time, people also learn a new way to make paper, a way that first comes from China.  
+> Before, people write on animal skin, and skin costs a lot.  
+> Paper is cheap, so now many more people can own a book.  
+> Place X becomes the home of these new books and ideas.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ The Library of Alexandria · ⬜ Al-Azhar in Cairo · ✅ The House of Wisdom · ⬜ Nalanda
+
+**Ord:** *ruler* — a person who leads and controls a country · *desert* — a big dry land with sand and very little water · *translate* — to say or write a text again in another language · *skin* — the outer covering of an animal's body; here, a material used for writing before paper
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Team of Translators</summary>
+
+> In the early 800s, Place X stands in Baghdad.  
+> A ruler named al-Ma'mun loves knowledge more than gold or gems.  
+> He pays a large team of scholars to hunt for old books in Greek, Persian, and Indian languages.  
+> Christians, Muslims, and others work side by side on the team.  
+> The team turns hundreds of old books into Arabic.  
+> The most famous translator, Hunayn ibn Ishaq, works a little later.  
+> He knows several languages perfectly.  
+> He checks every translation with great care before it leaves his hands.  
+> A story says the ruler pays him the weight of each finished book in gold.  
+> No one can confirm that story, but everyone agrees he works fast and well.  
+> Doctors, star watchers, and thinkers can now read ideas from three continents.  
+> **Which place is Place X?**
+
+**Svar:** ✅ The House of Wisdom · ⬜ The Library of Cordoba · ⬜ The Academy in Athens · ⬜ Sankore in Timbuktu
+
+**Ord:** *scholar* — a person who studies and knows very much · *translator* — a person whose job is to put a text into another language · *continent* — one of the Earth's very large land areas, such as Europe or Asia · *gem* — a rare and beautiful stone that costs a lot of money
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Measuring the Earth, Building Machines</summary>
+
+> About 1,200 years ago, Place X in Baghdad becomes a center for careful measurement.  
+> A ruler sends teams of astronomers into the flat desert north of the city.  
+> They walk and measure until the North Star stands one degree higher in the sky.  
+> From this careful walk, they work out the size of the whole Earth.  
+> Their answer comes close to the true number, long before anyone sails around the planet.  
+> In the same city, three brothers design clever machines.  
+> Their machines pour drinks by hidden tricks, and one even plays music on its own.  
+> A mathematician from a land far to the east also works here.  
+> He writes a famous book that later gives Europe a whole branch of mathematics.  
+> He also explains an Indian way to write numbers, using a symbol for zero.  
+> Place X gathers thinkers from many lands and many fields of study.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ The University of Bologna · ⬜ Al-Qarawiyyin in Fez · ⬜ The Library of Alexandria · ✅ The House of Wisdom
+
+**Ord:** *astronomer* — a person who studies stars, planets, and the sky · *degree* — a small unit for measuring an angle, like a slice of a circle · *mathematician* — a person who studies numbers, shapes, and patterns · *symbol* — a mark or sign that stands for something else
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Ideas Travel West, Then the City Falls</summary>
+
+> For centuries, Place X in Baghdad brings together knowledge from Greek, Persian, and Indian sources.  
+> Scholars there write new works in medicine, astronomy, and mathematics.  
+> Slowly, this knowledge moves west along trade roads and through Muslim Spain.  
+> By the 1100s, teams in the Spanish city of Toledo translate Arabic books into Latin.  
+> On the island of Sicily, other translators do the same important work.  
+> Through these Latin copies, European universities finally read ideas kept and improved far to the east.  
+> But Place X does not last forever.  
+> In 1258, an army from the steppes reaches the city and destroys much of it.  
+> A story says the river beside the city runs black with ink from countless ruined books.  
+> Historians cannot confirm this exact detail, but they agree the destruction itself is real and huge.  
+> The city recovers over time, but its great age of learning never fully returns.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ The Academy in Athens · ✅ The House of Wisdom · ⬜ The Library of Cordoba · ⬜ Al-Azhar in Cairo
+
+**Ord:** *source* — a text or place that gives information or knowledge · *destruction* — the act of destroying something completely · *recover* — to become well or normal again after a hard time · *confirm* — to show or state that something is definitely true
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Academy, Library, or Later Legend?</summary>
+
+> Many popular books describe Place X as a grand academy full of famous scholars.  
+> How much of that picture truly comes from the old historical sources?  
+> The oldest sources mention little more than a caliph's library, with a few translators and copyists at work there.  
+> They say almost nothing about lectures, classrooms, or enrolled students.  
+> Some modern historians think Place X is mainly a royal library, not a school.  
+> Other historians argue that the surviving sources are simply incomplete, and the place worked much like a true academy.  
+> Many vivid details in popular retellings first appear centuries after the events they describe.  
+> The gold payment for translations and the ink-darkened river are later stories, not eyewitness reports.  
+> Even so, the record shows something remarkable.  
+> Rulers pay for a long effort to gather and translate knowledge across languages.  
+> Historians must separate this solid evidence from the romantic legend built up around it over time.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ Nalanda · ⬜ The University of Bologna · ✅ The House of Wisdom · ⬜ Al-Qarawiyyin in Fez
+
+**Ord:** *academy* — a school or place for higher study and teaching · *evidence* — facts or objects that show something is true · *eyewitness* — a person who saw an event happen with their own eyes · *legend* — an old story that many people believe, even though parts of it may not be true
+
+</details>
+
+### Ibn Battuta
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Young Man Leaves Home</summary>
+
+> Mr X lives about seven hundred years ago.  
+> He is born in Tangier, a port town in Morocco.  
+> His family are religious scholars and judges.  
+> At twenty-one years old, he leaves home alone.  
+> He travels east on the road to Mecca, on a holy pilgrimage.  
+> He rides camels across hot deserts and sails on wooden ships.  
+> A journey like this usually takes more than a year.  
+> But he loves the road, and he never really stops.  
+> For almost thirty years, he moves from town to town.  
+> He meets kings, judges, and holy men on the way.  
+> His family waits at home, and for years they hear nothing.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Marco Polo · ⬜ Christopher Columbus · ✅ Ibn Battuta · ⬜ Vasco da Gama
+
+**Ord:** *port* — a town by the sea where ships stop · *scholar* — a person who studies and knows very much · *judge* — a person who decides if someone has done wrong · *pilgrimage* — a journey to a holy place
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Down the Coast, Across the Wind</summary>
+
+> Mr X sails down the coast of East Africa, about seven hundred years ago.  
+> He visits rich trading towns built from coral stone, like Kilwa and Mogadishu.  
+> Gold and ivory pass through their busy markets.  
+> Later, a strong seasonal wind carries his ship back north to Arabia.  
+> Sailors call this wind the monsoon, and it blows one way in summer and the other way in winter.  
+> Years later, after a long journey over land through many lands, he reaches India in 1333.  
+> Mr X comes to Delhi, a great city ruled by a powerful sultan.  
+> The sultan likes educated visitors and makes Mr X a judge.  
+> He judges cases there for several years, far from his home in the west.  
+> Later he sails on to the Maldives, a chain of small islands in the ocean.  
+> The queen's court there also makes him a judge, this time among palm trees and white beaches.  
+> He judges by the laws of his faith, even on this small island kingdom.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Zheng He · ✅ Ibn Battuta · ⬜ Vasco da Gama · ⬜ Ferdinand Magellan
+
+**Ord:** *coral* — a hard stone-like material made by tiny sea animals · *ivory* — the hard white material from an elephant's tusk · *monsoon* — a strong wind that blows one way for months, then the other way · *sultan* — a Muslim ruler of a country or city
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A Long Way East, and a Hard Way Home</summary>
+
+> Mr X keeps traveling east, far past India, about seven hundred years ago.  
+> He crosses the sea to Sri Lanka and then to Sumatra, an island covered in thick forest.  
+> From there, ships carry him even further, all the way to China.  
+> He describes huge cities, fine silk, and paper money that nobody in Morocco, his homeland, has ever seen.  
+> Later historians read his account with care, and some parts trouble them.  
+> His China chapters are shorter and less exact than the rest of his story.  
+> Did he really see everything he describes, or did he also copy from other travelers' tales?  
+> Historians still argue about how much of the China journey is truly his own.  
+> After a few more years on the road, Mr X finally turns west, toward home.  
+> When he reaches Morocco again, a great plague is killing people across three continents.  
+> He has been away for so long that both of his parents have already died.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Marco Polo · ⬜ Zheng He · ⬜ Xuanzang · ✅ Ibn Battuta
+
+**Ord:** *account* — a spoken or written report of what happened · *chapter* — one part of a book · *plague* — a disease that spreads fast and kills many people · *continent* — one of the biggest land areas of the earth
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Salt, Gold, and a Story Told Aloud</summary>
+
+> Years after coming home, Mr X sets out on one more great journey.  
+> This time he crosses the Sahara, the largest hot desert on earth.  
+> He joins a trading caravan of camels loaded with slabs of salt.  
+> Workers far out in the desert cut this salt straight out of the ground.  
+> Traders carry the slabs south into the kingdom of Mali and trade them for gold.  
+> After many weeks, Mr X reaches the court of the king of Mali.  
+> The salt, the gold, and the strict customs of the court all surprise him.  
+> He says later that the people of Mali love justice and that travelers are safe there.  
+> After this last journey, Mr X finally settles down and stops traveling.  
+> A ruler in Morocco then asks him to tell his whole life story.  
+> In 1355, in the town of Fez, Mr X tells his story aloud.  
+> A trained writer sets it on paper.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Leo Africanus · ✅ Ibn Battuta · ⬜ Christopher Columbus · ⬜ Benjamin of Tudela
+
+**Ord:** *slab* — a thick flat piece of something hard · *caravan* — a group of people and animals that travel together · *custom* — a way of doing things that a group of people always follows · *settle* — to stop moving around and stay in one place
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — What He Saw, What He Copied</summary>
+
+> About seven hundred years ago, Mr X ends his travels.  
+> Historians estimate his journeys cover several times the distance of the most famous traveler from Venice.  
+> Within two years of coming home, Mr X dictates his book, and it is finished in 1355.  
+> He speaks mostly from memory, and his earliest journeys lie thirty years in the past.  
+> Because of this, historians compare his book carefully against older travel books.  
+> Some passages match an older pilgrim's travel book by Ibn Jubayr almost word for word.  
+> Other passages carry small details that only an eyewitness could know.  
+> So scholars ask, for each part, is this what he saw or what he read?  
+> His book also describes, as he saw it, women's lives and the practice of slavery in the lands he visits.  
+> Modern historians read these passages as evidence of the customs of that century, not as an endorsement of them.  
+> For centuries, few people outside his own region read his book at all.  
+> European scholars only translate and study it widely in the eighteen hundreds.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Ibn Battuta · ⬜ Zheng He · ⬜ Rabban Bar Sauma · ⬜ Evliya Celebi
+
+**Ord:** *estimate* — to guess a number using known facts · *eyewitness* — a person who sees something happen with their own eyes · *evidence* — facts that help to prove something is true · *endorsement* — a statement that says you approve of something
+
+</details>
+
+### Upplysningen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Ask your own questions</summary>
+
+> Movement X spreads across Europe in the seventeen hundreds.  
+> Before this time, most people simply obey the king, the lords, and the church.  
+> Now some thinkers say something new.  
+> Every person can use his or her own mind, they say.  
+> Ask questions, they say, and do not just believe old rules.  
+> In one country, writers plan a giant book that tries to explain everything in the world.  
+> In busy coffee houses, men sit for hours and argue about these new ideas.  
+> In fine rooms in Paris, women host talks where thinkers meet and speak freely.  
+> Slowly, more and more people start to think this way.  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ The Renaissance · ⬜ The Scientific Revolution · ✅ The Enlightenment · ⬜ Romanticism
+
+**Ord:** *obey* — to do what someone in charge tells you to do · *coffee house* — a place where people sit, drink coffee, and talk · *host* — to invite people and welcome them at an event · *argue* — to talk about a subject when people do not agree
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A book too big to stop</summary>
+
+> Movement X grows fast in the seventeen hundreds.  
+> Two writers, Diderot and d'Alembert, lead the work on one huge encyclopedia to explain all human knowledge.  
+> It will have thousands of long articles, from farming tools to the stars.  
+> Soon, church and state leaders ban the encyclopedia because they fear its dangerous ideas.  
+> Diderot does not stop, and he keeps working half in secret.  
+> Slowly, the encyclopedia grows into many thick books.  
+> One famous writer of the movement, Voltaire, becomes known for a different fight.  
+> In 1762, judges in France wrongly execute a father who belongs to a small religious group.  
+> Voltaire writes and argues for years until the man's name is finally cleared.  
+> He says that people of every faith deserve fair treatment under the law.  
+> This idea, called tolerance, becomes central to the movement.  
+> **Which movement is Movement X?**
+
+**Svar:** ✅ The Enlightenment · ⬜ The Reformation · ⬜ Humanism · ⬜ The Industrial Revolution
+
+**Ord:** *encyclopedia* — a huge book, or set of books, that explains many different subjects · *ban* — to say officially that something is not allowed · *execute* — to kill a person as a legal punishment · *tolerance* — accepting that other people may believe or live differently
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — An evening of bold talk</summary>
+
+> Movement X shapes new ideas about government in the seventeen hundreds.  
+> One thinker, Montesquieu, says power should never sit in one place alone.  
+> Lawmaking, ruling, and judging, he argues, should be three separate powers.  
+> Each power should watch and limit the other two, he says.  
+> Another thinker, Rousseau, asks a different question: why should anyone obey a ruler at all?  
+> He answers that fair government rests on a social contract, an agreement among free people.  
+> Long before this, an English thinker named Locke argues that rulers need the people's consent.  
+> Much of this talk happens in salons, regular gatherings held in private homes.  
+> In Paris, a woman named Madame Geoffrin hosts one of the most famous salons of the age.  
+> There, thinkers meet, argue, and share new writing long before it is printed.  
+> Decades later, these ideas about power and consent feed the revolutions in North America and France.  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ The Counter-Reformation · ⬜ The Scientific Revolution · ⬜ Positivism · ✅ The Enlightenment
+
+**Ord:** *social contract* — an agreement among people about how they will be ruled · *consent* — saying yes and agreeing to something · *salon* — a regular private gathering where people talk about ideas · *lawmaking* — the work of writing the laws that a country follows
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The courage to think</summary>
+
+> A Berlin magazine prints a question: what is Movement X?  
+> In 1784, a philosopher named Kant answers with a whole essay.  
+> One line in it becomes famous: have the courage to use your own understanding.  
+> Do not simply trust old authority, he says, and think for yourself, carefully and bravely.  
+> Twenty years earlier, an Italian thinker named Beccaria attacks two common practices of the courts.  
+> Torture used to force confessions is cruel and unreliable, he argues.  
+> The death penalty does not even stop crime, he adds, and courts should use fairer methods instead.  
+> In 1792, a British writer named Wollstonecraft asks a bold question: why not educate women as carefully as men?  
+> Women seem weaker only because they receive a worse education, she argues.  
+> Across the movement, thinkers admire one shining example: an English scientist's laws of motion, published a century earlier.  
+> If careful reasoning can explain how the planets move, they ask, why not use it on laws and government?  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ Romanticism · ✅ The Enlightenment · ⬜ The Renaissance · ⬜ The Industrial Revolution
+
+**Ord:** *authority* — a person or group with the power to tell others what to do · *torture* — causing someone great pain on purpose; here, to force a person to confess · *confession* — when a person admits, often under pressure, that they did something · *reasoning* — careful thinking used to reach an answer
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Whose reason counts?</summary>
+
+> Historians still argue about the legacy of Movement X, a movement of philosophers in the seventeen hundreds.  
+> Its thinkers praise reason, freedom, and equal rights for every person.  
+> Yet some writers of the time use the new science to rank peoples, calling whole nations naturally inferior.  
+> Meanwhile, European empires grow, and the trade in enslaved people from Africa to the Americas goes on.  
+> Thinkers of the movement such as Condorcet and Raynal attack slavery and colonial cruelty in their own writings.  
+> Later historians also ask whose reason the movement really centers on: mostly European men of a certain class.  
+> Women host the salons but rarely get to publish.  
+> Colonized peoples and the poor never sit at the salon table.  
+> In the twentieth century, philosophers ask a darker question: can cold calculation itself lead to terrible violence?  
+> Still, schools on every continent today teach its central idea: question authority, and think for yourself with evidence.  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ Humanism · ⬜ The Counter-Reformation · ✅ The Enlightenment · ⬜ Positivism
+
+**Ord:** *inferior* — lower in worth or ability than others; here, what some writers wrongly claimed about whole peoples · *empire* — many lands and peoples ruled by one distant power · *colonized* — living under the control of a distant ruling power · *calculation* — careful counting or reasoning used to solve a problem
 
 </details>
 

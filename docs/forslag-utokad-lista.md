@@ -1,16 +1,16 @@
 # Förslag: utökad ämneslista mot 600+ kort
 
 Status: klartecken att fortsätta gavs 2026-09-12. Leverans 9 = rad 51-54, 59
-och 79 (Newton, Einstein, Marie Curie, Pasteur, Turing, Florence Nightingale),
-färdig i text, granskning och svenska; 44 av 60 bilder klara, resten väntar
-på påfyllda OpenAI-krediter. Frågorna 1-4 nedan är fortfarande obesvarade, så
-trekortsämnen, nya kategorietiketter och nivå 3 väntar. Nästa femkortsämnen i
-förslagets ordning: 61 Arkimedes, 62 al-Khwarizmi, 71 Ibn Sina, 72 Visdomens
-hus, 74 Ibn Battuta, 76 Upplysningen (kräver beslut om etiketterna
-`mathematics` och `ideas`).
-Underlag: Rogers besked 2026-08-23 (idéhistoria och utveckling viktigast,
-gärna matematiker, fysiker och nobelpristagare, målgrupp eleverna i Tanzania
-och Bhutan, över 600 kort) och 2026-08-24 (ytterligare kanske femhundra kort).
+och 79 (Newton, Einstein, Marie Curie, Pasteur, Turing, Florence Nightingale)
+och leverans 10 = rad 61, 62, 71, 72, 74 och 76 (Arkimedes, al-Khwarizmi, Ibn
+Sina, Visdomens hus, Ibn Battuta, Upplysningen) är färdiga i text, granskning
+och svenska; bilderna väntar på påfyllda krediter hos bildtjänsten (44 av 60
+klara för leverans 9, inga för leverans 10). Etiketten `mathematics` infördes
+med leverans 10. Frågorna 1, 3 och 4 nedan är fortfarande obesvarade, så
+trekortsämnen och nivå 3 väntar. Nästa femkortsämnen i förslagets ordning:
+86 Borlaug, 87 transatlantiska slavhandeln, 88 Mansa Musa, 92 Swahilikusten,
+93 kapplöpningen om Afrika, 94 Afrikas självständighet, vilket kräver en
+etikett för Afrikablocket, förslagsvis `africa`.
 
 ## Läge och räkneexempel
 
@@ -49,8 +49,8 @@ bilder, granskning och svenska. Bildkostnaden är cirka 0,34 USD per kort.
 | 58 | Alexander Fleming | vetenskap, nobel | 3 | Penicillinet, den glömda skålen, antibiotikans följder |
 | 59 | Alan Turing | vetenskap | 5 ✅ Leverans 9 | Kodknäckaren, datorns idé, förföljelsen, upprättelsen |
 | 60 | Euklides | matematik | 3 | Elementa, bevisets idé, läroboken i två tusen år |
-| 61 | Arkimedes | matematik | 5 | Hävstången, badkaret som legend, Syrakusa, skruven |
-| 62 | al-Khwarizmi | matematik | 5 | Algebra, algoritmens namn, siffrorna från Indien via Bagdad |
+| 61 | Arkimedes | matematik | 5 ✅ Leverans 10 | Hävstången, badkaret som legend, Syrakusa, skruven |
+| 62 | al-Khwarizmi | matematik | 5 ✅ Leverans 10 | Algebra, algoritmens namn, siffrorna från Indien via Bagdad |
 | 63 | Brahmagupta och nollan | matematik | 3 | Nollan som tal, indisk matematik, vägen till Europa |
 | 64 | Fibonacci | matematik | 3 | Siffrorna till Europa, kaninerna, handelsmannens räkning |
 | 65 | Carl Friedrich Gauss | matematik | 3 | Barnet som summerade, primtal, magnetism |
@@ -59,12 +59,12 @@ bilder, granskning och svenska. Bildkostnaden är cirka 0,34 USD per kort.
 | 68 | Katherine Johnson | matematik | 3 | Räknerskan bakom rymdfärderna, segregationen |
 | 69 | Ada Lovelace | matematik, utveckling | 3 | Det första programmet, hundra år före datorn |
 | 70 | Hypatia | idéhistoria | 3 | Alexandrias sista lärare, mordet, myten |
-| 71 | Ibn Sina | idéhistoria | 5 | Läkekonstens kanon, filosofin, Europa lär av Bagdad |
-| 72 | Visdomens hus i Bagdad | idéhistoria | 5 | Översättningarna, papperet, astronomin, arvet till Europa |
+| 71 | Ibn Sina | idéhistoria | 5 ✅ Leverans 10 | Läkekonstens kanon, filosofin, Europa lär av Bagdad |
+| 72 | Visdomens hus i Bagdad | idéhistoria | 5 ✅ Leverans 10 | Översättningarna, papperet, astronomin, arvet till Europa |
 | 73 | Ibn Khaldun | idéhistoria | 3 | Historiens lagar, Tunis, den förste samhällsvetaren |
-| 74 | Ibn Battuta | upptäcktsresor | 5 | Trettio år på vägarna, Mali, Kina, Zanzibar |
+| 74 | Ibn Battuta | upptäcktsresor | 5 ✅ Leverans 10 | Trettio år på vägarna, Mali, Kina, Zanzibar |
 | 75 | René Descartes | idéhistoria | 3 | Tvivlet som metod, koordinaterna, Stockholm |
-| 76 | Upplysningen | idéhistoria | 5 | Encyklopedin, Voltaire, Rousseau, kritik och kolonialt arv |
+| 76 | Upplysningen | idéhistoria | 5 ✅ Leverans 10 | Encyklopedin, Voltaire, Rousseau, kritik och kolonialt arv |
 | 77 | Mary Wollstonecraft | idéhistoria | 3 | Kvinnors rättigheter 1792, dottern som skrev Frankenstein |
 | 78 | Adam Smith | idéhistoria | 3 | Nålfabriken, marknaden, moralen han också skrev om |
 | 79 | Florence Nightingale | vetenskap | 5 ✅ Leverans 9 | Statistiken som räddade liv, sjukvårdens yrke |
