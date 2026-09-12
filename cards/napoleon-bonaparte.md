@@ -141,10 +141,10 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Huvudbild
 
-- **Motiv:** A long line of soldiers in worn coats trudges through deep snow across a vast white plain. Seen from a high, distant angle. Grey winter sky, scattered abandoned carts and horses far in the background. No faces visible. Production note: no visible injuries, no gore, no flags, no readable text or numbers, the mood is cold and weary, not violent.
+- **Motiv:** A long line of soldiers in worn coats trudges through deep snow across a vast white plain. Seen from a high, distant angle. Grey winter sky, scattered abandoned carts and horses far in the background. No faces visible. Production note: soldiers in 1812 dress, shakos or wrapped cloth and blankets, no steel helmets, no modern haversacks; no visible injuries, no gore, no flags, no readable text or numbers, the mood is cold and weary, not violent.
 - **Bildtext:** *The retreat from Russia. Sickness, hunger, cold, and enemy attacks destroy the army.*
 - **Shutterstock-sökning:** `army retreat snow winter plain distant aerial soldiers trudging`
-- **AI-prompt (alternativ):** Realistic wide illustration of a long line of soldiers in worn coats trudging through deep snow across a vast white plain, seen from a high distant angle, grey winter sky, a few abandoned carts far in the background, no faces visible, cold and weary mood, no injuries, no gore, no flags, no text, no letters.
+- **AI-prompt (alternativ):** Realistic wide illustration seen from a high distant viewpoint of a long ragged column of early nineteenth century soldiers trudging through deep snow across a vast white plain, the men wrapped in tattered long greatcoats, blankets, shawls and scraps of fur over their uniforms, heads covered with cloth wraps, fur caps, knitted caps or bare, absolutely no steel helmets, no modern military gear, no bicorne hats, a few abandoned wooden wagons and a stuck gun carriage far behind them, grey winter sky, all figures seen from behind so no faces are visible, cold and exhausted mood without any injuries, bodies or blood, no flags, no text, no letters
 
 ### Sidobild
 
@@ -191,10 +191,10 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Huvudbild
 
-- **Motiv:** Soldiers and one scholar in plain coats examine a large dark grey stone slab just pulled from the rubble of an old fort wall beside a wide river. The carved face of the stone is turned away from the viewer and mostly hidden by the men's backs, the surface toward the viewer is plain rough stone. Seen from behind and at a distance, hot afternoon light, flat river landscape, no temples or columns. Production note: no readable or pseudo script anywhere, no famous monument, no faces close up, no flags, no text, no letters, no numbers.
+- **Motiv:** Soldiers and one scholar in plain coats examine a large dark grey stone slab just pulled from the rubble of an old fort wall beside a wide river. The carved face of the stone is turned away from the viewer and mostly hidden by the men's backs, the surface toward the viewer is plain rough stone. Seen from behind and at a distance, hot afternoon light, flat river landscape, no temples or columns. Production note: soldiers in 1799 dress, blue coats with white breeches, bicorne hats only on distant anonymous soldiers, never on a central figure, no khaki, peaked caps or puttees; no readable or pseudo script anywhere, no famous monument, no faces close up, no flags, no text, no letters, no numbers.
 - **Bildtext:** *In an old fort by the river, soldiers find a stone with three kinds of writing.*
 - **Shutterstock-sökning:** `soldiers scholar examining large stone slab old fort wall river egypt distance`
-- **AI-prompt (alternativ):** Realistic illustration of soldiers and one scholar in plain coats examining a large dark grey stone slab just pulled from the rubble of an old fort wall beside a wide river in Egypt, the carved face of the stone turned away from the viewer and mostly hidden by the men's backs, the visible surface plain rough stone, seen from behind at a distance, hot afternoon light, flat river landscape, no temples, no columns, no famous monument, no close faces, no script, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Realistic illustration of late eighteenth century French soldiers in plain long blue coats with white trousers, bareheaded or in simple cloth fatigue caps, together with one civilian scholar in a plain brown coat, examining a large dark grey stone slab just pulled from the rubble of an old mud brick fort wall beside a wide river in Egypt, the carved face of the stone turned away from the viewer and hidden by the men's backs, the visible surface plain rough stone, all figures seen from behind at a distance, hot afternoon light, flat river landscape with a few palms, no temples, no columns, no famous monument, no modern uniforms, no khaki, no peaked caps, no puttees, no bicorne hats, no close faces, no script, no text, no letters, no numbers
 
 ### Sidobild
 
@@ -241,10 +241,10 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 ### Huvudbild
 
-- **Motiv:** A large painter's studio with tall windows. A huge canvas on an easel is seen from the back, so only its wooden frame and the raw back of the canvas show. A painter in a smock works on the far side, partly hidden by the canvas. A saddle and a plumed helmet rest on a stand as props. Production note: the painted side is never visible, no faces, no bicorne hat, no flags, no text, letters, or numbers anywhere.
+- **Motiv:** A large painter's studio with tall windows. A huge canvas on an easel is seen from the back, so only its wooden frame and the raw back of the canvas show. A painter in a smock works on the far side, partly hidden by the canvas. A saddle and a plumed helmet rest on a stand as props. Production note: the plumed helmet or any armour must carry no emblem, no fleur-de-lis, no eagle, no bee, plain metal only; the painted side is never visible, no faces, no bicorne hat, no flags, no text, letters, or numbers anywhere.
 - **Bildtext:** *The ruler pays painters to show him as a hero in battle.*
 - **Shutterstock-sökning:** `painter studio huge canvas seen from behind easel tall windows saddle helmet props`
-- **AI-prompt (alternativ):** Realistic illustration of a large painter's studio with tall windows, a huge canvas on an easel seen from the back so only its wooden frame and the raw back of the canvas show, a painter in a smock working on the far side partly hidden by the canvas, a saddle and a plumed helmet resting on a stand as props, soft daylight, the painted side never visible, no faces, no bicorne hat, no flags, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Realistic illustration of a large painter's studio with tall windows, a huge canvas on an easel seen from the back so only its wooden stretcher frame and the raw back of the canvas show, a painter in a smock working on the far side partly hidden by the canvas, a leather saddle and a tall crested cavalry helmet with a white plume resting on a wooden stand as props, the helmet front completely plain polished metal with no emblem, no badge, no fleur-de-lis, no eagle and no ornament of any kind, soft daylight, the painted side never visible, no faces, no bicorne hat, no flags, no text, no letters, no numbers
 
 ### Sidobild
 
