@@ -1,0 +1,220 @@
+{
+  "slug": "house-of-wisdom",
+  "person_sv": "Visdomens hus i Bagdad",
+  "cards": [
+    {
+      "title": "En rund stad vid floden",
+      "text_sentences": [
+        "Platsen X är ett hem för böcker.",
+        "Den ligger i Bagdad, en rund stad vid en stor flod, i en het öken.",
+        "En härskare bygger staden för ungefär 1 300 år sedan.",
+        "Han vill ha en perfekt stad, så han formar den som en cirkel, med höga murar.",
+        "Snart växer staden till den största staden i världen.",
+        "En senare härskare betalar smarta människor för att översätta gamla böcker från fjärran länder.",
+        "Vid den här tiden lär sig människor också ett nytt sätt att göra papper, ett sätt som först kommer från Kina.",
+        "Förut skriver människor på skinn, och skinn kostar mycket.",
+        "Papper är billigt, så nu kan många fler människor äga en bok.",
+        "Platsen X blir hemmet för dessa nya böcker och idéer."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Biblioteket i Alexandria",
+        "Al-Azhar i Kairo",
+        "Visdomens hus",
+        "Nalanda"
+      ],
+      "words": [
+        {
+          "word": "härskare",
+          "explanation": "en person som leder och styr ett land"
+        },
+        {
+          "word": "öken",
+          "explanation": "ett stort torrt land med sand och väldigt lite vatten"
+        },
+        {
+          "word": "översätta",
+          "explanation": "att säga eller skriva en text igen på ett annat språk"
+        },
+        {
+          "word": "skinn",
+          "explanation": "det yttre höljet på ett djurs kropp, här: ett material man skrev på innan papper fanns"
+        }
+      ],
+      "main_caption": "En härskare bygger den här staden som en perfekt cirkel, bredvid en stor flod.",
+      "side_caption": "Innan papper skriver människor på utspänt skinn, precis som här."
+    },
+    {
+      "title": "Ett team av översättare",
+      "text_sentences": [
+        "I början av 800-talet ligger platsen X i Bagdad.",
+        "En härskare vid namn al-Ma'mun älskar kunskap mer än guld eller ädelstenar.",
+        "Han betalar ett stort team av forskare för att leta efter gamla böcker på grekiska, persiska och indiska språk.",
+        "Kristna, muslimer och andra arbetar sida vid sida i teamet.",
+        "Teamet gör om hundratals gamla böcker till arabiska.",
+        "Den mest kända översättaren, Hunayn ibn Ishaq, arbetar lite senare.",
+        "Han kan flera språk perfekt.",
+        "Han kontrollerar varje översättning mycket noga innan den lämnar hans händer.",
+        "En berättelse säger att härskaren betalar honom vikten av varje färdig bok i guld.",
+        "Ingen kan bekräfta den berättelsen, men alla är överens om att han arbetar snabbt och bra.",
+        "Läkare, stjärntittare och tänkare kan nu läsa idéer från tre kontinenter."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Visdomens hus",
+        "Biblioteket i Córdoba",
+        "Akademin i Aten",
+        "Sankore i Timbuktu"
+      ],
+      "words": [
+        {
+          "word": "forskare",
+          "explanation": "en person som studerar och vet väldigt mycket"
+        },
+        {
+          "word": "översättare",
+          "explanation": "en person vars jobb är att göra om en text till ett annat språk"
+        },
+        {
+          "word": "kontinent",
+          "explanation": "ett av jordens mycket stora landområden, till exempel Europa eller Asien"
+        },
+        {
+          "word": "ädelsten",
+          "explanation": "en sällsynt och vacker sten som kostar mycket pengar"
+        }
+      ],
+      "main_caption": "Böcker från fjärran anländer med floden. Forskare ska göra om dem till ett nytt språk.",
+      "side_caption": "En översättare gör om en bok från ett språk till ett annat."
+    },
+    {
+      "title": "Att mäta jorden, bygga maskiner",
+      "text_sentences": [
+        "För ungefär 1 200 år sedan blir platsen X i Bagdad ett centrum för noggrann mätning.",
+        "En härskare skickar ut team av astronomer i den platta öknen norr om staden.",
+        "De går och mäter tills Polstjärnan står en grad högre på himlen.",
+        "Från denna noggranna vandring räknar de ut storleken på hela jorden.",
+        "Deras svar kommer nära det verkliga talet, långt innan någon seglar runt planeten.",
+        "I samma stad konstruerar tre bröder smarta maskiner.",
+        "Deras maskiner häller upp drycker med dolda trick, och en spelar till och med musik av sig själv.",
+        "En matematiker från ett land långt österut arbetar också här.",
+        "Han skriver en berömd bok som senare ger Europa en hel gren av matematiken.",
+        "Han förklarar också ett indiskt sätt att skriva siffror, med en symbol för nollan.",
+        "Platsen X samlar tänkare från många länder och många ämnesområden."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Universitetet i Bologna",
+        "Al-Qarawiyyin i Fez",
+        "Biblioteket i Alexandria",
+        "Visdomens hus"
+      ],
+      "words": [
+        {
+          "word": "astronom",
+          "explanation": "en person som studerar stjärnor, planeter och himlen"
+        },
+        {
+          "word": "grad",
+          "explanation": "en liten enhet för att mäta en vinkel, som en bit av en cirkel"
+        },
+        {
+          "word": "matematiker",
+          "explanation": "en person som studerar tal, former och mönster"
+        },
+        {
+          "word": "symbol",
+          "explanation": "ett tecken eller märke som står för något annat"
+        }
+      ],
+      "main_caption": "Noggrann vandring och noggrann observation av himlen kan mäta något så stort som jorden.",
+      "side_caption": "En matematiker räknar ut nya regler med noggranna ritningar, inte gissningar."
+    },
+    {
+      "title": "Idéer reser västerut, sedan faller staden",
+      "text_sentences": [
+        "I flera hundra år samlar platsen X i Bagdad kunskap från grekiska, persiska och indiska källor.",
+        "Forskare där skriver nya verk om medicin, astronomi och matematik.",
+        "Långsamt flyttar denna kunskap västerut längs handelsvägar och genom det muslimska Spanien.",
+        "Under 1100-talet översätter team i den spanska staden Toledo arabiska böcker till latin.",
+        "På ön Sicilien gör andra översättare samma viktiga arbete.",
+        "Genom dessa latinska kopior kan europeiska universitet äntligen läsa idéer som bevarats och förbättrats långt österut.",
+        "Men platsen X varar inte för alltid.",
+        "År 1258 når hären från stäpperna staden och förstör mycket av den.",
+        "En berättelse säger att floden bredvid staden rinner svart av bläck från oräkneliga förstörda böcker.",
+        "Historiker kan inte bekräfta denna exakta detalj, men de är överens om att förstörelsen själv är verklig och enorm.",
+        "Staden återhämtar sig med tiden, men dess guldålder för lärande återvänder aldrig helt."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Akademin i Aten",
+        "Visdomens hus",
+        "Biblioteket i Córdoba",
+        "Al-Azhar i Kairo"
+      ],
+      "words": [
+        {
+          "word": "källa",
+          "explanation": "en text eller plats som ger information eller kunskap"
+        },
+        {
+          "word": "förstörelse",
+          "explanation": "handlingen att förstöra något helt"
+        },
+        {
+          "word": "återhämta sig",
+          "explanation": "att bli frisk eller normal igen efter en svår tid"
+        },
+        {
+          "word": "bekräfta",
+          "explanation": "att visa eller säga att något definitivt är sant"
+        }
+      ],
+      "main_caption": "Böcker reser västerut till en spansk stad, där de görs om till latin.",
+      "side_caption": "En berättelse säger att floden blir mörk av bläck från förstörda böcker."
+    },
+    {
+      "title": "Akademi, bibliotek eller senare legend?",
+      "text_sentences": [
+        "Många populära böcker beskriver platsen X som en storslagen akademi full av berömda forskare.",
+        "Hur mycket av den bilden kommer verkligen från de gamla historiska källorna?",
+        "De äldsta källorna nämner knappt mer än ett kalifbibliotek, med några få översättare och kopister i arbete där.",
+        "De säger nästan inget om föreläsningar, klassrum eller inskrivna studenter.",
+        "Några moderna historiker tror att platsen X mest är ett kungligt bibliotek, inte en skola.",
+        "Andra historiker menar att de bevarade källorna helt enkelt är ofullständiga, och att platsen fungerade ungefär som en riktig akademi.",
+        "Många livfulla detaljer i populära återberättelser dyker först upp århundraden efter händelserna de beskriver.",
+        "Guldbetalningen för översättningar och den bläcksvarta floden är senare berättelser, inte ögonvittnesskildringar.",
+        "Ändå visar källorna något anmärkningsvärt.",
+        "Härskare betalar för ett långvarigt arbete med att samla och översätta kunskap mellan språk.",
+        "Historiker måste skilja detta säkra bevis från den romantiska legend som har vuxit fram kring platsen med tiden."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Nalanda",
+        "Universitetet i Bologna",
+        "Visdomens hus",
+        "Al-Qarawiyyin i Fez"
+      ],
+      "words": [
+        {
+          "word": "akademi",
+          "explanation": "en skola eller plats för högre studier och undervisning"
+        },
+        {
+          "word": "bevis",
+          "explanation": "fakta eller föremål som visar att något är sant"
+        },
+        {
+          "word": "ögonvittne",
+          "explanation": "en person som med egna ögon såg en händelse hända"
+        },
+        {
+          "word": "legend",
+          "explanation": "en gammal berättelse som många tror på, även om delar av den kanske inte är sanna"
+        }
+      ],
+      "main_caption": "Ett tyst bibliotek, eller en livlig skola? De äldsta källorna säger väldigt lite.",
+      "side_caption": "Med tiden kan några enkla fakta växa till en mycket större berättelse."
+    }
+  ]
+}
