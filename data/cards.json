@@ -25868,6 +25868,864 @@
           }
         }
       ]
+    },
+    {
+      "slug": "isaac-newton",
+      "person": "Isaac Newton",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Story About an Apple",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is born in a small village in England.",
+            "His father dies just before he is born.",
+            "He grows up on the family farm.",
+            "Later, he studies at a university.",
+            "A serious sickness closes the university for a time.",
+            "Mr X goes home to the farm.",
+            "He stays there for more than a year.",
+            "He thinks and thinks about the world around him.",
+            "Later in life, he tells a story about an apple.",
+            "He says he watches an apple fall from a tree.",
+            "He asks himself what pulls the apple down to the ground.",
+            "He wonders if the same pull holds the moon in the sky."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Charles Darwin",
+            "Robert Hooke"
+          ],
+          "correct": "Isaac Newton",
+          "words": [
+            {
+              "word": "village",
+              "explanation": "a small place where people live, smaller than a town"
+            },
+            {
+              "word": "university",
+              "explanation": "a school where adults study after ordinary school"
+            },
+            {
+              "word": "sickness",
+              "explanation": "an illness, a disease"
+            },
+            {
+              "word": "pull",
+              "explanation": "a force that draws something toward it"
+            }
+          ],
+          "main_image": {
+            "description": "In a quiet English orchard on a grey afternoon, a young man in plain seventeenth-century clothes sits under an apple tree with his back to the viewer, one red apple caught in mid fall just above the grass, an old stone farmhouse with a thatched roof behind a low hedge. Production note: seventeenth-century England dress, no wig needed, figure seen from behind only, not a recognizable portrait; the only fruit tree motif in the set.",
+            "caption": "A quiet afternoon in an orchard, long ago in England.",
+            "shutterstock_query": "english orchard apple tree seventeenth century farmhouse quiet afternoon",
+            "ai_prompt": "Photorealistic wide image of a quiet English orchard on a grey afternoon in seventeenth-century England: a young man wearing plain seventeenth-century clothing, a loose linen shirt, dark breeches and a plain long coat, no wig, sits on the grass under an apple tree with his back fully to the viewer, one red apple frozen in mid fall just above the ground, a low hedge and an old stone farmhouse with a thatched roof in the background, soft overcast light, calm mood. No modern objects, no wire fences, no visible face, not a recognizable portrait, no drawn lines or diagrams, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A narrow cobbled street in a small seventeenth-century English town lies empty in daylight, wooden shop shutters closed on every building, a single distant figure in period dress walks away near the far end of the street. Production note: no gore, no red crosses or plague markings on any door, calm and not frightening.",
+            "caption": "The sickness closes shops and empties the streets.",
+            "shutterstock_query": "empty cobbled street closed shutters historical english town quiet",
+            "ai_prompt": "Photorealistic vertical image of a narrow cobbled street in a small seventeenth-century English town, empty in flat daylight, timber-framed houses with wooden shop shutters closed on every building, a single distant figure in a plain seventeenth-century coat and hat walking away near the far end, quiet still mood, not frightening. No people close to the camera, no shop signs, no red crosses or plague markings on any door, no gore, no modern objects, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A Prism, a Mirror, and Three Laws",
+          "category": "science",
+          "text_sentences": [
+            "Mr X studies at a university in England.",
+            "A deadly plague closes it for a time, and he goes home.",
+            "He lets sunlight pass through a glass prism.",
+            "White light spreads into all the colors of a rainbow.",
+            "So white light is a mix of all colors, he says.",
+            "A glass lens splits light in the same way, so old telescopes blur the picture.",
+            "In 1668, he builds a telescope with a curved mirror instead.",
+            "The picture is sharper, and the tube is much shorter.",
+            "He becomes a professor at only 26.",
+            "Scholars in London are amazed by his small telescope.",
+            "He also writes down three simple laws about how things move.",
+            "One law says a moving thing keeps moving unless something stops it."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Robert Hooke",
+            "Edmond Halley"
+          ],
+          "correct": "Isaac Newton",
+          "words": [
+            {
+              "word": "plague",
+              "explanation": "a dangerous disease that spreads quickly and kills many people"
+            },
+            {
+              "word": "prism",
+              "explanation": "a piece of glass with flat sides that splits light into colors"
+            },
+            {
+              "word": "lens",
+              "explanation": "a curved piece of glass that bends light"
+            },
+            {
+              "word": "mirror",
+              "explanation": "a smooth surface that reflects light and shows a picture"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a plain seventeenth-century college room in England, soft daylight from a small leaded window, a young man is seen only from behind and to the side, bent over a wooden workbench, carefully fitting a small curved metal mirror into a short plain tube. Simple period tools and a few closed books lie on the table. Production note: seventeenth-century England dress, face not visible, a daylight scene without candles, a college room and not a farmhouse.",
+            "caption": "With his own hands, Mr X builds a new kind of telescope.",
+            "shutterstock_query": "seventeenth century college room daylight man building small telescope mirror workbench",
+            "ai_prompt": "Photorealistic image inside a plain seventeenth-century English college room with whitewashed walls and a small leaded window, soft daylight from the window, a young man in seventeenth-century dress, a plain waistcoat with rolled linen sleeves and no wig, seen only from behind and to the side so his face is hidden, bent over a wooden workbench carefully fitting a small curved metal mirror into a short plain tube, simple period hand tools and a few closed plain books on the table, quiet focused mood. No candle, no modern tools or objects, no visible face, no marks on any book or tool, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close up on a plain triangular glass prism resting on a dark wooden windowsill in a seventeenth-century room, a thin beam of sunlight passing through it and spreading into a small rainbow of colors on the wood below. Production note: no hands, no people, prism plain and unmarked.",
+            "caption": "Sunlight through a prism becomes a small rainbow of colors.",
+            "shutterstock_query": "glass prism sunlight rainbow wooden windowsill close up historical",
+            "ai_prompt": "Photorealistic vertical close-up of a plain triangular glass prism resting on a dark wooden windowsill inside a seventeenth-century English room with a small leaded window and a rough plaster wall, a thin beam of sunlight passing through the prism and spreading into a small rainbow of colors across the wood below, soft warm daylight, calm quiet mood. No people, no hands, no modern objects, no drawn lines or diagrams, prism plain and unmarked, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "One Force for Earth and Sky",
+          "category": "science",
+          "text_sentences": [
+            "Mr X becomes a famous scholar in England.",
+            "In a letter to a rival, he writes a line that sounds humble.",
+            "He says he sees far only by standing on the shoulders of giants.",
+            "In 1687, he publishes his greatest book.",
+            "The book gives exact laws for how forces move all things.",
+            "It also describes one single force called gravitation.",
+            "Every object pulls every other object, he says, and heavy objects pull hardest.",
+            "The force that makes a stone fall also holds the moon in its path.",
+            "The moon's pull lifts the seas and makes the tides.",
+            "The same force keeps every planet moving around the sun.",
+            "Before this book, earth and sky seem to follow different rules.",
+            "After it, one set of laws explains both."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Johannes Kepler",
+            "Gottfried Leibniz"
+          ],
+          "correct": "Isaac Newton",
+          "words": [
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows a lot about a subject"
+            },
+            {
+              "word": "rival",
+              "explanation": "a person who competes against you or disagrees with you"
+            },
+            {
+              "word": "gravitation",
+              "explanation": "the pulling force between the earth, the moon, and all other things"
+            },
+            {
+              "word": "tide",
+              "explanation": "the rise and fall of the sea, twice each day"
+            }
+          ],
+          "main_image": {
+            "description": "A full moon rises over a quiet seventeenth-century English village, a squat stone church tower and thatched roofs below, seen from a dark grassy field under a clear starry sky. No people. Production note: no drawn lines or diagrams, no apple tree, a plain natural night scene.",
+            "caption": "One force holds the moon in the sky and pulls every stone to the ground.",
+            "shutterstock_query": "full moon rising village church tower thatched roofs night field",
+            "ai_prompt": "Photorealistic night scene of a full moon rising pale and bright over a quiet seventeenth-century English village, a squat stone church tower and thatched cottage roofs below, seen from a dark grassy field, a clear starry sky, calm silent mood. No people, no electric light, no modern buildings, no wires or poles, no drawn lines, arrows or diagrams, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A wide sandy beach on the English coast at low tide in the evening, wet sand shining, seaweed-covered rocks and a small plain wooden rowing boat lying on the sand far from the water's edge, low grassy cliffs behind. No people. Production note: a plain wooden boat of an old type, no motor, no modern objects; the picture helps explain the word tide.",
+            "caption": "The moon's pull lifts the seas and makes the tides.",
+            "shutterstock_query": "low tide sandy beach wooden rowing boat seaweed rocks evening cliffs",
+            "ai_prompt": "Photorealistic vertical image of a wide sandy beach on the English coast at low tide in the evening, wet sand shining, seaweed-covered rocks and a small plain wooden rowing boat lying on the sand far from the water's edge, low grassy cliffs behind, soft evening light, calm mood. No people, no motor boat, no modern objects, no buildings, no wires, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Bitter Argument, a Coin, and a Secret Furnace",
+          "category": "science",
+          "text_sentences": [
+            "Mr X invents a powerful new kind of mathematics.",
+            "Some years later, a mathematician in Paris invents very similar ideas.",
+            "His name is Gottfried Leibniz, and he works alone too.",
+            "For years, the two men argue about who was first.",
+            "Followers on both sides write angry letters.",
+            "The bitter argument lasts until both men are dead.",
+            "Later in life, Mr X takes a high post at the royal money house.",
+            "There, he hunts down men who make fake coins.",
+            "He studies court records and questions witnesses himself.",
+            "Few people know that he also spends years on secret experiments.",
+            "In a hot furnace, he tries to turn cheap metals into gold.",
+            "He also fills many private pages with his own ideas about the Bible."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Johannes Kepler",
+            "Isaac Newton",
+            "Robert Hooke",
+            "Edmond Halley"
+          ],
+          "correct": "Isaac Newton",
+          "words": [
+            {
+              "word": "mathematician",
+              "explanation": "a person who is an expert in numbers and mathematics"
+            },
+            {
+              "word": "witness",
+              "explanation": "a person who sees something happen and can tell others about it"
+            },
+            {
+              "word": "fake",
+              "explanation": "not real, made to look like something it is not"
+            },
+            {
+              "word": "furnace",
+              "explanation": "a closed fire built to make things very hot"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a stone-walled seventeenth-century money house, a man in a long dark coat and a plain period wig, seen from behind, examines stacks of plain round silver discs on a heavy wooden table by candlelight, a small brass balance scale nearby. Production note: late seventeenth-century England dress, no readable marks on the coins, face not visible; the only candlelit interior in the set.",
+            "caption": "Later in life, Mr X hunts down men who make fake coins.",
+            "shutterstock_query": "old royal mint stone room silver coins candlelight seventeenth century",
+            "ai_prompt": "Photorealistic image inside a stone-walled seventeenth-century English money house, a man in late seventeenth-century dress, a long dark coat and a plain shoulder-length period wig, seen only from behind, examines stacks of plain round blank silver discs on a heavy wooden table lit by candlelight, a small brass balance scale nearby, warm low light, serious quiet mood. No portraits, dates or symbols stamped on any coin, no modern tools, no visible face, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A small brick furnace glows with charcoal in a plain stone-walled seventeenth-century workroom, a clay crucible held in iron tongs rests on its edge, a leather bellows lies on the floor, a few lumps of dull metal on a wooden bench, cool daylight from a small window. No people. Production note: no skulls, no occult symbols, no labelled bottles, no readable marks; the picture helps explain the word furnace.",
+            "caption": "In secret, he heats metals in a furnace and hopes to make gold.",
+            "shutterstock_query": "old brick furnace crucible tongs bellows stone workroom daylight",
+            "ai_prompt": "Photorealistic vertical image of a small brick furnace glowing with charcoal in a plain stone-walled seventeenth-century English workroom, a clay crucible held in iron tongs resting on the furnace edge, a leather bellows on the stone floor, a few lumps of dull metal on a wooden bench, cool daylight from a small window mixing with the orange glow, quiet secretive mood. No people, no skulls, no occult symbols, no labelled bottles, no modern tools, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Standing on Other Men's Work",
+          "category": "science",
+          "text_sentences": [
+            "Mr X becomes one of the most famous scientists in history.",
+            "But historians remind us he does not work alone in an empty room.",
+            "Earlier thinkers already study falling objects and moving planets.",
+            "A rival scientist already guesses that a pulling force weakens with distance.",
+            "Mr X takes such scattered clues and proves them with exact mathematics.",
+            "He writes far more pages about old chemistry and about the Bible than about motion.",
+            "Colleagues describe him as brilliant but also difficult and secretive.",
+            "He rarely admits his own mistakes, and he almost never forgives a rival.",
+            "More than two hundred years later, new science changes some of his rules.",
+            "Even so, his basic laws still guide bridges, rockets, and machines today."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Robert Hooke",
+            "Isaac Newton",
+            "Christiaan Huygens",
+            "Gottfried Leibniz"
+          ],
+          "correct": "Isaac Newton",
+          "words": [
+            {
+              "word": "historian",
+              "explanation": "a person who studies and writes about the past"
+            },
+            {
+              "word": "distance",
+              "explanation": "how far away one thing is from another"
+            },
+            {
+              "word": "colleague",
+              "explanation": "a person you work with"
+            },
+            {
+              "word": "secretive",
+              "explanation": "keeping many things hidden or private"
+            }
+          ],
+          "main_image": {
+            "description": "On a high grassy hill in the English countryside at dawn, a lone man in a plain dark coat stands with his back to the viewer, looking out over a wide misty valley below, small distant church spires barely visible through the mist. Production note: seventeenth-century England dress, figure seen from behind at a distance, not a recognizable portrait.",
+            "caption": "Mr X sees further only because others study the sky before him.",
+            "shutterstock_query": "lone man hilltop misty valley dawn english countryside seventeenth century",
+            "ai_prompt": "Photorealistic wide image of a high grassy hill in the seventeenth-century English countryside at dawn, a lone man in seventeenth-century dress, a plain dark coat, dark breeches and a wide-brimmed hat, stands with his back fully to the viewer, looking out over a wide misty valley below, small distant church spires barely visible through the mist, soft golden dawn light, calm contemplative mood. No modern objects, no roads or wires, no visible face, not a recognizable portrait, no drawn lines or diagrams, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A tall modern steel suspension bridge seen from below against a pale morning sky, its thick cables and steel beams forming a clean pattern, soft daylight. No people. Production note: a deliberately modern motif for the line about bridges and machines today; no signs, no logos, no painted marks on any beam.",
+            "caption": "His laws still guide the builders of bridges and machines today.",
+            "shutterstock_query": "steel suspension bridge from below cables beams pale sky",
+            "ai_prompt": "Photorealistic vertical image of a tall modern steel suspension bridge seen from below against a pale morning sky, thick cables and steel beams forming a clean geometric pattern, soft daylight, calm mood. No people, no cars, no signs, no logos, no painted marks, no flags, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "albert-einstein",
+      "person": "Albert Einstein",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Compass, a Desk, and a Big Question",
+          "category": "science",
+          "text_sentences": [
+            "Mr X is a small boy in Germany, more than 140 years ago.",
+            "His family says he is slow to start talking.",
+            "One day his father shows him a small compass.",
+            "The needle always points the same way, and this amazes him.",
+            "He wants to know why, and he never stops asking why.",
+            "He also loves to play the violin.",
+            "As a young man, he cannot find a steady job as a teacher.",
+            "He takes a job in an office in Switzerland instead.",
+            "His job is to check other people's new inventions.",
+            "In his free time, he thinks about light and time.",
+            "Years later, his strange ideas are tested, and he becomes famous all over the world."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Michael Faraday",
+            "Niels Bohr"
+          ],
+          "correct": "Albert Einstein",
+          "words": [
+            {
+              "word": "compass",
+              "explanation": "a small tool with a needle that always points north"
+            },
+            {
+              "word": "violin",
+              "explanation": "a small wooden music instrument with strings, played with a bow"
+            },
+            {
+              "word": "invention",
+              "explanation": "a new thing that a person makes for the first time"
+            },
+            {
+              "word": "amaze",
+              "explanation": "to surprise someone very much"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a plain government office in Switzerland in 1905, a young clerk in an early-twentieth-century dark suit, waistcoat and tie sits at a wooden desk, seen from behind or at an angle so his face and hair stay out of clear view, sorting through closed cardboard folders, a small wooden model of a machine and a brass instrument standing on the desk, warm daylight from a tall window, tall wooden shelves full of closed files behind him. Production note: no technical drawings, no papers with writing, no blackboards, no computers or other modern office objects, no flags.",
+            "caption": "Mr X checks other people's new inventions all day long.",
+            "shutterstock_query": "1905 office clerk wooden desk closed folders brass instrument historical",
+            "ai_prompt": "Photorealistic image of a plain government office interior in Switzerland in 1905, a young clerk in an early-twentieth-century dark wool suit, waistcoat and narrow tie sits at a wooden desk seen from behind or at a turned angle so his face and hair stay out of clear view, sorting through closed cardboard folders, a small wooden model of a machine and a brass measuring instrument standing on the desk, warm daylight from a tall window, tall wooden shelves full of closed files behind him, calm quiet mood. No technical drawings, no papers with writing, no blackboards, no computers, no plastic, no modern office objects, no flags, no visible face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close-up of a small child's hand in a plain 1880s wool sleeve holding an old brass pocket compass, the plain compass face showing only a dark needle and a few small plain marks, the needle clearly pointing to one side, soft warm indoor light, softly blurred background. No face visible. Production note: no engraved letters or numbers on the compass face.",
+            "caption": "A small compass like this one fills Mr X with wonder.",
+            "shutterstock_query": "child hand holding antique brass compass close up",
+            "ai_prompt": "Photorealistic vertical close-up of a small child's hand in a plain 1880s wool sleeve holding an old brass pocket compass, the plain compass face showing only a dark needle and a few small plain marks, the needle clearly pointing to one side, soft warm indoor light, softly blurred plain background, calm curious mood. No face, no modern objects, no engraved letters or numbers on the compass face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "One Strange Year, Then a Ship Away",
+          "category": "science",
+          "text_sentences": [
+            "Mr X works in a quiet office, more than 100 years ago.",
+            "In one single year, he writes four amazing papers.",
+            "One paper says light can act like tiny particles, not only waves.",
+            "Another paper explains why tiny bits of matter dance in water under a microscope.",
+            "A third paper gives strange new rules for space and time.",
+            "A fourth paper says mass and huge energy are really the same thing.",
+            "Only a few scientists notice these papers at first.",
+            "Many years later, he wins a great science prize.",
+            "The prize is for the paper about light as particles.",
+            "It is not for his idea called relativity, which is even more famous.",
+            "In 1933, a new dictator takes power in his home country.",
+            "Mr X leaves for good and sails to safety in the United States."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Max Planck",
+            "Albert Einstein",
+            "Ernest Rutherford",
+            "Lise Meitner"
+          ],
+          "correct": "Albert Einstein",
+          "words": [
+            {
+              "word": "particle",
+              "explanation": "a very, very small piece of something"
+            },
+            {
+              "word": "matter",
+              "explanation": "anything that takes up space, like water, wood, or air"
+            },
+            {
+              "word": "microscope",
+              "explanation": "a tool with lenses that makes very small things look big"
+            },
+            {
+              "word": "dictator",
+              "explanation": "a ruler who has all the power and lets nobody disagree"
+            }
+          ],
+          "main_image": {
+            "description": "A large steel ocean liner of the 1930s with two tall funnels and a black hull departs a European harbor at dusk, seen from a distance across calm dark water, smoke rising from the funnels, dock cranes and brick warehouses in silhouette. No people close enough to see faces, no flags, no funnel markings. Production note: a 1930s liner shape, not a modern cruise ship.",
+            "caption": "In 1933, Mr X leaves his home country and never returns.",
+            "shutterstock_query": "1930s ocean liner departing harbor dusk silhouette",
+            "ai_prompt": "Photorealistic wide shot of a large steel ocean liner of the 1930s with two tall funnels and a black hull departing a European harbor at dusk, seen from a distance across calm dark water, smoke rising from the funnels, dock cranes and brick warehouses in silhouette, dramatic orange sky, calm serious mood. No modern cruise ship shapes, no shipping containers, no neon signs, no flags, no funnel markings, no visible faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An early 1900s brass microscope with a black iron base stands on a plain wooden laboratory bench, a small glass slide with a single drop of water resting under its lens, soft daylight from a window, dark softly blurred background. The picture explains that the dancing bits of matter from his second paper are seen only under a microscope. Production note: no maker's name or engraved marks on the brass, no labels, no modern equipment.",
+            "caption": "Only under a microscope can you see tiny bits of matter dance in water.",
+            "shutterstock_query": "antique brass microscope glass slide water drop wooden bench",
+            "ai_prompt": "Photorealistic vertical image of an early 1900s brass microscope with a black iron base standing on a plain wooden laboratory bench, a small glass slide with a single drop of water resting under its lens, soft daylight from a window, dark softly blurred background, calm scientific mood. No maker's name or engraved marks on the brass, no labels, no modern equipment, no plastic, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Starlight Bends, Just as He Says",
+          "category": "science",
+          "text_sentences": [
+            "Mr X works out a strange new idea about space and time.",
+            "Others soon call the idea relativity.",
+            "Nothing can travel faster than the speed of light, he says.",
+            "Time itself can run slower or faster, depending on speed.",
+            "Ten years later, he finishes an even bigger version of the idea.",
+            "This time, it is about gravity.",
+            "Gravity is not a pull, he says, but a bending of space itself.",
+            "Heavy stars and planets bend the space and time around them.",
+            "If he is right, starlight should bend when it passes close to the sun.",
+            "In 1919, a total eclipse hides the sun's light for a few minutes.",
+            "Scientists photograph stars near the darkened sun and measure the bending.",
+            "The result supports his idea, and he becomes famous all over the world."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Arthur Eddington",
+            "Max Planck",
+            "Albert Einstein",
+            "James Clerk Maxwell"
+          ],
+          "correct": "Albert Einstein",
+          "words": [
+            {
+              "word": "gravity",
+              "explanation": "the force that pulls things toward each other, like the earth pulling you down"
+            },
+            {
+              "word": "relativity",
+              "explanation": "a scientific idea that connects space, time, and motion"
+            },
+            {
+              "word": "eclipse",
+              "explanation": "when the moon covers the sun and the sky goes dark for a while"
+            },
+            {
+              "word": "bend",
+              "explanation": "to curve, so something is no longer straight"
+            }
+          ],
+          "main_image": {
+            "description": "On a tropical hillside in 1919, a small team of European scientists in white linen tropical suits and pith helmets of that era set up a large brass telescope and a wooden photographic camera on wooden tripods, pointed at the sky, while two local assistants with brown skin in light cotton working clothes and straw hats help carry wooden crates at the same distance, palm trees around them, bright daylight, all seen from a respectful distance so faces are small and generic and hair stays hidden under hats and helmets. Production note: both expeditions of 1919 relied on local helpers, show them as part of the team.",
+            "caption": "In 1919, scientists travel far to test his strange new idea.",
+            "shutterstock_query": "1919 eclipse expedition scientists telescope tropical hillside historical",
+            "ai_prompt": "Photorealistic historical image of a tropical hillside in 1919, a small team of European scientists in white linen tropical suits and pith helmets of that era set up a large brass telescope and a wooden photographic camera on wooden tripods pointed at the sky, two local assistants with brown skin in light cotton working clothes and straw hats help carry wooden crates at the same distance, palm trees around them, bright daylight, all seen from a respectful distance so faces are small and generic and hair stays hidden under hats and helmets, calm busy mood. No modern cameras, no plastic, no visible brand marks, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A total solar eclipse as seen on an old photographic plate: a round black disk with a large streaky glowing white corona around its edge, and a few tiny white points of starlight scattered around it against the black sky. The picture shows what the expedition photographs during the eclipse. Production note: the corona large and streaky so the eclipse reads clearly as the sun; no labels, arrows, letters or numbers marking any star.",
+            "caption": "During the eclipse, the hidden sun lets scientists see stars nearby.",
+            "shutterstock_query": "total solar eclipse corona dark sky stars around black disk",
+            "ai_prompt": "Photorealistic astronomical image of a total solar eclipse as seen on an old photographic plate, a round black disk with a large streaky glowing white corona around its edge, a few tiny white points of starlight scattered around it against a deep black sky, crisp and calm. No arrows, no labels, no diagram lines, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Letter, a Weapon, and an Offer Refused",
+          "category": "science",
+          "text_sentences": [
+            "In 1933, a dictator takes power in Germany.",
+            "Mr X leaves, and by the late 1930s he lives safely in the United States.",
+            "He hears that scientists in Europe can now split the tiny core of an atom.",
+            "Splitting this core can release a huge burst of energy.",
+            "Other scientists worry that the dictator's country could build a powerful weapon.",
+            "Just before a great war begins in Europe, Mr X signs a letter to the American president.",
+            "The letter warns that such a weapon is now possible.",
+            "He never works on the weapon project himself.",
+            "Years later, the weapon is used, and he feels deep regret.",
+            "For the rest of his life, he speaks and writes for peace between nations.",
+            "Late in his life, Israel offers him its highest office.",
+            "He kindly refuses, saying he understands ideas better than people."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Leo Szilard",
+            "Otto Hahn",
+            "Albert Einstein",
+            "Max Planck"
+          ],
+          "correct": "Albert Einstein",
+          "words": [
+            {
+              "word": "atom",
+              "explanation": "one of the very small pieces that everything is made of"
+            },
+            {
+              "word": "weapon",
+              "explanation": "a tool made to hurt or destroy"
+            },
+            {
+              "word": "regret",
+              "explanation": "a sad feeling about something you wish had not happened"
+            },
+            {
+              "word": "refuse",
+              "explanation": "to say no to an offer"
+            }
+          ],
+          "main_image": {
+            "description": "On a plain wooden desk in a 1930s American university office, a sealed cream envelope lies face down beside a black fountain pen and a closed brown leather folder, a green-shaded desk lamp giving warm light, tall wooden bookshelves softly blurred in the background. No visible address or writing on the envelope, no people.",
+            "caption": "In 1939, Mr X signs a serious warning to the president.",
+            "shutterstock_query": "1930s office desk sealed envelope fountain pen lamp light",
+            "ai_prompt": "Photorealistic image of a plain wooden desk in a 1930s American university office, a sealed cream envelope lying face down beside a black fountain pen and a closed brown leather folder, a green-shaded desk lamp giving warm light, tall wooden bookshelves softly blurred in the background, no people, quiet serious mood. No address, no stamp, no postmark, no writing on the envelope, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A single leafy olive branch rests on a worn stone windowsill, an old ivy-covered 1930s university building softly blurred beyond the window glass, gentle afternoon light. The picture shows his later work for peace.",
+            "caption": "For the rest of his life, he works and speaks for peace.",
+            "shutterstock_query": "olive branch stone windowsill university building soft light",
+            "ai_prompt": "Photorealistic vertical close-up of a single leafy olive branch resting on a worn stone windowsill, an old ivy-covered 1930s stone university building softly blurred beyond the window glass, gentle warm afternoon light, calm hopeful mood, no people. No signs, no plaques, no modern objects, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "The Icon and the Man Behind It",
+          "category": "science",
+          "text_sentences": [
+            "By the 1920s, Mr X has changed how scientists think about space, time, and gravity.",
+            "His ideas go beyond the laws of motion that rule science for two hundred years.",
+            "In the same decade, a new and stranger science takes full shape: quantum theory.",
+            "This theory says that, deep down, nature may only offer chances, never certainty.",
+            "Mr X helps start this new science, but he never accepts its full picture.",
+            "He famously argues that nature cannot simply leave things to pure chance.",
+            "Most physicists disagree with him, and quantum theory keeps succeeding.",
+            "In 1939, worried colleagues persuade him to sign a fateful letter.",
+            "Historians still debate how much responsibility one signature really carries.",
+            "His face becomes one of the most printed and copied images in history.",
+            "Yet the real man is often anxious, uncertain, and privately self-critical.",
+            "The famous icon and the real man are not quite the same person."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Niels Bohr",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Ernest Rutherford"
+          ],
+          "correct": "Albert Einstein",
+          "words": [
+            {
+              "word": "quantum theory",
+              "explanation": "a science of very small things, like atoms, that often works by chance"
+            },
+            {
+              "word": "certainty",
+              "explanation": "being completely sure that something is true"
+            },
+            {
+              "word": "fateful",
+              "explanation": "having very important and serious results later"
+            },
+            {
+              "word": "icon",
+              "explanation": "a person or image that stands for something famous and important"
+            }
+          ],
+          "main_image": {
+            "description": "A crowd of 1920s press photographers in dark wool coats and felt hats, seen entirely from behind, hold up boxy wooden and metal press cameras and flash lamps toward the closed tall doors of a grand stone building, grey daylight. No faces visible. The picture suggests how the cameras follow him everywhere without showing any actual face. Production note: 1920s press cameras with bellows and flash lamps, no modern cameras or phones, no banners.",
+            "caption": "Wherever he goes, the cameras wait for him.",
+            "shutterstock_query": "1920s press photographers crowd from behind cameras flash grand building doors",
+            "ai_prompt": "Photorealistic image of a crowd of 1920s press photographers in dark wool coats and felt hats, seen entirely from behind, holding up boxy wooden and metal press cameras of the 1920s with bellows and flash lamps toward the closed tall doors of a grand stone building, grey daylight, expectant mood. No faces, no modern cameras, no phones, no banners, no signs, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A lone elderly man in a loose 1950s wool cardigan and soft grey trousers, wearing a plain dark wool hat that hides his hair, walks slowly away along a quiet snowy path on an American university campus, seen from a distance and from behind, bare trees on both sides, old brick and stone buildings softly blurred beyond, his face never visible. The picture shows the quiet private man behind the famous image.",
+            "caption": "Behind the famous image is a quiet, private man.",
+            "shutterstock_query": "elderly man walking away snowy university campus path from behind",
+            "ai_prompt": "Photorealistic wide vertical shot of a lone elderly man in a loose 1950s wool cardigan and soft grey trousers, wearing a plain dark wool hat that fully hides his hair, walking slowly away along a quiet snowy path on an American university campus, seen from a distance and from behind, bare trees lining the path, old brick and stone buildings softly blurred beyond, soft winter light, calm reflective mood. No visible face, no visible hair, no modern cars, no signs, no flags, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "marie-curie",
+      "person": "Marie Curie",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Secret School and a Glowing Jar in a Shed",
+          "category": "science",
+          "text_sentences": [
+            "Mrs X is a girl in Warsaw, more than 150 years ago.",
+            "A foreign empire rules her country at this time.",
+            "Girls cannot study at the university there.",
+            "So young women study in secret, in a different room each time.",
+            "For about five years, Mrs X works as a governess.",
+            "She saves money to help her sister study first.",
+            "At last, she travels to Paris herself.",
+            "She studies late into the night, often hungry and cold.",
+            "Later, she works in a cold wooden shed.",
+            "Inside, a strange new substance glows softly in the dark."
+          ],
+          "question": "Who is Mrs X?",
+          "options": [
+            "Marie Curie",
+            "Rosalind Franklin",
+            "Emmy Noether",
+            "Ada Lovelace"
+          ],
+          "correct": "Marie Curie",
+          "words": [
+            {
+              "word": "empire",
+              "explanation": "a large group of countries or lands ruled by one power"
+            },
+            {
+              "word": "governess",
+              "explanation": "a woman paid to teach children at home"
+            },
+            {
+              "word": "substance",
+              "explanation": "a material, the stuff that a thing is made of"
+            },
+            {
+              "word": "glow",
+              "explanation": "to give off a soft, gentle light"
+            }
+          ],
+          "main_image": {
+            "description": "A small dark wooden shed at night in 1890s Paris, plain glass jars, flasks and beakers on a rough wooden table inside, one jar giving off a faint bluish green glow in the dark, seen through a half-open door from outside. No people visible. Production note: no labels, no readable text on any jar or bottle, the glow soft and natural, not cartoonish; the only glowing motif in the set.",
+            "caption": "In a cold wooden shed, something strange begins to glow.",
+            "shutterstock_query": "old wooden shed night glass jars faint glow through door",
+            "ai_prompt": "Photorealistic night scene of a small dark wooden shed in 1890s Paris, seen from outside through a half-open door, a rough wooden table inside crowded with plain glass jars, flasks and beakers of 1890s type, one jar giving off a faint soft bluish green glow in the dark interior, no people visible, calm mysterious mood. No modern lab equipment, no electric light, no labels, no cartoonish bright neon light, no radiation symbols, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A young woman in a modest dark 1880s dress sits with two small children at a table in a plain sitting room, a closed book and a wooden bead abacus between them, soft daylight from a window, seen from the side at a small distance. Production note: historically accurate 1880s dress, a closed book and not an open one, no slate, no modern clothing or objects.",
+            "caption": "For about five years, Mrs X earns money teaching other people's children.",
+            "shutterstock_query": "1880s governess teaching two children sitting room abacus closed book",
+            "ai_prompt": "Photorealistic vertical image of a young woman in a modest dark 1880s dress with a high collar sitting at a table with two small children in plain 1880s clothes in a simple Polish sitting room, a closed book and a wooden bead abacus between them, soft daylight through a window, calm domestic mood, seen from the side at a small distance. No open book, no slate, no writing, no modern clothing or objects, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Two New Elements and a Prize Never Given to a Woman Before",
+          "category": "science",
+          "text_sentences": [
+            "Mrs X now works as a scientist in Paris.",
+            "She studies strange rays coming from a heavy dark ore.",
+            "With her husband, she searches for their true source.",
+            "Within one year, they find two new elements.",
+            "They name one polonium, after her home country, and one radium.",
+            "It then takes years of hard work to make a tiny amount of pure radium.",
+            "In 1903, Mrs X wins the Nobel Prize.",
+            "She is the first woman ever to win it.",
+            "Three years later, her husband dies in a street accident.",
+            "She keeps working alone, deep in grief.",
+            "The Sorbonne then gives her his old post.",
+            "She becomes its very first woman professor."
+          ],
+          "question": "Who is Mrs X?",
+          "options": [
+            "Lise Meitner",
+            "Marie Curie",
+            "Chien-Shiung Wu",
+            "Elizabeth Blackwell"
+          ],
+          "correct": "Marie Curie",
+          "words": [
+            {
+              "word": "ore",
+              "explanation": "rock that contains a useful metal or material"
+            },
+            {
+              "word": "element",
+              "explanation": "one of the basic simple substances that make up everything"
+            },
+            {
+              "word": "grief",
+              "explanation": "the deep sad feeling after someone dies"
+            },
+            {
+              "word": "post",
+              "explanation": "a job or official position"
+            }
+          ],
+          "main_image": {
+            "description": "The wide stone steps and inner courtyard of a large university in Paris in the early 1900s, male students in dark coats and hats and a few women in long skirts on the steps, one woman in a plain dark dress and hat seen from behind walking up the steps alone, overcast sky. Production note: shot from the courtyard side, not the street facade; no readable signs, no plaques, no flags, no visible face on the woman.",
+            "caption": "The university in Paris gives Mrs X a great honor.",
+            "shutterstock_query": "early 1900s paris university courtyard stone steps students period dress",
+            "ai_prompt": "Photorealistic wide view of the wide stone steps and inner courtyard of a large Paris university in the early 1900s, male students in dark coats and hats and a few women in long skirts standing on the steps, one woman in a plain dark dress and hat seen from behind walking up the steps alone, overcast Parisian sky, historically accurate early 1900s dress, calm mood. No cars, no modern clothing, no readable signs, no plaques, no flags, no visible face on the woman, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A rough chunk of dark, almost black mineral ore rests on an old wooden laboratory table, faint mineral dust around it, a simple brass balance scale nearby, dim natural light from a window. Production note: no labels, no readable text, no modern equipment.",
+            "caption": "Inside this heavy dark rock hide two elements nobody has named yet.",
+            "shutterstock_query": "dark uranium ore chunk old wooden lab table brass scale",
+            "ai_prompt": "Photorealistic vertical close-up of a rough chunk of dark, almost black mineral ore resting on an old wooden laboratory table, faint mineral dust around it, a simple antique brass balance scale nearby, dim natural window light, 1890s scientific setting. No modern lab equipment, no labels, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Second Prize, and a Body Slowly Paying the Price",
+          "category": "science",
+          "text_sentences": [
+            "Mrs X already holds the Nobel Prize from years earlier.",
+            "Her husband has died, but she keeps working alone.",
+            "In 1911, she wins the Nobel Prize a second time, for her own research.",
+            "She becomes the first person in history to win two.",
+            "By now, she works daily with strong glowing substances.",
+            "People say she carries small glowing tubes around in her pocket.",
+            "She loves the soft light they give at night.",
+            "Few yet understand how much the invisible rays can hurt the body over many years.",
+            "Slowly, her hands grow rough, and her eyes grow weak.",
+            "Years of exposure quietly damage her health."
+          ],
+          "question": "Who is Mrs X?",
+          "options": [
+            "Elizabeth Blackwell",
+            "Grace Hopper",
+            "Marie Curie",
+            "Mary Seacole"
+          ],
+          "correct": "Marie Curie",
+          "words": [
+            {
+              "word": "research",
+              "explanation": "careful study to find out new things"
+            },
+            {
+              "word": "substance",
+              "explanation": "a material, the stuff that a thing is made of"
+            },
+            {
+              "word": "invisible",
+              "explanation": "impossible to see"
+            },
+            {
+              "word": "exposure",
+              "explanation": "being close to something, again and again, over time"
+            }
+          ],
+          "main_image": {
+            "description": "In soft daylight, a woman's bare hands, the skin rough and slightly reddened, rest on a dark wooden laboratory bench beside a small closed wooden box, dark early 1900s dress cuffs visible at the wrists, the rest of the room softly blurred. Only hands and forearms visible. Production note: no face, no glove, no glowing tube, no wounds or blood, no modern lab equipment, no labels; she worked with bare hands, which is why the text says her hands grow rough.",
+            "caption": "Years near the strange rays slowly hurt her hands.",
+            "shutterstock_query": "woman bare hands rough skin wooden laboratory bench early 1900s dress cuffs",
+            "ai_prompt": "Photorealistic close-up in soft daylight of a woman's bare hands, the skin rough, dry and slightly reddened, resting on a dark wooden laboratory bench beside a small closed wooden box, dark early 1900s dress cuffs with plain buttons visible at the wrists, the laboratory room softly blurred behind, only hands and forearms visible, quiet serious mood. No face, no glove, no glowing tube, no wounds, no blood, no modern lab equipment, no labels, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A round gold medal rests at an angle on a dark blue velvet cushion in soft light, catching a warm gleam along its curved edge, its engraved face turned just out of clear view. Production note: no readable letters, numbers, portraits or symbols visible on the medal.",
+            "caption": "A second great prize makes her the first person ever to win two.",
+            "shutterstock_query": "gold medal velvet cushion soft light angle closeup",
+            "ai_prompt": "Photorealistic vertical close-up of a round gold medal of early 1900s style resting at an angle on a dark blue velvet cushion, soft warm light catching its curved edge, the engraved face turned just out of clear view so no design is readable, calm reverent mood. No readable portrait or symbol on the medal, no modern objects, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "X-ray Cars at the Front, and Notebooks Locked in Lead",
+          "category": "science",
+          "text_sentences": [
+            "The great war of 1914 begins in Europe.",
+            "Wounded soldiers arrive at hospitals every single day.",
+            "Mrs X has an idea to help doctors see broken bones fast.",
+            "She puts simple X-ray machines inside ordinary cars.",
+            "She trains young women to drive and use the machines near the front.",
+            "Her own teenage daughter works beside her as a helper.",
+            "The X-ray service they build examines more than a million wounded men.",
+            "After the war, Mrs X returns to her quiet laboratory.",
+            "She dies in 1934, worn out after decades near strong radiation.",
+            "Even today, her old notebooks are too radioactive to touch safely."
+          ],
+          "question": "Who is Mrs X?",
+          "options": [
+            "Lise Meitner",
+            "Marie Curie",
+            "Mary Seacole",
+            "Rosalind Franklin"
+          ],
+          "correct": "Marie Curie",
+          "words": [
+            {
+              "word": "wounded",
+              "explanation": "hurt or injured, often in a war"
+            },
+            {
+              "word": "front",
+              "explanation": "the place where two armies fight closest to each other"
+            },
+            {
+              "word": "radioactive",
+              "explanation": "giving off strong invisible rays that can harm the body"
+            }
+          ],
+          "main_image": {
+            "description": "An early 1900s automobile of 1914 to 1918 design converted into a simple mobile medical vehicle with a boxy rear compartment, parked on a muddy rural road near plain canvas army tents, overcast grey sky, seen from a distance, no people in clear focus nearby. Production note: no red cross or other medical emblem, no flags, no readable signs or plates on the vehicle, no visible wounded people, no gore.",
+            "caption": "Mrs X sends simple X-ray cars close to the wounded soldiers.",
+            "shutterstock_query": "early 1900s automobile mobile medical vehicle muddy road military camp distance",
+            "ai_prompt": "Photorealistic wide view of an early 1900s automobile of 1914 to 1918 design converted into a simple mobile medical vehicle with a boxy rear compartment, parked on a muddy rural road near plain canvas army tents, overcast grey sky, seen from a distance, no people in clear focus, historically accurate 1914 to 1918 military vehicle design. No red cross or medical emblem, no flags, no license plates, no signs, no visible wounded people, no gore, no modern vehicles, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A thick lead-lined grey metal box stands open on a quiet archive shelf, revealing a single worn old notebook inside, a present-day archivist's hand in a thin grey protective glove reaching toward it but not yet touching, soft archive lighting. Production note: a single closed notebook, not a stack; no radiation warning symbols, no readable text on the notebook cover, no labels.",
+            "caption": "Her old notebooks are still kept locked away today, too dangerous to touch freely.",
+            "shutterstock_query": "lead lined metal box old notebook archive gloved hand",
+            "ai_prompt": "Photorealistic vertical image of a thick lead-lined grey metal box standing open on a quiet archive shelf, revealing a single worn old leather notebook inside, a present-day archivist's hand in a thin grey protective glove reaching toward it but not yet touching, soft archive lighting, calm careful mood. No radiation warning symbols, no readable text on the notebook cover, no labels, no stack of books, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "A Prize Almost Without Her Name",
+          "category": "science",
+          "text_sentences": [
+            "In 1903, a Nobel Prize committee first plans to honor only two men.",
+            "One of the men, her husband, insists that her name be added too.",
+            "So her name is added, and she shares the prize.",
+            "Eight years later, a second prize follows, for her own work alone.",
+            "That same year, a hostile press attacks her private life instead of her science.",
+            "Some newspapers even question whether a foreign-born woman deserves such honors.",
+            "Historians later study these attacks as a case of gender and prejudice.",
+            "Her life also raises a hard question about the price of new knowledge.",
+            "More than sixty years after her death, France moves her remains to its great hall of honored citizens.",
+            "She becomes the first woman honored there for her own achievements."
+          ],
+          "question": "Who is Mrs X?",
+          "options": [
+            "Emmy Noether",
+            "Marie Curie",
+            "Chien-Shiung Wu",
+            "Lise Meitner"
+          ],
+          "correct": "Marie Curie",
+          "words": [
+            {
+              "word": "committee",
+              "explanation": "a small group of people chosen to decide something"
+            },
+            {
+              "word": "hostile",
+              "explanation": "unfriendly and full of anger"
+            },
+            {
+              "word": "prejudice",
+              "explanation": "an unfair opinion about someone formed before knowing them"
+            },
+            {
+              "word": "remains",
+              "explanation": "here: the body of a person who has died"
+            }
+          ],
+          "main_image": {
+            "description": "The vast interior of a great domed hall of honor in Paris, tall pale stone columns, a shaft of soft daylight falling from the high dome onto the polished stone floor, no people. Production note: no inscriptions, no plaques, no statues with readable names, no flags; the place is not named in the caption.",
+            "caption": "Long after her death, France gives her a place among its most honored citizens.",
+            "shutterstock_query": "grand domed hall interior stone columns shaft of light empty",
+            "ai_prompt": "Photorealistic wide interior of a vast neoclassical domed hall of honor in Paris, tall pale stone columns, a shaft of soft daylight falling from the high dome onto the polished stone floor, no people, calm solemn mood. No inscriptions, no plaques, no readable names on any stone, no flags, no modern objects, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An empty formal early 1900s meeting room with a long polished wooden table and several empty upholstered chairs, tall windows with soft daylight, a few closed leather folders stacked neatly at one end of the table, no people. Production note: no readable text on folders or on any wall plaque, calm quiet mood.",
+            "caption": "A small committee first decides who deserves the great prize.",
+            "shutterstock_query": "empty formal meeting room long table chairs daylight",
+            "ai_prompt": "Photorealistic vertical image of an empty formal early 1900s meeting room with a long polished wooden table and several empty upholstered chairs, tall windows with soft daylight, a few closed leather folders stacked neatly at one end of the table, no people, quiet formal mood. No electric ceiling lights of modern type, no readable text on folders, no plaques, no flags, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
