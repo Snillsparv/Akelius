@@ -35,25 +35,25 @@
         },
         {
           "word": "sjösjuk",
-          "explanation": "man mår illa för att ett skepp rör sig på vågorna"
+          "explanation": "att må illa för att skeppet rör sig på vågorna"
         },
         {
-          "word": "jättesköldpadda",
-          "explanation": "ett mycket stort, långsamt djur med ett hårt skal, som lever på land"
+          "word": "sällsynt",
+          "explanation": "som det finns väldigt få av"
         }
       ],
       "main_caption": "I nästan fem år seglar herr X på ett litet träskepp.",
-      "side_caption": "På avlägsna öar möter herr X jättesköldpaddor som denna."
+      "side_caption": "På avlägsna öar möter herr X jättesköldpaddor som den här."
     },
     {
       "title": "Tjugo år av anteckningsböcker och ett brev från Asien",
       "text_sentences": [
         "Herr X återvänder till England efter fem år till sjöss.",
-        "I flera år tänker han på levande varelser och förändring.",
+        "I åratal tänker han på levande varelser och förändring.",
         "Han lägger märke till något: djur passar bra in i sin omgivning.",
         "Djur som passar bra in överlever och får ungar.",
         "Under mycket lång tid förändrar detta sakta alla levande varelser.",
-        "Herr X kallar idén naturligt urval.",
+        "Herr X kallar den här idén naturligt urval.",
         "Han fyller anteckningsbok efter anteckningsbok med sina idéer.",
         "Tjugo år går, och han berättar det för nästan ingen.",
         "Sedan kommer ett brev från en naturforskare i Asien.",
@@ -81,15 +81,15 @@
           "explanation": "en person som studerar växter, djur och naturen"
         }
       ],
-      "main_caption": "I tjugo år går herr X, tänker och fyller sina anteckningsböcker.",
+      "main_caption": "I tjugo år går herr X omkring, tänker och fyller sina anteckningsböcker.",
       "side_caption": "Ett djur som passar in i sin omgivning är svårt att se och svårt att fånga."
     },
     {
       "title": "Duvor, havstulpaner och tålmodiga experiment",
       "text_sentences": [
-        "För mer än 150 år sedan arbetar herr X tyst hemma i England.",
-        "Han föder själv upp många olika sorters duvor.",
-        "Uppfödare förändrar redan duvor mycket genom att välja föräldrar.",
+        "För mer än 150 år sedan arbetar herr X i stillhet hemma i England.",
+        "Själv föder han upp många olika sorters duvor.",
+        "Uppfödare förändrar redan duvor mycket genom att välja ut föräldrarna.",
         "Herr X undrar om naturen väljer på samma sätt.",
         "I åtta långa år studerar han små havstulpaner.",
         "Han beskriver noggrant varje känd sorts havstulpan.",
@@ -97,7 +97,7 @@
         "Han iakttar hur daggmaskar sakta flyttar jord under gräset.",
         "Han arbetar ensam och testar tålmodigt idé efter idé.",
         "Han skriver många brev till bönder och trädgårdsmästare.",
-        "Sakta stödjer många små experiment hemma en enda stor idé."
+        "Sakta ger många små experiment hemma stöd åt en enda stor idé."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -128,14 +128,14 @@
       "text_sentences": [
         "År 1859 ger herr X ut en bok som förändrar vetenskapen.",
         "Den säger att alla levande varelser sakta förändras med tiden.",
-        "Många läser den, och en stor strid uppstår.",
+        "Många läser den, och ett stort gräl bryter ut.",
         "Året därpå debatterar lärda män boken i Oxford.",
-        "En biskop och en vetenskapsman argumenterar inför en folkmassa.",
+        "En biskop och en vetenskapsman tvistar inför en stor publik.",
         "Senare författare beskriver debatten på olika sätt.",
-        "Även de som är där minns orden olika.",
+        "Till och med de som är på plats minns orden olika.",
         "En del religiösa ledare blir arga över den nya idén.",
         "Andra troende ser ingen konflikt med sin egen tro.",
-        "Herr X själv stannar tyst hemma, ofta sjuklig.",
+        "Herr X själv håller sig hemma i stillhet, ofta sjuk.",
         "Han dör mer än tjugo år senare, gammal och respekterad.",
         "Han begravs med heder i Westminster Abbey."
       ],
@@ -157,27 +157,27 @@
         },
         {
           "word": "tro",
-          "explanation": "en stark tro, ofta på Gud eller en religion"
+          "explanation": "att vara säker på något, ofta på Gud eller en religion"
         }
       ],
-      "main_caption": "I Oxford argumenterar två män om herr X:s nya bok inför en folkmassa.",
-      "side_caption": "Herr X begravs med heder i en stor, gammal abbedikyrka."
+      "main_caption": "I Oxford tvistar två män om herr X:s nya bok inför en stor publik.",
+      "side_caption": "Herr X begravs med heder i en stor, gammal klosterkyrka."
     },
     {
-      "title": "En trädskiss, en till upptäckare och ett missbrukat arv",
+      "title": "En trädskiss, en andra upptäckare och ett missbrukat arv",
       "text_sentences": [
         "Herr X besöker öar i Stilla havet som ung man.",
         "Senare berättelser säger att finkar lär honom allt på en gång.",
         "I själva verket antecknar han knappt vilken ö varje fink kommer från.",
         "Härmtrastar intresserar honom mer vid den tiden.",
-        "Senare forskare och skolböcker formar den berömda finkhistorien.",
+        "Senare forskare och skolböcker formar den berömda berättelsen om finkarna.",
         "På 1980-talet visar en historiker att berättelsen är en legend.",
         "En del historiker frågar sig om Wallace, en annan naturforskare, förtjänar mer erkännande.",
         "Vi känner till hans idéer från anteckningsböcker och många brev.",
         "En sida från 1837 visar en liten skiss av ett träd.",
         "Ovanför skissen skriver han två ord: ”jag tror”.",
-        "Andra män missbrukar senare hans idéer för att ursäkta rasism.",
-        "Han själv förespråkar aldrig sådan politik."
+        "Andra män missbrukar senare hans idéer för att försvara rasism.",
+        "Själv förespråkar han aldrig sådan politik."
       ],
       "question": "Vem är herr X?",
       "options": [
