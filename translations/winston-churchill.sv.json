@@ -8,15 +8,15 @@
         "Som pojke är herr X dålig i latin och matematik.",
         "Han älskar tennsoldater mer än lektioner.",
         "För mer än hundra år sedan blir han en ung arméofficer.",
-        "Han kämpar för sitt lands armé i Sudan och skriver för tidningar.",
+        "Han strider i sitt lands armé i Sudan och skriver för tidningar.",
         "Senare reser han med soldater i Sydafrika, som reporter.",
         "Boerkrigare tar honom till fånga och låser in honom i ett fångläger.",
         "En natt klättrar herr X över lägrets mur.",
         "Han gömmer sig bland kolsäckar på ett godståg.",
-        "Sedan gömmer hjälpare honom i en gruva och på ett annat tåg.",
-        "Efter en lång, farlig resa når han säkerhet.",
+        "Sedan hjälper andra människor honom att gömma sig i en gruva och på ett annat tåg.",
+        "Efter en lång, farlig resa kommer han i säkerhet.",
         "Tidningar trycker historien om hans flykt, och han blir berömd.",
-        "År senare leder han sitt lands regering i kriget mot diktatorn i Tyskland."
+        "Många år senare leder han sitt lands regering i kriget mot diktatorn i Tyskland."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -49,14 +49,14 @@
     {
       "title": "Bara blod, slit, tårar och svett",
       "text_sentences": [
-        "1940 blir herr X ledare för sitt lands regering.",
+        "År 1940 blir herr X ledare för sitt lands regering.",
         "Landet står nästan ensamt i kriget mot diktatorn i Tyskland.",
         "I parlamentet lovar han bara blod, slit, tårar och svett.",
         "Tidningar trycker hans ord, och människor upprepar dem.",
         "Hans ord är enkla, och många säger att orden ger dem mod.",
         "Snart bombar fiendens flygplan huvudstaden, natt efter natt.",
-        "Familjer gömmer sig i skyddsrum och i tunnelbanestationer.",
-        "Vid morgonen har bränder ödelagt hela gator.",
+        "Familjer gömmer sig i skyddsrum och på tunnelbanestationer.",
+        "På morgonen har bränder ödelagt hela gator.",
         "Nästa dag går herr X genom ruinerna.",
         "Han pratar med trötta familjer bland de sönderslagna husen.",
         "Hans tal från dessa månader blir berömda över hela världen."
@@ -86,24 +86,24 @@
           "explanation": "det som är kvar sedan byggnader förstörts"
         }
       ],
-      "main_caption": "Efter bombningen ligger gatan i ruiner, och hjälpare söker under hela morgonen.",
-      "side_caption": "Varje natt går familjer ner i ett skyddsrum, trygga från bomberna ovan."
+      "main_caption": "Efter bombningen ligger gatan i ruiner, och räddningsarbetare söker hela morgonen.",
+      "side_caption": "Varje natt går familjer ner i ett skyddsrum, skyddade från bomberna ovanför."
     },
     {
       "title": "Skuld, varningar och ett förlorat val",
       "text_sentences": [
-        "1915 driver herr X hårt på för ett djärvt flottanfall.",
+        "År 1915 driver herr X hårt på ett djärvt anfall med flottan.",
         "Målet är ett smalt sund, långt från huvudfronten.",
-        "Planen misslyckas svårt.",
+        "Planen misslyckas helt.",
         "Mer än hundratusen soldater dör på båda sidor.",
-        "Herr X får mycket av skulden, och han förlorar sitt jobb i regeringen.",
-        "Han återvänder inom två år och har ett högt ämbete på 1920-talet.",
+        "Herr X får en stor del av skulden, och han förlorar sitt jobb i regeringen.",
+        "Han återvänder inom två år och innehar höga ämbeten på 1920-talet.",
         "Sedan kommer tio år utan ämbete, som biografer senare kallar hans ökenvandring.",
-        "Under dessa år varnar han för att en diktator i Tyskland blir farligare.",
+        "Under dessa år varnar han för att en diktator i Tyskland blir allt farligare.",
         "Få politiker vill lyssna på hans varningar.",
         "Senare leder han sitt land genom kriget i Europa.",
-        "Veckor efter segern håller landet ett val.",
-        "Väljarna väljer ett annat parti, som lovar nya bostäder, sjukvård och jobb."
+        "Några veckor efter segern håller hans land ett val.",
+        "Väljarna röstar på ett annat parti, som lovar nya bostäder, sjukvård och jobb."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -126,24 +126,24 @@
           "explanation": "ansvar för något dåligt som händer"
         }
       ],
-      "main_caption": "1915 anfaller skepp och soldater ett smalt sund, och den djärva planen misslyckas.",
-      "side_caption": "Veckor efter segern köar väljarna för att välja sina nästa ledare."
+      "main_caption": "År 1915 anfaller skepp och soldater ett smalt sund, och den djärva planen misslyckas.",
+      "side_caption": "Några veckor efter segern köar väljare för att välja sina nya ledare."
     },
     {
       "title": "Imperiet, Indien och en svält i Bengalen",
       "text_sentences": [
         "Herr X leder sitt lands regering i kriget mot diktatorn i Tyskland.",
-        "Han tror starkt att hans lands imperium är något gott.",
-        "Han säger hårda ord om det indiska folket och deras önskan om självständighet.",
-        "1943 drabbar svält regionen Bengalen, i Indien.",
-        "En cyklon och översvämningar förstör risskörden, och en växtsjukdom sprids.",
-        "Kriget stryper riset från Burma, och skeppen fraktar vapen, inte spannmål.",
-        "Tjänstemän i Indien ber hans regering om mer hjälp.",
-        "Hans regering vägrar skicka tillräckligt många matskepp.",
+        "Han är fast övertygad om att hans lands imperium är något gott.",
+        "Han fäller hårda ord om indierna och deras önskan om självständighet.",
+        "År 1943 drabbas regionen Bengalen i Indien av svält.",
+        "En cyklon och översvämningar förstör risskörden, och en växtsjukdom sprider sig.",
+        "Kriget stoppar riset från Burma, och skeppen fraktar vapen, inte spannmål.",
+        "Tjänstemän i Indien vädjar till hans regering om mer hjälp.",
+        "Hans regering vägrar att skicka tillräckligt många skepp med mat.",
         "Omkring tre miljoner människor dör av hunger och sjukdom.",
-        "Historiker är fortfarande oense om hur mycket skuld herr X bär.",
-        "Vissa pekar på brist på fraktfartyg överallt under kriget.",
-        "Andra pekar på hans egna ord och val om Indien."
+        "Historiker är fortfarande oense om hur stor skuld herr X bär.",
+        "Vissa pekar på att det är brist på fartyg överallt under kriget.",
+        "Andra pekar på hans egna ord och val när det gäller Indien."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -170,20 +170,20 @@
           "explanation": "att inte ha tillräckligt av något som behövs"
         }
       ],
-      "main_caption": "1943 sprider sig hungern i Bengalen, och familjer väntar på ris.",
+      "main_caption": "År 1943 sprider sig hungern i Bengalen, och familjer väntar på ris.",
       "side_caption": "En storm och översvämningar förstör skörden, och fälten ger nästan ingenting att äta."
     },
     {
       "title": "Mannen som skriver sin egen historia",
       "text_sentences": [
-        "Efter kriget i Europa skriver herr X sin egen historia om det.",
-        "Ett team av hjälpare arbetar med honom.",
+        "Efter kriget i Europa skriver herr X sin egen historia om kriget.",
+        "Ett team av medhjälpare arbetar med honom.",
         "Hans skildring fyller sex tjocka band.",
-        "Böckerna formar hur människor minns kriget i årtionden.",
-        "1953 får han Nobelpriset i litteratur.",
+        "I årtionden formar böckerna hur människor minns kriget.",
+        "År 1953 får han Nobelpriset i litteratur.",
         "Priset hedrar hans tal och hans historieskrivning, inte hans politik.",
-        "Bortom politiken målar herr X ofta stilla landskap.",
-        "Han kallar målandet sitt sätt att fly mörka stämningar.",
+        "Vid sidan av politiken målar herr X ofta stilla landskap.",
+        "Han kallar målandet sitt sätt att fly undan mörka sinnesstämningar.",
         "Historiker studerar senare hans privata papper, brev och kabinettshandlingar.",
         "Dessa källor stöder ibland hans egen skildring, och ibland motsäger de den.",
         "Så småningom skiljer historiker hans egen myt från det dokumenterade förloppet.",
@@ -199,7 +199,7 @@
       "words": [
         {
           "word": "band",
-          "explanation": "en bok i en lång rad böcker som hör ihop"
+          "explanation": "en bok i en serie böcker som hör ihop"
         },
         {
           "word": "skildring",

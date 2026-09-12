@@ -6,16 +6,16 @@
       "title": "Två rader av dominobrickor",
       "text_sentences": [
         "Kriget X börjar för mer än hundra år sedan, i Europa.",
-        "Många länder har skrivit på allianser innan kriget börjar.",
+        "Många länder har ingått allianser innan kriget börjar.",
         "Dessa allianser fungerar som två rader av dominobrickor.",
         "Om ett land hamnar i krig följer ofta dess allierade efter.",
-        "Sommaren 1914 blir en prins skjuten och dödad.",
+        "Sommaren 1914 skjuts en prins till döds.",
         "Det händer i en stad som heter Sarajevo, på Balkan.",
         "Historiker kallar detta skott gnistan, inte orsaken.",
         "Allianserna gör ett enda skott till ett krig över en hel kontinent.",
         "Många unga män, men inte alla, marscherar i väg under jubel.",
         "Många tror att de ska vara hemma igen till jul.",
-        "Men i stället varar kriget X i fyra långa år."
+        "I stället varar kriget X i fyra långa år."
       ],
       "question": "Vilket krig är kriget X?",
       "options": [
@@ -48,9 +48,9 @@
     {
       "title": "En linje som inte rör sig",
       "text_sentences": [
-        "Kriget X utkämpas mest på fälten i Europa.",
+        "Kriget X utkämpas mestadels på fälten i Europa.",
         "Soldater på båda sidor gräver långa skyttegravar i marken.",
-        "Skyttegravarna sträcker sig över landet i hundratals kilometer.",
+        "Skyttegravarna sträcker sig hundratals kilometer genom landskapet.",
         "Mellan de två linjerna ligger öppen mark som kallas ingenmansland.",
         "Kulsprutor kan skjuta hundratals kulor varje minut.",
         "Båda sidor använder också giftgas som bränner ögonen och lungorna.",
@@ -89,13 +89,13 @@
       "text_sentences": [
         "Kriget X utkämpas av soldater från varje kontinent.",
         "Det börjar 1914 och varar i fyra år.",
-        "Europeiska länder kallar in soldater från sina kolonier också.",
+        "Europeiska länder kallar också in soldater från sina kolonier.",
         "Soldater från Indien strider i skyttegravarna i Frankrike och på andra fronter.",
         "Män från Senegal korsar havet för att strida i Frankrike.",
         "Australiensare, kanadensare och soldater från Karibien deltar också.",
         "Osmanska riket, som styr över stora delar av Mellanöstern, strider också.",
         "Det förlorar kriget, och riket faller sönder.",
-        "Nya gränser dras då över Mellanöstern.",
+        "Därefter dras nya gränser genom Mellanöstern.",
         "Några av dessa gränser formar fortfarande regionen i dag.",
         "Hemma lämnar många män sina jobb för att strida.",
         "Kvinnor tar deras plats i fabriker som tillverkar vapen och verktyg."
@@ -127,18 +127,18 @@
     {
       "title": "Den elfte timmen",
       "text_sentences": [
-        "1917 har kriget X redan pågått i flera år.",
+        "År 1917 har kriget X redan pågått i flera år.",
         "USA går med i kriget och skickar soldater över havet.",
         "Samma år skakas det ryska riket av en revolution.",
-        "Landets nya ledare drar snart ut landet ur kriget.",
+        "De nya ledarna drar snart landet ur kriget.",
         "Striderna på de andra fronterna fortsätter i ytterligare ett år.",
         "Till sist stoppar ett vapenstillestånd striderna.",
         "Klockan är elva på den elfte dagen i den elfte månaden.",
         "Folkmassor i många städer jublar, gråter och kramar om främlingar.",
-        "Året efter skriver ledare under ett fredsavtal på slottet Versailles.",
-        "Det säger att ett land orsakade kriget och måste betala för skadorna.",
-        "Ungefär samtidigt sprids en ny sjukdom över hela världen.",
-        "Inom två år till dödar den ännu fler människor än kriget."
+        "Året efter skriver ledare under ett fredsavtal på slottet i Versailles.",
+        "Där står att ett land orsakade kriget och måste betala för skadorna.",
+        "Ungefär samtidigt sprider sig en ny sjukdom över hela världen.",
+        "På två år dödar den ännu fler människor än kriget."
       ],
       "question": "Vilket krig är kriget X?",
       "options": [
@@ -162,7 +162,7 @@
         }
       ],
       "main_caption": "När striderna äntligen tar slut fylls gatorna av glada och lättade människor.",
-      "side_caption": "En ny sjukdom fyller sjukhusavdelningar, även efter att striderna tar slut."
+      "side_caption": "En ny sjukdom fyller sjukhussalarna, även efter att striderna har tagit slut."
     },
     {
       "title": "Vems fel, och hur vet vi det",
@@ -172,10 +172,10 @@
         "Men historiker tvistar fortfarande om dess djupare orsak.",
         "En grupp historiker skyller på ambitionen hos ett visst land.",
         "En annan grupp säger att Europas ledare glider in i kriget som sömngångare.",
-        "Enligt den synen vill ingen ledare ha det enorma krig som följer.",
+        "Enligt det synsättet vill ingen ledare ha det enorma krig som följer.",
         "Källorna från den tiden är svåra att använda.",
         "Soldater skriver brev hem, men en censor tar bort vissa rader.",
-        "En dagbok ger privata tankar, men inte många soldater för en.",
+        "En dagbok visar privata tankar, men få soldater för dagbok.",
         "Efter kriget skriver varje regering sin egen officiella historia.",
         "Även antalet soldater som dör diskuteras fortfarande i dag.",
         "Historiker fortsätter att jämföra nya källor för att pröva gamla svar."
@@ -202,7 +202,7 @@
         }
       ],
       "main_caption": "Ett brev hem från en soldat. En censor har redan tagit bort några rader.",
-      "side_caption": "En soldat skriver i sin dagbok. Historiker läser sådana privata anteckningar med omsorg."
+      "side_caption": "En soldat skriver i sin dagbok. Historiker läser sådana privata anteckningar med försiktighet."
     }
   ]
 }

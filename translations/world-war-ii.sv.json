@@ -6,16 +6,16 @@
       "title": "En liten resväska och ett nytt hem",
       "text_sentences": [
         "Kriget X börjar 1939.",
-        "Det växer sig större än något krig före det.",
+        "Det växer sig större än något tidigare krig.",
         "Arméer strider på land, till sjöss och i luften.",
         "Soldater strider på tre kontinenter och över haven.",
         "I vissa länder evakuerar regeringarna många barn från de stora städerna.",
         "Varje barn bär en liten resväska och en namnlapp.",
-        "Tåg för dem till nya familjer på landsbygden.",
+        "Tåg tar dem till nya familjer på landsbygden.",
         "Hemma blir maten knapp, så familjerna använder ransoneringskort.",
         "Ett ransoneringskort visar hur mycket socker eller kött du får köpa.",
         "Tjocka, mörka gardiner täcker varje fönster på natten.",
-        "Inget ljus får synas utanför, annars kan flygplan se staden.",
+        "Inget ljus får synas utifrån, annars kan flygplan se staden.",
         "I skolan övar barnen på att sätta på sig gasmasker."
       ],
       "question": "Vilket krig är kriget X?",
@@ -36,7 +36,7 @@
         },
         {
           "word": "knapp",
-          "explanation": "svårt att hitta, eftersom det inte finns mycket av det"
+          "explanation": "det finns bara lite av den, så den är svår att få tag på"
         },
         {
           "word": "gasmask",
@@ -55,11 +55,11 @@
         "Sedan invaderar hans arméer Sovjetunionen, ett enormt land i öster.",
         "Strax efteråt anfaller Japan en amerikansk flottbas i Stilla havet.",
         "USA går med i kriget.",
-        "Nu täcker striderna verkligen större delen av världen.",
+        "Nu pågår striderna verkligen över större delen av världen.",
         "Djupt inne i Sovjetunionen blir ett långt slag en vändpunkt.",
         "I Stilla havet vänder också ett stort sjöslag krigslyckan.",
         "Soldater från många länder går i land på stränderna i norra Frankrike.",
-        "Gradvis trycker arméerna tillbaka diktatorns styrkor mot Tyskland.",
+        "Steg för steg pressar arméerna diktatorns styrkor tillbaka mot Tyskland.",
         "Efter nästan sex års krig kapitulerar Tyskland 1945."
       ],
       "question": "Vilket krig är kriget X?",
@@ -88,7 +88,7 @@
         }
       ],
       "main_caption": "Soldater från flera länder går i land på en strand i norra Frankrike.",
-      "side_caption": "Efter ett långt slag börjar kriget sakta byta riktning."
+      "side_caption": "Efter ett långt slag börjar kriget sakta ändra riktning."
     },
     {
       "title": "Sex miljoner, och hur vi vet",
@@ -98,13 +98,13 @@
         "Steg för steg tar nya lagar bort deras rättigheter och deras trygghet.",
         "Under kriget förvandlar diktatorns stat detta hat till organiserat massmord.",
         "I ockuperade länder tvingar staten judiska familjer in i avspärrade stadsdelar som kallas getton.",
-        "I öster skjuter dess polis och dess specialstyrkor ihjäl ett mycket stort antal judiska civila.",
+        "I öster skjuter dess polis och särskilda enheter ihjäl ett mycket stort antal judiska civila.",
         "Regimen bygger också läger vars enda syfte är att döda människor.",
         "Romer mördas där också, liksom andra grupper.",
-        "Funktionsnedsatta mördas i särskilda dödsläger i Tyskland.",
+        "Människor med funktionsnedsättning mördas på särskilda anstalter i Tyskland, inrättade för att döda.",
         "Sammanlagt mördas omkring sex miljoner judar i detta folkmord.",
         "Inte alla vänder bort blicken. Vissa grannar gömmer familjer med stor risk för sig själva.",
-        "Efter kriget berättar överlevare sina historier, så i dag vet vi vad som hände."
+        "Efter kriget berättar överlevande sina historier, så i dag vet vi vad som hände."
       ],
       "question": "Vilket krig är kriget X?",
       "options": [
@@ -127,7 +127,7 @@
           "explanation": "en regering, särskilt en med stor och ofta hård makt"
         },
         {
-          "word": "överlevare",
+          "word": "överlevande",
           "explanation": "en person som klarar sig igenom något mycket farligt"
         }
       ],
@@ -143,7 +143,7 @@
         "Hemma tar kvinnor nya jobb och bygger vapen och bombplan.",
         "Bombplan anfaller städer på alla sidor, och många civila dör.",
         "I augusti 1945 förstör två kraftfulla nya bomber två städer i Japan.",
-        "Vid slutet av det året är omkring två hundra tusen människor döda.",
+        "Vid slutet av det året är omkring tvåhundratusen människor döda.",
         "Några dagar senare kapitulerar Japan, och striderna upphör äntligen överallt.",
         "Sammanlagt räknar historiker mer än sextio miljoner döda.",
         "De flesta av dem är inte soldater, utan vanliga civila."
@@ -174,23 +174,23 @@
         }
       ],
       "main_caption": "Soldater från många delar av världen tjänstgör långt hemifrån.",
-      "side_caption": "Kvinnor bygger stora flygplan på fabriker medan männen är borta."
+      "side_caption": "Kvinnor bygger stora flygplan i fabriker medan männen är borta."
     },
     {
       "title": "Att räkna de döda, att bevara minnet",
       "text_sentences": [
         "Historiker tvistar fortfarande om det exakta antalet döda i kriget X.",
         "Uppskattningarna varierar från omkring femtio miljoner till omkring åttio miljoner människor.",
-        "I vissa länder är uppgifterna ofullständiga, förlorade eller fanns aldrig.",
+        "I vissa länder är uppgifterna ofullständiga, förlorade eller aldrig nedtecknade.",
         "Efter kriget håller domstolar i Nürnberg och Tokyo rättegång mot de tidigare ledarna.",
-        "Domare från de vinnande länderna tar del av bevis för krigsförbrytelser och massmord.",
+        "Domare från de segrande länderna tar del av bevis för krigsförbrytelser och massmord.",
         "Historiker debatterar också de två atombomberna som fälldes över Japan.",
         "Vissa hävdar att bomberna räddade liv genom att avsluta kriget snabbt.",
         "Andra hävdar att kriget redan var nära sitt slut.",
         "De tillägger att Sovjetunionens angrepp på Japan också spelade roll.",
-        "Museer, minnesplatser och överlevares vittnesmål håller minnet av kriget levande.",
-        "Några få personer förnekar felaktigt folkmordet på sex miljoner judar.",
-        "Historiker svarar med dokument, fotografier och överlevares egna ord."
+        "Museer, minnesplatser och de överlevandes vittnesmål håller minnet av kriget levande.",
+        "Några få personer förnekar, mot alla fakta, folkmordet på sex miljoner judar.",
+        "Historiker svarar med dokument, fotografier och de överlevandes egna ord."
       ],
       "question": "Vilket krig är kriget X?",
       "options": [
@@ -214,11 +214,11 @@
         },
         {
           "word": "minnesplats",
-          "explanation": "en plats byggd för att hjälpa människor minnas något viktigt"
+          "explanation": "en plats byggd för att hjälpa människor att minnas något viktigt"
         }
       ],
       "main_caption": "Historiker studerar gamla dokument för att förstå vad som verkligen hände.",
-      "side_caption": "En stilla minnesplats hjälper människor minnas dem som dog."
+      "side_caption": "En stilla minnesplats hjälper människor att minnas dem som dog."
     }
   ]
 }
