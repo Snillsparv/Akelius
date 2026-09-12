@@ -441,7 +441,7 @@ Anonymisering: Mr X för männen, Miss X för Nightingale, Mrs X för Curie
   håret, inga tavlor med formler, inga läsbara papper.
 - **Marie Curie**: Mrs X. Född i Warszawa 1867 under ryskt styre, flickor
   fick inte läsa vid universitetet, det hemliga "flygande universitetet",
-  guvernant i åtta år för att betala systerns studier, Paris 1891, bäst i
+  guvernant i omkring fem år 1885-1890 för att betala systerns studier, Paris 1891, bäst i
   klassen i fysik, gifter sig 1895 med en fysiker (skriv "her husband",
   aldrig hans namn), två nya grundämnen 1898 varav ett uppkallat efter
   hemlandet, tonvis med malm kokad i ett skjul, första kvinnan att få
@@ -456,12 +456,11 @@ Anonymisering: Mr X för männen, Miss X för Nightingale, Mrs X för Curie
 - **Louis Pasteur**: Mr X. Kemist från östra Frankrike, kristallerna 1848,
   jäsning orsakas av levande mikrober, svanhalskolven 1859-1861 som
   avgjorde att liv inte uppstår av sig självt i buljong, silkesmaskarnas
-  sjukdom 1865, uppvärmningen som gör vin, öl och mjölk hållbar (skriv
+  sjukdom 1865, uppvärmningen som gör vin och öl hållbar, mjölken kom senare genom andra (skriv
   "gentle heating kills the germs", ordet för processen är förbjudet),
-  hönskoleran 1879 där en glömd odling gav idén om försvagade smittämnen,
+  hönskoleran 1879 där försvagade odlingar gav idén om försvagade smittämnen, berättelsen om den glömda odlingen över sommaren är en anekdot och skrivs "a story says",
   mjältbrandsvaccinet 1881 på fåren i Pouilly-le-Fort, rabiesvaccinet 1885
-  på pojken Joseph Meister, institutet i Paris 1888, tre döttrar döda i
-  tyfus, slaganfallet 1868, rivalen i Berlin (Robert Koch, får namnges,
+  på pojken Joseph Meister, institutet i Paris 1888, tre döttrar döda som barn, minst två i tyfus, slaganfallet 1868, rivalen i Berlin (Robert Koch, får namnges,
   är inget set). Universitet: anteckningsböckerna som visade att han ibland
   förskönade sina resultat, etiken kring Meister, striden med Koch.
   Fångar: "Pasteur", "pasteur", "Louis", alla former av "pasteuriz".
