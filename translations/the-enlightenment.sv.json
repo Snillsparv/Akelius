@@ -10,7 +10,7 @@
         "Nu säger några tänkare något nytt.",
         "Varje människa kan använda sitt eget förstånd, säger de.",
         "Ställ frågor, säger de, och tro inte bara på gamla regler.",
-        "I ett land planerar författare en jättebok som försöker förklara allt i världen.",
+        "I ett land planerar författare en jättestor bok som försöker förklara allt i världen.",
         "I livliga kaffehus sitter män i timmar och diskuterar dessa nya idéer.",
         "I fina rum i Paris är kvinnor värdinnor för samtal där tänkare möts och talar fritt.",
         "Sakta börjar allt fler människor tänka på detta sätt."
@@ -95,10 +95,10 @@
         "Varje makt bör bevaka och begränsa de andra två, säger han.",
         "En annan tänkare, Rousseau, ställer en annan fråga: varför ska någon alls lyda en härskare?",
         "Han svarar att ett rättvist styre vilar på ett samhällsfördrag, en överenskommelse mellan fria människor.",
-        "Långt innan detta hävdar en engelsk tänkare vid namn Locke att härskare behöver folkets samtycke.",
-        "Mycket av detta samtal sker i salonger, regelbundna sammankomster som hålls i privata hem.",
+        "Långt före detta hävdar en engelsk tänkare vid namn Locke att härskare behöver folkets samtycke.",
+        "Mycket av dessa samtal sker i salonger, regelbundna sammankomster i privata hem.",
         "I Paris är en kvinna vid namn madame Geoffrin värdinna för en av tidens mest berömda salonger.",
-        "Där möts tänkare, diskuterar och delar ny text långt innan den trycks.",
+        "Där möts tänkare, diskuterar och delar nya texter långt innan de trycks.",
         "Årtionden senare inspirerar dessa idéer om makt och samtycke revolutionerna i Nordamerika och Frankrike."
       ],
       "question": "Vilken rörelse är rörelsen X?",
@@ -140,7 +140,7 @@
         "Tortyr som används för att tvinga fram bekännelser är grym och opålitlig, menar han.",
         "Dödsstraffet stoppar inte ens brott, tillägger han, och domstolar bör använda rättvisare metoder i stället.",
         "År 1792 ställer en brittisk författare vid namn Wollstonecraft en djärv fråga: varför inte utbilda kvinnor lika noggrant som män?",
-        "Kvinnor verkar bara svagare för att de får en sämre utbildning, menar hon.",
+        "Kvinnor verkar svagare bara för att de får en sämre utbildning, menar hon.",
         "Inom hela rörelsen beundrar tänkare ett lysande exempel: en engelsk vetenskapsmans rörelselagar, publicerade ett sekel tidigare.",
         "Om noggrant förnuft kan förklara hur planeterna rör sig, frågar de, varför inte använda det på lagar och styre?"
       ],
@@ -162,26 +162,26 @@
         },
         {
           "word": "bekännelse",
-          "explanation": "när en person erkänner, ofta under press, att hen har gjort något"
+          "explanation": "när en person erkänner, ofta under press, att han eller hon har gjort något"
         },
         {
           "word": "förnuft",
           "explanation": "noggrant tänkande som används för att komma fram till ett svar"
         }
       ],
-      "main_caption": "En domstol från sjuttonhundratalet. Några tänkare ifrågasätter nu dess hårdaste metoder.",
+      "main_caption": "En rättssal på sjuttonhundratalet. Några tänkare ifrågasätter nu dess hårdaste metoder.",
       "side_caption": "Låsta dörrar och gamla regler. Nu frågar sig några tänkare om reglerna är rättvisa."
     },
     {
       "title": "Vems förnuft räknas?",
       "text_sentences": [
-        "Historiker tvistar fortfarande om arvet efter rörelsen X, en rörelse av filosofer på sjuttonhundratalet.",
+        "Historiker tvistar fortfarande om arvet efter rörelsen X, en rörelse bland filosofer på sjuttonhundratalet.",
         "Dess tänkare prisar förnuft, frihet och lika rättigheter för alla människor.",
-        "Ändå använder några skribenter från tiden den nya vetenskapen för att rangordna folkslag, och kallar hela nationer naturligt underlägsna.",
+        "Ändå använder några av tidens skribenter den nya vetenskapen för att rangordna folkslag, och kallar hela nationer underlägsna av naturen.",
         "Samtidigt växer de europeiska rikena, och handeln med förslavade människor från Afrika till Amerika fortsätter.",
         "Tänkare inom rörelsen, som Condorcet och Raynal, angriper slaveriet och kolonial grymhet i sina egna texter.",
-        "Senare historiker frågar sig också vems förnuft rörelsen egentligen kretsar kring: mestadels europeiska män av en viss klass.",
-        "Kvinnor är värdinnor för salongerna men får sällan publicera.",
+        "Senare historiker frågar sig också vems förnuft rörelsen egentligen kretsar kring: mestadels europeiska män ur en viss samhällsklass.",
+        "Kvinnor är värdinnor för salongerna men får sällan publicera sig.",
         "Koloniserade folk och de fattiga sitter aldrig vid salongens bord.",
         "På nittonhundratalet ställer filosofer en mörkare fråga: kan kall beräkning i sig leda till fruktansvärt våld?",
         "Ändå lär skolor på varje kontinent i dag ut dess centrala idé: ifrågasätt auktoriteter, och tänk själv utifrån bevis."
@@ -204,7 +204,7 @@
         },
         {
           "word": "koloniserad",
-          "explanation": "att leva under kontroll av en avlägsen härskande makt"
+          "explanation": "som lever under kontroll av en avlägsen härskande makt"
         },
         {
           "word": "beräkning",
@@ -212,7 +212,7 @@
         }
       ],
       "main_caption": "Dess böcker prisar förnuft och frihet. Historiker tvistar fortfarande om vad det betydde för alla andra.",
-      "side_caption": "Rikena blir rika på varor från långt borta. Filosofernas lovord om frihet når inte alla."
+      "side_caption": "Rikena växer sig rika på varor från fjärran länder. Filosofernas lovord om frihet når inte alla."
     }
   ]
 }

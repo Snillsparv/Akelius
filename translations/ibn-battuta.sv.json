@@ -8,12 +8,12 @@
         "Herr X lever för ungefär sjuhundra år sedan.",
         "Han föds i Tanger, en hamnstad i Marocko.",
         "Hans familj är religiösa lärda och domare.",
-        "Vid tjugoett års ålder lämnar han hemmet ensam.",
+        "När han är tjugoett år lämnar han hemmet ensam.",
         "Han reser österut på vägen till Mecka, på en helig pilgrimsfärd.",
-        "Han rider kameler genom heta öknar och seglar på träskepp.",
+        "Han rider på kameler genom heta öknar och seglar på träskepp.",
         "En sådan resa tar oftast mer än ett år.",
-        "Men han älskar vägen, och han slutar aldrig riktigt.",
-        "I nästan trettio år flyttar han från stad till stad.",
+        "Men han älskar att resa, och han slutar aldrig riktigt.",
+        "I nästan trettio år reser han från stad till stad.",
         "Han möter kungar, domare och heliga män på vägen.",
         "Hans familj väntar hemma, och i åratal hör de ingenting."
       ],
@@ -26,7 +26,7 @@
       ],
       "words": [
         {
-          "word": "hamn",
+          "word": "hamnstad",
           "explanation": "en stad vid havet där skepp stannar"
         },
         {
@@ -48,15 +48,15 @@
     {
       "title": "Längs kusten, över vinden",
       "text_sentences": [
-        "Herr X seglar längs Östafrikas kust, för ungefär sjuhundra år sedan.",
+        "Herr X seglar längs Östafrikas kust för ungefär sjuhundra år sedan.",
         "Han besöker rika handelsstäder byggda av korallsten, som Kilwa och Mogadishu.",
         "Guld och elfenben passerar genom deras livliga marknader.",
-        "Senare bär en stark säsongsvind hans skepp tillbaka norrut till Arabien.",
+        "Senare för en stark årstidsvind hans skepp tillbaka norrut till Arabien.",
         "Sjömän kallar denna vind monsunen, och den blåser åt ett håll på sommaren och åt det andra på vintern.",
-        "År senare, efter en lång resa till lands genom många länder, når han Indien 1333.",
+        "Flera år senare, efter en lång resa över land genom många länder, når han Indien år 1333.",
         "Herr X kommer till Delhi, en stor stad styrd av en mäktig sultan.",
-        "Sultanen gillar bildade besökare och gör herr X till domare.",
-        "Han dömer mål där i flera år, långt från sitt hem i väster.",
+        "Sultanen tycker om bildade besökare och gör herr X till domare.",
+        "Han avgör rättsfall där i flera år, långt från sitt hem i väster.",
         "Senare seglar han vidare till Maldiverna, en kedja av små öar i havet.",
         "Drottningens hov där gör honom också till domare, den här gången bland palmer och vita stränder.",
         "Han dömer efter sin tros lagar, även i detta lilla örike."
@@ -96,12 +96,12 @@
         "Han korsar havet till Sri Lanka och sedan till Sumatra, en ö täckt av tät skog.",
         "Därifrån för skepp honom ännu längre, ända till Kina.",
         "Han beskriver enorma städer, fint siden och papperspengar som ingen i Marocko, hans hemland, någonsin har sett.",
-        "Senare läser historiker hans skildring noggrant, och vissa delar oroar dem.",
+        "Senare historiker läser hans skildring noggrant, och vissa delar bekymrar dem.",
         "Hans kapitel om Kina är kortare och mindre exakta än resten av hans berättelse.",
         "Såg han verkligen allt han beskriver, eller kopierade han också från andra resenärers berättelser?",
         "Historiker tvistar fortfarande om hur mycket av Kinaresan som verkligen är hans egen.",
-        "Efter några år till på vägen vänder herr X äntligen västerut, mot hemmet.",
-        "När han når Marocko igen, dödar en stor pest människor på tre kontinenter.",
+        "Efter några år till på resande fot vänder herr X äntligen västerut, hemåt.",
+        "När han når Marocko igen dödar en stor pest människor på tre kontinenter.",
         "Han har varit borta så länge att båda hans föräldrar redan har dött."
       ],
       "question": "Vem är herr X?",
@@ -135,18 +135,18 @@
     {
       "title": "Salt, guld och en historia berättad högt",
       "text_sentences": [
-        "År efter att han kommit hem ger sig herr X ut på ännu en stor resa.",
+        "Flera år efter hemkomsten ger sig herr X ut på ännu en stor resa.",
         "Den här gången korsar han Sahara, jordens största heta öken.",
-        "Han ansluter sig till en handelskaravan av kameler lastade med saltplattor.",
-        "Arbetare långt ute i öknen skär detta salt direkt ur marken.",
+        "Han slår följe med en handelskaravan av kameler lastade med saltplattor.",
+        "Arbetare långt ute i öknen hugger ut detta salt direkt ur marken.",
         "Handelsmän för plattorna söderut in i kungariket Mali och byter dem mot guld.",
-        "Efter många veckor når herr X hovet hos Malis kung.",
+        "Efter många veckor når herr X hovet hos kungen av Mali.",
         "Saltet, guldet och hovets stränga seder förvånar honom.",
         "Han säger senare att folket i Mali älskar rättvisa och att resenärer är trygga där.",
         "Efter denna sista resa slår herr X sig äntligen ner och slutar resa.",
-        "En härskare i Marocko ber honom sedan berätta hela sin livshistoria.",
+        "En härskare i Marocko ber honom sedan att berätta hela sin livshistoria.",
         "År 1355, i staden Fez, berättar herr X sin historia högt.",
-        "En utbildad skrivare sätter den på papper."
+        "En utbildad skrivare skriver ner den på papper."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -173,25 +173,25 @@
           "explanation": "att sluta flytta runt och stanna på en plats"
         }
       ],
-      "main_caption": "Stränga seder vid ett kungligt hov söder om den stora öknen förvånar en främmande besökare.",
-      "side_caption": "Saltplattor reser söderut för att bytas mot guld."
+      "main_caption": "Stränga seder vid ett kungligt hov söder om den stora öknen förvånar en utländsk besökare.",
+      "side_caption": "Saltplattor förs söderut för att bytas mot guld."
     },
     {
       "title": "Vad han såg, vad han kopierade",
       "leak_ok": true,
       "text_sentences": [
         "För ungefär sjuhundra år sedan avslutar herr X sina resor.",
-        "Historiker uppskattar att hans resor täcker flera gånger avståndet för den mest berömda resenären från Venedig.",
-        "Inom två år efter att han kommit hem dikterar herr X sin bok, och den blir färdig 1355.",
-        "Han talar mest ur minnet, och hans tidigaste resor ligger trettio år tillbaka i tiden.",
+        "Historiker uppskattar att han reser flera gånger så långt som den mest berömda resenären från Venedig.",
+        "Inom två år efter hemkomsten dikterar herr X sin bok, och den blir färdig år 1355.",
+        "Han berättar mest ur minnet, och hans tidigaste resor ligger trettio år tillbaka i tiden.",
         "Därför jämför historiker hans bok noggrant med äldre reseböcker.",
-        "Vissa avsnitt stämmer nästan ord för ord överens med en äldre pilgrims resebok av Ibn Jubayr.",
+        "Vissa avsnitt stämmer nästan ord för ord överens med en äldre resebok av pilgrimen Ibn Jubayr.",
         "Andra avsnitt innehåller små detaljer som bara ett ögonvittne kunde känna till.",
         "Forskare frågar sig därför, för varje del: är detta vad han såg eller vad han läste?",
-        "Hans bok beskriver också, som han själv såg det, kvinnors liv och slaveriets praktik i de länder han besöker.",
+        "Hans bok beskriver också, som han själv såg det, kvinnors liv och hur slaveriet utövas i de länder han besöker.",
         "Moderna historiker läser dessa avsnitt som belägg för det århundradets seder, inte som ett godkännande av dem.",
-        "I århundraden läser få människor utanför hans egen region hans bok alls.",
-        "Europeiska forskare översätter och studerar den ordentligt först på 1800-talet."
+        "I århundraden är det få människor utanför hans egen region som alls läser hans bok.",
+        "Europeiska forskare översätter och studerar den i större omfattning först på 1800-talet."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -215,7 +215,7 @@
         },
         {
           "word": "godkännande",
-          "explanation": "ett uttalande som säger att man godkänner något"
+          "explanation": "ett uttalande som säger att något är bra eller rätt"
         }
       ],
       "main_caption": "Århundraden senare jämför en forskare i Europa gamla kopior av samma berättelse.",

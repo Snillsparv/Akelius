@@ -29638,11 +29638,11 @@
             "title": "En rund stad vid floden",
             "text_sentences": [
               "Platsen X är ett hem för böcker.",
-              "Den ligger i Bagdad, en rund stad vid en stor flod, i en het öken.",
+              "Den ligger i Bagdad, en rund stad vid en stor flod, i ett hett ökenland.",
               "En härskare bygger staden för ungefär 1 300 år sedan.",
               "Han vill ha en perfekt stad, så han formar den som en cirkel, med höga murar.",
               "Snart växer staden till den största staden i världen.",
-              "En senare härskare betalar smarta människor för att översätta gamla böcker från fjärran länder.",
+              "En senare härskare betalar kloka människor för att översätta gamla böcker från fjärran länder.",
               "Vid den här tiden lär sig människor också ett nytt sätt att göra papper, ett sätt som först kommer från Kina.",
               "Förut skriver människor på skinn, och skinn kostar mycket.",
               "Papper är billigt, så nu kan många fler människor äga en bok.",
@@ -29671,11 +29671,11 @@
               },
               {
                 "word": "skinn",
-                "explanation": "det yttre höljet på ett djurs kropp, här: ett material man skrev på innan papper fanns"
+                "explanation": "huden på ett djur, här: ett material man skriver på innan papper finns"
               }
             ],
             "main_caption": "En härskare bygger den här staden som en perfekt cirkel, bredvid en stor flod.",
-            "side_caption": "Innan papper skriver människor på utspänt skinn, precis som här."
+            "side_caption": "Innan det finns papper skriver människor på utspänt djurskinn, som här."
           }
         },
         {
@@ -29734,13 +29734,13 @@
             "ai_prompt": "Vertical illustration of a scholar in a turban and long plain robe seen from behind at a low wooden desk in a ninth-century Baghdad room, a closed codex with a plain wooden cover on his left, a closed leather book with a geometric cover pattern on his right, a reed pen and a small ink pot between them, soft light from a high window, calm concentrated mood, both books closed, no open pages, no calligraphy, no pseudo-writing, no modern objects, no religious figures, no central leader figure, no readable maps, no text, no letters, no numbers."
           },
           "sv": {
-            "title": "Ett team av översättare",
+            "title": "En grupp översättare",
             "text_sentences": [
               "I början av 800-talet ligger platsen X i Bagdad.",
               "En härskare vid namn al-Ma'mun älskar kunskap mer än guld eller ädelstenar.",
-              "Han betalar ett stort team av forskare för att leta efter gamla böcker på grekiska, persiska och indiska språk.",
-              "Kristna, muslimer och andra arbetar sida vid sida i teamet.",
-              "Teamet gör om hundratals gamla böcker till arabiska.",
+              "Han betalar en stor grupp lärda för att leta efter gamla böcker på grekiska, persiska och indiska språk.",
+              "Kristna, muslimer och andra arbetar sida vid sida i gruppen.",
+              "Gruppen översätter hundratals gamla böcker till arabiska.",
               "Den mest kända översättaren, Hunayn ibn Ishaq, arbetar lite senare.",
               "Han kan flera språk perfekt.",
               "Han kontrollerar varje översättning mycket noga innan den lämnar hans händer.",
@@ -29758,8 +29758,8 @@
             "correct": "Visdomens hus",
             "words": [
               {
-                "word": "forskare",
-                "explanation": "en person som studerar och vet väldigt mycket"
+                "word": "lärd",
+                "explanation": "en person som studerar och kan väldigt mycket"
               },
               {
                 "word": "översättare",
@@ -29774,8 +29774,8 @@
                 "explanation": "en sällsynt och vacker sten som kostar mycket pengar"
               }
             ],
-            "main_caption": "Böcker från fjärran anländer med floden. Forskare ska göra om dem till ett nytt språk.",
-            "side_caption": "En översättare gör om en bok från ett språk till ett annat."
+            "main_caption": "Böcker från fjärran länder kommer på floden. Lärda ska översätta dem till ett nytt språk.",
+            "side_caption": "En översättare för över en bok från ett språk till ett annat."
           }
         },
         {
@@ -29837,12 +29837,12 @@
             "title": "Att mäta jorden, bygga maskiner",
             "text_sentences": [
               "För ungefär 1 200 år sedan blir platsen X i Bagdad ett centrum för noggrann mätning.",
-              "En härskare skickar ut team av astronomer i den platta öknen norr om staden.",
+              "En härskare skickar ut grupper av astronomer till den platta öknen norr om staden.",
               "De går och mäter tills Polstjärnan står en grad högre på himlen.",
-              "Från denna noggranna vandring räknar de ut storleken på hela jorden.",
+              "Med hjälp av denna noggranna vandring räknar de ut hur stor hela jorden är.",
               "Deras svar kommer nära det verkliga talet, långt innan någon seglar runt planeten.",
-              "I samma stad konstruerar tre bröder smarta maskiner.",
-              "Deras maskiner häller upp drycker med dolda trick, och en spelar till och med musik av sig själv.",
+              "I samma stad konstruerar tre bröder sinnrika maskiner.",
+              "Deras maskiner häller upp drycker med dolda knep, och en spelar till och med musik av sig själv.",
               "En matematiker från ett land långt österut arbetar också här.",
               "Han skriver en berömd bok som senare ger Europa en hel gren av matematiken.",
               "Han förklarar också ett indiskt sätt att skriva siffror, med en symbol för nollan.",
@@ -29874,7 +29874,7 @@
                 "explanation": "ett tecken eller märke som står för något annat"
               }
             ],
-            "main_caption": "Noggrann vandring och noggrann observation av himlen kan mäta något så stort som jorden.",
+            "main_caption": "Med noggranna steg och noggrann blick mot himlen kan man mäta något så stort som jorden.",
             "side_caption": "En matematiker räknar ut nya regler med noggranna ritningar, inte gissningar."
           }
         },
@@ -29937,16 +29937,16 @@
             "title": "Idéer reser västerut, sedan faller staden",
             "text_sentences": [
               "I flera hundra år samlar platsen X i Bagdad kunskap från grekiska, persiska och indiska källor.",
-              "Forskare där skriver nya verk om medicin, astronomi och matematik.",
-              "Långsamt flyttar denna kunskap västerut längs handelsvägar och genom det muslimska Spanien.",
-              "Under 1100-talet översätter team i den spanska staden Toledo arabiska böcker till latin.",
+              "De lärda där skriver nya verk om medicin, astronomi och matematik.",
+              "Långsamt sprids denna kunskap västerut längs handelsvägar och genom det muslimska Spanien.",
+              "Under 1100-talet översätter grupper i den spanska staden Toledo arabiska böcker till latin.",
               "På ön Sicilien gör andra översättare samma viktiga arbete.",
               "Genom dessa latinska kopior kan europeiska universitet äntligen läsa idéer som bevarats och förbättrats långt österut.",
-              "Men platsen X varar inte för alltid.",
-              "År 1258 når hären från stäpperna staden och förstör mycket av den.",
+              "Men platsen X består inte för alltid.",
+              "År 1258 når en här från stäpperna staden och förstör stora delar av den.",
               "En berättelse säger att floden bredvid staden rinner svart av bläck från oräkneliga förstörda böcker.",
-              "Historiker kan inte bekräfta denna exakta detalj, men de är överens om att förstörelsen själv är verklig och enorm.",
-              "Staden återhämtar sig med tiden, men dess guldålder för lärande återvänder aldrig helt."
+              "Historiker kan inte bekräfta denna exakta detalj, men de är överens om att förstörelsen i sig är verklig och enorm.",
+              "Staden återhämtar sig med tiden, men dess stora tid av lärdom återvänder aldrig helt."
             ],
             "question": "Vilken plats är platsen X?",
             "options": [
@@ -29974,7 +29974,7 @@
                 "explanation": "att visa eller säga att något definitivt är sant"
               }
             ],
-            "main_caption": "Böcker reser västerut till en spansk stad, där de görs om till latin.",
+            "main_caption": "Böcker förs västerut till en spansk stad, där de översätts till latin.",
             "side_caption": "En berättelse säger att floden blir mörk av bläck från förstörda böcker."
           }
         },
@@ -30036,17 +30036,17 @@
           "sv": {
             "title": "Akademi, bibliotek eller senare legend?",
             "text_sentences": [
-              "Många populära böcker beskriver platsen X som en storslagen akademi full av berömda forskare.",
+              "Många populära böcker beskriver platsen X som en storslagen akademi full av berömda lärda.",
               "Hur mycket av den bilden kommer verkligen från de gamla historiska källorna?",
-              "De äldsta källorna nämner knappt mer än ett kalifbibliotek, med några få översättare och kopister i arbete där.",
+              "De äldsta källorna nämner knappt mer än en kalifs bibliotek, med några få översättare och kopister i arbete där.",
               "De säger nästan inget om föreläsningar, klassrum eller inskrivna studenter.",
-              "Några moderna historiker tror att platsen X mest är ett kungligt bibliotek, inte en skola.",
+              "Några moderna historiker tror att platsen X främst är ett kungligt bibliotek, inte en skola.",
               "Andra historiker menar att de bevarade källorna helt enkelt är ofullständiga, och att platsen fungerade ungefär som en riktig akademi.",
-              "Många livfulla detaljer i populära återberättelser dyker först upp århundraden efter händelserna de beskriver.",
+              "Många livfulla detaljer i populära återberättelser dyker upp först århundraden efter de händelser de beskriver.",
               "Guldbetalningen för översättningar och den bläcksvarta floden är senare berättelser, inte ögonvittnesskildringar.",
               "Ändå visar källorna något anmärkningsvärt.",
               "Härskare betalar för ett långvarigt arbete med att samla och översätta kunskap mellan språk.",
-              "Historiker måste skilja detta säkra bevis från den romantiska legend som har vuxit fram kring platsen med tiden."
+              "Historiker måste skilja dessa säkra bevis från den romantiska legend som med tiden har vuxit fram kring platsen."
             ],
             "question": "Vilken plats är platsen X?",
             "options": [
@@ -30146,12 +30146,12 @@
               "Herr X lever för ungefär sjuhundra år sedan.",
               "Han föds i Tanger, en hamnstad i Marocko.",
               "Hans familj är religiösa lärda och domare.",
-              "Vid tjugoett års ålder lämnar han hemmet ensam.",
+              "När han är tjugoett år lämnar han hemmet ensam.",
               "Han reser österut på vägen till Mecka, på en helig pilgrimsfärd.",
-              "Han rider kameler genom heta öknar och seglar på träskepp.",
+              "Han rider på kameler genom heta öknar och seglar på träskepp.",
               "En sådan resa tar oftast mer än ett år.",
-              "Men han älskar vägen, och han slutar aldrig riktigt.",
-              "I nästan trettio år flyttar han från stad till stad.",
+              "Men han älskar att resa, och han slutar aldrig riktigt.",
+              "I nästan trettio år reser han från stad till stad.",
               "Han möter kungar, domare och heliga män på vägen.",
               "Hans familj väntar hemma, och i åratal hör de ingenting."
             ],
@@ -30165,7 +30165,7 @@
             "correct": "Ibn Battuta",
             "words": [
               {
-                "word": "hamn",
+                "word": "hamnstad",
                 "explanation": "en stad vid havet där skepp stannar"
               },
               {
@@ -30244,15 +30244,15 @@
           "sv": {
             "title": "Längs kusten, över vinden",
             "text_sentences": [
-              "Herr X seglar längs Östafrikas kust, för ungefär sjuhundra år sedan.",
+              "Herr X seglar längs Östafrikas kust för ungefär sjuhundra år sedan.",
               "Han besöker rika handelsstäder byggda av korallsten, som Kilwa och Mogadishu.",
               "Guld och elfenben passerar genom deras livliga marknader.",
-              "Senare bär en stark säsongsvind hans skepp tillbaka norrut till Arabien.",
+              "Senare för en stark årstidsvind hans skepp tillbaka norrut till Arabien.",
               "Sjömän kallar denna vind monsunen, och den blåser åt ett håll på sommaren och åt det andra på vintern.",
-              "År senare, efter en lång resa till lands genom många länder, når han Indien 1333.",
+              "Flera år senare, efter en lång resa över land genom många länder, når han Indien år 1333.",
               "Herr X kommer till Delhi, en stor stad styrd av en mäktig sultan.",
-              "Sultanen gillar bildade besökare och gör herr X till domare.",
-              "Han dömer mål där i flera år, långt från sitt hem i väster.",
+              "Sultanen tycker om bildade besökare och gör herr X till domare.",
+              "Han avgör rättsfall där i flera år, långt från sitt hem i väster.",
               "Senare seglar han vidare till Maldiverna, en kedja av små öar i havet.",
               "Drottningens hov där gör honom också till domare, den här gången bland palmer och vita stränder.",
               "Han dömer efter sin tros lagar, även i detta lilla örike."
@@ -30349,12 +30349,12 @@
               "Han korsar havet till Sri Lanka och sedan till Sumatra, en ö täckt av tät skog.",
               "Därifrån för skepp honom ännu längre, ända till Kina.",
               "Han beskriver enorma städer, fint siden och papperspengar som ingen i Marocko, hans hemland, någonsin har sett.",
-              "Senare läser historiker hans skildring noggrant, och vissa delar oroar dem.",
+              "Senare historiker läser hans skildring noggrant, och vissa delar bekymrar dem.",
               "Hans kapitel om Kina är kortare och mindre exakta än resten av hans berättelse.",
               "Såg han verkligen allt han beskriver, eller kopierade han också från andra resenärers berättelser?",
               "Historiker tvistar fortfarande om hur mycket av Kinaresan som verkligen är hans egen.",
-              "Efter några år till på vägen vänder herr X äntligen västerut, mot hemmet.",
-              "När han når Marocko igen, dödar en stor pest människor på tre kontinenter.",
+              "Efter några år till på resande fot vänder herr X äntligen västerut, hemåt.",
+              "När han når Marocko igen dödar en stor pest människor på tre kontinenter.",
               "Han har varit borta så länge att båda hans föräldrar redan har dött."
             ],
             "question": "Vem är herr X?",
@@ -30446,18 +30446,18 @@
           "sv": {
             "title": "Salt, guld och en historia berättad högt",
             "text_sentences": [
-              "År efter att han kommit hem ger sig herr X ut på ännu en stor resa.",
+              "Flera år efter hemkomsten ger sig herr X ut på ännu en stor resa.",
               "Den här gången korsar han Sahara, jordens största heta öken.",
-              "Han ansluter sig till en handelskaravan av kameler lastade med saltplattor.",
-              "Arbetare långt ute i öknen skär detta salt direkt ur marken.",
+              "Han slår följe med en handelskaravan av kameler lastade med saltplattor.",
+              "Arbetare långt ute i öknen hugger ut detta salt direkt ur marken.",
               "Handelsmän för plattorna söderut in i kungariket Mali och byter dem mot guld.",
-              "Efter många veckor når herr X hovet hos Malis kung.",
+              "Efter många veckor når herr X hovet hos kungen av Mali.",
               "Saltet, guldet och hovets stränga seder förvånar honom.",
               "Han säger senare att folket i Mali älskar rättvisa och att resenärer är trygga där.",
               "Efter denna sista resa slår herr X sig äntligen ner och slutar resa.",
-              "En härskare i Marocko ber honom sedan berätta hela sin livshistoria.",
+              "En härskare i Marocko ber honom sedan att berätta hela sin livshistoria.",
               "År 1355, i staden Fez, berättar herr X sin historia högt.",
-              "En utbildad skrivare sätter den på papper."
+              "En utbildad skrivare skriver ner den på papper."
             ],
             "question": "Vem är herr X?",
             "options": [
@@ -30485,8 +30485,8 @@
                 "explanation": "att sluta flytta runt och stanna på en plats"
               }
             ],
-            "main_caption": "Stränga seder vid ett kungligt hov söder om den stora öknen förvånar en främmande besökare.",
-            "side_caption": "Saltplattor reser söderut för att bytas mot guld."
+            "main_caption": "Stränga seder vid ett kungligt hov söder om den stora öknen förvånar en utländsk besökare.",
+            "side_caption": "Saltplattor förs söderut för att bytas mot guld."
           }
         },
         {
@@ -30549,17 +30549,17 @@
             "title": "Vad han såg, vad han kopierade",
             "text_sentences": [
               "För ungefär sjuhundra år sedan avslutar herr X sina resor.",
-              "Historiker uppskattar att hans resor täcker flera gånger avståndet för den mest berömda resenären från Venedig.",
-              "Inom två år efter att han kommit hem dikterar herr X sin bok, och den blir färdig 1355.",
-              "Han talar mest ur minnet, och hans tidigaste resor ligger trettio år tillbaka i tiden.",
+              "Historiker uppskattar att han reser flera gånger så långt som den mest berömda resenären från Venedig.",
+              "Inom två år efter hemkomsten dikterar herr X sin bok, och den blir färdig år 1355.",
+              "Han berättar mest ur minnet, och hans tidigaste resor ligger trettio år tillbaka i tiden.",
               "Därför jämför historiker hans bok noggrant med äldre reseböcker.",
-              "Vissa avsnitt stämmer nästan ord för ord överens med en äldre pilgrims resebok av Ibn Jubayr.",
+              "Vissa avsnitt stämmer nästan ord för ord överens med en äldre resebok av pilgrimen Ibn Jubayr.",
               "Andra avsnitt innehåller små detaljer som bara ett ögonvittne kunde känna till.",
               "Forskare frågar sig därför, för varje del: är detta vad han såg eller vad han läste?",
-              "Hans bok beskriver också, som han själv såg det, kvinnors liv och slaveriets praktik i de länder han besöker.",
+              "Hans bok beskriver också, som han själv såg det, kvinnors liv och hur slaveriet utövas i de länder han besöker.",
               "Moderna historiker läser dessa avsnitt som belägg för det århundradets seder, inte som ett godkännande av dem.",
-              "I århundraden läser få människor utanför hans egen region hans bok alls.",
-              "Europeiska forskare översätter och studerar den ordentligt först på 1800-talet."
+              "I århundraden är det få människor utanför hans egen region som alls läser hans bok.",
+              "Europeiska forskare översätter och studerar den i större omfattning först på 1800-talet."
             ],
             "question": "Vem är herr X?",
             "options": [
@@ -30584,7 +30584,7 @@
               },
               {
                 "word": "godkännande",
-                "explanation": "ett uttalande som säger att man godkänner något"
+                "explanation": "ett uttalande som säger att något är bra eller rätt"
               }
             ],
             "main_caption": "Århundraden senare jämför en forskare i Europa gamla kopior av samma berättelse.",
@@ -30659,7 +30659,7 @@
               "Nu säger några tänkare något nytt.",
               "Varje människa kan använda sitt eget förstånd, säger de.",
               "Ställ frågor, säger de, och tro inte bara på gamla regler.",
-              "I ett land planerar författare en jättebok som försöker förklara allt i världen.",
+              "I ett land planerar författare en jättestor bok som försöker förklara allt i världen.",
               "I livliga kaffehus sitter män i timmar och diskuterar dessa nya idéer.",
               "I fina rum i Paris är kvinnor värdinnor för samtal där tänkare möts och talar fritt.",
               "Sakta börjar allt fler människor tänka på detta sätt."
@@ -30858,10 +30858,10 @@
               "Varje makt bör bevaka och begränsa de andra två, säger han.",
               "En annan tänkare, Rousseau, ställer en annan fråga: varför ska någon alls lyda en härskare?",
               "Han svarar att ett rättvist styre vilar på ett samhällsfördrag, en överenskommelse mellan fria människor.",
-              "Långt innan detta hävdar en engelsk tänkare vid namn Locke att härskare behöver folkets samtycke.",
-              "Mycket av detta samtal sker i salonger, regelbundna sammankomster som hålls i privata hem.",
+              "Långt före detta hävdar en engelsk tänkare vid namn Locke att härskare behöver folkets samtycke.",
+              "Mycket av dessa samtal sker i salonger, regelbundna sammankomster i privata hem.",
               "I Paris är en kvinna vid namn madame Geoffrin värdinna för en av tidens mest berömda salonger.",
-              "Där möts tänkare, diskuterar och delar ny text långt innan den trycks.",
+              "Där möts tänkare, diskuterar och delar nya texter långt innan de trycks.",
               "Årtionden senare inspirerar dessa idéer om makt och samtycke revolutionerna i Nordamerika och Frankrike."
             ],
             "question": "Vilken rörelse är rörelsen X?",
@@ -30960,7 +30960,7 @@
               "Tortyr som används för att tvinga fram bekännelser är grym och opålitlig, menar han.",
               "Dödsstraffet stoppar inte ens brott, tillägger han, och domstolar bör använda rättvisare metoder i stället.",
               "År 1792 ställer en brittisk författare vid namn Wollstonecraft en djärv fråga: varför inte utbilda kvinnor lika noggrant som män?",
-              "Kvinnor verkar bara svagare för att de får en sämre utbildning, menar hon.",
+              "Kvinnor verkar svagare bara för att de får en sämre utbildning, menar hon.",
               "Inom hela rörelsen beundrar tänkare ett lysande exempel: en engelsk vetenskapsmans rörelselagar, publicerade ett sekel tidigare.",
               "Om noggrant förnuft kan förklara hur planeterna rör sig, frågar de, varför inte använda det på lagar och styre?"
             ],
@@ -30983,14 +30983,14 @@
               },
               {
                 "word": "bekännelse",
-                "explanation": "när en person erkänner, ofta under press, att hen har gjort något"
+                "explanation": "när en person erkänner, ofta under press, att han eller hon har gjort något"
               },
               {
                 "word": "förnuft",
                 "explanation": "noggrant tänkande som används för att komma fram till ett svar"
               }
             ],
-            "main_caption": "En domstol från sjuttonhundratalet. Några tänkare ifrågasätter nu dess hårdaste metoder.",
+            "main_caption": "En rättssal på sjuttonhundratalet. Några tänkare ifrågasätter nu dess hårdaste metoder.",
             "side_caption": "Låsta dörrar och gamla regler. Nu frågar sig några tänkare om reglerna är rättvisa."
           }
         },
@@ -31051,13 +31051,13 @@
           "sv": {
             "title": "Vems förnuft räknas?",
             "text_sentences": [
-              "Historiker tvistar fortfarande om arvet efter rörelsen X, en rörelse av filosofer på sjuttonhundratalet.",
+              "Historiker tvistar fortfarande om arvet efter rörelsen X, en rörelse bland filosofer på sjuttonhundratalet.",
               "Dess tänkare prisar förnuft, frihet och lika rättigheter för alla människor.",
-              "Ändå använder några skribenter från tiden den nya vetenskapen för att rangordna folkslag, och kallar hela nationer naturligt underlägsna.",
+              "Ändå använder några av tidens skribenter den nya vetenskapen för att rangordna folkslag, och kallar hela nationer underlägsna av naturen.",
               "Samtidigt växer de europeiska rikena, och handeln med förslavade människor från Afrika till Amerika fortsätter.",
               "Tänkare inom rörelsen, som Condorcet och Raynal, angriper slaveriet och kolonial grymhet i sina egna texter.",
-              "Senare historiker frågar sig också vems förnuft rörelsen egentligen kretsar kring: mestadels europeiska män av en viss klass.",
-              "Kvinnor är värdinnor för salongerna men får sällan publicera.",
+              "Senare historiker frågar sig också vems förnuft rörelsen egentligen kretsar kring: mestadels europeiska män ur en viss samhällsklass.",
+              "Kvinnor är värdinnor för salongerna men får sällan publicera sig.",
               "Koloniserade folk och de fattiga sitter aldrig vid salongens bord.",
               "På nittonhundratalet ställer filosofer en mörkare fråga: kan kall beräkning i sig leda till fruktansvärt våld?",
               "Ändå lär skolor på varje kontinent i dag ut dess centrala idé: ifrågasätt auktoriteter, och tänk själv utifrån bevis."
@@ -31081,7 +31081,7 @@
               },
               {
                 "word": "koloniserad",
-                "explanation": "att leva under kontroll av en avlägsen härskande makt"
+                "explanation": "som lever under kontroll av en avlägsen härskande makt"
               },
               {
                 "word": "beräkning",
@@ -31089,7 +31089,7 @@
               }
             ],
             "main_caption": "Dess böcker prisar förnuft och frihet. Historiker tvistar fortfarande om vad det betydde för alla andra.",
-            "side_caption": "Rikena blir rika på varor från långt borta. Filosofernas lovord om frihet når inte alla."
+            "side_caption": "Rikena växer sig rika på varor från fjärran länder. Filosofernas lovord om frihet når inte alla."
           }
         }
       ],
