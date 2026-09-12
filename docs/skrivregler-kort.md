@@ -122,3 +122,95 @@ inte Columbus.
   kort och sakligt nämna att hans sena skrifter mot judar är en mörk del av
   arvet som historiker studerar. Inga porträtt av honom som svarsläcka:
   bildmotiv utan igenkännbart Cranach-ansikte.
+
+## Ämnesnoter, leverans 6
+
+Kategorier: amerikanska revolutionen, Washington, franska revolutionen,
+Napoleon och industriella revolutionen `revolutions` (etiketten "revolutioner"
+pekar inte ut vilken revolution som är svaret, alla alternativ är revolutioner
+eller personer); Darwin `science`; Marx `ideas` (svensk etikett "idéhistoria").
+
+Korsläckor att vakta: amerikanska revolutionen-setet får inte namnge
+Washington ("a general from Virginia" räcker); Washington-setet får inte
+använda frasen "American Revolution" (beskriv: "thirteen colonies fight to
+leave the British king", högst en kontextrad, återberätta inte skatte- och
+tekedjan). Franska revolutionen-setet får inte namnge Napoleon ("a young
+general takes power"); Napoleon-setet får kalla det "the revolution in France"
+i en kontextrad men inte återberätta revolutionens ledtrådskedja (Bastiljen,
+brödpriserna, kungens avrättning). Industriella revolutionen-setet får inte
+namnge Marx eller Darwin; Marx-setet får inte använda frasen "Industrial
+Revolution" (skriv "the new factories", "the machines"). Inget set i
+leveransen namnger personer eller skeenden på rad 40-50 (världskrigen,
+Churchill, Hitler, kalla kriget, FN); skriv "a later war in Europe", "later
+states in Russia and China" och liknande.
+
+- **The American Revolution**: Revolution X, frågan "Which revolution is
+  Revolution X?". Tretton kolonier vid Atlantkusten, skatter efter det dyra
+  kriget mot Frankrike, "no taxation without representation", teet i
+  hamnen i Boston, kriget börjar 1775, förklaringen 1776 med "all men are
+  created equal" samtidigt som ungefär en femtedel av befolkningen är
+  förslavad; lojalister, urfolkens nationer som mest står på Storbritanniens
+  sida, Frankrikes ingripande som avgör kriget, freden 1783, konstitutionen.
+  Inget hjältenarrativ, skriv för elever i Tanzania och Bhutan. Universitet:
+  hur revolutionär var revolutionen, och ekot i Latinamerika (Bolívar).
+  Inga flaggor med läsbara stjärnor eller dokument med läsbar text i bild.
+- **George Washington**: plantageägare i Virginia, lantmätare som ung, officer
+  i kriget mot Frankrike, befälhavare 1775, förlorar många slag men håller
+  armén samman, vintern i Valley Forge, floden Delaware julnatten 1776,
+  Yorktown med fransk hjälp, lämnar tillbaka befälet, första presidenten
+  1789, avböjer att bli kung, avgår efter två perioder. Han äger över 300
+  förslavade människor på Mount Vernon; de han själv äger frias i hans
+  testamente, först efter hustruns död; Ona Judge flyr. Körsbärsträdet är
+  en senare uppfinning, markera som saga. Huvudstaden med hans namn är en
+  tillåten namnekoledtråd.
+- **The French Revolution**: Revolution X. Brödpriser efter missväxt, statens
+  skulder, tre stånd, ständerna 1789, nationalförsamlingen, Bastiljen 14
+  juli (ett fängelse med sju fångar), förklaringen om människans rättigheter,
+  kvinnornas marsch till Versailles, kungen avrättas 1793 sakligt utan gore
+  och utan giljotin i bild, skräckväldet med tiotusentals döda, Robespierre,
+  Olympe de Gouges, slaveriet avskaffas 1794 efter resningen på
+  Saint-Domingue, metersystemet, "frihet, jämlikhet, broderskap".
+  Universitet: tolkningsstriden (klasskamp kontra revisionister) och
+  Haitis revolution som spegel.
+- **Napoleon Bonaparte**: född på Korsika året efter att ön blivit fransk,
+  artilleriofficer, revolutionen öppnar karriärer för begåvning, general vid
+  24, Egypten med forskare (stenen med tre skrifter får nämnas men aldrig
+  visas läsbar), statskuppen 1799, lagboken 1804 som präglar lagar i många
+  länder än i dag, sätter själv kronan på sitt huvud, återinför slaveriet i
+  kolonierna 1802 och förlorar Haiti, säljer Louisiana, Trafalgar,
+  Austerlitz, Ryssland 1812 där de flesta aldrig kommer hem, Elba, de hundra
+  dagarna, Waterloo, Sankt Helena. Myten att han var kort markeras som myt.
+  Bilder: aldrig tvåkornshatten, handen i västen eller ett igenkännbart
+  porträtt, det är svarsläckor.
+- **The Industrial Revolution**: Revolution X. Storbritannien från slutet av
+  1700-talet: kol, järn, ångmaskinen som förbättras, inte uppfinns, av Watt,
+  spinnmaskinerna, fabrikerna i Manchester, kanaler och järnvägar, ångfartyg.
+  De 99 procenten: tolv till fjorton timmars dagar, barn i gruvor och
+  spinnerier, fabrikslagarna, fackföreningar, rök och kolera i städerna.
+  Varför Storbritannien: kol, kapital, kolonier, marknader. Globalt: bomull
+  från förslavade i USA och från Indien, Indiens vävare förlorar,
+  spridningen till Belgien, Tyskland, USA och Japan, kolutsläppen som börjar
+  då. Universitet: "revolution eller långsam utveckling" och debatten om den
+  stora divergensen. Inga läsbara skyltar på fabriker eller lok.
+- **Charles Darwin**: medicin i Edinburgh som han avskyr, präststudier i
+  Cambridge, skalbaggssamlare, fem år på Beagle, sjösjuk, fossil och
+  jordbävning i Sydamerika, Galápagos med sköldpaddor och härmtrastar;
+  finkarna är delvis en senare rekonstruktion och ska inte bära berättelsen.
+  Duvuppfödning, trädskissen 1837, tjugo års väntan, brevet från Wallace
+  1858, boken 1859, debatten 1860 återges olika av samtida, markera.
+  Religiös känslighet: många troende ser ingen konflikt, andra gör det,
+  skriv som vetenskapshistoria. Universitet: Wallace och prioriteten, hur
+  idéerna missbrukas för rasism och "socialdarwinism", markerat som missbruk.
+  Bilder: inget igenkännbart skäggigt ålderdomsporträtt.
+- **Karl Marx**: född i Trier, jurist- och filosofistudier, journalist vars
+  tidning stängs, exil i Paris, Bryssel och London, Jenny von Westphalen,
+  fattigdomen i Soho där barn dör, Engels som fabrikörsson försörjer honom,
+  manifestet 1848, läsesalen i British Museum, Kapitalet 1867, idéerna:
+  historien drivs av strider mellan klasser, arbetarna skapar värdet och
+  ägarna behåller överskottet, kriserna. Elva personer på begravningen.
+  Universitet: stater som senare tar hans namn, deras våld och svält som
+  han aldrig såg, skillnaden mellan Marx och "marxismen", det rapporterade
+  citatet "jag är ingen marxist" markerat som återgivet av Engels.
+  Balanserat som idéhistoria för klassrum på fyra kontinenter. Bilder: inget
+  igenkännbart porträtt, inga hammare-och-skära-symboler, inga röda fanor
+  med text.
