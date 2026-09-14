@@ -32675,6 +32675,43 @@
             "caption": "A trader sells long white tusks and buys cloth and beads from across the sea.",
             "shutterstock_query": "historical east africa market trader ivory tusks cloth glass beads stall illustration",
             "ai_prompt": "Vertical photorealistic scene in a market street of a stone town on the East African coast around the year 1300: a Black East African trader in a plain cotton robe and head cloth sits behind a low stall with two large elephant tusks, folded bolts of plain cloth, strings of glass beads, and a few painted clay bowls, whitewashed coral-stone walls behind, warm daylight, calm working mood, no modern objects, no plastic, no readable marks on cloth or bowls, no calligraphy, no pseudo-writing, no flags, no elephant, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Stenstäder vid havet",
+            "text_sentences": [
+              "Platsen X är en rad stenstäder vid havet.",
+              "Städerna ligger på Afrikas östkust.",
+              "Några av städerna är mer än tusen år gamla.",
+              "Varje år blåser en stadig vind skepp hit från Arabien och Indien.",
+              "På platsen X säljer handlare varor som guld och elfenben från landet bakom dem.",
+              "I gengäld köper de tyg, glaspärlor och målade skålar.",
+              "Folket på platsen X talar ett afrikanskt språk.",
+              "Med tiden tar språket in många ord från Arabien."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Guldkusten",
+              "Swahilikusten",
+              "Afrikas horn",
+              "Barbareskkusten"
+            ],
+            "correct": "Swahilikusten",
+            "words": [
+              {
+                "word": "elfenben",
+                "explanation": "det hårda vita materialet i en elefants bete"
+              },
+              {
+                "word": "handlare",
+                "explanation": "människor vars jobb är att köpa och sälja varor"
+              },
+              {
+                "word": "varor",
+                "explanation": "saker som människor köper och säljer"
+              }
+            ],
+            "main_caption": "Skepp kommer med vinden, och stenstäder vid havet blir rika på handel.",
+            "side_caption": "En handlare säljer långa vita betar och köper tyg och pärlor från andra sidan havet."
           }
         },
         {
@@ -32732,6 +32769,51 @@
             "caption": "Small copper coins like these are made in the town itself.",
             "shutterstock_query": "hand holding small worn copper coins closeup blank historical",
             "ai_prompt": "Vertical photorealistic close-up of an open Black East African hand holding a few small, thin, worn copper coins with smooth blank surfaces, a plain cotton sleeve at the wrist, a whitewashed coral-stone wall softly blurred behind, East African coast in the 1300s, soft daylight, calm mood, coins plain and blank with no markings, no pseudo-writing, no modern objects, no plastic, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Mynt, korall och en stor moské",
+            "text_sentences": [
+              "Platsen X är inte ett enda land, utan en rad separata städer.",
+              "De ligger på Afrikas östkust.",
+              "Kilwa, Mombasa, Malindi och ön Zanzibar är några av dessa platser.",
+              "Varje stad har sin egen härskare och fattar egna beslut.",
+              "En vind som kallas monsunen styr havet längs hela kusten.",
+              "Under halva året blåser den in skepp från Arabien, Persien och Indien.",
+              "Under den andra halvan blåser samma vind skeppen hem igen.",
+              "Kilwa blir rikt på guld från en högplatå långt i söder.",
+              "Det guldet kommer norrut över havet från hamnen Sofala.",
+              "Kilwa slår egna kopparmynt.",
+              "Arbetare bygger en stor moské där, av korallsten.",
+              "På 1410-talet besöker en väldig flotta från Kina den här kusten."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Malabarkusten",
+              "Godahoppsudden",
+              "Swahilikusten",
+              "Röda havets kust"
+            ],
+            "correct": "Swahilikusten",
+            "words": [
+              {
+                "word": "monsun",
+                "explanation": "en vind som blåser åt ena hållet under en del av året, och åt andra hållet under resten"
+              },
+              {
+                "word": "högplatå",
+                "explanation": "ett stort område av högt, platt land"
+              },
+              {
+                "word": "slår mynt",
+                "explanation": "gör mynt genom att stämpla ett mönster i metall"
+              },
+              {
+                "word": "korallsten",
+                "explanation": "ett hårt material byggt av små havsdjur, här använt för att bygga hus"
+              }
+            ],
+            "main_caption": "En stor moské av korallsten reser sig över en rik handelsstad.",
+            "side_caption": "Små kopparmynt som dessa görs i staden själv."
           }
         },
         {
@@ -32789,6 +32871,51 @@
             "caption": "Straight poles from creeks like this are shipped across the sea to build houses.",
             "shutterstock_query": "mangrove creek east africa poles dugout canoe historical illustration",
             "ai_prompt": "Vertical photorealistic view of a mangrove creek near a stone town on the East African coast around the year 1500: mangrove trees with arching roots standing in shallow water, a stack of straight mangrove poles cut and tied on the muddy bank, a small dugout canoe nearby, two Black East African men in plain cotton wraps loading poles, morning light, calm working mood, no modern boats, no modern clothing, no plastic, no flags, no readable marks, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En kust, många folk",
+            "text_sentences": [
+              "Platsen X är en kust i Östafrika med många gamla stenstäder.",
+              "Från 700-talet sprider sig religionen islam längs den här kusten.",
+              "Handlare från Arabien och Persien bosätter sig i städerna.",
+              "Under många generationer gifter sig lokala familjer med dessa nykomlingar.",
+              "Folket behåller sitt eget språk, ett afrikanskt språk från kusten.",
+              "Dess grammatik och vardagsord kommer från en afrikansk språkfamilj.",
+              "Tusentals extra ord kommer från arabiskan, språket för bön och lärdom.",
+              "Rika familjer bygger stenhus med tunga snidade trädörrar.",
+              "Senare skriver poeter vid kusten långa dikter på det här språket.",
+              "Skepp fraktar också mangrovestockar från vikarna för att bygga hus i Arabien.",
+              "Tro, handel och giftermål binder städerna till länder på andra sidan havet.",
+              "Ändå förblir städerna afrikanska i sitt folk och sitt språk."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Swahilikusten",
+              "Coromandelkusten",
+              "Slavkusten",
+              "Guldkusten"
+            ],
+            "correct": "Swahilikusten",
+            "words": [
+              {
+                "word": "generationer",
+                "explanation": "alla människor som föds och lever ungefär samtidigt, en efter en"
+              },
+              {
+                "word": "grammatik",
+                "explanation": "reglerna som visar hur ord passar ihop i ett språk"
+              },
+              {
+                "word": "poeter",
+                "explanation": "människor som skriver dikter"
+              },
+              {
+                "word": "mangrove",
+                "explanation": "ett träd som växer med sina rötter i salt vatten längs stranden"
+              }
+            ],
+            "main_caption": "Bakom tunga snidade dörrar lever, ber och handlar familjerna vid kusten.",
+            "side_caption": "Raka stockar från vikar som den här skeppas över havet för att bygga hus."
           }
         },
         {
@@ -32850,6 +32977,55 @@
             "caption": "Fresh clove buds are picked by hand and then dried in the sun before they are sold.",
             "shutterstock_query": "clove harvest pink buds drying mats zanzibar 1800s workers baskets illustration",
             "ai_prompt": "Vertical photorealistic scene on a clove plantation on the island of Zanzibar in the 1800s: two Black East African workers in simple cotton wraps and head cloths picking small pink clove buds from dark green clove trees into woven baskets, woven mats of buds drying in the sun nearby, warm tropical daylight, calm working mood, no chains, no whips, no signs of distress, no modern tools, no modern clothing, no plastic, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Nya skepp, nya härskare",
+            "text_sentences": [
+              "Platsen X är en kust med handelsstäder i Östafrika.",
+              "År 1498 seglar portugisiska skepp längs den här kusten för första gången.",
+              "Deras kapten letar efter en sjöväg rakt till Indien.",
+              "Portugiserna vill snart kontrollera handeln i regionen.",
+              "År 1505 anfaller portugisiska styrkor staden Kilwa och skadar den svårt.",
+              "I omkring tvåhundra år håller Portugal delar av kusten med våld.",
+              "År 1698 driver härskare från Oman bort portugiserna från kustens norra del.",
+              "Under omanskt styre blir ön Zanzibar rik på en ny gröda.",
+              "Arbetare där odlar kryddnejlikor, en krydda som säljs över hela världen.",
+              "De flesta av dessa arbetare är förslavade människor.",
+              "På 1800-talet blir Zanzibar också ett centrum för handel med förslavade människor.",
+              "Senare under samma århundrade tvingar tryck utifrån fram ett långsamt slut på den handeln."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Afrikas horn",
+              "Barbareskkusten",
+              "Malabarkusten",
+              "Swahilikusten"
+            ],
+            "correct": "Swahilikusten",
+            "words": [
+              {
+                "word": "sjöväg",
+                "explanation": "en väg över havet från en plats till en annan"
+              },
+              {
+                "word": "gröda",
+                "explanation": "en växt som odlas i stora mängder, för mat eller för att sälja"
+              },
+              {
+                "word": "krydda",
+                "explanation": "en växtdel som ger maten en stark smak eller doft"
+              },
+              {
+                "word": "förslavade",
+                "explanation": "tvingade att arbeta och leva som en annan persons ägodel"
+              },
+              {
+                "word": "tryck",
+                "explanation": "stark påverkan som får någon att agera eller förändras"
+              }
+            ],
+            "main_caption": "Nya skepp från andra sidan havet förändrar kusten för alltid.",
+            "side_caption": "Färska kryddnejlikeknoppar plockas för hand och torkas sedan i solen innan de säljs."
           }
         },
         {
@@ -32911,9 +33087,59 @@
             "caption": "Pieces of pottery and porcelain from each layer help date the towns.",
             "shutterstock_query": "museum table pottery shards blue white porcelain fragments cotton gloves",
             "ai_prompt": "Vertical photorealistic view of a long table in a quiet present-day museum store room: a row of small earthenware pottery pieces and blue and white porcelain shards with plain leaf patterns laid out on a plain white cloth, a pair of white cotton gloves beside them, soft daylight from a window, calm scholarly mood, no labels, no tags, no marks that look like writing, no logos, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Vems städer är dessa?",
+            "text_sentences": [
+              "Platsen X är en kedja av gamla stenstäder på Afrikas östkust.",
+              "Under stora delar av 1900-talet kallade många böcker de här städerna ”arabiska kolonier”.",
+              "Från 1950-talet gräver arkeologer vid flera kustruiner.",
+              "De första utgrävarna tror också på arabiska eller persiska grundare.",
+              "Från 1980-talet förändrar nya utgrävningar och nya språkstudier bilden.",
+              "Lager efter lager visar fynden lokal keramik, lokala husplaner och lokala begravningsseder.",
+              "Bitar av kinesiskt porslin i varje lager hjälper till att datera städerna.",
+              "Skriftliga källor är få, och många kommer från utomstående som bara reser förbi.",
+              "En resenär från Marocko besöker Kilwa 1331 och berömmer dess fina byggnader.",
+              "De flesta forskare i dag ser afrikanska samhällen som välkomnar handel och sakta införlivar nya grannar.",
+              "Det afrikanska språket vid den här kusten, format av detta långa möte, lever fortfarande kvar i dag.",
+              "Det är Tanzanias nationalspråk, och mer än hundra miljoner människor talar det."
+            ],
+            "question": "Vilken plats är platsen X?",
+            "options": [
+              "Röda havets kust",
+              "Swahilikusten",
+              "Godahoppsudden",
+              "Slavkusten"
+            ],
+            "correct": "Swahilikusten",
+            "words": [
+              {
+                "word": "arkeologer",
+                "explanation": "forskare som studerar gamla föremål och gamla byggnader"
+              },
+              {
+                "word": "utgrävare",
+                "explanation": "människor som gräver försiktigt för att hitta gamla saker i marken"
+              },
+              {
+                "word": "porslin",
+                "explanation": "en fin, hård, vit sorts keramik"
+              },
+              {
+                "word": "införliva",
+                "explanation": "att ta in något och göra det till en del av en större helhet"
+              },
+              {
+                "word": "källor",
+                "explanation": "texter eller föremål som ger historiker information om det förflutna"
+              }
+            ],
+            "main_caption": "Arkeologer gräver genom gamla lager för att undersöka vem som egentligen byggde de här städerna.",
+            "side_caption": "Bitar av keramik och porslin från varje lager hjälper till att datera städerna."
           }
         }
-      ]
+      ],
+      "person_sv": "Swahilikusten"
     },
     {
       "slug": "scramble-for-africa",
@@ -32972,6 +33198,49 @@
             "caption": "Far away, a hand draws a straight new line with a ruler and pen.",
             "shutterstock_query": "hand ruler pen drawing line blank paper desk 1880s illustration",
             "ai_prompt": "Photorealistic close vertical view of a hand in a formal 1880s sleeve holding a wooden ruler and a dip pen, drawing a single straight ink line across a large blank sheet of paper on a dark wooden desk, an inkwell and a pair of brass dividers beside it, warm lamp light, quiet studious mood, 1880s clothing and objects only, no map outlines, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Linjer dragna långt bort",
+            "text_sentences": [
+              "Händelsen X börjar för ungefär 150 år sedan.",
+              "Vid den tiden har bara några få europeiska länder mark i Afrika.",
+              "Sedan förändras det snabbt, inom bara några få decennier.",
+              "Plötsligt vill många europeiska länder också ha mark där.",
+              "Ledare långt borta i Europa drar nya linjer över en enorm karta.",
+              "Dessa ledare har aldrig gått på den mark de delar upp.",
+              "En enda linje kan skära rakt genom ett folks hem.",
+              "År 1914 styr européer nästan hela kontinenten.",
+              "Bara två länder i Afrika lyckas förbli fria.",
+              "Många av linjerna som drogs så långt bort markerar fortfarande gränser i dag."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Upptäcktsresornas tid",
+              "Kapplöpningen om Afrika",
+              "Korstågen",
+              "Opiumkrigen"
+            ],
+            "correct": "Kapplöpningen om Afrika",
+            "words": [
+              {
+                "word": "kontinent",
+                "explanation": "ett mycket stort landområde, mycket större än något enskilt land"
+              },
+              {
+                "word": "dela upp",
+                "explanation": "att dela något i separata delar"
+              },
+              {
+                "word": "decennier",
+                "explanation": "perioder på tio år vardera"
+              },
+              {
+                "word": "gränser",
+                "explanation": "linjerna där ett land eller område slutar och ett annat börjar"
+              }
+            ],
+            "main_caption": "Nyanlända från Europa går i land, och snart vill många länder ha mark här.",
+            "side_caption": "Långt borta ritar en hand en ny rak linje med linjal och penna."
           }
         },
         {
@@ -33026,6 +33295,48 @@
             "caption": "A steamboat pushes far up a river that once stopped outsiders.",
             "shutterstock_query": "1880s steamboat river africa forest illustration",
             "ai_prompt": "Photorealistic vertical view of a small wooden river steamboat with a tall smoking funnel moving up a wide African river, dense green forest rising on both banks, the boat's wake rippling behind it, warm hazy daylight, calm documentary mood, 1880s steamboat and equipment only, no modern vessels, no people in close-up, no weapons, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ingen från Afrika vid bordet",
+            "text_sentences": [
+              "Händelsen X tar fart vid en konferens i Berlin 1884.",
+              "Tjänstemän som skickats av många europeiska regeringar sitter runt ett långt bord.",
+              "Ingen afrikansk ledare sitter vid det bordet.",
+              "Tjänstemännen kommer överens om regler för att göra anspråk på mark över hela kontinenten.",
+              "Ett land måste verkligen kontrollera ett markområde innan det kan göra anspråk på det.",
+              "Nya mediciner mot malaria gör att utomstående för första gången kan överleva långt in i inlandet.",
+              "Ångbåtar för soldater och varor uppför floder som tidigare stoppade dem.",
+              "Ett nytt snabbt gevär ger små styrkor en dödlig fördel mot större styrkor.",
+              "Tillsammans gör dessa nya verktyg en snabb erövring möjlig över hela kontinenten."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Kapplöpningen om Afrika",
+              "Det stora spelet",
+              "Wienkongressen",
+              "Boerkriget"
+            ],
+            "correct": "Kapplöpningen om Afrika",
+            "words": [
+              {
+                "word": "erövring",
+                "explanation": "att ta kontroll över en plats med våld"
+              },
+              {
+                "word": "inlandet",
+                "explanation": "långt från kusten, djupt inne i ett land"
+              },
+              {
+                "word": "fördel",
+                "explanation": "något som hjälper dig att lyckas bättre än andra"
+              },
+              {
+                "word": "göra anspråk på",
+                "explanation": "att säga att något tillhör dig"
+              }
+            ],
+            "main_caption": "Tjänstemän från Europa kommer överens om regler för att ta mark, utan en enda afrikan vid bordet.",
+            "side_caption": "En ångbåt tar sig långt uppför en flod som en gång stoppade utomstående."
           }
         },
         {
@@ -33083,6 +33394,51 @@
             "caption": "Evening falls over the land that today is called Tanzania.",
             "shutterstock_query": "east africa savanna dusk woman water jar path distant homestead 1900s illustration",
             "ai_prompt": "Photorealistic vertical scene of a wide East African savanna at dusk in the 1900s, a cooking fire and a single homestead far in the distance, a Black East African woman carrying a water jar on a path in the foreground seen from behind, acacia trees and tall grass, calm everyday mood, 1900s East African clothing only, generic faces, no weapons, no violence, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Inte utan strid",
+            "text_sentences": [
+              "Händelsen X är den europeiska jakten på mark i Afrika i slutet av 1800-talet.",
+              "Den lyckas inte överallt utan motstånd.",
+              "I bergen i nordöst förblir Etiopien självständigt hela tiden.",
+              "Landets härskare, Menelik II, lägger år på att köpa moderna gevär för att förbereda sig.",
+              "År 1896 besegrar hans armé vid Adwa en anfallande italiensk styrka fullständigt.",
+              "I Västafrika bygger en ledare vid namn Samori Touré upp sin egen armé.",
+              "Han gör motstånd mot fransmännen i mer än tio år.",
+              "I Tyska Östafrika, dagens Tanzania, reser sig människor tillsammans 1905.",
+              "Koloniala styrkor slår ner upproret.",
+              "Historiker räknar mellan sjuttiofemtusen och trehundratusen döda, de flesta av dem av svält.",
+              "I sydväst för koloniala styrkor också en hård kampanj mot folken herero och nama.",
+              "År 2021 kallar Tyskland den kampanjen för folkmord."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Det stora spelet",
+              "Opiumkrigen",
+              "Kapplöpningen om Afrika",
+              "Boerkriget"
+            ],
+            "correct": "Kapplöpningen om Afrika",
+            "words": [
+              {
+                "word": "motstånd",
+                "explanation": "att kämpa emot kontroll från en makt utifrån"
+              },
+              {
+                "word": "anfallande",
+                "explanation": "som går in i ett land med våld för att ta kontroll över det"
+              },
+              {
+                "word": "uppror",
+                "explanation": "när många människor reser sig tillsammans mot dem som har makten"
+              },
+              {
+                "word": "folkmord",
+                "explanation": "ett planerat försök att förinta ett helt folk"
+              }
+            ],
+            "main_caption": "Etiopiska soldater marscherar genom sina berg, redo att försvara sitt land.",
+            "side_caption": "Kvällen faller över landet som i dag kallas Tanzania."
           }
         },
         {
@@ -33142,6 +33498,53 @@
             "caption": "Sap from the vines dries into dark lumps of rubber, carried out of the forest in baskets.",
             "shutterstock_query": "basket raw rubber lumps gourds clay pot forest path porter 1890s congo illustration",
             "ai_prompt": "Photorealistic vertical view at the edge of a forest clearing in the Congo in the 1890s, a woven basket filled with dark lumps of raw wild rubber, two gourds and a plain clay pot beside it, a Black Congolese porter in a plain cotton wrap seen from behind walking away down a forest path with a similar basket on his shoulder, hazy green light, calm quiet mood, 1890s clothing only, no chains, no weapons, no violence, no distress, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En kungs privata koloni",
+            "text_sentences": [
+              "Händelsen X är den europeiska tävlingen om mark i Afrika i slutet av 1800-talet.",
+              "En europeisk kung får det väldiga Kongo i centrala Afrika som sin egen privata egendom.",
+              "Gummi växer där på vilda lianer som klättrar uppför skogens träd.",
+              "Kungens ombud tvingar lokalbefolkningen att samla in detta gummi.",
+              "Folket skär lianerna med knivar och samlar upp den vita saften i krukor och kalebasser.",
+              "Varje by måste lämna en bestämd kvot, annars tar ombuden gisslan och straffar byn.",
+              "Missionärer, en kontorist vid ett rederi och lokala vittnen samlar rapporter och fotografier.",
+              "Deras rapporter chockar människor i Europa, och en kampanj mot kungen inleds.",
+              "År 1908 tvingas kungen lämna över landet till sitt lands regering.",
+              "Många människor dör under de åren, av våld, svält och sjukdom."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Indiens delning",
+              "Kapplöpningen om Afrika",
+              "Wienkongressen",
+              "Suezkrisen"
+            ],
+            "correct": "Kapplöpningen om Afrika",
+            "words": [
+              {
+                "word": "egendom",
+                "explanation": "något som tillhör en person"
+              },
+              {
+                "word": "ombud",
+                "explanation": "personer som skickas för att agera eller arbeta åt någon annan"
+              },
+              {
+                "word": "saft",
+                "explanation": "vätskan inuti en växt"
+              },
+              {
+                "word": "kalebasser",
+                "explanation": "hårda, torkade skal från en frukt, används som skålar eller flaskor"
+              },
+              {
+                "word": "gisslan",
+                "explanation": "människor som hålls fångna så att andra ska göra som de blir tillsagda"
+              }
+            ],
+            "main_caption": "Djupt inne i regnskogen skärs vilda gummilianer för sin saft, som möter en växande efterfrågan i Europa.",
+            "side_caption": "Saften från lianerna torkar till mörka klumpar av gummi, som bärs ut ur skogen i korgar."
           }
         },
         {
@@ -33198,9 +33601,54 @@
             "caption": "A single iron post can mark a straight line that still divides the land today.",
             "shutterstock_query": "iron boundary post savanna grassland historic illustration",
             "ai_prompt": "Photorealistic vertical view of a single weathered iron boundary post standing in tall dry savanna grass, a faint straight line of small stones running from it toward the horizon, acacia trees scattered in the distance, warm late afternoon light, quiet still mood, 1900s surveying post only, no people, no flags, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Varför just då, och vems berättelse",
+            "text_sentences": [
+              "Händelsen X är det plötsliga europeiska övertagandet av större delen av Afrika i slutet av 1800-talet.",
+              "Historiker debatterar fortfarande exakt varför det sker just då.",
+              "Några pekar på industriella ekonomier i Europa som hungrar efter råvaror och nya marknader.",
+              "Andra betonar rivaliteten mellan europeiska stormakter som tävlar om prestige och strategiska positioner.",
+              "Ytterligare andra pekar på ny teknik, som plötsligt gör det möjligt att kontrollera inlandet.",
+              "Ingen enskild förklaring tillfredsställer alla historiker helt.",
+              "För att studera det läser historiker statliga arkiv, brev och företagens räkenskapsböcker.",
+              "De läser också protestrapporter, missionärers berättelser och muntliga berättelser som bevarats av ättlingar.",
+              "Källor från kolonisatörer och från koloniserade folk berättar ofta väldigt olika historier.",
+              "Historiker debatterar också arvet efter de dragna gränserna för dagens stater.",
+              "Vissa forskare ser mest bestående konflikt, medan andra betonar de afrikanska samhällenas egen motståndskraft och anpassningsförmåga."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Suezkrisen",
+              "Indiens delning",
+              "Kapplöpningen om Afrika",
+              "Boerkriget"
+            ],
+            "correct": "Kapplöpningen om Afrika",
+            "words": [
+              {
+                "word": "arkiv",
+                "explanation": "samlingar av gamla dokument som sparas för senare studier"
+              },
+              {
+                "word": "prestige",
+                "explanation": "respekt och betydelse i andras ögon"
+              },
+              {
+                "word": "motståndskraft",
+                "explanation": "förmågan att återhämta sig och fortsätta efter svåra händelser"
+              },
+              {
+                "word": "ättlingar",
+                "explanation": "människor som kommer efter någon i senare generationer, till exempel barn och barnbarn"
+              }
+            ],
+            "main_caption": "Historiker frågar sig varför allt hände, och vilkas röster som saknades i rummet.",
+            "side_caption": "En enda järnstolpe kan märka en rak linje som fortfarande delar landet i dag."
           }
         }
-      ]
+      ],
+      "person_sv": "Kapplöpningen om Afrika"
     },
     {
       "slug": "african-independence",
@@ -33258,6 +33706,48 @@
             "caption": "In school, children learn new maps and new songs for their country.",
             "shutterstock_query": "1950s african wooden classroom children desks from behind shutters",
             "ai_prompt": "Vertical realistic illustration of the inside of a simple wooden classroom in an African town in the late 1950s, rows of plain wooden desks, Black African schoolchildren in plain cotton clothing of the era seated and seen from behind, a teacher's plain wooden desk at the front, sunlight through open wooden shutters, no board and no wall charts, warm morning light, calm everyday mood; no banners, no flags, no readable signs, no open books with readable pages, no recognizable faces, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Nya flaggor för nya länder",
+            "text_sentences": [
+              "Rörelsen X växer sig stark i Afrika efter kriget som slutar 1945.",
+              "Före denna rörelse styrs det mesta av Afrika av regeringar i Europa.",
+              "Sakta börjar land efter land välja sina egna ledare.",
+              "Varje nytt land väljer också sin egen nya flagga.",
+              "Under ett enda år blir sjutton länder i Afrika fria stater.",
+              "Folk planerar parader, och barn lär sig nya sånger för sitt land.",
+              "Skolorna förändras också, med nya kartor och nya ord att lära sig.",
+              "Rörelsen slutar inte där, och det tar många år till.",
+              "Vid seklets slut styr nästan varje land i Afrika sig självt."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Indiens självständighetsrörelse",
+              "Medborgarrättsrörelsen",
+              "Afrikas självständighet",
+              "Antiapartheidrörelsen"
+            ],
+            "correct": "Afrikas självständighet",
+            "words": [
+              {
+                "word": "regeringar",
+                "explanation": "de grupper av människor som styr ett land eller en region"
+              },
+              {
+                "word": "parader",
+                "explanation": "glada tåg där många människor går, ofta med musik"
+              },
+              {
+                "word": "sekel",
+                "explanation": "en period på hundra år"
+              },
+              {
+                "word": "stater",
+                "explanation": "länder, där varje land har sin egen regering"
+              }
+            ],
+            "main_caption": "En folkmassa samlas i gryningen för att vänta på att en ny flagga ska hissas.",
+            "side_caption": "I skolan lär sig barnen nya kartor och nya sånger för sitt land."
           }
         },
         {
@@ -33314,6 +33804,50 @@
             "caption": "Leaders meet in a hall to start a new organization together.",
             "shutterstock_query": "1963 addis ababa delegates meeting hall rows desks from behind",
             "ai_prompt": "Vertical realistic illustration of a long meeting hall in Addis Ababa in 1963, rows of Black African delegates in the era's dark suits and a few in flowing robes seated at simple wooden desks, seen from behind and at a distance, a plain empty podium at the front, ceiling fans turning, soft daylight through tall windows, calm formal mood; no flags, no emblems, no readable nameplates, no readable documents, no recognizable faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Land efter land",
+            "text_sentences": [
+              "Rörelsen X gör kolonier i Afrika till fria länder.",
+              "Den tar fart över hela Afrika i slutet av 1950-talet.",
+              "År 1957 blir Ghana självständigt under sin nya ledare, Kwame Nkrumah.",
+              "Det är ett av de första länderna i Afrika som gör det efter kriget.",
+              "Ett år senare säger Guinea nej till en ny plan från sina franska härskare.",
+              "Guinea blir självständigt på egen hand, och det franska stödet upphör genast.",
+              "Snart följer många fler länder efter, i norra, västra, östra och centrala Afrika.",
+              "År 1961 blir Tanganyika på östkusten också självständigt.",
+              "Tre år senare går Tanganyika och ögruppen Zanzibar samman och bildar Tanzania.",
+              "År 1963 möts ledare från många afrikanska stater i Addis Abeba.",
+              "Där startar de nya fria staterna en organisation för att samarbeta."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Arbetarrörelsen",
+              "Afrikas självständighet",
+              "Den alliansfria rörelsen",
+              "Den arabiska nationaliströrelsen"
+            ],
+            "correct": "Afrikas självständighet",
+            "words": [
+              {
+                "word": "organisation",
+                "explanation": "en grupp av människor eller länder som arbetar tillsammans mot ett mål"
+              },
+              {
+                "word": "stöd",
+                "explanation": "hjälp som ges till en person, en grupp eller ett land"
+              },
+              {
+                "word": "självständigt",
+                "explanation": "styr sig självt, inte styrt av ett annat land"
+              },
+              {
+                "word": "kolonier",
+                "explanation": "landområden som styrs och kontrolleras av ett land långt borta"
+              }
+            ],
+            "main_caption": "År 1957 går en ny regering uppför trappan för att inleda sitt arbete.",
+            "side_caption": "Ledare möts i en sal för att tillsammans starta en ny organisation."
           }
         },
         {
@@ -33370,6 +33904,50 @@
             "caption": "After almost eight years of war, daily life in Algeria begins again.",
             "shutterstock_query": "1962 algeria village well women drawing water from behind olive trees",
             "ai_prompt": "Vertical realistic illustration of a stone well in a hillside village in the Algerian countryside in 1962, two North African women in plain long cotton dresses and head scarves drawing water with a bucket, seen from behind, flat-roofed white houses and olive trees behind them, soft morning light, calm everyday mood; 1960s rural dress only, no weapons, no soldiers, no flags, no signs, no recognizable faces, no modern vehicles, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Frihet vunnen genom krig",
+            "text_sentences": [
+              "Rörelsen X gör länderna i Afrika fria från europeiskt styre efter 1945.",
+              "I vissa länder segrar den inte utan strid.",
+              "I Kenya startar bönder och arbetare som förlorar sin bästa mark ett uppror på 1950-talet.",
+              "Brittiska härskare slår hårt tillbaka mot upproret och öppnar stora läger för misstänkta.",
+              "Kenya blir självständigt 1963, efter år av hård kamp.",
+              "I Algeriet varar ett bittert krig mot franskt styre i nästan åtta år.",
+              "Hundratusentals människor dör innan Algeriet blir självständigt 1962.",
+              "Portugal för långa krig i flera av sina kolonier och håller fast vid dem till 1974.",
+              "Sedan får Portugal en ny regering, och landet släpper kolonierna 1974 och 1975.",
+              "Längst i söder blir det mesta av regionen fritt under 1960- och 1970-talen.",
+              "Men ett land där når inte majoritetsstyre förrän 1994."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Négrituderörelsen",
+              "Arbetarrörelsen",
+              "Medborgarrättsrörelsen",
+              "Afrikas självständighet"
+            ],
+            "correct": "Afrikas självständighet",
+            "words": [
+              {
+                "word": "uppror",
+                "explanation": "en plötslig strid som många människor för mot sina härskare"
+              },
+              {
+                "word": "kamp",
+                "explanation": "en lång, hård ansträngning mot svårigheter eller en fiende"
+              },
+              {
+                "word": "misstänkta",
+                "explanation": "människor som härskarna tror kan ha gjort något mot dem"
+              },
+              {
+                "word": "majoritetsstyre",
+                "explanation": "när mer än hälften av folket får bestämma vem som styr"
+              }
+            ],
+            "main_caption": "Under kriget om mark och frihet håller britterna tusentals människor i läger som detta.",
+            "side_caption": "Efter nästan åtta års krig börjar vardagslivet i Algeriet på nytt."
           }
         },
         {
@@ -33430,6 +34008,54 @@
             "caption": "Ujamaa villages aim to bring schools and clinics closer to everyone.",
             "shutterstock_query": "1970s tanzania planned village houses school row from distance",
             "ai_prompt": "Vertical realistic illustration of a planned Tanzanian village from the 1970s, rows of simple rectangular and round mud-and-thatch houses laid out neatly along a dirt street, one long low building serving as a school at the end of the row, seen from a distance in soft afternoon light, a few distant Black Tanzanian figures working in nearby fields with no faces visible, calm everyday mood; no signs, no flags, no modern buildings, no vehicles, 1970s clothing only, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "De hårda åren efteråt",
+            "text_sentences": [
+              "Rörelsen X gör slut på europeiskt styre i land efter land i Afrika.",
+              "Denna frihet ger både nya problem och nytt hopp.",
+              "Nya länder ärver gränser som dragits av utomstående, vilket ofta splittrar familjer och gamla riken.",
+              "I flera nya länder styr till slut bara ett parti, en enpartistat.",
+              "På andra ställen tar arméofficerare makten i stället, genom plötsliga kupper.",
+              "I Kongo förvandlas självständigheten 1960 snabbt till en djup kris.",
+              "Landets förste premiärminister, Patrice Lumumba, avsätts och dödas inom ett år.",
+              "De två stormakterna på den tiden stöder ofta olika sidor i konflikter i Afrika.",
+              "I Tanzania flyttar regeringen många jordbrukarfamiljer till nya planerade byar som kallas ujamaa-byar.",
+              "Målet är att dela mark, skolor och sjukvård mer rättvist mellan alla.",
+              "I praktiken får vissa byar nya skolor och kliniker, men många bönder förlorar inkomst och valmöjligheter."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Afrikas självständighet",
+              "Den arabiska nationaliströrelsen",
+              "Den alliansfria rörelsen",
+              "Négrituderörelsen"
+            ],
+            "correct": "Afrikas självständighet",
+            "words": [
+              {
+                "word": "gränser",
+                "explanation": "linjer som skiljer ett land från ett annat"
+              },
+              {
+                "word": "kupper",
+                "explanation": "plötsliga maktövertaganden av en regering, oftast av soldater"
+              },
+              {
+                "word": "kris",
+                "explanation": "en tid av stor fara eller svårighet"
+              },
+              {
+                "word": "inkomst",
+                "explanation": "de pengar en person eller en familj tjänar"
+              },
+              {
+                "word": "ujamaa",
+                "explanation": "ett ord på Tanzanias språk för att leva och arbeta tillsammans som en enda familj"
+              }
+            ],
+            "main_caption": "Nya kliniker når byar som aldrig haft någon, men inte alla löften hålls.",
+            "side_caption": "Ujamaa-byar ska föra skolor och kliniker närmare alla."
           }
         },
         {
@@ -33491,9 +34117,59 @@
             "caption": "Coffee and cotton leave as raw goods and come back as costly products.",
             "shutterstock_query": "1960s warehouse coffee sacks cotton bales african port worker from behind",
             "ai_prompt": "Vertical realistic illustration of the inside of a 1960s warehouse near an African port, stacked plain burlap sacks of coffee beans and bales of raw cotton without any labels, a Black African dockworker in a plain 1960s shirt and shorts seen from behind, soft daylight through a high doorway, calm working mood; no labels, no stencils, no flags, no recognizable faces, no modern shipping containers, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Var det verklig frihet?",
+            "text_sentences": [
+              "Rörelsen X gör kolonierna i Afrika till självständiga stater under årtiondena efter 1945.",
+              "Historiker tvistar fortfarande om hur fullständig denna frihet egentligen är.",
+              "Många nya stater ärver en ekonomi byggd för att exportera råvaror till de gamla härskarna.",
+              "Fabriker, hamnar och järnvägar arbetar fortfarande mest för marknader utanför Afrika.",
+              "Somliga historiker kallar detta mönster flaggsjälvständighet: nya symboler, men gamla ekonomiska band.",
+              "Redan innan de flesta länder blir fria möts ledare från Afrika och Asien i Bandung 1955.",
+              "Där enas de om att stå samman mot kolonialt styre.",
+              "År 1961 möts många av dem igen i Belgrad och enas om att förbli alliansfria.",
+              "I Tanzania väljer ledarna en väg som blandar självförsörjning med utländskt bistånd.",
+              "Nedskrivna tal, planer och senare intervjuer visar varför dessa val görs.",
+              "Historiker jämför dessa källor med skördestatistik och enkätdata om hushåll från samma år.",
+              "Bevisen ger ofta en blandad bild, varken enkelt beröm eller enkel skuld."
+            ],
+            "question": "Vilken rörelse är rörelsen X?",
+            "options": [
+              "Négrituderörelsen",
+              "Den panafrikanska rörelsen",
+              "Afrikas självständighet",
+              "Antiapartheidrörelsen"
+            ],
+            "correct": "Afrikas självständighet",
+            "words": [
+              {
+                "word": "ekonomi",
+                "explanation": "hur ett land tillverkar, använder och handlar med varor och pengar"
+              },
+              {
+                "word": "råvaror",
+                "explanation": "naturliga saker som metaller, olja eller grödor innan de blir till produkter"
+              },
+              {
+                "word": "alliansfria",
+                "explanation": "inte anslutna till någon av två mäktiga grupper"
+              },
+              {
+                "word": "självförsörjning",
+                "explanation": "att förlita sig huvudsakligen på sitt eget arbete och sina egna resurser"
+              },
+              {
+                "word": "enkät",
+                "explanation": "en noggrann undersökning som samlar information genom att fråga eller mäta"
+              }
+            ],
+            "main_caption": "Fartyg fraktar fortfarande bort råvaror, långt efter att nya flaggor har hissats.",
+            "side_caption": "Kaffe och bomull lämnar landet som råvaror och kommer tillbaka som dyra produkter."
           }
         }
-      ]
+      ],
+      "person_sv": "Afrikas självständighet"
     }
   ]
 }

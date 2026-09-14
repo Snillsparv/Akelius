@@ -1,16 +1,15 @@
 # Förslag: utökad ämneslista mot 600+ kort
 
-Status: klartecken att fortsätta gavs 2026-09-12. Leverans 9 = rad 51-54, 59
-och 79 (Newton, Einstein, Marie Curie, Pasteur, Turing, Florence Nightingale)
-och leverans 10 = rad 61, 62, 71, 72, 74 och 76 (Arkimedes, al-Khwarizmi, Ibn
-Sina, Visdomens hus, Ibn Battuta, Upplysningen) är färdiga i text, granskning
-och svenska; bilderna väntar på påfyllda krediter hos bildtjänsten (44 av 60
-klara för leverans 9, inga för leverans 10). Etiketten `mathematics` infördes
-med leverans 10. Frågorna 1, 3 och 4 nedan är fortfarande obesvarade, så
-trekortsämnen och nivå 3 väntar. Nästa femkortsämnen i förslagets ordning:
-86 Borlaug, 87 transatlantiska slavhandeln, 88 Mansa Musa, 92 Swahilikusten,
-93 kapplöpningen om Afrika, 94 Afrikas självständighet, vilket kräver en
-etikett för Afrikablocket, förslagsvis `africa`.
+Status: klartecken att fortsätta gavs 2026-09-12. Leverans 9 (rad 51-54, 59,
+79), leverans 10 (rad 61, 62, 71, 72, 74, 76) och leverans 11 (rad 86, 87, 88,
+92, 93, 94) är färdiga i text, granskning och svenska; bilderna väntar på
+påfyllda krediter hos bildtjänsten (44 av 60 klara för leverans 9, inga för
+10 och 11). Etiketterna `mathematics`, `africa` och `colonialism` infördes
+med leverans 10 och 11. Frågorna 1, 3 och 4 nedan är fortfarande obesvarade,
+så trekortsämnen och nivå 3 väntar. Nästa femkortsämnen i förslagets
+ordning: 97 Qin Shi Huangdi, 98 Sidenvägen, 99 Ashoka, 100 Zheng He, 102
+Akbar och Mogulriket, 104 Meijirestaurationen, vilket kräver en etikett för
+Asienblocket, förslagsvis `asia`.
 
 ## Läge och räkneexempel
 
@@ -74,15 +73,15 @@ bilder, granskning och svenska. Bildkostnaden är cirka 0,34 USD per kort.
 | 83 | Tu Youyou | nobel | 3 | Malarialäkemedlet ur gammal kinesisk medicin |
 | 84 | Malala Yousafzai | nobel | 3 | Rätten till skola, skottet, talet i FN |
 | 85 | Abdus Salam | nobel | 3 | Pakistans fysiker, förenad kraft, centret i Trieste |
-| 86 | Norman Borlaug och den gröna revolutionen | nobel, utveckling | 5 | Vetet som mättade Asien, priset för jorden |
-| 87 | Transatlantiska slavhandeln | Afrika | 5 | Tolv miljoner människor, plantagerna, motståndet, avskaffandet |
-| 88 | Mansa Musa och Mali | Afrika | 5 | Guldet, Timbuktu, pilgrimsfärden, handelsvägarna |
+| 86 | Norman Borlaug och den gröna revolutionen | nobel, utveckling | 5 ✅ Leverans 11 | Vetet som mättade Asien, priset för jorden |
+| 87 | Transatlantiska slavhandeln | Afrika | 5 ✅ Leverans 11 | Tolv miljoner människor, plantagerna, motståndet, avskaffandet |
+| 88 | Mansa Musa och Mali | Afrika | 5 ✅ Leverans 11 | Guldet, Timbuktu, pilgrimsfärden, handelsvägarna |
 | 89 | Kush och Nubien | Afrika | 3 | Pyramiderna i Meroe, faraonerna från söder, järnet |
 | 90 | Aksum | Afrika | 3 | Obeliskerna, myntet, kristnandet, handeln med Indien |
 | 91 | Stora Zimbabwe | Afrika | 3 | Stenstaden, guldhandeln, vem byggde den |
-| 92 | Swahilikusten | Afrika | 5 | Kilwa, Zanzibar, monsunen, språket som möte |
-| 93 | Kapplöpningen om Afrika | Afrika | 5 | Berlinkonferensen 1884, gränserna, motståndet, Adwa 1896 |
-| 94 | Afrikas självständighet | Afrika | 5 | Nkrumah, Nyerere, 1960, ujamaa, de nya staterna |
+| 92 | Swahilikusten | Afrika | 5 ✅ Leverans 11 | Kilwa, Zanzibar, monsunen, språket som möte |
+| 93 | Kapplöpningen om Afrika | Afrika | 5 ✅ Leverans 11 | Berlinkonferensen 1884, gränserna, motståndet, Adwa 1896 |
+| 94 | Afrikas självständighet | Afrika | 5 ✅ Leverans 11 | Nkrumah, Nyerere, 1960, ujamaa, de nya staterna |
 | 95 | Julius Nyerere | Afrika | 3 | Läraren som blev president, Tanzania, ett enat land |
 | 96 | Drottning Nzinga | Afrika | 3 | Förhandlaren mot Portugal, Angola, trettio års kamp |
 | 97 | Qin Shi Huangdi | Asien | 5 | Kinas förste kejsare, muren, terrakottaarmén, brända böcker |

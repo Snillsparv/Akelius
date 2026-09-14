@@ -9,7 +9,7 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**310 kort · 62 ämnen**, samtliga faktagranskade och specgranskade.
+**340 kort · 68 ämnen**, samtliga faktagranskade och specgranskade.
 Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
 svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
@@ -35,6 +35,8 @@ svensk översättning (växla språk med knappen på förhandsvisningssidorna).
   Alan Turing, Florence Nightingale *(första leveransen ur den utökade listan)*
 - **Leverans 10** — Arkimedes, al-Khwarizmi, Ibn Sina, Visdomens hus i Bagdad,
   Ibn Battuta, Upplysningen
+- **Leverans 11** — Norman Borlaug, Transatlantiska slavhandeln, Mansa Musa,
+  Swahilikusten, Kapplöpningen om Afrika, Afrikas självständighet
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -82,12 +84,12 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(620 st för leverans 1–10: 310 kort × huvudbild + sidobild).
+(680 st för leverans 1–11: 340 kort × huvudbild + sidobild).
 
-**Status: 544 av 620 bilder klara** — samtliga kort i leverans 1–8 har
+**Status: 544 av 680 bilder klara** — samtliga kort i leverans 1–8 har
 huvudbild och sidobild; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
-hela Marie Curie) och leverans 10 väntar helt, i väntan på påfyllda krediter
-hos bildtjänsten. Varje batch
+hela Marie Curie) och leverans 10–11 väntar helt, i väntan på påfyllda
+krediter hos bildtjänsten. Varje batch
 har kvalitetsgranskats bild för bild mot sina briefer, och underkända bilder
 har genererats om.
 
@@ -7149,6 +7151,679 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 **Svar:** ⬜ Humanism · ⬜ The Counter-Reformation · ✅ The Enlightenment · ⬜ Positivism
 
 **Ord:** *inferior* — lower in worth or ability than others; here, what some writers wrongly claimed about whole peoples · *empire* — many lands and peoples ruled by one distant power · *colonized* — living under the control of a distant ruling power · *calculation* — careful counting or reasoning used to solve a problem
+
+</details>
+
+### Norman Borlaug
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Farm Boy in Iowa Who Studies Sick Plants</summary>
+
+> Mr X grows up on a small farm in Iowa, in the United States.  
+> As a boy, he works outdoors on the farm every day.  
+> He studies forests at university, then chooses a new path.  
+> He starts to study sick farm plants instead.  
+> Mr X becomes a scientist who works with wheat.  
+> Some wheat plants grow tall and weak, and fall over in the wind.  
+> Some wheat plants catch a disease and turn brown and die.  
+> Mr X breeds new wheat with short, stiff stems that do not fall over.  
+> His new wheat also fights off the plant disease.  
+> In many countries, harvests fail and people go hungry.  
+> Ships carry his special seeds to these countries, and harvests grow bigger.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ M. S. Swaminathan · ✅ Norman Borlaug · ⬜ George Washington Carver · ⬜ Luther Burbank
+
+**Ord:** *breeds* — chooses plants or animals so their young have wanted traits · *disease* — a sickness that can hurt or kill living things · *stiff* — hard to bend · *harvests* — the crops that farmers gather from their fields
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Two Harvests a Year and Wheat That Fights Rust</summary>
+
+> In the 1940s, the Rockefeller Foundation sends Mr X to Mexico.  
+> Mexican wheat farmers lose whole fields to a plant disease called rust.  
+> Rust turns wheat stems and leaves a rusty orange color.  
+> Mr X moves seeds between two farms in different parts of Mexico.  
+> One farm lies high in the mountains, the other low near the coast.  
+> The two places have different seasons, so he gets two harvests every year.  
+> Normal plant breeding needs one slow generation each year.  
+> Mr X doubles his speed and tests new wheat twice as fast.  
+> He breeds wheat that can fight off the rust disease.  
+> Farmers plant his new wheat across the country.  
+> By 1956, Mexico grows enough wheat to feed itself.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Norman Borlaug · ⬜ Yuan Longping · ⬜ Justus von Liebig · ⬜ Fritz Haber
+
+**Ord:** *rust* — a plant disease that makes stems and leaves turn orange-brown · *foundation* — a group that gives money to help important work · *generation* — one round of plants or animals having young
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Ships of Seed for India and Pakistan</summary>
+
+> In the middle of the 1960s, India and Pakistan face a terrible famine threat.  
+> The rains fail, and harvests are small.  
+> The old wheat varieties grow tall and fall over in wind and rain.  
+> Officials ask Mr X to bring his new wheat from Mexico.  
+> Ships carry thousands of tons of his seed across the ocean.  
+> Trucks and trains rush the sacks of seed to farms before planting season ends.  
+> Farmers plant the short, strong wheat on millions of small fields.  
+> They add more water and more plant food to help it grow.  
+> Within a few years, wheat harvests in both countries almost double.  
+> Fewer people die from hunger than experts once feared.  
+> In 1968, an American official names this whole change the green revolution.  
+> In 1970, Mr X receives the Nobel Peace Prize for his work.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ M. S. Swaminathan · ⬜ Fritz Haber · ✅ Norman Borlaug · ⬜ Louis Pasteur
+
+**Ord:** *famine* — a time when there is not enough food for many people · *officials* — people who work for the government · *varieties* — particular types of a plant, different from other types · *sacks* — big strong bags, often used for grain or seed
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Fertilizer, Falling Water, and Debt on Small Farms</summary>
+
+> Mr X breeds his short, strong wheat in Mexico.  
+> By the 1970s, farmers plant it across large parts of Asia.  
+> The new wheat needs much more chemical fertilizer than old wheat did.  
+> It also needs steady water, so farmers dig hundreds of thousands of new wells.  
+> Pump after pump lifts water from underground, and in some places the water level slowly falls.  
+> Farmers spray pesticides to protect the valuable young plants from insects.  
+> Fields that once grew many old wheat varieties now grow only a few new ones.  
+> Losing so many varieties worries scientists who study plants.  
+> Small farmers borrow money for seed, fertilizer, and water pumps.  
+> A bad harvest can leave a small farming family deep in debt.  
+> Mr X himself says the new wheat only gives the world more time.  
+> His work in Africa from 1986 reaches only a few countries.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ M. S. Swaminathan · ⬜ Yuan Longping · ⬜ Fritz Haber · ✅ Norman Borlaug
+
+**Ord:** *fertilizer* — plant food added to soil to help crops grow · *pesticides* — chemicals used to kill insects that harm crops · *debt* — money that a person owes and must pay back · *wells* — deep holes dug to reach water under the ground
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Feeding the World or Deepening Its Debt</summary>
+
+> Historians still debate the true legacy of Mr X's short, strong wheat.  
+> Supporters say his wheat saves hundreds of millions of people from famine.  
+> Critics such as Vandana Shiva say the new farming harms small farmers and the environment.  
+> She says hunger comes from unfair sharing of food, not from too little grain.  
+> Another scholar notes that big landowners often gain more than small farmers do.  
+> Some historians ask if the feared famine would really have come without his wheat.  
+> Harvest records and government statistics show that the yield rose sharply.  
+> Interviews with farmers reveal costs that official numbers do not always show.  
+> In Africa today, many small farmers still use little fertilizer and their own saved seed.  
+> Researchers still argue about the right path for farming in Africa.  
+> Some want new seeds and fertilizer, others want many crops and local knowledge.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Wangari Maathai · ✅ Norman Borlaug · ⬜ Yuan Longping · ⬜ George Washington Carver
+
+**Ord:** *legacy* — the lasting effect of a person's work after they are gone · *statistics* — numbers collected to study facts, like harvests or people · *yield* — the amount of crop a field produces · *scholar* — a person who studies a subject deeply, often at a university
+
+</details>
+
+### Transatlantiska slavhandeln
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Ships that cross the ocean for hundreds of years</summary>
+
+> Trade X lasts for hundreds of years, from the 1500s to the 1800s.  
+> Ships sail from Europe to Africa, then across the ocean.  
+> They carry people away from their homes in Africa.  
+> Nobody asks these people if they want to go.  
+> The long journey across the ocean takes many hard weeks.  
+> On the other side, new owners force people to work.  
+> These enslaved workers labor on farms far away, without any pay.  
+> Owners often separate husbands, wives, and children.  
+> Many families never see each other again.  
+> Some of the enslaved people fight back, run away, or buy their freedom.  
+> Slowly, more and more people say that this is wrong.  
+> **Which trade is Trade X?**
+
+**Svar:** ⬜ The Silk Road trade · ✅ The transatlantic slave trade · ⬜ The spice trade · ⬜ The fur trade
+
+**Ord:** *enslaved* — forced to work without any pay, and owned by another person · *owners* — people who have control over another person or thing · *separate* — to keep people or things apart from each other · *labor* — to do hard, tiring physical work
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Three steps across the ocean</summary>
+
+> The usual picture of Trade X shows three steps across the ocean.  
+> First, ships carry goods from Europe to the coast of Africa.  
+> There, merchants exchange these goods for captives.  
+> Second, ships carry these captives across the ocean to the Americas.  
+> Third, ships carry sugar, tobacco, and cotton back to Europe.  
+> Portugal starts this trade before any other European country.  
+> Brazil later receives more people than any other place.  
+> Sugar islands in the Caribbean receive the next largest number.  
+> Only a small share of people go to the future United States.  
+> Some African kings and merchants sell captives for goods and guns.  
+> In 1526, King Afonso of Kongo writes to the king of Portugal.  
+> His letters protest that traders carry away his own people.  
+> **Which trade is Trade X?**
+
+**Svar:** ⬜ The trans-Saharan trade · ⬜ The Indian Ocean trade · ✅ The transatlantic slave trade · ⬜ The opium trade
+
+**Ord:** *merchants* — people who buy and sell goods, often over long distances · *captives* — people who are caught and held by force · *protest* — to say strongly that something is wrong · *share* — a part of a total amount
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Resistance across the ocean</summary>
+
+> Trade X faces resistance at almost every stage.  
+> Historians count revolts on about one voyage in ten.  
+> Captives on board sometimes fight the crew, or refuse food.  
+> On land, some enslaved people manage to escape into forests or mountains.  
+> These escaped people build their own free communities, far from any plantation.  
+> In 1789, a formerly enslaved man named Olaudah Equiano publishes his own life story.  
+> His book describes the voyage and moves many readers in Britain.  
+> It becomes an important tool in the growing fight to end Trade X.  
+> In 1791, a successful revolt begins on a Caribbean island.  
+> Within years, the people there win their freedom by force.  
+> Their new state is the first in the Americas founded by formerly enslaved people.  
+> **Which trade is Trade X?**
+
+**Svar:** ✅ The transatlantic slave trade · ⬜ The sugar trade · ⬜ The Hanseatic trade · ⬜ The spice trade
+
+**Ord:** *revolts* — times when people rise up together and fight against those in power · *escape* — to get away from a place where a person is held or forced to stay · *communities* — groups of people who live together and support each other · *publishes* — prepares and puts out a book for people to read
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Ending the trade, step by step</summary>
+
+> Trade X ends slowly, country by country, over many decades.  
+> In 1781, the crew of a ship named the Zong forces more than a hundred sick captives into the sea.  
+> The owners then ask for insurance money for the people the crew killed.  
+> News of the case shocks many people in Britain.  
+> In 1807, Britain bans its ships from carrying captives across the ocean.  
+> The United States bans new captives from entering the country the next year.  
+> Yet slavery itself continues in many places for decades more.  
+> In 1833, Britain passes a law to end slavery in its colonies.  
+> Slavery there ends in 1834, but freed people must work for their old owners for four more years.  
+> In 1865, the United States ends slavery after a long civil war.  
+> Brazil is the last country in the Americas to end slavery, in 1888.  
+> Each new law leaves behind new struggles for equal rights.  
+> **Which trade is Trade X?**
+
+**Svar:** ⬜ The trans-Saharan trade · ⬜ The fur trade · ⬜ The Indian Ocean trade · ✅ The transatlantic slave trade
+
+**Ord:** *insurance* — money paid to cover the loss of something, like a ship or its cargo · *decades* — periods of ten years · *civil war* — a war fought between groups within one country · *struggles* — hard and long efforts to achieve something difficult
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — What the records tell historians</summary>
+
+> Historians now study Trade X using a huge digital database.  
+> It combines records from thousands of individual voyages across centuries.  
+> Historians count about twelve and a half million people taken aboard, and about ten and a half million who reached land.  
+> The records show that ships from Portugal and Brazil carry the most people, and over the longest time.  
+> Many of these ships sail straight between Brazil and Angola and back, not in three steps.  
+> The trade also leaves a lasting legacy across the modern world.  
+> Millions of descendants of transported Africans now live across the Americas.  
+> Together, they form what people often call the African diaspora.  
+> Historians also trace some modern racist ideas back to old writings that once excused Trade X.  
+> Today, memorial sites and museums mark old ports and departure points.  
+> Some people now call for repair, meaning action or payment for the past harm.  
+> Historians and governments still disagree about whether, and how, to do this.  
+> **Which trade is Trade X?**
+
+**Svar:** ⬜ The Silk Road trade · ✅ The transatlantic slave trade · ⬜ The opium trade · ⬜ The Hanseatic trade
+
+**Ord:** *database* — a large, organized collection of information stored for research · *descendants* — people related to people who lived long before them · *diaspora* — a large group of people who now live spread far from their original homeland · *repair* — here, an action or payment meant to make up for a past wrong
+
+</details>
+
+### Mansa Musa
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A King's Land of Gold and Salt</summary>
+
+> King X lives in West Africa, about seven hundred years ago.  
+> His land lies next to a great river.  
+> In the south, people wash gold dust out of river sand.  
+> In the north, workers cut blocks of salt out of the desert ground.  
+> Traders carry salt south and gold north on camels.  
+> King X takes a share of all this trade.  
+> This makes him very rich.  
+> He rules many towns along the river.  
+> People call his kingdom Mali.  
+> Later, he makes a famous journey to a holy city far away.  
+> **Who is King X?**
+
+**Svar:** ✅ Mansa Musa · ⬜ Sundiata Keita · ⬜ Shaka Zulu · ⬜ Osei Tutu
+
+**Ord:** *desert* — a very hot, dry land with much sand and little water · *camels* — big desert animals that can carry heavy loads for many days · *share* — a part of a total amount · *holy* — very special and important in a religion
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Caravan to a Holy City</summary>
+
+> King X rules an empire in West Africa that grows rich from gold and salt.  
+> King X is a Muslim.  
+> Muslims believe every follower who is able should visit the holy city of Mecca once in life.  
+> In the year 1324, he leaves his empire for this great journey.  
+> Stories say his caravan has many thousands of people.  
+> Stories say it carries tons of gold.  
+> Stories say he gives gold to poor people along the road.  
+> On the way, he stops in the city of Cairo.  
+> About ten years later, a scholar in Cairo writes about the visit.  
+> He says King X gave away so much gold that its price fell for years.  
+> The whole journey takes more than a year.  
+> **Who is King X?**
+
+**Svar:** ✅ Mansa Musa · ⬜ Sonni Ali · ⬜ Ezana of Aksum · ⬜ Idris Alooma
+
+**Ord:** *empire* — a large group of lands and peoples ruled by one king or queen · *caravan* — a group of people and animals that travel together · *tons* — a huge amount of weight, many hundreds of kilograms · *scholar* — a person who studies and knows very much
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A City of Books by the Desert</summary>
+
+> King X returns home from his great journey in the year 1325.  
+> He does not come home with only gold.  
+> He brings home scholars and judges.  
+> He also brings a builder from Granada in Spain, whom he meets on the journey.  
+> Stories say this builder plans a new mosque of mud and wood for him.  
+> Workers finish the mosque in the city of Timbuktu in 1327.  
+> In the 1300s, Timbuktu begins to grow into a center of study and books.  
+> Students travel there from far away to learn law and science.  
+> Scribes copy manuscripts by hand, page after page.  
+> Many of these old manuscripts still exist today.  
+> Families in Timbuktu still keep some of them safe in their homes.  
+> **Who is King X?**
+
+**Svar:** ✅ Mansa Musa · ⬜ Askia Muhammad · ⬜ Mutota · ⬜ Sundiata Keita
+
+**Ord:** *scholars* — people who study and know very much · *mosque* — a building where Muslims pray · *scribes* — people whose job is to copy books and letters by hand · *manuscripts* — old books or papers written by hand
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — An Empire Rises and Falls</summary>
+
+> Two generations before King X, a ruler founds a new empire in West Africa.  
+> That empire grows strong from trade in gold and salt.  
+> King X becomes its ruler around the year 1312.  
+> Under him, the empire reaches its greatest size and wealth.  
+> After his death, the empire stays strong for one more generation.  
+> Then later rulers cannot keep it together.  
+> In the 1400s, wars and weak leaders make the empire smaller.  
+> Trade routes slowly move to other roads and other rulers.  
+> A new empire named Songhai rises to the east.  
+> Songhai even takes the city of learning that King X once made part of his empire.  
+> Historians study old cities and old writings to understand this long story.  
+> **Who is King X?**
+
+**Svar:** ✅ Mansa Musa · ⬜ Idris Alooma · ⬜ Osei Tutu · ⬜ Sonni Ali
+
+**Ord:** *generations* — groups of people born around the same time, one after another · *wealth* — having a lot of money or valuable things · *routes* — roads or paths that people travel again and again · *historians* — people who study the past to understand what happened
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — How Do We Know About a King Long Gone?</summary>
+
+> King X dies in the 1330s.  
+> No writing from his own kingdom in his own time survives today.  
+> Historians must rely mostly on later writers to learn about him.  
+> A scholar in Cairo writes about King X's visit about ten years after it happens.  
+> That scholar never meets King X, so he asks people in Cairo who did.  
+> Later writers in North Africa gather more stories about King X from many sources.  
+> Scholars in Timbuktu write chronicles about him in the 1600s, three hundred years after his death.  
+> In 1375, mapmakers in Europe draw King X on a famous map of the world.  
+> Some people say King X is the richest man in history, but nobody can really know this.  
+> There are no full written records of exactly how much gold he had.  
+> Gold from his empire slowly travels north and becomes coins in Europe.  
+> **Who is King X?**
+
+**Svar:** ✅ Mansa Musa · ⬜ Ezana of Aksum · ⬜ Askia Muhammad · ⬜ Mutota
+
+**Ord:** *scholar* — a person who studies and knows very much · *sources* — old texts or things that give us information about the past · *chronicles* — books that tell the events of the past year by year · *mapmakers* — people whose job is to draw maps · *records* — written information that is kept and can be checked later
+
+</details>
+
+### Swahilikusten
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Stone Towns by the Sea</summary>
+
+> Place X is a string of stone towns by the sea.  
+> The towns stand on the east coast of Africa.  
+> Some of these towns are more than a thousand years old.  
+> Each year, a steady wind brings ships from Arabia and India.  
+> In Place X, traders sell goods like gold and ivory from the land behind them.  
+> In return, they buy cloth, glass beads, and painted bowls.  
+> The people of Place X speak an African language.  
+> Over time, this language takes in many words from Arabia.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ The Gold Coast · ✅ The Swahili coast · ⬜ The Horn of Africa · ⬜ The Barbary Coast
+
+**Ord:** *ivory* — the hard white material from an elephant's tusk · *traders* — people whose job is buying and selling goods · *goods* — things that people buy and sell
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Coins, Coral, and a Great Mosque</summary>
+
+> Place X is not one land but a row of separate towns.  
+> They stand on the east coast of Africa.  
+> Kilwa, Mombasa, Malindi, and the island of Zanzibar are some of these places.  
+> Each town has its own ruler and makes its own choices.  
+> A wind called the monsoon rules the sea along the whole coast.  
+> For half the year, it blows ships in from Arabia, Persia, and India.  
+> For the other half, the same wind blows the ships back home.  
+> Kilwa grows rich on gold from a high plateau far to the south.  
+> That gold comes north by sea from the port of Sofala.  
+> Kilwa strikes its own copper coins.  
+> Workers build a great mosque there from coral stone.  
+> In the 1410s, a huge fleet from China visits this coast.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ The Malabar Coast · ⬜ The Cape of Good Hope · ✅ The Swahili coast · ⬜ The Red Sea coast
+
+**Ord:** *monsoon* — a wind that blows one way for part of the year, then the other way · *plateau* — a large area of high, flat land · *strikes* — makes coins by stamping a design into metal · *coral* — a hard, stony material built by tiny sea animals, used here to build houses
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — One Coast, Many Peoples</summary>
+
+> Place X is a coast in East Africa with many old stone towns.  
+> From the 700s, the faith of Islam spreads along this coast.  
+> Traders from Arabia and Persia settle in the towns.  
+> Over many generations, local families marry these newcomers.  
+> The people keep their own language, an African language of the coast.  
+> Its grammar and everyday words come from an African language family.  
+> Thousands of extra words come from Arabic, the language of prayer and learning.  
+> Rich families build stone houses with heavy carved wooden doors.  
+> Later, poets on the coast write long poems in this language.  
+> Ships also carry mangrove poles from the creeks to build houses in Arabia.  
+> Faith, trade, and marriage tie the towns to lands across the sea.  
+> Yet the towns stay African in their people and their speech.  
+> **Which place is Place X?**
+
+**Svar:** ✅ The Swahili coast · ⬜ The Coromandel Coast · ⬜ The Slave Coast · ⬜ The Gold Coast
+
+**Ord:** *generations* — all the people born and living at about the same time, one after another · *grammar* — the rules that show how words fit together in a language · *poets* — people who write poems · *mangrove* — a tree that grows with its roots in salty water along the shore
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — New Ships, New Rulers</summary>
+
+> Place X is a coast of trading towns in East Africa.  
+> In 1498, Portuguese ships sail along this coast for the first time.  
+> Their captain looks for a sea route straight to India.  
+> The Portuguese soon want to control the region's trade.  
+> In 1505, Portuguese forces attack and badly damage the town of Kilwa.  
+> For about two hundred years, Portugal holds parts of this coast by force.  
+> In 1698, rulers from Oman drive the Portuguese out of the north.  
+> Under Omani rule, the island of Zanzibar grows rich on a new crop.  
+> Workers there grow cloves, a spice sold all over the world.  
+> Most of these workers are enslaved people.  
+> In the 1800s, Zanzibar also becomes a center of trade in enslaved people.  
+> Later that century, outside pressure forces this trade to slowly end.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ The Horn of Africa · ⬜ The Barbary Coast · ⬜ The Malabar Coast · ✅ The Swahili coast
+
+**Ord:** *route* — the way or path used to travel from one place to another · *crop* — a plant grown in large amounts for food or to sell · *spice* — a plant part used to give food a strong taste or smell · *enslaved* — forced to work and live as the property of another person · *pressure* — strong influence used to make someone act or change
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Whose Cities Are These?</summary>
+
+> Place X is a chain of old stone towns on the east coast of Africa.  
+> For much of the twentieth century, many books called these towns "Arab colonies."  
+> From the 1950s, archaeologists dig at several coastal ruins.  
+> These first excavators also believe in Arab or Persian founders.  
+> From the 1980s, new digs and new language studies change the picture.  
+> Layer after layer, the finds show local pottery, local house plans, and local burial customs.  
+> Pieces of Chinese porcelain in each layer help to date the towns.  
+> Written sources are thin, and many come from outsiders passing through.  
+> A traveler from Morocco visits Kilwa in 1331 and praises its fine buildings.  
+> Most researchers today see African societies that welcome trade and slowly absorb new neighbors.  
+> The African language of this coast, shaped by this long meeting, still lives on today.  
+> It is the national language of Tanzania, and more than a hundred million people speak it.  
+> **Which place is Place X?**
+
+**Svar:** ⬜ The Red Sea coast · ✅ The Swahili coast · ⬜ The Cape of Good Hope · ⬜ The Slave Coast
+
+**Ord:** *archaeologists* — scientists who study old objects and old buildings · *excavators* — people who dig carefully to find old things in the ground · *porcelain* — a fine, hard, white kind of pottery · *absorb* — to take something in and make it part of a bigger whole · *sources* — texts or objects that give historians information about the past
+
+</details>
+
+### Kapplöpningen om Afrika
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Lines drawn far away</summary>
+
+> Event X begins about 150 years ago.  
+> At that time, only a few European countries hold land in Africa.  
+> Then, within a few short decades, that changes fast.  
+> Many European countries suddenly want land there too.  
+> Leaders far away in Europe draw new lines across a huge map.  
+> These leaders have never walked on the land they divide.  
+> One single line can cut straight through one people's home.  
+> By 1914, Europeans rule nearly the whole continent.  
+> Only two countries in Africa manage to stay free.  
+> Many of those far away lines still mark borders today.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Age of Exploration · ✅ The Scramble for Africa · ⬜ The Crusades · ⬜ The Opium Wars
+
+**Ord:** *continent* — a very large area of land, much bigger than any single country · *divide* — to split something into separate parts · *decades* — periods of ten years each · *borders* — the lines where one country or area ends and another begins
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — No one from Africa at the table</summary>
+
+> Event X speeds up at a conference in Berlin in 1884.  
+> Officials sent by many European governments sit around one long table.  
+> No African leader sits at that table.  
+> The officials agree on rules for claiming land across the continent.  
+> A country must really control a piece of land before it can claim it.  
+> New medicine against malaria lets outsiders survive far inland for the first time.  
+> Steamboats carry soldiers and goods up rivers that used to stop them.  
+> A new fast gun gives small forces a deadly advantage over larger ones.  
+> Together, these new tools make fast conquest possible across the continent.  
+> **Which event is Event X?**
+
+**Svar:** ✅ The Scramble for Africa · ⬜ The Great Game · ⬜ The Congress of Vienna · ⬜ The Boer War
+
+**Ord:** *conquest* — taking control of a place by force · *inland* — away from the coast, deep inside a country · *advantage* — something that helps you do better than others · *claim* — to say that something belongs to you
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Not without a fight</summary>
+
+> Event X is the European rush for land in Africa in the late 1800s.  
+> It does not succeed everywhere without resistance.  
+> In the mountains of the northeast, Ethiopia stays independent the whole time.  
+> Its ruler, Menelik II, spends years buying modern rifles to prepare.  
+> In 1896, at Adwa, his army defeats an invading Italian force completely.  
+> In West Africa, a leader named Samori Touré builds his own army.  
+> He resists the French for more than ten years.  
+> In German East Africa, today Tanzania, people rise up together in 1905.  
+> Colonial forces crush the uprising.  
+> Historians count between seventy-five thousand and three hundred thousand dead, most of them from hunger.  
+> In the southwest, colonial forces also wage a harsh campaign against the Herero and Nama peoples.  
+> In 2021, Germany calls that campaign a genocide.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Great Game · ⬜ The Opium Wars · ✅ The Scramble for Africa · ⬜ The Boer War
+
+**Ord:** *resistance* — fighting back against control by an outside power · *invading* — entering a country by force to take control of it · *uprising* — when many people rise up together against those in power · *genocide* — a planned effort to destroy a whole people
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A king's private colony</summary>
+
+> Event X is the European race for land in Africa in the late 1800s.  
+> One European king gains the vast Congo in central Africa as his own private property.  
+> Rubber grows there on wild vines that climb the forest trees.  
+> The king's agents force local people to collect this rubber.  
+> The people cut the vines with knives and catch the white sap in pots and gourds.  
+> Each village must bring a set amount, or agents take hostages and punish the village.  
+> Missionaries, a shipping clerk, and local witnesses gather reports and photographs.  
+> Their reports shock people in Europe, and a campaign against the king begins.  
+> In 1908, the king has to hand the land over to his country's government.  
+> Many people die in those years, from violence, hunger, and disease.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Partition of India · ✅ The Scramble for Africa · ⬜ The Congress of Vienna · ⬜ The Suez Crisis
+
+**Ord:** *property* — something that belongs to a person · *agents* — people sent to act or work on behalf of someone else · *sap* — the liquid inside a plant · *gourds* — the hard, dried shells of a fruit, used as bowls or bottles · *hostages* — people held prisoner so that others will do what they are told
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Why then, and whose story</summary>
+
+> Event X is the sudden European takeover of most of Africa in the late 1800s.  
+> Historians still debate exactly why it happens when it does.  
+> Some point to industrial economies in Europe hungry for raw materials and new markets.  
+> Others stress rivalry between European powers competing for prestige and strategic position.  
+> Still others point to new technology, which suddenly makes control of the interior possible.  
+> No single explanation fully satisfies every historian.  
+> To study it, historians read government archives, letters, and company account books.  
+> They also read protest reports, missionary accounts, and oral histories preserved by descendants.  
+> Sources from colonizers and from colonized peoples often tell very different stories.  
+> Historians also debate the legacy of the drawn borders for the states that exist today.  
+> Some scholars see mainly enduring conflict, while others stress African societies' own resilience and adaptation.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Suez Crisis · ⬜ The Partition of India · ✅ The Scramble for Africa · ⬜ The Boer War
+
+**Ord:** *archives* — collections of old documents kept for later study · *prestige* — respect and importance in the eyes of others · *resilience* — the ability to recover and keep going after hard events · *descendants* — people who come after someone in later generations, such as children and grandchildren
+
+</details>
+
+### Afrikas självständighet
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — New Flags for New Countries</summary>
+
+> Movement X grows strong in Africa after the war that ends in 1945.  
+> Before this movement, most of Africa is ruled by governments in Europe.  
+> Slowly, one country after another starts to choose its own leaders.  
+> Each new country also chooses its own new flag.  
+> In one single year, seventeen countries in Africa become free states.  
+> People plan parades, and children learn new songs for their country.  
+> Schools change too, with new maps and new words to learn.  
+> The movement does not end there, and it takes many more years.  
+> By the end of the century, almost every country in Africa rules itself.  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ The Indian independence movement · ⬜ The civil rights movement · ✅ African independence · ⬜ The anti-apartheid movement
+
+**Ord:** *governments* — the groups of people who rule a country or a region · *parades* — happy marches by many people, often with music · *century* — a period of one hundred years · *states* — countries, each with its own government
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — One Country After Another</summary>
+
+> Movement X turns colonies in Africa into free countries.  
+> It gathers speed across Africa in the late 1950s.  
+> In 1957, Ghana becomes independent under its new leader, Kwame Nkrumah.  
+> It is one of the first countries in Africa to do this after the war.  
+> A year later, Guinea says no to a new plan from its French rulers.  
+> Guinea becomes independent alone, and French support stops at once.  
+> Soon many more countries follow, in the north, west, east, and center of Africa.  
+> In 1961, Tanganyika on the east coast becomes independent too.  
+> Three years later, Tanganyika and the islands of Zanzibar join to form Tanzania.  
+> In 1963, leaders from many African states meet in Addis Ababa.  
+> There, the new free states start an organization to work together.  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ The labor movement · ✅ African independence · ⬜ The Non-Aligned Movement · ⬜ The Arab nationalist movement
+
+**Ord:** *organization* — a group of people or countries that work together toward a goal · *support* — help given to a person, a group, or a country · *independent* — governing itself, not ruled by another country · *colonies* — lands ruled and controlled by a country far away
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Freedom Won Through War</summary>
+
+> Movement X frees the countries of Africa from European rule after 1945.  
+> In some countries, it does not win without a fight.  
+> In Kenya, farmers and workers who lose their best land start an uprising in the 1950s.  
+> British rulers fight the uprising hard and open large camps for suspects.  
+> Kenya becomes independent in 1963, after years of hard struggle.  
+> In Algeria, a bitter war against French rule lasts almost eight years.  
+> Hundreds of thousands of people die before Algeria becomes independent in 1962.  
+> Portugal fights long wars in several of its colonies and holds on until 1974.  
+> Then Portugal's own government changes, and it lets the colonies go in 1974 and 1975.  
+> In the far south, most of the region is free by the 1960s and 1970s.  
+> But one country there does not reach majority rule until 1994.  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ The Négritude movement · ⬜ The labor movement · ⬜ The civil rights movement · ✅ African independence
+
+**Ord:** *uprising* — a sudden fight by many people against their rulers · *struggle* — a long, hard effort against difficulty or an enemy · *suspects* — people who the rulers think may have done something against them · *majority* — more than half of a group
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The Hard Years After</summary>
+
+> Movement X ends European rule over one African country after another.  
+> This freedom brings new problems as well as new hope.  
+> New countries inherit borders drawn by outsiders, which often split families and old kingdoms.  
+> In several new countries, one political party ends up ruling alone.  
+> In some places, army officers seize power in sudden coups instead.  
+> In Congo, independence in 1960 quickly turns into a deep crisis.  
+> Its first prime minister, Patrice Lumumba, is removed from power and killed within a year.  
+> The two great powers of this time often support different sides in African conflicts.  
+> In Tanzania, the government moves many farming families into new planned villages called ujamaa villages.  
+> Its aim is to share land, schools, and health care more fairly among everyone.  
+> In practice, some villages gain new schools and clinics, but many farmers lose income and choice.  
+> **Which movement is Movement X?**
+
+**Svar:** ✅ African independence · ⬜ The Arab nationalist movement · ⬜ The Non-Aligned Movement · ⬜ The Négritude movement
+
+**Ord:** *borders* — lines that divide one country from another · *coups* — sudden takeovers of a government, usually by soldiers · *crisis* — a time of great danger or difficulty · *income* — the money a person or a family earns · *ujamaa* — a word in the language of Tanzania for living and working together as one family
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Was It Real Freedom?</summary>
+
+> Movement X turns the colonies of Africa into independent states in the decades after 1945.  
+> Historians still debate how complete this freedom really is.  
+> Many new states inherit an economy built to export raw materials to old rulers.  
+> Factories, ports, and railways still mostly serve markets outside Africa.  
+> Some historians call this pattern flag independence: new symbols, old economic ties.  
+> Even before most countries become free, leaders from Africa and Asia meet in Bandung in 1955.  
+> There, they agree to stand together against colonial rule.  
+> In 1961, many of them meet again in Belgrade and agree to stay non-aligned.  
+> In Tanzania, leaders choose a path that mixes self-reliance with foreign aid.  
+> Written speeches, plans, and later interviews record why these choices are made.  
+> Historians compare these sources with harvest records and household survey data from the same years.  
+> The evidence often supports mixed conclusions, not simple praise or simple blame.  
+> **Which movement is Movement X?**
+
+**Svar:** ⬜ The Négritude movement · ⬜ The Pan-African movement · ✅ African independence · ⬜ The anti-apartheid movement
+
+**Ord:** *economy* — how a country makes, uses, and trades goods and money · *raw materials* — natural things like metals, oil, or crops before they are made into products · *non-aligned* — not joining or siding with either of two powerful groups · *self-reliance* — depending mainly on your own work and resources · *survey* — a careful study that collects information by asking or measuring
 
 </details>
 
