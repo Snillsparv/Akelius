@@ -149,6 +149,7 @@ Verifiera sidorna vid behov med Playwright: `node` + `playwright-core` med
   `colonialism` (kolonialism) för slavhandeln och kapplöpningen om Afrika;
   självständigheten ligger under `twentieth century`. Etiketten får inte vara
   en del av svaret, därför inte `africa` på de två sistnämnda seten.
+- Leverans 12 införde `asia` (Asien) för Asienblocket.
 
 ## Rapportformat efter en körning
 

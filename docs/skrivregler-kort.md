@@ -837,3 +837,161 @@ namnges där de behövs och är då inte distraktorer på det kortet.
   folkmassa bakifrån på en plan, en flaggstång utan flagga i gryning,
   skolbarn i en ny skola bakifrån, en lärares kateder, inga flaggor med
   färger som pekar ut ett land, inga porträtt, ingen text.
+
+## Ämnesnoter, leverans 12
+
+Fjärde leveransen ur den utökade listan, Asienblockets femkortsämnen: rad
+97 Qin Shi Huangdi, 98 Sidenvägen, 99 Ashoka, 100 Zheng He, 102 Akbar och
+Mogulriket, 104 Meijirestaurationen. Kategori `asia` (ny, svenska "Asien")
+för alla sex. Målgruppen sitter i Bhutan och Tanzania: Indien, Kina och
+Japan skrivs som världshistoria, religion som historia, inga nationella
+symboler i bild (inga flaggor, inte Indiens lejonkapitäl eller hjul, inga
+läsbara inskrifter).
+
+Anonymisering och frågor: Qin Shi Huangdi, Ashoka och Akbar är Emperor X
+("Who is Emperor X?", svenska "kejsar X", "Vem är kejsar X?"); Zheng He är
+Admiral X ("Who is Admiral X?", svenska "amiral X"); Sidenvägen är Road X
+("Which road is Road X?", svenska "vägen X", "Vilken väg är vägen X?");
+Meijirestaurationen är Event X ("Which event is Event X?"). Svarsalternativ:
+"Qin Shi Huangdi", "The Silk Road", "Ashoka", "Zheng He", "Akbar", "The
+Meiji Restoration".
+
+Korsläckor att vakta: inget av de sex seten namnger något av de andra fem
+(Sidenvägssetet skriver inte "Zheng He" eller "Qin"; Zheng He-setet skriver
+"the old trade routes over land", inte Sidenvägen). Befintliga set namnges
+inte i löptext: Konfucius ("an old teacher's ideas", "the emperor's
+scholar-officials", aldrig "Confucian"), Siddhartha Gautama (orden
+"Buddhism" och "the Buddha" är tillåtna som vanliga ord, namnet inte),
+Alexander den store, Djingis khan ("Mongol" som adjektiv tillåtet), Marco
+Polo får namnges (inget set), Ibn Battuta, Columbus, Magellan, Muhammed,
+Swahilikusten ("the coast of East Africa"), Mansa Musa, industriella
+revolutionen ("industry" och "industrial" som vanliga ord tillåtna),
+franska och amerikanska revolutionen ("American ships" är tillåtet),
+Napoleon, Ryska revolutionen är inget set och får nämnas som "a revolution
+in Russia" på universitetsnivå. Kinesiska och japanska namn skrivs i
+pinyin respektive Hepburn utan diakritiska tecken.
+
+- **Qin Shi Huangdi**: Emperor X. Kung av Qin från 246 f.Kr. vid tretton års
+  ålder, enade de stridande staterna 221 f.Kr., tog en ny titel som betyder
+  den förste kejsaren av allt (titeln är svaret, skriv "a new title that
+  means the first ruler of all"), samma skrift, mått, vikter, mynt och
+  hjulbredd i hela riket, rådgivaren Li Si och lagarnas hårda skola,
+  bokbränningen 213 f.Kr., berättelsen om de levande begravda lärda 212
+  f.Kr. kommer från historikern Sima Qian hundra år senare och betvivlas
+  av många (skriv "a later historian writes"), murar som bands samman till
+  en tidig lång mur (dagens synliga mur är från Mingtiden 1 500 år senare,
+  blanda inte ihop), vägar och kanalen Lingqu, mordförsöket 227 f.Kr.,
+  jakten på odödlighetens medicin och döden på resa 210 f.Kr. (kvicksilver
+  som orsak är en gissning), graven nära Xi'an med terrakottaarmén som
+  bönder fann 1974 när de grävde en brunn, omkring 8 000 soldater
+  uppskattade och inga två ansikten lika, själva gravkullen är ogrävd, Sima
+  Qians beskrivning av floder av kvicksilver och markprover med hög halt,
+  dynastin föll 206 f.Kr. Universitet: tyrann eller grundare, Sima Qians
+  källvärde, arkeologin mot texten. Fångar: "Qin", "Shi Huang", "Huangdi",
+  "First Emperor"; "China", "terracotta", "Xi'an" är tillåtna.
+  Distraktorer: Han Wudi, Liu Bang, Tang Taizong, Kublai Khan, Wu Zetian,
+  Kangxi, Yongle, Genghis Khan (set, tillåten). Bilder: terrakottasoldater
+  bakifrån eller på avstånd utan läsbara märken, en tidig jordmur i
+  bergslandskap, bronsvikter utan tecken, inga kinesiska tecken någonstans.
+- **The Silk Road**: Road X. Ett nät av vägar från Chang'an till Medelhavet,
+  namnet gavs 1877 av en tysk geograf (får sägas, "a German scholar gives
+  it a name in 1877"), sändebudet Zhang Qian omkring 138 f.Kr. som öppnade
+  vägen västerut, sidenets hemlighet som Kina bevakade, siden i Rom (Rom
+  som plats tillåten), varor västerut: siden, papper, porslin; österut:
+  hästar, glas, guld, ull; idéer: Buddhismen till Kina, papperstillverkning
+  västerut via Samarkand (berättelsen om fångarna efter slaget vid Talas
+  751 är en berättelse), pesten på 1300-talet reste samma väg (skriv "a
+  great plague", setet namnges inte), Mongolfreden på 1200-talet,
+  Samarkand, Buchara, Kashgar, oaserna och kamelerna, grottorna vid
+  Dunhuang och biblioteksgrottan som öppnades 1900 och tömdes av europeiska
+  forskare 1907 (sakligt, känsligt i Kina), sjövägarna som tog över på
+  1500-talet. Universitet: begreppets historia, "vägar" i plural,
+  namnet som politik i dag nämns neutralt eller inte alls. Fångar: "Silk
+  Road", "Silk Route", "silk roads"; ordet "silk" ensamt är tillåtet.
+  Distraktorer: The Amber Road, The Incense Route, The Tea Horse Road, The
+  Royal Road, The Spice Route, The Grand Trunk Road, The King's Highway,
+  The trans-Saharan trade route. Bilder: kamelkaravan i sanddyner,
+  oasstad, silkesmaskar på mullbärsblad, ett tygstycke utan mönster som
+  liknar skrift, grottor på avstånd, inga kartor med text.
+- **Ashoka**: Emperor X. Maurya-rikets tredje kejsare omkring 268-232
+  f.Kr., sonson till grundaren (namnges inte i löptext, Chandragupta Maurya
+  bara som distraktor), kriget mot Kalinga omkring 261 f.Kr. där hans egen
+  inskrift talar om hundratusen dödade (skriv "his own words on a rock
+  say"), ångern, Buddhismen och läran om dhamma, edikten på klippor och
+  pelare över hela riket på folkets språk (inskrifterna får inte vara
+  läsbara i bild), sändebud till andra länder och traditionen att hans son
+  och dotter förde läran till Sri Lanka (skriv "tradition says"), sjukhus
+  för människor och djur, träd och brunnar längs vägarna, toleransediktet,
+  glömd i nästan två tusen år tills en brittisk tjänsteman läste skriften
+  1837 (James Prinsep får namnges), hjulet från hans pelare på Indiens
+  flagga i dag (nämns i text, avbildas inte). Universitet: källorna är
+  hans egna edikt och senare buddhistiska legender, vad som är
+  propaganda, kejsaren som modell för icke-våld i modern indisk politik
+  (Gandhi namnges inte). Fångar: "Ashoka", "Asoka", "Piyadasi",
+  "Devanampiya", "Maurya", "Mauryan". Distraktorer: Chandragupta Maurya,
+  Harsha, Kanishka, Samudragupta, Chandragupta II, Rajaraja Chola,
+  Krishnadevaraya, Akbar (set i samma leverans, tillåten). Bilder: en
+  pelare utan synlig inskrift på avstånd, en klippa vid en väg, ett
+  slagfält efter striden utan kroppar (tomt fält, brutna vagnar), stupa,
+  inga lejonkapitäl, inga flaggor.
+- **Zheng He**: Admiral X. Född 1371 i Yunnan i en muslimsk familj, tagen
+  som pojke av kejsarens armé, gjord till eunuck (skriv "made to serve at
+  court" på lägre nivåer, sakligt "castrated" bara på universitetskortet),
+  tjänade prinsen som blev kejsaren Yongle (får namnges), sju resor 1405-
+  1433 med skattflottorna, enligt Mingkällorna över 60 stora skepp och
+  omkring 27 000 man per resa (skriv "records of the time say"), de största
+  skeppens längd är omtvistad (skriv "some old records say the biggest
+  ships were as long as a football field, but many historians doubt it"),
+  Sydostasien, Calicut i Indien, Hormuz, Arabien, Östafrikas kust med
+  Malindi och Mogadishu, giraffen till Peking 1415, gåvor och tributdiplomati
+  snarare än erövring, men strid på Sri Lanka 1411 och på Sumatra, efter
+  Yongles död upphörde resorna, kejsarens lärda ämbetsmän ansåg dem för dyra,
+  havsförbud, han dog omkring 1433, troligen till sjöss. Universitet:
+  varför Kina slutade, myten att han nådde Amerika (en bok 2002, avfärdad
+  av historikerna), källäget. Fångar: "Zheng", "Cheng Ho", "Ma He".
+  Distraktorer: Marco Polo, Vasco da Gama, Xu Fu, Zhang Qian, Yi Sun-sin,
+  Faxian, Ibn Battuta, Christopher Columbus, Ferdinand Magellan (set,
+  tillåtna). Bilder: stora skepp med bambusegel på avstånd utan flaggor,
+  en giraff i en palatsgård, en hamn i Calicut, kompass utan tecken, inga
+  ansikten, ingen kalligrafi.
+- **Akbar**: Emperor X. Mogulkejsare från 1556 vid tretton års ålder,
+  förmyndaren Bairam Khan, utvidgade riket över norra Indien, gifte sig
+  med rajputprinsessor och band furstarna till sig, avskaffade skatten på
+  icke-muslimer 1564, samtalen om tro i Fatehpur Sikri från 1575 med
+  hinduer, jainer, zoroastrier och jesuiter från Europa, den lilla
+  hovkretsen omkring 1582 som senare kallats en egen religion (historikerna
+  är oense, skriv försiktigt), kunde inte läsa men lät läsa högt och
+  samlade ett väldigt bibliotek, målarverkstaden, översättningar av
+  sanskriteposen till persiska, skatte- och ämbetssystemet med Todar Mal,
+  krönikan Akbarnama av Abu'l-Fazl, huvudstaden Fatehpur Sikri som
+  övergavs, belägringen av Chittor 1568 med massakern sakligt i en mening,
+  sonsonen som byggde ett berömt gravmonument (Taj Mahal får namnges).
+  Universitet: tolerans som politik, källorna Abu'l-Fazl mot kritikern
+  Badauni, kejsaren i dagens indiska debatt sakligt. Fångar: "Akbar";
+  "Mughal" och "Mogul" är tillåtna eftersom flera distraktorer är
+  mogulkejsare. Distraktorer: Babur, Humayun, Jahangir, Shah Jahan,
+  Aurangzeb, Sher Shah Suri, Krishnadevaraya, Timur, Ashoka (set i samma
+  leverans, tillåten). Bilder: röd sandstensstad på avstånd, ett samtal i
+  en pelarsal bakifrån, miniatyrmåleri utan skrift, elefanter i procession
+  utan flaggor, ingen kalligrafi.
+- **The Meiji Restoration**: Event X. Japan stängt i över tvåhundra år under
+  shogunerna med bara ett fönster i Nagasaki, de svarta skeppen 1853-1854
+  (amerikanska, kommendören får namnges), de ojämlika fördragen, striden
+  om landets väg, inbördeskriget 1868-1869, en femtonårig kejsare som
+  fick makten tillbaka (verbet "restore" är tillåtet, substantivet inte),
+  eden 1868, huvudstaden flyttad till Tokyo, samurajerna avskaffade som
+  klass med svärdsförbud 1876 och upproret 1877, allmän värnplikt 1873,
+  skola för alla från 1872, järnväg Tokyo-Yokohama 1872, Iwakuradelegationen
+  1871-1873 som studerade väst, författning 1889 och riksdag 1890, kriget
+  mot Kina 1894-1895 och segern över Ryssland 1905, Korea annekterat 1910,
+  "rikt land, stark armé", priset: böndernas skatter, fabriksflickorna,
+  militarismen längre fram. Universitet: revolution uppifrån, varför just
+  Japan, historikerdebatten, vad andra länder i Asien och Afrika tog
+  intryck av. Fångar: "Meiji", "Restoration"; "restore/restored" som verb
+  och "emperor", "Japan", "Tokyo", "samurai" är tillåtna. Distraktorer: The
+  French Revolution (set, tillåten), The Boxer Rebellion, The Taiping
+  Rebellion, The Opium Wars, The Young Turk Revolution, The Tanzimat
+  reforms, The Glorious Revolution, The Reform Movement of 1898.
+  Bilder: svarta ångfartyg i en vik på avstånd, ett ånglok på 1870-talet,
+  skolsal med barn bakifrån, samurajsvärd på ett ställ utan text, ett
+  telegrafstolpe vid en bygata, inga flaggor, inga tecken.

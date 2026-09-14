@@ -97,3 +97,7 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
   slavhandeln, Mansa Musa och Mali, Swahilikusten, kapplöpningen om Afrika,
   Afrikas självständighet. Nya etiketter `africa` och `colonialism`, lätta att
   byta med sed och omimport om Jonas eller Roger vill annat.
+- 2026-09-14, senare: leverans 12 = Asienblockets femkortsämnen ur förslaget:
+  Qin Shi Huangdi, Sidenvägen, Ashoka, Zheng He, Akbar och Mogulriket,
+  Meijirestaurationen. Ny etikett `asia`. Nya anonymiseringsformer Emperor X
+  (kejsar X), Admiral X (amiral X) och Road X (vägen X).
