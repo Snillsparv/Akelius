@@ -1,0 +1,224 @@
+{
+  "slug": "mansa-musa",
+  "person_sv": "Mansa Musa",
+  "cards": [
+    {
+      "title": "En kungs land av guld och salt",
+      "text_sentences": [
+        "Kung X lever i Västafrika, för ungefär sjuhundra år sedan.",
+        "Hans land ligger vid en stor flod.",
+        "I söder vaskar människor guldsand ur floden.",
+        "I norr hugger arbetare saltblock ur öknen.",
+        "Handlare bär salt söderut och guld norrut på kameler.",
+        "Kung X tar sin del av all handel.",
+        "Det gör honom mycket rik.",
+        "Han styr många städer längs floden.",
+        "Folk kallar hans kungarike Mali.",
+        "Senare gör han en berömd resa till en helig stad långt borta."
+      ],
+      "question": "Vem är kung X?",
+      "options": [
+        "Mansa Musa",
+        "Sundiata Keita",
+        "Shaka Zulu",
+        "Osei Tutu"
+      ],
+      "words": [
+        {
+          "word": "öken",
+          "explanation": "ett mycket hett och torrt land med mycket sand och lite vatten"
+        },
+        {
+          "word": "kameler",
+          "explanation": "stora ökendjur som kan bära tunga laster i många dagar"
+        },
+        {
+          "word": "del",
+          "explanation": "en del av en hel mängd"
+        },
+        {
+          "word": "helig",
+          "explanation": "mycket speciell och viktig inom en religion"
+        }
+      ],
+      "main_caption": "Vid en stor flod vaskar folk guld ur sanden.",
+      "side_caption": "Handlare säljer salt, tyg och säd i en stad vid floden."
+    },
+    {
+      "title": "Karavanen till en helig stad",
+      "text_sentences": [
+        "Kung X styr ett rike i Västafrika som blir rikt på guld och salt.",
+        "Kung X är muslim.",
+        "Muslimer tror att varje troende som har möjlighet bör besöka den heliga staden Mecka en gång i livet.",
+        "År 1324 lämnar han sitt rike för denna stora resa.",
+        "Berättelser säger att hans karavan har många tusen människor.",
+        "Berättelser säger att den bär flera ton guld.",
+        "Berättelser säger att han ger guld till fattiga människor längs vägen.",
+        "På vägen stannar han i staden Kairo.",
+        "Omkring tio år senare skriver en lärd i Kairo om besöket.",
+        "Han säger att kung X gav bort så mycket guld att priset sjönk i flera år.",
+        "Hela resan tar mer än ett år."
+      ],
+      "question": "Vem är kung X?",
+      "options": [
+        "Mansa Musa",
+        "Sonni Ali",
+        "Ezana av Aksum",
+        "Idris Alooma"
+      ],
+      "words": [
+        {
+          "word": "rike",
+          "explanation": "en stor grupp länder och folk som styrs av en enda kung eller drottning"
+        },
+        {
+          "word": "karavan",
+          "explanation": "en grupp människor och djur som reser tillsammans"
+        },
+        {
+          "word": "ton",
+          "explanation": "en enorm vikt, många hundra kilogram"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar och kan mycket"
+        }
+      ],
+      "main_caption": "En stor karavan korsar öknen på en lång resa.",
+      "side_caption": "En lärd i Kairo frågar människor vad de har sett, och skriver sedan ner det."
+    },
+    {
+      "title": "En stad av böcker vid öknen",
+      "text_sentences": [
+        "Kung X återvänder hem från sin stora resa år 1325.",
+        "Han kommer inte hem med bara guld.",
+        "Han tar med sig lärda och domare hem.",
+        "Han tar också med sig en byggmästare från Granada i Spanien, som han möter på resan.",
+        "Berättelser säger att byggmästaren planerar en ny moské av lera och trä åt honom.",
+        "Arbetare färdigställer moskén i staden Timbuktu 1327.",
+        "På 1300-talet börjar Timbuktu växa till ett centrum för studier och böcker.",
+        "Studenter reser dit från långt bort för att lära sig juridik och vetenskap.",
+        "Skrivare kopierar manuskript för hand, sida efter sida.",
+        "Många av dessa gamla manuskript finns kvar än i dag.",
+        "Familjer i Timbuktu förvarar fortfarande några av dem tryggt i sina hem."
+      ],
+      "question": "Vem är kung X?",
+      "options": [
+        "Mansa Musa",
+        "Askia Muhammad",
+        "Mutota",
+        "Sundiata Keita"
+      ],
+      "words": [
+        {
+          "word": "lärda",
+          "explanation": "människor som studerar och kan mycket"
+        },
+        {
+          "word": "moské",
+          "explanation": "en byggnad där muslimer ber"
+        },
+        {
+          "word": "skrivare",
+          "explanation": "människor vars jobb är att kopiera böcker och brev för hand"
+        },
+        {
+          "word": "manuskript",
+          "explanation": "gamla böcker eller papper skrivna för hand"
+        }
+      ],
+      "main_caption": "En stor lermoské reser sig i en stad känd för lärdom.",
+      "side_caption": "Gamla handskrivna sidor bevaras fortfarande tryggt i dag."
+    },
+    {
+      "title": "Ett rike reser sig och faller",
+      "text_sentences": [
+        "Två generationer före kung X grundar en härskare ett nytt rike i Västafrika.",
+        "Det riket blir starkt genom handel med guld och salt.",
+        "Kung X blir dess härskare omkring år 1312.",
+        "Under honom når riket sin största storlek och rikedom.",
+        "Efter hans död förblir riket starkt i ytterligare en generation.",
+        "Sedan lyckas senare härskare inte hålla ihop det.",
+        "På 1400-talet gör krig och svaga ledare riket mindre.",
+        "Handelsvägar flyttar sakta till andra vägar och andra härskare.",
+        "Ett nytt rike vid namn Songhai reser sig i öster.",
+        "Songhai tar till och med lärdomsstaden som kung X en gång gjorde till en del av sitt rike.",
+        "Historiker studerar gamla städer och gamla skrifter för att förstå den här långa historien."
+      ],
+      "question": "Vem är kung X?",
+      "options": [
+        "Mansa Musa",
+        "Idris Alooma",
+        "Osei Tutu",
+        "Sonni Ali"
+      ],
+      "words": [
+        {
+          "word": "generationer",
+          "explanation": "grupper av människor födda ungefär samtidigt, en efter en"
+        },
+        {
+          "word": "rikedom",
+          "explanation": "att ha mycket pengar eller värdefulla saker"
+        },
+        {
+          "word": "handelsvägar",
+          "explanation": "vägar som människor reser på om och om igen"
+        },
+        {
+          "word": "historiker",
+          "explanation": "människor som studerar det förflutna för att förstå vad som hände"
+        }
+      ],
+      "main_caption": "Riken reser sig vid den stora floden, och riken faller.",
+      "side_caption": "En gammal handelsväg ligger tyst och tom."
+    },
+    {
+      "title": "Hur vet vi om en kung som är borta sedan länge?",
+      "text_sentences": [
+        "Kung X dör på 1330-talet.",
+        "Ingen skrift från hans eget rike och hans egen tid finns kvar i dag.",
+        "Historiker måste mest förlita sig på senare skribenter för att lära sig om honom.",
+        "En lärd i Kairo skriver om kung X:s besök omkring tio år efter att det sker.",
+        "Den lärde möter aldrig kung X, så han frågar människor i Kairo som gjorde det.",
+        "Senare skribenter i Nordafrika samlar in fler berättelser om kung X från många källor.",
+        "Lärda i Timbuktu skriver krönikor om honom på 1600-talet, trehundra år efter hans död.",
+        "År 1375 ritar kartmakare i Europa in kung X på en berömd världskarta.",
+        "Vissa säger att kung X är den rikaste mannen i historien, men ingen kan egentligen veta det.",
+        "Det finns inga fullständiga skriftliga uppgifter om exakt hur mycket guld han hade.",
+        "Guld från hans rike reser sakta norrut och blir mynt i Europa."
+      ],
+      "question": "Vem är kung X?",
+      "options": [
+        "Mansa Musa",
+        "Ezana av Aksum",
+        "Askia Muhammad",
+        "Mutota"
+      ],
+      "words": [
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar och kan mycket"
+        },
+        {
+          "word": "källor",
+          "explanation": "gamla texter eller saker som ger oss information om det förflutna"
+        },
+        {
+          "word": "krönikor",
+          "explanation": "böcker som berättar om det som hänt, år för år"
+        },
+        {
+          "word": "kartmakare",
+          "explanation": "människor vars jobb är att rita kartor"
+        },
+        {
+          "word": "uppgifter",
+          "explanation": "skriven information som sparas och kan kontrolleras senare"
+        }
+      ],
+      "main_caption": "Gamla skrifter och lite guld är nästan allt som finns kvar.",
+      "side_caption": "Kartmakare långt borta hör talas om hans guld och ritar in honom på sina kartor."
+    }
+  ]
+}
