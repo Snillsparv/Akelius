@@ -1,0 +1,227 @@
+{
+  "slug": "meiji-restoration",
+  "person_sv": "Meijirestaurationen",
+  "cards": [
+    {
+      "title": "Svarta skepp i viken",
+      "text_sentences": [
+        "Händelsen X sker i Japan, en önation i Asien.",
+        "I mer än tvåhundra år håller Japan sig stängt.",
+        "Bara en liten hamn släpper in några få utländska handelsmän.",
+        "Så en dag 1853 anländer märkliga svarta skepp.",
+        "Tjock svart rök strömmar ut ur höga skorstenar på skeppen.",
+        "Skeppen har kraftiga kanoner och soldater från fjärran länder.",
+        "Japans gamla makthavare kan inte längre hålla världen utanför.",
+        "Femton år senare går makten tillbaka till en ung kejsare.",
+        "Han är bara femton år gammal.",
+        "Mycket snabbt sveper stora förändringar över landet.",
+        "Många män klipper av sin gamla hårknut och provar hattar från väst."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Opiumkrigen",
+        "Meijirestaurationen",
+        "Boxarupproret",
+        "Den ärorika revolutionen"
+      ],
+      "words": [
+        {
+          "word": "hamn",
+          "explanation": "en stad vid havet där skepp lastar och lossar"
+        },
+        {
+          "word": "utländska",
+          "explanation": "från ett annat land"
+        },
+        {
+          "word": "makthavare",
+          "explanation": "människor som har makten att styra ett land"
+        },
+        {
+          "word": "strömmar",
+          "explanation": "rinner ut i en tjock stråle"
+        },
+        {
+          "word": "hårknut",
+          "explanation": "hår som är uppsatt i en knut ovanpå huvudet"
+        }
+      ],
+      "main_caption": "En dag dyker märkliga rykande skepp upp i viken, och inget blir sig likt igen.",
+      "side_caption": "Många män klipper av sina gamla hårknutar och provar nya hattar från väst."
+    },
+    {
+      "title": "En hamn, sedan orättvisa avtal",
+      "text_sentences": [
+        "Händelsen X börjar i Japan efter århundraden under militära makthavare som kallas shoguner.",
+        "År 1854 tvingar utländska krigsfartyg shogunerna att skriva under ett första avtal.",
+        "Det öppnar två hamnar för amerikanska skepp.",
+        "År 1858 öppnar nya fördrag Japan för handel med flera främmande makter.",
+        "Dessa fördrag gynnar de främmande makterna, inte Japan.",
+        "Ilska över dessa orättvisa villkor delar upp ledarna i rivaliserande läger.",
+        "Ett kort inbördeskrig bryter ut 1868 och fortsätter in i 1869.",
+        "Den gamla regeringen faller, och en ny tar över.",
+        "Till namnet återgår makten till en ung kejsare.",
+        "De nya ledarna lovar i hans namn att söka kunskap från hela världen.",
+        "Kejsaren flyttar från Kyoto till Edo, som får det nya namnet Tokyo."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Meijirestaurationen",
+        "Taipingupproret",
+        "Opiumkrigen",
+        "Tanzimatreformerna"
+      ],
+      "words": [
+        {
+          "word": "shoguner",
+          "explanation": "militära makthavare som en gång styrde landet i kejsarens namn"
+        },
+        {
+          "word": "avtal",
+          "explanation": "en överenskommelse som två eller flera parter accepterar tillsammans"
+        },
+        {
+          "word": "fördrag",
+          "explanation": "formella skriftliga avtal mellan länder"
+        },
+        {
+          "word": "rivaliserande",
+          "explanation": "som tävlar mot en annan grupp eller person"
+        }
+      ],
+      "main_caption": "Vid ett möte på stranden går landets gamla makthavare med på villkor de inte själva valt.",
+      "side_caption": "Ledare som är oense om landets väg möter varandra på slagfältet."
+    },
+    {
+      "title": "Ett uppdrag utomlands, sedan en våg av nya lagar",
+      "text_sentences": [
+        "Händelsen X formar om Japan genom en våg av nya lagar.",
+        "Ett uppdrag med högt uppsatta tjänstemän seglar utomlands från 1871 till 1873.",
+        "De studerar skolor, fabriker, arméer och riksdagar i Europa och Amerika.",
+        "Hemma igen lovar en lag från 1872 en skola åt varje barn.",
+        "Samma år öppnar den första järnvägen mellan Tokyo och Yokohama.",
+        "En lag 1873 inför värnplikt för unga män ur alla samhällsklasser.",
+        "Fram till dess bär bara en krigarklass svärd och tjänstgör som soldater.",
+        "År 1876 förbjuder en ny lag den klassen att bära svärd offentligt.",
+        "Forna krigare förlorar sin gamla status och sin gamla inkomst.",
+        "Arga forna krigare gör uppror 1877, men den nya armén besegrar dem.",
+        "Efter det nederlaget tar ingen upp vapen mot den nya ordningen igen."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Tanzimatreformerna",
+        "Hundradagarsreformen",
+        "Meijirestaurationen",
+        "Ungturkarnas revolution"
+      ],
+      "words": [
+        {
+          "word": "uppdrag",
+          "explanation": "en grupp som skickas utomlands med ett särskilt syfte"
+        },
+        {
+          "word": "järnväg",
+          "explanation": "ett spår med tåg som transporterar människor och gods"
+        },
+        {
+          "word": "status",
+          "explanation": "en persons rang eller ställning i samhället"
+        },
+        {
+          "word": "besegrar",
+          "explanation": "vinner över en fiende i en strid"
+        }
+      ],
+      "main_caption": "Ett nytt slags maskin binder samman två städer på mindre än en timme.",
+      "side_caption": "Efter en ny lag 1876 kan ett svärd som detta inte längre bäras offentligt."
+    },
+    {
+      "title": "En ny armé, ett nytt pris",
+      "text_sentences": [
+        "Händelsen X ger Japan ett nytt politiskt system inom några decennier.",
+        "En skriven grundlag kommer 1889 och ger kejsaren sista ordet.",
+        "En riksdag öppnar året därpå, även om bara ett fåtal medborgare får rösta i valet till den.",
+        "Japan bygger också upp en stark modern armé och flotta under den här perioden.",
+        "År 1894 bryter krig ut mot det angränsande kinesiska riket.",
+        "En snabb seger följer inom ett år, vilket överraskar iakttagare över hela världen.",
+        "Ett andra krig börjar 1904 mot Ryssland, ett mycket större europeiskt rike.",
+        "Mot de flesta förutsägelser vinner den mindre asiatiska makten kriget 1905.",
+        "År 1910 har Japan tagit full kontroll över Korea.",
+        "Vanliga bönder betalar tunga nya skatter för att finansiera alla dessa förändringar.",
+        "Unga kvinnor från fattiga familjer arbetar långa arbetsdagar i nya fabriker för silke och bomull.",
+        "Få av dem får en rättvis del av nationens nya välstånd och stolthet."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Boxarupproret",
+        "Taipingupproret",
+        "Opiumkrigen",
+        "Meijirestaurationen"
+      ],
+      "words": [
+        {
+          "word": "grundlag",
+          "explanation": "ett lands grundläggande uppsättning lagar och regler"
+        },
+        {
+          "word": "riksdag",
+          "explanation": "en grupp folkvalda som hjälper till att stifta lagar"
+        },
+        {
+          "word": "förutsägelser",
+          "explanation": "gissningar om vad som kommer att hända"
+        },
+        {
+          "word": "fabriker",
+          "explanation": "fabriker med maskiner som gör tyg eller garn"
+        }
+      ],
+      "main_caption": "I den här nya salen samlas folkvalda män för att debattera landets lagar.",
+      "side_caption": "Fabriksflickor som dessa arbetar långa dagar i de nya fabrikerna som hjälper till att betala för förändringen."
+    },
+    {
+      "title": "Revolution uppifrån",
+      "text_sentences": [
+        "Historiker kallar ofta händelsen X i Japan för en revolution genomförd uppifrån.",
+        "Till skillnad från andra revolutioner börjar den bland ledare, inte bland arga folkmassor.",
+        "En liten grupp forna krigare tar makten över staten och bygger snabbt om den.",
+        "De behåller kejsaren som en symbol medan de själva styr det nya systemet.",
+        "Forskare debatterar fortfarande varför denna omvandling lyckas så helt och hållet just i Japan.",
+        "Några pekar på tidigare lokala handelsnätverk, läskunnighet och en stark byråkrati.",
+        "Andra betonar tidpunkten, eftersom stormakterna är upptagna på andra håll under de åren.",
+        "Nationalister i andra delar av Asien och i Afrika studerar detta exempel noga.",
+        "Många ser det som ett bevis på att en icke-västerländsk stat kan stå emot Europas stormakter.",
+        "Ändå bygger samma reformer också upp verktygen för senare militär expansion.",
+        "Inom några decennier blir den moderniserade armén en kraft för erövring utomlands.",
+        "Historiker läser därför epoken som både ett föredöme och en varning."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Franska revolutionen",
+        "Meijirestaurationen",
+        "Ungturkarnas revolution",
+        "Tanzimatreformerna"
+      ],
+      "words": [
+        {
+          "word": "byråkrati",
+          "explanation": "tjänstemännen och kontoren som sköter en stats dagliga arbete"
+        },
+        {
+          "word": "nationalister",
+          "explanation": "människor som arbetar för sin nations frihet eller styrka"
+        },
+        {
+          "word": "läskunnighet",
+          "explanation": "förmågan att läsa och skriva"
+        },
+        {
+          "word": "erövring",
+          "explanation": "att ta kontroll över en plats med våld"
+        }
+      ],
+      "main_caption": "Längs gator som denna dyker nya ledningar och nya byggnader upp inom en enda generation.",
+      "side_caption": "I dag studerar historiker fortfarande gamla dokument för att förstå varför denna förändring lyckades här."
+    }
+  ]
+}
