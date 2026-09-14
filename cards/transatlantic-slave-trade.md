@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Transatlantiska slavhandeln. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är alltid Which trade is Trade X. Orden slave trade, transatlantic, trans-Atlantic och triangular trade förekommer aldrig i elevvänd text, korttitlar, bildtexter, ordförklaringar eller bildbriefer, bara i titelraden, arbetsnamnsraden, den här noten och svarsalternativet The transatlantic slave trade; orden slave, slavery, enslaved och trade var för sig samt Atlantic som hav är tillåtna och används sparsamt. Distraktorer hämtas ur poolen the trans-Saharan trade, the Indian Ocean trade, the Silk Road trade, the spice trade, the fur trade, the sugar trade, the opium trade, the Hanseatic trade: kort 1 Silk Road, spice, fur; kort 2 trans-Saharan, Indian Ocean, opium; kort 3 sugar, Hanseatic, spice; kort 4 trans-Saharan, fur, Indian Ocean; kort 5 Silk Road, opium, Hanseatic. Korsläckor: inget annat sets ämne namnges i löptexten, Toussaint Louverture namnges inte alls, revolten 1791 skrivs bara som en lyckad resning på en karibisk ö utan ö- eller landnamn; Kongos kung Afonso, Olaudah Equiano och Frederick Douglass får namnges eftersom leverans 11-noten tillåter det. Känslighet, bindande: ingen gore, inga kedjor eller piskor i närbild, inga lidande kroppar; förslavade människor visas med handlingskraft genom motstånd, frisamhällen och en abolitionist av afrikanskt ursprung; både afrikanska och europeiska aktörer nämns sakligt utan procentuell skuldfördelning; överfarten och Zongfallet skildras sakligt utan grafiska detaljer. Bilder: hamnar, skepp på avstånd, sockerrörsfält, stenfort, en tom dörröppning, ett arkiv och ett minnesmärke utan text; 1500-1800-talens klädsel, skepp och föremål anges uttryckligen i varje AI-prompt, och varje prompt förbjuder läsbara skyltar, bokstäver, siffror, flaggor, skeppsritningar, kedjor eller piskor i närbild och våld.
+Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är alltid Which trade is Trade X. Orden slave trade, transatlantic, trans-Atlantic och triangular trade förekommer aldrig i elevvänd text, korttitlar, bildtexter, ordförklaringar eller bildbriefer, bara i titelraden, arbetsnamnsraden, den här noten och svarsalternativet The transatlantic slave trade; orden slave, slavery, enslaved och trade var för sig samt Atlantic som hav är tillåtna och används sparsamt. Distraktorer hämtas ur poolen the trans-Saharan trade, the Indian Ocean trade, the Silk Road trade, the spice trade, the fur trade, the sugar trade, the opium trade, the Hanseatic trade: kort 1 Silk Road, spice, fur; kort 2 trans-Saharan, Indian Ocean, opium; kort 3 sugar, Hanseatic, spice; kort 4 trans-Saharan, fur, Indian Ocean; kort 5 Silk Road, opium, Hanseatic. Korsläckor: inget annat sets ämne namnges i löptexten, Toussaint Louverture namnges inte alls, revolten 1791 skrivs bara som en lyckad resning på en karibisk ö utan ö- eller landnamn; Kongos kung Afonso, Olaudah Equiano och Frederick Douglass får namnges eftersom leverans 11-noten tillåter det, och ingen av dem är distraktor. Redaktionella beslut efter granskning 2026-09-14: Brasilien är "the last country in the Americas to end slavery, in 1888", inte sist i världen; Storbritannien antar lagen 1833, slaveriet i kolonierna upphör 1834 och de friade tvingas arbeta för sina gamla ägare i ytterligare fyra år; historikernas totalsiffror (omkring 12,5 miljoner ombord, omkring 10,5 miljoner i land) står en enda gång, på universitetskortet; trianglen skrivs som "the usual picture" och tvåvägshandeln Brasilien-Angola får en rad på universitetskortet; Afonsos brev protesterar mot att handlare för bort hans eget folk; kort 1 har en rad om handlingskraft (kämpa, fly, köpa sig fri); Zongmeningen är delad i två korta meningar. Känslighet, bindande: ingen gore, inga kedjor eller piskor i närbild, inga lidande kroppar; förslavade människor visas med handlingskraft genom motstånd, frisamhällen och en abolitionist av afrikanskt ursprung; både afrikanska och europeiska aktörer nämns sakligt utan procentuell skuldfördelning; överfarten och Zongfallet skildras sakligt utan grafiska detaljer. Bilder: skepp bara på kort 1 (fort med skepp på redden) och kort 4 (flottans patrullskepp med mörkt skrov och ljust band längs kanonportarna, aldrig grått); i övrigt en flodhandelsplats utan skepp, sockerrörsfält, stenfort, en tom dörröppning mot havet, ett bergsläger för förrymda, ett skrivbord, en rättssal, ett arkiv utan karta och ett minnesmärke utan text; ingen papperskarta och ingen skeppsritning i någon brief; hudfärg anges uttryckligen där den bär bilden (svarta västafrikanska köpmän, vita europeiska handlare, svarta arbetare på sockerfältet, ett svart frisamhälle, blandade besökare vid minnesmärket); 1500-1800-talens klädsel, skepp och föremål anges uttryckligen i varje AI-prompt, och varje prompt förbjuder läsbara skyltar, bokstäver, siffror, flaggor, kedjor eller piskor i närbild och våld.
 
 ---
 
@@ -21,6 +21,7 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 > These enslaved workers labor on farms far away, without any pay.  
 > Owners often separate husbands, wives, and children.  
 > Many families never see each other again.  
+> Some of the enslaved people fight back, run away, or buy their freedom.  
 > Slowly, more and more people say that this is wrong.  
 > **Which trade is Trade X?**
 
@@ -34,7 +35,7 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 ### Ordförklaringar (marginal)
 
 - **enslaved** — *forced to work without any pay, and owned by another person*
-- **owner** — *a person who has control over another person or thing*
+- **owners** — *people who have control over another person or thing*
 - **separate** — *to keep people or things apart from each other*
 - **labor** — *to do hard, tiring physical work*
 
@@ -43,7 +44,7 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 - **Motiv:** A tall grey stone fort stands on a rocky point of the West African coast in the late 1700s, its cannons facing the sea. Several three-masted sailing ships are anchored in the calm bay beyond, seen from a distance, with small rowing boats moving between the ships and the shore. Production note: 1700s sailing ship design and fort architecture only, plain period sailors' clothing, calm late afternoon light, no flags, no ship names, no cannons in close-up, no people in visible distress, no readable text or numbers anywhere.
 - **Bildtext:** *A stone fort guards the coast where ships wait at anchor.*
 - **Shutterstock-sökning:** `west african coastal fort sailing ships bay eighteenth century historical illustration`
-- **AI-prompt (alternativ):** Photorealistic historical illustration of a tall grey stone fort on a rocky point of the West African coast in the late 1700s, cannons facing the sea, several three-masted sailing ships anchored in a calm bay beyond seen from a distance, small rowing boats moving between ships and shore, calm late afternoon light, 1700s ship design and fort architecture only, plain period sailors' clothing; no flags, no ship names, no cannons in close-up, no people in visible distress, no violence, no chains, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic historical illustration of a tall grey stone fort on a rocky point of the West African coast in the late 1700s, cannons facing the sea, several three-masted wooden sailing ships anchored in a calm bay beyond seen from a distance, small rowing boats moving between ships and shore, calm late afternoon light, 1700s ship design and fort architecture only, plain period sailors' clothing; no flags, no ship names, no cannons in close-up, no people in visible distress, no violence, no chains, no modern boats, no text, no letters, no numbers.
 
 ### Sidobild
 
@@ -54,13 +55,13 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 
 ---
 
-## Kort 2 · Årskurs 9 — Three legs across the ocean
+## Kort 2 · Årskurs 9 — Three steps across the ocean
 
 **Kategori:** `colonialism`
 
 ### Korttext
 
-> Trade X has three legs across the ocean.  
+> The usual picture of Trade X shows three steps across the ocean.  
 > First, ships carry goods from Europe to the coast of Africa.  
 > There, merchants exchange these goods for captives.  
 > Second, ships carry these captives across the ocean to the Americas.  
@@ -70,7 +71,8 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 > Sugar islands in the Caribbean receive the next largest number.  
 > Only a small share of people go to the future United States.  
 > Some African kings and merchants sell captives for goods and guns.  
-> In 1526, King Afonso of Kongo sends a written protest about it.  
+> In 1526, King Afonso of Kongo writes to the king of Portugal.  
+> His letters protest that traders carry away his own people.  
 > **Which trade is Trade X?**
 
 ### Svarsalternativ
@@ -82,24 +84,24 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 
 ### Ordförklaringar (marginal)
 
-- **merchant** — *a person who buys and sells goods, often over long distances*
-- **captive** — *a person who is caught and held by force*
-- **protest** — *a strong statement that something is wrong*
+- **merchants** — *people who buy and sell goods, often over long distances*
+- **captives** — *people who are caught and held by force*
+- **protest** — *to say strongly that something is wrong*
 - **share** — *a part of a total amount*
 
 ### Huvudbild
 
-- **Motiv:** On a wooden river dock in West Africa in the 1600s, African merchants in patterned cloth and European traders in plain coats and hats stand near stacked bundles of cloth, bars of metal, and strings of beads, while a tall sailing ship waits at anchor down the river in the distance. Production note: no captives or chained figures shown, focus stays on the goods and the two groups of traders, respectful neutral expressions, 1600s dress for both groups, no flags, no coats of arms, no readable ledgers or signs.
-- **Bildtext:** *Traders meet at a river dock and exchange goods brought from far away.*
+- **Motiv:** At a wooden river landing in West Africa in the 1600s, Black West African merchants in patterned woven cloth and white European traders in plain coats and hats stand near stacked bundles of cloth, bars of metal, and strings of beads, a wide brown river and dense forest behind them. Production note: no ship anywhere in the picture, no captives or chained figures shown, focus stays on the goods and the two groups of traders, respectful neutral expressions, 1600s dress for both groups, no flags, no coats of arms, no readable ledgers or signs.
+- **Bildtext:** *Traders meet at a river landing and exchange goods brought from far away.*
 - **Shutterstock-sökning:** `african river trading post merchants goods seventeenth century historical illustration`
-- **AI-prompt (alternativ):** Photorealistic historical illustration of a wooden river dock in West Africa in the 1600s, African merchants in patterned cloth and European traders in plain coats and hats standing near stacked bundles of cloth, bars of metal, and strings of beads, a tall sailing ship anchored down the river in the distance, warm afternoon light, 1600s dress for both groups; no captives, no chains, no violence, no flags, no coats of arms, no readable ledgers or signs, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic historical illustration of a wooden river landing in West Africa in the 1600s, Black West African merchants in patterned woven cloth and white European traders in plain 1600s coats and hats standing near stacked bundles of cloth, bars of metal, and strings of beads, a wide brown river and dense green forest behind them, warm afternoon light, 1600s dress for both groups; no ship, no boats, no captives, no chains, no violence, no flags, no coats of arms, no readable ledgers or signs, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** Rows of tall green sugar cane stretch across a Caribbean plantation field under a bright sky, seen from a respectful distance, with a few workers in plain period clothing moving between the rows far in the background. Supports the idea of the goods ships carry back to Europe. Production note: workers shown small and distant, no visible distress, no overseers with whips, calm working mood, 1700s-1800s plantation setting only.
+- **Motiv:** Rows of tall green sugar cane stretch across a Caribbean plantation field under a bright sky, seen from a respectful distance, with a few Black workers in plain period clothing moving between the rows far in the background. Supports the idea of the goods ships carry back to Europe. Production note: workers shown small and distant, no visible distress, no overseers with whips, calm working mood, 1700s-1800s plantation setting only.
 - **Bildtext:** *Sugar cane fields like these send their harvest across the ocean to Europe.*
 - **Shutterstock-sökning:** `sugar cane field plantation caribbean historical illustration distant workers`
-- **AI-prompt (alternativ):** Vertical photorealistic illustration of rows of tall green sugar cane stretching across a Caribbean plantation field under a bright sky, a few workers in plain period clothing moving between the rows far in the background, calm working mood, 1700s-1800s clothing and tools only; no visible distress, no whips, no overseers in close-up, no violence, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Vertical photorealistic illustration of rows of tall green sugar cane stretching across a Caribbean plantation field under a bright sky, a few Black workers in plain 1700s cotton clothing moving between the rows far in the background, calm working mood, 1700s-1800s clothing and hand tools only; no visible distress, no whips, no overseers, no chains, no violence, no modern machinery, no text, no letters, no numbers.
 
 ---
 
@@ -114,12 +116,12 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 > Captives on board sometimes fight the crew, or refuse food.  
 > On land, some enslaved people manage to escape into forests or mountains.  
 > These escaped people build their own free communities, far from any plantation.  
-> In 1791, a successful revolt begins on a Caribbean island.  
-> Within years, the people there win their freedom by force.  
-> Their new state becomes the first of its kind in the Americas.  
 > In 1789, a formerly enslaved man named Olaudah Equiano publishes his own life story.  
 > His book describes the voyage and moves many readers in Britain.  
 > It becomes an important tool in the growing fight to end Trade X.  
+> In 1791, a successful revolt begins on a Caribbean island.  
+> Within years, the people there win their freedom by force.  
+> Their new state is the first in the Americas founded by formerly enslaved people.  
 > **Which trade is Trade X?**
 
 ### Svarsalternativ
@@ -131,24 +133,24 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 
 ### Ordförklaringar (marginal)
 
-- **revolt** — *when people rise up together and fight against those in power*
+- **revolts** — *times when people rise up together and fight against those in power*
 - **escape** — *to get away from a place where a person is held or forced to stay*
-- **community** — *a group of people who live together and support each other*
-- **publish** — *to prepare and put out a book for people to read*
+- **communities** — *groups of people who live together and support each other*
+- **publishes** — *prepares and puts out a book for people to read*
 
 ### Huvudbild
 
-- **Motiv:** High in green forested mountains, a small cluster of simple huts stands hidden among the trees, built by a community of escaped people. A few residents in plain worn clothing tend a small garden plot and stand watch at the tree line, seen from a respectful distance. Production note: no visible weapons in close-up, no pursuit or violence shown, calm and dignified mood, generic 1700s period clothing, no readable signs.
+- **Motiv:** High in green forested mountains, a small cluster of simple huts stands hidden among the trees, built by a community of escaped people. A few Black residents in plain worn 1700s clothing tend a small garden plot and stand watch at the tree line, seen from a respectful distance. Production note: no visible weapons in close-up, no pursuit or violence shown, calm and dignified mood, generic 1700s period clothing, no readable signs.
 - **Bildtext:** *High in the mountains, escaped people build a free community of their own.*
 - **Shutterstock-sökning:** `maroon community mountain huts forest historical illustration distant`
-- **AI-prompt (alternativ):** Photorealistic historical illustration of a small cluster of simple huts hidden among trees high in green forested mountains, built by a community of escaped people, a few residents in plain worn 1700s clothing tending a small garden plot and standing watch at the tree line, seen from a respectful distance, calm dignified mood; no visible weapons in close-up, no pursuit, no violence, no chains, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic historical illustration of a small cluster of simple thatched huts hidden among trees high in green forested mountains, built by a community of escaped people, a few Black residents in plain worn 1700s cotton clothing tending a small garden plot and standing watch at the tree line, seen from a respectful distance, calm dignified mood; no visible weapons in close-up, no pursuit, no violence, no chains, no modern buildings, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** On a small wooden writing desk lit by a single candle, a closed plain leather-bound book rests beside an inkwell and a quill pen, its cover unmarked. Supports the word publish. Production note: no readable text or letters on the book cover or any visible page, warm intimate candlelight, no person visible, 1780s furnishings only.
+- **Motiv:** On a small wooden writing desk lit by a single candle, a closed plain leather-bound book rests beside an inkwell and a quill pen, its cover unmarked. Supports the word publishes. Production note: no readable text or letters on the book cover or any visible page, warm intimate candlelight, no person visible, 1780s furnishings only.
 - **Bildtext:** *A closed book like this one carries a life story across the ocean to new readers.*
 - **Shutterstock-sökning:** `candlelit writing desk closed book quill inkwell eighteenth century illustration`
-- **AI-prompt (alternativ):** Vertical photorealistic illustration of a small wooden writing desk lit by a single candle, a closed plain leather-bound book resting beside an inkwell and a quill pen, warm intimate candlelight, 1780s furnishings only; no person visible, no readable text, no letters, no numbers.
+- **AI-prompt (alternativ):** Vertical photorealistic illustration of a small wooden writing desk lit by a single candle, a closed plain leather-bound book with an unmarked cover resting beside an inkwell and a quill pen, warm intimate candlelight, 1780s furnishings only; no person visible, no open pages, no readable text, no text, no letters, no numbers.
 
 ---
 
@@ -159,14 +161,16 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 ### Korttext
 
 > Trade X ends slowly, country by country, over many decades.  
-> In 1781, the crew of a ship named the Zong forces more than a hundred sick captives into the sea to claim insurance money.  
+> In 1781, the crew of a ship named the Zong forces more than a hundred sick captives into the sea.  
+> The owners then ask for insurance money for the people the crew killed.  
 > News of the case shocks many people in Britain.  
 > In 1807, Britain bans its ships from carrying captives across the ocean.  
 > The United States bans new captives from entering the country the next year.  
 > Yet slavery itself continues in many places for decades more.  
-> In 1833, Britain finally ends slavery in its colonies.  
+> In 1833, Britain passes a law to end slavery in its colonies.  
+> Slavery there ends in 1834, but freed people must work for their old owners for four more years.  
 > In 1865, the United States ends slavery after a long civil war.  
-> Brazil is the very last country to end slavery, in 1888.  
+> Brazil is the last country in the Americas to end slavery, in 1888.  
 > Each new law leaves behind new struggles for equal rights.  
 > **Which trade is Trade X?**
 
@@ -180,23 +184,23 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 ### Ordförklaringar (marginal)
 
 - **insurance** — *money paid to cover the loss of something, like a ship or its cargo*
-- **decade** — *a period of ten years*
+- **decades** — *periods of ten years*
 - **civil war** — *a war fought between groups within one country*
-- **struggle** — *a hard and long effort to achieve something difficult*
+- **struggles** — *hard and long efforts to achieve something difficult*
 
 ### Huvudbild
 
-- **Motiv:** A grey naval sailing ship of the early 1800s patrols close to a tropical coastline, its sails full in a strong wind, sailors in period uniforms visible on deck at a distance. Production note: no flags, no hull markings or numbers, no other ships in distress, calm determined mood, no weapons fired, no readable signs, 1800s naval ship design only.
+- **Motiv:** A dark-hulled sailing ship with a pale band along its gunports, a wooden naval vessel of the early 1800s, patrols close to a tropical coastline, its sails full in a strong wind, sailors in period uniforms, some of them Black African, visible on deck at a distance. Production note: no grey paint, no steel hull, no flags, no hull markings or numbers, no other ships in distress, calm determined mood, no weapons fired, no readable signs, 1800s naval ship design only.
 - **Bildtext:** *Naval ships begin to patrol the coast, stopping ships that still carry captives.*
 - **Shutterstock-sökning:** `early nineteenth century naval ship patrol coastline historical illustration`
-- **AI-prompt (alternativ):** Photorealistic historical illustration of a grey naval sailing ship of the early 1800s patrolling close to a tropical coastline, sails full in a strong wind, sailors in period uniforms visible on deck at a distance, calm determined mood, 1800s naval ship design and uniforms only; no flags, no hull markings, no other ships in distress, no weapons fired, no violence, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic historical illustration of a dark-hulled sailing ship with a pale band along its gunports, a wooden naval vessel of the early 1800s, patrolling close to a tropical coastline, sails full in a strong wind, sailors in period uniforms, some of them Black African, visible on deck at a distance, calm determined mood, 1800s naval ship design and uniforms only; no grey paint, no steel hull, no flags, no hull markings, no other ships in distress, no weapons fired, no violence, no text, no letters, no numbers.
 
 ### Sidobild
 
 - **Motiv:** Seen from the back of the room, rows of empty wooden benches face a raised judge's bench and an empty witness stand inside a plain 1780s London courtroom, tall windows letting in grey daylight, a stack of closed papers resting on a table. Production note: no people visible, no readable text on any paper or wall, calm still mood, 1780s courtroom furnishings only.
 - **Bildtext:** *A court in London later hears the shocking case of a ship named the Zong.*
 - **Shutterstock-sökning:** `empty eighteenth century london courtroom wooden benches historical illustration`
-- **AI-prompt (alternativ):** Vertical photorealistic illustration of a plain 1780s London courtroom seen from the back of the room, rows of empty wooden benches facing a raised judge's bench and an empty witness stand, tall windows letting in grey daylight, a stack of closed papers on a table, calm still mood, 1780s furnishings only; no people, no readable text, no letters, no numbers.
+- **AI-prompt (alternativ):** Vertical photorealistic illustration of a plain 1780s London courtroom seen from the back of the room, rows of empty wooden benches facing a raised judge's bench and an empty witness stand, tall windows letting in grey daylight, a stack of closed papers on a table, calm still mood, 1780s furnishings only; no people, no readable text on any paper or wall, no text, no letters, no numbers.
 
 ---
 
@@ -208,8 +212,9 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 
 > Historians now study Trade X using a huge digital database.  
 > It combines records from thousands of individual voyages across centuries.  
-> The database lets researchers compare ships, ports, and numbers of captives.  
-> Its records confirm that Portugal and Brazil lead this history the longest.  
+> Historians count about twelve and a half million people taken aboard, and about ten and a half million who reached land.  
+> The records show that ships from Portugal and Brazil carry the most people, and over the longest time.  
+> Many of these ships sail straight between Brazil and Angola and back, not in three steps.  
 > The trade also leaves a lasting legacy across the modern world.  
 > Millions of descendants of transported Africans now live across the Americas.  
 > Together, they form what people often call the African diaspora.  
@@ -229,22 +234,22 @@ Not (ej elevvänd): setet heter Trade X, kategori `colonialism`, frågan är all
 ### Ordförklaringar (marginal)
 
 - **database** — *a large, organized collection of information stored for research*
-- **descendant** — *a person related to people who lived long before them*
+- **descendants** — *people related to people who lived long before them*
 - **diaspora** — *a large group of people who now live spread far from their original homeland*
 - **repair** — *here, an action or payment meant to make up for a past wrong*
 
 ### Huvudbild
 
-- **Motiv:** Inside a quiet research archive, tall wooden shelves hold rows of closed ships' logbooks with plain blank spines, while a historian in modern clothing, seen from behind, studies a large paper map spread on a reading table under a lamp. Production note: no readable text, titles, or numbers on any spine, map, or paper, calm studious mood, a generic researcher not resembling any real person.
+- **Motiv:** Inside a quiet research archive, tall wooden shelves hold rows of closed ships' logbooks with plain blank spines, while a historian in modern clothing, seen from behind, walks down the aisle carrying one closed logbook toward a bare reading table with a lamp. Production note: no map, no papers, no readable text, titles, or numbers on any spine or book, calm studious mood, a generic researcher not resembling any real person.
 - **Bildtext:** *Historians now study thousands of old voyages, kept together in one great archive.*
-- **Shutterstock-sökning:** `historical archive ship logbooks researcher map table illustration`
-- **AI-prompt (alternativ):** Photorealistic illustration of a quiet research archive, tall wooden shelves holding rows of closed ships' logbooks with plain blank spines, a historian in modern clothing seen from behind studying a large paper map spread on a reading table under a lamp, calm studious mood, plain modern researcher clothing; no readable text, no titles, no letters, no numbers on any spine, map, or paper.
+- **Shutterstock-sökning:** `historical archive ship logbooks researcher shelves reading table lamp`
+- **AI-prompt (alternativ):** Photorealistic illustration of a quiet research archive, tall wooden shelves holding rows of closed ships' logbooks with plain blank spines, a historian in plain modern clothing seen from behind walking down the aisle carrying one closed logbook toward a bare wooden reading table with a lamp, calm studious mood; no map, no papers, no open books, no screens, no readable titles on any spine, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** On a quiet stretch of coastline, a plain smooth stone monument stands facing the sea, its surface bare of any inscription, with a small group of visitors in modern clothing standing respectfully at a distance. Production note: no flags, no readable plaque or inscription, no country symbols, calm reflective mood.
+- **Motiv:** On a quiet stretch of coastline, a plain smooth stone monument stands facing the sea, its surface bare of any inscription, with a small mixed group of Black and white visitors in modern clothing standing respectfully at a distance. Production note: no flags, no readable plaque or inscription, no country symbols, no logos on clothing, calm reflective mood.
 - **Bildtext:** *Today, quiet memorials like this one stand at old ports around the ocean.*
 - **Shutterstock-sökning:** `plain stone memorial coastline visitors modern historical illustration`
-- **AI-prompt (alternativ):** Vertical photorealistic illustration of a plain smooth stone monument standing on a quiet coastline facing the sea, its surface bare of any inscription, a small group of visitors in modern clothing standing respectfully at a distance, calm reflective mood; no flags, no plaque, no inscription, no country symbols, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Vertical photorealistic illustration of a plain smooth stone monument standing on a quiet coastline facing the sea, its surface bare of any inscription, a small mixed group of Black and white visitors in plain modern clothing standing respectfully at a distance, calm reflective mood; no flags, no plaque, no inscription, no country symbols, no logos, no text, no letters, no numbers.
 
 ---

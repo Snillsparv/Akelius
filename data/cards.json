@@ -31094,6 +31094,868 @@
         }
       ],
       "person_sv": "Upplysningen"
+    },
+    {
+      "slug": "norman-borlaug",
+      "person": "Norman Borlaug",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Farm Boy in Iowa Who Studies Sick Plants",
+          "category": "science",
+          "text_sentences": [
+            "Mr X grows up on a small farm in Iowa, in the United States.",
+            "As a boy, he works outdoors on the farm every day.",
+            "He studies forests at university, then chooses a new path.",
+            "He starts to study sick farm plants instead.",
+            "Mr X becomes a scientist who works with wheat.",
+            "Some wheat plants grow tall and weak, and fall over in the wind.",
+            "Some wheat plants catch a disease and turn brown and die.",
+            "Mr X breeds new wheat with short, stiff stems that do not fall over.",
+            "His new wheat also fights off the plant disease.",
+            "In many countries, harvests fail and people go hungry.",
+            "Ships carry his special seeds to these countries, and harvests grow bigger."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "M. S. Swaminathan",
+            "Norman Borlaug",
+            "George Washington Carver",
+            "Luther Burbank"
+          ],
+          "correct": "Norman Borlaug",
+          "words": [
+            {
+              "word": "breeds",
+              "explanation": "chooses plants or animals so their young have wanted traits"
+            },
+            {
+              "word": "disease",
+              "explanation": "a sickness that can hurt or kill living things"
+            },
+            {
+              "word": "stiff",
+              "explanation": "hard to bend"
+            },
+            {
+              "word": "harvests",
+              "explanation": "the crops that farmers gather from their fields"
+            }
+          ],
+          "main_image": {
+            "description": "A young white farm boy in 1920s work clothes, denim overalls and a straw hat, walks alone through a golden Iowa wheat field at dusk, seen from behind at a distance, a weathered wooden farmhouse and windmill silhouetted on the horizon. Production note: no face visible, no tractors or motor vehicles, no modern silos, no readable barn signs or license plates, no text, no letters, no numbers.",
+            "caption": "As a boy, Mr X works every day on his family's small farm.",
+            "shutterstock_query": "boy walking wheat field 1920s farm dusk silhouette iowa",
+            "ai_prompt": "Photorealistic wide landscape of a 1920s Iowa farm at dusk, a young white boy in denim overalls, a plain cotton shirt, and a straw hat walking alone away from the camera through a golden wheat field, a weathered wooden farmhouse, a windmill, and a barn silhouetted on the horizon under a warm evening sky, calm rural mood. No face visible, no tractors, no cars, no modern machinery, no electric lights, no readable signs or license plates, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A close-up of a single sickly wheat plant with brown, wilted leaves and a bent stem, standing among tall healthy green wheat, morning dew on the leaves. Production note: no people, no hands, no readable tags or markers, no text, no letters, no numbers.",
+            "caption": "A plant disease can turn healthy wheat brown and make it fall.",
+            "shutterstock_query": "sick wheat plant brown wilted leaves close up healthy field",
+            "ai_prompt": "Photorealistic vertical close-up of a single sickly wheat plant with brown, wilted leaves and a bent stem standing among tall healthy green wheat stalks, soft morning light, dew drops visible, no people, no hands, no modern equipment, no readable tags or markers, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Two Harvests a Year and Wheat That Fights Rust",
+          "category": "science",
+          "text_sentences": [
+            "In the 1940s, the Rockefeller Foundation sends Mr X to Mexico.",
+            "Mexican wheat farmers lose whole fields to a plant disease called rust.",
+            "Rust turns wheat stems and leaves a rusty orange color.",
+            "Mr X moves seeds between two farms in different parts of Mexico.",
+            "One farm lies high in the mountains, the other low near the coast.",
+            "The two places have different seasons, so he gets two harvests every year.",
+            "Normal plant breeding needs one slow generation each year.",
+            "Mr X doubles his speed and tests new wheat twice as fast.",
+            "He breeds wheat that can fight off the rust disease.",
+            "Farmers plant his new wheat across the country.",
+            "By 1956, Mexico grows enough wheat to feed itself."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Norman Borlaug",
+            "Yuan Longping",
+            "Justus von Liebig",
+            "Fritz Haber"
+          ],
+          "correct": "Norman Borlaug",
+          "words": [
+            {
+              "word": "rust",
+              "explanation": "a plant disease that makes stems and leaves turn orange-brown"
+            },
+            {
+              "word": "foundation",
+              "explanation": "a group that gives money to help important work"
+            },
+            {
+              "word": "generation",
+              "explanation": "one round of plants or animals having young"
+            }
+          ],
+          "main_image": {
+            "description": "Wide view of experimental wheat test plots on a highland farm in Mexico in the 1940s, narrow dirt paths dividing small rectangular plots of wheat of different heights and colors, distant mountains under a bright sky, a man in plain 1940s clothing seen from behind far in the distance, bending among the plants. Production note: no face visible, no readable plot markers or labels, no modern tractors, hoses, or irrigation pipes, no text, no letters, no numbers.",
+            "caption": "In Mexico, Mr X tests many kinds of wheat side by side.",
+            "shutterstock_query": "experimental wheat test plots highland farm mexico 1940s mountains",
+            "ai_prompt": "Photorealistic wide landscape of experimental wheat test plots on a highland farm in Mexico in the 1940s, narrow dirt paths dividing small rectangular plots of wheat of different heights and colors, distant mountains under a bright sky, a man in a plain 1940s cotton shirt, trousers, and a wide-brimmed straw hat seen from behind far in the distance bending among the plants, calm scientific mood. No face visible, no readable plot markers, tags, or labels, no modern tractors, hoses, or irrigation pipes, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A close-up of green wheat stems and leaves covered with small rusty orange-brown patches, a few healthy green leaves beside them, soft natural light. Production note: no people, no hands, no readable labels, no text, no letters, no numbers.",
+            "caption": "This orange-brown disease on wheat is called rust.",
+            "shutterstock_query": "wheat rust disease orange brown leaves close up",
+            "ai_prompt": "Photorealistic close-up of green wheat stems and leaves covered with small rusty orange-brown patches of plant disease, a few unaffected healthy green leaves beside them, soft natural daylight, no people, no hands, no modern equipment, no readable labels, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Ships of Seed for India and Pakistan",
+          "category": "science",
+          "text_sentences": [
+            "In the middle of the 1960s, India and Pakistan face a terrible famine threat.",
+            "The rains fail, and harvests are small.",
+            "The old wheat varieties grow tall and fall over in wind and rain.",
+            "Officials ask Mr X to bring his new wheat from Mexico.",
+            "Ships carry thousands of tons of his seed across the ocean.",
+            "Trucks and trains rush the sacks of seed to farms before planting season ends.",
+            "Farmers plant the short, strong wheat on millions of small fields.",
+            "They add more water and more plant food to help it grow.",
+            "Within a few years, wheat harvests in both countries almost double.",
+            "Fewer people die from hunger than experts once feared.",
+            "In 1968, an American official names this whole change the green revolution.",
+            "In 1970, Mr X receives the Nobel Peace Prize for his work."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "M. S. Swaminathan",
+            "Fritz Haber",
+            "Norman Borlaug",
+            "Louis Pasteur"
+          ],
+          "correct": "Norman Borlaug",
+          "words": [
+            {
+              "word": "famine",
+              "explanation": "a time when there is not enough food for many people"
+            },
+            {
+              "word": "officials",
+              "explanation": "people who work for the government"
+            },
+            {
+              "word": "varieties",
+              "explanation": "particular types of a plant, different from other types"
+            },
+            {
+              "word": "sacks",
+              "explanation": "big strong bags, often used for grain or seed"
+            }
+          ],
+          "main_image": {
+            "description": "A wide golden wheat field in Punjab in the 1960s during harvest, South Asian farmers in simple cotton kurtas, dhotis, and turbans cutting wheat by hand with sickles, a wooden bullock cart piled high with plain wheat sheaves in the foreground, calm oxen standing nearby, dust drifting in warm afternoon light. Production note: no modern combines, tractors, or motor vehicles, no readable text on any sack, cart, or sign, no flags, no letters, no numbers.",
+            "caption": "In the 1960s, farmers in South Asia harvest much bigger crops of wheat.",
+            "shutterstock_query": "punjab wheat harvest 1960s bullock cart farmers sickle",
+            "ai_prompt": "Photorealistic wide landscape of a golden wheat field in Punjab in the 1960s during harvest, South Asian farmers in simple cotton kurtas, dhotis, and turbans cutting wheat by hand with sickles, a wooden bullock cart piled high with plain wheat sheaves in the foreground, calm oxen standing nearby, dust drifting in warm afternoon light, generic distant faces only. No modern combines, tractors, or motor vehicles, no readable text on any sack, cart, or sign, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A large cargo ship docked at a busy port in the 1960s, a tall dock crane lifting a cargo net full of plain burlap sacks into the ship's open hold, more sacks stacked on wooden pallets on the quay, dockworkers in plain 1960s work clothes and cloth caps guiding the loads, seen from a respectful distance. Production note: no readable text on the sacks, no flag or name on the ship's hull, no shipping containers, no close-up faces, no text, no letters, no numbers.",
+            "caption": "Ships carry tons of new seed across the ocean to farmers who need it.",
+            "shutterstock_query": "cargo ship dock 1960s crane sacks pallets port",
+            "ai_prompt": "Photorealistic vertical image of a large cargo ship docked at a busy port in the 1960s, a tall dock crane lifting a cargo net full of plain burlap sacks into the ship's open hold, more sacks stacked on wooden pallets on the quay, dockworkers in plain 1960s work clothes and cloth caps guiding the loads, seen from a respectful distance in early morning light, 1960s cargo ship with a straight funnel. No readable text or markings on the sacks, no flag or name visible on the ship's hull, no shipping containers, no modern cranes, no close-up faces, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Fertilizer, Falling Water, and Debt on Small Farms",
+          "category": "science",
+          "text_sentences": [
+            "Mr X breeds his short, strong wheat in Mexico.",
+            "By the 1970s, farmers plant it across large parts of Asia.",
+            "The new wheat needs much more chemical fertilizer than old wheat did.",
+            "It also needs steady water, so farmers dig hundreds of thousands of new wells.",
+            "Pump after pump lifts water from underground, and in some places the water level slowly falls.",
+            "Farmers spray pesticides to protect the valuable young plants from insects.",
+            "Fields that once grew many old wheat varieties now grow only a few new ones.",
+            "Losing so many varieties worries scientists who study plants.",
+            "Small farmers borrow money for seed, fertilizer, and water pumps.",
+            "A bad harvest can leave a small farming family deep in debt.",
+            "Mr X himself says the new wheat only gives the world more time.",
+            "His work in Africa from 1986 reaches only a few countries."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "M. S. Swaminathan",
+            "Yuan Longping",
+            "Fritz Haber",
+            "Norman Borlaug"
+          ],
+          "correct": "Norman Borlaug",
+          "words": [
+            {
+              "word": "fertilizer",
+              "explanation": "plant food added to soil to help crops grow"
+            },
+            {
+              "word": "pesticides",
+              "explanation": "chemicals used to kill insects that harm crops"
+            },
+            {
+              "word": "debt",
+              "explanation": "money that a person owes and must pay back"
+            },
+            {
+              "word": "wells",
+              "explanation": "deep holes dug to reach water under the ground"
+            }
+          ],
+          "main_image": {
+            "description": "A 1970s South Asian wheat field split between lush green irrigated crop on one side and dry cracked bare earth on the other, a simple diesel water pump with a rubber hose at the edge of the field, a South Asian farmer in plain cotton clothing seen from behind adjusting the pump. Production note: no face visible, no brand names or markings on the pump, no readable signs, no modern tractors or vehicles, no text, no letters, no numbers.",
+            "caption": "New wheat needs much more water and fertilizer than the old kind did.",
+            "shutterstock_query": "1970s irrigation pump wheat field dry cracked earth farmer",
+            "ai_prompt": "Photorealistic wide landscape of a 1970s South Asian farm, a wheat field split between lush green irrigated crop on one side and dry cracked bare earth on the other, a simple diesel water pump with a rubber hose at the edge of the field, a South Asian farmer in plain cotton clothing seen from behind adjusting the pump, warm afternoon light. No face visible, no brand names or markings on the pump, no readable signs, no modern tractors or vehicles, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A deep, hand-dug stone well seen from above looking down into darkness, a rope and a plain wooden bucket hanging just above the visible water line far below, dry cracked earth around the rim. Production note: no people, no readable markings, no text, no letters, no numbers.",
+            "caption": "In some places, the water deep underground slowly drops.",
+            "shutterstock_query": "deep stone well rope bucket looking down water level",
+            "ai_prompt": "Photorealistic vertical image looking down into a deep, hand-dug stone well, a rope and a plain wooden bucket hanging just above the visible water line far below, dry cracked earth around the rim, soft natural light from above, no people, no readable markings, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Feeding the World or Deepening Its Debt",
+          "category": "science",
+          "text_sentences": [
+            "Historians still debate the true legacy of Mr X's short, strong wheat.",
+            "Supporters say his wheat saves hundreds of millions of people from famine.",
+            "Critics such as Vandana Shiva say the new farming harms small farmers and the environment.",
+            "She says hunger comes from unfair sharing of food, not from too little grain.",
+            "Another scholar notes that big landowners often gain more than small farmers do.",
+            "Some historians ask if the feared famine would really have come without his wheat.",
+            "Harvest records and government statistics show that the yield rose sharply.",
+            "Interviews with farmers reveal costs that official numbers do not always show.",
+            "In Africa today, many small farmers still use little fertilizer and their own saved seed.",
+            "Researchers still argue about the right path for farming in Africa.",
+            "Some want new seeds and fertilizer, others want many crops and local knowledge."
+          ],
+          "question": "Who is Mr X?",
+          "options": [
+            "Wangari Maathai",
+            "Norman Borlaug",
+            "Yuan Longping",
+            "George Washington Carver"
+          ],
+          "correct": "Norman Borlaug",
+          "words": [
+            {
+              "word": "legacy",
+              "explanation": "the lasting effect of a person's work after they are gone"
+            },
+            {
+              "word": "statistics",
+              "explanation": "numbers collected to study facts, like harvests or people"
+            },
+            {
+              "word": "yield",
+              "explanation": "the amount of crop a field produces"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies a subject deeply, often at a university"
+            }
+          ],
+          "main_image": {
+            "description": "In a Punjab village in the 1980s, a researcher in plain modern cotton clothing, seen from behind, sits under a large shade tree and listens to a group of South Asian farmers in plain cotton kurtas and turbans, closed notebooks resting on the ground, mud-brick houses and a wheat field behind, warm afternoon light. Production note: the researcher's face never visible, farmers' faces generic and distant, no vehicles, no readable signs or notebook pages, no text, no letters, no numbers.",
+            "caption": "Researchers listen to farmers to learn what the numbers do not show.",
+            "shutterstock_query": "researcher village punjab 1980s farmers under tree interview",
+            "ai_prompt": "Photorealistic image of a Punjab village in the 1980s, a researcher in plain modern cotton clothing seen from behind sitting under a large shade tree, listening to a group of South Asian farmers in plain cotton kurtas and turbans, closed notebooks resting on the ground, mud-brick houses and a golden wheat field behind, warm afternoon light, calm attentive mood. The researcher's face never visible, farmers' faces generic and distant, no vehicles, no electric wires, no readable signs, no open notebook pages, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A modest crop research plot on a small farm in a dry East African landscape today, low rows of young maize and bean plants growing in reddish soil, a Black African farmer in plain cotton work clothes seen from behind kneeling to examine a row of plants, distant hills under a wide open sky. Production note: no face visible, no readable signs, labels, or logos on clothing, no vehicles, no text, no letters, no numbers.",
+            "caption": "In Africa, farmers and researchers still test what works best on small farms.",
+            "shutterstock_query": "crop research plot small farm east africa farmer kneeling",
+            "ai_prompt": "Photorealistic vertical image of a modest crop research plot on a small farm in a dry East African landscape today, low rows of young maize and bean plants growing in reddish soil, a Black African farmer in plain cotton work clothes without logos seen from behind kneeling to examine a row of plants, distant hills under a wide open sky, warm afternoon light. No face visible, no readable signs or labels, no logos, no vehicles, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "transatlantic-slave-trade",
+      "person": "The transatlantic slave trade",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Ships that cross the ocean for hundreds of years",
+          "category": "colonialism",
+          "text_sentences": [
+            "Trade X lasts for hundreds of years, from the 1500s to the 1800s.",
+            "Ships sail from Europe to Africa, then across the ocean.",
+            "They carry people away from their homes in Africa.",
+            "Nobody asks these people if they want to go.",
+            "The long journey across the ocean takes many hard weeks.",
+            "On the other side, new owners force people to work.",
+            "These enslaved workers labor on farms far away, without any pay.",
+            "Owners often separate husbands, wives, and children.",
+            "Many families never see each other again.",
+            "Some of the enslaved people fight back, run away, or buy their freedom.",
+            "Slowly, more and more people say that this is wrong."
+          ],
+          "question": "Which trade is Trade X?",
+          "options": [
+            "The Silk Road trade",
+            "The transatlantic slave trade",
+            "The spice trade",
+            "The fur trade"
+          ],
+          "correct": "The transatlantic slave trade",
+          "words": [
+            {
+              "word": "enslaved",
+              "explanation": "forced to work without any pay, and owned by another person"
+            },
+            {
+              "word": "owners",
+              "explanation": "people who have control over another person or thing"
+            },
+            {
+              "word": "separate",
+              "explanation": "to keep people or things apart from each other"
+            },
+            {
+              "word": "labor",
+              "explanation": "to do hard, tiring physical work"
+            }
+          ],
+          "main_image": {
+            "description": "A tall grey stone fort stands on a rocky point of the West African coast in the late 1700s, its cannons facing the sea. Several three-masted sailing ships are anchored in the calm bay beyond, seen from a distance, with small rowing boats moving between the ships and the shore. Production note: 1700s sailing ship design and fort architecture only, plain period sailors' clothing, calm late afternoon light, no flags, no ship names, no cannons in close-up, no people in visible distress, no readable text or numbers anywhere.",
+            "caption": "A stone fort guards the coast where ships wait at anchor.",
+            "shutterstock_query": "west african coastal fort sailing ships bay eighteenth century historical illustration",
+            "ai_prompt": "Photorealistic historical illustration of a tall grey stone fort on a rocky point of the West African coast in the late 1700s, cannons facing the sea, several three-masted wooden sailing ships anchored in a calm bay beyond seen from a distance, small rowing boats moving between ships and shore, calm late afternoon light, 1700s ship design and fort architecture only, plain period sailors' clothing; no flags, no ship names, no cannons in close-up, no people in visible distress, no violence, no chains, no modern boats, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A wide stone doorway is set into a thick fortress wall, framing an empty view of the open sea beyond. The stone floor and walls are bare and weathered, and nobody stands in the doorway. Supports the word separate. Production note: no readable plaque or inscription on the stone, no people visible, calm and solemn late afternoon light, respectful and not graphic.",
+            "caption": "An empty stone doorway once opened onto ships waiting on the sea.",
+            "shutterstock_query": "stone doorway coastal fort opening to sea historical memorial illustration",
+            "ai_prompt": "Vertical photorealistic illustration of a wide stone doorway set into a thick fortress wall, framing an empty view of the open sea beyond, bare weathered stone floor and walls, nobody standing in the doorway, calm solemn late afternoon light, 1700s fort architecture only; no readable plaque, no inscriptions, no people, no chains, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Three steps across the ocean",
+          "category": "colonialism",
+          "text_sentences": [
+            "The usual picture of Trade X shows three steps across the ocean.",
+            "First, ships carry goods from Europe to the coast of Africa.",
+            "There, merchants exchange these goods for captives.",
+            "Second, ships carry these captives across the ocean to the Americas.",
+            "Third, ships carry sugar, tobacco, and cotton back to Europe.",
+            "Portugal starts this trade before any other European country.",
+            "Brazil later receives more people than any other place.",
+            "Sugar islands in the Caribbean receive the next largest number.",
+            "Only a small share of people go to the future United States.",
+            "Some African kings and merchants sell captives for goods and guns.",
+            "In 1526, King Afonso of Kongo writes to the king of Portugal.",
+            "His letters protest that traders carry away his own people."
+          ],
+          "question": "Which trade is Trade X?",
+          "options": [
+            "The trans-Saharan trade",
+            "The Indian Ocean trade",
+            "The transatlantic slave trade",
+            "The opium trade"
+          ],
+          "correct": "The transatlantic slave trade",
+          "words": [
+            {
+              "word": "merchants",
+              "explanation": "people who buy and sell goods, often over long distances"
+            },
+            {
+              "word": "captives",
+              "explanation": "people who are caught and held by force"
+            },
+            {
+              "word": "protest",
+              "explanation": "to say strongly that something is wrong"
+            },
+            {
+              "word": "share",
+              "explanation": "a part of a total amount"
+            }
+          ],
+          "main_image": {
+            "description": "At a wooden river landing in West Africa in the 1600s, Black West African merchants in patterned woven cloth and white European traders in plain coats and hats stand near stacked bundles of cloth, bars of metal, and strings of beads, a wide brown river and dense forest behind them. Production note: no ship anywhere in the picture, no captives or chained figures shown, focus stays on the goods and the two groups of traders, respectful neutral expressions, 1600s dress for both groups, no flags, no coats of arms, no readable ledgers or signs.",
+            "caption": "Traders meet at a river landing and exchange goods brought from far away.",
+            "shutterstock_query": "african river trading post merchants goods seventeenth century historical illustration",
+            "ai_prompt": "Photorealistic historical illustration of a wooden river landing in West Africa in the 1600s, Black West African merchants in patterned woven cloth and white European traders in plain 1600s coats and hats standing near stacked bundles of cloth, bars of metal, and strings of beads, a wide brown river and dense green forest behind them, warm afternoon light, 1600s dress for both groups; no ship, no boats, no captives, no chains, no violence, no flags, no coats of arms, no readable ledgers or signs, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Rows of tall green sugar cane stretch across a Caribbean plantation field under a bright sky, seen from a respectful distance, with a few Black workers in plain period clothing moving between the rows far in the background. Supports the idea of the goods ships carry back to Europe. Production note: workers shown small and distant, no visible distress, no overseers with whips, calm working mood, 1700s-1800s plantation setting only.",
+            "caption": "Sugar cane fields like these send their harvest across the ocean to Europe.",
+            "shutterstock_query": "sugar cane field plantation caribbean historical illustration distant workers",
+            "ai_prompt": "Vertical photorealistic illustration of rows of tall green sugar cane stretching across a Caribbean plantation field under a bright sky, a few Black workers in plain 1700s cotton clothing moving between the rows far in the background, calm working mood, 1700s-1800s clothing and hand tools only; no visible distress, no whips, no overseers, no chains, no violence, no modern machinery, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Resistance across the ocean",
+          "category": "colonialism",
+          "text_sentences": [
+            "Trade X faces resistance at almost every stage.",
+            "Historians count revolts on about one voyage in ten.",
+            "Captives on board sometimes fight the crew, or refuse food.",
+            "On land, some enslaved people manage to escape into forests or mountains.",
+            "These escaped people build their own free communities, far from any plantation.",
+            "In 1789, a formerly enslaved man named Olaudah Equiano publishes his own life story.",
+            "His book describes the voyage and moves many readers in Britain.",
+            "It becomes an important tool in the growing fight to end Trade X.",
+            "In 1791, a successful revolt begins on a Caribbean island.",
+            "Within years, the people there win their freedom by force.",
+            "Their new state is the first in the Americas founded by formerly enslaved people."
+          ],
+          "question": "Which trade is Trade X?",
+          "options": [
+            "The transatlantic slave trade",
+            "The sugar trade",
+            "The Hanseatic trade",
+            "The spice trade"
+          ],
+          "correct": "The transatlantic slave trade",
+          "words": [
+            {
+              "word": "revolts",
+              "explanation": "times when people rise up together and fight against those in power"
+            },
+            {
+              "word": "escape",
+              "explanation": "to get away from a place where a person is held or forced to stay"
+            },
+            {
+              "word": "communities",
+              "explanation": "groups of people who live together and support each other"
+            },
+            {
+              "word": "publishes",
+              "explanation": "prepares and puts out a book for people to read"
+            }
+          ],
+          "main_image": {
+            "description": "High in green forested mountains, a small cluster of simple huts stands hidden among the trees, built by a community of escaped people. A few Black residents in plain worn 1700s clothing tend a small garden plot and stand watch at the tree line, seen from a respectful distance. Production note: no visible weapons in close-up, no pursuit or violence shown, calm and dignified mood, generic 1700s period clothing, no readable signs.",
+            "caption": "High in the mountains, escaped people build a free community of their own.",
+            "shutterstock_query": "maroon community mountain huts forest historical illustration distant",
+            "ai_prompt": "Photorealistic historical illustration of a small cluster of simple thatched huts hidden among trees high in green forested mountains, built by a community of escaped people, a few Black residents in plain worn 1700s cotton clothing tending a small garden plot and standing watch at the tree line, seen from a respectful distance, calm dignified mood; no visible weapons in close-up, no pursuit, no violence, no chains, no modern buildings, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "On a small wooden writing desk lit by a single candle, a closed plain leather-bound book rests beside an inkwell and a quill pen, its cover unmarked. Supports the word publishes. Production note: no readable text or letters on the book cover or any visible page, warm intimate candlelight, no person visible, 1780s furnishings only.",
+            "caption": "A closed book like this one carries a life story across the ocean to new readers.",
+            "shutterstock_query": "candlelit writing desk closed book quill inkwell eighteenth century illustration",
+            "ai_prompt": "Vertical photorealistic illustration of a small wooden writing desk lit by a single candle, a closed plain leather-bound book with an unmarked cover resting beside an inkwell and a quill pen, warm intimate candlelight, 1780s furnishings only; no person visible, no open pages, no readable text, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Ending the trade, step by step",
+          "category": "colonialism",
+          "text_sentences": [
+            "Trade X ends slowly, country by country, over many decades.",
+            "In 1781, the crew of a ship named the Zong forces more than a hundred sick captives into the sea.",
+            "The owners then ask for insurance money for the people the crew killed.",
+            "News of the case shocks many people in Britain.",
+            "In 1807, Britain bans its ships from carrying captives across the ocean.",
+            "The United States bans new captives from entering the country the next year.",
+            "Yet slavery itself continues in many places for decades more.",
+            "In 1833, Britain passes a law to end slavery in its colonies.",
+            "Slavery there ends in 1834, but freed people must work for their old owners for four more years.",
+            "In 1865, the United States ends slavery after a long civil war.",
+            "Brazil is the last country in the Americas to end slavery, in 1888.",
+            "Each new law leaves behind new struggles for equal rights."
+          ],
+          "question": "Which trade is Trade X?",
+          "options": [
+            "The trans-Saharan trade",
+            "The fur trade",
+            "The Indian Ocean trade",
+            "The transatlantic slave trade"
+          ],
+          "correct": "The transatlantic slave trade",
+          "words": [
+            {
+              "word": "insurance",
+              "explanation": "money paid to cover the loss of something, like a ship or its cargo"
+            },
+            {
+              "word": "decades",
+              "explanation": "periods of ten years"
+            },
+            {
+              "word": "civil war",
+              "explanation": "a war fought between groups within one country"
+            },
+            {
+              "word": "struggles",
+              "explanation": "hard and long efforts to achieve something difficult"
+            }
+          ],
+          "main_image": {
+            "description": "A dark-hulled sailing ship with a pale band along its gunports, a wooden naval vessel of the early 1800s, patrols close to a tropical coastline, its sails full in a strong wind, sailors in period uniforms, some of them Black African, visible on deck at a distance. Production note: no grey paint, no steel hull, no flags, no hull markings or numbers, no other ships in distress, calm determined mood, no weapons fired, no readable signs, 1800s naval ship design only.",
+            "caption": "Naval ships begin to patrol the coast, stopping ships that still carry captives.",
+            "shutterstock_query": "early nineteenth century naval ship patrol coastline historical illustration",
+            "ai_prompt": "Photorealistic historical illustration of a dark-hulled sailing ship with a pale band along its gunports, a wooden naval vessel of the early 1800s, patrolling close to a tropical coastline, sails full in a strong wind, sailors in period uniforms, some of them Black African, visible on deck at a distance, calm determined mood, 1800s naval ship design and uniforms only; no grey paint, no steel hull, no flags, no hull markings, no other ships in distress, no weapons fired, no violence, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Seen from the back of the room, rows of empty wooden benches face a raised judge's bench and an empty witness stand inside a plain 1780s London courtroom, tall windows letting in grey daylight, a stack of closed papers resting on a table. Production note: no people visible, no readable text on any paper or wall, calm still mood, 1780s courtroom furnishings only.",
+            "caption": "A court in London later hears the shocking case of a ship named the Zong.",
+            "shutterstock_query": "empty eighteenth century london courtroom wooden benches historical illustration",
+            "ai_prompt": "Vertical photorealistic illustration of a plain 1780s London courtroom seen from the back of the room, rows of empty wooden benches facing a raised judge's bench and an empty witness stand, tall windows letting in grey daylight, a stack of closed papers on a table, calm still mood, 1780s furnishings only; no people, no readable text on any paper or wall, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "What the records tell historians",
+          "category": "colonialism",
+          "text_sentences": [
+            "Historians now study Trade X using a huge digital database.",
+            "It combines records from thousands of individual voyages across centuries.",
+            "Historians count about twelve and a half million people taken aboard, and about ten and a half million who reached land.",
+            "The records show that ships from Portugal and Brazil carry the most people, and over the longest time.",
+            "Many of these ships sail straight between Brazil and Angola and back, not in three steps.",
+            "The trade also leaves a lasting legacy across the modern world.",
+            "Millions of descendants of transported Africans now live across the Americas.",
+            "Together, they form what people often call the African diaspora.",
+            "Historians also trace some modern racist ideas back to old writings that once excused Trade X.",
+            "Today, memorial sites and museums mark old ports and departure points.",
+            "Some people now call for repair, meaning action or payment for the past harm.",
+            "Historians and governments still disagree about whether, and how, to do this."
+          ],
+          "question": "Which trade is Trade X?",
+          "options": [
+            "The Silk Road trade",
+            "The transatlantic slave trade",
+            "The opium trade",
+            "The Hanseatic trade"
+          ],
+          "correct": "The transatlantic slave trade",
+          "words": [
+            {
+              "word": "database",
+              "explanation": "a large, organized collection of information stored for research"
+            },
+            {
+              "word": "descendants",
+              "explanation": "people related to people who lived long before them"
+            },
+            {
+              "word": "diaspora",
+              "explanation": "a large group of people who now live spread far from their original homeland"
+            },
+            {
+              "word": "repair",
+              "explanation": "here, an action or payment meant to make up for a past wrong"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a quiet research archive, tall wooden shelves hold rows of closed ships' logbooks with plain blank spines, while a historian in modern clothing, seen from behind, walks down the aisle carrying one closed logbook toward a bare reading table with a lamp. Production note: no map, no papers, no readable text, titles, or numbers on any spine or book, calm studious mood, a generic researcher not resembling any real person.",
+            "caption": "Historians now study thousands of old voyages, kept together in one great archive.",
+            "shutterstock_query": "historical archive ship logbooks researcher shelves reading table lamp",
+            "ai_prompt": "Photorealistic illustration of a quiet research archive, tall wooden shelves holding rows of closed ships' logbooks with plain blank spines, a historian in plain modern clothing seen from behind walking down the aisle carrying one closed logbook toward a bare wooden reading table with a lamp, calm studious mood; no map, no papers, no open books, no screens, no readable titles on any spine, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "On a quiet stretch of coastline, a plain smooth stone monument stands facing the sea, its surface bare of any inscription, with a small mixed group of Black and white visitors in modern clothing standing respectfully at a distance. Production note: no flags, no readable plaque or inscription, no country symbols, no logos on clothing, calm reflective mood.",
+            "caption": "Today, quiet memorials like this one stand at old ports around the ocean.",
+            "shutterstock_query": "plain stone memorial coastline visitors modern historical illustration",
+            "ai_prompt": "Vertical photorealistic illustration of a plain smooth stone monument standing on a quiet coastline facing the sea, its surface bare of any inscription, a small mixed group of Black and white visitors in plain modern clothing standing respectfully at a distance, calm reflective mood; no flags, no plaque, no inscription, no country symbols, no logos, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "mansa-musa",
+      "person": "Mansa Musa",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A King's Land of Gold and Salt",
+          "category": "africa",
+          "text_sentences": [
+            "King X lives in West Africa, about seven hundred years ago.",
+            "His land lies next to a great river.",
+            "In the south, people wash gold dust out of river sand.",
+            "In the north, workers cut blocks of salt out of the desert ground.",
+            "Traders carry salt south and gold north on camels.",
+            "King X takes a share of all this trade.",
+            "This makes him very rich.",
+            "He rules many towns along the river.",
+            "People call his kingdom Mali.",
+            "Later, he makes a famous journey to a holy city far away."
+          ],
+          "question": "Who is King X?",
+          "options": [
+            "Mansa Musa",
+            "Sundiata Keita",
+            "Shaka Zulu",
+            "Osei Tutu"
+          ],
+          "correct": "Mansa Musa",
+          "words": [
+            {
+              "word": "desert",
+              "explanation": "a very hot, dry land with much sand and little water"
+            },
+            {
+              "word": "camels",
+              "explanation": "big desert animals that can carry heavy loads for many days"
+            },
+            {
+              "word": "share",
+              "explanation": "a part of a total amount"
+            },
+            {
+              "word": "holy",
+              "explanation": "very special and important in a religion"
+            }
+          ],
+          "main_image": {
+            "description": "At the edge of a wide brown river in fourteenth-century West Africa, Black West African men and women in plain 1300s cotton wraps wash gold dust from river gravel in shallow wooden bowls, seen from behind and at a distance so no faces are visible; a mud-brick town with a wooden-beamed wall stands far in the background under golden light. Production note: 1300s West African dress only, plain cotton wraps and head cloths, wooden bowls; no heaps of gold lying about, at most a faint glint in the bowls; no faces, no calligraphy, no flags, no text.",
+            "caption": "By a great river, people wash gold out of the sand.",
+            "shutterstock_query": "west africa river gold washing wooden bowls mud brick town historical",
+            "ai_prompt": "Photorealistic golden-hour scene in fourteenth-century West Africa: Black West African men and women in plain 1300s cotton wraps and head cloths kneel at the edge of a wide brown river washing gold dust from river gravel in shallow wooden bowls, all seen from behind or at a distance, a mud-brick town with a wooden-beamed wall far in the background, warm dusty light, only a faint glint of gold in the bowls, no heaps of gold, no modern clothing, no plastic, no metal tools, no boats with motors, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no recognisable face on any figure, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "A market in a mud-brick town by the river in the 1300s: Black West African traders in plain cotton robes and indigo-blue wraps, seen from behind, sit beside piles of folded white and indigo cotton cloth, baskets of grain, and a few pale blocks of salt laid on woven mats. This image helps explain the word 'share', the trade the king takes his share of. Production note: 1300s West African dress and goods only; no camels, no salt on any animal, no faces, no signs, no calligraphy.",
+            "caption": "Traders sell salt, cloth, and grain in a town by the river.",
+            "shutterstock_query": "west african market cloth salt blocks baskets mud brick town historical",
+            "ai_prompt": "Photorealistic vertical view of a small market in a fourteenth-century West African mud-brick town: Black West African traders in plain cotton robes and indigo-blue wraps seen from behind, piles of folded white and indigo cotton cloth, woven baskets of grain, and a few pale flat blocks of salt laid on woven mats on the ground, warm midday light, mud-brick walls behind, no camels, no animals, no modern goods, no plastic, no signs, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no recognisable face on any figure, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "The Caravan to a Holy City",
+          "category": "africa",
+          "text_sentences": [
+            "King X rules an empire in West Africa that grows rich from gold and salt.",
+            "King X is a Muslim.",
+            "Muslims believe every follower who is able should visit the holy city of Mecca once in life.",
+            "In the year 1324, he leaves his empire for this great journey.",
+            "Stories say his caravan has many thousands of people.",
+            "Stories say it carries tons of gold.",
+            "Stories say he gives gold to poor people along the road.",
+            "On the way, he stops in the city of Cairo.",
+            "About ten years later, a scholar in Cairo writes about the visit.",
+            "He says King X gave away so much gold that its price fell for years.",
+            "The whole journey takes more than a year."
+          ],
+          "question": "Who is King X?",
+          "options": [
+            "Mansa Musa",
+            "Sonni Ali",
+            "Ezana of Aksum",
+            "Idris Alooma"
+          ],
+          "correct": "Mansa Musa",
+          "words": [
+            {
+              "word": "empire",
+              "explanation": "a large group of lands and peoples ruled by one king or queen"
+            },
+            {
+              "word": "caravan",
+              "explanation": "a group of people and animals that travel together"
+            },
+            {
+              "word": "tons",
+              "explanation": "a huge amount of weight, many hundreds of kilograms"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows very much"
+            }
+          ],
+          "main_image": {
+            "description": "A vast desert caravan in the fourteenth century seen from a high dune at dawn: dozens of camels with simple rope harnesses in a long single file cross golden sand toward the horizon, tiny figures of Black West African and North African travelers in cotton robes and turbans walking beside them, far too small and distant for any face to be seen. Production note: 1300s West African and North African travel dress, camels with rope harness only, plain leather and cloth bags, no metal fittings with engravings, no oasis signage, no flags, no modern vehicles.",
+            "caption": "A huge caravan crosses the desert on a long journey.",
+            "shutterstock_query": "sahara desert camel caravan aerial dunes dawn",
+            "ai_prompt": "Photorealistic wide view of the Sahara desert at dawn in the fourteenth century: a long single-file caravan of dozens of camels with simple rope harnesses and plain leather and cloth bags crosses golden dunes toward the horizon, tiny distant figures of Black West African and North African travelers in plain cotton robes and turbans walking beside them, warm early light and long shadows, no modern vehicles, no plastic, no metal fittings, no modern clothing, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no recognisable face on any figure, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "A brown-skinned Egyptian scholar in a plain 1300s turban and robe sits cross-legged on a low bench in a shaded courtyard in old Cairo, listening to two men of Cairo in plain 1300s Egyptian robes and turbans, a closed book and a reed pen resting on the low desk beside him, all faces turned away or in shadow, sandstone walls and an arched doorway behind. This image helps explain the word 'scholar'. Production note: 1300s Egyptian dress only; the book stays closed, no calligraphy, no pseudo-writing, no faces.",
+            "caption": "A scholar in Cairo asks people what they saw, then writes it down.",
+            "shutterstock_query": "medieval scholar courtyard cairo listening travelers illustration",
+            "ai_prompt": "Photorealistic scene in a shaded courtyard in fourteenth-century Cairo: a brown-skinned Egyptian scholar in a plain 1300s turban and robe sits cross-legged on a low bench listening to two brown-skinned men of Cairo in plain 1300s Egyptian robes and turbans, a closed leather-bound book and a reed pen resting on the low wooden desk beside him, all faces turned away or in shadow, sandstone walls and an arched doorway behind, soft daylight, no open pages, no electric lamps, no modern clothing, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no recognisable face, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A City of Books by the Desert",
+          "category": "africa",
+          "text_sentences": [
+            "King X returns home from his great journey in the year 1325.",
+            "He does not come home with only gold.",
+            "He brings home scholars and judges.",
+            "He also brings a builder from Granada in Spain, whom he meets on the journey.",
+            "Stories say this builder plans a new mosque of mud and wood for him.",
+            "Workers finish the mosque in the city of Timbuktu in 1327.",
+            "In the 1300s, Timbuktu begins to grow into a center of study and books.",
+            "Students travel there from far away to learn law and science.",
+            "Scribes copy manuscripts by hand, page after page.",
+            "Many of these old manuscripts still exist today.",
+            "Families in Timbuktu still keep some of them safe in their homes."
+          ],
+          "question": "Who is King X?",
+          "options": [
+            "Mansa Musa",
+            "Askia Muhammad",
+            "Mutota",
+            "Sundiata Keita"
+          ],
+          "correct": "Mansa Musa",
+          "words": [
+            {
+              "word": "scholars",
+              "explanation": "people who study and know very much"
+            },
+            {
+              "word": "mosque",
+              "explanation": "a building where Muslims pray"
+            },
+            {
+              "word": "scribes",
+              "explanation": "people whose job is to copy books and letters by hand"
+            },
+            {
+              "word": "manuscripts",
+              "explanation": "old books or papers written by hand"
+            }
+          ],
+          "main_image": {
+            "description": "A wide view across a sandy square in fourteenth-century West Africa toward a large mud-brick mosque with rows of wooden beams jutting from its walls, seen from a respectful distance in late afternoon light; a few robed Black West African figures in plain cotton cross the square far from the camera, too small and distant for faces to be seen. Production note: 1300s West African mud-brick architecture, plain geometric wall patterns only; no minaret with inscriptions, no praying crowd, no electric wires, no loudspeakers, no cars or motorbikes, no signs, no modern buildings.",
+            "caption": "A great mud mosque rises in a city known for learning.",
+            "shutterstock_query": "great mosque mud brick west africa distant square",
+            "ai_prompt": "Photorealistic wide shot at golden hour in fourteenth-century West Africa: a large mud-brick mosque with rows of wooden beams jutting from its walls stands across a sandy square, seen from a respectful distance, a few small distant robed Black West African figures in plain cotton crossing the square, warm dusty light, plain geometric mud-brick surfaces, no electric wires, no loudspeakers, no cars or motorbikes, no signs, no modern buildings, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no recognisable face, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "Close-up of the dark-skinned hands of an elderly Black Malian man in a plain cotton sleeve carefully holding a stack of old leather-bound manuscript pages tied with cord, the pages angled away from the camera so no writing is visible. This image helps explain the word 'manuscripts'. Production note: dark-skinned hands only, no face; worn leather binding and cord, no visible script.",
+            "caption": "Old handwritten pages are still kept safe today.",
+            "shutterstock_query": "old manuscript pages hands close up leather bound",
+            "ai_prompt": "Photorealistic close-up of the dark-skinned hands of an elderly Black Malian man in a plain cotton sleeve carefully holding a stack of worn leather-bound manuscript pages tied with cord, pages angled away from the camera, soft warm indoor light, shallow depth of field, no open pages facing the camera, no visible script, no modern objects, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no face visible, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "An Empire Rises and Falls",
+          "category": "africa",
+          "text_sentences": [
+            "Two generations before King X, a ruler founds a new empire in West Africa.",
+            "That empire grows strong from trade in gold and salt.",
+            "King X becomes its ruler around the year 1312.",
+            "Under him, the empire reaches its greatest size and wealth.",
+            "After his death, the empire stays strong for one more generation.",
+            "Then later rulers cannot keep it together.",
+            "In the 1400s, wars and weak leaders make the empire smaller.",
+            "Trade routes slowly move to other roads and other rulers.",
+            "A new empire named Songhai rises to the east.",
+            "Songhai even takes the city of learning that King X once made part of his empire.",
+            "Historians study old cities and old writings to understand this long story."
+          ],
+          "question": "Who is King X?",
+          "options": [
+            "Mansa Musa",
+            "Idris Alooma",
+            "Osei Tutu",
+            "Sonni Ali"
+          ],
+          "correct": "Mansa Musa",
+          "words": [
+            {
+              "word": "generations",
+              "explanation": "groups of people born around the same time, one after another"
+            },
+            {
+              "word": "wealth",
+              "explanation": "having a lot of money or valuable things"
+            },
+            {
+              "word": "routes",
+              "explanation": "roads or paths that people travel again and again"
+            },
+            {
+              "word": "historians",
+              "explanation": "people who study the past to understand what happened"
+            }
+          ],
+          "main_image": {
+            "description": "A wide dusk view of a great river in fourteenth- to fifteenth-century West Africa with a few plain wooden dugout canoes without motors or paint on the water and a stretch of quiet, weathered mud-brick walls along the bank, tall grass growing through old paving stones, no people in the foreground. Production note: ruins look weathered and empty, not damaged by violence; 1300s to 1400s West African mud-brick style; no modern boats, no outboard motors, no painted names, no electric wires, no modern buildings.",
+            "caption": "Empires rise by the great river, and empires fall.",
+            "shutterstock_query": "west africa river dusk old ruins canoes landscape",
+            "ai_prompt": "Photorealistic wide dusk view of a wide river in fourteenth- to fifteenth-century West Africa, a few plain wooden dugout canoes without motors or paint on the water, a stretch of quiet weathered mud-brick walls along the bank, tall grass growing through old paving stones, warm fading light, empty and calm, no people, no modern boats, no outboard motors, no electric wires, no modern buildings, no calligraphy, no pseudo-writing, no flags, no maps, no map-like markings, no Kaaba, no praying crowds, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "A single old caravan trail crossing cracked, dry earth into the far distance, with faint old camel footprints and no travelers anywhere on it, as it might have looked in the 1400s. This image helps explain the word 'routes'. Production note: no signage anywhere on or beside the trail, no tyre tracks, no vehicles, no poles or wires.",
+            "caption": "An old trade route lies quiet and empty.",
+            "shutterstock_query": "empty desert trail dry cracked earth distance",
+            "ai_prompt": "Photorealistic vertical view of a single old caravan trail crossing cracked dry earth toward the horizon in the pre-modern Sahara, faint old camel footprints in the dust, warm late light, no travelers, no tyre tracks, no vehicles, no poles or wires, no signage, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "university",
+          "title": "How Do We Know About a King Long Gone?",
+          "category": "africa",
+          "text_sentences": [
+            "King X dies in the 1330s.",
+            "No writing from his own kingdom in his own time survives today.",
+            "Historians must rely mostly on later writers to learn about him.",
+            "A scholar in Cairo writes about King X's visit about ten years after it happens.",
+            "That scholar never meets King X, so he asks people in Cairo who did.",
+            "Later writers in North Africa gather more stories about King X from many sources.",
+            "Scholars in Timbuktu write chronicles about him in the 1600s, three hundred years after his death.",
+            "In 1375, mapmakers in Europe draw King X on a famous map of the world.",
+            "Some people say King X is the richest man in history, but nobody can really know this.",
+            "There are no full written records of exactly how much gold he had.",
+            "Gold from his empire slowly travels north and becomes coins in Europe."
+          ],
+          "question": "Who is King X?",
+          "options": [
+            "Mansa Musa",
+            "Ezana of Aksum",
+            "Askia Muhammad",
+            "Mutota"
+          ],
+          "correct": "Mansa Musa",
+          "words": [
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows very much"
+            },
+            {
+              "word": "sources",
+              "explanation": "old texts or things that give us information about the past"
+            },
+            {
+              "word": "chronicles",
+              "explanation": "books that tell the events of the past year by year"
+            },
+            {
+              "word": "mapmakers",
+              "explanation": "people whose job is to draw maps"
+            },
+            {
+              "word": "records",
+              "explanation": "written information that is kept and can be checked later"
+            }
+          ],
+          "main_image": {
+            "description": "A still life on an old wooden writing desk in fourteenth-century Cairo: a stack of closed, worn manuscript pages, a reed pen resting beside a shallow dish of fine gold dust, and a small pile of plain unmarked gold nuggets, with a soft blurred view of distant Cairo rooftops through a narrow window behind. Production note: no visible script on any page or object; 1300s writing tools only, no glass inkwells, no paper with printing, no modern objects.",
+            "caption": "Old writings and a little gold are nearly all that remain.",
+            "shutterstock_query": "old writing desk manuscripts gold dust still life",
+            "ai_prompt": "Photorealistic still life on a worn wooden desk in fourteenth-century Cairo: a stack of closed leather-bound manuscript pages, a reed pen resting beside a shallow clay dish of fine gold dust, a small pile of plain unmarked gold nuggets, soft daylight from a narrow window showing blurred distant flat rooftops, warm quiet mood, no modern objects, no printed paper, no calligraphy, no pseudo-writing, no markings on any object, no flags, no maps, no Kaaba, no praying crowds, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "Close-up of a blank aged parchment sheet on a wooden drafting table of the 1370s beside a brass pair of dividers and a quill pen, the parchment left plain and textureless so no coastlines, figures, or labels can be seen. This image helps explain the word 'mapmakers'. Production note: the parchment surface must stay completely blank, no drawn content of any kind, no compass rose, no modern instruments.",
+            "caption": "Mapmakers far away hear of his gold and draw him on their maps.",
+            "shutterstock_query": "antique blank parchment drafting table dividers quill",
+            "ai_prompt": "Photorealistic close-up of a blank aged parchment sheet on a wooden drafting table of the fourteenth century beside a brass pair of dividers and a quill pen, warm candlelight, the parchment left plain and textureless, no coastlines, no figures, no compass rose, no modern instruments, no calligraphy, no pseudo-writing, no flags, no maps with text, no Kaaba, no praying crowds, no text, no letters, no numbers"
+          }
+        }
+      ]
     }
   ]
 }
