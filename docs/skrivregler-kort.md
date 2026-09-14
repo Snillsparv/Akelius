@@ -879,7 +879,7 @@ pinyin respektive Hepburn utan diakritiska tecken.
   bokbränningen 213 f.Kr., berättelsen om de levande begravda lärda 212
   f.Kr. kommer från historikern Sima Qian hundra år senare och betvivlas
   av många (skriv "a later historian writes"), murar som bands samman till
-  en tidig lång mur (dagens synliga mur är från Mingtiden 1 500 år senare,
+  en tidig lång mur (dagens synliga mur är från Mingtiden omkring 1 700 år senare,
   blanda inte ihop), vägar och kanalen Lingqu, mordförsöket 227 f.Kr.,
   jakten på odödlighetens medicin och döden på resa 210 f.Kr. (kvicksilver
   som orsak är en gissning), graven nära Xi'an med terrakottaarmén som
@@ -957,14 +957,16 @@ pinyin respektive Hepburn utan diakritiska tecken.
 - **Akbar**: Emperor X. Mogulkejsare från 1556 vid tretton års ålder,
   förmyndaren Bairam Khan, utvidgade riket över norra Indien, gifte sig
   med rajputprinsessor och band furstarna till sig, avskaffade skatten på
-  icke-muslimer 1564, samtalen om tro i Fatehpur Sikri från 1575 med
-  hinduer, jainer, zoroastrier och jesuiter från Europa, den lilla
+  icke-muslimer 1564, samtalshuset i Fatehpur Sikri byggt 1575, först bara för
+  muslimska lärda, från omkring 1578 hinduer, jainer och zoroastrier och
+  från 1580 jesuiter från Europa, den lilla
   hovkretsen omkring 1582 som senare kallats en egen religion (historikerna
   är oense, skriv försiktigt), kunde inte läsa men lät läsa högt och
   samlade ett väldigt bibliotek, målarverkstaden, översättningar av
   sanskriteposen till persiska, skatte- och ämbetssystemet med Todar Mal,
   krönikan Akbarnama av Abu'l-Fazl, huvudstaden Fatehpur Sikri som
-  övergavs, belägringen av Chittor 1568 med massakern sakligt i en mening,
+  han lämnade 1585 för Lahore och gränsen i nordväst (vattenbrist är en
+  omtvistad förklaring, skriv "historians are not sure why"), belägringen av Chittor 1568 med massakern sakligt i en mening,
   sonsonen som byggde ett berömt gravmonument (Taj Mahal får namnges).
   Universitet: tolerans som politik, källorna Abu'l-Fazl mot kritikern
   Badauni, kejsaren i dagens indiska debatt sakligt. Fångar: "Akbar";
