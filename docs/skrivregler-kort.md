@@ -742,7 +742,7 @@ namnges där de behövs och är då inte distraktorer på det kortet.
   utan detaljer, motstånd: uppror på ungefär vart tionde skepp, förrymda
   som byggde egna samhällen, revolten på en karibisk ö 1791, abolitionen:
   Storbritannien förbjöd handeln 1807 och slaveriet i kolonierna 1833, USA
-  förbjöd införsel 1808 och slaveriet 1865, Brasilien sist 1888, Olaudah
+  förbjöd införsel 1808 och slaveriet 1865, Brasilien sist i Amerika 1888, andra länder senare, Olaudah
   Equianos bok 1789, Frederick Douglass, Zong 1781 sakligt. Universitet:
   arvet, den afrikanska diasporan, rasismens rötter, minnesplatser och
   debatten om gottgörelse. Fångar: "slave trade", "transatlantic",
@@ -759,7 +759,9 @@ namnges där de behövs och är då inte distraktorer på det kortet.
   kilo guld kommer från senare krönikörer, skriv "stories say"), gav bort
   så mycket guld i Kairo att priset föll i flera år (en egyptisk lärd
   skrev det tio år senare, skriv "a scholar in Cairo writes"), tog hem
-  lärda och en arkitekt som byggde moskén i Timbuktu 1327, Timbuktu som
+  lärda och en arkitekt från Granada som enligt senare krönikor byggde en
+  moské i Timbuktu 1327 (skriv "stories say"; staden fanns sedan omkring
+  1100 och grundades inte av honom), Timbuktu som
   lärdomsstad med handskrifter, kartan från 1375 som visar honom med en
   guldklimp (beskriv inte kartan i bild, den är igenkännbar), "rikast i
   historien" är modern spekulation (skriv "some people say, but nobody can
