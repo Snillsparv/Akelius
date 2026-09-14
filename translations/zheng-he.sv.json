@@ -1,0 +1,229 @@
+{
+  "slug": "zheng-he",
+  "person_sv": "Zheng He",
+  "cards": [
+    {
+      "title": "Pojken som leder en jättelik flotta",
+      "text_sentences": [
+        "Amiral X föds för ungefär sexhundra år sedan i sydvästra Kina.",
+        "Hans hem ligger i bergen, i en region som heter Yunnan.",
+        "Soldater för bort honom när han är pojke.",
+        "Han skickas för att tjäna en prins vid hans hov.",
+        "Han växer upp klok och lång, och prinsen litar på honom.",
+        "Senare blir denna prins kejsare och ger honom ett stort uppdrag.",
+        "Amiral X leder en flotta av enorma träskepp.",
+        "Källor säger att de hör till de största skepp som någonsin har byggts.",
+        "Flottan seglar till Indien, Arabien och Östafrikas kust.",
+        "Den ger bort siden och porslin från Kina.",
+        "Den tar hem kryddor, juveler, rökelse, elfenben och sällsynta djur.",
+        "En gåva förvånar alla: ett högt djur med en mycket lång hals."
+      ],
+      "question": "Vem är amiral X?",
+      "options": [
+        "Marco Polo",
+        "Christofer Columbus",
+        "Zheng He",
+        "Ferdinand Magellan"
+      ],
+      "words": [
+        {
+          "word": "flotta",
+          "explanation": "en stor grupp skepp som seglar tillsammans"
+        },
+        {
+          "word": "kejsare",
+          "explanation": "en mäktig härskare över ett helt land, som gamla Kina"
+        },
+        {
+          "word": "porslin",
+          "explanation": "en hård, tunn och vit sorts keramik"
+        },
+        {
+          "word": "rökelse",
+          "explanation": "ett material som sprider en söt doft när det bränns"
+        },
+        {
+          "word": "elfenben",
+          "explanation": "det hårda vita materialet från en elefants bete"
+        }
+      ],
+      "main_caption": "Enorma skepp väntar i en tyst vik i gryningen, redo att segla långt bort.",
+      "side_caption": "Ett underbart djur når palatset, och alla undrar vad det är."
+    },
+    {
+      "title": "Sju resor över Indiska oceanen",
+      "text_sentences": [
+        "Amiral X leder sju stora sjöresor mellan 1405 och 1433.",
+        "Varje gång seglar han från Kina med en enorm flotta av träskepp.",
+        "Dåtidens källor säger att de största flottorna har mer än sextio stora skepp.",
+        "De för med sig ungefär tjugosjutusen man.",
+        "Skeppen har med sig soldater, sjömän, läkare, tolkar och till och med astrologer.",
+        "Flottan seglar söderut genom Sydostasiens hav, och sedan västerut över Indiska oceanen.",
+        "Den når livliga hamnar i Indien, där köpmän handlar med peppar och bomullstyg.",
+        "Därifrån seglar några skepp vidare till Arabien och Persiska viken.",
+        "Andra skepp följer Östafrikas kust och stannar i städer som handlar med guld och elfenben.",
+        "Vid varje hamn ger amiral X gåvor av siden och porslin i kejsarens namn.",
+        "I gengäld skickar lokala härskare gåvor tillbaka till Kina, bland annat ädelstenar och sällsynta träslag.",
+        "Kejsaren vill ha respekt och handel, inte nytt land att styra över."
+      ],
+      "question": "Vem är amiral X?",
+      "options": [
+        "Vasco da Gama",
+        "Zheng He",
+        "Xu Fu",
+        "Ibn Battuta"
+      ],
+      "words": [
+        {
+          "word": "tolkar",
+          "explanation": "personer vars jobb är att föra över ord från ett språk till ett annat"
+        },
+        {
+          "word": "astrologer",
+          "explanation": "personer som studerar stjärnorna och tror att de kan förutsäga framtiden"
+        },
+        {
+          "word": "elfenben",
+          "explanation": "det hårda vita materialet från en elefants bete"
+        },
+        {
+          "word": "porslin",
+          "explanation": "en hård, tunn och vit sorts keramik"
+        }
+      ],
+      "main_caption": "Köpmän handlar i en livlig hamn, medan höga skepp från fjärran väntar utanför kusten.",
+      "side_caption": "Elfenben från Östafrikas kust vägs innan det seglar till Kina."
+    },
+    {
+      "title": "Strider på två öar och en piratflotta",
+      "text_sentences": [
+        "Amiral X tjänar en ny kejsare som tar tronen i Kina år 1402, efter många års inbördeskrig.",
+        "Kejsaren vill att världen ska känna till Kinas makt och rikedom.",
+        "En senare historia säger att han också vill ha skepp som bevakar haven, ifall en rival gömmer sig utomlands.",
+        "Denna rival är kejsarens egen nevö, som han hade trängt undan från tronen.",
+        "Han väljer amiral X att leda stora flottor över haven västerut.",
+        "De flesta hamnar välkomnar flottan med gåvor och öppna marknader.",
+        "På vägen hem från den första resan, år 1407, besegrar flottan en stor piratflotta nära Sumatra.",
+        "Handelsmän i dessa hav kan nu segla säkrare.",
+        "Men år 1411, på ön Sri Lanka, vänder sig en lokal härskare mot sjömännen.",
+        "Amiral X och hans soldater slåss och fångar honom, och skickar honom sedan till kejsarens hov.",
+        "Några år senare, på ön Sumatra, angriper en annan lokal härskare flottan.",
+        "Igen slåss amiral X och hans män tillbaka och besegrar honom."
+      ],
+      "question": "Vem är amiral X?",
+      "options": [
+        "Faxian",
+        "Zhang Qian",
+        "Marco Polo",
+        "Zheng He"
+      ],
+      "words": [
+        {
+          "word": "tron",
+          "explanation": "den speciella stolen, och makten, hos en kung eller kejsare"
+        },
+        {
+          "word": "rival",
+          "explanation": "en person som tävlar mot dig om makt eller en belöning"
+        },
+        {
+          "word": "fånga",
+          "explanation": "att fånga och hålla en person som fånge"
+        },
+        {
+          "word": "pirat",
+          "explanation": "en person som anfaller och rånar skepp till sjöss"
+        }
+      ],
+      "main_caption": "En ny kejsare ger en betrodd man ett mycket stort uppdrag.",
+      "side_caption": "En besegrad lokal härskare förs ombord på ett skepp, på väg till ett avlägset hov."
+    },
+    {
+      "title": "Varför de stora flottorna slutar segla",
+      "text_sentences": [
+        "Amiral X leder sin sista stora resa i början av 1430-talet.",
+        "Vid den tiden har kejsaren som först skickade honom till sjöss varit död i flera år.",
+        "Nya kejsare sitter på tronen, och deras lärda ämbetsmän ger dem råd.",
+        "Dessa ämbetsmän skriver och klarar rikets svåraste prov, och de sköter regeringen.",
+        "De ser de enorma flottorna som mycket kostsamma och till liten verklig nytta för riket.",
+        "Säd till huvudstaden och soldater till norra gränsen betyder mer, menar de, än gåvor från avlägsna länder.",
+        "En del handlingar om resorna går senare förlorade eller förstörs vid hovet.",
+        "Efter amiral X seglar inga fler jättelika flottor från Kina.",
+        "Senare begränsar nya lagar storleken på skepp som får lämna kusten.",
+        "Amiral X själv dör omkring 1433, kanske långt hemifrån på den sista resan.",
+        "En tradition säger att hans kläder och mössa ligger i graven i Nanjing."
+      ],
+      "question": "Vem är amiral X?",
+      "options": [
+        "Zheng He",
+        "Yi Sun-sin",
+        "Vasco da Gama",
+        "Christofer Columbus"
+      ],
+      "words": [
+        {
+          "word": "lärda ämbetsmän",
+          "explanation": "högt utbildade män som klarar svåra prov och styr regeringen"
+        },
+        {
+          "word": "säd",
+          "explanation": "frön av vete, ris eller majs som används som mat"
+        },
+        {
+          "word": "kostsam",
+          "explanation": "dyr, kostar mycket pengar"
+        },
+        {
+          "word": "handlingar",
+          "explanation": "gamla papper som beskriver vad som hänt"
+        }
+      ],
+      "main_caption": "Ett skeppsvarv som en gång byggde jättar tystnar nu.",
+      "side_caption": "Säd som fraktas längs kanalerna betyder mer för hovet än skepp till sjöss."
+    },
+    {
+      "title": "Hur stora var skeppen, egentligen?",
+      "text_sentences": [
+        "Historiker studerar amiral X med hjälp av flera sorters gamla källor.",
+        "Mingdynastins regeringshandlingar listar flottorna, deras kaptener och deras rutter.",
+        "Några män som seglar med flottan skriver senare ner vad de ser.",
+        "En sten vid hans fars grav säger att hans familj följer islam.",
+        "Stentavlor från vissa hamnar dokumenterar också flottans besök.",
+        "Dessa källor är inte helt överens om storleken på de största skeppen.",
+        "Vissa gamla källor säger att de största skeppen var lika långa som en fotbollsplan, men många historiker tvivlar på det.",
+        "Trä och byggnadsteknik från den tiden, menar de, gör så stora skepp svåra att segla säkert.",
+        "År 2002 hävdar en författare i en populär bok att flottan når Amerika.",
+        "Utbildade historiker avvisar detta påstående, eftersom det inte vilar på några verkliga bevis.",
+        "Samtidigt slutar Kina skicka stora flottor utomlands, medan europeiska kungariken börjar skicka små skepp allt längre och längre hemifrån.",
+        "Historiker debatterar fortfarande varför de två vägarna skiljer sig åt så tydligt."
+      ],
+      "question": "Vem är amiral X?",
+      "options": [
+        "Xu Fu",
+        "Faxian",
+        "Zheng He",
+        "Ibn Battuta"
+      ],
+      "words": [
+        {
+          "word": "stentavla",
+          "explanation": "en platt bit av sten eller trä med ord inhuggna eller skrivna på"
+        },
+        {
+          "word": "bevis",
+          "explanation": "fakta som hjälper till att bevisa att något är sant"
+        },
+        {
+          "word": "skilja sig åt",
+          "explanation": "att gå isär och ta olika riktningar"
+        },
+        {
+          "word": "byggnadsteknik",
+          "explanation": "konsten att designa och bygga stora konstruktioner, som skepp eller broar"
+        }
+      ],
+      "main_caption": "Hur stora var skeppen, egentligen? Historiker mäter och jämför noggrant.",
+      "side_caption": "Stentavlor som denna dokumenterar fortfarande flottans besök i avlägsna hamnar."
+    }
+  ]
+}
