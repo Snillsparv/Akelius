@@ -903,8 +903,9 @@ pinyin respektive Hepburn utan diakritiska tecken.
   751 är en berättelse), pesten på 1300-talet reste samma väg (skriv "a
   great plague", setet namnges inte), Mongolfreden på 1200-talet,
   Samarkand, Buchara, Kashgar, oaserna och kamelerna, grottorna vid
-  Dunhuang och biblioteksgrottan som öppnades 1900 och tömdes av europeiska
-  forskare 1907 (sakligt, känsligt i Kina), sjövägarna som tog över på
+  Dunhuang och biblioteksgrottan som öppnades 1900 och vars handskrifter europeiska
+  forskare köpte ut från 1907 (Stein 1907, Pelliot 1908, resten fördes till
+  Peking 1910; sakligt, känsligt i Kina), sjövägarna som tog över på
   1500-talet. Universitet: begreppets historia, "vägar" i plural,
   namnet som politik i dag nämns neutralt eller inte alls. Fångar: "Silk
   Road", "Silk Route", "silk roads"; ordet "silk" ensamt är tillåtet.
@@ -943,7 +944,7 @@ pinyin respektive Hepburn utan diakritiska tecken.
   skeppens längd är omtvistad (skriv "some old records say the biggest
   ships were as long as a football field, but many historians doubt it"),
   Sydostasien, Calicut i Indien, Hormuz, Arabien, Östafrikas kust med
-  Malindi och Mogadishu, giraffen till Peking 1415, gåvor och tributdiplomati
+  Malindi och Mogadishu, giraffen till hovet i Nanjing 1414-1415, gåvor och tributdiplomati
   snarare än erövring, men strid på Sri Lanka 1411 och på Sumatra, efter
   Yongles död upphörde resorna, kejsarens lärda ämbetsmän ansåg dem för dyra,
   havsförbud, han dog omkring 1433, troligen till sjöss. Universitet:
