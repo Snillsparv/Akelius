@@ -8,10 +8,10 @@
         "Vägen X är inte en enda väg.",
         "Den är många vägar som binds samman, som en lång kedja.",
         "Vägarna börjar i en stor stad i Kina och går västerut.",
-        "Kameler bär mjukt, glänsande tyg som kallas siden, från Kina.",
+        "Från Kina bär kameler ett mjukt, glänsande tyg som kallas siden.",
         "Tyget kommer från små maskar som äter blad och spinner tråd.",
         "Länge känner bara Kina till hemligheten.",
-        "Handelsmän tar med hästar, glas och andra varor tillbaka åt andra hållet.",
+        "Handelsmän tar med sig hästar, glas och andra varor tillbaka åt andra hållet.",
         "Små städer längs vägarna blir rika vid kanten av öknen.",
         "Dessa oasstäder ger resenärer vatten, mat och en plats att vila på."
       ],
@@ -46,14 +46,14 @@
     {
       "title": "Ett sändebud öppnar vägen västerut",
       "text_sentences": [
-        "Vägen X växer till ett viktigt nätverk för omkring två tusen år sedan.",
+        "Vägen X växer till ett viktigt nätverk för omkring tvåtusen år sedan.",
         "Ett kinesiskt sändebud vid namn Zhang Qian reser västerut omkring år 138 f.Kr.",
         "Hans långa resa hjälper till att öppna en säkrare väg mellan öst och väst.",
         "Handelsmän börjar sina resor i stora städer som Chang'an i Kina.",
         "Sidentyg går från handelsman till handelsman, tusentals kilometer mot väster.",
         "Under resan bär handelsmän också järnverktyg och polerade bronsspeglar.",
         "På väg österut för andra handelsmän med sig hästar, glas, ull och guld.",
-        "Rika städer som Samarkand och Buchara växer längs mitten av vägarna.",
+        "Rika städer som Samarkand och Buchara växer fram längs vägarnas mittersta del.",
         "Rika människor långt borta i Rom betalar höga priser för sidentyg.",
         "Vissa romerska författare klagar till och med på att siden kostar riket för mycket guld."
       ],
@@ -90,15 +90,15 @@
       "text_sentences": [
         "Siden och andra varor reser längs vägen X, men idéer reser också.",
         "Buddhismen sprider sig från Indien till Kina längs just dessa vägar.",
-        "Munkar bär heliga texter och läror tillsammans med handelskaravaner.",
+        "Munkar för med sig heliga texter och läror tillsammans med handelskaravaner.",
         "Åt andra hållet reser konsten att göra papper sakta västerut.",
         "En berättelse säger att kinesiska pappersmakare tas till fånga efter ett slag långt väster om Kina.",
-        "Via Samarkand når den nya konsten att göra papper till slut den vidare världen.",
+        "Via Samarkand når den nya konsten att göra papper till slut ut till den övriga världen.",
         "Djupt i öknen nära Dunhuang hugger munkar ut hundratals grottor i en klippa.",
         "Inuti täcker målare väggarna med färgglada scener under många århundraden.",
         "En försluten grotta, full av gamla handskrifter, förblir gömd och bortglömd i omkring niohundra år.",
-        "En vaktmästare och hans arbetare öppnar denna gömda grotta igen år 1900.",
-        "Från 1907 köper forskare från Europa tusentals av handskrifterna och för bort dem, och resten går till Peking 1910."
+        "En man som sköter om grottorna och hans arbetare öppnar denna gömda grotta igen år 1900.",
+        "Från år 1907 köper forskare från Europa tusentals av handskrifterna och för bort dem, och resten förs till Peking 1910."
       ],
       "question": "Vilken väg är vägen X?",
       "options": [
@@ -110,7 +110,7 @@
       "words": [
         {
           "word": "helig",
-          "explanation": "sedd som helig och behandlad med stor respekt"
+          "explanation": "som hör till en religion och behandlas med stor respekt"
         },
         {
           "word": "handskrifter",
@@ -122,7 +122,7 @@
         },
         {
           "word": "hugga ut",
-          "explanation": "att hugga ut former i sten, trä eller berg"
+          "explanation": "att skära eller knacka fram former i sten, trä eller berg"
         }
       ],
       "main_caption": "Munkar går mot grottor uthuggna i en avlägsen ökenklippa.",
@@ -132,13 +132,13 @@
       "title": "Fred, en resenär och en stor pest",
       "text_sentences": [
         "På 1200-talet tar mongoliska härskare kontroll över stora delar av vägen X.",
-        "I omkring hundra år, på 1200- och 1300-talet, håller en enda härskarfamilj hela vägen säker.",
+        "I omkring hundra år, under 1200-talet och 1300-talet, håller en enda härskarfamilj hela vägen säker.",
         "Under deras starka styre för handelsmän siden, papper och målat lergods säkrare än förut.",
         "En handelsman vid namn Marco Polo reser dessa vägar ända till Kina.",
-        "Senare berättar han historier om undren han såg på sin resa.",
+        "Senare berättar han historier om de under han såg på sin resa.",
         "Många läsare i Europa tycker att hans historier är svåra att tro på.",
-        "På 1300-talet reser också en stor pest västerut längs dessa vägar.",
-        "Under samma år, omkring 1347, sprider den sig från Asien till Mellanöstern och till Europa.",
+        "På 1300-talet färdas också en stor pest västerut längs dessa vägar.",
+        "Under dessa år, omkring 1347, sprider den sig från Asien till Mellanöstern och vidare till Europa.",
         "Pesten dödar en stor andel av de människor den når.",
         "Omkring år 1500 hittar sjömän nya sjövägar mellan öst och väst.",
         "Sakta för skepp mer last än de gamla vägarna på land."
@@ -165,7 +165,7 @@
         },
         {
           "word": "sjövägar",
-          "explanation": "vägar eller leder som leder från en plats till en annan över havet"
+          "explanation": "vägar över havet som går från en plats till en annan"
         }
       ],
       "main_caption": "Under en lång fred vilar resenärer från många folk tryggt tillsammans.",
@@ -181,7 +181,7 @@
         "Hans nya ord knyter samman många olika vägar under en enda idé.",
         "Vissa historiker hävdar i dag att vägen X aldrig egentligen var en enda väg.",
         "De föredrar att säga vägar, i plural, som sträcker sig över många århundraden och kulturer.",
-        "Andra tycker ändå att det enkla, enhetliga namnet är användbart för undervisning och skrivande.",
+        "Andra tycker ändå att ett enda, enkelt namn är användbart för undervisning och skrivande.",
         "Varor, idéer, sjukdomar och människor rörde sig alla längs dessa vägar under mycket lång tid.",
         "I dag lever samma gamla namn också ett livligt politiskt liv inom modern handel och diplomati."
       ],

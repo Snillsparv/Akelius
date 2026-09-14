@@ -34227,6 +34227,48 @@
             "caption": "Tiny worms like these eat leaves, then spin fine white thread around themselves.",
             "shutterstock_query": "silkworms mulberry leaves cocoons wooden tray closeup natural historical",
             "ai_prompt": "Vertical photorealistic close-up of several pale silkworms feeding on fresh green mulberry leaves inside a simple plain wooden tray, one or two white oval cocoons resting beside them, no loose thread, warm natural daylight from one side, calm still mood, no hands, no people, no modern containers; no labels, no writing of any kind, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En väg gjord av många vägar",
+            "text_sentences": [
+              "Vägen X är inte en enda väg.",
+              "Den är många vägar som binds samman, som en lång kedja.",
+              "Vägarna börjar i en stor stad i Kina och går västerut.",
+              "Från Kina bär kameler ett mjukt, glänsande tyg som kallas siden.",
+              "Tyget kommer från små maskar som äter blad och spinner tråd.",
+              "Länge känner bara Kina till hemligheten.",
+              "Handelsmän tar med sig hästar, glas och andra varor tillbaka åt andra hållet.",
+              "Små städer längs vägarna blir rika vid kanten av öknen.",
+              "Dessa oasstäder ger resenärer vatten, mat och en plats att vila på."
+            ],
+            "question": "Vilken väg är vägen X?",
+            "options": [
+              "Bärnstensvägen",
+              "Sidenvägen",
+              "Rökelsevägen",
+              "Grand Trunk Road"
+            ],
+            "correct": "Sidenvägen",
+            "words": [
+              {
+                "word": "siden",
+                "explanation": "ett mjukt, glänsande tyg gjort av mycket fin tråd"
+              },
+              {
+                "word": "oas",
+                "explanation": "en grön, fuktig plats med vatten mitt i en torr öken"
+              },
+              {
+                "word": "handelsmän",
+                "explanation": "människor vars jobb är att köpa och sälja varor"
+              },
+              {
+                "word": "spinna",
+                "explanation": "att snurra något runt och runt för att göra en lång tråd"
+              }
+            ],
+            "main_caption": "En lång rad kameler bär mjukt tyg mot väster.",
+            "side_caption": "Små maskar som dessa äter blad och spinner sedan fin, vit tråd runt sig själva."
           }
         },
         {
@@ -34282,6 +34324,49 @@
             "caption": "Far away in Rome, wealthy buyers pay a high price for this fine cloth.",
             "shutterstock_query": "roman market stall fine cloth wealthy woman historical illustration",
             "ai_prompt": "Vertical photorealistic illustration of a shaded Roman market stall in the first century, a wealthy Roman woman in a fine draped gown examining a length of smooth shimmering cloth held up by a merchant in a plain tunic, other folded cloth resting on a wooden table beside them, warm Mediterranean daylight, accurate Roman period dress and setting, calm dignified mood; no readable inscriptions, no coins with visible markings, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett sändebud öppnar vägen västerut",
+            "text_sentences": [
+              "Vägen X växer till ett viktigt nätverk för omkring tvåtusen år sedan.",
+              "Ett kinesiskt sändebud vid namn Zhang Qian reser västerut omkring år 138 f.Kr.",
+              "Hans långa resa hjälper till att öppna en säkrare väg mellan öst och väst.",
+              "Handelsmän börjar sina resor i stora städer som Chang'an i Kina.",
+              "Sidentyg går från handelsman till handelsman, tusentals kilometer mot väster.",
+              "Under resan bär handelsmän också järnverktyg och polerade bronsspeglar.",
+              "På väg österut för andra handelsmän med sig hästar, glas, ull och guld.",
+              "Rika städer som Samarkand och Buchara växer fram längs vägarnas mittersta del.",
+              "Rika människor långt borta i Rom betalar höga priser för sidentyg.",
+              "Vissa romerska författare klagar till och med på att siden kostar riket för mycket guld."
+            ],
+            "question": "Vilken väg är vägen X?",
+            "options": [
+              "Sidenvägen",
+              "Tehästvägen",
+              "Kungsvägen",
+              "Transsaharavägen"
+            ],
+            "correct": "Sidenvägen",
+            "words": [
+              {
+                "word": "sändebud",
+                "explanation": "en person som skickas av en härskare för att tala eller resa i officiella ärenden"
+              },
+              {
+                "word": "nätverk",
+                "explanation": "en samling vägar eller stigar som binder samman och korsar varandra"
+              },
+              {
+                "word": "rike",
+                "explanation": "många länder och folk som styrs av en och samma regering"
+              },
+              {
+                "word": "rik",
+                "explanation": "att ha mycket pengar eller värdefulla saker"
+              }
+            ],
+            "main_caption": "Handelsmän från öst och väst möts i en livlig marknadsstad längs vägen.",
+            "side_caption": "Långt borta i Rom betalar rika köpare ett högt pris för detta fina tyg."
           }
         },
         {
@@ -34338,6 +34423,50 @@
             "caption": "Old rolled manuscripts like these stay hidden in a sealed cave for centuries.",
             "shutterstock_query": "closed ancient scrolls stone niche dim light historical illustration",
             "ai_prompt": "Vertical photorealistic illustration of a dim stone niche holding a stack of closed, rolled manuscript scrolls on a low wooden shelf, plain unmarked covers, medieval Chinese paper and silk scroll design, soft light falling from an unseen opening above, quiet still mood, no people, no modern lighting; no visible writing, no characters, no pseudo-writing, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Idéer reser längs vägen",
+            "text_sentences": [
+              "Siden och andra varor reser längs vägen X, men idéer reser också.",
+              "Buddhismen sprider sig från Indien till Kina längs just dessa vägar.",
+              "Munkar för med sig heliga texter och läror tillsammans med handelskaravaner.",
+              "Åt andra hållet reser konsten att göra papper sakta västerut.",
+              "En berättelse säger att kinesiska pappersmakare tas till fånga efter ett slag långt väster om Kina.",
+              "Via Samarkand når den nya konsten att göra papper till slut ut till den övriga världen.",
+              "Djupt i öknen nära Dunhuang hugger munkar ut hundratals grottor i en klippa.",
+              "Inuti täcker målare väggarna med färgglada scener under många århundraden.",
+              "En försluten grotta, full av gamla handskrifter, förblir gömd och bortglömd i omkring niohundra år.",
+              "En man som sköter om grottorna och hans arbetare öppnar denna gömda grotta igen år 1900.",
+              "Från år 1907 köper forskare från Europa tusentals av handskrifterna och för bort dem, och resten förs till Peking 1910."
+            ],
+            "question": "Vilken väg är vägen X?",
+            "options": [
+              "Kryddvägen",
+              "Kungens landsväg",
+              "Bärnstensvägen",
+              "Sidenvägen"
+            ],
+            "correct": "Sidenvägen",
+            "words": [
+              {
+                "word": "helig",
+                "explanation": "som hör till en religion och behandlas med stor respekt"
+              },
+              {
+                "word": "handskrifter",
+                "explanation": "gamla böcker eller texter skrivna för hand"
+              },
+              {
+                "word": "forskare",
+                "explanation": "människor som studerar och lär sig ett ämne mycket djupt"
+              },
+              {
+                "word": "hugga ut",
+                "explanation": "att skära eller knacka fram former i sten, trä eller berg"
+              }
+            ],
+            "main_caption": "Munkar går mot grottor uthuggna i en avlägsen ökenklippa.",
+            "side_caption": "Gamla, hoprullade handskrifter som dessa förblir gömda i en försluten grotta i århundraden."
           }
         },
         {
@@ -34394,6 +34523,50 @@
             "caption": "Later, ships like this one carry cargo across the sea instead of the old roads.",
             "shutterstock_query": "arab dhow lateen sail indian ocean cargo bales historical illustration",
             "ai_prompt": "Vertical photorealistic illustration of an Arab dhow with a single large lateen sail and a curved wooden hull crossing the open Indian Ocean around the year 1500, cloth bales and clay jars lashed on its deck, sailors in long robes and turbans of the early sixteenth century at work, calm determined mood, accurate early 1500s dhow design; no cargo crates, no flags, no ship name, no nineteenth-century clipper, no steamship, no European galleon, no modern vessels, no readable markings, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Fred, en resenär och en stor pest",
+            "text_sentences": [
+              "På 1200-talet tar mongoliska härskare kontroll över stora delar av vägen X.",
+              "I omkring hundra år, under 1200-talet och 1300-talet, håller en enda härskarfamilj hela vägen säker.",
+              "Under deras starka styre för handelsmän siden, papper och målat lergods säkrare än förut.",
+              "En handelsman vid namn Marco Polo reser dessa vägar ända till Kina.",
+              "Senare berättar han historier om de under han såg på sin resa.",
+              "Många läsare i Europa tycker att hans historier är svåra att tro på.",
+              "På 1300-talet färdas också en stor pest västerut längs dessa vägar.",
+              "Under dessa år, omkring 1347, sprider den sig från Asien till Mellanöstern och vidare till Europa.",
+              "Pesten dödar en stor andel av de människor den når.",
+              "Omkring år 1500 hittar sjömän nya sjövägar mellan öst och väst.",
+              "Sakta för skepp mer last än de gamla vägarna på land."
+            ],
+            "question": "Vilken väg är vägen X?",
+            "options": [
+              "Rökelsevägen",
+              "Grand Trunk Road",
+              "Sidenvägen",
+              "Tehästvägen"
+            ],
+            "correct": "Sidenvägen",
+            "words": [
+              {
+                "word": "handelsmän",
+                "explanation": "människor som köper och säljer varor, ofta över långa avstånd"
+              },
+              {
+                "word": "last",
+                "explanation": "varor som fraktas med ett skepp, en lastbil eller ett annat fordon"
+              },
+              {
+                "word": "pest",
+                "explanation": "en mycket allvarlig sjukdom som sprids snabbt och dödar många människor"
+              },
+              {
+                "word": "sjövägar",
+                "explanation": "vägar över havet som går från en plats till en annan"
+              }
+            ],
+            "main_caption": "Under en lång fred vilar resenärer från många folk tryggt tillsammans.",
+            "side_caption": "Senare för skepp som detta last över havet i stället för de gamla vägarna."
           }
         },
         {
@@ -34449,9 +34622,53 @@
             "caption": "Scholars write many books, and one simple name spreads through them all.",
             "shutterstock_query": "antique leather bound books shelf closed no titles lamp light still life",
             "ai_prompt": "Vertical photorealistic still life of a wooden shelf of closed leather-bound books from the 1800s, some standing with plain unlettered leather spines and some lying flat with their page edges facing out, seen at a slight angle in warm lamp light, calm reflective mood; no lettering on any spine, no gilt titles, no readable text, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett namn för många vägar",
+            "text_sentences": [
+              "Historiker använder inte alltid ett enda namn för vägen X.",
+              "I århundraden talar resenärer och handelsmän bara om enskilda vägar och handelsplatser.",
+              "År 1877 uppfinner en tysk forskare vid namn Ferdinand von Richthofen ett nytt namn för hela nätverket.",
+              "Han döper nätverket efter den mest kända varan som fraktas längs det, siden.",
+              "Hans nya ord knyter samman många olika vägar under en enda idé.",
+              "Vissa historiker hävdar i dag att vägen X aldrig egentligen var en enda väg.",
+              "De föredrar att säga vägar, i plural, som sträcker sig över många århundraden och kulturer.",
+              "Andra tycker ändå att ett enda, enkelt namn är användbart för undervisning och skrivande.",
+              "Varor, idéer, sjukdomar och människor rörde sig alla längs dessa vägar under mycket lång tid.",
+              "I dag lever samma gamla namn också ett livligt politiskt liv inom modern handel och diplomati."
+            ],
+            "question": "Vilken väg är vägen X?",
+            "options": [
+              "Sidenvägen",
+              "Kungsvägen",
+              "Kryddvägen",
+              "Kungens landsväg"
+            ],
+            "correct": "Sidenvägen",
+            "words": [
+              {
+                "word": "uppfinna",
+                "explanation": "att hitta på eller skapa något nytt"
+              },
+              {
+                "word": "plural",
+                "explanation": "en ordform som visar att det finns fler än en"
+              },
+              {
+                "word": "diplomati",
+                "explanation": "försiktiga samtal mellan länder för att lösa problem fredligt"
+              },
+              {
+                "word": "forskare",
+                "explanation": "en person som studerar ett ämne mycket djupt"
+              }
+            ],
+            "main_caption": "I en föreläsningssal i Europa ger en forskare de gamla vägarna ett nytt namn.",
+            "side_caption": "Forskare skriver många böcker, och ett enkelt namn sprids genom dem alla."
           }
         }
-      ]
+      ],
+      "person_sv": "Sidenvägen"
     },
     {
       "slug": "ashoka",
@@ -34512,6 +34729,51 @@
             "caption": "A stone well and a shady tree welcome tired travelers.",
             "shutterstock_query": "ancient stone well banyan tree road india illustration",
             "ai_prompt": "Photorealistic illustration of a plain stone well beneath a large banyan tree beside a dusty road in third-century BC India, a leather bucket resting on the well's rim with its rope still swinging, a wooden bullock cart and tiny distant brown-skinned South Asian travelers in plain cotton dhotis and shawls far in the background, warm daylight, no modern objects, no readable marks anywhere, no flags, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En kejsare som slutar strida",
+            "text_sentences": [
+              "Kejsar X styr ett stort rike i Indien.",
+              "Han lever för mer än 2 000 år sedan.",
+              "Hans familj byggde upp detta rike två generationer före honom.",
+              "Kejsar X vill göra sitt rike ännu större.",
+              "Han skickar sin armé för att anfalla ett fritt land i närheten.",
+              "Kriget är fruktansvärt, och många människor dör.",
+              "Efteråt känner kejsar X en djup, tung sorg.",
+              "Han bestämmer sig för att aldrig föra ett sådant krig igen.",
+              "Han väljer ett nytt sätt att styra.",
+              "Han låter gräva brunnar längs vägarna, för rent vatten.",
+              "Han låter plantera skuggträd åt trötta resenärer.",
+              "Han låter sjuka få vård, både människor och djur."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Chandragupta Maurya",
+              "Ashoka",
+              "Harsha",
+              "Kanishka"
+            ],
+            "correct": "Ashoka",
+            "words": [
+              {
+                "word": "rike",
+                "explanation": "en stor grupp länder och folk som styrs av en enda härskare"
+              },
+              {
+                "word": "sorg",
+                "explanation": "en stark känsla av att vara ledsen"
+              },
+              {
+                "word": "brunnar",
+                "explanation": "djupa hål som grävs i marken för att nå vatten"
+              },
+              {
+                "word": "resenärer",
+                "explanation": "personer som reser, som är på väg från en plats till en annan"
+              }
+            ],
+            "main_caption": "Efter ett fruktansvärt krig ligger slagfältet tyst och tomt.",
+            "side_caption": "En stenbrunn och ett skuggigt träd välkomnar trötta resenärer."
           }
         },
         {
@@ -34568,6 +34830,50 @@
             "caption": "Workers raise a tall stone pillar beside the road.",
             "shutterstock_query": "ancient workers raising stone pillar ropes scaffold oxen india illustration",
             "ai_prompt": "Photorealistic vertical image of brown-skinned South Asian workers in plain cotton dhotis raising a tall polished sandstone pillar with thick ropes, a wooden scaffold and two oxen beside a dusty road in third-century BC India, seen from a distance with faces turned away, the pillar's top plain and rounded with no lion figure and no wheel shape, warm daylight, ropes and wooden poles only, no metal machinery, no flags, no modern objects, no readable marks, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ord på en klippa, efter Kalinga",
+            "text_sentences": [
+              "Kejsar X styr ett stort rike i Indien, för mer än 2 000 år sedan.",
+              "Omkring 261 f.Kr. vinner hans armé ett fruktansvärt krig i landet Kalinga.",
+              "Hans egna ord, huggna i en klippa, säger att 100 000 människor dör.",
+              "Efter detta krig vänder han sig mer och mer till Buddhas lära.",
+              "Han väljer ett nytt sätt att styra, och han kallar det dhamma, rätt sätt att leva.",
+              "Han låter hugga in sina budskap i klippor och höga stenpelare.",
+              "Arbetare sätter upp dessa budskap i hela riket, ofta vid livliga vägar.",
+              "Budskapen säger åt människor att respektera sina föräldrar, sina lärare och sina tjänare.",
+              "Särskilda ämbetsmän för dhamma reser ut för att förklara budskapen.",
+              "I många regioner hör folk hans ord läsas högt på sitt eget språk.",
+              "Långt i nordväst är vissa budskap till och med huggna på grekiska."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Samudragupta",
+              "Chandragupta II",
+              "Ashoka",
+              "Rajaraja Chola"
+            ],
+            "correct": "Ashoka",
+            "words": [
+              {
+                "word": "dhamma",
+                "explanation": "kejsarens eget ord för rätt sätt att leva och gott uppförande"
+              },
+              {
+                "word": "hugga in",
+                "explanation": "att skära djupa märken i något hårt, till exempel sten"
+              },
+              {
+                "word": "pelare",
+                "explanation": "höga, starka stenstolpar som står för sig själva"
+              },
+              {
+                "word": "regioner",
+                "explanation": "delar av ett land, eller ett stort landområde"
+              }
+            ],
+            "main_caption": "En arbetare hugger in kejsarens nya ord i hård klippa.",
+            "side_caption": "Arbetare reser en hög stenpelare vid vägen."
           }
         },
         {
@@ -34623,6 +34929,49 @@
             "caption": "A messenger carries the emperor's words to a faraway ruler.",
             "shutterstock_query": "ancient india messenger walking dusty road rear view banyan trees illustration",
             "ai_prompt": "Photorealistic vertical image of a brown-skinned South Asian messenger in a plain cotton dhoti, shawl and turban walking along a dusty road in third-century BC India carrying a rolled palm-leaf document tied with string, seen from behind, banyan trees and low hills ahead, warm morning light, the document fully rolled with no visible writing, no modern footwear, no flags, no modern objects, no readable marks, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Regler för varje tro och många djur",
+            "text_sentences": [
+              "För mer än 2 000 år sedan styr kejsar X ett stort rike i Indien.",
+              "Hans nya idéer är huggna i klippor och pelare, så att alla kan läsa dem.",
+              "Ett budskap säger: respektera människor av varje tro, inte bara din egen.",
+              "Ett annat budskap skyddar djur: många sorters djur får inte dödas.",
+              "Han säger att hans eget kök en gång dödade många djur varje dag, och nu bara två påfåglar och en hjort.",
+              "Kejsar X skickar också budbärare till härskare i avlägsna länder, långt bortom sitt eget rike.",
+              "De för med sig hans idéer om vänlighet och rätt sätt att leva.",
+              "Traditionen säger att hans egen son och dotter för Buddhas lära till Sri Lanka.",
+              "Där, säger traditionen, tar folk varmt emot den nya läran.",
+              "Genom budskap och budbärare når en förändring i en härskares hjärta långt bortom hans eget land."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Krishnadevaraya",
+              "Akbar",
+              "Ashoka",
+              "Harsha"
+            ],
+            "correct": "Ashoka",
+            "words": [
+              {
+                "word": "tro",
+                "explanation": "en religion, eller en stark övertygelse om något"
+              },
+              {
+                "word": "budbärare",
+                "explanation": "personer som skickas för att föra nyheter eller budskap till andra"
+              },
+              {
+                "word": "tradition",
+                "explanation": "en gammal berättelse eller sed, som förs vidare under lång tid"
+              },
+              {
+                "word": "skyddar",
+                "explanation": "håller något säkert från skada"
+              }
+            ],
+            "main_caption": "Nära en tyst helig plats vilar djur ostörda, och människor samlas i fred.",
+            "side_caption": "En budbärare för kejsarens ord till en avlägsen härskare."
           }
         },
         {
@@ -34681,6 +35030,52 @@
             "caption": "A magnifying glass helps a visitor study old, worn marks from stone.",
             "shutterstock_query": "magnifying glass paper rubbing desk historical illustration",
             "ai_prompt": "Photorealistic close-up of a fair-skinned hand holding a small magnifying glass over a paper rubbing on a worn wooden desk in the 1830s, the rubbing showing only faint worn abstract marks pressed from stone, never forming real letters, warm oil lamp light, no modern objects, no flags, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Tyst i 2 000 år",
+            "text_sentences": [
+              "Kejsar X:s egna ord är huggna i sten runt om i ett stort rike i Indien.",
+              "I mer än 2 000 år glömmer folk vem som skrev dem.",
+              "Under århundradena glöms till och med själva den gamla skriften bort, och ingen kan läsa den.",
+              "Klipporna och pelarna står tysta, deras mening okänd.",
+              "År 1837 läser en brittisk tjänsteman i Indien skriften igen.",
+              "Hans namn är James Prinsep, och han tyder den långsamt, bokstav för bokstav.",
+              "Plötsligt talar kejsarens egna ord igen, efter så lång tid.",
+              "Snart, med hjälp av gamla krönikor från Sri Lanka, kan historiker sätta ett namn på härskaren bakom inskrifterna.",
+              "I dag sitter ett hjul från en av hans stenpelare på Indiens flagga."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Chandragupta Maurya",
+              "Kanishka",
+              "Samudragupta",
+              "Ashoka"
+            ],
+            "correct": "Ashoka",
+            "words": [
+              {
+                "word": "tjänsteman",
+                "explanation": "en person som arbetar med ett viktigt uppdrag åt staten"
+              },
+              {
+                "word": "skrift",
+                "explanation": "ett system av tecken eller bokstäver som används för att skriva"
+              },
+              {
+                "word": "inskrifter",
+                "explanation": "ord som är skurna eller huggna i sten eller metall"
+              },
+              {
+                "word": "krönikor",
+                "explanation": "gamla böcker som beskriver händelser år för år"
+              },
+              {
+                "word": "århundraden",
+                "explanation": "tidsperioder på hundra år vardera"
+              }
+            ],
+            "main_caption": "En besökare studerar en gammal stenpelare som har stått tyst i århundraden.",
+            "side_caption": "Ett förstoringsglas hjälper en besökare att studera gamla, slitna märken i sten."
           }
         },
         {
@@ -34737,9 +35132,54 @@
             "caption": "A plain old coin is also a kind of source from the past.",
             "shutterstock_query": "ancient punch marked silver coin close up illustration",
             "ai_prompt": "Photorealistic extreme close-up of a plain ancient silver coin from third-century BC India with only small punched symbols such as a sun, hills and simple shapes, no portrait and no script, resting on a dark cloth beside a small magnifying glass, soft studio light, no modern objects, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Påbud och legender",
+            "text_sentences": [
+              "Kejsar X styr ett stort rike i Indien från sin huvudstad, Pataliputra.",
+              "Han lämnar oss två mycket olika sorters källor.",
+              "För det första hans egna påbud, huggna under hans egen livstid i klippor och pelare.",
+              "Dessa påbud berättar vad han vill att hans folk ska tro om honom.",
+              "För det andra berättar senare buddhistiska författare historier om honom, århundraden efter hans död.",
+              "Dessa berättelser prisar honom ofta och får honom att låta som en fullkomlig härskare.",
+              "Historiker ställer en svår fråga: är detta historia, eller är det propaganda?",
+              "Kanske ligger sanningen någonstans mellan äkta övertygelse och en skickligt uppbyggd bild.",
+              "Hur som helst hör hans påbud till den äldsta uttydda skriften från Indien.",
+              "I dagens Indien håller vissa rörelser fram bilden av honom som icke-våldets härskare som en förebild.",
+              "Varje gammal källa döljer en andra fråga: vem skrev detta, och vad ville han?"
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Rajaraja Chola",
+              "Ashoka",
+              "Krishnadevaraya",
+              "Chandragupta II"
+            ],
+            "correct": "Ashoka",
+            "words": [
+              {
+                "word": "påbud",
+                "explanation": "officiella order eller regler som en härskare kungör"
+              },
+              {
+                "word": "propaganda",
+                "explanation": "bilder, ord och konst som försöker styra vad människor tänker"
+              },
+              {
+                "word": "övertygelse",
+                "explanation": "en stark, ärlig tro"
+              },
+              {
+                "word": "uttydd",
+                "explanation": "som någon har lyckats läsa och förstå, fast skriften var svår eller hemlig"
+              }
+            ],
+            "main_caption": "En gammal sten och ett nyare manuskript berättar två olika sorters historier.",
+            "side_caption": "Ett enkelt gammalt mynt är också en sorts källa från det förflutna."
           }
         }
-      ]
+      ],
+      "person_sv": "Ashoka"
     },
     {
       "slug": "zheng-he",
@@ -34804,6 +35244,55 @@
             "caption": "A wonderful animal reaches the palace, and everyone wonders what it is.",
             "shutterstock_query": "giraffe palace courtyard ming dynasty historical illustration",
             "ai_prompt": "Photorealistic wide shot inside a spacious stone-paved palace courtyard in early fifteenth-century China: a tall spotted giraffe stands calmly, watched from a respectful distance by a small group of Ming court officials in fine silk robes with tall black gauze hats, soft morning light, wonder-filled mood; early Ming dynasty court dress and architecture; no Chinese characters, no calligraphy, no pseudo-writing, no flags, no modern objects, no recognisable faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Pojken som leder en jättelik flotta",
+            "text_sentences": [
+              "Amiral X föds för ungefär sexhundra år sedan i sydvästra Kina.",
+              "Hans hem ligger i bergen, i en region som heter Yunnan.",
+              "Soldater för bort honom när han är pojke.",
+              "Han skickas för att tjäna vid en prins hov.",
+              "Han växer upp klok och lång, och prinsen litar på honom.",
+              "Senare blir denna prins kejsare och ger honom ett stort uppdrag.",
+              "Amiral X leder en flotta av enorma träskepp.",
+              "Källor säger att de hör till de största skepp som någonsin har byggts.",
+              "Flottan seglar till Indien, Arabien och Östafrikas kust.",
+              "Den ger bort siden och porslin från Kina.",
+              "Den tar hem kryddor, juveler, rökelse, elfenben och sällsynta djur.",
+              "En gåva förvånar alla: ett högt djur med en mycket lång hals."
+            ],
+            "question": "Vem är amiral X?",
+            "options": [
+              "Marco Polo",
+              "Christofer Columbus",
+              "Zheng He",
+              "Ferdinand Magellan"
+            ],
+            "correct": "Zheng He",
+            "words": [
+              {
+                "word": "flotta",
+                "explanation": "en stor grupp skepp som seglar tillsammans"
+              },
+              {
+                "word": "kejsare",
+                "explanation": "en mäktig härskare över ett helt land, som det gamla Kina"
+              },
+              {
+                "word": "porslin",
+                "explanation": "en hård, tunn och vit sorts keramik"
+              },
+              {
+                "word": "rökelse",
+                "explanation": "ett material som sprider en söt doft när det bränns"
+              },
+              {
+                "word": "elfenben",
+                "explanation": "det hårda vita materialet från en elefants bete"
+              }
+            ],
+            "main_caption": "Enorma skepp väntar i en tyst vik i gryningen, redo att segla långt bort.",
+            "side_caption": "Ett underbart djur når palatset, och alla undrar vad det är."
           }
         },
         {
@@ -34861,6 +35350,51 @@
             "caption": "Ivory from the coast of East Africa is weighed before it sails to China.",
             "shutterstock_query": "historical ship deck balance scale elephant tusks african trader chinese sailor illustration",
             "ai_prompt": "Photorealistic vertical image on the broad wooden deck of a large early fifteenth-century Chinese treasure ship anchored off the coast of East Africa: a Chinese sailor in a plain cotton robe and a Black East African trader in a period cloth wrap weigh two elephant tusks on a plain wooden balance scale, both seen from behind, a coral-stone town small on the shore beyond, warm coastal light, calm dignified mood; early fifteenth-century Chinese and East African coastal dress, plain wood and rope scale; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no modern objects, no recognisable faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Sju resor över Indiska oceanen",
+            "text_sentences": [
+              "Amiral X leder sju stora sjöresor mellan 1405 och 1433.",
+              "Varje gång seglar han från Kina med en enorm flotta av träskepp.",
+              "Dåtidens källor säger att de största flottorna har mer än sextio stora skepp.",
+              "De för med sig ungefär 27 000 man.",
+              "Skeppen har med sig soldater, sjömän, läkare, tolkar och till och med astrologer.",
+              "Flottan seglar söderut genom Sydostasiens hav, och sedan västerut över Indiska oceanen.",
+              "Den når livliga hamnar i Indien, där köpmän handlar med peppar och bomullstyg.",
+              "Därifrån seglar några skepp vidare till Arabien och Persiska viken.",
+              "Andra skepp följer Östafrikas kust och stannar i städer som handlar med guld och elfenben.",
+              "Vid varje hamn ger amiral X gåvor av siden och porslin i kejsarens namn.",
+              "I gengäld skickar lokala härskare gåvor tillbaka till Kina, bland annat ädelstenar och sällsynta träslag.",
+              "Kejsaren vill ha respekt och handel, inte nytt land att styra över."
+            ],
+            "question": "Vem är amiral X?",
+            "options": [
+              "Vasco da Gama",
+              "Zheng He",
+              "Xu Fu",
+              "Ibn Battuta"
+            ],
+            "correct": "Zheng He",
+            "words": [
+              {
+                "word": "tolkar",
+                "explanation": "personer vars jobb är att föra över ord från ett språk till ett annat"
+              },
+              {
+                "word": "astrologer",
+                "explanation": "personer som studerar stjärnorna och tror att de kan förutsäga framtiden"
+              },
+              {
+                "word": "elfenben",
+                "explanation": "det hårda vita materialet från en elefants bete"
+              },
+              {
+                "word": "porslin",
+                "explanation": "en hård, tunn och vit sorts keramik"
+              }
+            ],
+            "main_caption": "Köpmän handlar i en livlig hamn, medan höga skepp från fjärran väntar utanför kusten.",
+            "side_caption": "Elfenben från Östafrikas kust vägs innan det seglar till Kina."
           }
         },
         {
@@ -34918,6 +35452,51 @@
             "caption": "A defeated local ruler is taken aboard a ship, bound for a distant court.",
             "shutterstock_query": "historical ruler escorted gangplank ship dawn illustration respectful",
             "ai_prompt": "Photorealistic vertical image at dawn: a local Southeast Asian ruler in fine wrapped cloth walks up a wooden gangplank onto a large early fifteenth-century Chinese treasure ship between two calm guards in plain armor, his hands free and his head held high, seen mostly from behind, soft early light, solemn respectful mood; no rope, no chains, no restraints, no violence, no distress visible, no faces in clear focus; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no modern ships, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Strider på två öar och en piratflotta",
+            "text_sentences": [
+              "Amiral X tjänar en ny kejsare som tar tronen i Kina år 1402, efter många års inbördeskrig.",
+              "Kejsaren vill att världen ska känna till Kinas makt och rikedom.",
+              "En senare historiebok säger att han också vill ha skepp som bevakar haven, ifall en rival gömmer sig utomlands.",
+              "Denna rival är kejsarens egen brorson, som han hade störtat från tronen.",
+              "Han utser amiral X att leda stora flottor över haven västerut.",
+              "De flesta hamnar välkomnar flottan med gåvor och öppna marknader.",
+              "På vägen hem från den första resan, år 1407, besegrar flottan en stor piratflotta nära Sumatra.",
+              "Handelsmän i dessa hav kan nu segla säkrare.",
+              "Men år 1411, på ön Sri Lanka, vänder sig en lokal härskare mot sjömännen.",
+              "Amiral X och hans soldater strider och tar honom till fånga, och skickar honom sedan till kejsarens hov.",
+              "Några år senare, på ön Sumatra, angriper en annan lokal härskare flottan.",
+              "Återigen slår amiral X och hans män tillbaka och besegrar honom."
+            ],
+            "question": "Vem är amiral X?",
+            "options": [
+              "Faxian",
+              "Zhang Qian",
+              "Marco Polo",
+              "Zheng He"
+            ],
+            "correct": "Zheng He",
+            "words": [
+              {
+                "word": "tron",
+                "explanation": "den speciella stolen, och makten, hos en kung eller kejsare"
+              },
+              {
+                "word": "rival",
+                "explanation": "en person som tävlar mot dig om makt eller en belöning"
+              },
+              {
+                "word": "ta till fånga",
+                "explanation": "att gripa en person och hålla honom som fånge"
+              },
+              {
+                "word": "pirat",
+                "explanation": "en person som anfaller och rånar skepp till sjöss"
+              }
+            ],
+            "main_caption": "En ny kejsare ger en betrodd man ett mycket stort uppdrag.",
+            "side_caption": "En besegrad lokal härskare förs ombord på ett skepp, på väg till ett avlägset hov."
           }
         },
         {
@@ -34974,6 +35553,50 @@
             "caption": "Grain moving along the canals matters more to the court than ships at sea.",
             "shutterstock_query": "historic china canal grain barge dock workers illustration",
             "ai_prompt": "Photorealistic vertical image of workers loading heavy sacks of grain onto a long flat river barge at a busy early Ming dynasty inland canal dock, stone warehouses lining the bank behind them, early morning mist over the water, calm industrious mood; early fifteenth-century Chinese dress and dock equipment; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no readable signs, no modern equipment, no recognisable faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Varför de stora flottorna slutar segla",
+            "text_sentences": [
+              "Amiral X leder sin sista stora resa i början av 1430-talet.",
+              "Vid den tiden har kejsaren som först skickade honom till sjöss varit död i flera år.",
+              "Nya kejsare sitter på tronen, och deras lärda ämbetsmän ger dem råd.",
+              "Dessa ämbetsmän skriver och klarar rikets svåraste prov, och de sköter rikets styre.",
+              "De ser de enorma flottorna som mycket kostsamma och till liten verklig nytta för riket.",
+              "Säd till huvudstaden och soldater till norra gränsen betyder mer, menar de, än gåvor från avlägsna länder.",
+              "En del handlingar om resorna går senare förlorade eller förstörs vid hovet.",
+              "Efter amiral X seglar inga fler jättelika flottor från Kina.",
+              "Senare begränsar nya lagar storleken på skepp som får lämna kusten.",
+              "Amiral X själv dör omkring 1433, kanske långt hemifrån på den sista resan.",
+              "En tradition säger att hans kläder och mössa ligger i graven i Nanjing."
+            ],
+            "question": "Vem är amiral X?",
+            "options": [
+              "Zheng He",
+              "Yi Sun-sin",
+              "Vasco da Gama",
+              "Christofer Columbus"
+            ],
+            "correct": "Zheng He",
+            "words": [
+              {
+                "word": "lärda ämbetsmän",
+                "explanation": "högt utbildade män som klarar svåra prov och sköter rikets styre"
+              },
+              {
+                "word": "säd",
+                "explanation": "frön av vete, ris eller majs som används som mat"
+              },
+              {
+                "word": "kostsam",
+                "explanation": "dyr, kostar mycket pengar"
+              },
+              {
+                "word": "handlingar",
+                "explanation": "gamla papper som beskriver vad som hänt"
+              }
+            ],
+            "main_caption": "Ett skeppsvarv som en gång byggde jättar tystnar nu.",
+            "side_caption": "Säd som fraktas längs kanalerna betyder mer för hovet än skepp till sjöss."
           }
         },
         {
@@ -35031,9 +35654,55 @@
             "caption": "Stone tablets like this one still record the fleet's visits to faraway harbors.",
             "shutterstock_query": "old stone tablet stele harbor garden side view coastal cliffs illustration",
             "ai_prompt": "Photorealistic vertical image of a tall stone tablet on a carved stone base standing in an old harbor garden by the sea, seen from the side and slightly behind at a distance so its carved face is turned away from the viewer, pale coastal cliffs and grey sea beyond, soft overcast light, quiet timeless mood; no legible characters, no calligraphy, no pseudo-writing, no flags, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Hur stora var skeppen, egentligen?",
+            "text_sentences": [
+              "Historiker studerar amiral X med hjälp av flera sorters gamla källor.",
+              "Mingdynastins regeringshandlingar listar flottorna, deras kaptener och deras rutter.",
+              "Några män som seglar med flottan skriver senare ner vad de ser.",
+              "En sten vid hans fars grav säger att hans familj följer islam.",
+              "Stentavlor från vissa hamnar dokumenterar också flottans besök.",
+              "Dessa källor är inte helt överens om storleken på de största skeppen.",
+              "Vissa gamla källor säger att de största skeppen var lika långa som en fotbollsplan, men många historiker tvivlar på det.",
+              "Trä och byggnadsteknik från den tiden, menar de, gör så stora skepp svåra att segla säkert.",
+              "År 2002 hävdar en författare i en populär bok att flottan når Amerika.",
+              "Fackhistoriker avvisar detta påstående, eftersom det inte vilar på några verkliga bevis.",
+              "Samtidigt slutar Kina skicka stora flottor utomlands, medan europeiska kungariken börjar skicka små skepp allt längre och längre hemifrån.",
+              "Historiker debatterar fortfarande varför de två vägarna skiljer sig åt så tydligt."
+            ],
+            "question": "Vem är amiral X?",
+            "options": [
+              "Xu Fu",
+              "Faxian",
+              "Zheng He",
+              "Ibn Battuta"
+            ],
+            "correct": "Zheng He",
+            "words": [
+              {
+                "word": "stentavla",
+                "explanation": "en platt bit sten med ord inhuggna eller skrivna på"
+              },
+              {
+                "word": "bevis",
+                "explanation": "fakta som hjälper till att bevisa att något är sant"
+              },
+              {
+                "word": "skilja sig åt",
+                "explanation": "att gå isär och ta olika riktningar"
+              },
+              {
+                "word": "byggnadsteknik",
+                "explanation": "konsten att designa och bygga stora konstruktioner, som skepp eller broar"
+              }
+            ],
+            "main_caption": "Hur stora var skeppen, egentligen? Historiker mäter och jämför noggrant.",
+            "side_caption": "Stentavlor som denna dokumenterar fortfarande flottans besök i avlägsna hamnar."
           }
         }
-      ]
+      ],
+      "person_sv": "Zheng He"
     },
     {
       "slug": "qin-shi-huangdi",

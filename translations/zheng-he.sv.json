@@ -8,7 +8,7 @@
         "Amiral X föds för ungefär sexhundra år sedan i sydvästra Kina.",
         "Hans hem ligger i bergen, i en region som heter Yunnan.",
         "Soldater för bort honom när han är pojke.",
-        "Han skickas för att tjäna en prins vid hans hov.",
+        "Han skickas för att tjäna vid en prins hov.",
         "Han växer upp klok och lång, och prinsen litar på honom.",
         "Senare blir denna prins kejsare och ger honom ett stort uppdrag.",
         "Amiral X leder en flotta av enorma träskepp.",
@@ -32,7 +32,7 @@
         },
         {
           "word": "kejsare",
-          "explanation": "en mäktig härskare över ett helt land, som gamla Kina"
+          "explanation": "en mäktig härskare över ett helt land, som det gamla Kina"
         },
         {
           "word": "porslin",
@@ -56,7 +56,7 @@
         "Amiral X leder sju stora sjöresor mellan 1405 och 1433.",
         "Varje gång seglar han från Kina med en enorm flotta av träskepp.",
         "Dåtidens källor säger att de största flottorna har mer än sextio stora skepp.",
-        "De för med sig ungefär tjugosjutusen man.",
+        "De för med sig ungefär 27 000 man.",
         "Skeppen har med sig soldater, sjömän, läkare, tolkar och till och med astrologer.",
         "Flottan seglar söderut genom Sydostasiens hav, och sedan västerut över Indiska oceanen.",
         "Den når livliga hamnar i Indien, där köpmän handlar med peppar och bomullstyg.",
@@ -99,16 +99,16 @@
       "text_sentences": [
         "Amiral X tjänar en ny kejsare som tar tronen i Kina år 1402, efter många års inbördeskrig.",
         "Kejsaren vill att världen ska känna till Kinas makt och rikedom.",
-        "En senare historia säger att han också vill ha skepp som bevakar haven, ifall en rival gömmer sig utomlands.",
-        "Denna rival är kejsarens egen nevö, som han hade trängt undan från tronen.",
-        "Han väljer amiral X att leda stora flottor över haven västerut.",
+        "En senare historiebok säger att han också vill ha skepp som bevakar haven, ifall en rival gömmer sig utomlands.",
+        "Denna rival är kejsarens egen brorson, som han hade störtat från tronen.",
+        "Han utser amiral X att leda stora flottor över haven västerut.",
         "De flesta hamnar välkomnar flottan med gåvor och öppna marknader.",
         "På vägen hem från den första resan, år 1407, besegrar flottan en stor piratflotta nära Sumatra.",
         "Handelsmän i dessa hav kan nu segla säkrare.",
         "Men år 1411, på ön Sri Lanka, vänder sig en lokal härskare mot sjömännen.",
-        "Amiral X och hans soldater slåss och fångar honom, och skickar honom sedan till kejsarens hov.",
+        "Amiral X och hans soldater strider och tar honom till fånga, och skickar honom sedan till kejsarens hov.",
         "Några år senare, på ön Sumatra, angriper en annan lokal härskare flottan.",
-        "Igen slåss amiral X och hans män tillbaka och besegrar honom."
+        "Återigen slår amiral X och hans män tillbaka och besegrar honom."
       ],
       "question": "Vem är amiral X?",
       "options": [
@@ -127,8 +127,8 @@
           "explanation": "en person som tävlar mot dig om makt eller en belöning"
         },
         {
-          "word": "fånga",
-          "explanation": "att fånga och hålla en person som fånge"
+          "word": "ta till fånga",
+          "explanation": "att gripa en person och hålla honom som fånge"
         },
         {
           "word": "pirat",
@@ -144,7 +144,7 @@
         "Amiral X leder sin sista stora resa i början av 1430-talet.",
         "Vid den tiden har kejsaren som först skickade honom till sjöss varit död i flera år.",
         "Nya kejsare sitter på tronen, och deras lärda ämbetsmän ger dem råd.",
-        "Dessa ämbetsmän skriver och klarar rikets svåraste prov, och de sköter regeringen.",
+        "Dessa ämbetsmän skriver och klarar rikets svåraste prov, och de sköter rikets styre.",
         "De ser de enorma flottorna som mycket kostsamma och till liten verklig nytta för riket.",
         "Säd till huvudstaden och soldater till norra gränsen betyder mer, menar de, än gåvor från avlägsna länder.",
         "En del handlingar om resorna går senare förlorade eller förstörs vid hovet.",
@@ -163,7 +163,7 @@
       "words": [
         {
           "word": "lärda ämbetsmän",
-          "explanation": "högt utbildade män som klarar svåra prov och styr regeringen"
+          "explanation": "högt utbildade män som klarar svåra prov och sköter rikets styre"
         },
         {
           "word": "säd",
@@ -193,7 +193,7 @@
         "Vissa gamla källor säger att de största skeppen var lika långa som en fotbollsplan, men många historiker tvivlar på det.",
         "Trä och byggnadsteknik från den tiden, menar de, gör så stora skepp svåra att segla säkert.",
         "År 2002 hävdar en författare i en populär bok att flottan når Amerika.",
-        "Utbildade historiker avvisar detta påstående, eftersom det inte vilar på några verkliga bevis.",
+        "Fackhistoriker avvisar detta påstående, eftersom det inte vilar på några verkliga bevis.",
         "Samtidigt slutar Kina skicka stora flottor utomlands, medan europeiska kungariken börjar skicka små skepp allt längre och längre hemifrån.",
         "Historiker debatterar fortfarande varför de två vägarna skiljer sig åt så tydligt."
       ],
@@ -207,7 +207,7 @@
       "words": [
         {
           "word": "stentavla",
-          "explanation": "en platt bit av sten eller trä med ord inhuggna eller skrivna på"
+          "explanation": "en platt bit sten med ord inhuggna eller skrivna på"
         },
         {
           "word": "bevis",

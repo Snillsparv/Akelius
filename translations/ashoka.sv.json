@@ -7,7 +7,7 @@
       "text_sentences": [
         "Kejsar X styr ett stort rike i Indien.",
         "Han lever för mer än 2 000 år sedan.",
-        "Hans familj byggde detta rike två generationer före honom.",
+        "Hans familj byggde upp detta rike två generationer före honom.",
         "Kejsar X vill göra sitt rike ännu större.",
         "Han skickar sin armé för att anfalla ett fritt land i närheten.",
         "Kriget är fruktansvärt, och många människor dör.",
@@ -32,7 +32,7 @@
         },
         {
           "word": "sorg",
-          "explanation": "en mycket stark känsla av att vara ledsen"
+          "explanation": "en stark känsla av att vara ledsen"
         },
         {
           "word": "brunnar",
@@ -134,12 +134,12 @@
     {
       "title": "Tyst i 2 000 år",
       "text_sentences": [
-        "Kejsar X:s egna ord är huggna i sten över ett stort rike i Indien.",
+        "Kejsar X:s egna ord är huggna i sten runt om i ett stort rike i Indien.",
         "I mer än 2 000 år glömmer folk vem som skrev dem.",
-        "Med århundradena glöms till och med den gamla skriften bort, och ingen kan läsa den.",
+        "Under århundradena glöms till och med själva den gamla skriften bort, och ingen kan läsa den.",
         "Klipporna och pelarna står tysta, deras mening okänd.",
-        "1837 läser en brittisk tjänsteman i Indien skriften igen.",
-        "Hans namn är James Prinsep, och han löser den långsamt, bokstav för bokstav.",
+        "År 1837 läser en brittisk tjänsteman i Indien skriften igen.",
+        "Hans namn är James Prinsep, och han tyder den långsamt, bokstav för bokstav.",
         "Plötsligt talar kejsarens egna ord igen, efter så lång tid.",
         "Snart, med hjälp av gamla krönikor från Sri Lanka, kan historiker sätta ett namn på härskaren bakom inskrifterna.",
         "I dag sitter ett hjul från en av hans stenpelare på Indiens flagga."
@@ -174,21 +174,21 @@
         }
       ],
       "main_caption": "En besökare studerar en gammal stenpelare som har stått tyst i århundraden.",
-      "side_caption": "Ett förstoringsglas hjälper en besökare att studera gamla, slitna märken från sten."
+      "side_caption": "Ett förstoringsglas hjälper en besökare att studera gamla, slitna märken i sten."
     },
     {
       "title": "Påbud och legender",
       "text_sentences": [
         "Kejsar X styr ett stort rike i Indien från sin huvudstad, Pataliputra.",
         "Han lämnar oss två mycket olika sorters källor.",
-        "För det första hans egna påbud, huggna under hans egen livstid på klippor och pelare.",
+        "För det första hans egna påbud, huggna under hans egen livstid i klippor och pelare.",
         "Dessa påbud berättar vad han vill att hans folk ska tro om honom.",
         "För det andra berättar senare buddhistiska författare historier om honom, århundraden efter hans död.",
         "Dessa berättelser prisar honom ofta och får honom att låta som en fullkomlig härskare.",
         "Historiker ställer en svår fråga: är detta historia, eller är det propaganda?",
         "Kanske ligger sanningen någonstans mellan äkta övertygelse och en skickligt uppbyggd bild.",
         "Hur som helst hör hans påbud till den äldsta uttydda skriften från Indien.",
-        "I dagens Indien använder vissa rörelser hans bild av icke-våld som en förebild.",
+        "I dagens Indien håller vissa rörelser fram bilden av honom som icke-våldets härskare som en förebild.",
         "Varje gammal källa döljer en andra fråga: vem skrev detta, och vad ville han?"
       ],
       "question": "Vem är kejsar X?",
@@ -213,7 +213,7 @@
         },
         {
           "word": "uttydd",
-          "explanation": "listade ut betydelsen av en svår eller hemlig skrift"
+          "explanation": "som någon har lyckats läsa och förstå, fast skriften var svår eller hemlig"
         }
       ],
       "main_caption": "En gammal sten och ett nyare manuskript berättar två olika sorters historier.",
