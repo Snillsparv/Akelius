@@ -1,0 +1,226 @@
+{
+  "slug": "swahili-coast",
+  "person_sv": "Swahilikusten",
+  "cards": [
+    {
+      "title": "Stenstäder vid havet",
+      "text_sentences": [
+        "Platsen X är en rad stenstäder vid havet.",
+        "Städerna ligger på Afrikas östkust.",
+        "Några av städerna är mer än tusen år gamla.",
+        "Varje år för en stadig vind skepp hit från Arabien och Indien.",
+        "På platsen X säljer handlare varor som guld och elfenben från landet bakom dem.",
+        "I gengäld köper de tyg, glaspärlor och målade skålar.",
+        "Folket på platsen X talar ett afrikanskt språk.",
+        "Med tiden tar språket in många ord från Arabien."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Guldkusten",
+        "Swahilikusten",
+        "Afrikas horn",
+        "Barbareskkusten"
+      ],
+      "words": [
+        {
+          "word": "elfenben",
+          "explanation": "det hårda vita materialet i en elefants bete"
+        },
+        {
+          "word": "handlare",
+          "explanation": "människor vars jobb är att köpa och sälja varor"
+        },
+        {
+          "word": "varor",
+          "explanation": "saker som människor köper och säljer"
+        }
+      ],
+      "main_caption": "Skepp kommer med vinden, och stenstäder vid havet blir rika på handel.",
+      "side_caption": "En handlare säljer långa vita betar och köper tyg och pärlor från andra sidan havet."
+    },
+    {
+      "title": "Mynt, korall och en stor moské",
+      "text_sentences": [
+        "Platsen X är inte ett enda land, utan en rad separata städer.",
+        "De ligger på Afrikas östkust.",
+        "Kilwa, Mombasa, Malindi och ön Zanzibar är några av dessa platser.",
+        "Varje stad har sin egen härskare och fattar egna beslut.",
+        "En vind som kallas monsunen styr havet längs hela kusten.",
+        "Under halva året blåser den in skepp från Arabien, Persien och Indien.",
+        "Under den andra halvan blåser samma vind skeppen hem igen.",
+        "Kilwa blir rikt på guld från en högplatå långt i söder.",
+        "Det guldet kommer norrut över havet från hamnen Sofala.",
+        "Kilwa slår egna kopparmynt.",
+        "Arbetare bygger en stor moské där, av korallsten.",
+        "På 1410-talet besöker en stor flotta från Kina den här kusten."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Malabarkusten",
+        "Godahoppsudden",
+        "Swahilikusten",
+        "Röda havets kust"
+      ],
+      "words": [
+        {
+          "word": "monsun",
+          "explanation": "en vind som blåser åt ena hållet under en del av året, och åt andra hållet under resten"
+        },
+        {
+          "word": "högplatå",
+          "explanation": "ett stort område av högt, platt land"
+        },
+        {
+          "word": "slår mynt",
+          "explanation": "gör mynt genom att stämpla ett mönster i metall"
+        },
+        {
+          "word": "korallsten",
+          "explanation": "ett hårt material byggt av små havsdjur, här använt för att bygga hus"
+        }
+      ],
+      "main_caption": "En stor moské av korallsten reser sig över en rik handelsstad.",
+      "side_caption": "Små kopparmynt som dessa görs i staden själv."
+    },
+    {
+      "title": "En kust, många folk",
+      "text_sentences": [
+        "Platsen X är en kust i Östafrika med många gamla stenstäder.",
+        "Från 700-talet sprider sig tron islam längs den här kusten.",
+        "Handlare från Arabien och Persien bosätter sig i städerna.",
+        "Under många generationer gifter sig lokala familjer med dessa nykomlingar.",
+        "Folket behåller sitt eget språk, ett afrikanskt språk från kusten.",
+        "Dess grammatik och vardagsord kommer från en afrikansk språkfamilj.",
+        "Tusentals extra ord kommer från arabiskan, språket för bön och lärdom.",
+        "Rika familjer bygger stenhus med tunga snidade trädörrar.",
+        "Senare skriver poeter vid kusten långa dikter på det här språket.",
+        "Skepp fraktar också mangrovestockar från vikarna för att bygga hus i Arabien.",
+        "Tro, handel och giftermål binder städerna till länder på andra sidan havet.",
+        "Ändå förblir städerna afrikanska i sitt folk och sitt språk."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Swahilikusten",
+        "Coromandelkusten",
+        "Slavkusten",
+        "Guldkusten"
+      ],
+      "words": [
+        {
+          "word": "generationer",
+          "explanation": "alla människor som föds och lever ungefär samtidigt, en efter en"
+        },
+        {
+          "word": "grammatik",
+          "explanation": "reglerna som visar hur ord passar ihop i ett språk"
+        },
+        {
+          "word": "poeter",
+          "explanation": "människor som skriver dikter"
+        },
+        {
+          "word": "mangrove",
+          "explanation": "ett träd som växer med sina rötter i salt vatten längs stranden"
+        }
+      ],
+      "main_caption": "Bakom tunga snidade dörrar lever, ber och handlar familjerna vid kusten.",
+      "side_caption": "Raka stockar från vikar som den här skeppas över havet för att bygga hus."
+    },
+    {
+      "title": "Nya skepp, nya härskare",
+      "text_sentences": [
+        "Platsen X är en kust med handelsstäder i Östafrika.",
+        "År 1498 seglar portugisiska skepp längs den här kusten för första gången.",
+        "Deras kapten letar efter en sjöväg rakt till Indien.",
+        "Portugiserna vill snart kontrollera handeln i regionen.",
+        "År 1505 anfaller portugisiska styrkor staden Kilwa och skadar den svårt.",
+        "I omkring tvåhundra år håller Portugal delar av kusten med våld.",
+        "År 1698 driver härskare från Oman bort portugiserna från norr.",
+        "Under omansk styre blir ön Zanzibar rik på en ny gröda.",
+        "Arbetare där odlar kryddnejlikor, en krydda som säljs över hela världen.",
+        "De flesta av dessa arbetare är förslavade människor.",
+        "På 1800-talet blir Zanzibar också ett centrum för handel med förslavade människor.",
+        "Senare under århundradet tvingar tryck utifrån fram ett långsamt slut på handeln."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Afrikas horn",
+        "Barbareskkusten",
+        "Malabarkusten",
+        "Swahilikusten"
+      ],
+      "words": [
+        {
+          "word": "sjöväg",
+          "explanation": "vägen man reser längs för att komma från en plats till en annan"
+        },
+        {
+          "word": "gröda",
+          "explanation": "en växt som odlas i stora mängder, för mat eller för att sälja"
+        },
+        {
+          "word": "krydda",
+          "explanation": "en växtdel som ger maten en stark smak eller doft"
+        },
+        {
+          "word": "förslavade",
+          "explanation": "tvingade att arbeta och leva som en annan persons ägodel"
+        },
+        {
+          "word": "tryck",
+          "explanation": "stark påverkan som får någon att agera eller förändras"
+        }
+      ],
+      "main_caption": "Nya skepp från andra sidan havet förändrar kusten för alltid.",
+      "side_caption": "Färska kryddnejlikeknoppar plockas för hand och torkas sedan i solen innan de säljs."
+    },
+    {
+      "title": "Vems städer är dessa?",
+      "text_sentences": [
+        "Platsen X är en kedja av gamla stenstäder på Afrikas östkust.",
+        "Under stora delar av 1900-talet kallade många böcker de här städerna ”arabiska kolonier”.",
+        "Från 1950-talet gräver arkeologer vid flera kustruiner.",
+        "De första utgrävarna tror också på arabiska eller persiska grundare.",
+        "Från 1980-talet förändrar nya utgrävningar och nya språkstudier bilden.",
+        "Lager efter lager visar fynden lokal keramik, lokala husplaner och lokala begravningsseder.",
+        "Bitar av kinesiskt porslin i varje lager hjälper till att datera städerna.",
+        "Skriftliga källor är få, och många kommer från utomstående som bara reser förbi.",
+        "En resenär från Marocko besöker Kilwa 1331 och berömmer dess fina byggnader.",
+        "De flesta forskare i dag ser afrikanska samhällen som välkomnar handel och sakta tar in nya grannar.",
+        "Det afrikanska språket vid den här kusten, format av detta långa möte, lever fortfarande kvar i dag.",
+        "Det är Tanzanias nationalspråk, och mer än hundra miljoner människor talar det."
+      ],
+      "question": "Vilken plats är platsen X?",
+      "options": [
+        "Röda havets kust",
+        "Swahilikusten",
+        "Godahoppsudden",
+        "Slavkusten"
+      ],
+      "words": [
+        {
+          "word": "arkeologer",
+          "explanation": "forskare som studerar gamla föremål och gamla byggnader"
+        },
+        {
+          "word": "utgrävare",
+          "explanation": "människor som gräver försiktigt för att hitta gamla saker i marken"
+        },
+        {
+          "word": "porslin",
+          "explanation": "en fin, hård, vit sorts keramik"
+        },
+        {
+          "word": "tar in",
+          "explanation": "att ta in något och göra det till en del av en större helhet"
+        },
+        {
+          "word": "källor",
+          "explanation": "texter eller föremål som ger historiker information om det förflutna"
+        }
+      ],
+      "main_caption": "Arkeologer gräver genom gamla lager för att undersöka vem som egentligen byggde de här städerna.",
+      "side_caption": "Bitar av keramik och porslin från varje lager hjälper till att datera städerna."
+    }
+  ]
+}
