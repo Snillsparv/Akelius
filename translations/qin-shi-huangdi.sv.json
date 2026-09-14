@@ -1,0 +1,230 @@
+{
+  "slug": "qin-shi-huangdi",
+  "person_sv": "Qin Shi Huangdi",
+  "cards": [
+    {
+      "title": "Ett land, ett system",
+      "text_sentences": [
+        "Kejsar X bor i Kina för mer än tvåtusen år sedan.",
+        "Han blir kung när han bara är tretton år.",
+        "Hans stat är en av de starkaste av de många stridande staterna.",
+        "I flera år strider dessa stater mot varandra.",
+        "Sakta vinner hans arméer krig efter krig.",
+        "Till sist besegrar hans stat alla de andra.",
+        "Kejsar X tar en helt ny titel.",
+        "Den betyder den första härskaren över allt.",
+        "Nu använder varje del av hans land samma skrift.",
+        "Mynt, vikter och avståndet mellan kärrhjulen är också likadana.",
+        "I dag står en armé av soldater, gjorda av lera, fortfarande vakt nära hans grav."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Kublai Khan",
+        "Qin Shi Huangdi",
+        "Han Wudi",
+        "Liu Bang"
+      ],
+      "words": [
+        {
+          "word": "stat",
+          "explanation": "ett land med sin egen härskare och sina egna lagar"
+        },
+        {
+          "word": "stridande",
+          "explanation": "i krig med varandra"
+        },
+        {
+          "word": "titel",
+          "explanation": "ett speciellt namn för en persons rang eller uppgift"
+        },
+        {
+          "word": "vikter",
+          "explanation": "metallbitar som används för att mäta hur tungt något är"
+        },
+        {
+          "word": "lera",
+          "explanation": "mjuk, tung jord som kan formas och brännas hård"
+        }
+      ],
+      "main_caption": "En träram kontrollerar att hjulen på varje kärra sitter på samma avstånd från varandra.",
+      "side_caption": "En officiell vikt används på samma sätt, överallt i landet."
+    },
+    {
+      "title": "En gömd dolk, nya vägar, en lång mur",
+      "text_sentences": [
+        "Kejsar X styr Kina för mer än tvåtusen år sedan.",
+        "Som ung kung har han rivaliserande stater runt omkring sig.",
+        "År 227 f.Kr. kommer en besökare från en rivaliserande stat nära honom.",
+        "Besökaren gömmer en dolk inuti en hoprullad karta.",
+        "Han försöker döda kungen, men planen misslyckas.",
+        "Kejsar X överlever, och krigen fortsätter.",
+        "År 221 f.Kr. besegrar hans arméer varje rivaliserande stat.",
+        "Han beordrar nya vägar över sitt land, så att arméer och handelsmän kan röra sig snabbt.",
+        "Arbetare gräver en kanal som binder samman två stora flodsystem.",
+        "I norr binds äldre jordmurar samman till en enda lång mur.",
+        "Denna tidiga mur är inte den berömda stenmur som besökare ser i dag."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Tang Taizong",
+        "Wu Zetian",
+        "Djingis khan",
+        "Qin Shi Huangdi"
+      ],
+      "words": [
+        {
+          "word": "dolk",
+          "explanation": "en kort, vass kniv som används som vapen"
+        },
+        {
+          "word": "rivaliserande",
+          "explanation": "kämpar mot dig om samma sak"
+        },
+        {
+          "word": "överleva",
+          "explanation": "att förbli vid liv efter en stor fara"
+        },
+        {
+          "word": "kanal",
+          "explanation": "en vattenväg som människor gräver, för båtar eller för vatten"
+        }
+      ],
+      "main_caption": "Arbetare packar jord till en lång mur som binder samman kullarna.",
+      "side_caption": "En hoprullad karta kan gömma ett litet, vasst blad."
+    },
+    {
+      "title": "Brända böcker och ett medel för evigt liv",
+      "text_sentences": [
+        "Kejsar X styr Kina med mycket stränga lagar.",
+        "Även små brott ger hårt straff.",
+        "Hans främsta rådgivare vill att varje lärd ska följa en enda uppsättning idéer.",
+        "År 213 f.Kr. beordrar regeringen att många gamla böcker ska brännas.",
+        "Böcker om medicin, jordbruk och spådom förblir säkra.",
+        "En senare historiker skriver att han lät döda lärda som talade emot honom.",
+        "Många tvivlar på detaljerna i historien.",
+        "När kejsar X blir äldre, fruktar han döden mer och mer.",
+        "Han skickar tjänare för att söka efter ett medel som stoppar åldrandet för alltid.",
+        "Ingen tjänare kommer någonsin tillbaka med ett sådant medel.",
+        "År 210 f.Kr. dör kejsar X under en lång resa långt från sin huvudstad."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Qin Shi Huangdi",
+        "Kangxi",
+        "Yongle",
+        "Han Wudi"
+      ],
+      "words": [
+        {
+          "word": "sträng",
+          "explanation": "mycket bestämd; reglerna måste följas"
+        },
+        {
+          "word": "straff",
+          "explanation": "något dåligt som händer dig för att du bröt en regel"
+        },
+        {
+          "word": "lärd",
+          "explanation": "en person som studerar och kan mycket om böcker och idéer"
+        },
+        {
+          "word": "huvudstad",
+          "explanation": "den viktigaste staden, där en härskare eller en regering har sitt säte"
+        }
+      ],
+      "main_caption": "Ämbetsmän ser på när arbetare bränner buntar med gamla skrifter.",
+      "side_caption": "Någon mal örter och mineraler och söker efter ett medel som stoppar åldrandet."
+    },
+    {
+      "title": "En armé under marken",
+      "text_sentences": [
+        "Nära staden Xi'an ligger kejsar X:s grav.",
+        "Runt hans grav begravde arbetare en gång en tyst armé gjord av lera.",
+        "Tusentals lersoldater står i rader under jorden.",
+        "År 1974 gräver bönder en brunn och hittar de första av dem.",
+        "Titta noga, och inga två ansikten är exakt lika.",
+        "Många soldater höll en gång riktiga vapen av brons.",
+        "Själva den stora högen har aldrig öppnats.",
+        "En gammal historiker skriver att floder av kvicksilver flyter inuti den.",
+        "Moderna jordprover nära högen visar ovanligt höga halter av kvicksilver.",
+        "Forskare studerar fortfarande marken innan någon gräver djupare.",
+        "Bara några år efter kejsarens död faller hela hans dynasti."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Liu Bang",
+        "Tang Taizong",
+        "Qin Shi Huangdi",
+        "Kublai Khan"
+      ],
+      "words": [
+        {
+          "word": "grav",
+          "explanation": "en plats eller en byggnad som rymmer en död persons kropp"
+        },
+        {
+          "word": "brons",
+          "explanation": "en hård, rödbrun metall, gjord genom att blanda koppar och tenn"
+        },
+        {
+          "word": "hög",
+          "explanation": "en liten kulle gjord av uppstaplad jord"
+        },
+        {
+          "word": "kvicksilver",
+          "explanation": "en tung, silverfärgad metall som är flytande och giftig"
+        },
+        {
+          "word": "dynasti",
+          "explanation": "en rad härskare från samma familj, en efter en"
+        }
+      ],
+      "main_caption": "Rader av lersoldater står under jorden, och ansiktena skiljer sig från varandra.",
+      "side_caption": "En stor jordhög har aldrig öppnats."
+    },
+    {
+      "title": "Tyrann eller grundare?",
+      "text_sentences": [
+        "Kejsar X förenar hela Kina under en enda regering för mer än tvåtusen år sedan.",
+        "Var han en grym tyrann, eller grundaren av en varaktig nation?",
+        "Historiker tvistar fortfarande om svaret.",
+        "Vår viktigaste skriftliga källa är en historiker som heter Sima Qian.",
+        "Han skriver omkring hundra år efter att kejsar X dör, under nästa dynasti.",
+        "Den nya dynastin vinner på att den gamla ser dålig ut.",
+        "Sima Qians skildring blandar säkra fakta med dramatiska, obevisade berättelser.",
+        "Bevisen från arkeologin ger en andra, oberoende röst.",
+        "Grävare, forskare och jordprover kan kontrollera den gamla texten bit för bit.",
+        "Ibland stämmer de nedgrävda bevisen väl överens med Sima Qians skildring.",
+        "Ibland väcker det nya tvivel om detaljer som han själv aldrig såg.",
+        "Genom århundradena har bilden av kejsar X svängt mellan monster och statsbyggare."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Wu Zetian",
+        "Qin Shi Huangdi",
+        "Kangxi",
+        "Yongle"
+      ],
+      "words": [
+        {
+          "word": "tyrann",
+          "explanation": "en grym härskare med all makt, orättvis mot folket"
+        },
+        {
+          "word": "grundare",
+          "explanation": "en person som startar eller bygger något nytt, som en stat"
+        },
+        {
+          "word": "arkeologi",
+          "explanation": "studiet av det förflutna genom att gräva fram gamla föremål och platser"
+        },
+        {
+          "word": "skildring",
+          "explanation": "en skriven rapport som berättar vad som hände"
+        }
+      ],
+      "main_caption": "En gammal skriftlig uppteckning ligger bredvid föremål grävda ur marken.",
+      "side_caption": "Försiktiga händer borstar bort jorden från ett gammalt, nedgrävt föremål."
+    }
+  ]
+}
