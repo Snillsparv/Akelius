@@ -1,0 +1,217 @@
+{
+  "slug": "silk-road",
+  "person_sv": "Sidenvägen",
+  "cards": [
+    {
+      "title": "En väg gjord av många vägar",
+      "text_sentences": [
+        "Vägen X är inte en enda väg.",
+        "Den är många vägar som binds samman, som en lång kedja.",
+        "Vägarna börjar i en stor stad i Kina och går västerut.",
+        "Kameler bär mjukt, glänsande tyg som kallas siden, från Kina.",
+        "Tyget kommer från små maskar som äter blad och spinner tråd.",
+        "Länge känner bara Kina till hemligheten.",
+        "Handelsmän tar med hästar, glas och andra varor tillbaka åt andra hållet.",
+        "Små städer längs vägarna blir rika vid kanten av öknen.",
+        "Dessa oasstäder ger resenärer vatten, mat och en plats att vila på."
+      ],
+      "question": "Vilken väg är vägen X?",
+      "options": [
+        "Bärnstensvägen",
+        "Sidenvägen",
+        "Rökelsevägen",
+        "Grand Trunk Road"
+      ],
+      "words": [
+        {
+          "word": "siden",
+          "explanation": "ett mjukt, glänsande tyg gjort av mycket fin tråd"
+        },
+        {
+          "word": "oas",
+          "explanation": "en grön, fuktig plats med vatten mitt i en torr öken"
+        },
+        {
+          "word": "handelsmän",
+          "explanation": "människor vars jobb är att köpa och sälja varor"
+        },
+        {
+          "word": "spinna",
+          "explanation": "att snurra något runt och runt för att göra en lång tråd"
+        }
+      ],
+      "main_caption": "En lång rad kameler bär mjukt tyg mot väster.",
+      "side_caption": "Små maskar som dessa äter blad och spinner sedan fin, vit tråd runt sig själva."
+    },
+    {
+      "title": "Ett sändebud öppnar vägen västerut",
+      "text_sentences": [
+        "Vägen X växer till ett viktigt nätverk för omkring två tusen år sedan.",
+        "Ett kinesiskt sändebud vid namn Zhang Qian reser västerut omkring år 138 f.Kr.",
+        "Hans långa resa hjälper till att öppna en säkrare väg mellan öst och väst.",
+        "Handelsmän börjar sina resor i stora städer som Chang'an i Kina.",
+        "Sidentyg går från handelsman till handelsman, tusentals kilometer mot väster.",
+        "Under resan bär handelsmän också järnverktyg och polerade bronsspeglar.",
+        "På väg österut för andra handelsmän med sig hästar, glas, ull och guld.",
+        "Rika städer som Samarkand och Buchara växer längs mitten av vägarna.",
+        "Rika människor långt borta i Rom betalar höga priser för sidentyg.",
+        "Vissa romerska författare klagar till och med på att siden kostar riket för mycket guld."
+      ],
+      "question": "Vilken väg är vägen X?",
+      "options": [
+        "Sidenvägen",
+        "Tehästvägen",
+        "Kungsvägen",
+        "Transsaharavägen"
+      ],
+      "words": [
+        {
+          "word": "sändebud",
+          "explanation": "en person som skickas av en härskare för att tala eller resa i officiella ärenden"
+        },
+        {
+          "word": "nätverk",
+          "explanation": "en samling vägar eller stigar som binder samman och korsar varandra"
+        },
+        {
+          "word": "rike",
+          "explanation": "många länder och folk som styrs av en och samma regering"
+        },
+        {
+          "word": "rik",
+          "explanation": "att ha mycket pengar eller värdefulla saker"
+        }
+      ],
+      "main_caption": "Handelsmän från öst och väst möts i en livlig marknadsstad längs vägen.",
+      "side_caption": "Långt borta i Rom betalar rika köpare ett högt pris för detta fina tyg."
+    },
+    {
+      "title": "Idéer reser längs vägen",
+      "text_sentences": [
+        "Siden och andra varor reser längs vägen X, men idéer reser också.",
+        "Buddhismen sprider sig från Indien till Kina längs just dessa vägar.",
+        "Munkar bär heliga texter och läror tillsammans med handelskaravaner.",
+        "Åt andra hållet reser konsten att göra papper sakta västerut.",
+        "En berättelse säger att kinesiska pappersmakare tas till fånga efter ett slag långt väster om Kina.",
+        "Via Samarkand når den nya konsten att göra papper till slut den vidare världen.",
+        "Djupt i öknen nära Dunhuang hugger munkar ut hundratals grottor i en klippa.",
+        "Inuti täcker målare väggarna med färgglada scener under många århundraden.",
+        "En försluten grotta, full av gamla handskrifter, förblir gömd och bortglömd i omkring niohundra år.",
+        "En vaktmästare och hans arbetare öppnar denna gömda grotta igen år 1900.",
+        "Från 1907 köper forskare från Europa tusentals av handskrifterna och för bort dem, och resten går till Peking 1910."
+      ],
+      "question": "Vilken väg är vägen X?",
+      "options": [
+        "Kryddvägen",
+        "Kungens landsväg",
+        "Bärnstensvägen",
+        "Sidenvägen"
+      ],
+      "words": [
+        {
+          "word": "helig",
+          "explanation": "sedd som helig och behandlad med stor respekt"
+        },
+        {
+          "word": "handskrifter",
+          "explanation": "gamla böcker eller texter skrivna för hand"
+        },
+        {
+          "word": "forskare",
+          "explanation": "människor som studerar och lär sig ett ämne mycket djupt"
+        },
+        {
+          "word": "hugga ut",
+          "explanation": "att hugga ut former i sten, trä eller berg"
+        }
+      ],
+      "main_caption": "Munkar går mot grottor uthuggna i en avlägsen ökenklippa.",
+      "side_caption": "Gamla, hoprullade handskrifter som dessa förblir gömda i en försluten grotta i århundraden."
+    },
+    {
+      "title": "Fred, en resenär och en stor pest",
+      "text_sentences": [
+        "På 1200-talet tar mongoliska härskare kontroll över stora delar av vägen X.",
+        "I omkring hundra år, på 1200- och 1300-talet, håller en enda härskarfamilj hela vägen säker.",
+        "Under deras starka styre för handelsmän siden, papper och målat lergods säkrare än förut.",
+        "En handelsman vid namn Marco Polo reser dessa vägar ända till Kina.",
+        "Senare berättar han historier om undren han såg på sin resa.",
+        "Många läsare i Europa tycker att hans historier är svåra att tro på.",
+        "På 1300-talet reser också en stor pest västerut längs dessa vägar.",
+        "Under samma år, omkring 1347, sprider den sig från Asien till Mellanöstern och till Europa.",
+        "Pesten dödar en stor andel av de människor den når.",
+        "Omkring år 1500 hittar sjömän nya sjövägar mellan öst och väst.",
+        "Sakta för skepp mer last än de gamla vägarna på land."
+      ],
+      "question": "Vilken väg är vägen X?",
+      "options": [
+        "Rökelsevägen",
+        "Grand Trunk Road",
+        "Sidenvägen",
+        "Tehästvägen"
+      ],
+      "words": [
+        {
+          "word": "handelsmän",
+          "explanation": "människor som köper och säljer varor, ofta över långa avstånd"
+        },
+        {
+          "word": "last",
+          "explanation": "varor som fraktas med ett skepp, en lastbil eller ett annat fordon"
+        },
+        {
+          "word": "pest",
+          "explanation": "en mycket allvarlig sjukdom som sprids snabbt och dödar många människor"
+        },
+        {
+          "word": "sjövägar",
+          "explanation": "vägar eller leder som leder från en plats till en annan över havet"
+        }
+      ],
+      "main_caption": "Under en lång fred vilar resenärer från många folk tryggt tillsammans.",
+      "side_caption": "Senare för skepp som detta last över havet i stället för de gamla vägarna."
+    },
+    {
+      "title": "Ett namn för många vägar",
+      "text_sentences": [
+        "Historiker använder inte alltid ett enda namn för vägen X.",
+        "I århundraden talar resenärer och handelsmän bara om enskilda vägar och handelsplatser.",
+        "År 1877 uppfinner en tysk forskare vid namn Ferdinand von Richthofen ett nytt namn för hela nätverket.",
+        "Han döper nätverket efter den mest kända varan som fraktas längs det, siden.",
+        "Hans nya ord knyter samman många olika vägar under en enda idé.",
+        "Vissa historiker hävdar i dag att vägen X aldrig egentligen var en enda väg.",
+        "De föredrar att säga vägar, i plural, som sträcker sig över många århundraden och kulturer.",
+        "Andra tycker ändå att det enkla, enhetliga namnet är användbart för undervisning och skrivande.",
+        "Varor, idéer, sjukdomar och människor rörde sig alla längs dessa vägar under mycket lång tid.",
+        "I dag lever samma gamla namn också ett livligt politiskt liv inom modern handel och diplomati."
+      ],
+      "question": "Vilken väg är vägen X?",
+      "options": [
+        "Sidenvägen",
+        "Kungsvägen",
+        "Kryddvägen",
+        "Kungens landsväg"
+      ],
+      "words": [
+        {
+          "word": "uppfinna",
+          "explanation": "att hitta på eller skapa något nytt"
+        },
+        {
+          "word": "plural",
+          "explanation": "en ordform som visar att det finns fler än en"
+        },
+        {
+          "word": "diplomati",
+          "explanation": "försiktiga samtal mellan länder för att lösa problem fredligt"
+        },
+        {
+          "word": "forskare",
+          "explanation": "en person som studerar ett ämne mycket djupt"
+        }
+      ],
+      "main_caption": "I en föreläsningssal i Europa ger en forskare de gamla vägarna ett nytt namn.",
+      "side_caption": "Forskare skriver många böcker, och ett enkelt namn sprids genom dem alla."
+    }
+  ]
+}
