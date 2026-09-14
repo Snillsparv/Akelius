@@ -1,0 +1,223 @@
+{
+  "slug": "ashoka",
+  "person_sv": "Ashoka",
+  "cards": [
+    {
+      "title": "En kejsare som slutar strida",
+      "text_sentences": [
+        "Kejsar X styr ett stort rike i Indien.",
+        "Han lever för mer än 2 000 år sedan.",
+        "Hans familj byggde detta rike två generationer före honom.",
+        "Kejsar X vill göra sitt rike ännu större.",
+        "Han skickar sin armé för att anfalla ett fritt land i närheten.",
+        "Kriget är fruktansvärt, och många människor dör.",
+        "Efteråt känner kejsar X en djup, tung sorg.",
+        "Han bestämmer sig för att aldrig föra ett sådant krig igen.",
+        "Han väljer ett nytt sätt att styra.",
+        "Han låter gräva brunnar längs vägarna, för rent vatten.",
+        "Han låter plantera skuggträd åt trötta resenärer.",
+        "Han låter sjuka få vård, både människor och djur."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Harsha",
+        "Kanishka"
+      ],
+      "words": [
+        {
+          "word": "rike",
+          "explanation": "en stor grupp länder och folk som styrs av en enda härskare"
+        },
+        {
+          "word": "sorg",
+          "explanation": "en mycket stark känsla av att vara ledsen"
+        },
+        {
+          "word": "brunnar",
+          "explanation": "djupa hål som grävs i marken för att nå vatten"
+        },
+        {
+          "word": "resenärer",
+          "explanation": "personer som reser, som är på väg från en plats till en annan"
+        }
+      ],
+      "main_caption": "Efter ett fruktansvärt krig ligger slagfältet tyst och tomt.",
+      "side_caption": "En stenbrunn och ett skuggigt träd välkomnar trötta resenärer."
+    },
+    {
+      "title": "Ord på en klippa, efter Kalinga",
+      "text_sentences": [
+        "Kejsar X styr ett stort rike i Indien, för mer än 2 000 år sedan.",
+        "Omkring 261 f.Kr. vinner hans armé ett fruktansvärt krig i landet Kalinga.",
+        "Hans egna ord, huggna i en klippa, säger att 100 000 människor dör.",
+        "Efter detta krig vänder han sig mer och mer till Buddhas lära.",
+        "Han väljer ett nytt sätt att styra, och han kallar det dhamma, rätt sätt att leva.",
+        "Han låter hugga in sina budskap i klippor och höga stenpelare.",
+        "Arbetare sätter upp dessa budskap i hela riket, ofta vid livliga vägar.",
+        "Budskapen säger åt människor att respektera sina föräldrar, sina lärare och sina tjänare.",
+        "Särskilda ämbetsmän för dhamma reser ut för att förklara budskapen.",
+        "I många regioner hör folk hans ord läsas högt på sitt eget språk.",
+        "Långt i nordväst är vissa budskap till och med huggna på grekiska."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Samudragupta",
+        "Chandragupta II",
+        "Ashoka",
+        "Rajaraja Chola"
+      ],
+      "words": [
+        {
+          "word": "dhamma",
+          "explanation": "kejsarens eget ord för rätt sätt att leva och gott uppförande"
+        },
+        {
+          "word": "hugga in",
+          "explanation": "att skära djupa märken i något hårt, till exempel sten"
+        },
+        {
+          "word": "pelare",
+          "explanation": "höga, starka stenstolpar som står för sig själva"
+        },
+        {
+          "word": "regioner",
+          "explanation": "delar av ett land, eller ett stort landområde"
+        }
+      ],
+      "main_caption": "En arbetare hugger in kejsarens nya ord i hård klippa.",
+      "side_caption": "Arbetare reser en hög stenpelare vid vägen."
+    },
+    {
+      "title": "Regler för varje tro och många djur",
+      "text_sentences": [
+        "För mer än 2 000 år sedan styr kejsar X ett stort rike i Indien.",
+        "Hans nya idéer är huggna i klippor och pelare, så att alla kan läsa dem.",
+        "Ett budskap säger: respektera människor av varje tro, inte bara din egen.",
+        "Ett annat budskap skyddar djur: många sorters djur får inte dödas.",
+        "Han säger att hans eget kök en gång dödade många djur varje dag, och nu bara två påfåglar och en hjort.",
+        "Kejsar X skickar också budbärare till härskare i avlägsna länder, långt bortom sitt eget rike.",
+        "De för med sig hans idéer om vänlighet och rätt sätt att leva.",
+        "Traditionen säger att hans egen son och dotter för Buddhas lära till Sri Lanka.",
+        "Där, säger traditionen, tar folk varmt emot den nya läran.",
+        "Genom budskap och budbärare når en förändring i en härskares hjärta långt bortom hans eget land."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Krishnadevaraya",
+        "Akbar",
+        "Ashoka",
+        "Harsha"
+      ],
+      "words": [
+        {
+          "word": "tro",
+          "explanation": "en religion, eller en stark övertygelse om något"
+        },
+        {
+          "word": "budbärare",
+          "explanation": "personer som skickas för att föra nyheter eller budskap till andra"
+        },
+        {
+          "word": "tradition",
+          "explanation": "en gammal berättelse eller sed, som förs vidare under lång tid"
+        },
+        {
+          "word": "skyddar",
+          "explanation": "håller något säkert från skada"
+        }
+      ],
+      "main_caption": "Nära en tyst helig plats vilar djur ostörda, och människor samlas i fred.",
+      "side_caption": "En budbärare för kejsarens ord till en avlägsen härskare."
+    },
+    {
+      "title": "Tyst i 2 000 år",
+      "text_sentences": [
+        "Kejsar X:s egna ord är huggna i sten över ett stort rike i Indien.",
+        "I mer än 2 000 år glömmer folk vem som skrev dem.",
+        "Med århundradena glöms till och med den gamla skriften bort, och ingen kan läsa den.",
+        "Klipporna och pelarna står tysta, deras mening okänd.",
+        "1837 läser en brittisk tjänsteman i Indien skriften igen.",
+        "Hans namn är James Prinsep, och han löser den långsamt, bokstav för bokstav.",
+        "Plötsligt talar kejsarens egna ord igen, efter så lång tid.",
+        "Snart, med hjälp av gamla krönikor från Sri Lanka, kan historiker sätta ett namn på härskaren bakom inskrifterna.",
+        "I dag sitter ett hjul från en av hans stenpelare på Indiens flagga."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Chandragupta Maurya",
+        "Kanishka",
+        "Samudragupta",
+        "Ashoka"
+      ],
+      "words": [
+        {
+          "word": "tjänsteman",
+          "explanation": "en person som arbetar med ett viktigt uppdrag åt staten"
+        },
+        {
+          "word": "skrift",
+          "explanation": "ett system av tecken eller bokstäver som används för att skriva"
+        },
+        {
+          "word": "inskrifter",
+          "explanation": "ord som är skurna eller huggna i sten eller metall"
+        },
+        {
+          "word": "krönikor",
+          "explanation": "gamla böcker som beskriver händelser år för år"
+        },
+        {
+          "word": "århundraden",
+          "explanation": "tidsperioder på hundra år vardera"
+        }
+      ],
+      "main_caption": "En besökare studerar en gammal stenpelare som har stått tyst i århundraden.",
+      "side_caption": "Ett förstoringsglas hjälper en besökare att studera gamla, slitna märken från sten."
+    },
+    {
+      "title": "Påbud och legender",
+      "text_sentences": [
+        "Kejsar X styr ett stort rike i Indien från sin huvudstad, Pataliputra.",
+        "Han lämnar oss två mycket olika sorters källor.",
+        "För det första hans egna påbud, huggna under hans egen livstid på klippor och pelare.",
+        "Dessa påbud berättar vad han vill att hans folk ska tro om honom.",
+        "För det andra berättar senare buddhistiska författare historier om honom, århundraden efter hans död.",
+        "Dessa berättelser prisar honom ofta och får honom att låta som en fullkomlig härskare.",
+        "Historiker ställer en svår fråga: är detta historia, eller är det propaganda?",
+        "Kanske ligger sanningen någonstans mellan äkta övertygelse och en skickligt uppbyggd bild.",
+        "Hur som helst hör hans påbud till den äldsta uttydda skriften från Indien.",
+        "I dagens Indien använder vissa rörelser hans bild av icke-våld som en förebild.",
+        "Varje gammal källa döljer en andra fråga: vem skrev detta, och vad ville han?"
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Rajaraja Chola",
+        "Ashoka",
+        "Krishnadevaraya",
+        "Chandragupta II"
+      ],
+      "words": [
+        {
+          "word": "påbud",
+          "explanation": "officiella order eller regler som en härskare kungör"
+        },
+        {
+          "word": "propaganda",
+          "explanation": "bilder, ord och konst som försöker styra vad människor tänker"
+        },
+        {
+          "word": "övertygelse",
+          "explanation": "en stark, ärlig tro"
+        },
+        {
+          "word": "uttydd",
+          "explanation": "listade ut betydelsen av en svår eller hemlig skrift"
+        }
+      ],
+      "main_caption": "En gammal sten och ett nyare manuskript berättar två olika sorters historier.",
+      "side_caption": "Ett enkelt gammalt mynt är också en sorts källa från det förflutna."
+    }
+  ]
+}
