@@ -35034,6 +35034,873 @@
           }
         }
       ]
+    },
+    {
+      "slug": "qin-shi-huangdi",
+      "person": "Qin Shi Huangdi",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "One Country, One System",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X lives in China, more than two thousand years ago.",
+            "He becomes king when he is only thirteen.",
+            "His state is one of the strongest of the many warring states.",
+            "For years, these states fight each other.",
+            "Slowly, his armies win war after war.",
+            "At last, his state defeats all the others.",
+            "Emperor X takes a brand new title.",
+            "It means: the first ruler of all.",
+            "Now every part of his land uses the same writing.",
+            "Coins, weights, and the distance between cart wheels are the same too.",
+            "Today an army of clay soldiers still stands guard near his grave."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Kublai Khan",
+            "Qin Shi Huangdi",
+            "Han Wudi",
+            "Liu Bang"
+          ],
+          "correct": "Qin Shi Huangdi",
+          "words": [
+            {
+              "word": "state",
+              "explanation": "a land with its own ruler and its own laws"
+            },
+            {
+              "word": "warring",
+              "explanation": "fighting wars against each other"
+            },
+            {
+              "word": "title",
+              "explanation": "a special name for a person's rank or job"
+            },
+            {
+              "word": "weights",
+              "explanation": "pieces of metal used to measure how heavy things are"
+            },
+            {
+              "word": "clay",
+              "explanation": "soft, heavy earth that can be shaped and baked hard"
+            }
+          ],
+          "main_image": {
+            "description": "A dusty country road in third-century BC China. Two ox-carts roll along, their wheels set the same distance apart. At a simple checkpoint, two East Asian government officials in third-century BC Chinese robes hold a plain wooden measuring frame against a cart's wheels. Rolling hills in the distance. Production note: no readable characters on the frame or carts, no modern vehicles, the officials shown from the side or at a middle distance so faces are not detailed close-up portraits, calm administrative mood, not military.",
+            "caption": "A wooden frame checks that every cart's wheels are set the same distance apart.",
+            "shutterstock_query": "ancient chinese road officials measuring cart wheels illustration",
+            "ai_prompt": "Photorealistic illustration of a dusty country road in third-century BC China, two wooden ox-carts with their wheels set the same distance apart, two East Asian government officials in third-century BC Chinese robes and simple caps holding a plain wooden measuring frame against the wheels of a cart, rolling hills in the distance, warm daylight, calm administrative mood, figures shown from the side or at a middle distance without detailed close-up faces. No modern vehicles, no Chinese characters or writing anywhere, no readable marks on frame or carts, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A single bronze weight, shaped like a rounded dome, rests on one side of a simple wooden balance scale, with a small cloth sack of grain on the other side, one East Asian hand steadying the scale. This explains the word 'weights'. Production note: plain bronze surface with no inscriptions, third-century BC Chinese scale design, no modern kitchen scale, close-up on the object; this is the only balance scale in the set.",
+            "caption": "One official weight is used the same way, everywhere in the land.",
+            "shutterstock_query": "ancient bronze weight balance scale grain closeup illustration",
+            "ai_prompt": "Photorealistic close-up illustration of a third-century BC Chinese bronze balance scale, a single rounded bronze weight on one side and a small cloth sack of grain on the other, resting on a plain wooden table, soft daylight, one East Asian hand steadying the scale from the edge of the frame. No inscriptions or marks on the weight, no modern scale, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "A Hidden Dagger, New Roads, a Long Wall",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules China more than two thousand years ago.",
+            "As a young king, he has rival states all around him.",
+            "In 227 BC, a visitor from a rival state comes close to him.",
+            "The visitor hides a dagger inside a rolled map.",
+            "He tries to kill the king, but the plan fails.",
+            "Emperor X survives, and the wars go on.",
+            "By 221 BC, his armies defeat every rival state.",
+            "He orders new roads across his land, so armies and traders move fast.",
+            "Workers dig a canal that joins two great river systems.",
+            "In the north, older earth walls are joined into one long wall.",
+            "This early wall is not the famous stone wall that visitors see today."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Tang Taizong",
+            "Wu Zetian",
+            "Genghis Khan",
+            "Qin Shi Huangdi"
+          ],
+          "correct": "Qin Shi Huangdi",
+          "words": [
+            {
+              "word": "dagger",
+              "explanation": "a short, sharp knife used as a weapon"
+            },
+            {
+              "word": "rival",
+              "explanation": "a person or group that fights against you for the same thing"
+            },
+            {
+              "word": "survives",
+              "explanation": "stays alive after great danger"
+            },
+            {
+              "word": "canal",
+              "explanation": "a waterway dug by people, for boats or for water"
+            }
+          ],
+          "main_image": {
+            "description": "East Asian laborers in third-century BC Chinese dress build an early rammed-earth wall along a mountain ridge, carrying woven baskets of soil and packing it into wooden frames. Wide hilly landscape, small figures at a distance, no individual faces detailed. Production note: this must read as an early earth wall under construction, never the tall grey stone wall of later centuries; no modern tools, no cannons, no flags, no readable signs.",
+            "caption": "Workers pack earth into a long wall that joins the hills together.",
+            "shutterstock_query": "ancient chinese earthen wall construction workers mountains illustration",
+            "ai_prompt": "Photorealistic wide illustration of third-century BC China, East Asian laborers in simple period dress building an early rammed-earth wall along a mountain ridge, carrying woven baskets of soil and packing it into wooden frames, wide hilly landscape, small figures shown at a distance without detailed faces, warm daylight. This is an early earth wall, not the tall grey stone wall built more than a thousand years later. No modern tools, no cannons, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A rolled silk map lies half unrolled on a low wooden table inside a palace hall, its far end trailing off the table, and the blade of a small dagger is just visible where the map ends. No people in the frame. This explains the word 'dagger'. Production note: the map surface must show only faint, unreadable ink lines, never real geography or characters; no blood, no violence shown, only the still-life object.",
+            "caption": "A rolled map can hide a small, sharp blade.",
+            "shutterstock_query": "ancient silk scroll dagger blade table still life illustration",
+            "ai_prompt": "Photorealistic still-life illustration of a rolled silk map half unrolled on a low wooden table in a third-century BC Chinese palace hall, the far end trailing off the table with the blade of a small dagger just visible where the map ends, warm indoor light, no people in frame. The map surface shows only faint unreadable ink lines, no real geography, no Chinese characters, no Ming-era stone wall, no blood, no violence, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Burned Books and a Medicine for Ever",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules China with very strict laws.",
+            "Even small crimes bring harsh punishment.",
+            "His top advisor wants every scholar to follow one single set of ideas.",
+            "In 213 BC, the government orders many old books burned.",
+            "Books about medicine, farming, and fortune-telling stay safe.",
+            "A later historian writes that he had scholars killed who spoke against him.",
+            "Many doubt the details of this story.",
+            "As Emperor X grows older, he fears death more and more.",
+            "He sends servants to search for a medicine that stops aging forever.",
+            "No servant ever returns with such a medicine.",
+            "In 210 BC, Emperor X dies during a long journey far from his capital."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Qin Shi Huangdi",
+            "Kangxi",
+            "Yongle",
+            "Han Wudi"
+          ],
+          "correct": "Qin Shi Huangdi",
+          "words": [
+            {
+              "word": "strict",
+              "explanation": "very firm; rules must be obeyed"
+            },
+            {
+              "word": "punishment",
+              "explanation": "something bad that happens to you because you broke a rule"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies and knows a lot about books and ideas"
+            },
+            {
+              "word": "capital",
+              "explanation": "the main city where a ruler or a government has its seat"
+            }
+          ],
+          "main_image": {
+            "description": "Under grey smoke, a modest bonfire of bamboo-strip scrolls burns in a courtyard, watched by two East Asian officials in third-century BC Chinese robes at a careful distance, while a worker carries another bundle of strips toward the flames. Production note: no readable characters on any strip, no people near or in the fire, somber but not frightening mood, no soldiers in the frame, figures shown from behind or at a distance.",
+            "caption": "Officials watch as workers burn bundles of old writings.",
+            "shutterstock_query": "ancient chinese officials burning bamboo scrolls courtyard illustration",
+            "ai_prompt": "Photorealistic illustration of third-century BC China, a modest bonfire of bamboo-strip scrolls burning in a courtyard under grey smoke, two East Asian officials in period robes watching from a careful distance, one worker carrying another bundle of strips toward the flames, somber overcast light, figures shown from behind or at a distance. No readable characters on any strip, no people near the fire, no soldiers, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An elderly East Asian figure in third-century BC Chinese robes grinds herbs and minerals with a stone mortar and pestle at a cluttered wooden table crowded with plain ceramic jars, seen from behind or with only the hands visible. This explains the search for a medicine of long life. Production note: no modern laboratory equipment, dim warm lamplight, no readable labels on jars.",
+            "caption": "Someone grinds herbs and minerals, searching for a medicine that stops aging.",
+            "shutterstock_query": "ancient chinese herbalist mortar pestle jars closeup illustration",
+            "ai_prompt": "Photorealistic close-up illustration of an elderly East Asian figure in third-century BC Chinese robes grinding herbs and minerals with a stone mortar and pestle at a cluttered wooden table crowded with plain ceramic jars, warm dim lamplight, shown from behind or with only the hands and forearms visible. No modern laboratory equipment, no readable labels or characters on any jar, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "An Army Beneath the Ground",
+          "category": "asia",
+          "text_sentences": [
+            "Near the city of Xi'an lies the tomb of Emperor X.",
+            "Around his tomb, workers once buried a silent army made of clay.",
+            "Thousands of clay soldiers stand in rows underground.",
+            "In 1974, farmers digging a well find the first of them.",
+            "Look closely, and no two faces are exactly alike.",
+            "Many soldiers once held real bronze weapons.",
+            "The main burial mound itself has never been opened.",
+            "An old historian writes that rivers of mercury flow inside it.",
+            "Modern soil tests near the mound show unusually high levels of mercury.",
+            "Scientists still study the ground before anyone digs any deeper.",
+            "Only a few years after the emperor's death, his whole dynasty falls."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Liu Bang",
+            "Tang Taizong",
+            "Qin Shi Huangdi",
+            "Kublai Khan"
+          ],
+          "correct": "Qin Shi Huangdi",
+          "words": [
+            {
+              "word": "tomb",
+              "explanation": "a grave or a building that holds a dead person's body"
+            },
+            {
+              "word": "bronze",
+              "explanation": "a hard, reddish-brown metal, made by mixing copper and tin"
+            },
+            {
+              "word": "mound",
+              "explanation": "a small hill made by piling up earth"
+            },
+            {
+              "word": "mercury",
+              "explanation": "a heavy silver metal that is liquid and poisonous"
+            },
+            {
+              "word": "dynasty",
+              "explanation": "a line of rulers from the same family, one after another"
+            }
+          ],
+          "main_image": {
+            "description": "Rows of terracotta soldiers stand in formation inside a wide excavation pit near Xi'an, seen from behind and from a raised distance so that individual faces are not detailed close-ups, though their armor, hair, and posture clearly vary from figure to figure. Earthen pit walls around them, warm even light. Production note: no modern railings, ropes, signs, or tourists, no readable marks on armor or bases, the variety between figures should read through silhouette and posture rather than facial close-up.",
+            "caption": "Rows of clay soldiers stand underground, and the faces look different from one another.",
+            "shutterstock_query": "terracotta soldiers rows excavation pit illustration",
+            "ai_prompt": "Photorealistic wide illustration of rows of terracotta soldiers standing in formation inside a wide excavation pit near Xi'an, China, seen from behind and from a raised distance, armor, hairstyles, and posture visibly varying between figures without detailed close-up faces, earthen pit walls around them, warm even daylight. No modern railings, ropes, signs, or tourists, no readable marks on armor or bases, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A large mound covered in grass and low trees rises gently against the sky, seen from a respectful distance across open farmland near Xi'an, with no excavation, fences, or visitors in view. This explains the word 'mound' and the still-unopened tomb. Production note: calm and quiet mood, no modern buildings nearby, no signs.",
+            "caption": "A great mound of earth has never been opened.",
+            "shutterstock_query": "tree covered ancient burial mound farmland landscape illustration",
+            "ai_prompt": "Photorealistic wide illustration of a large burial mound covered in grass and low trees rising gently against a soft sky, seen from a respectful distance across open farmland near Xi'an, China, calm quiet mood, no excavation, no fences, no visitors, no modern buildings, no signs, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Tyrant or Founder?",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X joins all of China under one government more than two thousand years ago.",
+            "Was he a cruel tyrant, or the founder of a lasting nation?",
+            "Historians still argue about the answer.",
+            "Our main written source is a historian named Sima Qian.",
+            "He writes about a century after Emperor X dies, under the next dynasty.",
+            "That new dynasty gains when the old one looks bad.",
+            "Sima Qian's account mixes solid facts with dramatic, unproven stories.",
+            "The evidence from archaeology offers a second, independent voice.",
+            "Diggers, scientists, and soil samples can check the old text piece by piece.",
+            "Sometimes the buried evidence matches Sima Qian's account closely.",
+            "Sometimes it raises new doubts about details he never saw himself.",
+            "Over the centuries, the image of Emperor X has swung between monster and state-builder."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Wu Zetian",
+            "Qin Shi Huangdi",
+            "Kangxi",
+            "Yongle"
+          ],
+          "correct": "Qin Shi Huangdi",
+          "words": [
+            {
+              "word": "tyrant",
+              "explanation": "a cruel ruler with total power, unfair to the people"
+            },
+            {
+              "word": "founder",
+              "explanation": "a person who starts or builds something new, like a state"
+            },
+            {
+              "word": "archaeology",
+              "explanation": "the study of the past through digging up old objects and places"
+            },
+            {
+              "word": "account",
+              "explanation": "a written report that tells what happened"
+            }
+          ],
+          "main_image": {
+            "description": "A closed, rolled bamboo-strip scroll lies on a dark wooden table beside a broken piece of ancient pottery and a small bronze arrowhead, lit by a single warm oil lamp. This contrasts the written record with physical evidence. Production note: no readable characters on the scroll, muted historical still-life mood, no people in frame.",
+            "caption": "An old written record lies beside objects dug from the ground.",
+            "shutterstock_query": "ancient scroll pottery shard bronze artifact table still life",
+            "ai_prompt": "Photorealistic still-life illustration of a closed rolled bamboo-strip scroll on a dark wooden table beside a broken piece of ancient pottery and a small bronze arrowhead, lit by a single warm oil lamp, muted historical mood, no people in frame. No readable characters on the scroll, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A pair of bare East Asian hands gently brushes soil away from a half-buried piece of grey pottery in the ground, using a simple wooden-handled bristle brush, no face visible. This explains the word 'archaeology'. Production note: keep the scene timeless and simple, avoid modern archaeological equipment such as trowels, tags, or gloves; no readable marks on the pottery.",
+            "caption": "Careful hands brush away the earth from an old, buried object.",
+            "shutterstock_query": "hands brushing soil pottery shard ground closeup",
+            "ai_prompt": "Photorealistic close-up illustration of a pair of bare East Asian hands gently brushing soil away from a half-buried piece of grey pottery in the ground, using a simple wooden-handled bristle brush, natural outdoor light, no face visible, no modern clothing, no trowels, no tags, no gloves. No readable marks on the pottery, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "akbar",
+      "person": "Akbar",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "He Cannot Read, but Loves to Listen",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X lives in India, about five hundred years ago.",
+            "At only thirteen years old, he becomes ruler of a shaky young kingdom in northern India.",
+            "At first, an older guardian named Bairam Khan rules for him.",
+            "Emperor X never learns to read or write.",
+            "But he loves stories and ideas.",
+            "Every day, someone reads books to him out loud.",
+            "He remembers almost everything he hears.",
+            "His library grows to thousands of books from many lands.",
+            "He also loves elephants, and his court writers say he rides even the most dangerous ones."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Akbar",
+            "Babur",
+            "Krishnadevaraya",
+            "Ashoka"
+          ],
+          "correct": "Akbar",
+          "words": [
+            {
+              "word": "ruler",
+              "explanation": "a person who is the leader of a country"
+            },
+            {
+              "word": "shaky",
+              "explanation": "not steady, in danger of falling"
+            },
+            {
+              "word": "guardian",
+              "explanation": "an adult who takes care of and protects a child"
+            },
+            {
+              "word": "library",
+              "explanation": "a big collection of books, or a room full of books"
+            }
+          ],
+          "main_image": {
+            "description": "Under the shade of a large canvas tent canopy in a royal camp, on layered carpets, an elderly brown-skinned South Asian scholar in a long white coat and simple turban sits on a low stool, reading aloud from an open book with blank pages. A brown-skinned boy of about thirteen in a light turban and a long coat sits cross-legged on cushions nearby, listening closely, seen from behind. Two or three brown-skinned Central Asian and South Asian nobles in turbans and long coats stand at a respectful distance; horses and more tents in the background. Production note: the boy's face must never be visible, no readable text on the book's pages, no red sandstone buildings, no identifiable monument, the subject's name must not appear.",
+            "caption": "A boy listens closely as a book is read aloud to him.",
+            "shutterstock_query": "mughal era royal camp tent boy prince scholar reading aloud illustration",
+            "ai_prompt": "Photorealistic illustration set in sixteenth-century Mughal India: under the shade of a large canvas tent canopy in a royal camp, on layered carpets with geometric patterns, an elderly brown-skinned South Asian scholar in a long white coat and simple turban sits on a low wooden stool reading aloud from an open book with blank unreadable pages, a brown-skinned boy of about thirteen in a light turban and a long coat sits cross-legged on cushions nearby listening, seen from behind with his face never visible, two or three brown-skinned Central Asian and South Asian nobles in turbans and long coats stand at a respectful distance, horses and more tents in the background, warm golden afternoon light, no red sandstone buildings, no readable text or script anywhere, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "A Mughal-era library room where bound manuscripts lie flat in stacks inside arched wall niches and open wooden chests, some wrapped in plain cloth, seen at an angle so no writing is visible. Soft light falls through a carved stone window. This explains the word library. Production note: manuscripts always lie flat, never spine-out on shelves, every page and cover blank or turned away from the camera, no readable script anywhere, no people, no modern objects.",
+            "caption": "A library holds many books from many lands.",
+            "shutterstock_query": "mughal era library manuscripts wall niches wooden chests illustration",
+            "ai_prompt": "Photorealistic illustration of a sixteenth-century Mughal library room: bound manuscripts lying flat in stacks inside arched wall niches and inside open wooden chests, some wrapped in plain cloth, seen at an angle so no writing is visible, no bookshelves with spines facing out, soft light falling through a carved stone window with a geometric pattern, warm dusty atmosphere, no people, no modern objects, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "An Empire Grows, and an Old Tax Ends",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules the Mughal empire in northern India.",
+            "Over many years, his armies win more and more land.",
+            "He also builds alliances through marriage.",
+            "He marries princesses from powerful Hindu families.",
+            "Their fathers and brothers become his loyal allies.",
+            "In 1564, he ends an old tax that only non-Muslims must pay.",
+            "This wins him support from many of his people.",
+            "He also builds a brand new capital city.",
+            "Its walls and palaces are made of red sandstone."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Humayun",
+            "Timur",
+            "Sher Shah Suri",
+            "Akbar"
+          ],
+          "correct": "Akbar",
+          "words": [
+            {
+              "word": "empire",
+              "explanation": "many lands and peoples ruled by one ruler"
+            },
+            {
+              "word": "allies",
+              "explanation": "people or groups who help and support each other"
+            },
+            {
+              "word": "tax",
+              "explanation": "money that people must pay to their ruler or government"
+            },
+            {
+              "word": "capital",
+              "explanation": "the main city where a ruler or government sits"
+            }
+          ],
+          "main_image": {
+            "description": "A grand royal procession approaches the gate of a new red sandstone city at dusk. At the front, two elephants wear plain, pattern-free cloth covers and walk slowly side by side. Behind them, brown-skinned South Asian and Central Asian mounted guards in long coats and turbans and a closed, curtained palanquin move along a dusty road. The whole scene is viewed from a respectful distance so no face is recognisable. Production note: the elephants' cloth covers must show no pattern that could look like writing, no flags anywhere, no readable inscriptions on the gate, the subject's name must not appear.",
+            "caption": "A grand procession moves toward the gates of a new city.",
+            "shutterstock_query": "mughal royal procession elephants red sandstone gate illustration",
+            "ai_prompt": "Photorealistic wide scene in sixteenth-century Mughal India at golden hour: a royal procession approaches the gate of a new red sandstone city, two elephants at the front wearing plain pattern-free cloth covers walk side by side, brown-skinned South Asian and Central Asian mounted guards in long coats and turbans and a closed curtained palanquin follow along a dusty road, the whole scene viewed from a respectful distance with no face recognisable, warm dusty light, no flags, no readable inscriptions on the gate or walls, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "In a shaded courtyard, one brown-skinned South Asian official in a long coat and turban sits cross-legged at a single low wooden table, weighing coins on a small brass balance scale, seen from behind so no face is visible; sacks of grain are stacked high behind him. This explains the word tax, money and goods collected for the ruler. Production note: vertical composition, no readable ledger or markings on any coin or sack, no faces, no modern objects; this is the only balance scale in the set.",
+            "caption": "An official weighs coins and grain for the ruler's tax.",
+            "shutterstock_query": "mughal era official brass scale coins grain sacks from behind illustration",
+            "ai_prompt": "Photorealistic vertical illustration of a shaded courtyard in sixteenth-century Mughal India: one brown-skinned South Asian official in a long coat and turban sits cross-legged at a single low wooden table weighing coins on a small brass balance scale, seen from behind so no face is visible, plain cloth sacks of grain stacked high behind him against a sandstone wall, warm midday light, no readable ledger or markings, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A Hall Where Every Belief Has a Voice",
+          "category": "asia",
+          "text_sentences": [
+            "In 1575, Emperor X builds a special hall in his red sandstone capital.",
+            "At first, only Muslim scholars argue there.",
+            "From about 1578, he also invites thinkers of other faiths.",
+            "Hindus, Jains, and Zoroastrians now join the talks.",
+            "From 1580, Jesuit priests from Europe join too.",
+            "They argue about God, the soul, and the right way to live.",
+            "Emperor X listens for hours, night after night.",
+            "Around 1582, he forms a small circle of trusted friends at court.",
+            "Some later writers call this circle a new religion.",
+            "Historians disagree whether this circle is a religion at all.",
+            "In the same years, his workshop paints small, detailed pictures.",
+            "Scholars there also translate old Indian epics into Persian."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Akbar",
+            "Humayun",
+            "Ashoka",
+            "Krishnadevaraya"
+          ],
+          "correct": "Akbar",
+          "words": [
+            {
+              "word": "faiths",
+              "explanation": "different religions, different beliefs about God"
+            },
+            {
+              "word": "soul",
+              "explanation": "the part of a person some believe lives on after death"
+            },
+            {
+              "word": "circle",
+              "explanation": "a small, close group of people"
+            },
+            {
+              "word": "epics",
+              "explanation": "very long, old stories, often about heroes"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a long red sandstone hall with plain carved stone pillars, distinct groups of men sit in a loose circle deep in discussion: brown-skinned South Asian scholars in white robes and turbans, a Jain monk in plain pale robes, a Zoroastrian priest in a long white robe and white cap, and two pale-skinned European Jesuit priests in plain black robes. A brown-skinned ruler figure sits on a low platform at the far end, seen only from behind or at a distance so his face is never visible. Production note: no faces clearly identifiable, no readable text or symbols on any clothing or object, the subject's name must not appear.",
+            "caption": "Men of many faiths sit together and talk long into the night.",
+            "shutterstock_query": "mughal era hall religious debate scholars illustration",
+            "ai_prompt": "Photorealistic illustration inside a long red sandstone hall in sixteenth-century Mughal India, plain carved stone pillars, distinct groups of men sit in a loose circle deep in discussion: brown-skinned South Asian scholars in white robes and turbans, a Jain monk in plain pale robes, a Zoroastrian priest in a long white robe and white cap, two pale-skinned European Jesuit priests in plain black robes, a brown-skinned ruler figure seated on a low platform at the far end seen only from behind or at a distance with his face never visible, warm lamplight, no readable text or symbols on clothing or objects, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "Inside a small workshop, two brown-skinned South Asian painters sit cross-legged on the floor with small wooden boards on their knees, fine brushes in hand and shallow bowls of coloured pigment beside them, working on small paintings that are angled away from the camera so no image content is visible. Blank prepared pages are stacked nearby. Production note: no visible painted content, no readable text, no faces clearly shown.",
+            "caption": "Painters work with tiny brushes, page after page.",
+            "shutterstock_query": "mughal miniature painting workshop artists illustration",
+            "ai_prompt": "Photorealistic illustration of a sixteenth-century Mughal painting workshop: two brown-skinned South Asian painters sit cross-legged on the floor with small wooden boards on their knees, fine brushes in hand, shallow bowls of coloured pigment beside them, working on small paintings angled away from the camera so no image content is visible, stacks of blank prepared pages nearby, soft daylight from a small window, no visible painted content, no readable text, no faces clearly shown, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Running an Empire, Leaving a City",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules his empire in India with a careful system.",
+            "Officials receive ranks, and their rank decides their pay and duties.",
+            "A finance minister named Todar Mal reforms how land tax is measured.",
+            "His close friend, a scholar named Abu'l-Fazl, writes a long chronicle about his reign.",
+            "In 1568, his army takes the fortress of Chittor, and many defenders and townspeople are killed.",
+            "His capital of red sandstone at Fatehpur Sikri is used for only about fourteen years.",
+            "In 1585, he moves his court far to the north.",
+            "Historians are still not sure why the city is left behind.",
+            "His grandson later builds a famous white tomb, the Taj Mahal."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Timur",
+            "Akbar",
+            "Jahangir",
+            "Sher Shah Suri"
+          ],
+          "correct": "Akbar",
+          "words": [
+            {
+              "word": "officials",
+              "explanation": "people with a job to help run the state"
+            },
+            {
+              "word": "rank",
+              "explanation": "a level or position in an organised system"
+            },
+            {
+              "word": "chronicle",
+              "explanation": "a book that tells the story of past events"
+            },
+            {
+              "word": "fortress",
+              "explanation": "a strong building or town built for defence"
+            }
+          ],
+          "main_image": {
+            "description": "A weathered hill fortress of pale stone stands on a rocky rise, its high walls seen from a respectful distance across a dry valley. A scattering of plain canvas tents and cooking fires from a large camp lies below, but no battle, no bodies, and no weapons are shown in the frame, just before dawn light. Production note: this is meant to suggest the siege of a fortress without showing violence, no visible flags, no readable markings on any wall, the subject's name must not appear.",
+            "caption": "An army camps below the walls of a hill fortress.",
+            "shutterstock_query": "medieval indian hill fortress army camp distant illustration",
+            "ai_prompt": "Photorealistic wide scene of a sixteenth-century Indian hill fortress: pale stone walls stand on a rocky rise, seen from a respectful distance across a dry valley in soft dawn light, a scattering of plain canvas tents and small cooking fires from a large army camp lies below, no battle, no bodies, no weapons visible in the frame, no flags, no readable markings on any wall, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "An abandoned red sandstone courtyard stands quiet at sunset, tall grass growing up between the paving stones, an empty raised stone platform in the foreground, carved pillars around the edge, no people anywhere. This shows the city the court leaves behind. Production note: the architecture stays generic Mughal style, no dry water tank or other detail that suggests a reason for leaving, no readable inscriptions, no recognisable monument silhouette, no modern objects.",
+            "caption": "Grass grows in a courtyard once busy with a whole court.",
+            "shutterstock_query": "abandoned red sandstone courtyard tall grass pillars sunset illustration",
+            "ai_prompt": "Photorealistic illustration of an abandoned red sandstone courtyard from sixteenth-century Mughal India at sunset, tall grass growing between the paving stones, an empty raised stone platform in the foreground, carved plain stone pillars around the edge, warm fading light, no people, no water tank, no readable inscriptions, no recognisable monument silhouette, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          }
+        },
+        {
+          "level": "university",
+          "title": "Two Chroniclers, One Debated Legacy",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules India more than four hundred years ago.",
+            "Historians still argue about how to understand him.",
+            "Was his religious tolerance a true ideal, or mostly clever politics?",
+            "Two writers give us very different pictures of his court.",
+            "The court's official chronicler praises him as an almost perfect ruler.",
+            "A rival scholar named Badauni is far more critical in his own writings.",
+            "Badauni writes in secret, and his book appears only after the emperor's death.",
+            "Badauni especially dislikes the debates about faith in the middle of the reign.",
+            "Historians must weigh both accounts carefully against each other.",
+            "In India today, people still debate his legacy and what it means."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Aurangzeb",
+            "Krishnadevaraya",
+            "Akbar",
+            "Timur"
+          ],
+          "correct": "Akbar",
+          "words": [
+            {
+              "word": "tolerance",
+              "explanation": "accepting people with different beliefs or ways of life"
+            },
+            {
+              "word": "chronicler",
+              "explanation": "a person who writes down the story of past events"
+            },
+            {
+              "word": "rival",
+              "explanation": "a person who competes against another"
+            },
+            {
+              "word": "legacy",
+              "explanation": "what a person leaves behind and is remembered for"
+            }
+          ],
+          "main_image": {
+            "description": "In a quiet scribes' room lit by two small windows, one brown-skinned South Asian scholar in a long coat sits at a low writing desk on the left, calmly dipping a reed pen and writing on a blank page, seen mostly from behind. Across the room, another brown-skinned South Asian scholar in similar dress sits at a separate desk with a slightly tense posture, also seen from behind or the side, working on his own blank pages. Production note: no readable writing on any page, no faces clearly visible, this represents two different chroniclers without naming or identifying either.",
+            "caption": "Two writers, working apart, leave very different accounts of the same ruler.",
+            "shutterstock_query": "mughal era scholars writing manuscripts study room illustration",
+            "ai_prompt": "Photorealistic illustration of a quiet scribes' room in sixteenth-century Mughal India lit by two small stone-latticed windows, one brown-skinned South Asian scholar in a long coat and turban sits at a low writing desk on the left calmly dipping a reed pen and writing on a blank page, seen mostly from behind, across the room another brown-skinned South Asian scholar in similar dress sits at a separate desk with a slightly tense posture, also seen from behind or the side, working on his own blank pages, warm quiet light, no readable writing on any page, no faces clearly visible, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "side_image": {
+            "description": "Two closed manuscript books lie side by side on a plain cloth, one richly bound in dark red leather with a plain gold border, the other plain, worn and unadorned, no writing visible on either. Soft light falls across the cloth. This shows the two very different accounts, one grand and one plain and critical. Production note: no writing, no calligraphy or pseudo-writing on any cover, no people, no modern objects, no balance scale.",
+            "caption": "One account is grand, the other is plain and critical.",
+            "shutterstock_query": "two closed antique manuscript books leather binding plain worn cloth illustration",
+            "ai_prompt": "Photorealistic close-up of two closed sixteenth-century manuscript books lying side by side on a plain cloth in warm window light, one richly bound in dark red leather with a plain gold border, the other plain, worn and unadorned, shallow depth of field, no writing visible on any cover or page, no people, no modern objects, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no text, no letters, no numbers"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "meiji-restoration",
+      "person": "The Meiji Restoration",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Black ships in the bay",
+          "category": "asia",
+          "text_sentences": [
+            "Event X happens in Japan, an island country in Asia.",
+            "For more than two hundred years, Japan stays closed.",
+            "Only one small port lets in a few foreign traders.",
+            "Then, one day in 1853, strange black ships arrive.",
+            "Thick black smoke pours from tall chimneys on the ships.",
+            "The ships carry powerful guns and soldiers from far away.",
+            "Japan's old rulers cannot keep the world out any longer.",
+            "Fifteen years later, power goes back to a young emperor.",
+            "He is only fifteen years old.",
+            "Very quickly, big changes sweep across the land.",
+            "Many men cut off their old topknot hair and try hats from the West."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Opium Wars",
+            "The Meiji Restoration",
+            "The Boxer Rebellion",
+            "The Glorious Revolution"
+          ],
+          "correct": "The Meiji Restoration",
+          "words": [
+            {
+              "word": "port",
+              "explanation": "a town by the sea where ships load and unload"
+            },
+            {
+              "word": "foreign",
+              "explanation": "from another country"
+            },
+            {
+              "word": "rulers",
+              "explanation": "people who have the power to govern a country"
+            },
+            {
+              "word": "pours",
+              "explanation": "flows out in a thick stream"
+            },
+            {
+              "word": "topknot",
+              "explanation": "hair tied up in a knot on top of the head"
+            }
+          ],
+          "main_image": {
+            "description": "A calm fishing bay in 1853, four ships anchor offshore: two black paddle-wheel steam frigates with thick dark smoke rising from their tall funnels, each near a black sailing warship with furled sails. A small group of Japanese villagers in kimono stand on a hillside path above the shore looking out at the ships, wooden fishing boats pulled up on the sand nearby. Production note: exactly two smoking steamships and two sailing ships, 1850s Japanese coastal village only, ships shown at a respectful distance with dark unmarked hulls, no flags, no Japanese characters, no readable signs, no modern objects, no recognisable face.",
+            "caption": "One day, strange smoking ships appear in the bay, and nothing is the same again.",
+            "shutterstock_query": "1853 black paddle steamers sailing ships bay japanese coast historic illustration",
+            "ai_prompt": "Photorealistic wide view of a calm fishing bay on the Japanese coast in 1853, four ships anchored offshore, two black paddle-wheel steam frigates with thick dark smoke rising from their tall funnels and two black sailing warships with furled sails, a small group of Japanese villagers in kimono and straw sandals standing on a hillside path above the shore looking out at the ships, wooden fishing boats pulled up on the sand nearby, soft overcast light, calm tense mood, 1850s clothing and vessels only, exactly two smoking funnels, no flags, no Japanese characters, no readable signs, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view inside a simple wooden room in Japan in the early 1870s, a young Japanese man in kimono sits on a low stool seen from behind while a Japanese barber in kimono cuts off his topknot with scissors, a Western-style bowler hat rests on a small wooden stand beside them, soft daylight through paper screens. Production note: 1870s Japanese clothing and room only, no mirror showing a face, no Japanese characters, no readable text, no modern objects, no recognisable face.",
+            "caption": "Many men cut off their old topknots and try new hats from the West.",
+            "shutterstock_query": "1870s japan barber cutting topknot man from behind bowler hat illustration",
+            "ai_prompt": "Photorealistic vertical scene inside a simple wooden room in Japan in the early 1870s, a young Japanese man in kimono sitting on a low stool seen from behind while a Japanese barber in kimono cuts off his topknot with scissors, a Western-style bowler hat resting on a small wooden stand beside them, soft daylight filtering through paper screens, calm quiet mood, 1870s clothing and furniture only, no mirror, no Japanese characters, no readable text, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "One port, then unfair deals",
+          "category": "asia",
+          "text_sentences": [
+            "Event X begins in Japan after centuries under military rulers called shoguns.",
+            "In 1854, foreign warships force the shoguns to sign a first agreement.",
+            "It opens two ports to American ships.",
+            "In 1858, new treaties open Japan to trade with several foreign powers.",
+            "These treaties favor the foreign powers, not Japan.",
+            "Anger over these unfair terms splits leaders into rival camps.",
+            "A short civil war breaks out in 1868 and continues into 1869.",
+            "The old government falls, and a new one takes charge.",
+            "Power returns, in name, to a young emperor.",
+            "The new leaders promise in his name to seek knowledge from all over the world.",
+            "The emperor moves from Kyoto to Edo, which gets the new name Tokyo."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Meiji Restoration",
+            "The Taiping Rebellion",
+            "The Opium Wars",
+            "The Tanzimat reforms"
+          ],
+          "correct": "The Meiji Restoration",
+          "words": [
+            {
+              "word": "shoguns",
+              "explanation": "military rulers who once governed the country in the emperor's name"
+            },
+            {
+              "word": "agreement",
+              "explanation": "a deal that two or more sides accept together"
+            },
+            {
+              "word": "treaties",
+              "explanation": "formal written agreements between countries"
+            },
+            {
+              "word": "rival",
+              "explanation": "competing against another group or person"
+            }
+          ],
+          "main_image": {
+            "description": "A formal meeting in 1854 inside a simple wooden treaty house built on the shore, a few Japanese officials in traditional court robes sit on one side of a low table, American naval officers in dark blue frock coats with epaulettes and cocked hats sit or stand on the other side, a folded blank paper document lies on the table between them, plain wooden walls and paper screens behind, soft daylight, no ships in view. Production note: 1850s Japanese and American dress only, document blank or closed, no readable text on any paper, no flags, no Japanese characters, no modern objects, no recognisable face.",
+            "caption": "At a meeting by the shore, the country's old rulers agree to terms they did not choose.",
+            "shutterstock_query": "1854 japan treaty house meeting officials american naval officers illustration",
+            "ai_prompt": "Photorealistic scene of a formal meeting in Japan in 1854 inside a simple wooden treaty house built on the shore, a few Japanese officials in traditional court robes seated on one side of a low table, American naval officers in dark blue frock coats with epaulettes and cocked hats seated or standing on the other side, a folded blank paper document on the table between them, plain wooden walls and paper screens behind, soft daylight, tense formal mood, 1850s clothing and objects only, no ships, document blank, no readable text, no flags, no Japanese characters, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of two lines of soldiers facing each other across a misty field at dawn in 1868, both lines mostly in dark Western-style uniforms and caps with rifles at rest, a few men on each side still in traditional armor or with topknots, both lines standing still, no weapons raised, no fighting shown, distant hills behind. Production note: 1868 Japanese uniforms, armor and rifles only, both sides look alike, no blood, no fallen figures, no readable banners, no Japanese characters, no flags, no modern objects, no recognisable face, respectful distant mood.",
+            "caption": "Leaders who disagree about the country's path face each other on the battlefield.",
+            "shutterstock_query": "1868 japan civil war two armies rifles mixed dress dawn field illustration",
+            "ai_prompt": "Photorealistic vertical scene of two lines of soldiers facing each other across a misty field at dawn in Japan in 1868, both lines mostly in dark Western-style uniforms and caps with rifles held at rest, a few men on each side still in traditional armor or with topknots, both lines standing still with no weapons raised and no fighting shown, distant hills behind, quiet tense mood, 1868 clothing, armor and rifles only, no blood, no fallen figures, no banners, no flags, no Japanese characters, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A mission abroad, then a wave of new laws",
+          "category": "asia",
+          "text_sentences": [
+            "Event X reshapes Japan through a wave of new laws.",
+            "A mission of top officials sails abroad from 1871 to 1873.",
+            "They study schools, factories, armies and parliaments in Europe and America.",
+            "Back home, a law in 1872 promises a school for every child.",
+            "That same year, the first railway opens between Tokyo and Yokohama.",
+            "A law in 1873 orders young men from every class into the army.",
+            "Until then, only one warrior class carries swords and serves as soldiers.",
+            "In 1876, a new law bans that class from wearing swords in public.",
+            "Former warriors lose their old status and their old income.",
+            "Angry former warriors rise up in 1877, but the new army defeats them.",
+            "After that defeat, no one takes up arms against the new order again."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Tanzimat reforms",
+            "The Reform Movement of 1898",
+            "The Meiji Restoration",
+            "The Young Turk Revolution"
+          ],
+          "correct": "The Meiji Restoration",
+          "words": [
+            {
+              "word": "mission",
+              "explanation": "a group sent abroad with a special purpose"
+            },
+            {
+              "word": "railway",
+              "explanation": "a track with trains that carry people and goods"
+            },
+            {
+              "word": "status",
+              "explanation": "a person's rank or position in society"
+            },
+            {
+              "word": "defeats",
+              "explanation": "beats an enemy in a fight"
+            }
+          ],
+          "main_image": {
+            "description": "A small wooden railway station with a tiled roof in Japan in 1872, seen from the platform. Waiting passengers stand in the foreground seen from behind, most in kimono, some with paper umbrellas, a few in Western coats and bowler hats. At the far end of the platform, a small early steam locomotive with a tall chimney stands with a short line of small closed wooden carriages; the sea and a telegraph pole with wires behind. Production note: 1872 Japanese clothing, station and train only, closed carriages, plain unmarked boiler and carriages, no nameplate, no Japanese characters, no readable signs, no flags, no modern objects, no recognisable face.",
+            "caption": "A new kind of engine links two cities in less than an hour.",
+            "shutterstock_query": "1872 japan wooden railway station platform passengers kimono from behind illustration",
+            "ai_prompt": "Photorealistic scene of a small wooden railway station with a tiled roof in Japan in 1872 seen from the platform, waiting passengers in the foreground seen from behind, most in kimono, some holding paper umbrellas, a few in Western coats and bowler hats, a small early steam locomotive with a tall chimney and a short line of small closed wooden carriages standing at the far end of the platform, the sea and a telegraph pole with wires behind, clear daylight, orderly hopeful mood, 1872 clothing, station and train only, closed carriages, plain unmarked boiler and carriages, no nameplate, no Japanese characters, no readable signs, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical close view of a single traditional sword resting alone on a plain wooden stand in a bare room, soft light from a window, a faint dust haze in the air, no hands or people in frame. Production note: plain wooden stand and sword only, no engraving, no Japanese characters, no readable text anywhere, no flags, no modern objects, no other objects.",
+            "caption": "After a new law in 1876, a sword like this can no longer be worn in public.",
+            "shutterstock_query": "japanese sword wooden stand bare room historic illustration",
+            "ai_prompt": "Photorealistic vertical close view of a single traditional sword resting alone on a plain wooden stand in a bare room, soft window light, faint dust haze in the air, quiet still mood, no hands, no people, no engraving, no Japanese characters, no readable text, no flags, no modern objects, no other objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A new army, a new price",
+          "category": "asia",
+          "text_sentences": [
+            "Event X gives Japan a new political system within a few decades.",
+            "A written constitution appears in 1889, granting the emperor final say.",
+            "A parliament opens the next year, though few citizens may vote for it.",
+            "Japan also builds a strong modern army and navy in this period.",
+            "In 1894, war breaks out against the neighboring Chinese empire.",
+            "A quick victory follows within a year, surprising observers worldwide.",
+            "A second war begins in 1904 against Russia, a much larger European empire.",
+            "Against most predictions, the smaller Asian power wins that war by 1905.",
+            "By 1910, Japan has taken full control of Korea.",
+            "Ordinary peasants pay heavy new taxes to fund all this change.",
+            "Young women from poor families work long hours in new silk and cotton mills.",
+            "Few of them share fairly in the nation's new wealth and pride."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Boxer Rebellion",
+            "The Taiping Rebellion",
+            "The Opium Wars",
+            "The Meiji Restoration"
+          ],
+          "correct": "The Meiji Restoration",
+          "words": [
+            {
+              "word": "constitution",
+              "explanation": "a country's basic set of laws and rules"
+            },
+            {
+              "word": "parliament",
+              "explanation": "a group of elected people who help make laws"
+            },
+            {
+              "word": "predictions",
+              "explanation": "guesses about what will happen next"
+            },
+            {
+              "word": "mills",
+              "explanation": "factories with machines that make cloth or thread"
+            }
+          ],
+          "main_image": {
+            "description": "The interior of a formal assembly hall in 1890, rows of Japanese men in dark Western-style suits sit at plain wooden desks facing a raised platform, a single figure stands at the platform addressing the room, tall windows let in soft light. Production note: 1890 Japanese formal dress only, platform and desks unmarked, no readable documents or signs, no flags, no Japanese characters, no modern objects, no recognisable face, faces generic.",
+            "caption": "In this new hall, elected men gather to debate the country's laws.",
+            "shutterstock_query": "1890 japan assembly hall men western suits desks illustration",
+            "ai_prompt": "Photorealistic scene inside a formal assembly hall in Japan in 1890, rows of Japanese men in dark Western-style suits seated at plain wooden desks facing a raised platform, a single figure standing at the platform addressing the room, tall windows letting in soft light, orderly formal mood, 1890 clothing and furniture only, platform and desks unmarked, no readable documents, no signs, no flags, no Japanese characters, no modern objects, no recognisable face, faces generic, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view inside a silk-reeling hall in Japan in the 1890s, several young Japanese women in plain work kimono with aprons and tied-back hair sit in a row seen from behind at basins of steaming water, drawing fine thread from white silk cocoons onto wooden reels, soft light from high windows, a supervisor barely visible in the background, no machines in rows. Production note: 1890s Japanese factory clothing and simple reeling equipment only, no rows of spinning machines, no visible injury, no distress, no readable signs, no Japanese characters, no flags, no modern objects, no recognisable face.",
+            "caption": "Young women like these work long hours in the new mills that help pay for change.",
+            "shutterstock_query": "1890s japan silk reeling hall young women cocoons basins from behind illustration",
+            "ai_prompt": "Photorealistic vertical scene inside a silk-reeling hall in Japan in the 1890s, several young Japanese women in plain work kimono with aprons and tied-back hair sitting in a row seen from behind at basins of steaming water, drawing fine thread from white silk cocoons onto wooden reels, soft light from high windows, a supervisor barely visible in the background, calm but tiring mood, 1890s clothing and simple reeling equipment only, no rows of spinning machines, no visible injury, no distress, no readable signs, no Japanese characters, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Revolution from above",
+          "category": "asia",
+          "text_sentences": [
+            "Historians often call Event X in Japan a revolution carried out from above.",
+            "Unlike other revolutions, it starts among leaders, not among angry crowds.",
+            "A small group of former warriors seizes the state and rebuilds it fast.",
+            "They keep the emperor as a symbol while running the new system themselves.",
+            "Scholars still debate why this transformation succeeds so fully in Japan alone.",
+            "Some point to earlier local trade networks, literacy and a strong bureaucracy.",
+            "Others stress timing, since the great powers are busy elsewhere in those years.",
+            "Nationalists in other parts of Asia and in Africa study this example closely.",
+            "Many see it as proof that a non-Western state can stand up to the great powers of Europe.",
+            "Yet the same reforms also build the tools for later military expansion.",
+            "Within decades, the modernized army becomes a force for conquest abroad.",
+            "Historians therefore read the era as both an example and a warning."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The French Revolution",
+            "The Meiji Restoration",
+            "The Young Turk Revolution",
+            "The Tanzimat reforms"
+          ],
+          "correct": "The Meiji Restoration",
+          "words": [
+            {
+              "word": "bureaucracy",
+              "explanation": "the officials and offices that run a state's daily business"
+            },
+            {
+              "word": "nationalists",
+              "explanation": "people who work for their nation's freedom or strength"
+            },
+            {
+              "word": "literacy",
+              "explanation": "the ability to read and write"
+            },
+            {
+              "word": "conquest",
+              "explanation": "taking control of a place by force"
+            }
+          ],
+          "main_image": {
+            "description": "A town street in the 1880s where a row of wooden telegraph poles with wires runs beside a mix of traditional wooden shopfronts and one new Western-style brick building, Japanese pedestrians in mixed dress walk past, some in kimono, others in Western coats and bowler hats, overcast daylight. Production note: 1880s Japanese street only, no readable signs or shopfront text, no Japanese characters, no flags, no modern vehicles, no modern objects, no recognisable face, faces generic and not identifiable.",
+            "caption": "Along streets like this one, new wires and new buildings appear within a single generation.",
+            "shutterstock_query": "1880s japan town street telegraph poles mixed buildings pedestrians illustration",
+            "ai_prompt": "Photorealistic wide scene of a town street in Japan in the 1880s, a row of wooden telegraph poles with wires beside a mix of traditional wooden shopfronts and one new Western-style brick building, Japanese pedestrians in mixed dress walking past, some in kimono, others in Western coats and bowler hats, overcast daylight, quiet transitional mood, 1880s clothing and buildings only, no readable signs, no shopfront text, no Japanese characters, no flags, no modern vehicles, no modern objects, no recognisable face, faces generic, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a quiet archive room seen from the side, wooden shelves holding old paper-bound documents tied with cord and flat wooden boxes, a plain table with one closed old ledger, soft window light, no people. Production note: no readable text on any document, box or ledger, no labels, no Japanese characters, no logos, no modern objects, no recognisable face.",
+            "caption": "Today, historians still study old records to understand why this change worked here.",
+            "shutterstock_query": "old archive room wooden shelves paper documents tied cord no people illustration",
+            "ai_prompt": "Photorealistic vertical scene of a quiet archive room seen from the side, wooden shelves holding old paper-bound documents tied with cord and flat wooden boxes, a plain table with one closed old ledger, soft window light, quiet studious mood, no people, no readable text on any document, box or ledger, no labels, no Japanese characters, no logos, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
