@@ -9,7 +9,7 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**340 kort · 68 ämnen**, samtliga faktagranskade och specgranskade.
+**370 kort · 74 ämnen**, samtliga faktagranskade och specgranskade.
 Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
 svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
@@ -37,6 +37,8 @@ svensk översättning (växla språk med knappen på förhandsvisningssidorna).
   Ibn Battuta, Upplysningen
 - **Leverans 11** — Norman Borlaug, Transatlantiska slavhandeln, Mansa Musa,
   Swahilikusten, Kapplöpningen om Afrika, Afrikas självständighet
+- **Leverans 12** — Qin Shi Huangdi, Sidenvägen, Ashoka, Zheng He, Akbar,
+  Meijirestaurationen
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -84,11 +86,11 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(680 st för leverans 1–11: 340 kort × huvudbild + sidobild).
+(740 st för leverans 1–12: 370 kort × huvudbild + sidobild).
 
-**Status: 544 av 680 bilder klara** — samtliga kort i leverans 1–8 har
+**Status: 544 av 740 bilder klara** — samtliga kort i leverans 1–8 har
 huvudbild och sidobild; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
-hela Marie Curie) och leverans 10–11 väntar helt, i väntan på påfyllda
+hela Marie Curie) och leverans 10–12 väntar helt, i väntan på påfyllda
 krediter hos bildtjänsten. Varje batch
 har kvalitetsgranskats bild för bild mot sina briefer, och underkända bilder
 har genererats om.
@@ -7824,6 +7826,673 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 **Svar:** ⬜ The Négritude movement · ⬜ The Pan-African movement · ✅ African independence · ⬜ The anti-apartheid movement
 
 **Ord:** *economy* — how a country makes, uses, and trades goods and money · *raw materials* — natural things like metals, oil, or crops before they are made into products · *non-aligned* — not joining or siding with either of two powerful groups · *self-reliance* — depending mainly on your own work and resources · *survey* — a careful study that collects information by asking or measuring
+
+</details>
+
+### Sidenvägen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Road Made of Many Roads</summary>
+
+> Road X is not one single road.  
+> It is many roads that connect together, like a long chain.  
+> The roads start in a great city in China and run west.  
+> Camels carry soft shiny cloth called silk from China.  
+> The cloth comes from tiny worms that eat leaves and spin thread.  
+> For a long time, only China knows this secret.  
+> Traders bring horses, glass, and other goods back the other way.  
+> Small towns along the roads grow rich at the desert's edge.  
+> These oasis towns give travelers water, food, and a place to rest.  
+> **Which road is Road X?**
+
+**Svar:** ⬜ The Amber Road · ✅ The Silk Road · ⬜ The Incense Route · ⬜ The Grand Trunk Road
+
+**Ord:** *silk* — a soft, shiny cloth made from very fine thread · *oasis* — a green, wet place with water in the middle of a dry desert · *traders* — people whose job is to buy and sell goods · *spin* — to turn something round and round to make a long thread
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — An Envoy Opens the Way West</summary>
+
+> Road X grows into an important network around two thousand years ago.  
+> A Chinese envoy named Zhang Qian travels west around 138 BC.  
+> His long journey helps open a safer path between east and west.  
+> Traders start their journeys in great cities like Chang'an in China.  
+> Silk cloth passes from trader to trader, thousands of kilometers toward the west.  
+> Along the way, traders also carry iron tools and polished bronze mirrors.  
+> Going east, other traders bring horses, glass, wool, and gold.  
+> Rich cities like Samarkand and Bukhara grow along the middle of the roads.  
+> Wealthy people far away in Rome pay high prices for silk cloth.  
+> Some Roman writers even complain that silk costs the empire too much gold.  
+> **Which road is Road X?**
+
+**Svar:** ✅ The Silk Road · ⬜ The Tea Horse Road · ⬜ The Royal Road · ⬜ The trans-Saharan trade route
+
+**Ord:** *envoy* — a person sent by a ruler to speak or travel on official business · *network* — a set of roads or paths that connect and cross each other · *empire* — many lands and peoples ruled by one government · *wealthy* — having a lot of money or valuable things
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Ideas Travel Along the Road</summary>
+
+> Silk and other goods travel along Road X, but ideas travel too.  
+> Buddhism spreads from India into China along these very roads.  
+> Monks carry sacred texts and teachings together with merchant caravans.  
+> Going the other way, the skill of making paper slowly travels west.  
+> A story says Chinese paper makers are captured after a battle far west of China.  
+> Through Samarkand, the new skill of papermaking finally reaches the wider world.  
+> Deep in the desert near Dunhuang, monks carve hundreds of caves into a cliff.  
+> Inside, painters cover the walls with colorful scenes for many centuries.  
+> One sealed cave, full of old manuscripts, stays hidden and forgotten for about nine hundred years.  
+> A caretaker and his workers open this hidden cave again in the year 1900.  
+> From 1907, scholars from Europe buy thousands of the manuscripts and take them away, and the rest go to Beijing in 1910.  
+> **Which road is Road X?**
+
+**Svar:** ⬜ The Spice Route · ⬜ The King's Highway · ⬜ The Amber Road · ✅ The Silk Road
+
+**Ord:** *sacred* — seen as holy and treated with great respect · *manuscripts* — old books or texts written by hand · *scholars* — people who study and learn a subject very deeply · *carve* — to cut shapes into stone, wood, or rock
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Peace, a Traveler, and a Great Plague</summary>
+
+> In the 1200s, Mongol rulers take control of huge stretches of Road X.  
+> For about a hundred years in the 1200s and 1300s, one family of rulers keeps the whole road safe.  
+> Under their strong rule, merchants carry silk, paper, and painted pottery more safely than before.  
+> A merchant named Marco Polo travels these roads all the way to China.  
+> Later, he tells stories about the wonders he saw on his journey.  
+> Many readers in Europe find his stories hard to believe.  
+> In the 1300s, a great plague also travels west along these roads.  
+> In the same years, around 1347, it spreads from Asia into the Middle East and into Europe.  
+> The plague kills a huge share of the people it reaches.  
+> Around the year 1500, sailors find new sea routes between east and west.  
+> Slowly, ships carry more cargo than the old roads on land.  
+> **Which road is Road X?**
+
+**Svar:** ⬜ The Incense Route · ⬜ The Grand Trunk Road · ✅ The Silk Road · ⬜ The Tea Horse Road
+
+**Ord:** *merchants* — people who buy and sell goods, often over long distances · *cargo* — goods carried by a ship, truck, or other vehicle · *plague* — a very serious disease that spreads fast and kills many people · *routes* — ways or paths that lead from one place to another
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — One Name for Many Roads</summary>
+
+> Historians do not always use one single name for Road X.  
+> For centuries, travelers and merchants speak only of separate roads and trading posts.  
+> In 1877, a German scholar named Ferdinand von Richthofen invents a new name for the whole network.  
+> He names the network after the most famous good carried along it, silk.  
+> His new word links many different roads together under one single idea.  
+> Some historians now argue that Road X was never really one road at all.  
+> They prefer to say roads, in the plural, stretching across many centuries and cultures.  
+> Others still find the single, simple name useful for teaching and writing.  
+> Goods, ideas, diseases, and people all moved along these roads for a very long time.  
+> Today, the same old name also has a busy political life in modern trade and diplomacy.  
+> **Which road is Road X?**
+
+**Svar:** ✅ The Silk Road · ⬜ The Royal Road · ⬜ The Spice Route · ⬜ The King's Highway
+
+**Ord:** *invents* — makes up or creates something new · *plural* — a word form that shows there is more than one · *diplomacy* — careful talks between countries to solve problems peacefully · *scholar* — a person who studies a subject very deeply
+
+</details>
+
+### Ashoka
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — An Emperor Who Stops Fighting</summary>
+
+> Emperor X rules a great empire in India.  
+> He lives more than two thousand years ago.  
+> His family built this empire two generations before him.  
+> Emperor X wants to make his empire even bigger.  
+> He sends his army to attack a free land nearby.  
+> The war is terrible, and many people die.  
+> Afterward, Emperor X feels a deep, heavy sorrow.  
+> He decides never to fight a war like this again.  
+> He chooses a new way to rule.  
+> He orders wells dug along the roads, for clean water.  
+> He orders shade trees planted for tired travelers.  
+> He orders care for the sick, for people and for animals too.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Chandragupta Maurya · ✅ Ashoka · ⬜ Harsha · ⬜ Kanishka
+
+**Ord:** *empire* — a large group of lands and peoples ruled by one ruler · *sorrow* — a strong feeling of sadness · *wells* — deep holes dug into the ground to reach water · *travelers* — people who are on a journey, going from place to place
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Words on a Rock, After Kalinga</summary>
+
+> Emperor X rules a great empire in India, more than two thousand years ago.  
+> Around 261 BC, his army wins a terrible war in the land of Kalinga.  
+> His own words, carved on a rock, say that a hundred thousand people die.  
+> After this war, he turns more and more to the teaching of the Buddha.  
+> He chooses a new way to rule, and he calls it dhamma, right living.  
+> He orders his messages carved into rocks and tall stone pillars.  
+> Workers place these messages across the whole empire, often beside busy roads.  
+> The messages tell people to respect their parents, their teachers, and their servants.  
+> Special officers of dhamma travel out to explain the messages.  
+> In many regions, people hear his words read aloud in their own language.  
+> In the far northwest, some messages are even carved in Greek.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Samudragupta · ⬜ Chandragupta II · ✅ Ashoka · ⬜ Rajaraja Chola
+
+**Ord:** *dhamma* — the emperor's own word for right living and good behavior · *carved* — cut deep marks into something hard, like stone · *pillars* — tall, strong stone posts that stand alone · *regions* — parts of a country or a large area of land
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Rules for Every Faith and Many Animals</summary>
+
+> More than two thousand years ago, Emperor X rules a great empire in India.  
+> His new ideas are carved on rocks and pillars for all to read.  
+> One message says: respect people of every faith, not only your own.  
+> Another message protects animals: many kinds of animals may not be killed.  
+> He says his own kitchen once killed many animals every day, and now only two peacocks and one deer.  
+> Emperor X also sends messengers to rulers in distant lands, far beyond his own empire.  
+> They carry his ideas about kindness and right living.  
+> Tradition says that his own son and daughter carry the Buddha's teaching to Sri Lanka.  
+> There, tradition says, people welcome the new teaching warmly.  
+> Through messages and messengers, one ruler's change of heart reaches far beyond his own land.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Krishnadevaraya · ⬜ Akbar · ✅ Ashoka · ⬜ Harsha
+
+**Ord:** *faith* — a religion, or a strong belief in something · *messengers* — people sent to carry news or messages to others · *tradition* — an old story or custom, passed on for a long time · *protects* — keeps something safe from harm
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Silent for Two Thousand Years</summary>
+
+> Emperor X's own words are carved in stone across a great empire in India.  
+> For more than two thousand years, people forget who wrote them.  
+> Over the centuries, even the old script itself is forgotten, and nobody can read it.  
+> The rocks and pillars stand quiet, their meaning unknown.  
+> In 1837, a British official in India reads the script again.  
+> His name is James Prinsep, and he works it out slowly, letter by letter.  
+> Suddenly, the emperor's own words speak again, after so long.  
+> Soon, with help from old chronicles of Sri Lanka, historians can put a name to the ruler behind the inscriptions.  
+> Today, a wheel from one of his stone pillars sits on India's flag.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Chandragupta Maurya · ⬜ Kanishka · ⬜ Samudragupta · ✅ Ashoka
+
+**Ord:** *official* — a person who does an important job for a government · *script* — a system of signs or letters used for writing · *inscriptions* — words cut into stone or metal · *chronicles* — old books that record events year by year · *centuries* — periods of one hundred years each
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Edicts and Legends</summary>
+
+> Emperor X rules a great empire in India from his capital, Pataliputra.  
+> He leaves us two very different kinds of sources.  
+> First, his own edicts, carved in his own lifetime on rocks and pillars.  
+> These edicts tell us what he wants his people to believe about him.  
+> Second, later Buddhist writers tell stories about him, centuries after his death.  
+> These stories often praise him and make him sound like a perfect ruler.  
+> Historians ask a hard question: is this history, or is it propaganda?  
+> Perhaps the truth lies somewhere between real conviction and clever image-making.  
+> Either way, his edicts are among the oldest deciphered writing from India.  
+> In modern India, some movements use his image of non-violence as a model.  
+> Every old source hides a second question: who wrote this, and what did he want?  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Rajaraja Chola · ✅ Ashoka · ⬜ Krishnadevaraya · ⬜ Chandragupta II
+
+**Ord:** *edicts* — official orders or rules announced by a ruler · *propaganda* — pictures, words, and art that try to control what people think · *conviction* — a strong, honest belief · *deciphered* — worked out the meaning of a difficult or secret writing system
+
+</details>
+
+### Zheng He
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — The Boy Who Leads a Giant Fleet</summary>
+
+> Admiral X is born about six hundred years ago in southwest China.  
+> His home is in the mountains, in a region called Yunnan.  
+> Soldiers take him away when he is a boy.  
+> He is sent to serve at a prince's court.  
+> He grows up clever and tall, and the prince trusts him.  
+> Later, this prince becomes emperor and gives him a huge job.  
+> Admiral X commands a fleet of huge wooden ships.  
+> They are among the biggest ever built, records say.  
+> The fleet sails to India, Arabia, and the coast of East Africa.  
+> It gives away silk and porcelain from China.  
+> It brings home spices, jewels, incense, ivory, and rare animals.  
+> One gift amazes everyone: a tall animal with a very long neck.  
+> **Who is Admiral X?**
+
+**Svar:** ⬜ Marco Polo · ⬜ Christopher Columbus · ✅ Zheng He · ⬜ Ferdinand Magellan
+
+**Ord:** *fleet* — a large group of ships that travel together · *emperor* — a powerful ruler of a whole country, like ancient China · *porcelain* — a hard, thin, white type of pottery · *incense* — a material that gives a sweet smell when it is burned · *ivory* — the hard white material from an elephant's tusk
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Seven Journeys Across the Indian Ocean</summary>
+
+> Admiral X leads seven great sea journeys between 1405 and 1433.  
+> Each time, he sails from China with a huge fleet of wooden ships.  
+> Records of the time say the biggest fleets have more than sixty large ships.  
+> They carry about twenty-seven thousand men.  
+> The ships carry soldiers, sailors, doctors, translators, and even astrologers.  
+> The fleet sails south through the seas of Southeast Asia, then west across the Indian Ocean.  
+> It reaches busy ports in India, where merchants trade pepper and cotton cloth.  
+> From there, some ships sail on to Arabia and the Persian Gulf.  
+> Other ships follow the coast of East Africa, stopping at towns that trade in gold and ivory.  
+> At every port, Admiral X offers gifts of silk and porcelain in the emperor's name.  
+> In return, local rulers send gifts back to China, including precious stones and rare woods.  
+> The emperor wants respect and trade, not new land to rule.  
+> **Who is Admiral X?**
+
+**Svar:** ⬜ Vasco da Gama · ✅ Zheng He · ⬜ Xu Fu · ⬜ Ibn Battuta
+
+**Ord:** *translators* — people whose job is to turn words from one language into another · *astrologers* — people who study the stars and believe they can predict the future · *ivory* — the hard white material from an elephant's tusk · *porcelain* — a hard, thin, white type of pottery
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Fights on Two Islands and a Pirate Fleet</summary>
+
+> Admiral X serves a new emperor who takes the throne in China in 1402, after years of civil war.  
+> The emperor wants the world to know China's power and wealth.  
+> A later history says he also wants ships watching the seas, in case a rival is hiding abroad.  
+> This rival is the emperor's own nephew, whom he had pushed from the throne.  
+> He chooses Admiral X to lead great fleets across the seas to the west.  
+> Most ports welcome the fleet with gifts and open markets.  
+> On the way home from the first journey, in 1407, the fleet defeats a large pirate fleet near Sumatra.  
+> Traders in those seas can now sail more safely.  
+> But in 1411, on the island of Sri Lanka, a local ruler turns against the sailors.  
+> Admiral X and his soldiers fight and capture him, then send him to the emperor's court.  
+> A few years later, on the island of Sumatra, another local ruler attacks the fleet.  
+> Again, Admiral X and his men fight back and defeat him.  
+> **Who is Admiral X?**
+
+**Svar:** ⬜ Faxian · ⬜ Zhang Qian · ⬜ Marco Polo · ✅ Zheng He
+
+**Ord:** *throne* — the special chair, and the power, of a king or emperor · *rival* — a person who competes against you for power or a prize · *capture* — to catch and hold a person as a prisoner · *pirate* — a person who attacks and robs ships at sea
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Why the Great Fleets Stop Sailing</summary>
+
+> Admiral X leads his last great voyage in the early 1430s.  
+> By then, the emperor who first sent him to sea has been dead for years.  
+> New emperors sit on the throne, and their scholar-officials advise them.  
+> These officials write and pass the hardest exams in the empire, and they run the government.  
+> They see the huge fleets as very costly and of little real use to the empire.  
+> Grain for the capital and soldiers for the northern border, they argue, matter more than gifts from faraway lands.  
+> Some records of the voyages are later lost or destroyed at court.  
+> After Admiral X, no more giant fleets sail from China again.  
+> Later, new laws limit the size of ships allowed to leave the coast.  
+> Admiral X himself dies around 1433, perhaps far from home on the last voyage.  
+> A tradition says his clothes and cap lie in the grave in Nanjing.  
+> **Who is Admiral X?**
+
+**Svar:** ✅ Zheng He · ⬜ Yi Sun-sin · ⬜ Vasco da Gama · ⬜ Christopher Columbus
+
+**Ord:** *scholar-officials* — highly educated men who pass hard exams and run the government · *grain* — seeds of wheat, rice, or corn used as food · *costly* — expensive, costing a great deal of money · *voyage* — a long journey by sea
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — How Big Were the Ships, Really?</summary>
+
+> Historians study Admiral X using several kinds of old sources.  
+> Ming government records list the fleets, their captains, and their routes.  
+> A few men who sail with the fleet later write down what they see.  
+> A stone at his father's grave says that his family follows Islam.  
+> Stone tablets from some ports also record the fleet's visits.  
+> These sources do not fully agree on the size of the biggest ships.  
+> Some old records say the biggest ships were as long as a football field, but many historians doubt it.  
+> Wood and engineering of that time, they argue, make ships that huge hard to sail safely.  
+> In 2002, a writer claims in a popular book that the fleet reaches the Americas.  
+> Trained historians reject this claim, since it rests on no real evidence.  
+> Meanwhile, China stops sending great fleets abroad, while European kingdoms start sending small ships further and further from home.  
+> Historians still debate why the two paths diverge so sharply.  
+> **Who is Admiral X?**
+
+**Svar:** ⬜ Xu Fu · ⬜ Faxian · ✅ Zheng He · ⬜ Ibn Battuta
+
+**Ord:** *tablets* — flat pieces of stone or wood with words cut or written on them · *evidence* — facts that help prove something is true · *diverge* — to separate and go in different directions · *engineering* — the skill of designing and building large structures like ships or bridges
+
+</details>
+
+### Qin Shi Huangdi
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — One Country, One System</summary>
+
+> Emperor X lives in China, more than two thousand years ago.  
+> He becomes king when he is only thirteen.  
+> His state is one of the strongest of the many warring states.  
+> For years, these states fight each other.  
+> Slowly, his armies win war after war.  
+> At last, his state defeats all the others.  
+> Emperor X takes a brand new title.  
+> It means: the first ruler of all.  
+> Now every part of his land uses the same writing.  
+> Coins, weights, and the distance between cart wheels are the same too.  
+> Today an army of clay soldiers still stands guard near his grave.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Kublai Khan · ✅ Qin Shi Huangdi · ⬜ Han Wudi · ⬜ Liu Bang
+
+**Ord:** *state* — a land with its own ruler and its own laws · *warring* — fighting wars against each other · *title* — a special name for a person's rank or job · *weights* — pieces of metal used to measure how heavy things are · *clay* — soft, heavy earth that can be shaped and baked hard
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Hidden Dagger, New Roads, a Long Wall</summary>
+
+> Emperor X rules China more than two thousand years ago.  
+> As a young king, he has rival states all around him.  
+> In 227 BC, a visitor from a rival state comes close to him.  
+> The visitor hides a dagger inside a rolled map.  
+> He tries to kill the king, but the plan fails.  
+> Emperor X survives, and the wars go on.  
+> By 221 BC, his armies defeat every rival state.  
+> He orders new roads across his land, so armies and traders move fast.  
+> Workers dig a canal that joins two great river systems.  
+> In the north, older earth walls are joined into one long wall.  
+> This early wall is not the famous stone wall that visitors see today.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Tang Taizong · ⬜ Wu Zetian · ⬜ Genghis Khan · ✅ Qin Shi Huangdi
+
+**Ord:** *dagger* — a short, sharp knife used as a weapon · *rival* — a person or group that fights against you for the same thing · *survives* — stays alive after great danger · *canal* — a waterway dug by people, for boats or for water
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Burned Books and a Medicine for Ever</summary>
+
+> Emperor X rules China with very strict laws.  
+> Even small crimes bring harsh punishment.  
+> His top advisor wants every scholar to follow one single set of ideas.  
+> In 213 BC, the government orders many old books burned.  
+> Books about medicine, farming, and fortune-telling stay safe.  
+> A later historian writes that he had scholars killed who spoke against him.  
+> Many doubt the details of this story.  
+> As Emperor X grows older, he fears death more and more.  
+> He sends servants to search for a medicine that stops aging forever.  
+> No servant ever returns with such a medicine.  
+> In 210 BC, Emperor X dies during a long journey far from his capital.  
+> **Who is Emperor X?**
+
+**Svar:** ✅ Qin Shi Huangdi · ⬜ Kangxi · ⬜ Yongle · ⬜ Han Wudi
+
+**Ord:** *strict* — very firm; rules must be obeyed · *punishment* — something bad that happens to you because you broke a rule · *scholar* — a person who studies and knows a lot about books and ideas · *capital* — the main city where a ruler or a government has its seat
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — An Army Beneath the Ground</summary>
+
+> Near the city of Xi'an lies the tomb of Emperor X.  
+> Around his tomb, workers once buried a silent army made of clay.  
+> Thousands of clay soldiers stand in rows underground.  
+> In 1974, farmers digging a well find the first of them.  
+> Look closely, and no two faces are exactly alike.  
+> Many soldiers once held real bronze weapons.  
+> The main burial mound itself has never been opened.  
+> An old historian writes that rivers of mercury flow inside it.  
+> Modern soil tests near the mound show unusually high levels of mercury.  
+> Scientists still study the ground before anyone digs any deeper.  
+> Only a few years after the emperor's death, his whole dynasty falls.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Liu Bang · ⬜ Tang Taizong · ✅ Qin Shi Huangdi · ⬜ Kublai Khan
+
+**Ord:** *tomb* — a grave or a building that holds a dead person's body · *bronze* — a hard, reddish-brown metal, made by mixing copper and tin · *mound* — a small hill made by piling up earth · *mercury* — a heavy silver metal that is liquid and poisonous · *dynasty* — a line of rulers from the same family, one after another
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Tyrant or Founder?</summary>
+
+> Emperor X joins all of China under one government more than two thousand years ago.  
+> Was he a cruel tyrant, or the founder of a lasting nation?  
+> Historians still argue about the answer.  
+> Our main written source is a historian named Sima Qian.  
+> He writes about a century after Emperor X dies, under the next dynasty.  
+> That new dynasty gains when the old one looks bad.  
+> Sima Qian's account mixes solid facts with dramatic, unproven stories.  
+> The evidence from archaeology offers a second, independent voice.  
+> Diggers, scientists, and soil samples can check the old text piece by piece.  
+> Sometimes the buried evidence matches Sima Qian's account closely.  
+> Sometimes it raises new doubts about details he never saw himself.  
+> Over the centuries, the image of Emperor X has swung between monster and state-builder.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Wu Zetian · ✅ Qin Shi Huangdi · ⬜ Kangxi · ⬜ Yongle
+
+**Ord:** *tyrant* — a cruel ruler with total power, unfair to the people · *founder* — a person who starts or builds something new, like a state · *archaeology* — the study of the past through digging up old objects and places · *account* — a written report that tells what happened
+
+</details>
+
+### Akbar
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — He Cannot Read, but Loves to Listen</summary>
+
+> Emperor X lives in India, about five hundred years ago.  
+> At only thirteen years old, he becomes ruler of a shaky young kingdom in northern India.  
+> At first, an older guardian named Bairam Khan rules for him.  
+> Emperor X never learns to read or write.  
+> But he loves stories and ideas.  
+> Every day, someone reads books to him out loud.  
+> He remembers almost everything he hears.  
+> His library grows to thousands of books from many lands.  
+> He also loves elephants, and his court writers say he rides even the most dangerous ones.  
+> **Who is Emperor X?**
+
+**Svar:** ✅ Akbar · ⬜ Babur · ⬜ Krishnadevaraya · ⬜ Ashoka
+
+**Ord:** *ruler* — a person who is the leader of a country · *shaky* — not steady, in danger of falling · *guardian* — an adult who takes care of and protects a child · *library* — a big collection of books, or a room full of books
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — An Empire Grows, and an Old Tax Ends</summary>
+
+> Emperor X rules the Mughal empire in northern India.  
+> Over many years, his armies win more and more land.  
+> He also builds alliances through marriage.  
+> He marries princesses from powerful Hindu families.  
+> Their fathers and brothers become his loyal allies.  
+> In 1564, he ends an old tax that only non-Muslims must pay.  
+> This wins him support from many of his people.  
+> He also builds a brand new capital city.  
+> Its walls and palaces are made of red sandstone.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Humayun · ⬜ Timur · ⬜ Sher Shah Suri · ✅ Akbar
+
+**Ord:** *empire* — many lands and peoples ruled by one ruler · *allies* — people or groups who help and support each other · *tax* — money that people must pay to their ruler or government · *capital* — the main city where a ruler or government sits
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A Hall Where Every Belief Has a Voice</summary>
+
+> In 1575, Emperor X builds a special hall in his red sandstone capital.  
+> At first, only Muslim scholars argue there.  
+> From about 1578, he also invites thinkers of other faiths.  
+> Hindus, Jains, and Zoroastrians now join the talks.  
+> From 1580, Jesuit priests from Europe join too.  
+> They argue about God, the soul, and the right way to live.  
+> Emperor X listens for hours, night after night.  
+> Around 1582, he forms a small circle of trusted friends at court.  
+> Some later writers call this circle a new religion.  
+> Historians disagree whether this circle is a religion at all.  
+> In the same years, his workshop paints small, detailed pictures.  
+> Scholars there also translate old Indian epics into Persian.  
+> **Who is Emperor X?**
+
+**Svar:** ✅ Akbar · ⬜ Humayun · ⬜ Ashoka · ⬜ Krishnadevaraya
+
+**Ord:** *faiths* — different religions, different beliefs about God · *soul* — the part of a person some believe lives on after death · *circle* — a small, close group of people · *epics* — very long, old stories, often about heroes
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Running an Empire, Leaving a City</summary>
+
+> Emperor X rules his empire in India with a careful system.  
+> Officials receive ranks, and their rank decides their pay and duties.  
+> A finance minister named Todar Mal reforms how land tax is measured.  
+> His close friend, a scholar named Abu'l-Fazl, writes a long chronicle about his reign.  
+> In 1568, his army takes the fortress of Chittor, and many defenders and townspeople are killed.  
+> His capital of red sandstone at Fatehpur Sikri is used for only about fourteen years.  
+> In 1585, he moves his court far to the north.  
+> Historians are still not sure why the city is left behind.  
+> His grandson later builds a famous white tomb, the Taj Mahal.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Timur · ✅ Akbar · ⬜ Jahangir · ⬜ Sher Shah Suri
+
+**Ord:** *officials* — people with a job to help run the state · *rank* — a level or position in an organised system · *chronicle* — a book that tells the story of past events · *fortress* — a strong building or town built for defence
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Two Chroniclers, One Debated Legacy</summary>
+
+> Emperor X rules India more than four hundred years ago.  
+> Historians still argue about how to understand him.  
+> Was his religious tolerance a true ideal, or mostly clever politics?  
+> Two writers give us very different pictures of his court.  
+> The court's official chronicler praises him as an almost perfect ruler.  
+> A rival scholar named Badauni is far more critical in his own writings.  
+> Badauni writes in secret, and his book appears only after the emperor's death.  
+> Badauni especially dislikes the debates about faith in the middle of the reign.  
+> Historians must weigh both accounts carefully against each other.  
+> In India today, people still debate his legacy and what it means.  
+> **Who is Emperor X?**
+
+**Svar:** ⬜ Aurangzeb · ⬜ Krishnadevaraya · ✅ Akbar · ⬜ Timur
+
+**Ord:** *tolerance* — accepting people with different beliefs or ways of life · *chronicler* — a person who writes down the story of past events · *rival* — a person who competes against another · *legacy* — what a person leaves behind and is remembered for
+
+</details>
+
+### Meijirestaurationen
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Black ships in the bay</summary>
+
+> Event X happens in Japan, an island country in Asia.  
+> For more than two hundred years, Japan stays closed.  
+> Only one small port lets in a few foreign traders.  
+> Then, one day in 1853, strange black ships arrive.  
+> Thick black smoke pours from tall chimneys on the ships.  
+> The ships carry powerful guns and soldiers from far away.  
+> Japan's old rulers cannot keep the world out any longer.  
+> Fifteen years later, power goes back to a young emperor.  
+> He is only fifteen years old.  
+> Very quickly, big changes sweep across the land.  
+> Many men cut off their old topknot hair and try hats from the West.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Opium Wars · ✅ The Meiji Restoration · ⬜ The Boxer Rebellion · ⬜ The Glorious Revolution
+
+**Ord:** *port* — a town by the sea where ships load and unload · *foreign* — from another country · *rulers* — people who have the power to govern a country · *pours* — flows out in a thick stream · *topknot* — hair tied up in a knot on top of the head
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — One port, then unfair deals</summary>
+
+> Event X begins in Japan after centuries under military rulers called shoguns.  
+> In 1854, foreign warships force the shoguns to sign a first agreement.  
+> It opens two ports to American ships.  
+> In 1858, new treaties open Japan to trade with several foreign powers.  
+> These treaties favor the foreign powers, not Japan.  
+> Anger over these unfair terms splits leaders into rival camps.  
+> A short civil war breaks out in 1868 and continues into 1869.  
+> The old government falls, and a new one takes charge.  
+> Power returns, in name, to a young emperor.  
+> The new leaders promise in his name to seek knowledge from all over the world.  
+> The emperor moves from Kyoto to Edo, which gets the new name Tokyo.  
+> **Which event is Event X?**
+
+**Svar:** ✅ The Meiji Restoration · ⬜ The Taiping Rebellion · ⬜ The Opium Wars · ⬜ The Tanzimat reforms
+
+**Ord:** *shoguns* — military rulers who once governed the country in the emperor's name · *agreement* — a deal that two or more sides accept together · *treaties* — formal written agreements between countries · *rival* — competing against another group or person
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A mission abroad, then a wave of new laws</summary>
+
+> Event X reshapes Japan through a wave of new laws.  
+> A mission of top officials sails abroad from 1871 to 1873.  
+> They study schools, factories, armies and parliaments in Europe and America.  
+> Back home, a law in 1872 promises a school for every child.  
+> That same year, the first railway opens between Tokyo and Yokohama.  
+> A law in 1873 orders young men from every class into the army.  
+> Until then, only one warrior class carries swords and serves as soldiers.  
+> In 1876, a new law bans that class from wearing swords in public.  
+> Former warriors lose their old status and their old income.  
+> Angry former warriors rise up in 1877, but the new army defeats them.  
+> After that defeat, no one takes up arms against the new order again.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Tanzimat reforms · ⬜ The Reform Movement of 1898 · ✅ The Meiji Restoration · ⬜ The Young Turk Revolution
+
+**Ord:** *mission* — a group sent abroad with a special purpose · *railway* — a track with trains that carry people and goods · *status* — a person's rank or position in society · *defeats* — beats an enemy in a fight
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A new army, a new price</summary>
+
+> Event X gives Japan a new political system within a few decades.  
+> A written constitution appears in 1889, granting the emperor final say.  
+> A parliament opens the next year, though few citizens may vote for it.  
+> Japan also builds a strong modern army and navy in this period.  
+> In 1894, war breaks out against the neighboring Chinese empire.  
+> A quick victory follows within a year, surprising observers worldwide.  
+> A second war begins in 1904 against Russia, a much larger European empire.  
+> Against most predictions, the smaller Asian power wins that war by 1905.  
+> By 1910, Japan has taken full control of Korea.  
+> Ordinary peasants pay heavy new taxes to fund all this change.  
+> Young women from poor families work long hours in new silk and cotton mills.  
+> Few of them share fairly in the nation's new wealth and pride.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The Boxer Rebellion · ⬜ The Taiping Rebellion · ⬜ The Opium Wars · ✅ The Meiji Restoration
+
+**Ord:** *constitution* — a country's basic set of laws and rules · *parliament* — a group of elected people who help make laws · *predictions* — guesses about what will happen next · *mills* — factories with machines that make cloth or thread
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Revolution from above</summary>
+
+> Historians often call Event X in Japan a revolution carried out from above.  
+> Unlike other revolutions, it starts among leaders, not among angry crowds.  
+> A small group of former warriors seizes the state and rebuilds it fast.  
+> They keep the emperor as a symbol while running the new system themselves.  
+> Scholars still debate why this transformation succeeds so fully in Japan alone.  
+> Some point to earlier local trade networks, literacy and a strong bureaucracy.  
+> Others stress timing, since the great powers are busy elsewhere in those years.  
+> Nationalists in other parts of Asia and in Africa study this example closely.  
+> Many see it as proof that a non-Western state can stand up to the great powers of Europe.  
+> Yet the same reforms also build the tools for later military expansion.  
+> Within decades, the modernized army becomes a force for conquest abroad.  
+> Historians therefore read the era as both an example and a warning.  
+> **Which event is Event X?**
+
+**Svar:** ⬜ The French Revolution · ✅ The Meiji Restoration · ⬜ The Young Turk Revolution · ⬜ The Tanzimat reforms
+
+**Ord:** *bureaucracy* — the officials and offices that run a state's daily business · *nationalists* — people who work for their nation's freedom or strength · *literacy* — the ability to read and write · *conquest* — taking control of a place by force
 
 </details>
 

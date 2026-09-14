@@ -5,12 +5,12 @@
     {
       "title": "Svarta skepp i viken",
       "text_sentences": [
-        "Händelsen X sker i Japan, en önation i Asien.",
+        "Händelsen X sker i Japan, ett örike i Asien.",
         "I mer än tvåhundra år håller Japan sig stängt.",
         "Bara en liten hamn släpper in några få utländska handelsmän.",
-        "Så en dag 1853 anländer märkliga svarta skepp.",
+        "Så en dag 1853 kommer märkliga svarta skepp.",
         "Tjock svart rök strömmar ut ur höga skorstenar på skeppen.",
-        "Skeppen har kraftiga kanoner och soldater från fjärran länder.",
+        "Skeppen har kraftiga kanoner och soldater från länder långt borta.",
         "Japans gamla makthavare kan inte längre hålla världen utanför.",
         "Femton år senare går makten tillbaka till en ung kejsare.",
         "Han är bara femton år gammal.",
@@ -53,12 +53,12 @@
       "title": "En hamn, sedan orättvisa avtal",
       "text_sentences": [
         "Händelsen X börjar i Japan efter århundraden under militära makthavare som kallas shoguner.",
-        "År 1854 tvingar utländska krigsfartyg shogunerna att skriva under ett första avtal.",
+        "År 1854 tvingar utländska krigsskepp shogunerna att skriva under ett första avtal.",
         "Det öppnar två hamnar för amerikanska skepp.",
         "År 1858 öppnar nya fördrag Japan för handel med flera främmande makter.",
         "Dessa fördrag gynnar de främmande makterna, inte Japan.",
         "Ilska över dessa orättvisa villkor delar upp ledarna i rivaliserande läger.",
-        "Ett kort inbördeskrig bryter ut 1868 och fortsätter in i 1869.",
+        "Ett kort inbördeskrig bryter ut 1868 och fortsätter in på 1869.",
         "Den gamla regeringen faller, och en ny tar över.",
         "Till namnet återgår makten till en ung kejsare.",
         "De nya ledarna lovar i hans namn att söka kunskap från hela världen.",
@@ -93,16 +93,16 @@
       "side_caption": "Ledare som är oense om landets väg möter varandra på slagfältet."
     },
     {
-      "title": "Ett uppdrag utomlands, sedan en våg av nya lagar",
+      "title": "En delegation utomlands, sedan en våg av nya lagar",
       "text_sentences": [
         "Händelsen X formar om Japan genom en våg av nya lagar.",
-        "Ett uppdrag med högt uppsatta tjänstemän seglar utomlands från 1871 till 1873.",
-        "De studerar skolor, fabriker, arméer och riksdagar i Europa och Amerika.",
+        "En delegation av höga ämbetsmän seglar utomlands från 1871 till 1873.",
+        "De studerar skolor, fabriker, arméer och parlament i Europa och Amerika.",
         "Hemma igen lovar en lag från 1872 en skola åt varje barn.",
         "Samma år öppnar den första järnvägen mellan Tokyo och Yokohama.",
-        "En lag 1873 inför värnplikt för unga män ur alla samhällsklasser.",
-        "Fram till dess bär bara en krigarklass svärd och tjänstgör som soldater.",
-        "År 1876 förbjuder en ny lag den klassen att bära svärd offentligt.",
+        "En lag från 1873 inför värnplikt för unga män ur alla samhällsklasser.",
+        "Fram till dess är det bara en krigarklass som bär svärd och tjänstgör som soldater.",
+        "År 1876 förbjuder en ny lag den klassen att bära svärd på allmän plats.",
         "Forna krigare förlorar sin gamla status och sin gamla inkomst.",
         "Arga forna krigare gör uppror 1877, men den nya armén besegrar dem.",
         "Efter det nederlaget tar ingen upp vapen mot den nya ordningen igen."
@@ -116,7 +116,7 @@
       ],
       "words": [
         {
-          "word": "uppdrag",
+          "word": "delegation",
           "explanation": "en grupp som skickas utomlands med ett särskilt syfte"
         },
         {
@@ -133,7 +133,7 @@
         }
       ],
       "main_caption": "Ett nytt slags maskin binder samman två städer på mindre än en timme.",
-      "side_caption": "Efter en ny lag 1876 kan ett svärd som detta inte längre bäras offentligt."
+      "side_caption": "Efter en ny lag 1876 får ett svärd som detta inte längre bäras på allmän plats."
     },
     {
       "title": "En ny armé, ett nytt pris",
@@ -145,10 +145,10 @@
         "År 1894 bryter krig ut mot det angränsande kinesiska riket.",
         "En snabb seger följer inom ett år, vilket överraskar iakttagare över hela världen.",
         "Ett andra krig börjar 1904 mot Ryssland, ett mycket större europeiskt rike.",
-        "Mot de flesta förutsägelser vinner den mindre asiatiska makten kriget 1905.",
+        "Tvärtemot de flesta förutsägelser vinner den mindre asiatiska makten kriget 1905.",
         "År 1910 har Japan tagit full kontroll över Korea.",
         "Vanliga bönder betalar tunga nya skatter för att finansiera alla dessa förändringar.",
-        "Unga kvinnor från fattiga familjer arbetar långa arbetsdagar i nya fabriker för silke och bomull.",
+        "Unga kvinnor från fattiga familjer arbetar långa dagar i nya fabriker för silke och bomull.",
         "Få av dem får en rättvis del av nationens nya välstånd och stolthet."
       ],
       "question": "Vilken händelse är händelsen X?",
@@ -173,11 +173,11 @@
         },
         {
           "word": "fabriker",
-          "explanation": "fabriker med maskiner som gör tyg eller garn"
+          "explanation": "stora byggnader med maskiner som gör tyg eller garn"
         }
       ],
       "main_caption": "I den här nya salen samlas folkvalda män för att debattera landets lagar.",
-      "side_caption": "Fabriksflickor som dessa arbetar långa dagar i de nya fabrikerna som hjälper till att betala för förändringen."
+      "side_caption": "Unga kvinnor som dessa arbetar långa dagar i de nya fabrikerna som hjälper till att betala för förändringen."
     },
     {
       "title": "Revolution uppifrån",
@@ -186,14 +186,14 @@
         "Till skillnad från andra revolutioner börjar den bland ledare, inte bland arga folkmassor.",
         "En liten grupp forna krigare tar makten över staten och bygger snabbt om den.",
         "De behåller kejsaren som en symbol medan de själva styr det nya systemet.",
-        "Forskare debatterar fortfarande varför denna omvandling lyckas så helt och hållet just i Japan.",
+        "Forskare debatterar fortfarande varför denna omvandling lyckas så fullständigt just i Japan.",
         "Några pekar på tidigare lokala handelsnätverk, läskunnighet och en stark byråkrati.",
         "Andra betonar tidpunkten, eftersom stormakterna är upptagna på andra håll under de åren.",
         "Nationalister i andra delar av Asien och i Afrika studerar detta exempel noga.",
         "Många ser det som ett bevis på att en icke-västerländsk stat kan stå emot Europas stormakter.",
         "Ändå bygger samma reformer också upp verktygen för senare militär expansion.",
         "Inom några decennier blir den moderniserade armén en kraft för erövring utomlands.",
-        "Historiker läser därför epoken som både ett föredöme och en varning."
+        "Historiker tolkar därför epoken som både ett föredöme och en varning."
       ],
       "question": "Vilken händelse är händelsen X?",
       "options": [

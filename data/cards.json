@@ -35766,6 +35766,54 @@
             "caption": "One official weight is used the same way, everywhere in the land.",
             "shutterstock_query": "ancient bronze weight balance scale grain closeup illustration",
             "ai_prompt": "Photorealistic close-up illustration of a third-century BC Chinese bronze balance scale, a single rounded bronze weight on one side and a small cloth sack of grain on the other, resting on a plain wooden table, soft daylight, one East Asian hand steadying the scale from the edge of the frame. No inscriptions or marks on the weight, no modern scale, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett land, ett system",
+            "text_sentences": [
+              "Kejsar X bor i Kina för mer än tvåtusen år sedan.",
+              "Han blir kung när han bara är tretton år.",
+              "Hans stat är en av de starkaste av de många stridande staterna.",
+              "I många år strider dessa stater mot varandra.",
+              "Sakta vinner hans arméer krig efter krig.",
+              "Till sist besegrar hans stat alla de andra.",
+              "Kejsar X tar en helt ny titel.",
+              "Den betyder: den första härskaren över allt.",
+              "Nu använder varje del av hans land samma skrift.",
+              "Mynt, vikter och avståndet mellan kärrhjulen är också likadana.",
+              "Än i dag står en armé av soldater gjorda av lera på vakt nära hans grav."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Kublai Khan",
+              "Qin Shi Huangdi",
+              "Han Wudi",
+              "Liu Bang"
+            ],
+            "correct": "Qin Shi Huangdi",
+            "words": [
+              {
+                "word": "stat",
+                "explanation": "ett land med sin egen härskare och sina egna lagar"
+              },
+              {
+                "word": "stridande",
+                "explanation": "i krig med varandra"
+              },
+              {
+                "word": "titel",
+                "explanation": "ett speciellt namn för en persons rang eller uppgift"
+              },
+              {
+                "word": "vikter",
+                "explanation": "metallbitar som används för att mäta hur tungt något är"
+              },
+              {
+                "word": "lera",
+                "explanation": "mjuk, tung jord som kan formas och brännas hård"
+              }
+            ],
+            "main_caption": "En träram kontrollerar att hjulen på varje kärra sitter på samma avstånd från varandra.",
+            "side_caption": "En officiell vikt används på samma sätt, överallt i landet."
           }
         },
         {
@@ -35822,6 +35870,50 @@
             "caption": "A rolled map can hide a small, sharp blade.",
             "shutterstock_query": "ancient silk scroll dagger blade table still life illustration",
             "ai_prompt": "Photorealistic still-life illustration of a rolled silk map half unrolled on a low wooden table in a third-century BC Chinese palace hall, the far end trailing off the table with the blade of a small dagger just visible where the map ends, warm indoor light, no people in frame. The map surface shows only faint unreadable ink lines, no real geography, no Chinese characters, no Ming-era stone wall, no blood, no violence, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En gömd dolk, nya vägar, en lång mur",
+            "text_sentences": [
+              "Kejsar X styr Kina för mer än tvåtusen år sedan.",
+              "Som ung kung har han rivaliserande stater runt omkring sig.",
+              "År 227 f.Kr. kommer en besökare från en rivaliserande stat alldeles nära honom.",
+              "Besökaren gömmer en dolk inuti en hoprullad karta.",
+              "Han försöker döda kungen, men planen misslyckas.",
+              "Kejsar X överlever, och krigen fortsätter.",
+              "År 221 f.Kr. har hans arméer besegrat varje rivaliserande stat.",
+              "Han låter bygga nya vägar över sitt land, så att arméer och handelsmän kan röra sig snabbt.",
+              "Arbetare gräver en kanal som binder samman två stora flodsystem.",
+              "I norr binds äldre jordmurar samman till en enda lång mur.",
+              "Denna tidiga mur är inte den berömda stenmur som besökare ser i dag."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Tang Taizong",
+              "Wu Zetian",
+              "Djingis khan",
+              "Qin Shi Huangdi"
+            ],
+            "correct": "Qin Shi Huangdi",
+            "words": [
+              {
+                "word": "dolk",
+                "explanation": "en kort, vass kniv som används som vapen"
+              },
+              {
+                "word": "rivaliserande",
+                "explanation": "som kämpar mot dig om samma sak"
+              },
+              {
+                "word": "överleva",
+                "explanation": "att förbli vid liv efter en stor fara"
+              },
+              {
+                "word": "kanal",
+                "explanation": "en vattenväg som människor gräver, för båtar eller för vatten"
+              }
+            ],
+            "main_caption": "Arbetare packar jord till en lång mur som binder samman kullarna.",
+            "side_caption": "En hoprullad karta kan gömma ett litet, vasst blad."
           }
         },
         {
@@ -35878,6 +35970,50 @@
             "caption": "Someone grinds herbs and minerals, searching for a medicine that stops aging.",
             "shutterstock_query": "ancient chinese herbalist mortar pestle jars closeup illustration",
             "ai_prompt": "Photorealistic close-up illustration of an elderly East Asian figure in third-century BC Chinese robes grinding herbs and minerals with a stone mortar and pestle at a cluttered wooden table crowded with plain ceramic jars, warm dim lamplight, shown from behind or with only the hands and forearms visible. No modern laboratory equipment, no readable labels or characters on any jar, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Brända böcker och ett medel för evigt liv",
+            "text_sentences": [
+              "Kejsar X styr Kina med mycket stränga lagar.",
+              "Även små brott ger hårda straff.",
+              "Hans främsta rådgivare vill att alla lärda ska följa en enda lära.",
+              "År 213 f.Kr. beordrar regeringen att många gamla böcker ska brännas.",
+              "Böcker om medicin, jordbruk och spådom skonas.",
+              "En senare historiker skriver att han lät döda lärda som talade emot honom.",
+              "Många tvivlar på detaljerna i den berättelsen.",
+              "När kejsar X blir äldre fruktar han döden mer och mer.",
+              "Han skickar tjänare för att söka efter ett medel som stoppar åldrandet för alltid.",
+              "Ingen tjänare kommer någonsin tillbaka med ett sådant medel.",
+              "År 210 f.Kr. dör kejsar X under en lång resa långt från sin huvudstad."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Qin Shi Huangdi",
+              "Kangxi",
+              "Yongle",
+              "Han Wudi"
+            ],
+            "correct": "Qin Shi Huangdi",
+            "words": [
+              {
+                "word": "sträng",
+                "explanation": "mycket hård och bestämd, reglerna måste följas"
+              },
+              {
+                "word": "straff",
+                "explanation": "något dåligt som händer dig för att du bröt en regel"
+              },
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar och kan mycket om böcker och idéer"
+              },
+              {
+                "word": "huvudstad",
+                "explanation": "den viktigaste staden, där en härskare eller en regering har sitt säte"
+              }
+            ],
+            "main_caption": "Ämbetsmän ser på när arbetare bränner buntar med gamla skrifter.",
+            "side_caption": "Någon mal örter och mineraler och söker efter ett medel som stoppar åldrandet."
           }
         },
         {
@@ -35938,6 +36074,54 @@
             "caption": "A great mound of earth has never been opened.",
             "shutterstock_query": "tree covered ancient burial mound farmland landscape illustration",
             "ai_prompt": "Photorealistic wide illustration of a large burial mound covered in grass and low trees rising gently against a soft sky, seen from a respectful distance across open farmland near Xi'an, China, calm quiet mood, no excavation, no fences, no visitors, no modern buildings, no signs, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En armé under marken",
+            "text_sentences": [
+              "Nära staden Xi'an ligger kejsar X:s grav.",
+              "Runt hans grav begravde arbetare en gång en tyst armé gjord av lera.",
+              "Tusentals lersoldater står i rader under jorden.",
+              "År 1974 gräver bönder en brunn och hittar de första av dem.",
+              "Titta noga, och inga två ansikten är exakt lika.",
+              "Många soldater höll en gång riktiga vapen av brons.",
+              "Själva den stora gravhögen har aldrig öppnats.",
+              "En forntida historiker skriver att floder av kvicksilver flyter inuti den.",
+              "Moderna jordprover nära högen visar ovanligt höga halter av kvicksilver.",
+              "Forskare studerar fortfarande marken innan någon gräver djupare.",
+              "Bara några år efter kejsarens död faller hela hans dynasti."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Liu Bang",
+              "Tang Taizong",
+              "Qin Shi Huangdi",
+              "Kublai Khan"
+            ],
+            "correct": "Qin Shi Huangdi",
+            "words": [
+              {
+                "word": "grav",
+                "explanation": "en plats eller en byggnad som rymmer en död persons kropp"
+              },
+              {
+                "word": "brons",
+                "explanation": "en hård, rödbrun metall, gjord genom att blanda koppar och tenn"
+              },
+              {
+                "word": "hög",
+                "explanation": "en liten kulle gjord av uppstaplad jord"
+              },
+              {
+                "word": "kvicksilver",
+                "explanation": "en tung, silverfärgad metall som är flytande och giftig"
+              },
+              {
+                "word": "dynasti",
+                "explanation": "en rad härskare från samma familj, en efter en"
+              }
+            ],
+            "main_caption": "Rader av lersoldater står under jorden, och ansiktena skiljer sig från varandra.",
+            "side_caption": "En stor jordhög har aldrig öppnats."
           }
         },
         {
@@ -35995,9 +36179,55 @@
             "caption": "Careful hands brush away the earth from an old, buried object.",
             "shutterstock_query": "hands brushing soil pottery shard ground closeup",
             "ai_prompt": "Photorealistic close-up illustration of a pair of bare East Asian hands gently brushing soil away from a half-buried piece of grey pottery in the ground, using a simple wooden-handled bristle brush, natural outdoor light, no face visible, no modern clothing, no trowels, no tags, no gloves. No readable marks on the pottery, no Chinese characters, no Ming-era stone wall, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Tyrann eller grundare?",
+            "text_sentences": [
+              "Kejsar X förenar hela Kina under en enda regering för mer än tvåtusen år sedan.",
+              "Var han en grym tyrann, eller grundaren av en varaktig nation?",
+              "Historiker tvistar fortfarande om svaret.",
+              "Vår viktigaste skriftliga källa är en historiker som heter Sima Qian.",
+              "Han skriver omkring hundra år efter att kejsar X dör, under nästa dynasti.",
+              "Den nya dynastin vinner på att den gamla ser dålig ut.",
+              "Sima Qians skildring blandar säkra fakta med dramatiska, obevisade berättelser.",
+              "Bevisen från arkeologin ger en andra, oberoende röst.",
+              "Grävare, forskare och jordprover kan kontrollera den gamla texten bit för bit.",
+              "Ibland stämmer de nedgrävda bevisen väl överens med Sima Qians skildring.",
+              "Ibland väcker de nya tvivel om detaljer som han själv aldrig såg.",
+              "Genom århundradena har bilden av kejsar X svängt mellan monster och statsbyggare."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Wu Zetian",
+              "Qin Shi Huangdi",
+              "Kangxi",
+              "Yongle"
+            ],
+            "correct": "Qin Shi Huangdi",
+            "words": [
+              {
+                "word": "tyrann",
+                "explanation": "en grym härskare med all makt, orättvis mot folket"
+              },
+              {
+                "word": "grundare",
+                "explanation": "en person som startar eller bygger något nytt, som en stat"
+              },
+              {
+                "word": "arkeologi",
+                "explanation": "studiet av det förflutna genom att gräva fram gamla föremål och platser"
+              },
+              {
+                "word": "skildring",
+                "explanation": "en skriven rapport som berättar vad som hände"
+              }
+            ],
+            "main_caption": "En gammal skriftlig uppteckning ligger bredvid föremål grävda ur marken.",
+            "side_caption": "Försiktiga händer borstar bort jorden från ett gammalt, nedgrävt föremål."
           }
         }
-      ]
+      ],
+      "person_sv": "Qin Shi Huangdi"
     },
     {
       "slug": "akbar",
@@ -36055,6 +36285,48 @@
             "caption": "A library holds many books from many lands.",
             "shutterstock_query": "mughal era library manuscripts wall niches wooden chests illustration",
             "ai_prompt": "Photorealistic illustration of a sixteenth-century Mughal library room: bound manuscripts lying flat in stacks inside arched wall niches and inside open wooden chests, some wrapped in plain cloth, seen at an angle so no writing is visible, no bookshelves with spines facing out, soft light falling through a carved stone window with a geometric pattern, warm dusty atmosphere, no people, no modern objects, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "Han kan inte läsa, men älskar att lyssna",
+            "text_sentences": [
+              "Kejsar X bor i Indien för ungefär femhundra år sedan.",
+              "När han bara är tretton år blir han härskare över ett ostadigt ungt rike i norra Indien.",
+              "Först styr en äldre förmyndare som heter Bairam Khan i hans ställe.",
+              "Kejsar X lär sig aldrig läsa eller skriva.",
+              "Men han älskar berättelser och idéer.",
+              "Varje dag läser någon böcker högt för honom.",
+              "Han minns nästan allt han hör.",
+              "Hans bibliotek växer till tusentals böcker från många länder.",
+              "Han älskar också elefanter, och hans hovskribenter säger att han rider till och med de farligaste."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Akbar",
+              "Babur",
+              "Krishnadevaraya",
+              "Ashoka"
+            ],
+            "correct": "Akbar",
+            "words": [
+              {
+                "word": "härskare",
+                "explanation": "en person som är ledare för ett land"
+              },
+              {
+                "word": "ostadigt",
+                "explanation": "inte stadigt, kan falla när som helst"
+              },
+              {
+                "word": "förmyndare",
+                "explanation": "en vuxen som tar hand om och skyddar ett barn"
+              },
+              {
+                "word": "bibliotek",
+                "explanation": "en stor samling böcker, eller ett rum fullt av böcker"
+              }
+            ],
+            "main_caption": "En pojke lyssnar noga när en bok läses högt för honom.",
+            "side_caption": "Ett bibliotek rymmer många böcker från många länder."
           }
         },
         {
@@ -36109,6 +36381,48 @@
             "caption": "An official weighs coins and grain for the ruler's tax.",
             "shutterstock_query": "mughal era official brass scale coins grain sacks from behind illustration",
             "ai_prompt": "Photorealistic vertical illustration of a shaded courtyard in sixteenth-century Mughal India: one brown-skinned South Asian official in a long coat and turban sits cross-legged at a single low wooden table weighing coins on a small brass balance scale, seen from behind so no face is visible, plain cloth sacks of grain stacked high behind him against a sandstone wall, warm midday light, no readable ledger or markings, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "Ett rike växer, och en gammal skatt avskaffas",
+            "text_sentences": [
+              "Kejsar X styr mogulriket i norra Indien.",
+              "Under många år vinner hans arméer mer och mer land.",
+              "Han bygger också allianser genom giftermål.",
+              "Han gifter sig med prinsessor från mäktiga hinduiska familjer.",
+              "Deras fäder och bröder blir hans trogna allierade.",
+              "År 1564 avskaffar han en gammal skatt som bara icke-muslimer måste betala.",
+              "Detta ger honom stöd från många bland hans folk.",
+              "Han bygger också en helt ny huvudstad.",
+              "Dess murar och palats är byggda av röd sandsten."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Humayun",
+              "Timur",
+              "Sher Shah Suri",
+              "Akbar"
+            ],
+            "correct": "Akbar",
+            "words": [
+              {
+                "word": "rike",
+                "explanation": "många länder och folk som styrs av en och samma härskare"
+              },
+              {
+                "word": "allierade",
+                "explanation": "personer eller grupper som hjälper och stödjer varandra"
+              },
+              {
+                "word": "skatt",
+                "explanation": "pengar som människor måste betala till sin härskare eller sin regering"
+              },
+              {
+                "word": "huvudstad",
+                "explanation": "den viktigaste staden, där en härskare eller en regering har sitt säte"
+              }
+            ],
+            "main_caption": "En stor procession rör sig mot portarna till en ny stad.",
+            "side_caption": "En ämbetsman väger mynt och säd för härskarens skatt."
           }
         },
         {
@@ -36166,6 +36480,51 @@
             "caption": "Painters work with tiny brushes, page after page.",
             "shutterstock_query": "mughal miniature painting workshop artists illustration",
             "ai_prompt": "Photorealistic illustration of a sixteenth-century Mughal painting workshop: two brown-skinned South Asian painters sit cross-legged on the floor with small wooden boards on their knees, fine brushes in hand, shallow bowls of coloured pigment beside them, working on small paintings angled away from the camera so no image content is visible, stacks of blank prepared pages nearby, soft daylight from a small window, no visible painted content, no readable text, no faces clearly shown, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "En sal där varje tro har en röst",
+            "text_sentences": [
+              "År 1575 bygger kejsar X en särskild sal i sin huvudstad av röd sandsten.",
+              "Först är det bara muslimska lärda som diskuterar där.",
+              "Från omkring 1578 bjuder han också in tänkare från andra trosriktningar.",
+              "Nu ansluter sig hinduer, jainer och zoroastrier till samtalen.",
+              "Från 1580 ansluter sig också jesuitpräster från Europa.",
+              "De diskuterar Gud, själen och det rätta sättet att leva.",
+              "Kejsar X lyssnar i timmar, natt efter natt.",
+              "Omkring 1582 bildar han en liten krets av betrodda vänner vid hovet.",
+              "Några senare skribenter kallar denna krets en ny religion.",
+              "Historiker är oense om kretsen alls är en religion.",
+              "Under samma år målar hans verkstad små, detaljerade bilder.",
+              "Lärda där översätter också gamla indiska epos till persiska."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Akbar",
+              "Humayun",
+              "Ashoka",
+              "Krishnadevaraya"
+            ],
+            "correct": "Akbar",
+            "words": [
+              {
+                "word": "trosriktningar",
+                "explanation": "olika religioner, olika tro på Gud"
+              },
+              {
+                "word": "själ",
+                "explanation": "den del av en människa som vissa tror lever vidare efter döden"
+              },
+              {
+                "word": "krets",
+                "explanation": "en liten, nära grupp av människor"
+              },
+              {
+                "word": "epos",
+                "explanation": "mycket långa, gamla berättelser, ofta om hjältar"
+              }
+            ],
+            "main_caption": "Män med olika tro sitter tillsammans och samtalar långt in på natten.",
+            "side_caption": "Målare arbetar med små penslar, sida efter sida."
           }
         },
         {
@@ -36220,6 +36579,48 @@
             "caption": "Grass grows in a courtyard once busy with a whole court.",
             "shutterstock_query": "abandoned red sandstone courtyard tall grass pillars sunset illustration",
             "ai_prompt": "Photorealistic illustration of an abandoned red sandstone courtyard from sixteenth-century Mughal India at sunset, tall grass growing between the paving stones, an empty raised stone platform in the foreground, carved plain stone pillars around the edge, warm fading light, no people, no water tank, no readable inscriptions, no recognisable monument silhouette, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no modern objects, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "Han styr ett rike och lämnar en stad",
+            "text_sentences": [
+              "Kejsar X styr sitt rike i Indien med ett noggrant system.",
+              "Ämbetsmän får rang, och deras rang avgör deras lön och uppgifter.",
+              "En finansminister vid namn Todar Mal reformerar hur jordskatten mäts.",
+              "Hans nära vän, en lärd man vid namn Abu'l-Fazl, skriver en lång krönika om hans regeringstid.",
+              "År 1568 intar hans armé fästningen Chittor, och många försvarare och stadsbor dödas.",
+              "Hans huvudstad av röd sandsten i Fatehpur Sikri används bara i ungefär fjorton år.",
+              "År 1585 flyttar han sitt hov långt norrut.",
+              "Historiker vet fortfarande inte säkert varför staden överges.",
+              "Hans sonson bygger senare ett berömt vitt gravmonument, Taj Mahal."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Timur",
+              "Akbar",
+              "Jahangir",
+              "Sher Shah Suri"
+            ],
+            "correct": "Akbar",
+            "words": [
+              {
+                "word": "ämbetsmän",
+                "explanation": "människor med ett jobb för att hjälpa till att styra staten"
+              },
+              {
+                "word": "rang",
+                "explanation": "en nivå eller position i ett organiserat system"
+              },
+              {
+                "word": "krönika",
+                "explanation": "en bok som berättar om händelser från det förflutna"
+              },
+              {
+                "word": "fästning",
+                "explanation": "en stark byggnad eller stad byggd för försvar"
+              }
+            ],
+            "main_caption": "En armé slår läger nedanför murarna till en bergsfästning.",
+            "side_caption": "Gräs växer i en innergård som en gång var fylld av ett helt hov."
           }
         },
         {
@@ -36275,9 +36676,53 @@
             "caption": "One account is grand, the other is plain and critical.",
             "shutterstock_query": "two closed antique manuscript books leather binding plain worn cloth illustration",
             "ai_prompt": "Photorealistic close-up of two closed sixteenth-century manuscript books lying side by side on a plain cloth in warm window light, one richly bound in dark red leather with a plain gold border, the other plain, worn and unadorned, shallow depth of field, no writing visible on any cover or page, no people, no modern objects, no Indian, Persian or Arabic script, no calligraphy, no pseudo-writing, no letters, no flags, no Taj Mahal, no recognisable face, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "Två krönikörer, ett omtvistat arv",
+            "text_sentences": [
+              "Kejsar X styr Indien för mer än fyrahundra år sedan.",
+              "Historiker tvistar fortfarande om hur han ska förstås.",
+              "Var hans religiösa tolerans ett sant ideal, eller mest smart politik?",
+              "Två skribenter ger oss mycket olika bilder av hans hov.",
+              "Hovets officiella krönikör prisar honom som en nästan perfekt härskare.",
+              "En rivaliserande lärd man vid namn Badauni är mycket mer kritisk i sina egna skrifter.",
+              "Badauni skriver i hemlighet, och hans bok kommer ut först efter kejsarens död.",
+              "Badauni ogillar särskilt trosdebatterna i mitten av regeringstiden.",
+              "Historiker måste väga båda skildringarna noga mot varandra.",
+              "I dagens Indien debatterar människor fortfarande hans arv och vad det betyder."
+            ],
+            "question": "Vem är kejsar X?",
+            "options": [
+              "Aurangzeb",
+              "Krishnadevaraya",
+              "Akbar",
+              "Timur"
+            ],
+            "correct": "Akbar",
+            "words": [
+              {
+                "word": "tolerans",
+                "explanation": "att acceptera människor med annan tro eller annat sätt att leva"
+              },
+              {
+                "word": "krönikör",
+                "explanation": "en person som skriver ner berättelsen om det förflutna"
+              },
+              {
+                "word": "rivaliserande",
+                "explanation": "som tävlar mot någon annan"
+              },
+              {
+                "word": "arv",
+                "explanation": "det en person lämnar efter sig och blir ihågkommen för"
+              }
+            ],
+            "main_caption": "Två skribenter, som arbetar var för sig, lämnar mycket olika skildringar av samma härskare.",
+            "side_caption": "Den ena skildringen är storslagen, den andra är enkel och kritisk."
           }
         }
-      ]
+      ],
+      "person_sv": "Akbar"
     },
     {
       "slug": "meiji-restoration",
@@ -36341,6 +36786,54 @@
             "caption": "Many men cut off their old topknots and try new hats from the West.",
             "shutterstock_query": "1870s japan barber cutting topknot man from behind bowler hat illustration",
             "ai_prompt": "Photorealistic vertical scene inside a simple wooden room in Japan in the early 1870s, a young Japanese man in kimono sitting on a low stool seen from behind while a Japanese barber in kimono cuts off his topknot with scissors, a Western-style bowler hat resting on a small wooden stand beside them, soft daylight filtering through paper screens, calm quiet mood, 1870s clothing and furniture only, no mirror, no Japanese characters, no readable text, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Svarta skepp i viken",
+            "text_sentences": [
+              "Händelsen X sker i Japan, ett örike i Asien.",
+              "I mer än tvåhundra år håller Japan sig stängt.",
+              "Bara en liten hamn släpper in några få utländska handelsmän.",
+              "Så en dag 1853 kommer märkliga svarta skepp.",
+              "Tjock svart rök strömmar ut ur höga skorstenar på skeppen.",
+              "Skeppen har kraftiga kanoner och soldater från länder långt borta.",
+              "Japans gamla makthavare kan inte längre hålla världen utanför.",
+              "Femton år senare går makten tillbaka till en ung kejsare.",
+              "Han är bara femton år gammal.",
+              "Mycket snabbt sveper stora förändringar över landet.",
+              "Många män klipper av sin gamla hårknut och provar hattar från väst."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Opiumkrigen",
+              "Meijirestaurationen",
+              "Boxarupproret",
+              "Den ärorika revolutionen"
+            ],
+            "correct": "Meijirestaurationen",
+            "words": [
+              {
+                "word": "hamn",
+                "explanation": "en stad vid havet där skepp lastar och lossar"
+              },
+              {
+                "word": "utländska",
+                "explanation": "från ett annat land"
+              },
+              {
+                "word": "makthavare",
+                "explanation": "människor som har makten att styra ett land"
+              },
+              {
+                "word": "strömmar",
+                "explanation": "rinner ut i en tjock stråle"
+              },
+              {
+                "word": "hårknut",
+                "explanation": "hår som är uppsatt i en knut ovanpå huvudet"
+              }
+            ],
+            "main_caption": "En dag dyker märkliga rykande skepp upp i viken, och inget blir sig likt igen.",
+            "side_caption": "Många män klipper av sina gamla hårknutar och provar nya hattar från väst."
           }
         },
         {
@@ -36397,6 +36890,50 @@
             "caption": "Leaders who disagree about the country's path face each other on the battlefield.",
             "shutterstock_query": "1868 japan civil war two armies rifles mixed dress dawn field illustration",
             "ai_prompt": "Photorealistic vertical scene of two lines of soldiers facing each other across a misty field at dawn in Japan in 1868, both lines mostly in dark Western-style uniforms and caps with rifles held at rest, a few men on each side still in traditional armor or with topknots, both lines standing still with no weapons raised and no fighting shown, distant hills behind, quiet tense mood, 1868 clothing, armor and rifles only, no blood, no fallen figures, no banners, no flags, no Japanese characters, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En hamn, sedan orättvisa avtal",
+            "text_sentences": [
+              "Händelsen X börjar i Japan efter århundraden under militära makthavare som kallas shoguner.",
+              "År 1854 tvingar utländska krigsskepp shogunerna att skriva under ett första avtal.",
+              "Det öppnar två hamnar för amerikanska skepp.",
+              "År 1858 öppnar nya fördrag Japan för handel med flera främmande makter.",
+              "Dessa fördrag gynnar de främmande makterna, inte Japan.",
+              "Ilska över dessa orättvisa villkor delar upp ledarna i rivaliserande läger.",
+              "Ett kort inbördeskrig bryter ut 1868 och fortsätter in på 1869.",
+              "Den gamla regeringen faller, och en ny tar över.",
+              "Till namnet återgår makten till en ung kejsare.",
+              "De nya ledarna lovar i hans namn att söka kunskap från hela världen.",
+              "Kejsaren flyttar från Kyoto till Edo, som får det nya namnet Tokyo."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Meijirestaurationen",
+              "Taipingupproret",
+              "Opiumkrigen",
+              "Tanzimatreformerna"
+            ],
+            "correct": "Meijirestaurationen",
+            "words": [
+              {
+                "word": "shoguner",
+                "explanation": "militära makthavare som en gång styrde landet i kejsarens namn"
+              },
+              {
+                "word": "avtal",
+                "explanation": "en överenskommelse som två eller flera parter accepterar tillsammans"
+              },
+              {
+                "word": "fördrag",
+                "explanation": "formella skriftliga avtal mellan länder"
+              },
+              {
+                "word": "rivaliserande",
+                "explanation": "som tävlar mot en annan grupp eller person"
+              }
+            ],
+            "main_caption": "Vid ett möte på stranden går landets gamla makthavare med på villkor de inte själva valt.",
+            "side_caption": "Ledare som är oense om landets väg möter varandra på slagfältet."
           }
         },
         {
@@ -36453,6 +36990,50 @@
             "caption": "After a new law in 1876, a sword like this can no longer be worn in public.",
             "shutterstock_query": "japanese sword wooden stand bare room historic illustration",
             "ai_prompt": "Photorealistic vertical close view of a single traditional sword resting alone on a plain wooden stand in a bare room, soft window light, faint dust haze in the air, quiet still mood, no hands, no people, no engraving, no Japanese characters, no readable text, no flags, no modern objects, no other objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En delegation utomlands, sedan en våg av nya lagar",
+            "text_sentences": [
+              "Händelsen X formar om Japan genom en våg av nya lagar.",
+              "En delegation av höga ämbetsmän seglar utomlands från 1871 till 1873.",
+              "De studerar skolor, fabriker, arméer och parlament i Europa och Amerika.",
+              "Hemma igen lovar en lag från 1872 en skola åt varje barn.",
+              "Samma år öppnar den första järnvägen mellan Tokyo och Yokohama.",
+              "En lag från 1873 inför värnplikt för unga män ur alla samhällsklasser.",
+              "Fram till dess är det bara en krigarklass som bär svärd och tjänstgör som soldater.",
+              "År 1876 förbjuder en ny lag den klassen att bära svärd på allmän plats.",
+              "Forna krigare förlorar sin gamla status och sin gamla inkomst.",
+              "Arga forna krigare gör uppror 1877, men den nya armén besegrar dem.",
+              "Efter det nederlaget tar ingen upp vapen mot den nya ordningen igen."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Tanzimatreformerna",
+              "Hundradagarsreformen",
+              "Meijirestaurationen",
+              "Ungturkarnas revolution"
+            ],
+            "correct": "Meijirestaurationen",
+            "words": [
+              {
+                "word": "delegation",
+                "explanation": "en grupp som skickas utomlands med ett särskilt syfte"
+              },
+              {
+                "word": "järnväg",
+                "explanation": "ett spår med tåg som transporterar människor och gods"
+              },
+              {
+                "word": "status",
+                "explanation": "en persons rang eller ställning i samhället"
+              },
+              {
+                "word": "besegrar",
+                "explanation": "vinner över en fiende i en strid"
+              }
+            ],
+            "main_caption": "Ett nytt slags maskin binder samman två städer på mindre än en timme.",
+            "side_caption": "Efter en ny lag 1876 får ett svärd som detta inte längre bäras på allmän plats."
           }
         },
         {
@@ -36510,6 +37091,51 @@
             "caption": "Young women like these work long hours in the new mills that help pay for change.",
             "shutterstock_query": "1890s japan silk reeling hall young women cocoons basins from behind illustration",
             "ai_prompt": "Photorealistic vertical scene inside a silk-reeling hall in Japan in the 1890s, several young Japanese women in plain work kimono with aprons and tied-back hair sitting in a row seen from behind at basins of steaming water, drawing fine thread from white silk cocoons onto wooden reels, soft light from high windows, a supervisor barely visible in the background, calm but tiring mood, 1890s clothing and simple reeling equipment only, no rows of spinning machines, no visible injury, no distress, no readable signs, no Japanese characters, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En ny armé, ett nytt pris",
+            "text_sentences": [
+              "Händelsen X ger Japan ett nytt politiskt system inom några decennier.",
+              "En skriven grundlag kommer 1889 och ger kejsaren sista ordet.",
+              "En riksdag öppnar året därpå, även om bara ett fåtal medborgare får rösta i valet till den.",
+              "Japan bygger också upp en stark modern armé och flotta under den här perioden.",
+              "År 1894 bryter krig ut mot det angränsande kinesiska riket.",
+              "En snabb seger följer inom ett år, vilket överraskar iakttagare över hela världen.",
+              "Ett andra krig börjar 1904 mot Ryssland, ett mycket större europeiskt rike.",
+              "Tvärtemot de flesta förutsägelser vinner den mindre asiatiska makten kriget 1905.",
+              "År 1910 har Japan tagit full kontroll över Korea.",
+              "Vanliga bönder betalar tunga nya skatter för att finansiera alla dessa förändringar.",
+              "Unga kvinnor från fattiga familjer arbetar långa dagar i nya fabriker för silke och bomull.",
+              "Få av dem får en rättvis del av nationens nya välstånd och stolthet."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Boxarupproret",
+              "Taipingupproret",
+              "Opiumkrigen",
+              "Meijirestaurationen"
+            ],
+            "correct": "Meijirestaurationen",
+            "words": [
+              {
+                "word": "grundlag",
+                "explanation": "ett lands grundläggande uppsättning lagar och regler"
+              },
+              {
+                "word": "riksdag",
+                "explanation": "en grupp folkvalda som hjälper till att stifta lagar"
+              },
+              {
+                "word": "förutsägelser",
+                "explanation": "gissningar om vad som kommer att hända"
+              },
+              {
+                "word": "fabriker",
+                "explanation": "stora byggnader med maskiner som gör tyg eller garn"
+              }
+            ],
+            "main_caption": "I den här nya salen samlas folkvalda män för att debattera landets lagar.",
+            "side_caption": "Unga kvinnor som dessa arbetar långa dagar i de nya fabrikerna som hjälper till att betala för förändringen."
           }
         },
         {
@@ -36567,9 +37193,55 @@
             "caption": "Today, historians still study old records to understand why this change worked here.",
             "shutterstock_query": "old archive room wooden shelves paper documents tied cord no people illustration",
             "ai_prompt": "Photorealistic vertical scene of a quiet archive room seen from the side, wooden shelves holding old paper-bound documents tied with cord and flat wooden boxes, a plain table with one closed old ledger, soft window light, quiet studious mood, no people, no readable text on any document, box or ledger, no labels, no Japanese characters, no logos, no flags, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Revolution uppifrån",
+            "text_sentences": [
+              "Historiker kallar ofta händelsen X i Japan för en revolution genomförd uppifrån.",
+              "Till skillnad från andra revolutioner börjar den bland ledare, inte bland arga folkmassor.",
+              "En liten grupp forna krigare tar makten över staten och bygger snabbt om den.",
+              "De behåller kejsaren som en symbol medan de själva styr det nya systemet.",
+              "Forskare debatterar fortfarande varför denna omvandling lyckas så fullständigt just i Japan.",
+              "Några pekar på tidigare lokala handelsnätverk, läskunnighet och en stark byråkrati.",
+              "Andra betonar tidpunkten, eftersom stormakterna är upptagna på andra håll under de åren.",
+              "Nationalister i andra delar av Asien och i Afrika studerar detta exempel noga.",
+              "Många ser det som ett bevis på att en icke-västerländsk stat kan stå emot Europas stormakter.",
+              "Ändå bygger samma reformer också upp verktygen för senare militär expansion.",
+              "Inom några decennier blir den moderniserade armén en kraft för erövring utomlands.",
+              "Historiker tolkar därför epoken som både ett föredöme och en varning."
+            ],
+            "question": "Vilken händelse är händelsen X?",
+            "options": [
+              "Franska revolutionen",
+              "Meijirestaurationen",
+              "Ungturkarnas revolution",
+              "Tanzimatreformerna"
+            ],
+            "correct": "Meijirestaurationen",
+            "words": [
+              {
+                "word": "byråkrati",
+                "explanation": "tjänstemännen och kontoren som sköter en stats dagliga arbete"
+              },
+              {
+                "word": "nationalister",
+                "explanation": "människor som arbetar för sin nations frihet eller styrka"
+              },
+              {
+                "word": "läskunnighet",
+                "explanation": "förmågan att läsa och skriva"
+              },
+              {
+                "word": "erövring",
+                "explanation": "att ta kontroll över en plats med våld"
+              }
+            ],
+            "main_caption": "Längs gator som denna dyker nya ledningar och nya byggnader upp inom en enda generation.",
+            "side_caption": "I dag studerar historiker fortfarande gamla dokument för att förstå varför denna förändring lyckades här."
           }
         }
-      ]
+      ],
+      "person_sv": "Meijirestaurationen"
     }
   ]
 }

@@ -1,15 +1,16 @@
 # Förslag: utökad ämneslista mot 600+ kort
 
 Status: klartecken att fortsätta gavs 2026-09-12. Leverans 9 (rad 51-54, 59,
-79), leverans 10 (rad 61, 62, 71, 72, 74, 76) och leverans 11 (rad 86, 87, 88,
-92, 93, 94) är färdiga i text, granskning och svenska; bilderna väntar på
-påfyllda krediter hos bildtjänsten (44 av 60 klara för leverans 9, inga för
-10 och 11). Etiketterna `mathematics`, `africa` och `colonialism` infördes
-med leverans 10 och 11. Frågorna 1, 3 och 4 nedan är fortfarande obesvarade,
-så trekortsämnen och nivå 3 väntar. Nästa femkortsämnen i förslagets
-ordning: 97 Qin Shi Huangdi, 98 Sidenvägen, 99 Ashoka, 100 Zheng He, 102
-Akbar och Mogulriket, 104 Meijirestaurationen, vilket kräver en etikett för
-Asienblocket, förslagsvis `asia`.
+79), 10 (rad 61, 62, 71, 72, 74, 76), 11 (rad 86, 87, 88, 92, 93, 94) och 12
+(rad 97, 98, 99, 100, 102, 104) är färdiga i text, granskning och svenska;
+bilderna väntar på påfyllda krediter hos bildtjänsten (44 av 60 klara för
+leverans 9, inga för 10-12). Etiketterna `mathematics`, `africa`,
+`colonialism` och `asia` infördes med leverans 10-12. Frågorna 1, 3 och 4
+nedan är fortfarande obesvarade, så trekortsämnen och nivå 3 väntar. Nästa
+femkortsämnen i förslagets ordning: 107 Maya, 108 Azteker och Tenochtitlan,
+109 Inka, 110 Haitis revolution, 111 Simón Bolívar, 116 Osmanska riket,
+vilket kräver etiketter för Latinamerika och Mellanöstern, förslagsvis
+`latin america` och `middle east`.
 
 ## Läge och räkneexempel
 
@@ -84,14 +85,14 @@ bilder, granskning och svenska. Bildkostnaden är cirka 0,34 USD per kort.
 | 94 | Afrikas självständighet | Afrika | 5 ✅ Leverans 11 | Nkrumah, Nyerere, 1960, ujamaa, de nya staterna |
 | 95 | Julius Nyerere | Afrika | 3 | Läraren som blev president, Tanzania, ett enat land |
 | 96 | Drottning Nzinga | Afrika | 3 | Förhandlaren mot Portugal, Angola, trettio års kamp |
-| 97 | Qin Shi Huangdi | Asien | 5 | Kinas förste kejsare, muren, terrakottaarmén, brända böcker |
-| 98 | Sidenvägen | Asien | 5 | Kamelerna, papperet, sjukdomarna, idéerna som reste |
-| 99 | Ashoka | Asien | 5 | Kriget i Kalinga, ångern, edikten på pelarna |
-| 100 | Zheng He | Asien | 5 | Skattflottan, Afrika före Vasco da Gama, varför Kina slutade |
+| 97 | Qin Shi Huangdi | Asien | 5 ✅ Leverans 12 | Kinas förste kejsare, muren, terrakottaarmén, brända böcker |
+| 98 | Sidenvägen | Asien | 5 ✅ Leverans 12 | Kamelerna, papperet, sjukdomarna, idéerna som reste |
+| 99 | Ashoka | Asien | 5 ✅ Leverans 12 | Kriget i Kalinga, ångern, edikten på pelarna |
+| 100 | Zheng He | Asien | 5 ✅ Leverans 12 | Skattflottan, Afrika före Vasco da Gama, varför Kina slutade |
 | 101 | Sejong den store och hangul | Asien | 3 | Alfabetet för folket, Korea, boktryck före Gutenberg |
-| 102 | Akbar och Mogulriket | Asien | 5 | Religionsdialogen, Taj Mahal i nästa led, Indiens rike |
+| 102 | Akbar och Mogulriket | Asien | 5 ✅ Leverans 12 | Religionsdialogen, Taj Mahal i nästa led, Indiens rike |
 | 103 | Angkor | Asien | 3 | Templet i djungeln, vattnet, riket Khmer |
-| 104 | Meijirestaurationen | Asien | 5 | Japan på fyrtio år, skolor, järnvägar, priset |
+| 104 | Meijirestaurationen | Asien | 5 ✅ Leverans 12 | Japan på fyrtio år, skolor, järnvägar, priset |
 | 105 | Bhutans enande | Asien | 3 | Zhabdrung, dzongerna, landet som aldrig koloniserades |
 | 106 | Opiumkrigen | Asien | 3 | Handeln, Hongkong, förnedringens sekel, dagens minne |
 | 107 | Maya | Latinamerika | 5 | Kalendern, nollan, städerna, varför de övergavs |

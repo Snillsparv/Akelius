@@ -19,24 +19,23 @@ ordlista eller bild.
 
 ## Status (uppdatera vid varje leverans)
 
-- 68 ämnen, 340 kort, 544 av 680 bilder, 100 procent tvåspråkigt (leverans 1-11).
+- 74 ämnen, 370 kort, 544 av 740 bilder, 100 procent tvåspråkigt (leverans 1-12).
   Masterlistan med 50 ämnen är färdig. Ur den utökade listan är leverans 9
-  (vetenskap: Newton, Einstein, Marie Curie, Pasteur, Turing, Nightingale),
-  leverans 10 (Arkimedes, al-Khwarizmi, Ibn Sina, Visdomens hus, Ibn Battuta,
-  Upplysningen) och leverans 11 (Borlaug, transatlantiska slavhandeln, Mansa
-  Musa, Swahilikusten, kapplöpningen om Afrika, Afrikas självständighet)
-  färdiga i text, granskning och svenska. Bilder: leverans 9 har 44 av 60
-  godkända, leverans 10 och 11 har inga ännu, eftersom OpenAI-kontots
-  krediter tog slut 2026-09-12 (`credit_balance_exhausted`).
+  (vetenskap), 10 (Arkimedes till Upplysningen), 11 (Afrikablocket) och 12
+  (Asienblocket: Qin Shi Huangdi, Sidenvägen, Ashoka, Zheng He, Akbar,
+  Meijirestaurationen) färdiga i text, granskning och svenska. Bilder:
+  leverans 9 har 44 av 60 godkända, leverans 10-12 har inga ännu, eftersom
+  OpenAI-kontots krediter tog slut 2026-09-12 (`credit_balance_exhausted`).
 - Näst på tur: **fyll på OpenAI-krediter**, kör sedan
   `python3 tools/generate_images.py --only <slug> --workers 4` för
-  albert-einstein, marie-curie och alla tolv set i leverans 10 och 11
-  (136 bilder, cirka 23 USD), bildgranska set för set, bygg om sidorna.
+  albert-einstein, marie-curie och alla arton set i leverans 10-12
+  (196 bilder, cirka 33 USD), bildgranska set för set, bygg om sidorna.
   Därefter nästa block ur den utökade listan i förslagets ordning; frågorna
   om trekortsset, ordning och nivå 3 är fortfarande öppna hos Jonas, så
-  tills vidare bara femkortsämnen. Nästa femkortsämnen: 97 Qin Shi Huangdi,
-  98 Sidenvägen, 99 Ashoka, 100 Zheng He, 102 Akbar, 104 Meijirestaurationen
-  (Asienblocket, kräver etiketten `asia` eller motsvarande).
+  tills vidare bara femkortsämnen. Nästa femkortsämnen: 107 Maya, 108
+  Azteker och Tenochtitlan, 109 Inka, 110 Haitis revolution, 111 Simón
+  Bolívar, 116 Osmanska riket (Latinamerika och Mellanöstern, kräver
+  etiketter, förslagsvis `latin america` och `middle east`).
 - Öppet hos Roger: baksidestexter för befintliga kort, nivå 3-kort,
   "about X years ago" kontra århundraden.
 

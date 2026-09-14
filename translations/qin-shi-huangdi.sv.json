@@ -8,14 +8,14 @@
         "Kejsar X bor i Kina för mer än tvåtusen år sedan.",
         "Han blir kung när han bara är tretton år.",
         "Hans stat är en av de starkaste av de många stridande staterna.",
-        "I flera år strider dessa stater mot varandra.",
+        "I många år strider dessa stater mot varandra.",
         "Sakta vinner hans arméer krig efter krig.",
         "Till sist besegrar hans stat alla de andra.",
         "Kejsar X tar en helt ny titel.",
-        "Den betyder den första härskaren över allt.",
+        "Den betyder: den första härskaren över allt.",
         "Nu använder varje del av hans land samma skrift.",
         "Mynt, vikter och avståndet mellan kärrhjulen är också likadana.",
-        "I dag står en armé av soldater, gjorda av lera, fortfarande vakt nära hans grav."
+        "Än i dag står en armé av soldater gjorda av lera på vakt nära hans grav."
       ],
       "question": "Vem är kejsar X?",
       "options": [
@@ -54,12 +54,12 @@
       "text_sentences": [
         "Kejsar X styr Kina för mer än tvåtusen år sedan.",
         "Som ung kung har han rivaliserande stater runt omkring sig.",
-        "År 227 f.Kr. kommer en besökare från en rivaliserande stat nära honom.",
+        "År 227 f.Kr. kommer en besökare från en rivaliserande stat alldeles nära honom.",
         "Besökaren gömmer en dolk inuti en hoprullad karta.",
         "Han försöker döda kungen, men planen misslyckas.",
         "Kejsar X överlever, och krigen fortsätter.",
-        "År 221 f.Kr. besegrar hans arméer varje rivaliserande stat.",
-        "Han beordrar nya vägar över sitt land, så att arméer och handelsmän kan röra sig snabbt.",
+        "År 221 f.Kr. har hans arméer besegrat varje rivaliserande stat.",
+        "Han låter bygga nya vägar över sitt land, så att arméer och handelsmän kan röra sig snabbt.",
         "Arbetare gräver en kanal som binder samman två stora flodsystem.",
         "I norr binds äldre jordmurar samman till en enda lång mur.",
         "Denna tidiga mur är inte den berömda stenmur som besökare ser i dag."
@@ -78,7 +78,7 @@
         },
         {
           "word": "rivaliserande",
-          "explanation": "kämpar mot dig om samma sak"
+          "explanation": "som kämpar mot dig om samma sak"
         },
         {
           "word": "överleva",
@@ -96,13 +96,13 @@
       "title": "Brända böcker och ett medel för evigt liv",
       "text_sentences": [
         "Kejsar X styr Kina med mycket stränga lagar.",
-        "Även små brott ger hårt straff.",
-        "Hans främsta rådgivare vill att varje lärd ska följa en enda uppsättning idéer.",
+        "Även små brott ger hårda straff.",
+        "Hans främsta rådgivare vill att alla lärda ska följa en enda lära.",
         "År 213 f.Kr. beordrar regeringen att många gamla böcker ska brännas.",
-        "Böcker om medicin, jordbruk och spådom förblir säkra.",
+        "Böcker om medicin, jordbruk och spådom skonas.",
         "En senare historiker skriver att han lät döda lärda som talade emot honom.",
-        "Många tvivlar på detaljerna i historien.",
-        "När kejsar X blir äldre, fruktar han döden mer och mer.",
+        "Många tvivlar på detaljerna i den berättelsen.",
+        "När kejsar X blir äldre fruktar han döden mer och mer.",
         "Han skickar tjänare för att söka efter ett medel som stoppar åldrandet för alltid.",
         "Ingen tjänare kommer någonsin tillbaka med ett sådant medel.",
         "År 210 f.Kr. dör kejsar X under en lång resa långt från sin huvudstad."
@@ -117,7 +117,7 @@
       "words": [
         {
           "word": "sträng",
-          "explanation": "mycket bestämd; reglerna måste följas"
+          "explanation": "mycket hård och bestämd, reglerna måste följas"
         },
         {
           "word": "straff",
@@ -144,8 +144,8 @@
         "År 1974 gräver bönder en brunn och hittar de första av dem.",
         "Titta noga, och inga två ansikten är exakt lika.",
         "Många soldater höll en gång riktiga vapen av brons.",
-        "Själva den stora högen har aldrig öppnats.",
-        "En gammal historiker skriver att floder av kvicksilver flyter inuti den.",
+        "Själva den stora gravhögen har aldrig öppnats.",
+        "En forntida historiker skriver att floder av kvicksilver flyter inuti den.",
         "Moderna jordprover nära högen visar ovanligt höga halter av kvicksilver.",
         "Forskare studerar fortfarande marken innan någon gräver djupare.",
         "Bara några år efter kejsarens död faller hela hans dynasti."
@@ -195,7 +195,7 @@
         "Bevisen från arkeologin ger en andra, oberoende röst.",
         "Grävare, forskare och jordprover kan kontrollera den gamla texten bit för bit.",
         "Ibland stämmer de nedgrävda bevisen väl överens med Sima Qians skildring.",
-        "Ibland väcker det nya tvivel om detaljer som han själv aldrig såg.",
+        "Ibland väcker de nya tvivel om detaljer som han själv aldrig såg.",
         "Genom århundradena har bilden av kejsar X svängt mellan monster och statsbyggare."
       ],
       "question": "Vem är kejsar X?",
