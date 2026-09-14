@@ -1,0 +1,215 @@
+{
+  "slug": "akbar",
+  "person_sv": "Akbar",
+  "cards": [
+    {
+      "title": "Han kan inte läsa, men älskar att lyssna",
+      "text_sentences": [
+        "Kejsar X bor i Indien för ungefär femhundra år sedan.",
+        "Vid bara tretton års ålder blir han härskare över ett ostadigt ungt rike i norra Indien.",
+        "Först styr en äldre förmyndare som heter Bairam Khan i hans ställe.",
+        "Kejsar X lär sig aldrig läsa eller skriva.",
+        "Men han älskar berättelser och idéer.",
+        "Varje dag läser någon böcker högt för honom.",
+        "Han minns nästan allt han hör.",
+        "Hans bibliotek växer till tusentals böcker från många länder.",
+        "Han älskar också elefanter, och hans hovskribenter säger att han rider till och med de farligaste."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Akbar",
+        "Babur",
+        "Krishnadevaraya",
+        "Ashoka"
+      ],
+      "words": [
+        {
+          "word": "härskare",
+          "explanation": "en person som är ledare för ett land"
+        },
+        {
+          "word": "ostadigt",
+          "explanation": "inte stadigt, kan falla när som helst"
+        },
+        {
+          "word": "förmyndare",
+          "explanation": "en vuxen som tar hand om och skyddar ett barn"
+        },
+        {
+          "word": "bibliotek",
+          "explanation": "en stor samling böcker, eller ett rum fullt av böcker"
+        }
+      ],
+      "main_caption": "En pojke lyssnar noga när en bok läses högt för honom.",
+      "side_caption": "Ett bibliotek rymmer många böcker från många länder."
+    },
+    {
+      "title": "Ett rike växer, och en gammal skatt avskaffas",
+      "text_sentences": [
+        "Kejsar X styr mogulriket i norra Indien.",
+        "Under många år vinner hans arméer mer och mer land.",
+        "Han bygger också allianser genom giftermål.",
+        "Han gifter sig med prinsessor från mäktiga hinduiska familjer.",
+        "Deras fäder och bröder blir hans trogna allierade.",
+        "År 1564 avskaffar han en gammal skatt som bara icke-muslimer måste betala.",
+        "Detta ger honom stöd från många i hans folk.",
+        "Han bygger också en helt ny huvudstad.",
+        "Dess murar och palats är byggda av röd sandsten."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Humayun",
+        "Timur",
+        "Sher Shah Suri",
+        "Akbar"
+      ],
+      "words": [
+        {
+          "word": "rike",
+          "explanation": "många länder och folk som styrs av en och samma härskare"
+        },
+        {
+          "word": "allierade",
+          "explanation": "personer eller grupper som hjälper och stödjer varandra"
+        },
+        {
+          "word": "skatt",
+          "explanation": "pengar som människor måste betala till sin härskare eller sin regering"
+        },
+        {
+          "word": "huvudstad",
+          "explanation": "den viktigaste staden, där en härskare eller en regering har sitt säte"
+        }
+      ],
+      "main_caption": "En stor procession rör sig mot portarna till en ny stad.",
+      "side_caption": "En ämbetsman väger mynt och säd för härskarens skatt."
+    },
+    {
+      "title": "En sal där varje tro har en röst",
+      "text_sentences": [
+        "År 1575 bygger kejsar X en särskild sal i sin huvudstad av röd sandsten.",
+        "Först är det bara muslimska lärda som diskuterar där.",
+        "Från omkring 1578 bjuder han också in tänkare från andra trosriktningar.",
+        "Nu ansluter sig hinduer, jainer och zoroastrier till samtalen.",
+        "Från 1580 ansluter sig också jesuitpräster från Europa.",
+        "De diskuterar om Gud, själen och det rätta sättet att leva.",
+        "Kejsar X lyssnar i timmar, natt efter natt.",
+        "Omkring 1582 bildar han en liten krets av betrodda vänner vid hovet.",
+        "Några senare skribenter kallar denna krets en ny religion.",
+        "Historiker är oense om kretsen alls är en religion.",
+        "Under samma år målar hans verkstad små, detaljerade bilder.",
+        "Lärda där översätter också gamla indiska epos till persiska."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Akbar",
+        "Humayun",
+        "Ashoka",
+        "Krishnadevaraya"
+      ],
+      "words": [
+        {
+          "word": "trosriktningar",
+          "explanation": "olika religioner, olika tro på Gud"
+        },
+        {
+          "word": "själ",
+          "explanation": "den del av en människa som vissa tror lever vidare efter döden"
+        },
+        {
+          "word": "krets",
+          "explanation": "en liten, nära grupp av människor"
+        },
+        {
+          "word": "epos",
+          "explanation": "mycket långa, gamla berättelser, ofta om hjältar"
+        }
+      ],
+      "main_caption": "Män med olika tro sitter tillsammans och samtalar långt in på natten.",
+      "side_caption": "Målare arbetar med små penslar, sida efter sida."
+    },
+    {
+      "title": "Han styr ett rike och lämnar en stad",
+      "text_sentences": [
+        "Kejsar X styr sitt rike i Indien med ett noggrant system.",
+        "Ämbetsmän får rang, och deras rang avgör deras lön och uppgifter.",
+        "En finansminister vid namn Todar Mal reformerar hur jordskatten mäts.",
+        "Hans nära vän, en lärd man vid namn Abu'l-Fazl, skriver en lång krönika om hans regeringstid.",
+        "År 1568 intar hans armé fästningen Chittor, och många försvarare och stadsbor dödas.",
+        "Hans huvudstad av röd sandsten i Fatehpur Sikri används bara i ungefär fjorton år.",
+        "År 1585 flyttar han sitt hov långt norrut.",
+        "Historiker vet fortfarande inte säkert varför staden överges.",
+        "Hans sonson bygger senare ett berömt vitt gravmonument, Taj Mahal."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Timur",
+        "Akbar",
+        "Jahangir",
+        "Sher Shah Suri"
+      ],
+      "words": [
+        {
+          "word": "ämbetsmän",
+          "explanation": "människor med ett jobb för att hjälpa till att styra staten"
+        },
+        {
+          "word": "rang",
+          "explanation": "en nivå eller position i ett organiserat system"
+        },
+        {
+          "word": "krönika",
+          "explanation": "en bok som berättar om händelser från det förflutna"
+        },
+        {
+          "word": "fästning",
+          "explanation": "en stark byggnad eller stad byggd för försvar"
+        }
+      ],
+      "main_caption": "En armé slår läger nedanför murarna till en bergsfästning.",
+      "side_caption": "Gräs växer i en innergård som en gång var fylld av ett helt hov."
+    },
+    {
+      "title": "Två krönikörer, ett omtvistat arv",
+      "text_sentences": [
+        "Kejsar X styr Indien för mer än fyrahundra år sedan.",
+        "Historiker tvistar fortfarande om hur han ska förstås.",
+        "Var hans religiösa tolerans ett sant ideal, eller mest smart politik?",
+        "Två skribenter ger oss mycket olika bilder av hans hov.",
+        "Hovets officiella krönikör prisar honom som en nästan perfekt härskare.",
+        "En rivaliserande lärd man vid namn Badauni är mycket mer kritisk i sina egna skrifter.",
+        "Badauni skriver i hemlighet, och hans bok kommer ut först efter kejsarens död.",
+        "Badauni ogillar särskilt trosdebatterna i mitten av regeringstiden.",
+        "Historiker måste väga båda skildringarna noga mot varandra.",
+        "I dagens Indien debatterar människor fortfarande hans arv och vad det betyder."
+      ],
+      "question": "Vem är kejsar X?",
+      "options": [
+        "Aurangzeb",
+        "Krishnadevaraya",
+        "Akbar",
+        "Timur"
+      ],
+      "words": [
+        {
+          "word": "tolerans",
+          "explanation": "att acceptera människor med annan tro eller annat sätt att leva"
+        },
+        {
+          "word": "krönikör",
+          "explanation": "en person som skriver ner berättelsen om det förflutna"
+        },
+        {
+          "word": "rivaliserande",
+          "explanation": "som tävlar mot någon annan"
+        },
+        {
+          "word": "arv",
+          "explanation": "det en person lämnar efter sig och blir ihågkommen för"
+        }
+      ],
+      "main_caption": "Två skribenter, som arbetar var för sig, lämnar mycket olika skildringar av samma härskare.",
+      "side_caption": "Den ena skildringen är storslagen, den andra är enkel och kritisk."
+    }
+  ]
+}
