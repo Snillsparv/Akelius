@@ -34170,6 +34170,870 @@
         }
       ],
       "person_sv": "Afrikas självständighet"
+    },
+    {
+      "slug": "silk-road",
+      "person": "The Silk Road",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "A Road Made of Many Roads",
+          "category": "asia",
+          "text_sentences": [
+            "Road X is not one single road.",
+            "It is many roads that connect together, like a long chain.",
+            "The roads start in a great city in China and run west.",
+            "Camels carry soft shiny cloth called silk from China.",
+            "The cloth comes from tiny worms that eat leaves and spin thread.",
+            "For a long time, only China knows this secret.",
+            "Traders bring horses, glass, and other goods back the other way.",
+            "Small towns along the roads grow rich at the desert's edge.",
+            "These oasis towns give travelers water, food, and a place to rest."
+          ],
+          "question": "Which road is Road X?",
+          "options": [
+            "The Amber Road",
+            "The Silk Road",
+            "The Incense Route",
+            "The Grand Trunk Road"
+          ],
+          "correct": "The Silk Road",
+          "words": [
+            {
+              "word": "silk",
+              "explanation": "a soft, shiny cloth made from very fine thread"
+            },
+            {
+              "word": "oasis",
+              "explanation": "a green, wet place with water in the middle of a dry desert"
+            },
+            {
+              "word": "traders",
+              "explanation": "people whose job is to buy and sell goods"
+            },
+            {
+              "word": "spin",
+              "explanation": "to turn something round and round to make a long thread"
+            }
+          ],
+          "main_image": {
+            "description": "A long line of Bactrian camels, each with two humps, crosses a wide stony desert plain, with snow-capped mountains far in the background under a wide clear sky. Every camel carries wrapped bundles of soft cloth tied with plain rope. The camel drivers wear the felt hats and long padded coats typical of Central Asia around the Han era, walking beside their animals in warm late afternoon light. Production note: Bactrian camels only, no dromedaries, no Sahara-style sand dunes, plain unmarked bundles, accurate Central Asian dress for the drivers, no modern equipment, no flags, no readable maps or signs anywhere.",
+            "caption": "A long line of camels carries soft cloth toward the west.",
+            "shutterstock_query": "bactrian camel caravan cloth bundles stony desert snow mountains central asia historical illustration",
+            "ai_prompt": "Photorealistic historical illustration of a long line of Bactrian two-humped camels crossing a wide stony desert plain, snow-capped mountains far in the background under a wide clear sky, each camel carrying wrapped bundles of soft plain cloth tied with rope, the camel drivers wearing the felt hats and long padded coats of Central Asia around the Han era, walking beside their animals in warm late afternoon light, Bactrian camels only, no dromedaries, no sand dunes, accurate ancient Central Asian clothing; no modern equipment, no flags, no Chinese or Arabic characters, no pseudo-writing on any cloth, no readable maps or signs, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Inside a simple wooden tray, several pale silkworms feed on fresh green mulberry leaves, with one or two white cocoons resting beside them. Warm indoor daylight falls across the tray from one side. Supports the word spin. Production note: close natural view, no loose thread, no hands or people visible, no modern containers, no readable labels, calm and simple mood.",
+            "caption": "Tiny worms like these eat leaves, then spin fine white thread around themselves.",
+            "shutterstock_query": "silkworms mulberry leaves cocoons wooden tray closeup natural historical",
+            "ai_prompt": "Vertical photorealistic close-up of several pale silkworms feeding on fresh green mulberry leaves inside a simple plain wooden tray, one or two white oval cocoons resting beside them, no loose thread, warm natural daylight from one side, calm still mood, no hands, no people, no modern containers; no labels, no writing of any kind, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "An Envoy Opens the Way West",
+          "category": "asia",
+          "text_sentences": [
+            "Road X grows into an important network around two thousand years ago.",
+            "A Chinese envoy named Zhang Qian travels west around 138 BC.",
+            "His long journey helps open a safer path between east and west.",
+            "Traders start their journeys in great cities like Chang'an in China.",
+            "Silk cloth passes from trader to trader, thousands of kilometers toward the west.",
+            "Along the way, traders also carry iron tools and polished bronze mirrors.",
+            "Going east, other traders bring horses, glass, wool, and gold.",
+            "Rich cities like Samarkand and Bukhara grow along the middle of the roads.",
+            "Wealthy people far away in Rome pay high prices for silk cloth.",
+            "Some Roman writers even complain that silk costs the empire too much gold."
+          ],
+          "question": "Which road is Road X?",
+          "options": [
+            "The Silk Road",
+            "The Tea Horse Road",
+            "The Royal Road",
+            "The trans-Saharan trade route"
+          ],
+          "correct": "The Silk Road",
+          "words": [
+            {
+              "word": "envoy",
+              "explanation": "a person sent by a ruler to speak or travel on official business"
+            },
+            {
+              "word": "network",
+              "explanation": "a set of roads or paths that connect and cross each other"
+            },
+            {
+              "word": "empire",
+              "explanation": "many lands and peoples ruled by one government"
+            },
+            {
+              "word": "wealthy",
+              "explanation": "having a lot of money or valuable things"
+            }
+          ],
+          "main_image": {
+            "description": "In a busy oasis market city, Central Asian merchants in long coats and felt hats and Han-era Chinese traders in silk robes stand near stacked bales of cloth, small clay jars, and coils of rope, with resting Bactrian camels nearby and low mud-brick buildings behind them under a bright midday sun. Production note: Han-era Chinese dress and Central Asian dress both shown accurately, mud-brick oasis architecture, no readable signs or markings on any bale or jar, no modern objects, no flags, lively but orderly mood.",
+            "caption": "Merchants from east and west meet in a busy market town along the way.",
+            "shutterstock_query": "central asian oasis market merchants camels mud brick historical illustration",
+            "ai_prompt": "Photorealistic historical illustration of a busy oasis market city around the first century BC, Central Asian merchants in long padded coats and felt hats and Han-era Chinese traders in silk robes standing near stacked cloth bales, small clay jars, and coils of rope, resting Bactrian camels nearby, low mud-brick buildings behind them under bright midday sun, accurate Han-era and ancient Central Asian dress for both groups, mud-brick oasis architecture; no readable signs, no markings on goods, no modern objects, no flags, no Chinese or Arabic characters, no pseudo-writing, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "In a shaded Roman market stall, a wealthy Roman woman in a fine draped gown examines a length of smooth, shimmering cloth held up by a merchant, other folded cloth resting on a wooden table beside them. Supports the word wealthy. Production note: Mediterranean Roman dress and setting of the first century only, no readable inscriptions on any surface, no coins with visible markings, calm and dignified mood.",
+            "caption": "Far away in Rome, wealthy buyers pay a high price for this fine cloth.",
+            "shutterstock_query": "roman market stall fine cloth wealthy woman historical illustration",
+            "ai_prompt": "Vertical photorealistic illustration of a shaded Roman market stall in the first century, a wealthy Roman woman in a fine draped gown examining a length of smooth shimmering cloth held up by a merchant in a plain tunic, other folded cloth resting on a wooden table beside them, warm Mediterranean daylight, accurate Roman period dress and setting, calm dignified mood; no readable inscriptions, no coins with visible markings, no modern objects, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Ideas Travel Along the Road",
+          "category": "asia",
+          "text_sentences": [
+            "Silk and other goods travel along Road X, but ideas travel too.",
+            "Buddhism spreads from India into China along these very roads.",
+            "Monks carry sacred texts and teachings together with merchant caravans.",
+            "Going the other way, the skill of making paper slowly travels west.",
+            "A story says Chinese paper makers are captured after a battle far west of China.",
+            "Through Samarkand, the new skill of papermaking finally reaches the wider world.",
+            "Deep in the desert near Dunhuang, monks carve hundreds of caves into a cliff.",
+            "Inside, painters cover the walls with colorful scenes for many centuries.",
+            "One sealed cave, full of old manuscripts, stays hidden and forgotten for about nine hundred years.",
+            "A caretaker and his workers open this hidden cave again in the year 1900.",
+            "From 1907, scholars from Europe buy thousands of the manuscripts and take them away, and the rest go to Beijing in 1910."
+          ],
+          "question": "Which road is Road X?",
+          "options": [
+            "The Spice Route",
+            "The King's Highway",
+            "The Amber Road",
+            "The Silk Road"
+          ],
+          "correct": "The Silk Road",
+          "words": [
+            {
+              "word": "sacred",
+              "explanation": "seen as holy and treated with great respect"
+            },
+            {
+              "word": "manuscripts",
+              "explanation": "old books or texts written by hand"
+            },
+            {
+              "word": "scholars",
+              "explanation": "people who study and learn a subject very deeply"
+            },
+            {
+              "word": "carve",
+              "explanation": "to cut shapes into stone, wood, or rock"
+            }
+          ],
+          "main_image": {
+            "description": "A desert cliff dotted with plain dark cave openings, seen from a respectful distance under a pale afternoon sky; on the dusty path below, a few Buddhist monks of the Tang era walk on foot in plain ochre and brown robes, heads shaved, one carrying a wrapped bundle on his back, no camels. Production note: seventh to ninth century, Tang era, East Asian monks in simple ochre and brown robes with shaved heads, cave openings shown as plain dark carved doorways without any visible painting detail or writing, no camels, no modern shoes or bags, no modern objects, no flags, calm reverent mood.",
+            "caption": "Monks walk toward caves carved into a distant desert cliff.",
+            "shutterstock_query": "buddhist monks walking desert cliff caves tang era historical illustration",
+            "ai_prompt": "Photorealistic historical illustration of a desert cliff dotted with plain dark carved cave openings seen from a respectful distance under a pale afternoon sky, a few East Asian Buddhist monks of the Tang era, seventh to ninth century, walking on foot on the dusty path below in plain ochre and brown robes with shaved heads, one carrying a wrapped cloth bundle on his back, cave openings shown as plain dark doorways without visible painting or writing, calm reverent mood; no camels, no modern shoes, no modern bags, no modern objects, no flags, no Chinese or Arabic characters, no pseudo-writing, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Inside a dim stone niche, a stack of closed, rolled manuscript scrolls rests on a low wooden shelf, their plain covers unmarked, soft light falling from an unseen opening above. Supports the word manuscripts. Production note: all scrolls fully closed and rolled, no visible writing or characters on any surface, quiet still mood, no people, no modern lighting.",
+            "caption": "Old rolled manuscripts like these stay hidden in a sealed cave for centuries.",
+            "shutterstock_query": "closed ancient scrolls stone niche dim light historical illustration",
+            "ai_prompt": "Vertical photorealistic illustration of a dim stone niche holding a stack of closed, rolled manuscript scrolls on a low wooden shelf, plain unmarked covers, medieval Chinese paper and silk scroll design, soft light falling from an unseen opening above, quiet still mood, no people, no modern lighting; no visible writing, no characters, no pseudo-writing, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Peace, a Traveler, and a Great Plague",
+          "category": "asia",
+          "text_sentences": [
+            "In the 1200s, Mongol rulers take control of huge stretches of Road X.",
+            "For about a hundred years in the 1200s and 1300s, one family of rulers keeps the whole road safe.",
+            "Under their strong rule, merchants carry silk, paper, and painted pottery more safely than before.",
+            "A merchant named Marco Polo travels these roads all the way to China.",
+            "Later, he tells stories about the wonders he saw on his journey.",
+            "Many readers in Europe find his stories hard to believe.",
+            "In the 1300s, a great plague also travels west along these roads.",
+            "In the same years, around 1347, it spreads from Asia into the Middle East and into Europe.",
+            "The plague kills a huge share of the people it reaches.",
+            "Around the year 1500, sailors find new sea routes between east and west.",
+            "Slowly, ships carry more cargo than the old roads on land."
+          ],
+          "question": "Which road is Road X?",
+          "options": [
+            "The Incense Route",
+            "The Grand Trunk Road",
+            "The Silk Road",
+            "The Tea Horse Road"
+          ],
+          "correct": "The Silk Road",
+          "words": [
+            {
+              "word": "merchants",
+              "explanation": "people who buy and sell goods, often over long distances"
+            },
+            {
+              "word": "cargo",
+              "explanation": "goods carried by a ship, truck, or other vehicle"
+            },
+            {
+              "word": "plague",
+              "explanation": "a very serious disease that spreads fast and kills many people"
+            },
+            {
+              "word": "routes",
+              "explanation": "ways or paths that lead from one place to another"
+            }
+          ],
+          "main_image": {
+            "description": "In the courtyard of a caravanserai at evening, merchants of different peoples rest together: Central Asian men in felt hats and long padded coats, Chinese traders in Yuan-era silk robes, and a European merchant in a thirteenth-century wool tunic and hood, while a guard in a felt hat and long coat stands calmly near the gate; the mud-brick arches and the mixed travelers are in focus, and a few resting Bactrian camels stand small in the background. Production note: thirteenth-century dress for each group named explicitly, no modern clothing, Bactrian camels only and only small in the background, no weapons drawn, no flags, no modern objects, calm peaceful mood.",
+            "caption": "Under a long peace, travelers from many peoples rest safely together.",
+            "shutterstock_query": "caravanserai courtyard merchants evening thirteenth century historical illustration",
+            "ai_prompt": "Photorealistic historical illustration of the courtyard of a mud-brick caravanserai at evening in the thirteenth century, merchants of different peoples resting together, Central Asian men in felt hats and long padded coats, Chinese traders in Yuan-era silk robes, a European merchant in a thirteenth-century wool tunic and hood, a guard in a felt hat and long coat standing calmly near the gate, the arches and the travelers in focus, a few resting Bactrian camels small in the background, warm evening light, thirteenth-century dress for every figure; no modern clothing, no weapons drawn, no flags, no modern objects, no readable signs, no Chinese or Arabic characters, no pseudo-writing, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "An Arab dhow with a single large lateen sail crosses the open Indian Ocean around the year 1500, cloth bales and clay jars lashed on its deck, sailors in long robes and turbans of the period at work. Supports the word cargo. Production note: dhow design of the early 1500s with a lateen sail and a curved hull, bales and jars only, no cargo crates, no flags, no ship name, no nineteenth-century clipper, no steamship, no European galleon, no modern vessels, calm determined mood.",
+            "caption": "Later, ships like this one carry cargo across the sea instead of the old roads.",
+            "shutterstock_query": "arab dhow lateen sail indian ocean cargo bales historical illustration",
+            "ai_prompt": "Vertical photorealistic illustration of an Arab dhow with a single large lateen sail and a curved wooden hull crossing the open Indian Ocean around the year 1500, cloth bales and clay jars lashed on its deck, sailors in long robes and turbans of the early sixteenth century at work, calm determined mood, accurate early 1500s dhow design; no cargo crates, no flags, no ship name, no nineteenth-century clipper, no steamship, no European galleon, no modern vessels, no readable markings, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "One Name for Many Roads",
+          "category": "asia",
+          "text_sentences": [
+            "Historians do not always use one single name for Road X.",
+            "For centuries, travelers and merchants speak only of separate roads and trading posts.",
+            "In 1877, a German scholar named Ferdinand von Richthofen invents a new name for the whole network.",
+            "He names the network after the most famous good carried along it, silk.",
+            "His new word links many different roads together under one single idea.",
+            "Some historians now argue that Road X was never really one road at all.",
+            "They prefer to say roads, in the plural, stretching across many centuries and cultures.",
+            "Others still find the single, simple name useful for teaching and writing.",
+            "Goods, ideas, diseases, and people all moved along these roads for a very long time.",
+            "Today, the same old name also has a busy political life in modern trade and diplomacy."
+          ],
+          "question": "Which road is Road X?",
+          "options": [
+            "The Silk Road",
+            "The Royal Road",
+            "The Spice Route",
+            "The King's Highway"
+          ],
+          "correct": "The Silk Road",
+          "words": [
+            {
+              "word": "invents",
+              "explanation": "makes up or creates something new"
+            },
+            {
+              "word": "plural",
+              "explanation": "a word form that shows there is more than one"
+            },
+            {
+              "word": "diplomacy",
+              "explanation": "careful talks between countries to solve problems peacefully"
+            },
+            {
+              "word": "scholar",
+              "explanation": "a person who studies a subject very deeply"
+            }
+          ],
+          "main_image": {
+            "description": "A large German university lecture hall of the 1870s seen from the back rows: students in dark frock coats and high collars sit with their backs to the camera, a lecturer in a dark coat stands far at the front behind a plain wooden lectern, tall windows and gas lamps light the room, the wall behind him bare plaster with no board or map. Production note: 1870s European academic dress and furnishings, all figures seen from behind or at a distance, no blackboard, no map, no readable text anywhere, calm studious mood, a generic lecturer not resembling any real person.",
+            "caption": "In a lecture hall in Europe, a scholar gives the old roads one new name.",
+            "shutterstock_query": "nineteenth century lecture hall students rear view lecturer historical illustration",
+            "ai_prompt": "Photorealistic illustration of a large German university lecture hall of the 1870s seen from the back rows, students in dark frock coats and high collars sitting with their backs to the camera, a lecturer in a dark coat standing far at the front behind a plain wooden lectern, tall windows and gas lamps, bare plaster wall behind him with no board and no map, calm studious mood, all figures seen from behind or at a distance, a generic lecturer not resembling any real person; no blackboard, no map, no readable text, no modern objects, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A wooden shelf of closed leather-bound books from the 1800s, some standing with plain unlettered spines and some lying flat with their pages facing out, seen at a slight angle in warm lamp light. Supports the word scholar. Production note: all books closed, spines plain leather with no lettering or gilt titles, no readable text, no modern objects, calm reflective mood.",
+            "caption": "Scholars write many books, and one simple name spreads through them all.",
+            "shutterstock_query": "antique leather bound books shelf closed no titles lamp light still life",
+            "ai_prompt": "Vertical photorealistic still life of a wooden shelf of closed leather-bound books from the 1800s, some standing with plain unlettered leather spines and some lying flat with their page edges facing out, seen at a slight angle in warm lamp light, calm reflective mood; no lettering on any spine, no gilt titles, no readable text, no modern objects, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ashoka",
+      "person": "Ashoka",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "An Emperor Who Stops Fighting",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules a great empire in India.",
+            "He lives more than two thousand years ago.",
+            "His family built this empire two generations before him.",
+            "Emperor X wants to make his empire even bigger.",
+            "He sends his army to attack a free land nearby.",
+            "The war is terrible, and many people die.",
+            "Afterward, Emperor X feels a deep, heavy sorrow.",
+            "He decides never to fight a war like this again.",
+            "He chooses a new way to rule.",
+            "He orders wells dug along the roads, for clean water.",
+            "He orders shade trees planted for tired travelers.",
+            "He orders care for the sick, for people and for animals too."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Chandragupta Maurya",
+            "Ashoka",
+            "Harsha",
+            "Kanishka"
+          ],
+          "correct": "Ashoka",
+          "words": [
+            {
+              "word": "empire",
+              "explanation": "a large group of lands and peoples ruled by one ruler"
+            },
+            {
+              "word": "sorrow",
+              "explanation": "a strong feeling of sadness"
+            },
+            {
+              "word": "wells",
+              "explanation": "deep holes dug into the ground to reach water"
+            },
+            {
+              "word": "travelers",
+              "explanation": "people who are on a journey, going from place to place"
+            }
+          ],
+          "main_image": {
+            "description": "An empty battlefield in ancient India at dusk, broken wooden carts and scattered spears lying still on open ground, no bodies, no soldiers, seen from a distance under a heavy sky. Production note: third-century BC Indian setting, plain wooden cart wheels and simple iron spearheads, sandstone hills far in the background; no corpses, no wounded figures, no blood, no close-up weapons, no readable marks on any object, no modern objects.",
+            "caption": "After a terrible war, the battlefield lies silent and empty.",
+            "shutterstock_query": "ancient india empty battlefield broken carts dusk illustration",
+            "ai_prompt": "Photorealistic illustration of an empty battlefield in third-century BC India at dusk, broken wooden carts and scattered spears with simple iron heads lying still on open ground, no bodies, no wounded figures, no blood, seen from a distance under a heavy overcast sky, sandstone hills far in the background, no soldiers, no flags, no modern objects, no readable marks on any object, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A stone well beneath a large banyan tree beside a dusty road in ancient India, a leather bucket resting on the well's rim, its rope still swinging; a wooden bullock cart and tiny distant travelers stand far in the background. This explains the words 'wells' and 'travelers'. Production note: third-century BC Indian setting, plain sandstone well, brown-skinned South Asian travelers in plain cotton dhotis and shawls only as tiny distant figures, no readable marks anywhere.",
+            "caption": "A stone well and a shady tree welcome tired travelers.",
+            "shutterstock_query": "ancient stone well banyan tree road india illustration",
+            "ai_prompt": "Photorealistic illustration of a plain stone well beneath a large banyan tree beside a dusty road in third-century BC India, a leather bucket resting on the well's rim with its rope still swinging, a wooden bullock cart and tiny distant brown-skinned South Asian travelers in plain cotton dhotis and shawls far in the background, warm daylight, no modern objects, no readable marks anywhere, no flags, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Words on a Rock, After Kalinga",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules a great empire in India, more than two thousand years ago.",
+            "Around 261 BC, his army wins a terrible war in the land of Kalinga.",
+            "His own words, carved on a rock, say that a hundred thousand people die.",
+            "After this war, he turns more and more to the teaching of the Buddha.",
+            "He chooses a new way to rule, and he calls it dhamma, right living.",
+            "He orders his messages carved into rocks and tall stone pillars.",
+            "Workers place these messages across the whole empire, often beside busy roads.",
+            "The messages tell people to respect their parents, their teachers, and their servants.",
+            "Special officers of dhamma travel out to explain the messages.",
+            "In many regions, people hear his words read aloud in their own language.",
+            "In the far northwest, some messages are even carved in Greek."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Samudragupta",
+            "Chandragupta II",
+            "Ashoka",
+            "Rajaraja Chola"
+          ],
+          "correct": "Ashoka",
+          "words": [
+            {
+              "word": "dhamma",
+              "explanation": "the emperor's own word for right living and good behavior"
+            },
+            {
+              "word": "carved",
+              "explanation": "cut deep marks into something hard, like stone"
+            },
+            {
+              "word": "pillars",
+              "explanation": "tall, strong stone posts that stand alone"
+            },
+            {
+              "word": "regions",
+              "explanation": "parts of a country or a large area of land"
+            }
+          ],
+          "main_image": {
+            "description": "A large flat-faced grey boulder beside an ancient dirt road in India, its surface showing fresh, shallow carved marks seen at a steep angle in low raking light so that nothing can be read; a brown-skinned South Asian worker kneels close to the stone, only his hands and a small iron chisel visible, his face out of frame. Production note: third-century BC Indian setting, plain cotton dhoti visible only at the wrist and knee, iron chisel and wooden mallet, sandstone hills in soft distance; fresh work, not weathered; no readable letters or words of any script, only abstract shallow marks, no modern objects.",
+            "caption": "A worker cuts the emperor's new words into solid rock.",
+            "shutterstock_query": "ancient india stone carver boulder roadside chisel hands illustration",
+            "ai_prompt": "Photorealistic illustration of a large flat-faced grey boulder beside a dusty ancient road in third-century BC India, its surface showing fresh shallow carved marks seen at a steep angle in low raking light so nothing can be read, a brown-skinned South Asian worker kneeling close to the stone with only his hands, a small iron chisel and a wooden mallet visible, plain cotton dhoti at the wrist and knee, face out of frame, sandstone hills in soft distance, warm daylight, fresh carving not weathered, no readable letters or words of any script, no modern objects, no flags, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Brown-skinned South Asian workers in plain cotton dhotis raise a tall polished sandstone pillar with thick ropes, a wooden scaffold and two oxen beside a dusty road in third-century BC India, seen from a distance, faces turned away, the pillar's top plain and rounded. This explains the word 'pillars'. Production note: third-century BC craftsmanship, plain rounded top with no lion figure and no wheel shape, ropes and wooden poles only, no metal machinery, no flags, no readable marks, no recognisable face.",
+            "caption": "Workers raise a tall stone pillar beside the road.",
+            "shutterstock_query": "ancient workers raising stone pillar ropes scaffold oxen india illustration",
+            "ai_prompt": "Photorealistic vertical image of brown-skinned South Asian workers in plain cotton dhotis raising a tall polished sandstone pillar with thick ropes, a wooden scaffold and two oxen beside a dusty road in third-century BC India, seen from a distance with faces turned away, the pillar's top plain and rounded with no lion figure and no wheel shape, warm daylight, ropes and wooden poles only, no metal machinery, no flags, no modern objects, no readable marks, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Rules for Every Faith and Many Animals",
+          "category": "asia",
+          "text_sentences": [
+            "More than two thousand years ago, Emperor X rules a great empire in India.",
+            "His new ideas are carved on rocks and pillars for all to read.",
+            "One message says: respect people of every faith, not only your own.",
+            "Another message protects animals: many kinds of animals may not be killed.",
+            "He says his own kitchen once killed many animals every day, and now only two peacocks and one deer.",
+            "Emperor X also sends messengers to rulers in distant lands, far beyond his own empire.",
+            "They carry his ideas about kindness and right living.",
+            "Tradition says that his own son and daughter carry the Buddha's teaching to Sri Lanka.",
+            "There, tradition says, people welcome the new teaching warmly.",
+            "Through messages and messengers, one ruler's change of heart reaches far beyond his own land."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Krishnadevaraya",
+            "Akbar",
+            "Ashoka",
+            "Harsha"
+          ],
+          "correct": "Ashoka",
+          "words": [
+            {
+              "word": "faith",
+              "explanation": "a religion, or a strong belief in something"
+            },
+            {
+              "word": "messengers",
+              "explanation": "people sent to carry news or messages to others"
+            },
+            {
+              "word": "tradition",
+              "explanation": "an old story or custom, passed on for a long time"
+            },
+            {
+              "word": "protects",
+              "explanation": "keeps something safe from harm"
+            }
+          ],
+          "main_image": {
+            "description": "A brick stupa surrounded by tall trees in ancient India, a family of deer and a peacock resting calmly nearby undisturbed, seen from a respectful distance; a few brown-skinned South Asian pilgrims in plain cotton shawls stand quietly at the edge of the clearing, faces turned away. Production note: third-century BC Indian setting, plain brick stupa dome with no carved figures or inscriptions, animals shown calm and unharmed, no flags, no readable marks.",
+            "caption": "Near a quiet holy place, animals rest undisturbed and people gather in peace.",
+            "shutterstock_query": "ancient brick stupa deer peacock india illustration",
+            "ai_prompt": "Photorealistic illustration of a plain brick stupa surrounded by tall trees in third-century BC India, a family of deer and a peacock resting calmly nearby undisturbed, a few brown-skinned South Asian pilgrims in plain cotton shawls standing quietly at the edge of the clearing with faces turned away, soft warm light, no carved figures or inscriptions on the stupa, no flags, no lion capital, no wheel emblem, no modern objects, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A brown-skinned South Asian messenger in a plain cotton dhoti, shawl and turban walks along a dusty road in third-century BC India carrying a rolled palm-leaf document tied with string, seen from behind, banyan trees and low hills ahead. This explains the word 'messengers'. Production note: third-century BC Indian dress, the document fully rolled with no visible writing, no sandals of modern design, no flags, no readable marks, no recognisable face.",
+            "caption": "A messenger carries the emperor's words to a faraway ruler.",
+            "shutterstock_query": "ancient india messenger walking dusty road rear view banyan trees illustration",
+            "ai_prompt": "Photorealistic vertical image of a brown-skinned South Asian messenger in a plain cotton dhoti, shawl and turban walking along a dusty road in third-century BC India carrying a rolled palm-leaf document tied with string, seen from behind, banyan trees and low hills ahead, warm morning light, the document fully rolled with no visible writing, no modern footwear, no flags, no modern objects, no readable marks, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Silent for Two Thousand Years",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X's own words are carved in stone across a great empire in India.",
+            "For more than two thousand years, people forget who wrote them.",
+            "Over the centuries, even the old script itself is forgotten, and nobody can read it.",
+            "The rocks and pillars stand quiet, their meaning unknown.",
+            "In 1837, a British official in India reads the script again.",
+            "His name is James Prinsep, and he works it out slowly, letter by letter.",
+            "Suddenly, the emperor's own words speak again, after so long.",
+            "Soon, with help from old chronicles of Sri Lanka, historians can put a name to the ruler behind the inscriptions.",
+            "Today, a wheel from one of his stone pillars sits on India's flag."
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Chandragupta Maurya",
+            "Kanishka",
+            "Samudragupta",
+            "Ashoka"
+          ],
+          "correct": "Ashoka",
+          "words": [
+            {
+              "word": "official",
+              "explanation": "a person who does an important job for a government"
+            },
+            {
+              "word": "script",
+              "explanation": "a system of signs or letters used for writing"
+            },
+            {
+              "word": "inscriptions",
+              "explanation": "words cut into stone or metal"
+            },
+            {
+              "word": "chronicles",
+              "explanation": "old books that record events year by year"
+            },
+            {
+              "word": "centuries",
+              "explanation": "periods of one hundred years each"
+            }
+          ],
+          "main_image": {
+            "description": "A weathered third-century BC sandstone pillar stands alone in an overgrown forest clearing in 1830s India, its base wrapped in moss and vines, seen from a respectful distance; a fair-skinned British official in plain 1830s coat and hat stands with his back to the camera, studying the stone with a small notebook, his face out of frame. Production note: no readable marks on the pillar, no lion figure, no wheel shape, plain rounded top; the notebook page stays blank or shows only abstract pencil marks, no modern objects, no flags; the caption stays generic, a visitor, never a named person.",
+            "caption": "A visitor studies an old stone pillar that has stood silent for centuries.",
+            "shutterstock_query": "weathered ancient pillar overgrown clearing india illustration",
+            "ai_prompt": "Photorealistic illustration of a weathered third-century BC sandstone pillar standing alone in an overgrown forest clearing in 1830s India, its base wrapped in moss and vines, seen from a respectful distance, a fair-skinned British official in plain 1830s coat and hat standing with his back to the camera studying the stone with a small notebook, face out of frame, soft hazy daylight, no readable marks on the pillar, no lion figure, no wheel shape, notebook page blank or with only abstract pencil marks, no modern objects, no flags, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close-up of a fair-skinned hand holding a small magnifying glass over a paper rubbing on a wooden desk, the rubbing showing only faint, worn abstract marks pressed from stone, never forming real letters. This explains the words 'script' and 'inscriptions'. Production note: 1830s desk and tools, oil lamp light, the rubbing shows pressed texture only, never letter shapes; reject any candidate with letter-like shapes at image review.",
+            "caption": "A magnifying glass helps a visitor study old, worn marks from stone.",
+            "shutterstock_query": "magnifying glass paper rubbing desk historical illustration",
+            "ai_prompt": "Photorealistic close-up of a fair-skinned hand holding a small magnifying glass over a paper rubbing on a worn wooden desk in the 1830s, the rubbing showing only faint worn abstract marks pressed from stone, never forming real letters, warm oil lamp light, no modern objects, no flags, no recognisable face, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Edicts and Legends",
+          "category": "asia",
+          "text_sentences": [
+            "Emperor X rules a great empire in India from his capital, Pataliputra.",
+            "He leaves us two very different kinds of sources.",
+            "First, his own edicts, carved in his own lifetime on rocks and pillars.",
+            "These edicts tell us what he wants his people to believe about him.",
+            "Second, later Buddhist writers tell stories about him, centuries after his death.",
+            "These stories often praise him and make him sound like a perfect ruler.",
+            "Historians ask a hard question: is this history, or is it propaganda?",
+            "Perhaps the truth lies somewhere between real conviction and clever image-making.",
+            "Either way, his edicts are among the oldest deciphered writing from India.",
+            "In modern India, some movements use his image of non-violence as a model.",
+            "Every old source hides a second question: who wrote this, and what did he want?"
+          ],
+          "question": "Who is Emperor X?",
+          "options": [
+            "Rajaraja Chola",
+            "Ashoka",
+            "Krishnadevaraya",
+            "Chandragupta II"
+          ],
+          "correct": "Ashoka",
+          "words": [
+            {
+              "word": "edicts",
+              "explanation": "official orders or rules announced by a ruler"
+            },
+            {
+              "word": "propaganda",
+              "explanation": "pictures, words, and art that try to control what people think"
+            },
+            {
+              "word": "conviction",
+              "explanation": "a strong, honest belief"
+            },
+            {
+              "word": "deciphered",
+              "explanation": "worked out the meaning of a difficult or secret writing system"
+            }
+          ],
+          "main_image": {
+            "description": "On an old wooden library table, a fragment of grey sandstone with faint, unreadable third-century BC carved lines lies beside a bound palm-leaf manuscript tied with string, clearly much newer than the stone; a brown-skinned South Asian scholar's hand rests between the two objects, pointing from one to the other, face out of frame. Production note: no readable letters on the stone fragment or the manuscript's visible edge, no modern objects, soft library daylight.",
+            "caption": "An old stone and a newer manuscript tell two different kinds of stories.",
+            "shutterstock_query": "ancient stone fragment palm leaf manuscript library table illustration",
+            "ai_prompt": "Photorealistic image of an old wooden library table with a fragment of grey sandstone bearing faint unreadable third-century BC carved lines beside a bound palm-leaf manuscript tied with string, clearly newer than the stone, a brown-skinned South Asian scholar's hand resting between the two objects pointing from one to the other, face out of frame, soft library daylight, no readable letters on either object, no modern objects, no flags, no recognisable face, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Extreme close-up of a plain ancient silver coin with only small punched symbols such as a sun, hills and simple shapes, and no script, resting on a dark cloth beside a small magnifying glass. Production note: the coin shows no portrait and no script, only small simple punched symbols; no modern objects.",
+            "caption": "A plain old coin is also a kind of source from the past.",
+            "shutterstock_query": "ancient punch marked silver coin close up illustration",
+            "ai_prompt": "Photorealistic extreme close-up of a plain ancient silver coin from third-century BC India with only small punched symbols such as a sun, hills and simple shapes, no portrait and no script, resting on a dark cloth beside a small magnifying glass, soft studio light, no modern objects, no flags, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "zheng-he",
+      "person": "Zheng He",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "The Boy Who Leads a Giant Fleet",
+          "category": "asia",
+          "text_sentences": [
+            "Admiral X is born about six hundred years ago in southwest China.",
+            "His home is in the mountains, in a region called Yunnan.",
+            "Soldiers take him away when he is a boy.",
+            "He is sent to serve at a prince's court.",
+            "He grows up clever and tall, and the prince trusts him.",
+            "Later, this prince becomes emperor and gives him a huge job.",
+            "Admiral X commands a fleet of huge wooden ships.",
+            "They are among the biggest ever built, records say.",
+            "The fleet sails to India, Arabia, and the coast of East Africa.",
+            "It gives away silk and porcelain from China.",
+            "It brings home spices, jewels, incense, ivory, and rare animals.",
+            "One gift amazes everyone: a tall animal with a very long neck."
+          ],
+          "question": "Who is Admiral X?",
+          "options": [
+            "Marco Polo",
+            "Christopher Columbus",
+            "Zheng He",
+            "Ferdinand Magellan"
+          ],
+          "correct": "Zheng He",
+          "words": [
+            {
+              "word": "fleet",
+              "explanation": "a large group of ships that travel together"
+            },
+            {
+              "word": "emperor",
+              "explanation": "a powerful ruler of a whole country, like ancient China"
+            },
+            {
+              "word": "porcelain",
+              "explanation": "a hard, thin, white type of pottery"
+            },
+            {
+              "word": "incense",
+              "explanation": "a material that gives a sweet smell when it is burned"
+            },
+            {
+              "word": "ivory",
+              "explanation": "the hard white material from an elephant's tusk"
+            }
+          ],
+          "main_image": {
+            "description": "A vast fleet of towering early fifteenth-century Chinese treasure ships, wooden junks with tall masts and battened sails, rides at anchor in a calm harbor bay at dawn, seen from a distant hillside, with dozens of small fishing boats scattered near the shore for scale. Production note: no flags, no Chinese characters or calligraphy anywhere, no modern ships, no European-style galleons, no recognisable faces on any figure.",
+            "caption": "Giant ships wait in a quiet bay at dawn, ready to sail far away.",
+            "shutterstock_query": "ming dynasty treasure fleet chinese junks harbor dawn historical illustration",
+            "ai_prompt": "Photorealistic wide shot at dawn: a vast fleet of towering early fifteenth-century Chinese treasure ships, wooden junks with tall masts and battened bamboo-ribbed sails, at anchor in a calm harbor bay, seen from a distant hillside, dozens of small fishing boats near the shore for scale, warm golden light, epic quiet mood; early Ming dynasty ship design with junk rigging, no gun ports in rows, no European-style hulls or galleons; no flags, no banners, no Chinese characters, no calligraphy, no pseudo-writing, no modern ships or engines, no recognisable faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A tall, long-necked spotted animal stands calmly in a spacious stone palace courtyard, watched from a respectful distance by a small group of Ming court officials in fine silk robes and tall black hats. Production note: the animal is clearly a giraffe but is never named in the caption; no recognisable faces in focus; no Chinese characters, calligraphy, or symbols anywhere.",
+            "caption": "A wonderful animal reaches the palace, and everyone wonders what it is.",
+            "shutterstock_query": "giraffe palace courtyard ming dynasty historical illustration",
+            "ai_prompt": "Photorealistic wide shot inside a spacious stone-paved palace courtyard in early fifteenth-century China: a tall spotted giraffe stands calmly, watched from a respectful distance by a small group of Ming court officials in fine silk robes with tall black gauze hats, soft morning light, wonder-filled mood; early Ming dynasty court dress and architecture; no Chinese characters, no calligraphy, no pseudo-writing, no flags, no modern objects, no recognisable faces, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Seven Journeys Across the Indian Ocean",
+          "category": "asia",
+          "text_sentences": [
+            "Admiral X leads seven great sea journeys between 1405 and 1433.",
+            "Each time, he sails from China with a huge fleet of wooden ships.",
+            "Records of the time say the biggest fleets have more than sixty large ships.",
+            "They carry about twenty-seven thousand men.",
+            "The ships carry soldiers, sailors, doctors, translators, and even astrologers.",
+            "The fleet sails south through the seas of Southeast Asia, then west across the Indian Ocean.",
+            "It reaches busy ports in India, where merchants trade pepper and cotton cloth.",
+            "From there, some ships sail on to Arabia and the Persian Gulf.",
+            "Other ships follow the coast of East Africa, stopping at towns that trade in gold and ivory.",
+            "At every port, Admiral X offers gifts of silk and porcelain in the emperor's name.",
+            "In return, local rulers send gifts back to China, including precious stones and rare woods.",
+            "The emperor wants respect and trade, not new land to rule."
+          ],
+          "question": "Who is Admiral X?",
+          "options": [
+            "Vasco da Gama",
+            "Zheng He",
+            "Xu Fu",
+            "Ibn Battuta"
+          ],
+          "correct": "Zheng He",
+          "words": [
+            {
+              "word": "translators",
+              "explanation": "people whose job is to turn words from one language into another"
+            },
+            {
+              "word": "astrologers",
+              "explanation": "people who study the stars and believe they can predict the future"
+            },
+            {
+              "word": "ivory",
+              "explanation": "the hard white material from an elephant's tusk"
+            },
+            {
+              "word": "porcelain",
+              "explanation": "a hard, thin, white type of pottery"
+            }
+          ],
+          "main_image": {
+            "description": "In a bustling harbor market on the coast of southern India, South Indian merchants in period dress trade baskets of pepper and bolts of cotton cloth at open stalls, while in the background, far off the shore, a row of tall Chinese treasure ships rides at anchor. A robed Chinese official is seen only from behind in the foreground, overseeing the exchange of gifts. Production note: no recognisable face for the Chinese official, seen only from behind; South Indian traders shown with dignity in period dress; no flags, no Chinese characters, no calligraphy, no modern ships.",
+            "caption": "Merchants trade in a busy port, while tall ships from far away wait offshore.",
+            "shutterstock_query": "historic indian port market pepper trade chinese ships offshore illustration",
+            "ai_prompt": "Photorealistic wide shot of a bustling early fifteenth-century harbor market on the coast of southern India: South Indian merchants with brown skin in period dress and turbans trade baskets of pepper and bolts of cotton cloth at open stalls, in the background far off the shore a row of tall Chinese treasure ships with battened sails rides at anchor, in the foreground a Chinese official in silk robes is seen only from behind overseeing the exchange of gifts, warm midday light, busy mood; early fifteenth-century South Indian and Chinese dress; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no modern ships, no recognisable faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "On the broad wooden deck of a large early fifteenth-century Chinese ship anchored off the coast of East Africa, a Chinese sailor in a plain cotton robe and a Black East African trader in a period cloth wrap weigh two elephant tusks on a plain wooden balance scale, both seen from behind, the coral-stone town small on the shore beyond. The picture helps explain the word 'ivory'. Production note: both figures seen from behind with dignity, no caricature; early fifteenth-century Chinese and East African coastal dress; the scale plain wood and rope without marks; no flags, no readable text, letters, numbers, or symbols anywhere.",
+            "caption": "Ivory from the coast of East Africa is weighed before it sails to China.",
+            "shutterstock_query": "historical ship deck balance scale elephant tusks african trader chinese sailor illustration",
+            "ai_prompt": "Photorealistic vertical image on the broad wooden deck of a large early fifteenth-century Chinese treasure ship anchored off the coast of East Africa: a Chinese sailor in a plain cotton robe and a Black East African trader in a period cloth wrap weigh two elephant tusks on a plain wooden balance scale, both seen from behind, a coral-stone town small on the shore beyond, warm coastal light, calm dignified mood; early fifteenth-century Chinese and East African coastal dress, plain wood and rope scale; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no modern objects, no recognisable faces, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Fights on Two Islands and a Pirate Fleet",
+          "category": "asia",
+          "text_sentences": [
+            "Admiral X serves a new emperor who takes the throne in China in 1402, after years of civil war.",
+            "The emperor wants the world to know China's power and wealth.",
+            "A later history says he also wants ships watching the seas, in case a rival is hiding abroad.",
+            "This rival is the emperor's own nephew, whom he had pushed from the throne.",
+            "He chooses Admiral X to lead great fleets across the seas to the west.",
+            "Most ports welcome the fleet with gifts and open markets.",
+            "On the way home from the first journey, in 1407, the fleet defeats a large pirate fleet near Sumatra.",
+            "Traders in those seas can now sail more safely.",
+            "But in 1411, on the island of Sri Lanka, a local ruler turns against the sailors.",
+            "Admiral X and his soldiers fight and capture him, then send him to the emperor's court.",
+            "A few years later, on the island of Sumatra, another local ruler attacks the fleet.",
+            "Again, Admiral X and his men fight back and defeat him."
+          ],
+          "question": "Who is Admiral X?",
+          "options": [
+            "Faxian",
+            "Zhang Qian",
+            "Marco Polo",
+            "Zheng He"
+          ],
+          "correct": "Zheng He",
+          "words": [
+            {
+              "word": "throne",
+              "explanation": "the special chair, and the power, of a king or emperor"
+            },
+            {
+              "word": "rival",
+              "explanation": "a person who competes against you for power or a prize"
+            },
+            {
+              "word": "capture",
+              "explanation": "to catch and hold a person as a prisoner"
+            },
+            {
+              "word": "pirate",
+              "explanation": "a person who attacks and robs ships at sea"
+            }
+          ],
+          "main_image": {
+            "description": "Inside a Ming palace hall in early fifteenth-century China, the new emperor on a raised seat, seen from behind, hands a closed scroll to a tall official in silk robes who kneels with his back to the camera, while court officials in tall black gauze hats stand along the walls. Production note: early Ming court dress and architecture, red lacquered pillars and a plain patterned floor, the scroll fully closed, no faces in focus, no Chinese characters, no calligraphy, no flags, no modern objects.",
+            "caption": "A new emperor gives one trusted man a very large task.",
+            "shutterstock_query": "ming dynasty palace hall emperor audience officials rear view historical illustration",
+            "ai_prompt": "Photorealistic wide shot inside a Ming palace hall in early fifteenth-century China: the new emperor on a raised seat seen from behind hands a closed scroll to a tall official in silk robes who kneels with his back to the camera, court officials in tall black gauze hats standing along the walls, red lacquered pillars, soft light from the open doors, solemn quiet mood; early Ming court dress and architecture, the scroll fully closed; no faces in focus, no Chinese characters, no calligraphy, no pseudo-writing, no flags, no modern objects, no recognisable faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A local Southeast Asian ruler in fine wrapped cloth walks up a wooden gangplank onto a large Chinese ship between two calm guards, his hands free and his head held high, seen mostly from behind in soft dawn light. The picture helps explain the word 'capture'. Production note: respectful, no rope, no chains, no restraints of any kind, no violence, no distress shown on any face since no face is in focus; no flags, no Chinese characters, no calligraphy, no symbols.",
+            "caption": "A defeated local ruler is taken aboard a ship, bound for a distant court.",
+            "shutterstock_query": "historical ruler escorted gangplank ship dawn illustration respectful",
+            "ai_prompt": "Photorealistic vertical image at dawn: a local Southeast Asian ruler in fine wrapped cloth walks up a wooden gangplank onto a large early fifteenth-century Chinese treasure ship between two calm guards in plain armor, his hands free and his head held high, seen mostly from behind, soft early light, solemn respectful mood; no rope, no chains, no restraints, no violence, no distress visible, no faces in clear focus; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no modern ships, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Why the Great Fleets Stop Sailing",
+          "category": "asia",
+          "text_sentences": [
+            "Admiral X leads his last great voyage in the early 1430s.",
+            "By then, the emperor who first sent him to sea has been dead for years.",
+            "New emperors sit on the throne, and their scholar-officials advise them.",
+            "These officials write and pass the hardest exams in the empire, and they run the government.",
+            "They see the huge fleets as very costly and of little real use to the empire.",
+            "Grain for the capital and soldiers for the northern border, they argue, matter more than gifts from faraway lands.",
+            "Some records of the voyages are later lost or destroyed at court.",
+            "After Admiral X, no more giant fleets sail from China again.",
+            "Later, new laws limit the size of ships allowed to leave the coast.",
+            "Admiral X himself dies around 1433, perhaps far from home on the last voyage.",
+            "A tradition says his clothes and cap lie in the grave in Nanjing."
+          ],
+          "question": "Who is Admiral X?",
+          "options": [
+            "Zheng He",
+            "Yi Sun-sin",
+            "Vasco da Gama",
+            "Christopher Columbus"
+          ],
+          "correct": "Zheng He",
+          "words": [
+            {
+              "word": "scholar-officials",
+              "explanation": "highly educated men who pass hard exams and run the government"
+            },
+            {
+              "word": "grain",
+              "explanation": "seeds of wheat, rice, or corn used as food"
+            },
+            {
+              "word": "costly",
+              "explanation": "expensive, costing a great deal of money"
+            },
+            {
+              "word": "voyage",
+              "explanation": "a long journey by sea"
+            }
+          ],
+          "main_image": {
+            "description": "A once-busy Chinese shipyard on the bank of a wide river near Nanjing now sits mostly quiet in late afternoon light, a few old wooden hulls of great ships left half-built or slowly rotting in dry basins at the water's edge, a handful of workers far in the distance dismantling timber, the broad river and low hills beyond. The picture shows an end, not a beginning. Production note: inland river setting, not a sea coast; no people in close focus; no flags, no Chinese characters, no calligraphy, no readable signs, no modern equipment.",
+            "caption": "A shipyard that once built giants now falls quiet.",
+            "shutterstock_query": "abandoned historic shipyard wooden hulls river basins quiet illustration",
+            "ai_prompt": "Photorealistic wide shot of a once-busy early fifteenth-century Chinese shipyard on the bank of a wide river near Nanjing, now mostly quiet in late afternoon light, a few old wooden ship hulls left half-built or slowly rotting in dry basins at the water's edge, a handful of workers far in the distance dismantling timber, the broad river and low green hills beyond, muted melancholy mood; early Ming dynasty shipbuilding architecture and tools, inland river setting not a sea coast; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no readable signs, no modern equipment, no recognisable faces, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Workers load heavy sacks of grain onto a long flat river barge at a busy inland canal dock, stone warehouses lining the bank behind them, early morning mist over the water. The picture helps explain the word 'grain' and shows what the court values more than distant voyages. Production note: no people in close facial focus; no flags, no Chinese characters, no calligraphy, no readable signs.",
+            "caption": "Grain moving along the canals matters more to the court than ships at sea.",
+            "shutterstock_query": "historic china canal grain barge dock workers illustration",
+            "ai_prompt": "Photorealistic vertical image of workers loading heavy sacks of grain onto a long flat river barge at a busy early Ming dynasty inland canal dock, stone warehouses lining the bank behind them, early morning mist over the water, calm industrious mood; early fifteenth-century Chinese dress and dock equipment; no flags, no Chinese characters, no calligraphy, no pseudo-writing, no readable signs, no modern equipment, no recognisable faces, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "How Big Were the Ships, Really?",
+          "category": "asia",
+          "text_sentences": [
+            "Historians study Admiral X using several kinds of old sources.",
+            "Ming government records list the fleets, their captains, and their routes.",
+            "A few men who sail with the fleet later write down what they see.",
+            "A stone at his father's grave says that his family follows Islam.",
+            "Stone tablets from some ports also record the fleet's visits.",
+            "These sources do not fully agree on the size of the biggest ships.",
+            "Some old records say the biggest ships were as long as a football field, but many historians doubt it.",
+            "Wood and engineering of that time, they argue, make ships that huge hard to sail safely.",
+            "In 2002, a writer claims in a popular book that the fleet reaches the Americas.",
+            "Trained historians reject this claim, since it rests on no real evidence.",
+            "Meanwhile, China stops sending great fleets abroad, while European kingdoms start sending small ships further and further from home.",
+            "Historians still debate why the two paths diverge so sharply."
+          ],
+          "question": "Who is Admiral X?",
+          "options": [
+            "Xu Fu",
+            "Faxian",
+            "Zheng He",
+            "Ibn Battuta"
+          ],
+          "correct": "Zheng He",
+          "words": [
+            {
+              "word": "tablets",
+              "explanation": "flat pieces of stone or wood with words cut or written on them"
+            },
+            {
+              "word": "evidence",
+              "explanation": "facts that help prove something is true"
+            },
+            {
+              "word": "diverge",
+              "explanation": "to separate and go in different directions"
+            },
+            {
+              "word": "engineering",
+              "explanation": "the skill of designing and building large structures like ships or bridges"
+            }
+          ],
+          "main_image": {
+            "description": "In a quiet modern museum research room, a historian in plain modern dress, seen from the side and slightly behind, measures a small wooden scale model of a Chinese treasure ship with a cloth measuring tape, two closed grey archive boxes lying beside the model on the table, soft daylight from a tall window. Production note: no recognisable face for the historian; no chart, no map, no documents open; the archive boxes plain and unlabelled, the tape shown without readable marks; no readable text, letters, numbers, or symbols anywhere.",
+            "caption": "How big were the ships, really? Historians measure and compare with care.",
+            "shutterstock_query": "historian museum research room ship model measuring tape archive boxes illustration",
+            "ai_prompt": "Photorealistic wide shot in a quiet modern museum research room: a historian in plain modern dress, seen from the side and slightly behind, measures a small wooden scale model of an early fifteenth-century Chinese treasure ship with a cloth measuring tape, two closed plain grey archive boxes lying beside the model on the table, soft daylight from a tall window, studious calm mood; no chart, no map, no open documents, no labels on the boxes, no readable marks on the tape; no recognisable face, no flags, no Chinese characters, no calligraphy, no pseudo-writing, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A tall stone tablet on a carved stone base stands in an old harbor garden by the sea, seen from the side and slightly behind at a distance so that its carved face is turned away from the viewer, pale coastal cliffs and grey sea beyond. The picture helps explain the word 'tablets'. Production note: the inscribed face never toward the camera; no legible characters, letters, numbers, or symbols anywhere on the stone; no flags.",
+            "caption": "Stone tablets like this one still record the fleet's visits to faraway harbors.",
+            "shutterstock_query": "old stone tablet stele harbor garden side view coastal cliffs illustration",
+            "ai_prompt": "Photorealistic vertical image of a tall stone tablet on a carved stone base standing in an old harbor garden by the sea, seen from the side and slightly behind at a distance so its carved face is turned away from the viewer, pale coastal cliffs and grey sea beyond, soft overcast light, quiet timeless mood; no legible characters, no calligraphy, no pseudo-writing, no flags, no modern objects, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }

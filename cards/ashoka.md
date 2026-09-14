@@ -2,27 +2,28 @@
 
 Svenskt arbetsnamn: Ashoka. Superenkel engelska.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkring 268-232 f.Kr., sonson till grundaren av riket; grundaren namnges inte i löptexten, bara som distraktorn Chandragupta Maurya. Kriget mot Kalinga omkring 261 f.Kr. namnges med platsnamnet bara på kort 2 och 4; kort 1 håller kriget anonymt, "a free land nearby", för åk 6. Dödssiffran i ediktet återges som "his own words on a rock say" på kort 2, missionen till Sri Lanka som "tradition says" på kort 3; ingen religiös utsaga skrivs som fastställt faktum, vändningen mot Buddhismen skrivs som en historisk handling, inte som en trosbekännelse. Hjulet från pelaren och Indiens flagga nämns bara i text på kort 4 och avbildas aldrig i någon bild, inte heller lejonkapitälet. James Prinsep namnges bara på kort 4 och är där inte distraktor. Pataliputra som huvudstad nämns bara på kort 5, en tillåten namnekon-ledtråd liksom Kalinga, Sri Lanka och India. Fångar, förbjudna i elevvänd text, korttitel, bildtext och ordlista: "Ashoka", "Asoka", "Piyadasi", "Devanampiya", "Maurya", "Mauryan"; dessa ord förekommer i filen bara i titelraden, arbetsnamnsraden, denna not och ✅-alternativen. "Chandragupta Maurya" förekommer också, men bara som ⬜-distraktor på kort 1 och kort 4. Distraktorer per kort ur poolen Chandragupta Maurya, Harsha, Kanishka, Samudragupta, Chandragupta II, Rajaraja Chola, Krishnadevaraya, Akbar: kort 1 Chandragupta Maurya, Harsha, Kanishka; kort 2 Samudragupta, Chandragupta II, Rajaraja Chola; kort 3 Krishnadevaraya, Akbar, Harsha; kort 4 Chandragupta Maurya, Kanishka, Samudragupta; kort 5 Rajaraja Chola, Krishnadevaraya, Chandragupta II. Ingen person som namnges i ett korts text står som distraktor på samma kort; Akbar hör till samma leverans och är därför en tillåten distraktor, inte setets eget svar. Inget annat sets svar namnges i löptexten: Konfucius ("an old teacher's ideas"), Siddhartha Gautama (orden "Buddhism" och "the Buddha" används fritt som vanliga ord, aldrig hans namn), Alexander den store, Djingis khan, Marco Polo (får namnges, är inget set, men används inte här), Ibn Battuta, Columbus, Magellan, Muhammed, Swahilikusten, Mansa Musa, industriella, franska och amerikanska revolutionen, Napoleon, Qin Shi Huangdi, Sidenvägen, Zheng He och Meijirestaurationen förekommer inte i texten. Bilder: Emperor X visas aldrig med igenkännbart ansikte, bara bakifrån, på avstånd eller med bara händer synliga. Varje bild med människor i kejsarens egen tid anger uttryckligen brown-skinned South Asian people och 200-talet f.Kr. indisk dräkt och rekvisita: bomullsdhotier och sjalar, turbaner, sandstenspelare sedda på avstånd utan synlig inskrift, tegelstupor, banyanträd, oxkärror; kort 4 sätts i stället 1837 och anger uttryckligen en fair-skinned brittisk tjänsteman i 1830-talets koloniala dräkt vid en genuint 200-talet f.Kr. sandstenspelare. Inga läsbara inskrifter eller bokstäver på pelare eller stenar någonstans, inget lejonkapitäl, ingen hjulsymbol, inga flaggor, inga moderna föremål, inget igenkännbart ansikte, inga döda kroppar; slagfältet på kort 1 är tomt utan kroppar, bara brutna vagnar. Varje kort har ett eget bildmotiv utan upprepning inom setet: kort 1 slagfält och brunn, kort 2 vägskylt-klippa och pelare, kort 3 stupa med djur och ett skepp, kort 4 pelare med tjänsteman och en avgnidning under lupp, kort 5 ett bibliotoksbord med sten mot handskrift och ett obetecknat mynt. Alla AI-prompter slutar med "no text, no letters, no numbers".
+Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkring 268-232 f.Kr., sonson till grundaren av riket; grundaren namnges inte i löptexten, bara som distraktorn Chandragupta Maurya. Berättelsen om kriget, sorgen och det nya sättet att regera står bara på kort 1, där kriget hålls anonymt, "a free land nearby", för åk 6. Kort 2 har en kontextrad om kriget, namnger Kalinga och 261 f.Kr. och bygger i övrigt på edikten själva: klippor och pelare, dhamma, ämbetsmän för dhamma, folkets språk, grekiska i nordväst; dödssiffran återges som "his own words, carved on a rock, say"; ingen rad låter kejsaren känna sorg av att läsa sin egen inskrift. Kort 3 har trostoleransen, djurskyddet med kökets två påfåglar och en hjort ("he says"), sändebuden och Sri Lanka-missionen som "tradition says". Skuggträd för resande nämns bara på kort 1. Ingen religiös utsaga skrivs som fastställt faktum, vändningen mot Buddhismen skrivs som en historisk handling, "turns more and more to the teaching of the Buddha". Hjulet från pelaren och Indiens flagga nämns bara i text på kort 4 och avbildas aldrig i någon bild, inte heller lejonkapitälet. Kort 4 skriver "for more than two thousand years, people forget who wrote them" och att skriften glöms bort med århundradena, utan årtal; James Prinsep namnges bara på kort 4, läser skriften igen 1837 och är där inte distraktor; identifieringen sker "with help from old chronicles of Sri Lanka". Pataliputra som huvudstad nämns bara på kort 5, en tillåten namnekon-ledtråd liksom Kalinga, Sri Lanka och India. Fångar, förbjudna i elevvänd text, korttitel, bildtext och ordlista: "Ashoka", "Asoka", "Piyadasi", "Devanampiya", "Maurya", "Mauryan"; dessa ord förekommer i filen bara i titelraden, arbetsnamnsraden, denna not och ✅-alternativen. "Chandragupta Maurya" förekommer också, men bara som ⬜-distraktor på kort 1 och kort 4. Distraktorer per kort ur poolen Chandragupta Maurya, Harsha, Kanishka, Samudragupta, Chandragupta II, Rajaraja Chola, Krishnadevaraya, Akbar: kort 1 Chandragupta Maurya, Harsha, Kanishka; kort 2 Samudragupta, Chandragupta II, Rajaraja Chola; kort 3 Krishnadevaraya, Akbar, Harsha; kort 4 Chandragupta Maurya, Kanishka, Samudragupta; kort 5 Rajaraja Chola, Krishnadevaraya, Chandragupta II. Ingen person som namnges i ett korts text står som distraktor på samma kort; Akbar hör till samma leverans och är därför en tillåten distraktor, inte setets eget svar. Inget annat sets svar namnges i löptexten: Konfucius ("an old teacher's ideas"), Siddhartha Gautama (orden "Buddhism" och "the Buddha" används fritt som vanliga ord, aldrig hans namn), Alexander den store, Djingis khan, Marco Polo (får namnges, är inget set, men används inte här), Ibn Battuta, Columbus, Magellan, Muhammed, Swahilikusten, Mansa Musa, industriella, franska och amerikanska revolutionen, Napoleon, Qin Shi Huangdi, Sidenvägen, Zheng He och Meijirestaurationen förekommer inte i texten; "Greek" som adjektiv är tillåtet. Bilder: Emperor X visas aldrig med igenkännbart ansikte, bara bakifrån, på avstånd eller med bara händer synliga. Varje bild med människor i kejsarens egen tid anger uttryckligen brown-skinned South Asian people och 200-talet f.Kr. indisk dräkt och rekvisita: bomullsdhotier och sjalar, turbaner, sandstenspelare utan synlig inskrift, tegelstupor, banyanträd, oxkärror, järnverktyg; kort 4 sätts i stället 1837 och anger uttryckligen en fair-skinned brittisk tjänsteman i 1830-talets koloniala dräkt vid en genuint 200-talet f.Kr. sandstenspelare. Inga läsbara inskrifter eller bokstäver på pelare eller stenar någonstans, inget lejonkapitäl, ingen hjulsymbol, inga flaggor, inga moderna föremål, inget igenkännbart ansikte, inga döda kroppar; slagfältet på kort 1 är tomt utan kroppar, bara brutna vagnar. Varje kort har ett eget bildmotiv utan upprepning inom setet: kort 1 slagfält och brunn under träd, kort 2 klippa med färsk huggning i släpljus och pelarresning med rep och oxar, kort 3 stupa med djur och en budbärare till fots, kort 4 den enda ensamma pelaren, med tjänsteman, och en avgnidning under lupp, kort 5 ett biblioteksbord med sten mot handskrift och ett mynt med enkla stämpelmärken utan skrift. Ordet stupa står inte i någon bildtext eftersom det inte står i korttexten. Alla AI-prompter slutar med "no text, no letters, no numbers".
 
 ---
 
-## Kort 1 · Årskurs 6 — A King Who Stops Fighting
+## Kort 1 · Årskurs 6 — An Emperor Who Stops Fighting
 
 **Kategori:** `asia`
 
 ### Korttext
 
-> Emperor X rules a great empire in India, more than two thousand years ago.  
+> Emperor X rules a great empire in India.  
+> He lives more than two thousand years ago.  
 > His family built this empire two generations before him.  
 > Emperor X wants to make his empire even bigger.  
 > He sends his army to attack a free land nearby.  
-> The war is long and terrible, and many people die.  
+> The war is terrible, and many people die.  
 > Afterward, Emperor X feels a deep, heavy sorrow.  
 > He decides never to fight a war like this again.  
 > He chooses a new way to rule.  
 > He orders wells dug along the roads, for clean water.  
 > He orders shade trees planted for tired travelers.  
-> He builds hospitals, for people and for animals too.  
+> He orders care for the sick, for people and for animals too.  
 > **Who is Emperor X?**
 
 ### Svarsalternativ
@@ -44,14 +45,14 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 - **Motiv:** An empty battlefield in ancient India at dusk, broken wooden carts and scattered spears lying still on open ground, no bodies, no soldiers, seen from a distance under a heavy sky. Production note: third-century BC Indian setting, plain wooden cart wheels and simple iron spearheads, sandstone hills far in the background; no corpses, no wounded figures, no blood, no close-up weapons, no readable marks on any object, no modern objects.
 - **Bildtext:** *After a terrible war, the battlefield lies silent and empty.*
 - **Shutterstock-sökning:** `ancient india empty battlefield broken carts dusk illustration`
-- **AI-prompt (alternativ):** Photorealistic illustration of an empty battlefield in third-century BC India at dusk, broken wooden carts and scattered spears lying still on open ground, no bodies, no wounded figures, no blood, seen from a distance under a heavy overcast sky, sandstone hills far in the background, no soldiers, no flags, no modern objects, no readable marks on any object, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic illustration of an empty battlefield in third-century BC India at dusk, broken wooden carts and scattered spears with simple iron heads lying still on open ground, no bodies, no wounded figures, no blood, seen from a distance under a heavy overcast sky, sandstone hills far in the background, no soldiers, no flags, no modern objects, no readable marks on any object, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** A stone well beneath a large banyan tree beside a dusty road in ancient India, a leather bucket resting on the well's rim, its rope still swinging; a wooden bullock cart and tiny distant travelers stand far in the background. This explains the words 'wells' and 'travelers'. Production note: third-century BC Indian setting, plain sandstone well, brown-skinned South Asian travelers only as tiny distant figures, no readable marks anywhere.
+- **Motiv:** A stone well beneath a large banyan tree beside a dusty road in ancient India, a leather bucket resting on the well's rim, its rope still swinging; a wooden bullock cart and tiny distant travelers stand far in the background. This explains the words 'wells' and 'travelers'. Production note: third-century BC Indian setting, plain sandstone well, brown-skinned South Asian travelers in plain cotton dhotis and shawls only as tiny distant figures, no readable marks anywhere.
 - **Bildtext:** *A stone well and a shady tree welcome tired travelers.*
 - **Shutterstock-sökning:** `ancient stone well banyan tree road india illustration`
-- **AI-prompt (alternativ):** Photorealistic illustration of a plain stone well beneath a large banyan tree beside a dusty road in third-century BC India, a leather bucket resting on the well's rim with its rope still swinging, a wooden bullock cart and tiny distant brown-skinned South Asian travelers far in the background, warm daylight, no modern objects, no readable marks anywhere, no flags, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic illustration of a plain stone well beneath a large banyan tree beside a dusty road in third-century BC India, a leather bucket resting on the well's rim with its rope still swinging, a wooden bullock cart and tiny distant brown-skinned South Asian travelers in plain cotton dhotis and shawls far in the background, warm daylight, no modern objects, no readable marks anywhere, no flags, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers.
 
 ---
 
@@ -61,17 +62,17 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 
 ### Korttext
 
-> Emperor X rules a great empire in India.  
-> Around 261 BC, his army attacks the land of Kalinga.  
-> Kalinga fights hard, but Emperor X's army wins the war.  
-> His own words on a rock say that a hundred thousand people die.  
-> The same words say that many more suffer in other ways.  
-> Reading his own words later, Emperor X feels deep sorrow.  
-> He turns to the teaching of the Buddha.  
-> From now on, he says, he will rule with care, not with the sword.  
-> He orders his new rules carved into rocks and tall stone pillars.  
-> Workers place these messages across the whole empire.  
-> People in many regions can read his words in their own language.  
+> Emperor X rules a great empire in India, more than two thousand years ago.  
+> Around 261 BC, his army wins a terrible war in the land of Kalinga.  
+> His own words, carved on a rock, say that a hundred thousand people die.  
+> After this war, he turns more and more to the teaching of the Buddha.  
+> He chooses a new way to rule, and he calls it dhamma, right living.  
+> He orders his messages carved into rocks and tall stone pillars.  
+> Workers place these messages across the whole empire, often beside busy roads.  
+> The messages tell people to respect their parents, their teachers, and their servants.  
+> Special officers of dhamma travel out to explain the messages.  
+> In many regions, people hear his words read aloud in their own language.  
+> In the far northwest, some messages are even carved in Greek.  
 > **Who is Emperor X?**
 
 ### Svarsalternativ
@@ -83,37 +84,38 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 
 ### Ordförklaringar (marginal)
 
-- **suffer** — *to feel pain, in the body or in the heart*
+- **dhamma** — *the emperor's own word for right living and good behavior*
 - **carved** — *cut deep marks into something hard, like stone*
 - **pillars** — *tall, strong stone posts that stand alone*
 - **regions** — *parts of a country or a large area of land*
 
 ### Huvudbild
 
-- **Motiv:** A large flat-faced grey boulder beside an ancient dirt road in India, its surface covered with fine, worn carved lines too faint and angled to read; a brown-skinned South Asian worker kneels close to the stone, only his hands and a small bronze chisel visible, his face out of frame. Production note: third-century BC Indian setting, plain cotton dhoti visible only at the wrist and knee, sandstone hills in soft distance; no readable letters or words of any script, only abstract worn lines, no modern objects.
+- **Motiv:** A large flat-faced grey boulder beside an ancient dirt road in India, its surface showing fresh, shallow carved marks seen at a steep angle in low raking light so that nothing can be read; a brown-skinned South Asian worker kneels close to the stone, only his hands and a small iron chisel visible, his face out of frame. Production note: third-century BC Indian setting, plain cotton dhoti visible only at the wrist and knee, iron chisel and wooden mallet, sandstone hills in soft distance; fresh work, not weathered; no readable letters or words of any script, only abstract shallow marks, no modern objects.
 - **Bildtext:** *A worker cuts the emperor's new words into solid rock.*
-- **Shutterstock-sökning:** `ancient india carved rock roadside worker illustration`
-- **AI-prompt (alternativ):** Photorealistic illustration of a large flat-faced grey boulder beside a dusty ancient road in third-century BC India, its surface covered with fine worn carved lines too faint and angled to read, a brown-skinned South Asian worker kneeling close to the stone with only his hands and a small bronze chisel visible, plain cotton dhoti at the wrist and knee, face out of frame, sandstone hills in soft distance, warm daylight, no readable letters or words of any script, no modern objects, no flags, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers.
+- **Shutterstock-sökning:** `ancient india stone carver boulder roadside chisel hands illustration`
+- **AI-prompt (alternativ):** Photorealistic illustration of a large flat-faced grey boulder beside a dusty ancient road in third-century BC India, its surface showing fresh shallow carved marks seen at a steep angle in low raking light so nothing can be read, a brown-skinned South Asian worker kneeling close to the stone with only his hands, a small iron chisel and a wooden mallet visible, plain cotton dhoti at the wrist and knee, face out of frame, sandstone hills in soft distance, warm daylight, fresh carving not weathered, no readable letters or words of any script, no modern objects, no flags, no lion capital, no wheel emblem, no recognisable face, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** A single tall, smooth sandstone pillar standing alone in an open grassy plain, seen from a respectful distance, its surface bare and weathered with no visible inscription. This explains the word 'pillars'. Production note: third-century BC craftsmanship, plain rounded top with no lion figure and no wheel shape, no flags, no readable marks.
-- **Bildtext:** *A tall stone pillar carries the emperor's words far and wide.*
-- **Shutterstock-sökning:** `ancient stone pillar india plain distant illustration`
-- **AI-prompt (alternativ):** Photorealistic image of a single tall, smooth sandstone pillar of the third century BC standing alone in an open grassy Indian plain, seen from a respectful distance, its surface bare and weathered with no visible inscription, plain rounded top with no lion figure and no wheel shape, soft overcast light, no flags, no modern objects, no recognisable face, no text, no letters, no numbers.
+- **Motiv:** Brown-skinned South Asian workers in plain cotton dhotis raise a tall polished sandstone pillar with thick ropes, a wooden scaffold and two oxen beside a dusty road in third-century BC India, seen from a distance, faces turned away, the pillar's top plain and rounded. This explains the word 'pillars'. Production note: third-century BC craftsmanship, plain rounded top with no lion figure and no wheel shape, ropes and wooden poles only, no metal machinery, no flags, no readable marks, no recognisable face.
+- **Bildtext:** *Workers raise a tall stone pillar beside the road.*
+- **Shutterstock-sökning:** `ancient workers raising stone pillar ropes scaffold oxen india illustration`
+- **AI-prompt (alternativ):** Photorealistic vertical image of brown-skinned South Asian workers in plain cotton dhotis raising a tall polished sandstone pillar with thick ropes, a wooden scaffold and two oxen beside a dusty road in third-century BC India, seen from a distance with faces turned away, the pillar's top plain and rounded with no lion figure and no wheel shape, warm daylight, ropes and wooden poles only, no metal machinery, no flags, no modern objects, no readable marks, no recognisable face, no text, no letters, no numbers.
 
 ---
 
-## Kort 3 · Årskurs 12 (A) — Rules for Every Faith and Every Animal
+## Kort 3 · Årskurs 12 (A) — Rules for Every Faith and Many Animals
 
 **Kategori:** `asia`
 
 ### Korttext
 
-> Emperor X now rules with new ideas, carved on rocks and pillars for all to read.  
+> More than two thousand years ago, Emperor X rules a great empire in India.  
+> His new ideas are carved on rocks and pillars for all to read.  
 > One message says: respect people of every faith, not only your own.  
 > Another message protects animals: many kinds of animals may not be killed.  
-> Along busy roads, new rest houses and shade trees now serve travelers.  
+> He says his own kitchen once killed many animals every day, and now only two peacocks and one deer.  
 > Emperor X also sends messengers to rulers in distant lands, far beyond his own empire.  
 > They carry his ideas about kindness and right living.  
 > Tradition says that his own son and daughter carry the Buddha's teaching to Sri Lanka.  
@@ -138,16 +140,16 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 ### Huvudbild
 
 - **Motiv:** A brick stupa surrounded by tall trees in ancient India, a family of deer and a peacock resting calmly nearby undisturbed, seen from a respectful distance; a few brown-skinned South Asian pilgrims in plain cotton shawls stand quietly at the edge of the clearing, faces turned away. Production note: third-century BC Indian setting, plain brick stupa dome with no carved figures or inscriptions, animals shown calm and unharmed, no flags, no readable marks.
-- **Bildtext:** *Near a quiet stupa, animals rest undisturbed and people gather in peace.*
+- **Bildtext:** *Near a quiet holy place, animals rest undisturbed and people gather in peace.*
 - **Shutterstock-sökning:** `ancient brick stupa deer peacock india illustration`
 - **AI-prompt (alternativ):** Photorealistic illustration of a plain brick stupa surrounded by tall trees in third-century BC India, a family of deer and a peacock resting calmly nearby undisturbed, a few brown-skinned South Asian pilgrims in plain cotton shawls standing quietly at the edge of the clearing with faces turned away, soft warm light, no carved figures or inscriptions on the stupa, no flags, no lion capital, no wheel emblem, no modern objects, no recognisable face, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** A wooden sailing ship with a plain woven sail crosses a calm monsoon sea toward a distant green coastline, seen from behind at a great distance, tiny brown-skinned South Asian figures barely visible on deck. This supports the idea of messengers traveling to a faraway island. Production note: third-century BC style vessel, plain wood and rope, no flags, no modern rigging, no readable marks on the hull or sail.
-- **Bildtext:** *A ship carries new ideas across the sea to a faraway island.*
-- **Shutterstock-sökning:** `ancient wooden sailing ship monsoon sea distant coast illustration`
-- **AI-prompt (alternativ):** Photorealistic image of a plain wooden sailing ship with a simple woven sail crossing a calm monsoon sea toward a distant green coastline in the third century BC, seen from behind at a great distance, tiny brown-skinned South Asian figures barely visible on deck, soft hazy light, no flags, no modern rigging, no readable marks on hull or sail, no recognisable face, no text, no letters, no numbers.
+- **Motiv:** A brown-skinned South Asian messenger in a plain cotton dhoti, shawl and turban walks along a dusty road in third-century BC India carrying a rolled palm-leaf document tied with string, seen from behind, banyan trees and low hills ahead. This explains the word 'messengers'. Production note: third-century BC Indian dress, the document fully rolled with no visible writing, no sandals of modern design, no flags, no readable marks, no recognisable face.
+- **Bildtext:** *A messenger carries the emperor's words to a faraway ruler.*
+- **Shutterstock-sökning:** `ancient india messenger walking dusty road rear view banyan trees illustration`
+- **AI-prompt (alternativ):** Photorealistic vertical image of a brown-skinned South Asian messenger in a plain cotton dhoti, shawl and turban walking along a dusty road in third-century BC India carrying a rolled palm-leaf document tied with string, seen from behind, banyan trees and low hills ahead, warm morning light, the document fully rolled with no visible writing, no modern footwear, no flags, no modern objects, no readable marks, no recognisable face, no text, no letters, no numbers.
 
 ---
 
@@ -157,15 +159,14 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 
 ### Korttext
 
-> Emperor X's own words are carved in stone across a great empire.  
-> After his death, people slowly forget who wrote them.  
-> For almost two thousand years, nobody can read the strange old script.  
-> The rocks and pillars stand quiet through the centuries, their meaning unknown.  
-> In 1837, a British official in India studies the strange letters closely.  
-> His name is James Prinsep.  
-> Slowly, letter by letter, he learns to read the old script.  
+> Emperor X's own words are carved in stone across a great empire in India.  
+> For more than two thousand years, people forget who wrote them.  
+> Over the centuries, even the old script itself is forgotten, and nobody can read it.  
+> The rocks and pillars stand quiet, their meaning unknown.  
+> In 1837, a British official in India reads the script again.  
+> His name is James Prinsep, and he works it out slowly, letter by letter.  
 > Suddenly, the emperor's own words speak again, after so long.  
-> Historians can now put a name to the ruler behind the old inscriptions.  
+> Soon, with help from old chronicles of Sri Lanka, historians can put a name to the ruler behind the inscriptions.  
 > Today, a wheel from one of his stone pillars sits on India's flag.  
 > **Who is Emperor X?**
 
@@ -181,18 +182,19 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 - **official** — *a person who does an important job for a government*
 - **script** — *a system of signs or letters used for writing*
 - **inscriptions** — *words cut into stone or metal*
+- **chronicles** — *old books that record events year by year*
 - **centuries** — *periods of one hundred years each*
 
 ### Huvudbild
 
-- **Motiv:** A weathered third-century BC sandstone pillar stands alone in an overgrown forest clearing in 1830s India, its base wrapped in moss and vines, seen from a respectful distance; a fair-skinned British official in plain 1830s coat and hat stands with his back to the camera, studying the stone with a small notebook, his face out of frame. Production note: no readable marks on the pillar, no lion figure, no wheel shape, plain rounded top; the notebook page stays blank or shows only abstract pencil marks, no modern objects, no flags.
+- **Motiv:** A weathered third-century BC sandstone pillar stands alone in an overgrown forest clearing in 1830s India, its base wrapped in moss and vines, seen from a respectful distance; a fair-skinned British official in plain 1830s coat and hat stands with his back to the camera, studying the stone with a small notebook, his face out of frame. Production note: no readable marks on the pillar, no lion figure, no wheel shape, plain rounded top; the notebook page stays blank or shows only abstract pencil marks, no modern objects, no flags; the caption stays generic, a visitor, never a named person.
 - **Bildtext:** *A visitor studies an old stone pillar that has stood silent for centuries.*
 - **Shutterstock-sökning:** `weathered ancient pillar overgrown clearing india illustration`
 - **AI-prompt (alternativ):** Photorealistic illustration of a weathered third-century BC sandstone pillar standing alone in an overgrown forest clearing in 1830s India, its base wrapped in moss and vines, seen from a respectful distance, a fair-skinned British official in plain 1830s coat and hat standing with his back to the camera studying the stone with a small notebook, face out of frame, soft hazy daylight, no readable marks on the pillar, no lion figure, no wheel shape, notebook page blank or with only abstract pencil marks, no modern objects, no flags, no recognisable face, no text, no letters, no numbers.
 
 ### Sidobild
 
-- **Motiv:** Close-up of a fair-skinned hand holding a small magnifying glass over a paper rubbing on a wooden desk, the rubbing showing only faint, worn abstract marks pressed from stone, never forming real letters. This explains the words 'script' and 'inscriptions'. Production note: 1830s desk and tools, oil lamp light, the rubbing shows pressed texture only, never letter shapes.
+- **Motiv:** Close-up of a fair-skinned hand holding a small magnifying glass over a paper rubbing on a wooden desk, the rubbing showing only faint, worn abstract marks pressed from stone, never forming real letters. This explains the words 'script' and 'inscriptions'. Production note: 1830s desk and tools, oil lamp light, the rubbing shows pressed texture only, never letter shapes; reject any candidate with letter-like shapes at image review.
 - **Bildtext:** *A magnifying glass helps a visitor study old, worn marks from stone.*
 - **Shutterstock-sökning:** `magnifying glass paper rubbing desk historical illustration`
 - **AI-prompt (alternativ):** Photorealistic close-up of a fair-skinned hand holding a small magnifying glass over a paper rubbing on a worn wooden desk in the 1830s, the rubbing showing only faint worn abstract marks pressed from stone, never forming real letters, warm oil lamp light, no modern objects, no flags, no recognisable face, no text, no letters, no numbers.
@@ -215,7 +217,7 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 > Perhaps the truth lies somewhere between real conviction and clever image-making.  
 > Either way, his edicts are among the oldest deciphered writing from India.  
 > In modern India, some movements use his image of non-violence as a model.  
-> Every old source raises the same question: who speaks, and why?  
+> Every old source hides a second question: who wrote this, and what did he want?  
 > **Who is Emperor X?**
 
 ### Svarsalternativ
@@ -241,9 +243,9 @@ Not (ej elevvänd): Kategori `asia`. Ashoka, Maurya-rikets tredje kejsare omkrin
 
 ### Sidobild
 
-- **Motiv:** Extreme close-up of a plain ancient silver coin with only simple punch-marks and no picture or script, resting on a dark cloth beside a small magnifying glass. Production note: the coin shows no portrait, no script, only simple geometric punch-marks; no modern objects.
-- **Bildtext:** *A plain old coin is also a kind of evidence from the past.*
+- **Motiv:** Extreme close-up of a plain ancient silver coin with only small punched symbols such as a sun, hills and simple shapes, and no script, resting on a dark cloth beside a small magnifying glass. Production note: the coin shows no portrait and no script, only small simple punched symbols; no modern objects.
+- **Bildtext:** *A plain old coin is also a kind of source from the past.*
 - **Shutterstock-sökning:** `ancient punch marked silver coin close up illustration`
-- **AI-prompt (alternativ):** Photorealistic extreme close-up of a plain ancient silver coin with only simple geometric punch-marks and no picture or script, resting on a dark cloth beside a small magnifying glass, soft studio light, no portrait, no script, no modern objects, no flags, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** Photorealistic extreme close-up of a plain ancient silver coin from third-century BC India with only small punched symbols such as a sun, hills and simple shapes, no portrait and no script, resting on a dark cloth beside a small magnifying glass, soft studio light, no modern objects, no flags, no text, no letters, no numbers.
 
 ---
