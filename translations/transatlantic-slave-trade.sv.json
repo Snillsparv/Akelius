@@ -1,0 +1,224 @@
+{
+  "slug": "transatlantic-slave-trade",
+  "person_sv": "Transatlantiska slavhandeln",
+  "cards": [
+    {
+      "title": "Skepp som korsar havet i hundratals år",
+      "text_sentences": [
+        "Handeln X pågår i hundratals år, från 1500-talet till 1800-talet.",
+        "Skepp seglar från Europa till Afrika, och sedan över havet.",
+        "De för bort människor från deras hem i Afrika.",
+        "Ingen frågar dessa människor om de vill följa med.",
+        "Den långa resan över havet tar många hårda veckor.",
+        "På andra sidan tvingar nya ägare människor att arbeta.",
+        "Dessa förslavade arbetare sliter på gårdar långt borta, utan någon lön.",
+        "Ägare skiljer ofta åt män, hustrur och barn.",
+        "Många familjer ser aldrig varandra igen.",
+        "Några av de förslavade slåss tillbaka, flyr eller köper sig fria.",
+        "Sakta säger fler och fler människor att detta är fel."
+      ],
+      "question": "Vilken handel är handeln X?",
+      "options": [
+        "Sidenvägens handel",
+        "Transatlantiska slavhandeln",
+        "Kryddhandeln",
+        "Pälshandeln"
+      ],
+      "words": [
+        {
+          "word": "förslavad",
+          "explanation": "tvingad att arbeta utan lön, och ägd av en annan person"
+        },
+        {
+          "word": "ägare",
+          "explanation": "människor som har makt över en annan person eller sak"
+        },
+        {
+          "word": "skilja åt",
+          "explanation": "hålla människor eller saker isär från varandra"
+        },
+        {
+          "word": "slita",
+          "explanation": "göra hårt, tröttsamt kroppsarbete"
+        }
+      ],
+      "main_caption": "Ett stenfort vaktar kusten där skepp ligger för ankar.",
+      "side_caption": "En tom dörröppning i sten öppnade sig en gång mot skepp som väntade på havet."
+    },
+    {
+      "title": "Tre steg över havet",
+      "text_sentences": [
+        "Den vanliga bilden av handeln X visar tre steg över havet.",
+        "Först för skepp varor från Europa till Afrikas kust.",
+        "Där byter köpmän dessa varor mot fångar.",
+        "Sedan för skepp dessa fångar över havet till Amerika.",
+        "Till sist för skepp socker, tobak och bomull tillbaka till Europa.",
+        "Portugal startar denna handel före något annat europeiskt land.",
+        "Brasilien tar senare emot fler människor än någon annan plats.",
+        "Sockeröar i Karibien tar emot det näst största antalet.",
+        "Bara en liten andel människor kommer till det blivande USA.",
+        "Vissa afrikanska kungar och köpmän säljer fångar mot varor och vapen.",
+        "År 1526 skriver kung Afonso av Kongo till kungen av Portugal.",
+        "Hans brev protesterar mot att handlare för bort hans eget folk."
+      ],
+      "question": "Vilken handel är handeln X?",
+      "options": [
+        "Transsaharahandeln",
+        "Handeln över Indiska oceanen",
+        "Transatlantiska slavhandeln",
+        "Opiumhandeln"
+      ],
+      "words": [
+        {
+          "word": "köpmän",
+          "explanation": "människor som köper och säljer varor, ofta över långa avstånd"
+        },
+        {
+          "word": "fångar",
+          "explanation": "människor som fångas och hålls kvar med tvång"
+        },
+        {
+          "word": "protestera",
+          "explanation": "att säga bestämt att något är fel"
+        },
+        {
+          "word": "andel",
+          "explanation": "en del av en total mängd"
+        }
+      ],
+      "main_caption": "Handlare möts vid en flodhamn och byter varor som kommit långt bortifrån.",
+      "side_caption": "Sockerrörsfält som dessa skickar sin skörd över havet till Europa."
+    },
+    {
+      "title": "Motstånd över havet",
+      "text_sentences": [
+        "Handeln X möter motstånd i nästan varje steg.",
+        "Historiker räknar uppror på ungefär var tionde resa.",
+        "Fångar ombord slåss ibland mot besättningen, eller vägrar äta.",
+        "På land lyckas några förslavade fly in i skogar eller berg.",
+        "Dessa rymlingar bygger sina egna fria samhällen, långt från alla plantager.",
+        "År 1789 ger en tidigare förslavad man vid namn Olaudah Equiano ut sin egen livshistoria.",
+        "Hans bok beskriver resan och berör många läsare i Storbritannien.",
+        "Den blir ett viktigt redskap i den växande kampen för att få slut på handeln X.",
+        "År 1791 börjar ett lyckat uppror på en karibisk ö.",
+        "Inom några år vinner människorna där sin frihet med våld.",
+        "Deras nya stat är den första i Amerika som grundas av tidigare förslavade människor."
+      ],
+      "question": "Vilken handel är handeln X?",
+      "options": [
+        "Transatlantiska slavhandeln",
+        "Sockerhandeln",
+        "Hansans handel",
+        "Kryddhandeln"
+      ],
+      "words": [
+        {
+          "word": "uppror",
+          "explanation": "tillfällen då människor reser sig tillsammans och kämpar mot dem som har makten"
+        },
+        {
+          "word": "fly",
+          "explanation": "att ta sig bort från en plats där man hålls kvar eller tvingas stanna"
+        },
+        {
+          "word": "samhällen",
+          "explanation": "grupper av människor som lever tillsammans och stöttar varandra"
+        },
+        {
+          "word": "ge ut",
+          "explanation": "förbereder och lägger fram en bok för människor att läsa"
+        }
+      ],
+      "main_caption": "Högt uppe i bergen bygger rymlingar ett eget fritt samhälle.",
+      "side_caption": "En sluten bok som denna för en livshistoria över havet till nya läsare."
+    },
+    {
+      "title": "Handeln upphör, steg för steg",
+      "text_sentences": [
+        "Handeln X upphör sakta, land för land, under många årtionden.",
+        "År 1781 tvingar besättningen på ett skepp vid namn Zong fler än hundra sjuka fångar ut i havet.",
+        "Ägarna kräver sedan försäkringspengar för de människor som besättningen dödade.",
+        "Nyheten om fallet chockar många människor i Storbritannien.",
+        "År 1807 förbjuder Storbritannien sina skepp att föra fångar över havet.",
+        "USA förbjuder nya fångar från att komma in i landet året efter.",
+        "Ändå fortsätter själva slaveriet på många platser i årtionden till.",
+        "År 1833 antar Storbritannien en lag för att avskaffa slaveriet i sina kolonier.",
+        "Slaveriet där upphör 1834, men de fria människorna måste arbeta för sina gamla ägare i fyra år till.",
+        "År 1865 avskaffar USA slaveriet efter ett långt inbördeskrig.",
+        "Brasilien är det sista landet i Amerika som avskaffar slaveriet, år 1888.",
+        "Varje ny lag lämnar efter sig nya kamper för lika rättigheter."
+      ],
+      "question": "Vilken handel är handeln X?",
+      "options": [
+        "Transsaharahandeln",
+        "Pälshandeln",
+        "Handeln över Indiska oceanen",
+        "Transatlantiska slavhandeln"
+      ],
+      "words": [
+        {
+          "word": "försäkringspengar",
+          "explanation": "pengar som betalas för att täcka förlusten av något, som ett skepp eller dess last"
+        },
+        {
+          "word": "årtionden",
+          "explanation": "perioder på tio år"
+        },
+        {
+          "word": "inbördeskrig",
+          "explanation": "ett krig som utkämpas mellan grupper inom ett och samma land"
+        },
+        {
+          "word": "kamper",
+          "explanation": "hårda och långa ansträngningar för att uppnå något svårt"
+        }
+      ],
+      "main_caption": "Örlogsfartyg börjar patrullera kusten och stoppar skepp som fortfarande för fångar.",
+      "side_caption": "En domstol i London tar senare upp det chockerande fallet om ett skepp vid namn Zong."
+    },
+    {
+      "title": "Vad dokumenten berättar för historiker",
+      "text_sentences": [
+        "Historiker studerar nu handeln X med hjälp av en enorm digital databas.",
+        "Den samlar uppgifter från tusentals enskilda resor över flera århundraden.",
+        "Historiker räknar till omkring tolv och en halv miljon människor som togs ombord, och omkring tio och en halv miljon som nådde land.",
+        "Uppgifterna visar att skepp från Portugal och Brasilien för flest människor, och under längst tid.",
+        "Många av dessa skepp seglar direkt mellan Brasilien och Angola och tillbaka, inte i tre steg.",
+        "Handeln lämnar också ett bestående avtryck över hela den moderna världen.",
+        "Miljontals ättlingar till bortförda afrikaner lever nu i hela Amerika.",
+        "Tillsammans utgör de det som människor ofta kallar den afrikanska diasporan.",
+        "Historiker spårar också vissa moderna rasistiska idéer tillbaka till gamla texter som en gång rättfärdigade handeln X.",
+        "I dag markerar minnesplatser och museer gamla hamnar och avreseplatser.",
+        "Vissa människor efterlyser i dag upprättelse, det vill säga handling eller betalning för den skada som skedde.",
+        "Historiker och regeringar är fortfarande oense om huruvida och hur detta ska göras."
+      ],
+      "question": "Vilken handel är handeln X?",
+      "options": [
+        "Sidenvägens handel",
+        "Transatlantiska slavhandeln",
+        "Opiumhandeln",
+        "Hansans handel"
+      ],
+      "words": [
+        {
+          "word": "databas",
+          "explanation": "en stor, organiserad samling information som sparas för forskning"
+        },
+        {
+          "word": "ättlingar",
+          "explanation": "människor som är släkt med människor som levde långt före dem"
+        },
+        {
+          "word": "diaspora",
+          "explanation": "en stor grupp människor som nu lever spridda långt från sitt ursprungliga hemland"
+        },
+        {
+          "word": "upprättelse",
+          "explanation": "en handling eller betalning som ska gottgöra en gammal skada"
+        }
+      ],
+      "main_caption": "Historiker studerar nu tusentals gamla resor, samlade i ett enda stort arkiv.",
+      "side_caption": "I dag står tysta minnesmärken som detta vid gamla hamnar runt havet."
+    }
+  ]
+}
