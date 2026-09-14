@@ -7148,7 +7148,7 @@
             "text_sentences": [
               "I många år strider romare mot romare i inbördeskrig.",
               "Så vinner en man, och striderna tar slut.",
-              "Han blir kejsare X, Roms allra första kejsare.",
+              "Han blir kejsar X, Roms allra första kejsare.",
               "En lång fredstid börjar.",
               "Senare kallar människor den Pax Romana, den romerska freden.",
               "Bönder kan arbeta och handelsmän kan resa tryggt igen.",
@@ -7157,7 +7157,7 @@
               "Freden varar, med få avbrott, i ungefär tvåhundra år.",
               "Hans långa fred gör Rom rikare än något krig."
             ],
-            "question": "Vem är kejsare X?",
+            "question": "Vem är kejsar X?",
             "options": [
               "Julius Caesar",
               "Konstantin",
@@ -7355,7 +7355,7 @@
               "Är detta konst, eller är det reklam för en enda man?",
               "I dag har vi ett ord för det: propaganda, bilder och ord som bygger makt."
             ],
-            "question": "Vem är kejsare X?",
+            "question": "Vem är kejsar X?",
             "options": [
               "Julius Caesar",
               "Alexander den store",
@@ -7443,7 +7443,7 @@
           "sv": {
             "title": "Hugget i sten",
             "text_sentences": [
-              "Mot slutet av sitt långa liv skriver kejsare X en kort skrift om sig själv.",
+              "Mot slutet av sitt långa liv skriver kejsar X en kort skrift om sig själv.",
               "Titeln betyder: ”Det jag har gjort”.",
               "Efter hans död hugger arbetare in texten i sten i städer över hela riket.",
               "En stor kopia finns bevarad på en tempelvägg i dagens Turkiet.",
@@ -7455,7 +7455,7 @@
               "Därför jämför historiker den med mynt, ruiner och andra författare.",
               "Varje källa besvarar frågan: vem talar, och vem tiger?"
             ],
-            "question": "Vem är kejsare X?",
+            "question": "Vem är kejsar X?",
             "options": [
               "Julius Caesar",
               "Hammurabi",
