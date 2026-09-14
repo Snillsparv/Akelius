@@ -798,8 +798,11 @@ namnges där de behövs och är då inte distraktorer på det kortet.
   personligen), kinin, ångbåtar och maskingeväret gjorde erövringen möjlig,
   Kongofristatens gummitvång och grymheter sakligt utan detaljer, motstånd:
   Adwa 1896 där Etiopien under Menelik II besegrade Italien, Samori Touré,
-  Maji Maji-upproret 1905-1907 i Tyska Östafrika (dagens Tanzania, tiotusentals
-  eller fler döda, de flesta av svält, skriv "tens of thousands"), folkmordet på
+  Maji Maji-upproret 1905-1907 i Tyska Östafrika (dagens Tanzania;
+  uppskattningarna av antalet döda går från omkring 75 000 i tyska källor
+  till 250 000-300 000 hos historikern Iliffe, de flesta av svält; skriv
+  "historians count between seventy-five thousand and three hundred
+  thousand dead, most of them from hunger"), folkmordet på
   herero och nama 1904-1908 som Tyskland erkände 2021, gränser dragna med
   linjal som delade folk och som till stor del består i dag. Universitet:
   varför just då, ekonomiska och politiska förklaringar, arvet för dagens
