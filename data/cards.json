@@ -31956,6 +31956,877 @@
           }
         }
       ]
+    },
+    {
+      "slug": "swahili-coast",
+      "person": "The Swahili coast",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Stone Towns by the Sea",
+          "category": "africa",
+          "text_sentences": [
+            "Place X is a string of stone towns by the sea.",
+            "The towns stand on the east coast of Africa.",
+            "Some of these towns are more than a thousand years old.",
+            "Each year, a steady wind brings ships from Arabia and India.",
+            "In Place X, traders sell goods like gold and ivory from the land behind them.",
+            "In return, they buy cloth, glass beads, and painted bowls.",
+            "The people of Place X speak an African language.",
+            "Over time, this language takes in many words from Arabia."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The Gold Coast",
+            "The Swahili coast",
+            "The Horn of Africa",
+            "The Barbary Coast"
+          ],
+          "correct": "The Swahili coast",
+          "words": [
+            {
+              "word": "ivory",
+              "explanation": "the hard white material from an elephant's tusk"
+            },
+            {
+              "word": "traders",
+              "explanation": "people whose job is buying and selling goods"
+            },
+            {
+              "word": "goods",
+              "explanation": "things that people buy and sell"
+            }
+          ],
+          "main_image": {
+            "description": "Wide dawn view of a stone coastal town on the East African coast around the year 1300: whitewashed coral-stone houses with flat roofs and plain wooden doors line a curving bay, three dhows with triangular lateen sails anchored in the harbor, palm trees along the shore, a few distant Black East African townspeople in plain cotton robes and head cloths walk near the water. Production note: East African coast around 1300, coral-stone architecture with plain wooden doors and no legible carving, cotton robes and head cloths only, no modern boats, no modern clothing, no plastic, no metal roofs, no flags, no calligraphy, no pseudo-writing, no readable maps, no Kaaba, no letters, no numbers.",
+            "caption": "Ships arrive with the wind, and stone towns by the sea grow rich on trade.",
+            "shutterstock_query": "east africa coast dhow lateen sail coral stone town dawn historical illustration",
+            "ai_prompt": "Photorealistic wide dawn view of a stone coastal town on the East African coast around the year 1300: whitewashed coral-stone houses with flat roofs and plain wooden doors line a curving bay, three dhows with triangular lateen sails anchored in the harbor, palm trees along the shore, a few distant Black East African townspeople in plain cotton robes and head cloths near the water, warm golden light, no modern boats, no modern clothing, no plastic, no metal roofs, no flags, no calligraphy, no pseudo-writing, no readable maps, no Kaaba, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical scene in a market street of a stone town on the East African coast around the year 1300: a Black East African trader in a plain cotton robe and head cloth sits behind a low stall with two large elephant tusks, folded bolts of plain cloth, strings of glass beads, and a few painted clay bowls, whitewashed coral-stone walls behind, warm daylight. The picture explains the word 'ivory'. Production note: East African coast around 1300, cotton robes and head cloths only, no modern objects, no plastic, no readable marks on cloth or bowls, no calligraphy, no pseudo-writing, no flags, no letters, no numbers, no elephant shown.",
+            "caption": "A trader sells long white tusks and buys cloth and beads from across the sea.",
+            "shutterstock_query": "historical east africa market trader ivory tusks cloth glass beads stall illustration",
+            "ai_prompt": "Vertical photorealistic scene in a market street of a stone town on the East African coast around the year 1300: a Black East African trader in a plain cotton robe and head cloth sits behind a low stall with two large elephant tusks, folded bolts of plain cloth, strings of glass beads, and a few painted clay bowls, whitewashed coral-stone walls behind, warm daylight, calm working mood, no modern objects, no plastic, no readable marks on cloth or bowls, no calligraphy, no pseudo-writing, no flags, no elephant, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "Coins, Coral, and a Great Mosque",
+          "category": "africa",
+          "text_sentences": [
+            "Place X is not one land but a row of separate towns.",
+            "They stand on the east coast of Africa.",
+            "Kilwa, Mombasa, Malindi, and the island of Zanzibar are some of these places.",
+            "Each town has its own ruler and makes its own choices.",
+            "A wind called the monsoon rules the sea along the whole coast.",
+            "For half the year, it blows ships in from Arabia, Persia, and India.",
+            "For the other half, the same wind blows the ships back home.",
+            "Kilwa grows rich on gold from a high plateau far to the south.",
+            "That gold comes north by sea from the port of Sofala.",
+            "Kilwa strikes its own copper coins.",
+            "Workers build a great mosque there from coral stone.",
+            "In the 1410s, a huge fleet from China visits this coast."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The Malabar Coast",
+            "The Cape of Good Hope",
+            "The Swahili coast",
+            "The Red Sea coast"
+          ],
+          "correct": "The Swahili coast",
+          "words": [
+            {
+              "word": "monsoon",
+              "explanation": "a wind that blows one way for part of the year, then the other way"
+            },
+            {
+              "word": "plateau",
+              "explanation": "a large area of high, flat land"
+            },
+            {
+              "word": "strikes",
+              "explanation": "makes coins by stamping a design into metal"
+            },
+            {
+              "word": "coral",
+              "explanation": "a hard, stony material built by tiny sea animals, used here to build houses"
+            }
+          ],
+          "main_image": {
+            "description": "Exterior view of a large coral-stone mosque on the East African coast in the 1300s: rounded archways, a row of small domes and barrel vaults on the flat roof, thick whitewashed coral-stone walls with plain geometric carving only, no minaret, a few Black East African townspeople in plain white cotton robes and small caps walk past, palm trees and a glimpse of the sea beyond, warm daylight. Production note: East African coast in the 1300s, coral-stone construction with plain geometric carving only, no minaret, no calligraphy, no pseudo-writing, no people praying, no modern boats or objects, no modern clothing, no plastic, no metal roofs, no flags, no maps with text, no Kaaba, no letters, no numbers.",
+            "caption": "A great mosque built from coral stone rises above a rich trading town.",
+            "shutterstock_query": "east africa coral stone mosque domes arches historical exterior illustration",
+            "ai_prompt": "Photorealistic exterior view of a large coral-stone mosque on the East African coast in the 1300s: rounded archways, a row of small domes and barrel vaults on the flat roof, thick whitewashed coral-stone walls with plain geometric carving only, no minaret, a few Black East African townspeople in plain white cotton robes and small caps walking past, palm trees and a glimpse of the sea beyond, warm daylight, no people praying, no calligraphy, no pseudo-writing, no modern boats, no modern clothing, no plastic, no metal roofs, no flags, no maps with text, no Kaaba, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical close-up of an open Black East African hand holding a few small, thin, worn copper coins with smooth blank surfaces, a plain cotton sleeve at the wrist, a whitewashed coral-stone wall softly blurred behind, East African coast in the 1300s, soft daylight. The picture explains the word 'strikes'. Production note: coins plain and blank with no markings of any kind, no pseudo-writing, no modern objects, no plastic, no letters, no numbers.",
+            "caption": "Small copper coins like these are made in the town itself.",
+            "shutterstock_query": "hand holding small worn copper coins closeup blank historical",
+            "ai_prompt": "Vertical photorealistic close-up of an open Black East African hand holding a few small, thin, worn copper coins with smooth blank surfaces, a plain cotton sleeve at the wrist, a whitewashed coral-stone wall softly blurred behind, East African coast in the 1300s, soft daylight, calm mood, coins plain and blank with no markings, no pseudo-writing, no modern objects, no plastic, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "One Coast, Many Peoples",
+          "category": "africa",
+          "text_sentences": [
+            "Place X is a coast in East Africa with many old stone towns.",
+            "From the 700s, the faith of Islam spreads along this coast.",
+            "Traders from Arabia and Persia settle in the towns.",
+            "Over many generations, local families marry these newcomers.",
+            "The people keep their own language, an African language of the coast.",
+            "Its grammar and everyday words come from an African language family.",
+            "Thousands of extra words come from Arabic, the language of prayer and learning.",
+            "Rich families build stone houses with heavy carved wooden doors.",
+            "Later, poets on the coast write long poems in this language.",
+            "Ships also carry mangrove poles from the creeks to build houses in Arabia.",
+            "Faith, trade, and marriage tie the towns to lands across the sea.",
+            "Yet the towns stay African in their people and their speech."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The Swahili coast",
+            "The Coromandel Coast",
+            "The Slave Coast",
+            "The Gold Coast"
+          ],
+          "correct": "The Swahili coast",
+          "words": [
+            {
+              "word": "generations",
+              "explanation": "all the people born and living at about the same time, one after another"
+            },
+            {
+              "word": "grammar",
+              "explanation": "the rules that show how words fit together in a language"
+            },
+            {
+              "word": "poets",
+              "explanation": "people who write poems"
+            },
+            {
+              "word": "mangrove",
+              "explanation": "a tree that grows with its roots in salty water along the shore"
+            }
+          ],
+          "main_image": {
+            "description": "Wide view of a narrow street in a stone town on the East African coast around the year 1500: whitewashed coral-stone houses with flat roofs, one large heavy wooden door with simple carved geometric borders and no letters, Black East African townspeople in white cotton robes and small caps, women in plain cotton wraps and head cloths, a cat on a step, soft afternoon light. Production note: East African coast around 1500, coral-stone architecture, cotton robes and wraps only, carved door with geometric patterns only and no calligraphy, no pseudo-writing, no modern objects, no plastic, no metal roofs, no flags, no maps with text, no Kaaba, no letters, no numbers.",
+            "caption": "Behind heavy carved doors, families of the coast live, pray, and trade.",
+            "shutterstock_query": "east africa stone town narrow street carved wooden door historical illustration",
+            "ai_prompt": "Photorealistic wide view of a narrow street in a stone town on the East African coast around the year 1500: whitewashed coral-stone houses with flat roofs, one large heavy wooden door with simple carved geometric borders, Black East African townspeople in white cotton robes and small caps, women in plain cotton wraps and head cloths, a cat on a step, soft afternoon light, calm everyday mood, geometric carving only, no calligraphy, no pseudo-writing, no modern objects, no modern clothing, no plastic, no metal roofs, no flags, no maps with text, no Kaaba, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a mangrove creek near a stone town on the East African coast around the year 1500: mangrove trees with arching roots stand in shallow water, a stack of straight mangrove poles lies cut and tied on the muddy bank, a small dugout canoe rests nearby, two Black East African men in plain cotton wraps load poles, morning light. The picture explains the word 'mangrove'. Production note: East African coast around 1500, cotton wraps only, no modern boats, no plastic, no flags, no readable marks, no letters, no numbers.",
+            "caption": "Straight poles from creeks like this are shipped across the sea to build houses.",
+            "shutterstock_query": "mangrove creek east africa poles dugout canoe historical illustration",
+            "ai_prompt": "Vertical photorealistic view of a mangrove creek near a stone town on the East African coast around the year 1500: mangrove trees with arching roots standing in shallow water, a stack of straight mangrove poles cut and tied on the muddy bank, a small dugout canoe nearby, two Black East African men in plain cotton wraps loading poles, morning light, calm working mood, no modern boats, no modern clothing, no plastic, no flags, no readable marks, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "New Ships, New Rulers",
+          "category": "africa",
+          "text_sentences": [
+            "Place X is a coast of trading towns in East Africa.",
+            "In 1498, Portuguese ships sail along this coast for the first time.",
+            "Their captain looks for a sea route straight to India.",
+            "The Portuguese soon want to control the region's trade.",
+            "In 1505, Portuguese forces attack and badly damage the town of Kilwa.",
+            "For about two hundred years, Portugal holds parts of this coast by force.",
+            "In 1698, rulers from Oman drive the Portuguese out of the north.",
+            "Under Omani rule, the island of Zanzibar grows rich on a new crop.",
+            "Workers there grow cloves, a spice sold all over the world.",
+            "Most of these workers are enslaved people.",
+            "In the 1800s, Zanzibar also becomes a center of trade in enslaved people.",
+            "Later that century, outside pressure forces this trade to slowly end."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The Horn of Africa",
+            "The Barbary Coast",
+            "The Malabar Coast",
+            "The Swahili coast"
+          ],
+          "correct": "The Swahili coast",
+          "words": [
+            {
+              "word": "route",
+              "explanation": "the way or path used to travel from one place to another"
+            },
+            {
+              "word": "crop",
+              "explanation": "a plant grown in large amounts for food or to sell"
+            },
+            {
+              "word": "spice",
+              "explanation": "a plant part used to give food a strong taste or smell"
+            },
+            {
+              "word": "enslaved",
+              "explanation": "forced to work and live as the property of another person"
+            },
+            {
+              "word": "pressure",
+              "explanation": "strong influence used to make someone act or change"
+            }
+          ],
+          "main_image": {
+            "description": "Wide view from the sea at dawn in the early 1500s: several late-1400s Portuguese carrack ships with tall masts and square sails approach a whitewashed coral-stone coastal town in the distance, thin smoke rises faintly above the rooftops, the water is calm, gulls fly overhead. Production note: 1490s to 1500s Portuguese sailing ships, East African coral-stone architecture in the background, no visible flames, no bodies, no weapons in close view, no flags with readable emblems, no modern objects, no modern boats, quiet somber mood, no text, no letters, no numbers.",
+            "caption": "New ships from across the sea change the coast forever.",
+            "shutterstock_query": "portuguese carrack ships approaching coastal town dawn historical illustration",
+            "ai_prompt": "Photorealistic wide view from the sea at dawn in the early 1500s: several late-1400s Portuguese carrack ships with tall masts and square sails approaching a whitewashed coral-stone coastal town in the distance, thin smoke rising faintly above the rooftops, calm water, gulls overhead, quiet somber mood, no visible flames, no bodies, no weapons in close view, no flags with readable emblems, no modern objects, no modern boats, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical scene on a clove plantation on the island of Zanzibar in the 1800s: two Black East African workers in simple cotton wraps and head cloths pick small pink clove buds from dark green clove trees into woven baskets, woven mats of buds drying in the sun nearby, warm tropical daylight. The picture explains the word 'crop'. Production note: 1800s East African coast, cotton wraps and head cloths only, no chains, no whips, no signs of distress, calm working mood, no modern tools, no plastic, no readable labels, no text, no letters, no numbers.",
+            "caption": "Fresh clove buds are picked by hand and then dried in the sun before they are sold.",
+            "shutterstock_query": "clove harvest pink buds drying mats zanzibar 1800s workers baskets illustration",
+            "ai_prompt": "Vertical photorealistic scene on a clove plantation on the island of Zanzibar in the 1800s: two Black East African workers in simple cotton wraps and head cloths picking small pink clove buds from dark green clove trees into woven baskets, woven mats of buds drying in the sun nearby, warm tropical daylight, calm working mood, no chains, no whips, no signs of distress, no modern tools, no modern clothing, no plastic, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Whose Cities Are These?",
+          "category": "africa",
+          "text_sentences": [
+            "Place X is a chain of old stone towns on the east coast of Africa.",
+            "For much of the twentieth century, many books called these towns \"Arab colonies.\"",
+            "From the 1950s, archaeologists dig at several coastal ruins.",
+            "These first excavators also believe in Arab or Persian founders.",
+            "From the 1980s, new digs and new language studies change the picture.",
+            "Layer after layer, the finds show local pottery, local house plans, and local burial customs.",
+            "Pieces of Chinese porcelain in each layer help to date the towns.",
+            "Written sources are thin, and many come from outsiders passing through.",
+            "A traveler from Morocco visits Kilwa in 1331 and praises its fine buildings.",
+            "Most researchers today see African societies that welcome trade and slowly absorb new neighbors.",
+            "The African language of this coast, shaped by this long meeting, still lives on today.",
+            "It is the national language of Tanzania, and more than a hundred million people speak it."
+          ],
+          "question": "Which place is Place X?",
+          "options": [
+            "The Red Sea coast",
+            "The Swahili coast",
+            "The Cape of Good Hope",
+            "The Slave Coast"
+          ],
+          "correct": "The Swahili coast",
+          "words": [
+            {
+              "word": "archaeologists",
+              "explanation": "scientists who study old objects and old buildings"
+            },
+            {
+              "word": "excavators",
+              "explanation": "people who dig carefully to find old things in the ground"
+            },
+            {
+              "word": "porcelain",
+              "explanation": "a fine, hard, white kind of pottery"
+            },
+            {
+              "word": "absorb",
+              "explanation": "to take something in and make it part of a bigger whole"
+            },
+            {
+              "word": "sources",
+              "explanation": "texts or objects that give historians information about the past"
+            }
+          ],
+          "main_image": {
+            "description": "Wide daylight scene of a present-day archaeological excavation at the weathered coral-stone ruins of an old town on the East African coast: two archaeologists, one Black East African and one white, in plain neutral work clothes and sun hats kneel and brush soil from layered pottery shards and old wall foundations, string lines mark small survey squares, crumbling coral-stone archways and low walls stand behind among grass and palm trees, the empty sea beyond. Production note: present-day archaeological dig at a historical ruin, neutral modern work clothing without logos, no readable signs, labels, or tags, no maps with text, no flags, no boats, no letters, no numbers.",
+            "caption": "Archaeologists dig through old layers to test who really built these towns.",
+            "shutterstock_query": "archaeology excavation coral stone ruins east africa coast pottery illustration",
+            "ai_prompt": "Photorealistic wide daylight scene of a present-day archaeological excavation at the weathered coral-stone ruins of an old town on the East African coast: two archaeologists, one Black East African and one white, in plain neutral work clothes and sun hats kneeling and brushing soil from layered pottery shards and old wall foundations, string lines marking small survey squares, crumbling coral-stone archways and low walls behind among grass and palm trees, the empty sea beyond, calm focused mood, neutral modern work clothing without logos, no readable signs or labels, no maps with text, no flags, no boats, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a long table in a quiet present-day museum store room: a row of small earthenware pottery pieces and blue and white porcelain shards with plain leaf patterns laid out on a plain white cloth, a pair of white cotton gloves beside them, soft daylight from a window. The picture explains the word 'porcelain'. Production note: present-day museum setting, no labels, no tags, no marks that look like writing, no logos, no letters, no numbers.",
+            "caption": "Pieces of pottery and porcelain from each layer help date the towns.",
+            "shutterstock_query": "museum table pottery shards blue white porcelain fragments cotton gloves",
+            "ai_prompt": "Vertical photorealistic view of a long table in a quiet present-day museum store room: a row of small earthenware pottery pieces and blue and white porcelain shards with plain leaf patterns laid out on a plain white cloth, a pair of white cotton gloves beside them, soft daylight from a window, calm scholarly mood, no labels, no tags, no marks that look like writing, no logos, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "scramble-for-africa",
+      "person": "The Scramble for Africa",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "Lines drawn far away",
+          "category": "colonialism",
+          "text_sentences": [
+            "Event X begins about 150 years ago.",
+            "At that time, only a few European countries hold land in Africa.",
+            "Then, within a few short decades, that changes fast.",
+            "Many European countries suddenly want land there too.",
+            "Leaders far away in Europe draw new lines across a huge map.",
+            "These leaders have never walked on the land they divide.",
+            "One single line can cut straight through one people's home.",
+            "By 1914, Europeans rule nearly the whole continent.",
+            "Only two countries in Africa manage to stay free.",
+            "Many of those far away lines still mark borders today."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Age of Exploration",
+            "The Scramble for Africa",
+            "The Crusades",
+            "The Opium Wars"
+          ],
+          "correct": "The Scramble for Africa",
+          "words": [
+            {
+              "word": "continent",
+              "explanation": "a very large area of land, much bigger than any single country"
+            },
+            {
+              "word": "divide",
+              "explanation": "to split something into separate parts"
+            },
+            {
+              "word": "decades",
+              "explanation": "periods of ten years each"
+            },
+            {
+              "word": "borders",
+              "explanation": "the lines where one country or area ends and another begins"
+            }
+          ],
+          "main_image": {
+            "description": "On a wooden pier on an African coast in the 1880s, seen from the pier looking inland: European merchants and officials in frock coats and pith helmets talk with Black African traders and porters who carry crates and trunks, one small steam launch tied at the jetty, palm trees and low hills beyond, calm documentary mood. Production note: 1880s clothing and equipment only, no ships on the horizon, no flags, no weapons, no readable text or numbers on any crate or sign, faces generic and not identifiable, no violence, no one shown in distress.",
+            "caption": "Newcomers from Europe step ashore, and soon many countries want land here.",
+            "shutterstock_query": "1880s wooden pier african coast european officials traders porters illustration",
+            "ai_prompt": "Photorealistic wide scene on a wooden pier on an African coast in the 1880s, camera on the pier looking inland, European merchants and officials in period frock coats and pith helmets talking with Black African traders and porters carrying crates and trunks, one small steam launch tied at the jetty, palm trees and low hills beyond, warm calm daylight, documentary mood, 1880s clothing and equipment only, no ships on the horizon, no flags, no weapons, no violence, no distress, faces generic, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Close vertical view of a hand in a formal 1880s sleeve holding a wooden ruler and a dip pen, drawing a single straight ink line across a large blank sheet of paper on a dark wooden desk, an inkwell and a pair of brass dividers beside it, warm lamp light. Production note: no readable text, letters, numbers or place names, no map outlines, no flags, no other objects that suggest a specific country.",
+            "caption": "Far away, a hand draws a straight new line with a ruler and pen.",
+            "shutterstock_query": "hand ruler pen drawing line blank paper desk 1880s illustration",
+            "ai_prompt": "Photorealistic close vertical view of a hand in a formal 1880s sleeve holding a wooden ruler and a dip pen, drawing a single straight ink line across a large blank sheet of paper on a dark wooden desk, an inkwell and a pair of brass dividers beside it, warm lamp light, quiet studious mood, 1880s clothing and objects only, no map outlines, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "No one from Africa at the table",
+          "category": "colonialism",
+          "text_sentences": [
+            "Event X speeds up at a conference in Berlin in 1884.",
+            "Officials sent by many European governments sit around one long table.",
+            "No African leader sits at that table.",
+            "The officials agree on rules for claiming land across the continent.",
+            "A country must really control a piece of land before it can claim it.",
+            "New medicine against malaria lets outsiders survive far inland for the first time.",
+            "Steamboats carry soldiers and goods up rivers that used to stop them.",
+            "A new fast gun gives small forces a deadly advantage over larger ones.",
+            "Together, these new tools make fast conquest possible across the continent."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Scramble for Africa",
+            "The Great Game",
+            "The Congress of Vienna",
+            "The Boer War"
+          ],
+          "correct": "The Scramble for Africa",
+          "words": [
+            {
+              "word": "conquest",
+              "explanation": "taking control of a place by force"
+            },
+            {
+              "word": "inland",
+              "explanation": "away from the coast, deep inside a country"
+            },
+            {
+              "word": "advantage",
+              "explanation": "something that helps you do better than others"
+            },
+            {
+              "word": "claim",
+              "explanation": "to say that something belongs to you"
+            }
+          ],
+          "main_image": {
+            "description": "1880s European delegates in dark frock coats and starched collars sit around a long polished conference table in a grand European hall, seen from behind so faces are not shown, papers and inkwells on the table, tall curtained windows admitting soft daylight, formal solemn mood, no African delegate present. Production note: 1880s clothing and furniture only, no readable text on any paper, no maps, no flags, no national emblems, no numbers, faces not shown.",
+            "caption": "Officials from Europe agree on rules for taking land, without a single African at the table.",
+            "shutterstock_query": "1880s conference table delegates hall from behind illustration",
+            "ai_prompt": "Photorealistic scene of 1880s European delegates in dark frock coats and starched collars seated around a long polished conference table in a grand European hall, seen from behind so faces are not shown, papers and inkwells on the table, tall curtained windows admitting soft daylight, formal solemn mood, no African delegate present, 1880s clothing and furniture only, no maps, no flags, no emblems, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a small wooden river steamboat with a tall smoking funnel moving up a wide African river, dense green forest rising on both banks, the boat's wake rippling behind it, warm hazy daylight. Production note: 1880s steamboat and equipment only, no modern vessels, no flags, no readable text or numbers on the hull, no people in close-up, no weapons visible.",
+            "caption": "A steamboat pushes far up a river that once stopped outsiders.",
+            "shutterstock_query": "1880s steamboat river africa forest illustration",
+            "ai_prompt": "Photorealistic vertical view of a small wooden river steamboat with a tall smoking funnel moving up a wide African river, dense green forest rising on both banks, the boat's wake rippling behind it, warm hazy daylight, calm documentary mood, 1880s steamboat and equipment only, no modern vessels, no people in close-up, no weapons, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Not without a fight",
+          "category": "colonialism",
+          "text_sentences": [
+            "Event X is the European rush for land in Africa in the late 1800s.",
+            "It does not succeed everywhere without resistance.",
+            "In the mountains of the northeast, Ethiopia stays independent the whole time.",
+            "Its ruler, Menelik II, spends years buying modern rifles to prepare.",
+            "In 1896, at Adwa, his army defeats an invading Italian force completely.",
+            "In West Africa, a leader named Samori Touré builds his own army.",
+            "He resists the French for more than ten years.",
+            "In German East Africa, today Tanzania, people rise up together in 1905.",
+            "Colonial forces crush the uprising.",
+            "Historians count between seventy-five thousand and three hundred thousand dead, most of them from hunger.",
+            "In the southwest, colonial forces also wage a harsh campaign against the Herero and Nama peoples.",
+            "In 2021, Germany calls that campaign a genocide."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Great Game",
+            "The Opium Wars",
+            "The Scramble for Africa",
+            "The Boer War"
+          ],
+          "correct": "The Scramble for Africa",
+          "words": [
+            {
+              "word": "resistance",
+              "explanation": "fighting back against control by an outside power"
+            },
+            {
+              "word": "invading",
+              "explanation": "entering a country by force to take control of it"
+            },
+            {
+              "word": "uprising",
+              "explanation": "when many people rise up together against those in power"
+            },
+            {
+              "word": "genocide",
+              "explanation": "a planned effort to destroy a whole people"
+            }
+          ],
+          "main_image": {
+            "description": "Ethiopian highland landscape at dawn, terraced hills and distant flat-topped mountains under soft golden light, a long line of Black Ethiopian soldiers in white shamma cloth and dark cloaks marches along a ridge path, seen from a distance, calm determined mood. Production note: 1896 Ethiopian highland dress only, white shamma cloth and dark cloaks, no khaki, no steel helmets, no modern uniforms, generic and not identifiable faces, no flags, no weapons shown in close-up, no violence, no blood, no readable text or numbers anywhere.",
+            "caption": "Ethiopian soldiers march through their mountains, ready to defend their land.",
+            "shutterstock_query": "ethiopian highlands soldiers marching ridge dawn historic illustration",
+            "ai_prompt": "Photorealistic Ethiopian highland landscape at dawn, terraced hills and distant flat-topped mountains under soft golden light, a long line of Black Ethiopian soldiers in white shamma cloth and dark cloaks marches along a ridge path, seen from a distance, calm determined mood, 1896 Ethiopian highland dress only, white shamma cloth and dark cloaks, no khaki, no steel helmets, no modern uniforms, generic faces, no violence, no blood, no weapons in close-up, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a wide East African savanna at dusk in the 1900s, a cooking fire and a single homestead far in the distance, a Black East African woman carrying a water jar on a path in the foreground seen from behind, acacia trees and tall grass, calm everyday mood. Production note: 1900s East African dress only, generic and not identifiable faces, no weapons, no violence, no flags, no readable text or numbers anywhere.",
+            "caption": "Evening falls over the land that today is called Tanzania.",
+            "shutterstock_query": "east africa savanna dusk woman water jar path distant homestead 1900s illustration",
+            "ai_prompt": "Photorealistic vertical scene of a wide East African savanna at dusk in the 1900s, a cooking fire and a single homestead far in the distance, a Black East African woman carrying a water jar on a path in the foreground seen from behind, acacia trees and tall grass, calm everyday mood, 1900s East African clothing only, generic faces, no weapons, no violence, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "A king's private colony",
+          "category": "colonialism",
+          "text_sentences": [
+            "Event X is the European race for land in Africa in the late 1800s.",
+            "One European king gains the vast Congo in central Africa as his own private property.",
+            "Rubber grows there on wild vines that climb the forest trees.",
+            "The king's agents force local people to collect this rubber.",
+            "The people cut the vines with knives and catch the white sap in pots and gourds.",
+            "Each village must bring a set amount, or agents take hostages and punish the village.",
+            "Missionaries, a shipping clerk, and local witnesses gather reports and photographs.",
+            "Their reports shock people in Europe, and a campaign against the king begins.",
+            "In 1908, the king has to hand the land over to his country's government.",
+            "Many people die in those years, from violence, hunger, and disease."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Partition of India",
+            "The Scramble for Africa",
+            "The Congress of Vienna",
+            "The Suez Crisis"
+          ],
+          "correct": "The Scramble for Africa",
+          "words": [
+            {
+              "word": "property",
+              "explanation": "something that belongs to a person"
+            },
+            {
+              "word": "agents",
+              "explanation": "people sent to act or work on behalf of someone else"
+            },
+            {
+              "word": "sap",
+              "explanation": "the liquid inside a plant"
+            },
+            {
+              "word": "gourds",
+              "explanation": "the hard, dried shells of a fruit, used as bowls or bottles"
+            },
+            {
+              "word": "hostages",
+              "explanation": "people held prisoner so that others will do what they are told"
+            }
+          ],
+          "main_image": {
+            "description": "A quiet clearing in dense equatorial rainforest in the Congo in the 1890s, thick wild rubber vines climbing the trunks of tall forest trees, a few vines with fresh cuts dripping white sap into a plain clay pot and a gourd at their base, a woven basket on the forest floor, a narrow dirt path leading into the deep green forest, soft hazy morning light, no people in the frame. Production note: 1890s Congo rainforest, wild rubber vines only, no plantation rows, no metal cups, no people shown, no violence, no chains, no weapons, no flags, no readable text or numbers anywhere.",
+            "caption": "Deep in the rainforest, wild rubber vines are cut for their sap to feed a growing demand in Europe.",
+            "shutterstock_query": "rainforest wild rubber vines liana clay pot gourd historic congo illustration",
+            "ai_prompt": "Photorealistic quiet clearing in dense equatorial rainforest in the Congo in the 1890s, thick wild rubber vines climbing the trunks of tall forest trees, a few vines with fresh cuts dripping white sap into a plain clay pot and a gourd at their base, a woven basket on the forest floor, a narrow dirt path leading into the deep green forest, soft hazy morning light, calm empty mood, wild rubber vines only, no plantation rows, no metal cups, no people, no violence, no chains, no weapons, no flags, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view at the edge of a forest clearing in the Congo in the 1890s: a woven basket filled with dark lumps of raw wild rubber, two gourds and a plain clay pot beside it, a Black Congolese porter in a plain cotton wrap seen from behind walking away down a forest path with a similar basket on his shoulder, hazy green light. The picture explains the word 'gourds'. Production note: 1890s Congo, cotton wraps only, no chains, no weapons, no violence, no signs of distress, no flags, no readable text or numbers.",
+            "caption": "Sap from the vines dries into dark lumps of rubber, carried out of the forest in baskets.",
+            "shutterstock_query": "basket raw rubber lumps gourds clay pot forest path porter 1890s congo illustration",
+            "ai_prompt": "Photorealistic vertical view at the edge of a forest clearing in the Congo in the 1890s, a woven basket filled with dark lumps of raw wild rubber, two gourds and a plain clay pot beside it, a Black Congolese porter in a plain cotton wrap seen from behind walking away down a forest path with a similar basket on his shoulder, hazy green light, calm quiet mood, 1890s clothing only, no chains, no weapons, no violence, no distress, no flags, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Why then, and whose story",
+          "category": "colonialism",
+          "text_sentences": [
+            "Event X is the sudden European takeover of most of Africa in the late 1800s.",
+            "Historians still debate exactly why it happens when it does.",
+            "Some point to industrial economies in Europe hungry for raw materials and new markets.",
+            "Others stress rivalry between European powers competing for prestige and strategic position.",
+            "Still others point to new technology, which suddenly makes control of the interior possible.",
+            "No single explanation fully satisfies every historian.",
+            "To study it, historians read government archives, letters, and company account books.",
+            "They also read protest reports, missionary accounts, and oral histories preserved by descendants.",
+            "Sources from colonizers and from colonized peoples often tell very different stories.",
+            "Historians also debate the legacy of the drawn borders for the states that exist today.",
+            "Some scholars see mainly enduring conflict, while others stress African societies' own resilience and adaptation."
+          ],
+          "question": "Which event is Event X?",
+          "options": [
+            "The Suez Crisis",
+            "The Partition of India",
+            "The Scramble for Africa",
+            "The Boer War"
+          ],
+          "correct": "The Scramble for Africa",
+          "words": [
+            {
+              "word": "archives",
+              "explanation": "collections of old documents kept for later study"
+            },
+            {
+              "word": "prestige",
+              "explanation": "respect and importance in the eyes of others"
+            },
+            {
+              "word": "resilience",
+              "explanation": "the ability to recover and keep going after hard events"
+            },
+            {
+              "word": "descendants",
+              "explanation": "people who come after someone in later generations, such as children and grandchildren"
+            }
+          ],
+          "main_image": {
+            "description": "An empty grand conference room in a European palace of the 1880s, seen from the back of the room: a long bare polished table, heavy wooden chairs pushed back and left empty, tall curtained windows admitting pale morning light, a chandelier unlit, no people present, quiet reflective mood. Production note: 1880s furniture and architecture only, no papers, no maps, no flags, no national emblems, no portraits on the walls, no readable text, no letters, no numbers.",
+            "caption": "Historians ask why it all happened, and whose voices were missing from the room.",
+            "shutterstock_query": "empty grand conference room 1880s palace long table chairs from behind illustration",
+            "ai_prompt": "Photorealistic view of an empty grand conference room in a European palace of the 1880s, seen from the back of the room, a long bare polished table, heavy wooden chairs pushed back and left empty, tall curtained windows admitting pale morning light, an unlit chandelier, no people present, quiet reflective mood, 1880s furniture and architecture only, no papers, no maps, no flags, no emblems, no portraits, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Vertical view of a single weathered iron boundary post standing in tall dry savanna grass, a faint straight line of small stones running from it toward the horizon, acacia trees scattered in the distance, warm late afternoon light. Production note: 1900s surveying post only, no readable text, letters or numbers on the post, no flags, no people, no modern objects.",
+            "caption": "A single iron post can mark a straight line that still divides the land today.",
+            "shutterstock_query": "iron boundary post savanna grassland historic illustration",
+            "ai_prompt": "Photorealistic vertical view of a single weathered iron boundary post standing in tall dry savanna grass, a faint straight line of small stones running from it toward the horizon, acacia trees scattered in the distance, warm late afternoon light, quiet still mood, 1900s surveying post only, no people, no flags, no modern objects, no text, no letters, no numbers."
+          }
+        }
+      ]
+    },
+    {
+      "slug": "african-independence",
+      "person": "African independence",
+      "cards": [
+        {
+          "level": "grade 6",
+          "title": "New Flags for New Countries",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Movement X grows strong in Africa after the war that ends in 1945.",
+            "Before this movement, most of Africa is ruled by governments in Europe.",
+            "Slowly, one country after another starts to choose its own leaders.",
+            "Each new country also chooses its own new flag.",
+            "In one single year, seventeen countries in Africa become free states.",
+            "People plan parades, and children learn new songs for their country.",
+            "Schools change too, with new maps and new words to learn.",
+            "The movement does not end there, and it takes many more years.",
+            "By the end of the century, almost every country in Africa rules itself."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Indian independence movement",
+            "The civil rights movement",
+            "African independence",
+            "The anti-apartheid movement"
+          ],
+          "correct": "African independence",
+          "words": [
+            {
+              "word": "governments",
+              "explanation": "the groups of people who rule a country or a region"
+            },
+            {
+              "word": "parades",
+              "explanation": "happy marches by many people, often with music"
+            },
+            {
+              "word": "century",
+              "explanation": "a period of one hundred years"
+            },
+            {
+              "word": "states",
+              "explanation": "countries, each with its own government"
+            }
+          ],
+          "main_image": {
+            "description": "A large crowd of Black West African men, women, and children gathers on an open field at dawn in a West African town in the late 1950s, seen from behind so no single face is shown, standing together facing a tall bare flagpole with no flag yet raised. The men wear plain shirts and trousers, the women wear long cotton dresses of the era without any pattern that could look like writing. Production note: no flag on the pole, no other flags anywhere, no readable banners or signs, no recognizable portraits, no weapons, only 1950s and 1960s clothing, no modern vehicles or electric lamps.",
+            "caption": "A crowd gathers at dawn to wait for a new flag to rise.",
+            "shutterstock_query": "1950s african crowd open field dawn empty flagpole from behind",
+            "ai_prompt": "Wide realistic illustration of a large crowd of Black West African men, women, and children gathered on an open field at dawn in a West African town in the late 1950s, all seen from behind so no face is visible, standing together facing a tall bare flagpole with no flag raised, men in plain cotton shirts and trousers, women in long cotton dresses without any pattern that could look like writing, soft early morning light, calm hopeful mood; no flag on the pole, no other flags, no readable banners, no signs, no recognizable portraits, no weapons, no modern vehicles, no electric lamps, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Inside a simple wooden classroom in an African town in the late 1950s, rows of plain wooden desks, Black African schoolchildren in plain cotton clothing of the era seated and seen from behind, a teacher's plain wooden desk at the front, sunlight through open wooden shutters, no board and no wall charts visible. Production note: no banners, no flags, no readable signs, no books open to readable pages, no recognizable faces, calm everyday mood, no modern objects.",
+            "caption": "In school, children learn new maps and new songs for their country.",
+            "shutterstock_query": "1950s african wooden classroom children desks from behind shutters",
+            "ai_prompt": "Vertical realistic illustration of the inside of a simple wooden classroom in an African town in the late 1950s, rows of plain wooden desks, Black African schoolchildren in plain cotton clothing of the era seated and seen from behind, a teacher's plain wooden desk at the front, sunlight through open wooden shutters, no board and no wall charts, warm morning light, calm everyday mood; no banners, no flags, no readable signs, no open books with readable pages, no recognizable faces, no modern objects, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 9",
+          "title": "One Country After Another",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Movement X turns colonies in Africa into free countries.",
+            "It gathers speed across Africa in the late 1950s.",
+            "In 1957, Ghana becomes independent under its new leader, Kwame Nkrumah.",
+            "It is one of the first countries in Africa to do this after the war.",
+            "A year later, Guinea says no to a new plan from its French rulers.",
+            "Guinea becomes independent alone, and French support stops at once.",
+            "Soon many more countries follow, in the north, west, east, and center of Africa.",
+            "In 1961, Tanganyika on the east coast becomes independent too.",
+            "Three years later, Tanganyika and the islands of Zanzibar join to form Tanzania.",
+            "In 1963, leaders from many African states meet in Addis Ababa.",
+            "There, the new free states start an organization to work together."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The labor movement",
+            "African independence",
+            "The Non-Aligned Movement",
+            "The Arab nationalist movement"
+          ],
+          "correct": "African independence",
+          "words": [
+            {
+              "word": "organization",
+              "explanation": "a group of people or countries that work together toward a goal"
+            },
+            {
+              "word": "support",
+              "explanation": "help given to a person, a group, or a country"
+            },
+            {
+              "word": "independent",
+              "explanation": "governing itself, not ruled by another country"
+            },
+            {
+              "word": "colonies",
+              "explanation": "lands ruled and controlled by a country far away"
+            }
+          ],
+          "main_image": {
+            "description": "The wide stone steps of a newly built parliament house in a West African capital in 1957, a group of Black West African civil servants and new ministers in plain 1950s suits and a few in woven cotton cloth walk up the steps, all seen from behind, a few onlookers in 1950s dress at the foot of the steps, bright afternoon light. Production note: no flags, no readable text on the building, no emblems, no recognizable faces, no weapons, only 1950s clothing, cars and objects.",
+            "caption": "In 1957, a new government walks up the steps to begin its work.",
+            "shutterstock_query": "1957 west africa parliament building steps officials from behind historical",
+            "ai_prompt": "Wide realistic illustration of the wide stone steps of a newly built parliament house in a West African capital in 1957, a group of Black West African civil servants and new ministers in plain 1950s suits and a few in woven cotton cloth walking up the steps, all seen from behind, a few onlookers in 1950s dress at the foot of the steps, bright afternoon light, hopeful mood; no flags, no readable text on the building, no emblems, no recognizable faces, no weapons, no modern vehicles, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A long meeting hall in Addis Ababa in 1963, rows of Black African delegates in the era's dark suits and a few in flowing robes seated at simple wooden desks, seen from behind and at a distance, a plain podium at the front with nothing on it, ceiling fans turning, soft daylight through tall windows. Production note: no flags, no emblems, no readable nameplates or documents, no recognizable faces, calm formal mood.",
+            "caption": "Leaders meet in a hall to start a new organization together.",
+            "shutterstock_query": "1963 addis ababa delegates meeting hall rows desks from behind",
+            "ai_prompt": "Vertical realistic illustration of a long meeting hall in Addis Ababa in 1963, rows of Black African delegates in the era's dark suits and a few in flowing robes seated at simple wooden desks, seen from behind and at a distance, a plain empty podium at the front, ceiling fans turning, soft daylight through tall windows, calm formal mood; no flags, no emblems, no readable nameplates, no readable documents, no recognizable faces, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "Freedom Won Through War",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Movement X frees the countries of Africa from European rule after 1945.",
+            "In some countries, it does not win without a fight.",
+            "In Kenya, farmers and workers who lose their best land start an uprising in the 1950s.",
+            "British rulers fight the uprising hard and open large camps for suspects.",
+            "Kenya becomes independent in 1963, after years of hard struggle.",
+            "In Algeria, a bitter war against French rule lasts almost eight years.",
+            "Hundreds of thousands of people die before Algeria becomes independent in 1962.",
+            "Portugal fights long wars in several of its colonies and holds on until 1974.",
+            "Then Portugal's own government changes, and it lets the colonies go in 1974 and 1975.",
+            "In the far south, most of the region is free by the 1960s and 1970s.",
+            "But one country there does not reach majority rule until 1994."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Négritude movement",
+            "The labor movement",
+            "The civil rights movement",
+            "African independence"
+          ],
+          "correct": "African independence",
+          "words": [
+            {
+              "word": "uprising",
+              "explanation": "a sudden fight by many people against their rulers"
+            },
+            {
+              "word": "struggle",
+              "explanation": "a long, hard effort against difficulty or an enemy"
+            },
+            {
+              "word": "suspects",
+              "explanation": "people who the rulers think may have done something against them"
+            },
+            {
+              "word": "majority",
+              "explanation": "more than half of a group"
+            }
+          ],
+          "main_image": {
+            "description": "A misty highland landscape in Kenya at dawn in the 1950s. Rolling farmland and forest surround a distant fenced camp with simple watchtowers, seen from far away with no people visible anywhere and no fence detail visible at this distance. Production note: no people, no weapons, no signs, no flags, calm documentary distance, the fence seen only from far away, no modern buildings or vehicles, no electric lighting.",
+            "caption": "During the war for land and freedom, the British hold thousands of people in camps like this.",
+            "shutterstock_query": "1950s kenya highlands misty landscape distant fenced camp watchtower",
+            "ai_prompt": "Wide atmospheric illustration of a misty highland landscape in Kenya at dawn in the 1950s, rolling farmland and forest surrounding a distant fenced camp with simple watchtowers, seen from far away with no people visible anywhere and no fence detail visible at this distance, soft early light, quiet documentary mood; no people, no weapons, no signs, no flags, no modern buildings, no vehicles, no electric lighting, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A stone well in a hillside village in the Algerian countryside in 1962, two North African women in plain long cotton dresses and head scarves draw water with a bucket, seen from behind, flat-roofed white houses and olive trees behind them, morning light. Production note: 1960s rural Algerian dress only, no weapons, no soldiers, no flags, no signs, no recognizable faces, no modern vehicles, calm everyday mood.",
+            "caption": "After almost eight years of war, daily life in Algeria begins again.",
+            "shutterstock_query": "1962 algeria village well women drawing water from behind olive trees",
+            "ai_prompt": "Vertical realistic illustration of a stone well in a hillside village in the Algerian countryside in 1962, two North African women in plain long cotton dresses and head scarves drawing water with a bucket, seen from behind, flat-roofed white houses and olive trees behind them, soft morning light, calm everyday mood; 1960s rural dress only, no weapons, no soldiers, no flags, no signs, no recognizable faces, no modern vehicles, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "grade 12",
+          "title": "The Hard Years After",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Movement X ends European rule over one African country after another.",
+            "This freedom brings new problems as well as new hope.",
+            "New countries inherit borders drawn by outsiders, which often split families and old kingdoms.",
+            "In several new countries, one political party ends up ruling alone.",
+            "In some places, army officers seize power in sudden coups instead.",
+            "In Congo, independence in 1960 quickly turns into a deep crisis.",
+            "Its first prime minister, Patrice Lumumba, is removed from power and killed within a year.",
+            "The two great powers of this time often support different sides in African conflicts.",
+            "In Tanzania, the government moves many farming families into new planned villages called ujamaa villages.",
+            "Its aim is to share land, schools, and health care more fairly among everyone.",
+            "In practice, some villages gain new schools and clinics, but many farmers lose income and choice."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "African independence",
+            "The Arab nationalist movement",
+            "The Non-Aligned Movement",
+            "The Négritude movement"
+          ],
+          "correct": "African independence",
+          "words": [
+            {
+              "word": "borders",
+              "explanation": "lines that divide one country from another"
+            },
+            {
+              "word": "coups",
+              "explanation": "sudden takeovers of a government, usually by soldiers"
+            },
+            {
+              "word": "crisis",
+              "explanation": "a time of great danger or difficulty"
+            },
+            {
+              "word": "income",
+              "explanation": "the money a person or a family earns"
+            },
+            {
+              "word": "ujamaa",
+              "explanation": "a word in the language of Tanzania for living and working together as one family"
+            }
+          ],
+          "main_image": {
+            "description": "A small village clinic in Tanzania in the 1970s: a Black Tanzanian nurse in a plain white cotton dress weighs a baby on a hanging scale while mothers in plain kanga cloth without any pattern that reads as text wait on a wooden bench, all seen from behind or from the side, a simple whitewashed room with an open door to bright daylight. Production note: 1970s clothing and objects only, no signs, no posters, no flags, no recognizable faces, no readable labels, no modern medical equipment.",
+            "caption": "New clinics reach villages that never had one, but not every promise is kept.",
+            "shutterstock_query": "1970s tanzania village clinic nurse hanging scale baby mothers bench from behind",
+            "ai_prompt": "Wide realistic illustration of a small village clinic in Tanzania in the 1970s, a Black Tanzanian nurse in a plain white cotton dress weighing a baby on a hanging scale while mothers in plain kanga cloth without any pattern that reads as text wait on a wooden bench, all seen from behind or from the side, a simple whitewashed room with an open door to bright daylight, calm hopeful mood; 1970s clothing and objects only, no signs, no posters, no flags, no recognizable faces, no readable labels, no modern medical equipment, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "A planned Tanzanian village from the 1970s, rows of simple rectangular and round mud-and-thatch houses laid out neatly along a dirt street, with one long low building serving as a school at the end of the row, seen from a distance in soft afternoon light, a few distant Black Tanzanian figures working in nearby fields with no faces visible. Production note: no signs, no flags, no readable text, calm everyday mood, no modern buildings or vehicles, 1970s clothing only.",
+            "caption": "Ujamaa villages aim to bring schools and clinics closer to everyone.",
+            "shutterstock_query": "1970s tanzania planned village houses school row from distance",
+            "ai_prompt": "Vertical realistic illustration of a planned Tanzanian village from the 1970s, rows of simple rectangular and round mud-and-thatch houses laid out neatly along a dirt street, one long low building serving as a school at the end of the row, seen from a distance in soft afternoon light, a few distant Black Tanzanian figures working in nearby fields with no faces visible, calm everyday mood; no signs, no flags, no modern buildings, no vehicles, 1970s clothing only, no text, no letters, no numbers."
+          }
+        },
+        {
+          "level": "university",
+          "title": "Was It Real Freedom?",
+          "category": "twentieth century",
+          "text_sentences": [
+            "Movement X turns the colonies of Africa into independent states in the decades after 1945.",
+            "Historians still debate how complete this freedom really is.",
+            "Many new states inherit an economy built to export raw materials to old rulers.",
+            "Factories, ports, and railways still mostly serve markets outside Africa.",
+            "Some historians call this pattern flag independence: new symbols, old economic ties.",
+            "Even before most countries become free, leaders from Africa and Asia meet in Bandung in 1955.",
+            "There, they agree to stand together against colonial rule.",
+            "In 1961, many of them meet again in Belgrade and agree to stay non-aligned.",
+            "In Tanzania, leaders choose a path that mixes self-reliance with foreign aid.",
+            "Written speeches, plans, and later interviews record why these choices are made.",
+            "Historians compare these sources with harvest records and household survey data from the same years.",
+            "The evidence often supports mixed conclusions, not simple praise or simple blame."
+          ],
+          "question": "Which movement is Movement X?",
+          "options": [
+            "The Négritude movement",
+            "The Pan-African movement",
+            "African independence",
+            "The anti-apartheid movement"
+          ],
+          "correct": "African independence",
+          "words": [
+            {
+              "word": "economy",
+              "explanation": "how a country makes, uses, and trades goods and money"
+            },
+            {
+              "word": "raw materials",
+              "explanation": "natural things like metals, oil, or crops before they are made into products"
+            },
+            {
+              "word": "non-aligned",
+              "explanation": "not joining or siding with either of two powerful groups"
+            },
+            {
+              "word": "self-reliance",
+              "explanation": "depending mainly on your own work and resources"
+            },
+            {
+              "word": "survey",
+              "explanation": "a careful study that collects information by asking or measuring"
+            }
+          ],
+          "main_image": {
+            "description": "A busy African port in the 1960s, Black African dockworkers in plain shirts and shorts of the era guide a tall quay crane as it lifts a net full of wooden crates onto a large cargo ship at the quay, warehouses and a harbor town in the background, seen from a slight distance. Production note: no visible ship name, no flags, no readable labels on crates, no recognizable faces, calm working mood, 1960s clothing and equipment only, no modern shipping containers, no gangplank with sacks.",
+            "caption": "Ships still carry raw materials away, long after new flags are raised.",
+            "shutterstock_query": "1960s african port quay crane lifting cargo net crates ship dockworkers",
+            "ai_prompt": "Wide realistic illustration of a busy African port in the 1960s, Black African dockworkers in plain shirts and shorts of the era guiding a tall quay crane as it lifts a net full of wooden crates onto a large cargo ship at the quay, warehouses and a harbor town in the background, seen from a slight distance, warm daylight, calm working mood; no visible ship name, no flags, no readable labels, no recognizable faces, no modern shipping containers, no text, no letters, no numbers."
+          },
+          "side_image": {
+            "description": "Inside a 1960s warehouse near an African port, stacked plain burlap sacks of coffee beans and bales of raw cotton without any labels, a Black African dockworker in a plain 1960s shirt and shorts seen from behind, soft daylight through a high doorway. The picture explains the words 'raw materials'. Production note: no labels, no stencils, no flags, no recognizable faces, 1960s clothing and objects only, no modern shipping containers.",
+            "caption": "Coffee and cotton leave as raw goods and come back as costly products.",
+            "shutterstock_query": "1960s warehouse coffee sacks cotton bales african port worker from behind",
+            "ai_prompt": "Vertical realistic illustration of the inside of a 1960s warehouse near an African port, stacked plain burlap sacks of coffee beans and bales of raw cotton without any labels, a Black African dockworker in a plain 1960s shirt and shorts seen from behind, soft daylight through a high doorway, calm working mood; no labels, no stencils, no flags, no recognizable faces, no modern shipping containers, no text, no letters, no numbers."
+          }
+        }
+      ]
     }
   ]
 }
