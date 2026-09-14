@@ -144,6 +144,10 @@ Verifiera sidorna vid behov med Playwright: `node` + `playwright-core` med
 - Gifta kvinnor anonymiseras Mrs X = fru X (infört med Marie Curie, leverans 9).
 - Kategorietiketten `mathematics` (svenska: matematik) infördes med leverans 10;
   `ideas` och `exploration` återanvänds för idéhistoria och resenärer.
+- Leverans 11 införde `africa` (Afrika) för förkolonial afrikansk historia och
+  `colonialism` (kolonialism) för slavhandeln och kapplöpningen om Afrika;
+  självständigheten ligger under `twentieth century`. Etiketten får inte vara
+  en del av svaret, därför inte `africa` på de två sistnämnda seten.
 
 ## Rapportformat efter en körning
 

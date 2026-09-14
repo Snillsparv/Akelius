@@ -92,3 +92,8 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
   al-Khwarizmi, Ibn Sina, Visdomens hus i Bagdad, Ibn Battuta, Upplysningen.
   Etiketten `mathematics` infördes för matematikerna, i väntan på svar på
   fråga 2 i förslaget. Bilder väntar på påfyllda krediter hos bildtjänsten.
+- 2026-09-14: "Kör på" efter procentrapporten. Leverans 11 = Afrikablockets
+  femkortsämnen ur förslaget: Borlaug och gröna revolutionen, transatlantiska
+  slavhandeln, Mansa Musa och Mali, Swahilikusten, kapplöpningen om Afrika,
+  Afrikas självständighet. Nya etiketter `africa` och `colonialism`, lätta att
+  byta med sed och omimport om Jonas eller Roger vill annat.

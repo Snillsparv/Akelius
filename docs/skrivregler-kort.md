@@ -660,3 +660,175 @@ X?"); Upplysningen är Movement X med frågan "Which movement is Movement X?"
   encyklopedin, salongerna). Bilder: 1700-talets salong bakifrån,
   kaffehus, tryckeri utan läsbara sidor, en glob, inga porträtt, inga
   boktitlar.
+
+## Ämnesnoter, leverans 11
+
+Tredje leveransen ur den utökade listan, Afrikablockets femkortsämnen: rad
+86 Norman Borlaug och den gröna revolutionen, 87 transatlantiska
+slavhandeln, 88 Mansa Musa och Mali, 92 Swahilikusten, 93 kapplöpningen om
+Afrika, 94 Afrikas självständighet. Kategorier: `science` för Borlaug,
+`colonialism` (ny, svenska "kolonialism") för slavhandeln och
+kapplöpningen, `africa` (ny, svenska "Afrika") för Mansa Musa och
+Swahilikusten, `twentieth century` för självständigheten. Etiketten trycks
+på kortet och får inte vara en del av svaret; därför inte `africa` på
+kapplöpningen om Afrika eller Afrikas självständighet. Målgruppen sitter i
+Tanzania och Bhutan: Tanzanias egen historia (Kilwa, Zanzibar, Maji Maji,
+Tanganyika 1961) skrivs sakligt och med respekt, utan att bli skolbokens
+"vi".
+
+Anonymisering och frågor: Borlaug är Mr X; Mansa Musa är King X ("Who is
+King X?", svenska kung X); slavhandeln är Trade X ("Which trade is Trade X?",
+svenska "handeln X", "Vilken handel är handeln X?"); Swahilikusten är Place X
+("Which place is Place X?"); kapplöpningen är Event X ("Which event is Event
+X?"); självständigheten är Movement X ("Which movement is Movement X?").
+Svarsalternativen skrivs "Norman Borlaug", "The transatlantic slave trade",
+"Mansa Musa", "The Swahili coast", "The Scramble for Africa", "African
+independence".
+
+Känslighet, bindande: ingen gore, inga kedjor eller piskor i närbild, inga
+lidande kroppar; förslavade människor och koloniserade folk skildras med
+handlingskraft (motstånd, uppror, abolitionister av afrikanskt ursprung,
+segern vid Adwa), inte bara som offer; både afrikanska och europeiska
+aktörer i slavhandeln nämns sakligt, utan att skuld fördelas i procent;
+Kongofristatens grymheter och folkmordet på herero och nama nämns som
+faktum utan detaljer; Maji Maji och Mau Mau likaså. Islam som historia:
+ingen kalligrafi eller pseudoskrift i bilder, Kaba avbildas inte,
+pilgrimsfärden visas som karavan. Kartor i bild bara utan bokstäver.
+Tro markeras som tro.
+
+Korsläckor att vakta: inget av de sex seten namnger något av de andra fem
+("a rich king of Mali" i Swahilisetet är tillåtet men inte hans namn; i
+självständighetssetet skrivs inte "Scramble"; slavhandelssetet skriver
+"the rush for land in Africa" om det behövs). Befintliga set namnges inte i
+löptext: Ibn Battuta ("a traveler from Morocco"), Mandela ("a leader in the
+south who spends 27 years in prison" bara om det behövs), Gandhi, Martin
+Luther King, FN ("the world organization"), kalla kriget ("the two great
+powers"), världskrigen ("the war that ends in 1945"), Columbus, Magellan,
+Muhammed, Djingis khan, industriella och amerikanska revolutionen,
+Washington, Napoleon, Darwin, Pasteur, Churchill, Hitler. Julius Nyerere
+och Wangari Maathai är föreslagna framtida set och namnges inte i löptext
+("Tanzania's first president, a former teacher"), men får vara distraktorer.
+Kwame Nkrumah, Menelik II, Samori Touré, Olaudah Equiano, Frederick
+Douglass, Toussaint Louverture (framtida set 110, namnges inte, skriv "a
+successful revolt on a Caribbean island in 1791"), Leopold II, Bismarck får
+namnges där de behövs och är då inte distraktorer på det kortet.
+
+- **Norman Borlaug**: Mr X, `science`. Född 1914 på en gård i Iowa,
+  norskättad, studerade skogsbruk och sedan växtsjukdomar i Minnesota,
+  1944 till Mexiko i ett program finansierat av en amerikansk stiftelse
+  (Rockefeller får namnges), vete som stod emot rost, odling på två platser
+  med två skördar om året, kortstråigt vete med gener från Japan, Mexiko
+  självförsörjande på vete 1956, utsäde till Indien och Pakistan i mitten
+  av 1960-talet när hungersnöd hotade, skördarna fördubblades på några år,
+  Nobels fredspris 1970, uttrycket "green revolution" myntades 1968 av en
+  amerikansk tjänsteman (tillåten ledtråd, det är inte svaret), kritiken:
+  konstgödsel, bevattning och grundvatten, bekämpningsmedel, färre sorter,
+  skulder för småbönder, ojämn nytta, Afrika kom sent (hans arbete där på
+  1980-talet), död 2009. Universitet: har den gröna revolutionen mättat
+  eller skuldsatt, Vandana Shiva och kritikerna, jordbruket i Afrika i dag.
+  Fångar: "Borlaug", "Norman". Distraktorer: M. S. Swaminathan, Gregor
+  Mendel, Wangari Maathai, Fritz Haber, Yuan Longping, George Washington
+  Carver, Rachel Carson, Justus von Liebig, Luther Burbank, Louis Pasteur.
+  Bilder: vetefält i Mexiko, försöksodlingar, säckar utsäde utan text,
+  bondgård i Iowa på 1920-talet, inga porträtt, inga etiketter.
+- **The transatlantic slave trade**: Trade X, `colonialism`. Från 1500-talet
+  till 1860-talet, omkring 12,5 miljoner människor fördes ombord i Afrika
+  och omkring 10,7 miljoner kom fram (siffror från forskningsdatabasen,
+  skriv "historians count about"), tre ben: varor till Afrika, människor
+  till Amerika, socker, tobak och bomull till Europa, portugiserna först,
+  Brasilien tog emot flest, sockeröarna i Karibien näst flest, Nordamerika
+  bara några procent, afrikanska kungariken och köpmän sålde fångar (Kongos
+  kung Afonso protesterade i brev 1526, får namnges), överfarten sakligt
+  utan detaljer, motstånd: uppror på ungefär vart tionde skepp, förrymda
+  som byggde egna samhällen, revolten på en karibisk ö 1791, abolitionen:
+  Storbritannien förbjöd handeln 1807 och slaveriet i kolonierna 1833, USA
+  förbjöd införsel 1808 och slaveriet 1865, Brasilien sist 1888, Olaudah
+  Equianos bok 1789, Frederick Douglass, Zong 1781 sakligt. Universitet:
+  arvet, den afrikanska diasporan, rasismens rötter, minnesplatser och
+  debatten om gottgörelse. Fångar: "slave trade", "transatlantic",
+  "triangular trade"; orden "slave", "slavery", "enslaved", "trade" var för
+  sig är tillåtna, liksom "Atlantic" som hav. Distraktorer: The
+  trans-Saharan trade, The Indian Ocean trade, The Silk Road trade, The
+  spice trade, The fur trade, The sugar trade, The opium trade, The
+  Hanseatic trade. Bilder: hamnar, skepp på avstånd, sockerrörsfält, en
+  tom dörröppning mot havet, ett minnesmärke utan text, inga kedjor i
+  närbild, inga lidande människor, inga skeppsritningar.
+- **Mansa Musa**: King X, `africa`. Härskade omkring 1312-1337 över Mali,
+  riket kring Nigerfloden med guld och salt, pilgrimsfärden till Mecka
+  1324-1325 med en enorm karavan (siffrorna 60 000 människor och tusentals
+  kilo guld kommer från senare krönikörer, skriv "stories say"), gav bort
+  så mycket guld i Kairo att priset föll i flera år (en egyptisk lärd
+  skrev det tio år senare, skriv "a scholar in Cairo writes"), tog hem
+  lärda och en arkitekt som byggde moskén i Timbuktu 1327, Timbuktu som
+  lärdomsstad med handskrifter, kartan från 1375 som visar honom med en
+  guldklimp (beskriv inte kartan i bild, den är igenkännbar), "rikast i
+  historien" är modern spekulation (skriv "some people say, but nobody can
+  know"), rikets nedgång på 1400-talet, Songhai. Universitet: källorna, vad
+  krönikörerna ville visa, guldets väg till Europa och myntningen där.
+  Fångar: "Musa", "Mansa"; "Mali" och "Timbuktu" är tillåtna ledtrådar.
+  Distraktorer: Sundiata Keita, Sonni Ali, Askia Muhammad, Idris Alooma,
+  Osei Tutu, Shaka Zulu, Ezana of Aksum, Mutota. Bilder: karavan i öknen,
+  saltblock, lermoské på avstånd utan text, Nigerfloden, guldsand i
+  händer, inga kartor med text, ingen Kaba.
+- **The Swahili coast**: Place X, `africa`. Kusten från Mogadishu till
+  Kilwa och Sofala, stadsstater som Kilwa, Mombasa, Malindi, Zanzibar, Lamu,
+  blomstring 700-1400-talen, monsunhandel med Arabien, Persien, Indien och
+  Kina (kinesiskt porslin i Kilwa, en väldig flotta från Kina besökte
+  kusten på 1410-talet, amiralen namnges inte), export av guld från inlandet
+  via Sofala, elfenben, och förslavade människor (nämns sakligt, kort),
+  import av tyg, porslin, pärlor, hus och moskéer av korallsten, Kilwas
+  egna mynt, språket: ett afrikanskt bantuspråk med många lånord från
+  arabiskan, i dag talat av över hundra miljoner och nationalspråk i
+  Tanzania (språkets namn är svaret, skrivs aldrig), islam från 700-talet,
+  portugiserna 1498 och plundringen av Kilwa 1505, Oman från 1698,
+  Zanzibars kryddnejlikor och slavhandel på 1800-talet. Universitet: vem
+  byggde Kilwa, den gamla myten om "arabiska kolonier" mot arkeologin som
+  visar afrikanska städer, arvet i dagens Tanzania. Fångar: "Swahili",
+  "Kiswahili", "Zanj". Distraktorer: The Gold Coast, The Malabar Coast,
+  The Horn of Africa, The Red Sea coast, The Cape of Good Hope, The
+  Coromandel Coast, The Barbary Coast, The Slave Coast. Bilder: dhow med
+  latinsegel, korallstensruiner, hamn med monsunmoln, kryddnejlikor,
+  porslinsskärvor utan mönstertext, inga kartor med text, ingen kalligrafi.
+- **The Scramble for Africa**: Event X, `colonialism`. Omkring 1870 styrde
+  européer omkring en tiondel av Afrika, 1914 nästan allt utom Etiopien
+  och Liberia, konferensen i Berlin 1884-1885 (Bismarck får namnges, inga
+  afrikanska delegater, regler för att göra anspråk, Kongo till Leopold II
+  personligen), kinin, ångbåtar och maskingeväret gjorde erövringen möjlig,
+  Kongofristatens gummitvång och grymheter sakligt utan detaljer, motstånd:
+  Adwa 1896 där Etiopien under Menelik II besegrade Italien, Samori Touré,
+  Maji Maji-upproret 1905-1907 i Tyska Östafrika (dagens Tanzania, tiotusentals
+  eller fler döda, de flesta av svält, skriv "tens of thousands"), folkmordet på
+  herero och nama 1904-1908 som Tyskland erkände 2021, gränser dragna med
+  linjal som delade folk och som till stor del består i dag. Universitet:
+  varför just då, ekonomiska och politiska förklaringar, arvet för dagens
+  stater, historikerdebatten. Fångar: "Scramble", "partition of Africa";
+  "Africa", "Berlin" och "conference" är tillåtna. Distraktorer: The
+  Crusades, The Age of Exploration, The Opium Wars, The Great Game, The
+  Partition of India, The Congress of Vienna, The Boer War, The Suez
+  Crisis. Bilder: konferensbord bakifrån utan kartor med text, ångbåt på
+  flod, bergslandskap vid Adwa utan strid, gränsstolpe i savann, inga
+  flaggor, inga vapen i närbild.
+- **African independence**: Movement X, `twentieth century`. Libyen 1951,
+  Sudan 1956, Ghana 1957 med Kwame Nkrumah (får namnges) som första land
+  söder om Sahara, Guinea 1958 som sa nej till Frankrike, 1960 som Afrikas
+  år med sjutton nya stater, Tanganyika 1961 under en lärare som blev
+  president (namnges inte), unionen med Zanzibar 1964 blev Tanzania, Kenya
+  1963 efter Mau Mau-upproret och de brittiska lägren, Algeriet 1962 efter
+  ett krig med hundratusentals döda, de portugisiska kolonierna 1975 efter
+  krig, Zimbabwe 1980, Namibia 1990, majoritetsstyre i söder 1994 (setet
+  namnges inte), OAU 1963 i Addis Abeba, de två stormakternas inblandning
+  (kalla kriget namnges inte), Bandung 1955, Kongokrisen 1960 och mordet på
+  Lumumba 1961 sakligt, ärvda gränser, enpartistater och kupper, ujamaa i
+  Tanzania sakligt med både mål och resultat. Universitet: var det verklig
+  frihet, ekonomiskt beroende, historikerna om "flag independence", vad
+  Tanzania valde. Fångar: "African independence", "independence of Africa",
+  "decolonization", "decolonisation"; orden "independence", "independent",
+  "free" och "Africa" var för sig är tillåtna. Svenska: skriv "i Afrika",
+  aldrig genitiven "Afrikas", och aldrig "avkolonisering". Distraktorer: The
+  civil rights movement, The Indian independence movement, The Non-Aligned
+  Movement, The anti-apartheid movement, The Négritude movement, The labor
+  movement, The Arab nationalist movement, The Pan-African movement (bara
+  där ledtrådarna tydligt handlar om stater som blir fria). Bilder:
+  folkmassa bakifrån på en plan, en flaggstång utan flagga i gryning,
+  skolbarn i en ny skola bakifrån, en lärares kateder, inga flaggor med
+  färger som pekar ut ett land, inga porträtt, ingen text.
