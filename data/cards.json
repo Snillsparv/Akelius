@@ -31153,6 +31153,50 @@
             "caption": "A plant disease can turn healthy wheat brown and make it fall.",
             "shutterstock_query": "sick wheat plant brown wilted leaves close up healthy field",
             "ai_prompt": "Photorealistic vertical close-up of a single sickly wheat plant with brown, wilted leaves and a bent stem standing among tall healthy green wheat stalks, soft morning light, dew drops visible, no people, no hands, no modern equipment, no readable tags or markers, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En bondpojke i Iowa som studerar sjuka växter",
+            "text_sentences": [
+              "Herr X växer upp på en liten gård i Iowa, i USA.",
+              "Som pojke arbetar han utomhus på gården varje dag.",
+              "Han studerar skog på universitetet, men väljer sedan en ny väg.",
+              "I stället börjar han studera sjuka växter på gårdar.",
+              "Herr X blir en vetenskapsman som arbetar med vete.",
+              "Vissa veteplantor växer sig höga och svaga, och faller omkull i vinden.",
+              "Vissa veteplantor får en sjukdom och blir bruna och dör.",
+              "Herr X förädlar nytt vete med korta, styva strån som inte faller omkull.",
+              "Hans nya vete kan också stå emot växtsjukdomen.",
+              "I många länder slår skördarna fel, och människor svälter.",
+              "Fartyg fraktar hans speciella frön till de här länderna, och skördarna blir större."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "M. S. Swaminathan",
+              "Norman Borlaug",
+              "George Washington Carver",
+              "Luther Burbank"
+            ],
+            "correct": "Norman Borlaug",
+            "words": [
+              {
+                "word": "förädla",
+                "explanation": "att välja ut växter eller djur så att deras ungar får de egenskaper man vill ha"
+              },
+              {
+                "word": "strå",
+                "explanation": "den långa, smala stjälken på en veteplanta"
+              },
+              {
+                "word": "styv",
+                "explanation": "svår att böja"
+              },
+              {
+                "word": "skörd",
+                "explanation": "det som bönder samlar in från sina fält"
+              }
+            ],
+            "main_caption": "Som pojke arbetar herr X varje dag på familjens lilla gård.",
+            "side_caption": "En växtsjukdom kan göra friskt vete brunt och få det att falla omkull."
           }
         },
         {
@@ -31205,6 +31249,46 @@
             "caption": "This orange-brown disease on wheat is called rust.",
             "shutterstock_query": "wheat rust disease orange brown leaves close up",
             "ai_prompt": "Photorealistic close-up of green wheat stems and leaves covered with small rusty orange-brown patches of plant disease, a few unaffected healthy green leaves beside them, soft natural daylight, no people, no hands, no modern equipment, no readable labels, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Två skördar om året och vete som bekämpar rost",
+            "text_sentences": [
+              "På 1940-talet skickar Rockefellerstiftelsen herr X till Mexiko.",
+              "Mexikanska vetebönder förlorar hela fält på grund av en växtsjukdom som kallas rost.",
+              "Rost ger vetets strån och blad en rostig orange färg.",
+              "Herr X flyttar frön mellan två gårdar i olika delar av Mexiko.",
+              "Den ena gården ligger högt uppe i bergen, den andra lågt nära kusten.",
+              "De två platserna har olika årstider, så han får två skördar varje år.",
+              "Vanlig växtförädling ger bara en långsam generation per år.",
+              "Herr X dubblar takten och testar nytt vete dubbelt så snabbt.",
+              "Han förädlar vete som kan stå emot rostsjukdomen.",
+              "Bönder planterar hans nya vete över hela landet.",
+              "År 1956 odlar Mexiko tillräckligt med vete för att mätta sin egen befolkning."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Norman Borlaug",
+              "Yuan Longping",
+              "Justus von Liebig",
+              "Fritz Haber"
+            ],
+            "correct": "Norman Borlaug",
+            "words": [
+              {
+                "word": "rost",
+                "explanation": "en växtsjukdom som gör att strån och blad blir orangebruna"
+              },
+              {
+                "word": "stiftelse",
+                "explanation": "en grupp som ger pengar för att hjälpa viktigt arbete"
+              },
+              {
+                "word": "generation",
+                "explanation": "en omgång växter eller djur som får ungar"
+              }
+            ],
+            "main_caption": "I Mexiko testar herr X många sorters vete sida vid sida.",
+            "side_caption": "Den här orangebruna sjukdomen på vete kallas rost."
           }
         },
         {
@@ -31262,6 +31346,51 @@
             "caption": "Ships carry tons of new seed across the ocean to farmers who need it.",
             "shutterstock_query": "cargo ship dock 1960s crane sacks pallets port",
             "ai_prompt": "Photorealistic vertical image of a large cargo ship docked at a busy port in the 1960s, a tall dock crane lifting a cargo net full of plain burlap sacks into the ship's open hold, more sacks stacked on wooden pallets on the quay, dockworkers in plain 1960s work clothes and cloth caps guiding the loads, seen from a respectful distance in early morning light, 1960s cargo ship with a straight funnel. No readable text or markings on the sacks, no flag or name visible on the ship's hull, no shipping containers, no modern cranes, no close-up faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Fartyg med frön till Indien och Pakistan",
+            "text_sentences": [
+              "I mitten av 1960-talet står Indien och Pakistan inför ett fruktansvärt hot om hungersnöd.",
+              "Regnet uteblir, och skördarna blir små.",
+              "De gamla vetesorterna växer sig höga och faller omkull i vind och regn.",
+              "Tjänstemän ber herr X att ta med sitt nya vete från Mexiko.",
+              "Fartyg fraktar tusentals ton av hans frön över havet.",
+              "Lastbilar och tåg kör snabbt säckarna med frön till gårdarna innan såtiden är slut.",
+              "Bönder planterar det korta, starka vetet på miljontals små fält.",
+              "De ger mer vatten och mer växtnäring för att hjälpa det att växa.",
+              "Inom några år fördubblas nästan veteskördarna i båda länderna.",
+              "Färre människor dör av svält än vad experter tidigare fruktade.",
+              "År 1968 ger en amerikansk tjänsteman hela förändringen namnet den gröna revolutionen.",
+              "År 1970 får herr X Nobels fredspris för sitt arbete."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "M. S. Swaminathan",
+              "Fritz Haber",
+              "Norman Borlaug",
+              "Louis Pasteur"
+            ],
+            "correct": "Norman Borlaug",
+            "words": [
+              {
+                "word": "hungersnöd",
+                "explanation": "en tid när det inte finns tillräckligt med mat till många människor"
+              },
+              {
+                "word": "tjänsteman",
+                "explanation": "en person som arbetar för staten"
+              },
+              {
+                "word": "sort",
+                "explanation": "en särskild typ av en växt, som skiljer sig från andra typer"
+              },
+              {
+                "word": "säck",
+                "explanation": "en stor, stark påse som ofta används till säd eller frön"
+              }
+            ],
+            "main_caption": "På 1960-talet får bönder i Sydasien in mycket större veteskördar.",
+            "side_caption": "Fartyg fraktar tonvis med nya frön över havet till bönder som behöver dem."
           }
         },
         {
@@ -31319,6 +31448,51 @@
             "caption": "In some places, the water deep underground slowly drops.",
             "shutterstock_query": "deep stone well rope bucket looking down water level",
             "ai_prompt": "Photorealistic vertical image looking down into a deep, hand-dug stone well, a rope and a plain wooden bucket hanging just above the visible water line far below, dry cracked earth around the rim, soft natural light from above, no people, no readable markings, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Konstgödsel, sjunkande vatten och skulder på små gårdar",
+            "text_sentences": [
+              "Herr X förädlar sitt korta, starka vete i Mexiko.",
+              "På 1970-talet planterar bönder det i stora delar av Asien.",
+              "Det nya vetet behöver mycket mer konstgödsel än det gamla vetet gjorde.",
+              "Det behöver också jämn tillgång till vatten, så bönder gräver hundratusentals nya brunnar.",
+              "Pump efter pump lyfter upp vatten ur marken, och på vissa platser sjunker vattennivån långsamt.",
+              "Bönder sprutar bekämpningsmedel för att skydda de värdefulla unga plantorna från insekter.",
+              "Fält som en gång odlade många gamla vetesorter odlar nu bara några få nya.",
+              "Att förlora så många sorter oroar forskare som studerar växter.",
+              "Småbönder lånar pengar till frön, konstgödsel och vattenpumpar.",
+              "En dålig skörd kan göra att en liten bondefamilj hamnar djupt i skuld.",
+              "Herr X själv säger att det nya vetet bara ger världen mer tid.",
+              "Hans arbete i Afrika från 1986 når bara några få länder."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "M. S. Swaminathan",
+              "Yuan Longping",
+              "Fritz Haber",
+              "Norman Borlaug"
+            ],
+            "correct": "Norman Borlaug",
+            "words": [
+              {
+                "word": "konstgödsel",
+                "explanation": "växtnäring som tillsätts jorden för att hjälpa grödor att växa"
+              },
+              {
+                "word": "bekämpningsmedel",
+                "explanation": "kemikalier som används för att döda insekter som skadar grödor"
+              },
+              {
+                "word": "skuld",
+                "explanation": "pengar som en person är skyldig och måste betala tillbaka"
+              },
+              {
+                "word": "brunn",
+                "explanation": "ett djupt hål som grävs för att nå vatten under marken"
+              }
+            ],
+            "main_caption": "Nytt vete behöver mycket mer vatten och konstgödsel än den gamla sorten gjorde.",
+            "side_caption": "På vissa platser sjunker grundvattnet sakta allt djupare."
           }
         },
         {
@@ -31375,9 +31549,54 @@
             "caption": "In Africa, farmers and researchers still test what works best on small farms.",
             "shutterstock_query": "crop research plot small farm east africa farmer kneeling",
             "ai_prompt": "Photorealistic vertical image of a modest crop research plot on a small farm in a dry East African landscape today, low rows of young maize and bean plants growing in reddish soil, a Black African farmer in plain cotton work clothes without logos seen from behind kneeling to examine a row of plants, distant hills under a wide open sky, warm afternoon light. No face visible, no readable signs or labels, no logos, no vehicles, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Att mätta världen eller fördjupa dess skuld",
+            "text_sentences": [
+              "Historiker debatterar fortfarande det verkliga arvet efter herr X:s korta, starka vete.",
+              "Anhängare säger att hans vete räddar hundratals miljoner människor från svält.",
+              "Kritiker, som Vandana Shiva, säger att det nya jordbruket skadar småbönder och miljön.",
+              "Hon säger att hunger kommer från orättvis fördelning av mat, inte från för lite säd.",
+              "En annan forskare påpekar att stora markägare ofta tjänar mer än vad småbönder gör.",
+              "Vissa historiker frågar sig om den fruktade hungersnöden verkligen skulle ha kommit utan hans vete.",
+              "Skörderegister och statlig statistik visar att avkastningen steg kraftigt.",
+              "Intervjuer med bönder avslöjar kostnader som officiella siffror inte alltid visar.",
+              "I Afrika i dag använder många småbönder fortfarande bara lite konstgödsel och sina egna sparade frön.",
+              "Forskare tvistar fortfarande om rätt väg för jordbruket i Afrika.",
+              "Vissa vill ha nya frön och konstgödsel, andra vill ha många grödor och lokal kunskap."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Wangari Maathai",
+              "Norman Borlaug",
+              "Yuan Longping",
+              "George Washington Carver"
+            ],
+            "correct": "Norman Borlaug",
+            "words": [
+              {
+                "word": "arv",
+                "explanation": "den bestående effekten av någons arbete efter att personen är borta"
+              },
+              {
+                "word": "statistik",
+                "explanation": "siffror som samlas in för att studera fakta, som skördar eller människor"
+              },
+              {
+                "word": "avkastning",
+                "explanation": "mängden gröda som ett fält ger"
+              },
+              {
+                "word": "forskare",
+                "explanation": "en person som studerar ett ämne djupt, ofta på ett universitet"
+              }
+            ],
+            "main_caption": "Forskare lyssnar på bönder för att lära sig vad siffrorna inte visar.",
+            "side_caption": "I Afrika testar bönder och forskare fortfarande vad som fungerar bäst på små gårdar."
           }
         }
-      ]
+      ],
+      "person_sv": "Norman Borlaug"
     },
     {
       "slug": "transatlantic-slave-trade",
@@ -31437,6 +31656,50 @@
             "caption": "An empty stone doorway once opened onto ships waiting on the sea.",
             "shutterstock_query": "stone doorway coastal fort opening to sea historical memorial illustration",
             "ai_prompt": "Vertical photorealistic illustration of a wide stone doorway set into a thick fortress wall, framing an empty view of the open sea beyond, bare weathered stone floor and walls, nobody standing in the doorway, calm solemn late afternoon light, 1700s fort architecture only; no readable plaque, no inscriptions, no people, no chains, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Skepp som korsar havet i hundratals år",
+            "text_sentences": [
+              "Handeln X pågår i hundratals år, från 1500-talet till 1800-talet.",
+              "Skepp seglar från Europa till Afrika, och sedan över havet.",
+              "De för bort människor från deras hem i Afrika.",
+              "Ingen frågar dessa människor om de vill följa med.",
+              "Den långa resan över havet tar många hårda veckor.",
+              "På andra sidan havet tvingar nya ägare människorna att arbeta.",
+              "Dessa förslavade arbetare sliter på gårdar långt borta, utan någon lön.",
+              "Ägare skiljer ofta åt män, hustrur och barn.",
+              "Många familjer ser aldrig varandra igen.",
+              "Några av de förslavade människorna gör motstånd, flyr eller köper sig fria.",
+              "Sakta säger fler och fler människor att detta är fel."
+            ],
+            "question": "Vilken handel är handeln X?",
+            "options": [
+              "Sidenvägens handel",
+              "Transatlantiska slavhandeln",
+              "Kryddhandeln",
+              "Pälshandeln"
+            ],
+            "correct": "Transatlantiska slavhandeln",
+            "words": [
+              {
+                "word": "förslavad",
+                "explanation": "tvingad att arbeta utan lön, och ägd av en annan person"
+              },
+              {
+                "word": "ägare",
+                "explanation": "människor som har makt över en annan person eller sak"
+              },
+              {
+                "word": "skilja åt",
+                "explanation": "att hålla människor eller saker isär från varandra"
+              },
+              {
+                "word": "slita",
+                "explanation": "att göra hårt, tröttsamt kroppsarbete"
+              }
+            ],
+            "main_caption": "Ett stenfort vaktar kusten där skepp ligger för ankar.",
+            "side_caption": "En tom dörröppning i sten öppnade sig en gång mot skepp som väntade på havet."
           }
         },
         {
@@ -31494,6 +31757,51 @@
             "caption": "Sugar cane fields like these send their harvest across the ocean to Europe.",
             "shutterstock_query": "sugar cane field plantation caribbean historical illustration distant workers",
             "ai_prompt": "Vertical photorealistic illustration of rows of tall green sugar cane stretching across a Caribbean plantation field under a bright sky, a few Black workers in plain 1700s cotton clothing moving between the rows far in the background, calm working mood, 1700s-1800s clothing and hand tools only; no visible distress, no whips, no overseers, no chains, no violence, no modern machinery, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Tre steg över havet",
+            "text_sentences": [
+              "Den vanliga bilden av handeln X visar tre steg över havet.",
+              "Först fraktar skepp varor från Europa till Afrikas kust.",
+              "Där byter köpmän dessa varor mot fångar.",
+              "Sedan tar skeppen dessa fångar över havet till Amerika.",
+              "Till sist tar skeppen socker, tobak och bomull tillbaka till Europa.",
+              "Portugal startar denna handel före något annat europeiskt land.",
+              "Brasilien tar senare emot fler människor än någon annan plats.",
+              "Sockeröar i Karibien tar emot det näst största antalet.",
+              "Bara en liten andel av människorna kommer till det blivande USA.",
+              "Vissa afrikanska kungar och köpmän säljer fångar mot varor och skjutvapen.",
+              "År 1526 skriver kung Afonso av Kongo till kungen av Portugal.",
+              "Hans brev protesterar mot att handlare för bort hans eget folk."
+            ],
+            "question": "Vilken handel är handeln X?",
+            "options": [
+              "Transsaharahandeln",
+              "Handeln över Indiska oceanen",
+              "Transatlantiska slavhandeln",
+              "Opiumhandeln"
+            ],
+            "correct": "Transatlantiska slavhandeln",
+            "words": [
+              {
+                "word": "köpmän",
+                "explanation": "människor som köper och säljer varor, ofta över långa avstånd"
+              },
+              {
+                "word": "fångar",
+                "explanation": "människor som fångas och hålls kvar med tvång"
+              },
+              {
+                "word": "protestera",
+                "explanation": "att säga bestämt att något är fel"
+              },
+              {
+                "word": "andel",
+                "explanation": "en del av en total mängd"
+              }
+            ],
+            "main_caption": "Handlare möts vid en flodhamn och byter varor som kommit långt bortifrån.",
+            "side_caption": "Sockerrörsfält som dessa skickar sin skörd över havet till Europa."
           }
         },
         {
@@ -31550,6 +31858,50 @@
             "caption": "A closed book like this one carries a life story across the ocean to new readers.",
             "shutterstock_query": "candlelit writing desk closed book quill inkwell eighteenth century illustration",
             "ai_prompt": "Vertical photorealistic illustration of a small wooden writing desk lit by a single candle, a closed plain leather-bound book with an unmarked cover resting beside an inkwell and a quill pen, warm intimate candlelight, 1780s furnishings only; no person visible, no open pages, no readable text, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Motstånd över havet",
+            "text_sentences": [
+              "Handeln X möter motstånd i nästan varje steg.",
+              "Historiker räknar till uppror på ungefär var tionde resa.",
+              "Fångar ombord slåss ibland mot besättningen, eller vägrar äta.",
+              "På land lyckas några förslavade människor fly in i skogar eller berg.",
+              "De som har flytt bygger egna fria samhällen, långt från alla plantager.",
+              "År 1789 ger en tidigare förslavad man vid namn Olaudah Equiano ut sin egen livshistoria.",
+              "Hans bok beskriver resan och berör många läsare i Storbritannien.",
+              "Den blir ett viktigt redskap i den växande kampen för att få slut på handeln X.",
+              "År 1791 börjar ett lyckat uppror på en karibisk ö.",
+              "Inom några år vinner människorna där sin frihet med vapen i hand.",
+              "Deras nya stat är den första i Amerika som grundas av tidigare förslavade människor."
+            ],
+            "question": "Vilken handel är handeln X?",
+            "options": [
+              "Transatlantiska slavhandeln",
+              "Sockerhandeln",
+              "Hansans handel",
+              "Kryddhandeln"
+            ],
+            "correct": "Transatlantiska slavhandeln",
+            "words": [
+              {
+                "word": "uppror",
+                "explanation": "tillfällen då människor reser sig tillsammans och kämpar mot dem som har makten"
+              },
+              {
+                "word": "fly",
+                "explanation": "att ta sig bort från en plats där man hålls kvar eller tvingas stanna"
+              },
+              {
+                "word": "samhällen",
+                "explanation": "grupper av människor som lever tillsammans och stöttar varandra"
+              },
+              {
+                "word": "ge ut",
+                "explanation": "att göra en bok klar och sprida den så att människor kan läsa den"
+              }
+            ],
+            "main_caption": "Högt uppe i bergen bygger människor som har flytt ett eget fritt samhälle.",
+            "side_caption": "En sluten bok som denna för en livshistoria över havet till nya läsare."
           }
         },
         {
@@ -31607,6 +31959,51 @@
             "caption": "A court in London later hears the shocking case of a ship named the Zong.",
             "shutterstock_query": "empty eighteenth century london courtroom wooden benches historical illustration",
             "ai_prompt": "Vertical photorealistic illustration of a plain 1780s London courtroom seen from the back of the room, rows of empty wooden benches facing a raised judge's bench and an empty witness stand, tall windows letting in grey daylight, a stack of closed papers on a table, calm still mood, 1780s furnishings only; no people, no readable text on any paper or wall, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Handeln upphör, steg för steg",
+            "text_sentences": [
+              "Handeln X upphör sakta, land för land, under många årtionden.",
+              "År 1781 tvingar besättningen på ett skepp vid namn Zong fler än hundra sjuka fångar ut i havet.",
+              "Ägarna begär sedan försäkringspengar för de människor som besättningen dödade.",
+              "Nyheten om fallet upprör många människor i Storbritannien.",
+              "År 1807 förbjuder Storbritannien sina skepp att föra fångar över havet.",
+              "Året efter förbjuder USA att nya fångar förs in i landet.",
+              "Ändå fortsätter själva slaveriet på många platser i årtionden till.",
+              "År 1833 antar Storbritannien en lag för att avskaffa slaveriet i sina kolonier.",
+              "Slaveriet där upphör 1834, men de frigivna måste arbeta för sina gamla ägare i fyra år till.",
+              "År 1865 avskaffar USA slaveriet efter ett långt inbördeskrig.",
+              "Brasilien är det sista landet i Amerika som avskaffar slaveriet, år 1888.",
+              "Varje ny lag lämnar efter sig nya kamper för lika rättigheter."
+            ],
+            "question": "Vilken handel är handeln X?",
+            "options": [
+              "Transsaharahandeln",
+              "Pälshandeln",
+              "Handeln över Indiska oceanen",
+              "Transatlantiska slavhandeln"
+            ],
+            "correct": "Transatlantiska slavhandeln",
+            "words": [
+              {
+                "word": "försäkringspengar",
+                "explanation": "pengar som betalas för att täcka förlusten av något, som ett skepp eller dess last"
+              },
+              {
+                "word": "årtionden",
+                "explanation": "perioder på tio år"
+              },
+              {
+                "word": "inbördeskrig",
+                "explanation": "ett krig som utkämpas mellan grupper inom ett och samma land"
+              },
+              {
+                "word": "kamper",
+                "explanation": "hårda och långa ansträngningar för att uppnå något svårt"
+              }
+            ],
+            "main_caption": "Örlogsfartyg börjar patrullera kusten och stoppar skepp som fortfarande har fångar ombord.",
+            "side_caption": "En domstol i London tar senare upp det upprörande fallet om ett skepp vid namn Zong."
           }
         },
         {
@@ -31664,9 +32061,55 @@
             "caption": "Today, quiet memorials like this one stand at old ports around the ocean.",
             "shutterstock_query": "plain stone memorial coastline visitors modern historical illustration",
             "ai_prompt": "Vertical photorealistic illustration of a plain smooth stone monument standing on a quiet coastline facing the sea, its surface bare of any inscription, a small mixed group of Black and white visitors in plain modern clothing standing respectfully at a distance, calm reflective mood; no flags, no plaque, no inscription, no country symbols, no logos, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Vad dokumenten berättar för historiker",
+            "text_sentences": [
+              "Historiker studerar nu handeln X med hjälp av en enorm digital databas.",
+              "Den samlar uppgifter från tusentals enskilda resor över flera århundraden.",
+              "Historiker räknar till omkring tolv och en halv miljon människor som togs ombord, och omkring tio och en halv miljon som nådde land.",
+              "Uppgifterna visar att skepp från Portugal och Brasilien för bort flest människor, och under längst tid.",
+              "Många av dessa skepp seglar direkt mellan Brasilien och Angola och tillbaka, inte i tre steg.",
+              "Handeln lämnar också ett bestående avtryck över hela den moderna världen.",
+              "Miljontals ättlingar till bortförda afrikaner lever nu i hela Amerika.",
+              "Tillsammans utgör de det som människor ofta kallar den afrikanska diasporan.",
+              "Historiker spårar också vissa moderna rasistiska idéer tillbaka till gamla texter som en gång försvarade handeln X.",
+              "I dag markerar minnesplatser och museer gamla hamnar och avreseplatser.",
+              "Vissa människor efterlyser i dag gottgörelse, det vill säga handling eller betalning för den skada som skedde.",
+              "Historiker och regeringar är fortfarande oense om detta ska göras, och i så fall hur."
+            ],
+            "question": "Vilken handel är handeln X?",
+            "options": [
+              "Sidenvägens handel",
+              "Transatlantiska slavhandeln",
+              "Opiumhandeln",
+              "Hansans handel"
+            ],
+            "correct": "Transatlantiska slavhandeln",
+            "words": [
+              {
+                "word": "databas",
+                "explanation": "en stor, organiserad samling information som sparas för forskning"
+              },
+              {
+                "word": "ättlingar",
+                "explanation": "människor som är släkt med människor som levde långt före dem"
+              },
+              {
+                "word": "diaspora",
+                "explanation": "en stor grupp människor som nu lever spridda långt från sitt ursprungliga hemland"
+              },
+              {
+                "word": "gottgörelse",
+                "explanation": "en handling eller betalning som ska rätta till en gammal orätt"
+              }
+            ],
+            "main_caption": "Historiker studerar nu tusentals gamla resor, samlade i ett enda stort arkiv.",
+            "side_caption": "I dag står tysta minnesmärken som detta vid gamla hamnar runt havet."
           }
         }
-      ]
+      ],
+      "person_sv": "Transatlantiska slavhandeln"
     },
     {
       "slug": "mansa-musa",
@@ -31725,6 +32168,49 @@
             "caption": "Traders sell salt, cloth, and grain in a town by the river.",
             "shutterstock_query": "west african market cloth salt blocks baskets mud brick town historical",
             "ai_prompt": "Photorealistic vertical view of a small market in a fourteenth-century West African mud-brick town: Black West African traders in plain cotton robes and indigo-blue wraps seen from behind, piles of folded white and indigo cotton cloth, woven baskets of grain, and a few pale flat blocks of salt laid on woven mats on the ground, warm midday light, mud-brick walls behind, no camels, no animals, no modern goods, no plastic, no signs, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no recognisable face on any figure, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "En kungs land av guld och salt",
+            "text_sentences": [
+              "Kung X lever i Västafrika, för ungefär sjuhundra år sedan.",
+              "Hans land ligger vid en stor flod.",
+              "I söder vaskar människor guldsand ur sanden vid floden.",
+              "I norr hugger arbetare saltblock ur marken i öknen.",
+              "Handlare fraktar salt söderut och guld norrut på kameler.",
+              "Kung X tar en andel av all denna handel.",
+              "Det gör honom mycket rik.",
+              "Han styr många städer längs floden.",
+              "Folk kallar hans kungarike Mali.",
+              "Senare gör han en berömd resa till en helig stad långt borta."
+            ],
+            "question": "Vem är kung X?",
+            "options": [
+              "Mansa Musa",
+              "Sundiata Keita",
+              "Shaka Zulu",
+              "Osei Tutu"
+            ],
+            "correct": "Mansa Musa",
+            "words": [
+              {
+                "word": "öken",
+                "explanation": "ett mycket hett och torrt land med mycket sand och lite vatten"
+              },
+              {
+                "word": "kameler",
+                "explanation": "stora ökendjur som kan bära tunga laster i många dagar"
+              },
+              {
+                "word": "andel",
+                "explanation": "en del av en större mängd, till exempel av pengar"
+              },
+              {
+                "word": "helig",
+                "explanation": "mycket speciell och viktig inom en religion"
+              }
+            ],
+            "main_caption": "Vid en stor flod vaskar folk guld ur sanden.",
+            "side_caption": "Handlare säljer salt, tyg och säd i en stad vid floden."
           }
         },
         {
@@ -31781,6 +32267,50 @@
             "caption": "A scholar in Cairo asks people what they saw, then writes it down.",
             "shutterstock_query": "medieval scholar courtyard cairo listening travelers illustration",
             "ai_prompt": "Photorealistic scene in a shaded courtyard in fourteenth-century Cairo: a brown-skinned Egyptian scholar in a plain 1300s turban and robe sits cross-legged on a low bench listening to two brown-skinned men of Cairo in plain 1300s Egyptian robes and turbans, a closed leather-bound book and a reed pen resting on the low wooden desk beside him, all faces turned away or in shadow, sandstone walls and an arched doorway behind, soft daylight, no open pages, no electric lamps, no modern clothing, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no recognisable face, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "Karavanen till en helig stad",
+            "text_sentences": [
+              "Kung X styr ett rike i Västafrika som blir rikt tack vare guld och salt.",
+              "Kung X är muslim.",
+              "Muslimer tror att varje troende som har möjlighet bör besöka den heliga staden Mecka en gång i livet.",
+              "År 1324 lämnar han sitt rike för denna stora resa.",
+              "Berättelser säger att hans karavan har många tusen människor.",
+              "Berättelser säger att den för med sig flera ton guld.",
+              "Berättelser säger att han ger guld till fattiga människor längs vägen.",
+              "På vägen stannar han i staden Kairo.",
+              "Omkring tio år senare skriver en lärd i Kairo om besöket.",
+              "Han säger att kung X gav bort så mycket guld att priset på guld sjönk i flera år.",
+              "Hela resan tar mer än ett år."
+            ],
+            "question": "Vem är kung X?",
+            "options": [
+              "Mansa Musa",
+              "Sonni Ali",
+              "Ezana av Aksum",
+              "Idris Alooma"
+            ],
+            "correct": "Mansa Musa",
+            "words": [
+              {
+                "word": "rike",
+                "explanation": "en stor grupp länder och folk som styrs av en enda kung eller drottning"
+              },
+              {
+                "word": "karavan",
+                "explanation": "en grupp människor och djur som reser tillsammans"
+              },
+              {
+                "word": "ton",
+                "explanation": "en mycket stor vikt, ett ton är tusen kilogram"
+              },
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar och kan mycket"
+              }
+            ],
+            "main_caption": "En stor karavan korsar öknen på en lång resa.",
+            "side_caption": "En lärd i Kairo frågar människor vad de har sett, och skriver sedan ner det."
           }
         },
         {
@@ -31837,6 +32367,50 @@
             "caption": "Old handwritten pages are still kept safe today.",
             "shutterstock_query": "old manuscript pages hands close up leather bound",
             "ai_prompt": "Photorealistic close-up of the dark-skinned hands of an elderly Black Malian man in a plain cotton sleeve carefully holding a stack of worn leather-bound manuscript pages tied with cord, pages angled away from the camera, soft warm indoor light, shallow depth of field, no open pages facing the camera, no visible script, no modern objects, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no face visible, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "En stad av böcker vid öknen",
+            "text_sentences": [
+              "Kung X återvänder hem från sin stora resa år 1325.",
+              "Han kommer inte hem med bara guld.",
+              "Han tar med sig lärda och domare hem.",
+              "Han tar också med sig en byggmästare från Granada i Spanien, som han möter på resan.",
+              "Berättelser säger att byggmästaren planerar en ny moské av lera och trä åt honom.",
+              "Arbetare färdigställer moskén i staden Timbuktu år 1327.",
+              "På 1300-talet börjar Timbuktu växa till ett centrum för studier och böcker.",
+              "Studenter reser dit långväga ifrån för att lära sig juridik och vetenskap.",
+              "Skrivare kopierar manuskript för hand, sida efter sida.",
+              "Många av dessa gamla manuskript finns kvar än i dag.",
+              "Familjer i Timbuktu förvarar fortfarande några av dem tryggt i sina hem."
+            ],
+            "question": "Vem är kung X?",
+            "options": [
+              "Mansa Musa",
+              "Askia Muhammad",
+              "Mutota",
+              "Sundiata Keita"
+            ],
+            "correct": "Mansa Musa",
+            "words": [
+              {
+                "word": "lärda",
+                "explanation": "människor som studerar och kan mycket"
+              },
+              {
+                "word": "moské",
+                "explanation": "en byggnad där muslimer ber"
+              },
+              {
+                "word": "skrivare",
+                "explanation": "människor vars jobb är att kopiera böcker och brev för hand"
+              },
+              {
+                "word": "manuskript",
+                "explanation": "gamla böcker eller papper skrivna för hand"
+              }
+            ],
+            "main_caption": "En stor lermoské reser sig i en stad känd för lärdom.",
+            "side_caption": "Gamla handskrivna sidor bevaras fortfarande tryggt i dag."
           }
         },
         {
@@ -31893,6 +32467,50 @@
             "caption": "An old trade route lies quiet and empty.",
             "shutterstock_query": "empty desert trail dry cracked earth distance",
             "ai_prompt": "Photorealistic vertical view of a single old caravan trail crossing cracked dry earth toward the horizon in the pre-modern Sahara, faint old camel footprints in the dust, warm late light, no travelers, no tyre tracks, no vehicles, no poles or wires, no signage, no calligraphy, no pseudo-writing, no flags, no maps, no Kaaba, no praying crowds, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "Ett rike reser sig och faller",
+            "text_sentences": [
+              "Två generationer före kung X grundar en härskare ett nytt rike i Västafrika.",
+              "Det riket blir starkt genom handel med guld och salt.",
+              "Kung X blir dess härskare omkring år 1312.",
+              "Under honom når riket sin största storlek och rikedom.",
+              "Efter hans död förblir riket starkt i ytterligare en generation.",
+              "Sedan lyckas senare härskare inte hålla ihop det.",
+              "På 1400-talet gör krig och svaga ledare riket mindre.",
+              "Handelsvägarna flyttar sakta till andra vägar och andra härskare.",
+              "Ett nytt rike vid namn Songhai reser sig i öster.",
+              "Songhai tar till och med lärdomsstaden som kung X en gång gjorde till en del av sitt rike.",
+              "Historiker studerar gamla städer och gamla skrifter för att förstå den här långa historien."
+            ],
+            "question": "Vem är kung X?",
+            "options": [
+              "Mansa Musa",
+              "Idris Alooma",
+              "Osei Tutu",
+              "Sonni Ali"
+            ],
+            "correct": "Mansa Musa",
+            "words": [
+              {
+                "word": "generationer",
+                "explanation": "grupper av människor födda ungefär samtidigt, en efter en"
+              },
+              {
+                "word": "rikedom",
+                "explanation": "att ha mycket pengar eller värdefulla saker"
+              },
+              {
+                "word": "handelsvägar",
+                "explanation": "vägar som handlare reser på om och om igen"
+              },
+              {
+                "word": "historiker",
+                "explanation": "människor som studerar det förflutna för att förstå vad som hände"
+              }
+            ],
+            "main_caption": "Riken reser sig vid den stora floden, och riken faller.",
+            "side_caption": "En gammal handelsväg ligger tyst och tom."
           }
         },
         {
@@ -31953,9 +32571,58 @@
             "caption": "Mapmakers far away hear of his gold and draw him on their maps.",
             "shutterstock_query": "antique blank parchment drafting table dividers quill",
             "ai_prompt": "Photorealistic close-up of a blank aged parchment sheet on a wooden drafting table of the fourteenth century beside a brass pair of dividers and a quill pen, warm candlelight, the parchment left plain and textureless, no coastlines, no figures, no compass rose, no modern instruments, no calligraphy, no pseudo-writing, no flags, no maps with text, no Kaaba, no praying crowds, no text, no letters, no numbers"
+          },
+          "sv": {
+            "title": "Hur vet vi något om en kung som är borta sedan länge?",
+            "text_sentences": [
+              "Kung X dör på 1330-talet.",
+              "Ingen skrift från hans eget rike och hans egen tid finns kvar i dag.",
+              "Historiker måste främst förlita sig på senare skribenter för att få veta något om honom.",
+              "En lärd i Kairo skriver om kung X:s besök omkring tio år efter att det sker.",
+              "Den lärde träffar aldrig kung X, så han frågar människor i Kairo som har träffat honom.",
+              "Senare skribenter i Nordafrika samlar in fler berättelser om kung X från många källor.",
+              "Lärda i Timbuktu skriver krönikor om honom på 1600-talet, trehundra år efter hans död.",
+              "År 1375 ritar kartmakare i Europa in kung X på en berömd världskarta.",
+              "Vissa säger att kung X är den rikaste mannen i historien, men ingen kan egentligen veta det.",
+              "Det finns inga fullständiga skriftliga uppgifter om exakt hur mycket guld han hade.",
+              "Guld från hans rike reser sakta norrut och blir mynt i Europa."
+            ],
+            "question": "Vem är kung X?",
+            "options": [
+              "Mansa Musa",
+              "Ezana av Aksum",
+              "Askia Muhammad",
+              "Mutota"
+            ],
+            "correct": "Mansa Musa",
+            "words": [
+              {
+                "word": "lärd",
+                "explanation": "en person som studerar och kan mycket"
+              },
+              {
+                "word": "källor",
+                "explanation": "gamla texter eller saker som ger oss information om det förflutna"
+              },
+              {
+                "word": "krönikor",
+                "explanation": "böcker som berättar om det som hänt, år för år"
+              },
+              {
+                "word": "kartmakare",
+                "explanation": "människor vars jobb är att rita kartor"
+              },
+              {
+                "word": "uppgifter",
+                "explanation": "skriven information som sparas och kan kontrolleras senare"
+              }
+            ],
+            "main_caption": "Gamla skrifter och lite guld är nästan allt som finns kvar.",
+            "side_caption": "Kartmakare långt borta hör talas om hans guld och ritar in honom på sina kartor."
           }
         }
-      ]
+      ],
+      "person_sv": "Mansa Musa"
     },
     {
       "slug": "swahili-coast",

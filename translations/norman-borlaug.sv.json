@@ -27,11 +27,11 @@
       "words": [
         {
           "word": "förädla",
-          "explanation": "väljer ut växter eller djur så att deras ungar får de egenskaper man vill ha"
+          "explanation": "att välja ut växter eller djur så att deras ungar får de egenskaper man vill ha"
         },
         {
-          "word": "sjukdom",
-          "explanation": "något som kan skada eller döda levande varelser"
+          "word": "strå",
+          "explanation": "den långa, smala stjälken på en veteplanta"
         },
         {
           "word": "styv",
@@ -49,16 +49,16 @@
       "title": "Två skördar om året och vete som bekämpar rost",
       "text_sentences": [
         "På 1940-talet skickar Rockefellerstiftelsen herr X till Mexiko.",
-        "Mexikanska vetebönder förlorar hela fält till en växtsjukdom som kallas rost.",
-        "Rost färgar vetets strån och blad rostigt orange.",
+        "Mexikanska vetebönder förlorar hela fält på grund av en växtsjukdom som kallas rost.",
+        "Rost ger vetets strån och blad en rostig orange färg.",
         "Herr X flyttar frön mellan två gårdar i olika delar av Mexiko.",
         "Den ena gården ligger högt uppe i bergen, den andra lågt nära kusten.",
         "De två platserna har olika årstider, så han får två skördar varje år.",
-        "Vanlig växtförädling behöver en långsam generation varje år.",
-        "Herr X dubblar sin hastighet och testar nytt vete dubbelt så snabbt.",
+        "Vanlig växtförädling ger bara en långsam generation per år.",
+        "Herr X dubblar takten och testar nytt vete dubbelt så snabbt.",
         "Han förädlar vete som kan stå emot rostsjukdomen.",
         "Bönder planterar hans nya vete över hela landet.",
-        "År 1956 odlar Mexiko tillräckligt med vete för att föda sig själv."
+        "År 1956 odlar Mexiko tillräckligt med vete för att mätta sin egen befolkning."
       ],
       "question": "Vem är herr X?",
       "options": [
@@ -92,7 +92,7 @@
         "De gamla vetesorterna växer sig höga och faller omkull i vind och regn.",
         "Tjänstemän ber herr X att ta med sitt nya vete från Mexiko.",
         "Fartyg fraktar tusentals ton av hans frön över havet.",
-        "Lastbilar och tåg kör snabbt säckarna med frön till gårdarna innan såningssäsongen är slut.",
+        "Lastbilar och tåg kör snabbt säckarna med frön till gårdarna innan såtiden är slut.",
         "Bönder planterar det korta, starka vetet på miljontals små fält.",
         "De ger mer vatten och mer växtnäring för att hjälpa det att växa.",
         "Inom några år fördubblas nästan veteskördarna i båda länderna.",
@@ -126,7 +126,7 @@
         }
       ],
       "main_caption": "På 1960-talet får bönder i Sydasien in mycket större veteskördar.",
-      "side_caption": "Fartyg fraktar ton med nya frön över havet till bönder som behöver dem."
+      "side_caption": "Fartyg fraktar tonvis med nya frön över havet till bönder som behöver dem."
     },
     {
       "title": "Konstgödsel, sjunkande vatten och skulder på små gårdar",
@@ -135,7 +135,7 @@
         "På 1970-talet planterar bönder det i stora delar av Asien.",
         "Det nya vetet behöver mycket mer konstgödsel än det gamla vetet gjorde.",
         "Det behöver också jämn tillgång till vatten, så bönder gräver hundratusentals nya brunnar.",
-        "Pump efter pump lyfter upp vatten från marken, och på vissa platser sjunker vattennivån långsamt.",
+        "Pump efter pump lyfter upp vatten ur marken, och på vissa platser sjunker vattennivån långsamt.",
         "Bönder sprutar bekämpningsmedel för att skydda de värdefulla unga plantorna från insekter.",
         "Fält som en gång odlade många gamla vetesorter odlar nu bara några få nya.",
         "Att förlora så många sorter oroar forskare som studerar växter.",
@@ -162,7 +162,7 @@
         },
         {
           "word": "skuld",
-          "explanation": "pengar som en person är tvungen att betala tillbaka"
+          "explanation": "pengar som en person är skyldig och måste betala tillbaka"
         },
         {
           "word": "brunn",
@@ -170,7 +170,7 @@
         }
       ],
       "main_caption": "Nytt vete behöver mycket mer vatten och konstgödsel än den gamla sorten gjorde.",
-      "side_caption": "På vissa platser sjunker vattnet djupt under marken sakta."
+      "side_caption": "På vissa platser sjunker grundvattnet sakta allt djupare."
     },
     {
       "title": "Att mätta världen eller fördjupa dess skuld",
@@ -179,11 +179,11 @@
         "Anhängare säger att hans vete räddar hundratals miljoner människor från svält.",
         "Kritiker, som Vandana Shiva, säger att det nya jordbruket skadar småbönder och miljön.",
         "Hon säger att hunger kommer från orättvis fördelning av mat, inte från för lite säd.",
-        "En annan forskare påpekar att stora markägare ofta tjänar mer än småbönder gör.",
+        "En annan forskare påpekar att stora markägare ofta tjänar mer än vad småbönder gör.",
         "Vissa historiker frågar sig om den fruktade hungersnöden verkligen skulle ha kommit utan hans vete.",
-        "Skördejournaler och statlig statistik visar att avkastningen steg kraftigt.",
+        "Skörderegister och statlig statistik visar att avkastningen steg kraftigt.",
         "Intervjuer med bönder avslöjar kostnader som officiella siffror inte alltid visar.",
-        "I Afrika i dag använder många småbönder fortfarande lite konstgödsel och sina egna sparade frön.",
+        "I Afrika i dag använder många småbönder fortfarande bara lite konstgödsel och sina egna sparade frön.",
         "Forskare tvistar fortfarande om rätt väg för jordbruket i Afrika.",
         "Vissa vill ha nya frön och konstgödsel, andra vill ha många grödor och lokal kunskap."
       ],

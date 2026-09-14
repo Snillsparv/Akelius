@@ -10,11 +10,11 @@
         "De för bort människor från deras hem i Afrika.",
         "Ingen frågar dessa människor om de vill följa med.",
         "Den långa resan över havet tar många hårda veckor.",
-        "På andra sidan tvingar nya ägare människor att arbeta.",
+        "På andra sidan havet tvingar nya ägare människorna att arbeta.",
         "Dessa förslavade arbetare sliter på gårdar långt borta, utan någon lön.",
         "Ägare skiljer ofta åt män, hustrur och barn.",
         "Många familjer ser aldrig varandra igen.",
-        "Några av de förslavade slåss tillbaka, flyr eller köper sig fria.",
+        "Några av de förslavade människorna gör motstånd, flyr eller köper sig fria.",
         "Sakta säger fler och fler människor att detta är fel."
       ],
       "question": "Vilken handel är handeln X?",
@@ -35,11 +35,11 @@
         },
         {
           "word": "skilja åt",
-          "explanation": "hålla människor eller saker isär från varandra"
+          "explanation": "att hålla människor eller saker isär från varandra"
         },
         {
           "word": "slita",
-          "explanation": "göra hårt, tröttsamt kroppsarbete"
+          "explanation": "att göra hårt, tröttsamt kroppsarbete"
         }
       ],
       "main_caption": "Ett stenfort vaktar kusten där skepp ligger för ankar.",
@@ -49,15 +49,15 @@
       "title": "Tre steg över havet",
       "text_sentences": [
         "Den vanliga bilden av handeln X visar tre steg över havet.",
-        "Först för skepp varor från Europa till Afrikas kust.",
+        "Först fraktar skepp varor från Europa till Afrikas kust.",
         "Där byter köpmän dessa varor mot fångar.",
-        "Sedan för skepp dessa fångar över havet till Amerika.",
-        "Till sist för skepp socker, tobak och bomull tillbaka till Europa.",
+        "Sedan tar skeppen dessa fångar över havet till Amerika.",
+        "Till sist tar skeppen socker, tobak och bomull tillbaka till Europa.",
         "Portugal startar denna handel före något annat europeiskt land.",
         "Brasilien tar senare emot fler människor än någon annan plats.",
         "Sockeröar i Karibien tar emot det näst största antalet.",
-        "Bara en liten andel människor kommer till det blivande USA.",
-        "Vissa afrikanska kungar och köpmän säljer fångar mot varor och vapen.",
+        "Bara en liten andel av människorna kommer till det blivande USA.",
+        "Vissa afrikanska kungar och köpmän säljer fångar mot varor och skjutvapen.",
         "År 1526 skriver kung Afonso av Kongo till kungen av Portugal.",
         "Hans brev protesterar mot att handlare för bort hans eget folk."
       ],
@@ -93,15 +93,15 @@
       "title": "Motstånd över havet",
       "text_sentences": [
         "Handeln X möter motstånd i nästan varje steg.",
-        "Historiker räknar uppror på ungefär var tionde resa.",
+        "Historiker räknar till uppror på ungefär var tionde resa.",
         "Fångar ombord slåss ibland mot besättningen, eller vägrar äta.",
-        "På land lyckas några förslavade fly in i skogar eller berg.",
-        "Dessa rymlingar bygger sina egna fria samhällen, långt från alla plantager.",
+        "På land lyckas några förslavade människor fly in i skogar eller berg.",
+        "De som har flytt bygger egna fria samhällen, långt från alla plantager.",
         "År 1789 ger en tidigare förslavad man vid namn Olaudah Equiano ut sin egen livshistoria.",
         "Hans bok beskriver resan och berör många läsare i Storbritannien.",
         "Den blir ett viktigt redskap i den växande kampen för att få slut på handeln X.",
         "År 1791 börjar ett lyckat uppror på en karibisk ö.",
-        "Inom några år vinner människorna där sin frihet med våld.",
+        "Inom några år vinner människorna där sin frihet med vapen i hand.",
         "Deras nya stat är den första i Amerika som grundas av tidigare förslavade människor."
       ],
       "question": "Vilken handel är handeln X?",
@@ -126,10 +126,10 @@
         },
         {
           "word": "ge ut",
-          "explanation": "förbereder och lägger fram en bok för människor att läsa"
+          "explanation": "att göra en bok klar och sprida den så att människor kan läsa den"
         }
       ],
-      "main_caption": "Högt uppe i bergen bygger rymlingar ett eget fritt samhälle.",
+      "main_caption": "Högt uppe i bergen bygger människor som har flytt ett eget fritt samhälle.",
       "side_caption": "En sluten bok som denna för en livshistoria över havet till nya läsare."
     },
     {
@@ -137,13 +137,13 @@
       "text_sentences": [
         "Handeln X upphör sakta, land för land, under många årtionden.",
         "År 1781 tvingar besättningen på ett skepp vid namn Zong fler än hundra sjuka fångar ut i havet.",
-        "Ägarna kräver sedan försäkringspengar för de människor som besättningen dödade.",
-        "Nyheten om fallet chockar många människor i Storbritannien.",
+        "Ägarna begär sedan försäkringspengar för de människor som besättningen dödade.",
+        "Nyheten om fallet upprör många människor i Storbritannien.",
         "År 1807 förbjuder Storbritannien sina skepp att föra fångar över havet.",
-        "USA förbjuder nya fångar från att komma in i landet året efter.",
+        "Året efter förbjuder USA att nya fångar förs in i landet.",
         "Ändå fortsätter själva slaveriet på många platser i årtionden till.",
         "År 1833 antar Storbritannien en lag för att avskaffa slaveriet i sina kolonier.",
-        "Slaveriet där upphör 1834, men de fria människorna måste arbeta för sina gamla ägare i fyra år till.",
+        "Slaveriet där upphör 1834, men de frigivna måste arbeta för sina gamla ägare i fyra år till.",
         "År 1865 avskaffar USA slaveriet efter ett långt inbördeskrig.",
         "Brasilien är det sista landet i Amerika som avskaffar slaveriet, år 1888.",
         "Varje ny lag lämnar efter sig nya kamper för lika rättigheter."
@@ -173,8 +173,8 @@
           "explanation": "hårda och långa ansträngningar för att uppnå något svårt"
         }
       ],
-      "main_caption": "Örlogsfartyg börjar patrullera kusten och stoppar skepp som fortfarande för fångar.",
-      "side_caption": "En domstol i London tar senare upp det chockerande fallet om ett skepp vid namn Zong."
+      "main_caption": "Örlogsfartyg börjar patrullera kusten och stoppar skepp som fortfarande har fångar ombord.",
+      "side_caption": "En domstol i London tar senare upp det upprörande fallet om ett skepp vid namn Zong."
     },
     {
       "title": "Vad dokumenten berättar för historiker",
@@ -182,15 +182,15 @@
         "Historiker studerar nu handeln X med hjälp av en enorm digital databas.",
         "Den samlar uppgifter från tusentals enskilda resor över flera århundraden.",
         "Historiker räknar till omkring tolv och en halv miljon människor som togs ombord, och omkring tio och en halv miljon som nådde land.",
-        "Uppgifterna visar att skepp från Portugal och Brasilien för flest människor, och under längst tid.",
+        "Uppgifterna visar att skepp från Portugal och Brasilien för bort flest människor, och under längst tid.",
         "Många av dessa skepp seglar direkt mellan Brasilien och Angola och tillbaka, inte i tre steg.",
         "Handeln lämnar också ett bestående avtryck över hela den moderna världen.",
         "Miljontals ättlingar till bortförda afrikaner lever nu i hela Amerika.",
         "Tillsammans utgör de det som människor ofta kallar den afrikanska diasporan.",
-        "Historiker spårar också vissa moderna rasistiska idéer tillbaka till gamla texter som en gång rättfärdigade handeln X.",
+        "Historiker spårar också vissa moderna rasistiska idéer tillbaka till gamla texter som en gång försvarade handeln X.",
         "I dag markerar minnesplatser och museer gamla hamnar och avreseplatser.",
-        "Vissa människor efterlyser i dag upprättelse, det vill säga handling eller betalning för den skada som skedde.",
-        "Historiker och regeringar är fortfarande oense om huruvida och hur detta ska göras."
+        "Vissa människor efterlyser i dag gottgörelse, det vill säga handling eller betalning för den skada som skedde.",
+        "Historiker och regeringar är fortfarande oense om detta ska göras, och i så fall hur."
       ],
       "question": "Vilken handel är handeln X?",
       "options": [
@@ -213,8 +213,8 @@
           "explanation": "en stor grupp människor som nu lever spridda långt från sitt ursprungliga hemland"
         },
         {
-          "word": "upprättelse",
-          "explanation": "en handling eller betalning som ska gottgöra en gammal skada"
+          "word": "gottgörelse",
+          "explanation": "en handling eller betalning som ska rätta till en gammal orätt"
         }
       ],
       "main_caption": "Historiker studerar nu tusentals gamla resor, samlade i ett enda stort arkiv.",

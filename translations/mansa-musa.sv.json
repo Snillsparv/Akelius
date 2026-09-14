@@ -7,10 +7,10 @@
       "text_sentences": [
         "Kung X lever i Västafrika, för ungefär sjuhundra år sedan.",
         "Hans land ligger vid en stor flod.",
-        "I söder vaskar människor guldsand ur floden.",
-        "I norr hugger arbetare saltblock ur öknen.",
-        "Handlare bär salt söderut och guld norrut på kameler.",
-        "Kung X tar sin del av all handel.",
+        "I söder vaskar människor guldsand ur sanden vid floden.",
+        "I norr hugger arbetare saltblock ur marken i öknen.",
+        "Handlare fraktar salt söderut och guld norrut på kameler.",
+        "Kung X tar en andel av all denna handel.",
         "Det gör honom mycket rik.",
         "Han styr många städer längs floden.",
         "Folk kallar hans kungarike Mali.",
@@ -33,8 +33,8 @@
           "explanation": "stora ökendjur som kan bära tunga laster i många dagar"
         },
         {
-          "word": "del",
-          "explanation": "en del av en hel mängd"
+          "word": "andel",
+          "explanation": "en del av en större mängd, till exempel av pengar"
         },
         {
           "word": "helig",
@@ -47,16 +47,16 @@
     {
       "title": "Karavanen till en helig stad",
       "text_sentences": [
-        "Kung X styr ett rike i Västafrika som blir rikt på guld och salt.",
+        "Kung X styr ett rike i Västafrika som blir rikt tack vare guld och salt.",
         "Kung X är muslim.",
         "Muslimer tror att varje troende som har möjlighet bör besöka den heliga staden Mecka en gång i livet.",
         "År 1324 lämnar han sitt rike för denna stora resa.",
         "Berättelser säger att hans karavan har många tusen människor.",
-        "Berättelser säger att den bär flera ton guld.",
+        "Berättelser säger att den för med sig flera ton guld.",
         "Berättelser säger att han ger guld till fattiga människor längs vägen.",
         "På vägen stannar han i staden Kairo.",
         "Omkring tio år senare skriver en lärd i Kairo om besöket.",
-        "Han säger att kung X gav bort så mycket guld att priset sjönk i flera år.",
+        "Han säger att kung X gav bort så mycket guld att priset på guld sjönk i flera år.",
         "Hela resan tar mer än ett år."
       ],
       "question": "Vem är kung X?",
@@ -77,7 +77,7 @@
         },
         {
           "word": "ton",
-          "explanation": "en enorm vikt, många hundra kilogram"
+          "explanation": "en mycket stor vikt, ett ton är tusen kilogram"
         },
         {
           "word": "lärd",
@@ -95,9 +95,9 @@
         "Han tar med sig lärda och domare hem.",
         "Han tar också med sig en byggmästare från Granada i Spanien, som han möter på resan.",
         "Berättelser säger att byggmästaren planerar en ny moské av lera och trä åt honom.",
-        "Arbetare färdigställer moskén i staden Timbuktu 1327.",
+        "Arbetare färdigställer moskén i staden Timbuktu år 1327.",
         "På 1300-talet börjar Timbuktu växa till ett centrum för studier och böcker.",
-        "Studenter reser dit från långt bort för att lära sig juridik och vetenskap.",
+        "Studenter reser dit långväga ifrån för att lära sig juridik och vetenskap.",
         "Skrivare kopierar manuskript för hand, sida efter sida.",
         "Många av dessa gamla manuskript finns kvar än i dag.",
         "Familjer i Timbuktu förvarar fortfarande några av dem tryggt i sina hem."
@@ -140,7 +140,7 @@
         "Efter hans död förblir riket starkt i ytterligare en generation.",
         "Sedan lyckas senare härskare inte hålla ihop det.",
         "På 1400-talet gör krig och svaga ledare riket mindre.",
-        "Handelsvägar flyttar sakta till andra vägar och andra härskare.",
+        "Handelsvägarna flyttar sakta till andra vägar och andra härskare.",
         "Ett nytt rike vid namn Songhai reser sig i öster.",
         "Songhai tar till och med lärdomsstaden som kung X en gång gjorde till en del av sitt rike.",
         "Historiker studerar gamla städer och gamla skrifter för att förstå den här långa historien."
@@ -163,7 +163,7 @@
         },
         {
           "word": "handelsvägar",
-          "explanation": "vägar som människor reser på om och om igen"
+          "explanation": "vägar som handlare reser på om och om igen"
         },
         {
           "word": "historiker",
@@ -174,13 +174,13 @@
       "side_caption": "En gammal handelsväg ligger tyst och tom."
     },
     {
-      "title": "Hur vet vi om en kung som är borta sedan länge?",
+      "title": "Hur vet vi något om en kung som är borta sedan länge?",
       "text_sentences": [
         "Kung X dör på 1330-talet.",
         "Ingen skrift från hans eget rike och hans egen tid finns kvar i dag.",
-        "Historiker måste mest förlita sig på senare skribenter för att lära sig om honom.",
+        "Historiker måste främst förlita sig på senare skribenter för att få veta något om honom.",
         "En lärd i Kairo skriver om kung X:s besök omkring tio år efter att det sker.",
-        "Den lärde möter aldrig kung X, så han frågar människor i Kairo som gjorde det.",
+        "Den lärde träffar aldrig kung X, så han frågar människor i Kairo som har träffat honom.",
         "Senare skribenter i Nordafrika samlar in fler berättelser om kung X från många källor.",
         "Lärda i Timbuktu skriver krönikor om honom på 1600-talet, trehundra år efter hans död.",
         "År 1375 ritar kartmakare i Europa in kung X på en berömd världskarta.",
