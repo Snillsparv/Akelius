@@ -1,0 +1,222 @@
+{
+  "slug": "scramble-for-africa",
+  "person_sv": "Kapplöpningen om Afrika",
+  "cards": [
+    {
+      "title": "Linjer dragna långt bort",
+      "text_sentences": [
+        "Händelsen X börjar för ungefär 150 år sedan.",
+        "Vid den tiden har bara några få europeiska länder mark i Afrika.",
+        "Sedan förändras det snabbt, inom bara några få decennier.",
+        "Plötsligt vill många europeiska länder också ha mark där.",
+        "Ledare långt borta i Europa drar nya linjer över en enorm karta.",
+        "De ledarna har aldrig gått på marken de delar upp.",
+        "En enda linje kan skära rakt genom ett folks hem.",
+        "År 1914 styr européer nästan hela kontinenten.",
+        "Bara två länder i Afrika lyckas förbli fria.",
+        "Många av linjerna som drogs så långt bort markerar fortfarande gränser i dag."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Upptäcktsresornas tid",
+        "Kapplöpningen om Afrika",
+        "Korstågen",
+        "Opiumkrigen"
+      ],
+      "words": [
+        {
+          "word": "kontinent",
+          "explanation": "ett mycket stort landområde, mycket större än något enskilt land"
+        },
+        {
+          "word": "dela upp",
+          "explanation": "att dela något i separata delar"
+        },
+        {
+          "word": "decennier",
+          "explanation": "perioder på tio år vardera"
+        },
+        {
+          "word": "gränser",
+          "explanation": "linjerna där ett land eller område slutar och ett annat börjar"
+        }
+      ],
+      "main_caption": "Nyanlända från Europa går i land, och snart vill många länder ha mark här.",
+      "side_caption": "Långt borta ritar en hand en ny rak linje med linjal och penna."
+    },
+    {
+      "title": "Ingen från Afrika vid bordet",
+      "text_sentences": [
+        "Händelsen X tar fart vid en konferens i Berlin 1884.",
+        "Tjänstemän skickade av många europeiska regeringar sitter runt ett långt bord.",
+        "Ingen afrikansk ledare sitter vid det bordet.",
+        "Tjänstemännen kommer överens om regler för att göra anspråk på mark över hela kontinenten.",
+        "Ett land måste verkligen kontrollera ett markområde innan det kan göra anspråk på det.",
+        "Nya mediciner mot malaria gör att utomstående för första gången kan överleva långt in i inlandet.",
+        "Ångbåtar för soldater och varor uppför floder som tidigare stoppade dem.",
+        "Ett nytt snabbt gevär ger små styrkor en dödlig fördel mot större styrkor.",
+        "Tillsammans gör dessa nya verktyg en snabb erövring möjlig över hela kontinenten."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Kapplöpningen om Afrika",
+        "Det stora spelet",
+        "Wienkongressen",
+        "Boerkriget"
+      ],
+      "words": [
+        {
+          "word": "erövring",
+          "explanation": "att ta kontroll över en plats med våld"
+        },
+        {
+          "word": "inlandet",
+          "explanation": "långt från kusten, djupt inne i ett land"
+        },
+        {
+          "word": "fördel",
+          "explanation": "något som hjälper dig att lyckas bättre än andra"
+        },
+        {
+          "word": "göra anspråk på",
+          "explanation": "att säga att något tillhör dig"
+        }
+      ],
+      "main_caption": "Tjänstemän från Europa kommer överens om regler för att ta mark, utan en enda afrikan vid bordet.",
+      "side_caption": "En ångbåt tar sig långt uppför en flod som en gång stoppade utomstående."
+    },
+    {
+      "title": "Inte utan strid",
+      "text_sentences": [
+        "Händelsen X är den europeiska jakten på mark i Afrika i slutet av 1800-talet.",
+        "Den lyckas inte överallt utan motstånd.",
+        "I bergen i nordöst förblir Etiopien självständigt hela tiden.",
+        "Landets härskare, Menelik II, lägger år på att köpa moderna gevär för att förbereda sig.",
+        "År 1896 besegrar hans armé vid Adwa en anfallande italiensk styrka fullständigt.",
+        "I Västafrika bygger en ledare vid namn Samori Touré upp sin egen armé.",
+        "Han gör motstånd mot fransmännen i mer än tio år.",
+        "I Tyska Östafrika, dagens Tanzania, reser sig folket tillsammans 1905.",
+        "Koloniala styrkor krossar upproret.",
+        "Historiker räknar mellan sjuttiofemtusen och trehundratusen döda, de flesta av svält.",
+        "I sydväst för koloniala styrkor också en hård kampanj mot folken herero och nama.",
+        "År 2021 kallar Tyskland den kampanjen för folkmord."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Det stora spelet",
+        "Opiumkrigen",
+        "Kapplöpningen om Afrika",
+        "Boerkriget"
+      ],
+      "words": [
+        {
+          "word": "motstånd",
+          "explanation": "att kämpa emot kontroll från en makt utifrån"
+        },
+        {
+          "word": "anfallande",
+          "explanation": "att gå in i ett land med våld för att ta kontroll över det"
+        },
+        {
+          "word": "uppror",
+          "explanation": "när många människor reser sig tillsammans mot dem som har makten"
+        },
+        {
+          "word": "folkmord",
+          "explanation": "ett planerat försök att förinta ett helt folk"
+        }
+      ],
+      "main_caption": "Etiopiska soldater marscherar genom sina berg, redo att försvara sitt land.",
+      "side_caption": "Kvällen faller över landet som i dag kallas Tanzania."
+    },
+    {
+      "title": "En kungs privata koloni",
+      "text_sentences": [
+        "Händelsen X är den europeiska tävlingen om mark i Afrika i slutet av 1800-talet.",
+        "En europeisk kung får det väldiga Kongo i centrala Afrika som sin egen privata egendom.",
+        "Gummi växer där på vilda lianer som klättrar uppför skogens träd.",
+        "Kungens ombud tvingar lokalbefolkningen att samla in detta gummi.",
+        "Folket skär lianerna med knivar och samlar upp den vita saften i krukor och kalebasser.",
+        "Varje by måste lämna en bestämd kvot, annars tar ombuden gisslan och straffar byn.",
+        "Missionärer, en kontorist vid ett rederi och lokala vittnen samlar rapporter och fotografier.",
+        "Deras rapporter chockar människor i Europa, och en kampanj mot kungen inleds.",
+        "År 1908 tvingas kungen lämna över landet till sitt lands regering.",
+        "Många människor dör under de åren, av våld, svält och sjukdom."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Indiens delning",
+        "Kapplöpningen om Afrika",
+        "Wienkongressen",
+        "Suezkrisen"
+      ],
+      "words": [
+        {
+          "word": "egendom",
+          "explanation": "något som tillhör en person"
+        },
+        {
+          "word": "ombud",
+          "explanation": "personer som skickas för att agera eller arbeta åt någon annan"
+        },
+        {
+          "word": "saft",
+          "explanation": "vätskan inuti en växt"
+        },
+        {
+          "word": "kalebasser",
+          "explanation": "hårda, torkade skal från en frukt, används som skålar eller flaskor"
+        },
+        {
+          "word": "gisslan",
+          "explanation": "människor som hålls fångna så att andra ska göra som de blir tillsagda"
+        }
+      ],
+      "main_caption": "Djupt inne i regnskogen skärs vilda gummilianer för sin saft, som möter en växande efterfrågan i Europa.",
+      "side_caption": "Saften från lianerna torkar till mörka klumpar av gummi, som bärs ut ur skogen i korgar."
+    },
+    {
+      "title": "Varför just då, och vems berättelse",
+      "text_sentences": [
+        "Händelsen X är det plötsliga europeiska övertagandet av större delen av Afrika i slutet av 1800-talet.",
+        "Historiker debatterar fortfarande exakt varför det sker just då.",
+        "Några pekar på industriella ekonomier i Europa som hungrar efter råvaror och nya marknader.",
+        "Andra betonar rivaliteten mellan europeiska stormakter som tävlar om prestige och strategiska positioner.",
+        "Ytterligare andra pekar på ny teknik, som plötsligt gör det möjligt att kontrollera inlandet.",
+        "Ingen enskild förklaring tillfredsställer alla historiker helt.",
+        "För att studera det läser historiker statliga arkiv, brev och företagens räkenskapsböcker.",
+        "De läser också protestrapporter, missionärers berättelser och muntliga historier som bevarats av ättlingar.",
+        "Källor från kolonisatörer och från koloniserade folk berättar ofta väldigt olika historier.",
+        "Historiker debatterar också arvet efter de dragna gränserna för dagens stater.",
+        "Vissa forskare ser mest bestående konflikt, medan andra betonar de afrikanska samhällenas egen motståndskraft och anpassningsförmåga."
+      ],
+      "question": "Vilken händelse är händelsen X?",
+      "options": [
+        "Suezkrisen",
+        "Indiens delning",
+        "Kapplöpningen om Afrika",
+        "Boerkriget"
+      ],
+      "words": [
+        {
+          "word": "arkiv",
+          "explanation": "samlingar av gamla dokument som sparas för senare studier"
+        },
+        {
+          "word": "prestige",
+          "explanation": "respekt och betydelse i andras ögon"
+        },
+        {
+          "word": "motståndskraft",
+          "explanation": "förmågan att återhämta sig och fortsätta efter svåra händelser"
+        },
+        {
+          "word": "ättlingar",
+          "explanation": "människor som kommer efter någon i senare generationer, till exempel barn och barnbarn"
+        }
+      ],
+      "main_caption": "Historiker frågar sig varför allt hände, och vilkas röster som saknades i rummet.",
+      "side_caption": "En enda järnstolpe kan märka en rak linje som fortfarande delar landet i dag."
+    }
+  ]
+}
