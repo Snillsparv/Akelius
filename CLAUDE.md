@@ -149,6 +149,7 @@ Verifiera sidorna vid behov med Playwright: `node` + `playwright-core` med
   självständigheten ligger under `twentieth century`. Etiketten får inte vara
   en del av svaret, därför inte `africa` på de två sistnämnda seten.
 - Leverans 12 införde `asia` (Asien) för Asienblocket.
+- Leverans 13 införde `latin america` (Latinamerika) och `middle east` (Mellanöstern).
 
 ## Rapportformat efter en körning
 

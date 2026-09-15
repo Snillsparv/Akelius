@@ -101,3 +101,7 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
   Qin Shi Huangdi, Sidenvägen, Ashoka, Zheng He, Akbar och Mogulriket,
   Meijirestaurationen. Ny etikett `asia`. Nya anonymiseringsformer Emperor X
   (kejsar X), Admiral X (amiral X) och Road X (vägen X).
+- 2026-09-15: "Fortsätt gärna" efter lägesrapporten för leverans 12. Leverans 13 =
+  Latinamerika och Mellanöstern ur förslaget: Maya, azteker och Tenochtitlan,
+  inka, Haitis revolution, Simón Bolívar, Osmanska riket. Nya etiketter
+  `latin america` och `middle east`. Bildkrediterna fortfarande slut.

@@ -998,3 +998,164 @@ pinyin respektive Hepburn utan diakritiska tecken.
   Bilder: svarta ångfartyg i en vik på avstånd, ett ånglok på 1870-talet,
   skolsal med barn bakifrån, samurajsvärd på ett ställ utan text, ett
   telegrafstolpe vid en bygata, inga flaggor, inga tecken.
+
+## Ämnesnoter, leverans 13
+
+Femte leveransen ur den utökade listan, Latinamerika och Mellanöstern: rad
+107 Maya, 108 Azteker och Tenochtitlan, 109 Inka, 110 Haitis revolution, 111
+Simón Bolívar, 116 Osmanska riket. Kategorier: `latin america` (ny, svenska
+"Latinamerika") för de fem första, `middle east` (ny, svenska "Mellanöstern")
+för Osmanska riket. Målgruppen sitter i Tanzania och Bhutan: erövring och
+kolonisation skrivs balanserat, ursprungsfolken som aktörer och som levande
+folk i dag, religion som historia, ingen gore (människooffer sakligt i en
+mening, inga bilder av offer), inga nationella symboler i bild (inte örnen
+på kaktusen, inga flaggor, inga läsbara glyfer eller inskrifter).
+
+Anonymisering och frågor: Maya, azteker och inka är "the X people" ("Who are
+the X people?", svenska "folket X", "Vilka är folket X?"); Haitis revolution
+är Revolution X ("Which revolution is Revolution X?"); Bolívar är Mr X;
+Osmanska riket är Empire X ("Which empire is Empire X?", svenska "riket X").
+Svarsalternativ: "The Maya", "The Aztecs", "The Inca", "The Haitian
+Revolution", "Simón Bolívar", "The Ottoman Empire".
+
+Korsläckor att vakta: inget av de sex seten namnger något av de andra fem
+(Bolívarsetet skriver "a free Black republic in the Caribbean", inte
+Haiti; aztek- och inkaseten namnger inte maya och tvärtom; Osmanska riket
+och Bolívar har inget med varandra att göra). Befintliga set namnges inte i
+löptext: Columbus ("Spanish ships", aldrig 1492 som ledtråd), Magellan,
+Napoleon ("the new ruler of France"), franska revolutionen ("the revolution
+in France of 1789" är tillåtet), amerikanska revolutionen ("the revolution
+in North America"), Washington, Bysantinska riket ("the old Christian
+empire", "its capital on the Bosporus"), korstågen, Muhammed, Djingis khan
+("Mongol" som adjektiv tillåtet), världskrigen ("the great war of 1914"),
+transatlantiska slavhandeln ("the trade in enslaved people" tillåtet),
+Akbar ("Mughal" som adjektiv tillåtet i distraktorer), Renässansen,
+Reformationen. Cortés, Pizarro, Moctezuma, Atahualpa, Toussaint Louverture,
+Dessalines, Sucre, San Martín, Mehmed II, Süleyman, Atatürk får namnges där
+de behövs och är då inte distraktorer på det kortet. Rigoberta Menchú
+(framtida set 114), mexikanska revolutionen (112) och Frida Kahlo (113)
+namnges inte i löptext men får vara distraktorer.
+
+- **The Maya**: the X people, `latin america`. Klassisk tid omkring 250-900
+  e.Kr. i dagens Guatemala, Mexiko, Belize och Honduras, aldrig ett enda
+  rike utan många stadsstater (Tikal, Calakmul, Palenque, Copán får
+  namnges), skriftsystemet med glyfer (inga läsbara glyfer i bild, stelar på
+  avstånd), den långa räkningen och kalendern (myten om världens slut 2012
+  markeras som modern myt), talet noll i kalendern oberoende av Indien,
+  astronomi med Venus-tabeller, trappstegspyramider, bollspelet, majs som
+  grund, kakao som dryck, de södra städernas övergivande 800-950 (torka,
+  krig, överbefolkning, historikerna oense), norra städer som Chichén Itzá
+  fortsatte, spanjorernas erövring 1520-talet till 1697 (sista staden),
+  biskopen som brände böcker 1562 (bara fyra böcker överlevde; Landa får
+  namnges), skriften läst först på 1900-talet (Knorozov 1950-talet får
+  namnges), i dag 6-7 miljoner människor som talar omkring 30 språk.
+  Universitet: kollapsen som forskningsfråga, dechiffreringen, folket i dag
+  och deras rättigheter (Menchú namnges inte). Fångar: "Maya", "Mayan".
+  Distraktorer: The Aztecs, The Inca (set i samma leverans, tillåtna),
+  The Olmecs, The Toltecs, The Zapotecs, The Mixtecs, The Taíno, The Moche.
+  Bilder: pyramid i djungel på avstånd, majsfält, kakaobönor, stela bakifrån
+  eller på långt avstånd utan glyfer, bollplan tom, inga glyfer, inga
+  kalenderstenar i närbild.
+- **The Aztecs**: the X people, `latin america`. Mexica som vandrade in i
+  Mexikodalen, staden på ön i sjön Texcoco grundad 1325 (legenden om örnen
+  på kaktusen markeras som berättelse och avbildas inte), Tenochtitlan får
+  namnges (tillåten ledtråd), chinampas som flytande trädgårdar, vägbankar
+  och akvedukter, det stora templet, omkring 200 000 invånare omkring 1500
+  (skriv "historians estimate"), trippelalliansen 1428, tributriket,
+  marknaden i Tlatelolco som spanjorerna häpnade över, människooffer
+  sakligt i en mening utan detaljer, Moctezuma II, Cortés 1519 med
+  inhemska allierade från Tlaxcala som var avgörande, smittkopporna 1520,
+  stadens fall 1521 efter belägring, Mexico City byggd på ruinerna,
+  nahuatlord i engelskan (chocolate, tomato, avocado), utgrävningarna av
+  det stora templet från 1978, nahuatl talas av omkring 1,5 miljoner i
+  dag. Universitet: erövringen som allians och sjukdom snarare än
+  spanskt underverk, källorna (spanska och inhemska), offren i debatten.
+  Fångar: "Aztec", "Aztecs", "Mexica". Distraktorer: The Maya, The Inca,
+  The Toltecs, The Olmecs, The Zapotecs, The Mixtecs, The Purépecha, The
+  Taíno. Bilder: staden på sjön på avstånd, flytande trädgårdar, marknad
+  bakifrån, kanoter, inga örnar med orm, inga flaggor, inga offerscener.
+- **The Inca**: the X people, `latin america`. Det största riket i Amerika
+  före spanjorerna, Cusco som huvudstad, riket i fyra delar från omkring
+  1438 (Pachacuti får namnges) till 1533, vägnätet på omkring 40 000
+  kilometer med löpare och repbroar, knutsnören för räkenskaper (ingen
+  skrift), terrasser, potatis och majs, lamor, murar utan murbruk, Machu
+  Picchu byggt omkring 1450 och känt för världen 1911 genom en amerikan
+  som lokalbefolkningen visade vägen (Bingham får namnges), arbetsplikten,
+  förrådshusen, solguden och härskaren som hans son (tro markeras som tro),
+  Atahualpa fångad i Cajamarca 1532 av Pizarro med omkring 170 män efter
+  att smittkoppor och inbördeskrig försvagat riket, rummet med guld,
+  avrättningen 1533, motståndet i Vilcabamba till 1572, quechua talat av
+  omkring 8-10 miljoner i dag. Universitet: hur 170 män kunde ta ett rike
+  (sjukdom, inbördeskrig, allierade, hästar och stål), knutsnörens gåta,
+  Machu Picchu och turismen. Fångar: "Inca", "Inka", "Incan",
+  "Tawantinsuyu", "Sapa". Distraktorer: The Maya, The Aztecs, The Moche,
+  The Nazca, The Chimú, The Tiwanaku, The Mapuche, The Wari. Bilder:
+  terrasser i bergen, repbro över klyfta, knutsnöre i händer (inga läsbara
+  mönster), stenmur utan murbruk, lamor, Machu Picchu på avstånd i dimma
+  (tillåtet, inga skyltar).
+- **The Haitian Revolution**: Revolution X, `latin america`. Frankrikes
+  rikaste koloni med socker och kaffe, omkring 500 000 förslavade
+  människor och några tiotusen fria, upproret i augusti 1791 (ceremonin i
+  skogen som traditionen berättar om markeras som tradition), Toussaint
+  Louverture som ledare, slaveriet avskaffat i kolonin 1793 och av
+  Frankrike 1794, hans styre och författning 1801, Frankrikes nye härskare
+  (Napoleon namnges inte) sänder en armé 1802, Toussaint fångad och död i
+  ett franskt fängelse 1803, Dessalines segrar vid Vertières i november
+  1803, självständighet 1 januari 1804 som den första staten grundad av
+  före detta förslavade människor, namnet från öns ursprungsfolk (skriv
+  "the island's old name", namnet är svaret), dödandet av kvarvarande
+  fransmän 1804 sakligt i en mening, skulden till Frankrike från 1825 som
+  betalades i över hundra år, isoleringen från slavägande stater, USA
+  erkände landet först 1862. Universitet: den enda lyckade slavrevolten,
+  varför den glömdes i Europas historieböcker, skulden och dagens debatt.
+  Fångar: "Haiti", "Haitian", "Ayiti"; "Saint-Domingue" och "the Caribbean"
+  är tillåtna ledtrådar. Distraktorer: The French Revolution, The American
+  Revolution (set, tillåtna), The Mexican Revolution, The Cuban Revolution,
+  The Russian Revolution, The Glorious Revolution, The Chinese Revolution,
+  The Texas Revolution. Bilder: sockerrörsfält, en bergsfästning på
+  avstånd, en armé bakifrån i 1790-talets dräkt utan flaggor, ett tomt
+  förhandlingsbord, ingen gore.
+- **Simón Bolívar**: Mr X, `latin america`. Född 1783 i Caracas i en rik
+  kreolsk familj, föräldralös som barn, läraren Rodríguez, resor i Europa,
+  eden på kullen i Rom 1805 (hans egen berättelse), juntan 1810, manifestet
+  1812, dekretet om krig till döden 1813 sakligt, brevet från Jamaica 1815,
+  hjälpen 1816 från en fri svart republik i Karibien mot löfte att befria
+  de förslavade (landet namnges inte), marschen över Anderna 1819 och
+  segern vid Boyacá, Storcolombia, Carabobo 1821, mötet i Guayaquil 1822
+  med befriaren från söder (San Martín får namnges), Peru 1824 med Sucre
+  vid Ayacucho, landet som fick hans namn 1825 (namnges inte, "a new
+  country takes his name"), diktaturen 1828 och mordförsöket som hans
+  följeslagerska avvärjde (Manuela Sáenz får namnges), Storcolombias
+  sönderfall 1830, orden om att ha plöjt havet (rapporterade, skriv "he is
+  said to write"), döden 1830 i Santa Marta i lungsot. Universitet:
+  hjälte eller diktator, hans syn på folkstyre, arvet i dagens politik
+  sakligt utan att namnge nutida ledare. Fångar: "Bolívar", "Bolivar",
+  "Bolivia", "Bolivarian", "Simón", "Simon", "Liberator", "Libertador".
+  Distraktorer: José de San Martín, Bernardo O'Higgins, Antonio José de
+  Sucre, Francisco de Miranda, Miguel Hidalgo, José Martí, Toussaint
+  Louverture, George Washington (set, tillåten), Emiliano Zapata. Bilder:
+  Anderna med en armé bakifrån, en plaza i Caracas på 1790-talet, ett
+  skrivbord med brev utan läsbar text, en ryttare bakifrån, inga flaggor.
+- **The Ottoman Empire**: Empire X, `middle east`. Grundat omkring 1299 av
+  en turkisk furste i Anatolien (namnet är svaret, skriv "a Turkish
+  prince"), Bursa och Edirne, erövringen av den gamla kristna
+  huvudstaden vid Bosporen 1453 under Mehmed II (staden får kallas
+  Constantinople och Istanbul, riket som föll namnges inte), Süleyman
+  1520-1566 med lagarna, Mohács 1526 och Wien 1529, janitsjarerna
+  (kristna pojkar togs, uppfostrades och blev soldater och ämbetsmän,
+  sakligt), millet-systemet där religiösa grupper skötte sina egna
+  angelägenheter, moskéerna av Sinan, kaffet till Europa, Lepanto 1571,
+  Wien 1683, "Europas sjuke man" som fras från 1800-talet, Tanzimat
+  1839-1876, Balkankrigen, det stora kriget från 1914 på Tysklands sida,
+  dödandet av det mesta av den armeniska befolkningen 1915 som historikerna
+  kallar folkmord (en mening, sakligt, känsligt i Turkiet), slutet 1922 och
+  republiken 1923 (Atatürk får namnges), sex hundra år. Universitet:
+  nedgångsberättelsen som historikerna ifrågasätter, riket som flerfaldigt
+  samhälle, arvet i dagens Mellanöstern och Balkan. Fångar: "Ottoman",
+  "Osman", "Osmanli"; "Turkish", "Turkey", "Istanbul", "Constantinople",
+  "sultan" är tillåtna. Distraktorer: The Byzantine Empire, The Roman
+  Empire (set, tillåtna), The Safavid Empire, The Mughal Empire, The
+  Abbasid Caliphate, The Mongol Empire, The Habsburg Empire, The Russian
+  Empire. Bilder: kupoler och minareter på avstånd, ett kaffehus bakifrån,
+  en kanon utan gravyr vid en stadsmur, ett rådsrum tomt, ingen kalligrafi,
+  inga flaggor, inga religiösa figurer.
