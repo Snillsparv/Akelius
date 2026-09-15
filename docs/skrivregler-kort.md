@@ -1046,7 +1046,8 @@ namnges inte i löptext men får vara distraktorer.
   grund, kakao som dryck, de södra städernas övergivande 800-950 (torka,
   krig, överbefolkning, historikerna oense), norra städer som Chichén Itzá
   fortsatte, spanjorernas erövring 1520-talet till 1697 (sista staden),
-  biskopen som brände böcker 1562 (bara fyra böcker överlevde; Landa får
+  franciskanen Landa, senare biskop, som brände
+  böcker 1562 (bara fyra böcker överlevde; Landa får
   namnges), skriften läst först på 1900-talet (Knorozov 1950-talet får
   namnges), i dag 6-7 miljoner människor som talar omkring 30 språk.
   Universitet: kollapsen som forskningsfråga, dechiffreringen, folket i dag
@@ -1059,7 +1060,8 @@ namnges inte i löptext men får vara distraktorer.
 - **The Aztecs**: the X people, `latin america`. Mexica som vandrade in i
   Mexikodalen, staden på ön i sjön Texcoco grundad 1325 (legenden om örnen
   på kaktusen markeras som berättelse och avbildas inte), Tenochtitlan får
-  namnges (tillåten ledtråd), chinampas som flytande trädgårdar, vägbankar
+  namnges (tillåten ledtråd), chinampas som konstgjorda odlingsöar i
+  den grunda sjön, i folkmun kallade flytande trädgårdar, vägbankar
   och akvedukter, det stora templet, omkring 200 000 invånare omkring 1500
   (skriv "historians estimate"), trippelalliansen 1428, tributriket,
   marknaden i Tlatelolco som spanjorerna häpnade över, människooffer
@@ -1072,7 +1074,8 @@ namnges inte i löptext men får vara distraktorer.
   spanskt underverk, källorna (spanska och inhemska), offren i debatten.
   Fångar: "Aztec", "Aztecs", "Mexica". Distraktorer: The Maya, The Inca,
   The Toltecs, The Olmecs, The Zapotecs, The Mixtecs, The Purépecha, The
-  Taíno. Bilder: staden på sjön på avstånd, flytande trädgårdar, marknad
+  Taíno. Bilder: staden på sjön på avstånd,
+  odlingsöar av lera i sjön, marknad
   bakifrån, kanoter, inga örnar med orm, inga flaggor, inga offerscener.
 - **The Inca**: the X people, `latin america`. Det största riket i Amerika
   före spanjorerna, Cusco som huvudstad, riket i fyra delar från omkring
@@ -1099,7 +1102,8 @@ namnges inte i löptext men får vara distraktorer.
   skogen som traditionen berättar om markeras som tradition), Toussaint
   Louverture som ledare, slaveriet avskaffat i kolonin 1793 och av
   Frankrike 1794, hans styre och författning 1801, Frankrikes nye härskare
-  (Napoleon namnges inte) sänder en armé 1802, Toussaint fångad och död i
+  (Napoleon namnges inte) sänder en armé som
+  landstiger 1802, Toussaint fångad och död i
   ett franskt fängelse 1803, Dessalines segrar vid Vertières i november
   1803, självständighet 1 januari 1804 som den första staten grundad av
   före detta förslavade människor, namnet från öns ursprungsfolk (skriv
@@ -1112,8 +1116,10 @@ namnges inte i löptext men får vara distraktorer.
   är tillåtna ledtrådar. Distraktorer: The French Revolution, The American
   Revolution (set, tillåtna), The Mexican Revolution, The Cuban Revolution,
   The Russian Revolution, The Glorious Revolution, The Chinese Revolution,
-  The Texas Revolution. Bilder: sockerrörsfält, en bergsfästning på
-  avstånd, en armé bakifrån i 1790-talets dräkt utan flaggor, ett tomt
+  The Texas Revolution. Bilder: sockerrörsfält, en liten fästning på en
+  kulle på avstånd (en bergsfästning bara som symbol
+  för den nya staten, inte som del av kriget), en armé
+  bakifrån i 1790-talets dräkt utan flaggor, ett tomt
   förhandlingsbord, ingen gore.
 - **Simón Bolívar**: Mr X, `latin america`. Född 1783 i Caracas i en rik
   kreolsk familj, föräldralös som barn, läraren Rodríguez, resor i Europa,
@@ -1143,8 +1149,10 @@ namnges inte i löptext men får vara distraktorer.
   Constantinople och Istanbul, riket som föll namnges inte), Süleyman
   1520-1566 med lagarna, Mohács 1526 och Wien 1529, janitsjarerna
   (kristna pojkar togs, uppfostrades och blev soldater och ämbetsmän,
-  sakligt), millet-systemet där religiösa grupper skötte sina egna
-  angelägenheter, moskéerna av Sinan, kaffet till Europa, Lepanto 1571,
+  sakligt), det som senare kallas millet-systemet (religiösa grupper skötte
+  familjerätt, gudstjänst och skolor; skriv aldrig egna
+  domstolar i allmänhet och markera termen som senare),
+  moskéerna av Sinan, kaffet till Europa, Lepanto 1571,
   Wien 1683, "Europas sjuke man" som fras från 1800-talet, Tanzimat
   1839-1876, Balkankrigen, det stora kriget från 1914 på Tysklands sida,
   dödandet av det mesta av den armeniska befolkningen 1915 som historikerna
