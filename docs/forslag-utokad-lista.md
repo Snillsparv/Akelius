@@ -1,16 +1,16 @@
 # Förslag: utökad ämneslista mot 600+ kort
 
 Status: klartecken att fortsätta gavs 2026-09-12. Leverans 9 (rad 51-54, 59,
-79), 10 (rad 61, 62, 71, 72, 74, 76), 11 (rad 86, 87, 88, 92, 93, 94) och 12
-(rad 97, 98, 99, 100, 102, 104) är färdiga i text, granskning och svenska;
-bilderna väntar på påfyllda krediter hos bildtjänsten (44 av 60 klara för
-leverans 9, inga för 10-12). Etiketterna `mathematics`, `africa`,
-`colonialism` och `asia` infördes med leverans 10-12. Frågorna 1, 3 och 4
-nedan är fortfarande obesvarade, så trekortsämnen och nivå 3 väntar. Nästa
-femkortsämnen i förslagets ordning: 107 Maya, 108 Azteker och Tenochtitlan,
-109 Inka, 110 Haitis revolution, 111 Simón Bolívar, 116 Osmanska riket,
-vilket kräver etiketter för Latinamerika och Mellanöstern, förslagsvis
-`latin america` och `middle east`.
+79), 10 (rad 61, 62, 71, 72, 74, 76), 11 (rad 86, 87, 88, 92, 93, 94), 12
+(rad 97, 98, 99, 100, 102, 104) och 13 (rad 107, 108, 109, 110, 111, 116) är
+färdiga i text, granskning och svenska; bilderna väntar på påfyllda krediter
+hos bildtjänsten (44 av 60 klara för leverans 9, inga för 10-13). Etiketterna
+`mathematics`, `africa`, `colonialism`, `asia`, `latin america` och `middle
+east` infördes med leverans 10-13. Alla femkortsämnen i nivå 1 utom rad 118,
+119 och 120 (Karl den store, Magna Carta, Elisabet I, som är trekortsämnen)
+är producerade; fråga 1 om trekortsset måste besvaras innan resten av nivå 1
+kan produceras. Femkortsämnen kvar i nivå 2: 123 Ryska revolutionen, 125
+Kinas revolution 1949, 128 Internet och webben, 129 Elektriciteten.
 
 ## Läge och räkneexempel
 
@@ -95,16 +95,16 @@ bilder, granskning och svenska. Bildkostnaden är cirka 0,34 USD per kort.
 | 104 | Meijirestaurationen | Asien | 5 ✅ Leverans 12 | Japan på fyrtio år, skolor, järnvägar, priset |
 | 105 | Bhutans enande | Asien | 3 | Zhabdrung, dzongerna, landet som aldrig koloniserades |
 | 106 | Opiumkrigen | Asien | 3 | Handeln, Hongkong, förnedringens sekel, dagens minne |
-| 107 | Maya | Latinamerika | 5 | Kalendern, nollan, städerna, varför de övergavs |
-| 108 | Azteker och Tenochtitlan | Latinamerika | 5 | Staden på sjön, marknaden, erövringen, sjukdomarna |
-| 109 | Inka | Latinamerika | 5 | Vägarna, knutskriften, Machu Picchu, Pizarro |
-| 110 | Haitis revolution | Latinamerika | 5 | Toussaint Louverture, den enda lyckade slavrevolten |
-| 111 | Simón Bolívar | Latinamerika | 5 | Befriaren, drömmen om ett enat Sydamerika, besvikelsen |
+| 107 | Maya | Latinamerika | 5 ✅ Leverans 13 | Kalendern, nollan, städerna, varför de övergavs |
+| 108 | Azteker och Tenochtitlan | Latinamerika | 5 ✅ Leverans 13 | Staden på sjön, marknaden, erövringen, sjukdomarna |
+| 109 | Inka | Latinamerika | 5 ✅ Leverans 13 | Vägarna, knutskriften, Machu Picchu, Pizarro |
+| 110 | Haitis revolution | Latinamerika | 5 ✅ Leverans 13 | Toussaint Louverture, den enda lyckade slavrevolten |
+| 111 | Simón Bolívar | Latinamerika | 5 ✅ Leverans 13 | Befriaren, drömmen om ett enat Sydamerika, besvikelsen |
 | 112 | Mexikanska revolutionen | Latinamerika | 3 | Jord och frihet, Zapata, kvinnorna i kriget |
 | 113 | Frida Kahlo | Latinamerika | 3 | Smärtan som konst, Mexiko, självporträtten |
 | 114 | Rigoberta Menchú | Latinamerika, nobel | 3 | Mayafolkens röst, Guatemala, fredspriset |
 | 115 | Saladin | Mellanöstern | 3 | Jerusalem 1187, motståndaren som respekterades |
-| 116 | Osmanska riket | Mellanöstern | 5 | Konstantinopel 1453, Süleyman, sex hundra år, slutet |
+| 116 | Osmanska riket | Mellanöstern | 5 ✅ Leverans 13 | Konstantinopel 1453, Süleyman, sex hundra år, slutet |
 | 117 | Rumi | Mellanöstern | 3 | Poeten från Konya, kärleken, de dansande dervischerna |
 | 118 | Karl den store | Europa | 3 | Kejsarkröningen år 800, skolorna, Europas idé |
 | 119 | Magna Carta | Europa | 3 | Kungen under lagen, 1215, ekot i konstitutioner |

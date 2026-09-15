@@ -37300,6 +37300,49 @@
             "caption": "Cacao beans like these are ground and mixed into a drink.",
             "shutterstock_query": "cacao pod open beans hand jungle harvest closeup",
             "ai_prompt": "Vertical photorealistic close-up of a broken cacao pod held open in a brown-skinned Indigenous person's hand, revealing pale wet cacao beans inside, more whole yellow-red pods resting on a woven cloth below, soft dappled jungle light, Classic-period Central American setting, plain cotton clothing, no metal tools, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Pyramider i djungeln",
+            "text_sentences": [
+              "Folket X lever i Centralamerikas skogar och kullar för länge sedan.",
+              "Deras hemland täcker delar av Guatemala, Mexiko, Belize och Honduras.",
+              "De bygger höga stenpyramider mellan träden.",
+              "Bönder odlar majs på fält som de röjer i skogen.",
+              "Majs är grunden i nästan varje måltid.",
+              "Människor gör också en bitter dryck av kakaobönor.",
+              "Kungar styr många stora städer, var och en för sig.",
+              "Några av dessa städer har tiotusentals invånare.",
+              "Handelsmän bär salt, jade och färgglada fjädrar mellan städerna.",
+              "Århundraden senare växer djungeln tillbaka över många tomma städer."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Olmekerna",
+              "Mayafolket",
+              "Toltekerna",
+              "Aztekerna"
+            ],
+            "correct": "Mayafolket",
+            "words": [
+              {
+                "word": "djungel",
+                "explanation": "en tät, varm skog med många träd och växter"
+              },
+              {
+                "word": "majs",
+                "explanation": "en hög växt som ger stora, gula korn"
+              },
+              {
+                "word": "kakao",
+                "explanation": "bönorna som används för att göra choklad"
+              },
+              {
+                "word": "århundraden",
+                "explanation": "perioder på hundra år"
+              }
+            ],
+            "main_caption": "En hög stenpyramid reser sig över djungelns trädtoppar.",
+            "side_caption": "Sådana här kakaobönor mals och blandas till en dryck."
           }
         },
         {
@@ -37356,6 +37399,50 @@
             "caption": "Players strike this heavy rubber ball with their hips, not their hands.",
             "shutterstock_query": "dark rubber ball padded belt stone bench ancient ball court closeup",
             "ai_prompt": "Vertical photorealistic close-up of a solid dark rubber ball resting on a worn stone bench beside a simple padded cotton and leather hip belt, a sunlit stone ball court wall softly blurred behind, Classic-period Central American setting, plain undyed materials, no players, no faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Många städer, ett folk",
+            "text_sentences": [
+              "Folket X i Guatemala och grannländerna bygger aldrig ett enda stort rike.",
+              "I stället lever de i många skilda stadsstater.",
+              "Städer som Tikal och Calakmul slåss ofta mot varandra om makten.",
+              "Varje stad har sin egen kung, sina tempel och sin marknadsplats.",
+              "Präster och skrivare skriver med små bildtecken.",
+              "Bildtecknen berättar om kungar, krig och viktiga datum.",
+              "Prästerna skapar också en noggrann kalender med många tidscykler.",
+              "Deras kalender har ett tecken för noll, som inte är lånat från någon annan del av världen.",
+              "I många städer spelar folk ett snabbt bollspel på en stenplan.",
+              "Spelarna slår en hård boll av gummi bara med höfterna och benen.",
+              "Att vinna en match kan ge en hel stad stor ära."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Zapotekerna",
+              "Mixtekerna",
+              "Mayafolket",
+              "Toltekerna"
+            ],
+            "correct": "Mayafolket",
+            "words": [
+              {
+                "word": "stadsstater",
+                "explanation": "städer med egna lagar och ledare, som små egna länder"
+              },
+              {
+                "word": "skrivare",
+                "explanation": "personer vars arbete är att skriva ner saker"
+              },
+              {
+                "word": "tidscykler",
+                "explanation": "tidsperioder som upprepas om och om igen"
+              },
+              {
+                "word": "gummi",
+                "explanation": "ett tänjbart material som kommer från trädsav"
+              }
+            ],
+            "main_caption": "En tom stenplan där två lag en gång spelade ett snabbt bollspel.",
+            "side_caption": "Spelarna slår den här tunga gummibollen med höfterna, inte med händerna."
           }
         },
         {
@@ -37412,6 +37499,50 @@
             "caption": "Only a few of these folded books escaped destruction.",
             "shutterstock_query": "closed bark paper folding book colonial era wooden table candlelight",
             "ai_prompt": "Vertical photorealistic scene of a closed folding book made of bark paper with painted but illegible covers, resting on a plain wooden table beside an unlit candle in a dim colonial room, seen at an angle so no inner pages are visible, a plain dark Spanish colonial robe sleeve at the table edge, 1560s Spanish colonial Central America, dim warm lighting, no flames, no faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Stjärnkartor och brända böcker",
+            "text_sentences": [
+              "Präster hos folket X studerar himlen mycket noga.",
+              "De följer Venus bana under många år.",
+              "Skrivare målar långa böcker av vikt barkpapper.",
+              "Böckerna innehåller astronomin, kalendern och ritualerna.",
+              "På 1520-talet kommer spanska soldater och erövrar sakta området.",
+              "Några städer gör motstånd i generationer, gömda djupt i skogen.",
+              "År 1562 ger en spansk präst vid namn Landa order om att bränna många av dessa vikta böcker.",
+              "Han tror att böckerna bär på falsk och farlig tro.",
+              "Nästan alla böcker från ett helt folk blir till aska.",
+              "Bara fyra av dessa vikta böcker överlever till i dag.",
+              "Den allra sista fria staden faller inte förrän år 1697."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Mayafolket",
+              "Aztekerna",
+              "Inkafolket",
+              "Tainofolket"
+            ],
+            "correct": "Mayafolket",
+            "words": [
+              {
+                "word": "ritualer",
+                "explanation": "särskilda religiösa handlingar som görs på ett bestämt sätt"
+              },
+              {
+                "word": "gör motstånd",
+                "explanation": "att kämpa emot och vägra ge upp"
+              },
+              {
+                "word": "aska",
+                "explanation": "det grå stoftet som blir kvar efter att något har brunnit"
+              },
+              {
+                "word": "överlever",
+                "explanation": "att fortsätta finnas kvar efter en fara"
+              }
+            ],
+            "main_caption": "Sådana här resta stenar berättade en gång om kungars gärningar och datum.",
+            "side_caption": "Bara några få av dessa vikta böcker undgick förstörelsen."
           }
         },
         {
@@ -37468,6 +37599,50 @@
             "caption": "Long years without enough rain can empty even rich farmland.",
             "shutterstock_query": "dry cracked field wilted corn stalks ancient ruins drought",
             "ai_prompt": "Vertical photorealistic view of a small abandoned field with dry, cracked earth and a few wilted brown maize stalks, a crumbling low stone wall in the background, harsh midday light and a dusty haze, Classic-period Central American setting, no people, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Tysta städer",
+            "text_sentences": [
+              "Folket X bygger många stora städer runt om i Centralamerika.",
+              "Mellan ungefär år 800 och 950 blir många av dessa södra städer tysta.",
+              "Kungarna slutar resa nya stenmonument där.",
+              "Bönderna lämnar sakta fälten runt de tomma templen.",
+              "Historiker tvistar fortfarande om den exakta orsaken till förändringen.",
+              "Några pekar på långa perioder av svår torka i området.",
+              "Andra pekar på ständigt krig mellan rivaliserande stadsstater.",
+              "För många människor kan också ha överansträngt marken och skördarna.",
+              "Troligen slår flera av dessa påfrestningar till samtidigt.",
+              "Samtidigt fortsätter städer längre norrut, som Chichén Itzá, att blomstra.",
+              "Så det här är inget plötsligt slut för varenda stad på en gång."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Mochefolket",
+              "Olmekerna",
+              "Zapotekerna",
+              "Mayafolket"
+            ],
+            "correct": "Mayafolket",
+            "words": [
+              {
+                "word": "torka",
+                "explanation": "en lång tid med för lite regn"
+              },
+              {
+                "word": "rivaliserande",
+                "explanation": "som tävlar och slåss med varandra om makten"
+              },
+              {
+                "word": "överansträngt",
+                "explanation": "pressat för hårt, nära att gå sönder"
+              },
+              {
+                "word": "blomstra",
+                "explanation": "växa sig starkt och må mycket bra"
+              }
+            ],
+            "main_caption": "Rötter och rankor sväljer sakta ett torg som en gång var fullt av människor.",
+            "side_caption": "Långa år utan tillräckligt med regn kan tömma till och med bördig jordbruksmark."
           }
         },
         {
@@ -37524,9 +37699,54 @@
             "caption": "Scholars spend decades matching the old signs to real sounds.",
             "shutterstock_query": "vintage desk magnifying glass closed notebook pencil lamp study",
             "ai_prompt": "Vertical photorealistic view of an old wooden desk in a quiet mid-twentieth-century study, a magnifying glass and a pencil resting on a closed dark notebook, a stack of blank cards beside it, and a small worn stone fragment turned face down, warm desk lamp light, no faces, no computers, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Att tyda de tysta tecknen",
+            "text_sentences": [
+              "I århundraden kan ingen läsa bildtecknen hos folket X.",
+              "Tidiga forskare gissar vilt och får ofta betydelsen fel.",
+              "På 1950-talet studerar en sovjetisk forskare vid namn Knorozov tecknen noga.",
+              "Han hävdar att många bildtecken står för ljud, inte bara hela idéer.",
+              "Senare decennier av noggrann forskning bekräftar och vidareutvecklar sakta hans metod.",
+              "Vid slutet av nittonhundratalet kan äntligen de flesta bildtecken läsas.",
+              "Samtidigt påstår en märklig modern myt att världen tar slut år 2012.",
+              "Idén kommer från en feltolkning av en del av den gamla kalendern.",
+              "Historiker och forskare som studerar folket X avvisar den här myten helt.",
+              "I dag lever ättlingar fortfarande i hela området och talar sina egna språk.",
+              "Många av dem ber regeringar att respektera deras mark och deras rättigheter."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Inkafolket",
+              "Mayafolket",
+              "Mixtekerna",
+              "Tainofolket"
+            ],
+            "correct": "Mayafolket",
+            "words": [
+              {
+                "word": "ättlingar",
+                "explanation": "människor som är släkt med någon som levde för länge sedan"
+              },
+              {
+                "word": "myt",
+                "explanation": "en berättelse som många tror på men som inte är sann"
+              },
+              {
+                "word": "står för",
+                "explanation": "betyder eller visar något annat, som en bokstav står för ett ljud"
+              },
+              {
+                "word": "decennier",
+                "explanation": "perioder på tio år"
+              }
+            ],
+            "main_caption": "Deras ättlingar väver, brukar jorden och talar sina egna språk än i dag.",
+            "side_caption": "Forskare ägnar decennier åt att koppla de gamla tecknen till verkliga ljud."
           }
         }
-      ]
+      ],
+      "person_sv": "Mayafolket"
     },
     {
       "slug": "aztecs",
@@ -37584,6 +37804,48 @@
             "caption": "Farmers grow food on man-made islands of rich mud in the shallow lake.",
             "shutterstock_query": "chinampa garden lake mexico historical illustration",
             "ai_prompt": "Photorealistic vertical view of a narrow man-made island field of dark mud in shallow calm lake water, thick with rows of green maize and squash plants, young willow trees rooted along its low mud edge, a brown-skinned farmer in a plain undyed fifteenth-century fibre wrap seen from behind poling a small dugout canoe past the plot, soft morning light, no visible face, no modern tools, no plastic, no signs, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En stad mitt i en sjö",
+            "text_sentences": [
+              "Folket X lever i en hög dal i Mexiko.",
+              "För länge sedan bygger de en stad på en ö i en sjö.",
+              "Långa vägar av jord och sten leder över vattnet.",
+              "Bönder bygger små fält av bördig lera i den grunda sjön.",
+              "Kanoter bär mat och varor över det lugna vattnet varje dag.",
+              "En enorm marknad i Tlatelolco säljer mat, tyg och verktyg.",
+              "Spanska besökare säger senare att de aldrig har sett en så stor marknad.",
+              "En stor stad fortsätter att växa på precis samma plats.",
+              "I dag är den staden Mexikos huvudstad."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Mayafolket",
+              "Aztekerna",
+              "Olmekerna",
+              "Toltekerna"
+            ],
+            "correct": "Aztekerna",
+            "words": [
+              {
+                "word": "kanoter",
+                "explanation": "små båtar som man flyttar framåt med paddlar"
+              },
+              {
+                "word": "varor",
+                "explanation": "saker som människor köper, säljer eller bär"
+              },
+              {
+                "word": "huvudstad",
+                "explanation": "landets viktigaste stad, där regeringen finns"
+              },
+              {
+                "word": "grund",
+                "explanation": "inte djup"
+              }
+            ],
+            "main_caption": "En stad ligger på en ö, förbunden med land genom långa vägar över vattnet.",
+            "side_caption": "Bönder odlar mat på konstgjorda öar av bördig lera i den grunda sjön."
           }
         },
         {
@@ -37640,6 +37902,50 @@
             "caption": "Conquered towns send cloth, food, and feathers as tribute.",
             "shutterstock_query": "tribute goods cotton cloth maize feathers jade woven mat still life",
             "ai_prompt": "Photorealistic vertical still life of tribute goods laid on a woven mat before a plain stone step, folded bundles of white cotton cloth, baskets of dried maize and beans, a small heap of green feathers and a string of jade beads, warm daylight, fifteenth-century Mesoamerican objects only, no glyphs, no flags, no modern objects, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Berättelsen om en ny stad",
+            "text_sentences": [
+              "Folket X är en liten grupp nykomlingar.",
+              "De kommer till en dal i Mexiko med en sjö i mitten.",
+              "En berättelse säger att deras gudar skickar dem ett tecken, en örn på en kaktus.",
+              "De måste bygga sin stad där de ser detta tecken.",
+              "År 1325 bygger de Tenochtitlan på en ö i sjön.",
+              "De gräver kanaler så att kanoter kan nå varje del av staden.",
+              "En lång upphöjd stenkanal, en akvedukt, för in färskt vatten till staden.",
+              "År 1428 går deras stad samman med två andra städer i en stark allians.",
+              "Tillsammans besegrar de tre städerna sina gamla fiender och växer till ett rike.",
+              "Erövrade städer måste nu skicka tribut, till exempel mat och tyg, vid bestämda tider.",
+              "År 1500 uppskattar historiker att omkring 200 000 människor bor i staden."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Aztekerna",
+              "Inkafolket",
+              "Zapotekerna",
+              "Purépecha"
+            ],
+            "correct": "Aztekerna",
+            "words": [
+              {
+                "word": "allians",
+                "explanation": "en överenskommelse mellan grupper om att arbeta tillsammans"
+              },
+              {
+                "word": "tribut",
+                "explanation": "varor eller pengar som ett erövrat folk måste ge till en härskare"
+              },
+              {
+                "word": "akvedukt",
+                "explanation": "en lång upphöjd kanal som för vatten långt bortifrån"
+              },
+              {
+                "word": "uppskattar",
+                "explanation": "gör en noggrann gissning grundad på fakta"
+              }
+            ],
+            "main_caption": "Färskt vatten rinner in i staden genom en lång upphöjd stenkanal.",
+            "side_caption": "Erövrade städer skickar tyg, mat och fjädrar som tribut."
           }
         },
         {
@@ -37695,6 +38001,49 @@
             "caption": "New buildings slowly rise where old walls once stood.",
             "shutterstock_query": "ruins old stone walls lake mexico historical illustration",
             "ai_prompt": "Photorealistic vertical view of quiet ruined stone walls beside calm lake water in early morning light, broken stones and empty spaces where buildings once stood, a few simple new wooden posts being raised nearby, soft haze in the air, no people, no bodies, no signs of violence, no flags, no glyphs, no modern buildings, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Staden faller",
+            "text_sentences": [
+              "Folket X styr ett rikt rike från Mexikodalen år 1519.",
+              "Spanska skepp anländer till kusten samma år, ledda av en kapten som heter Cortés.",
+              "Moctezuma, härskaren över folket X, tar först emot främlingarna med gåvor.",
+              "Cortés hittar allierade bland folket i Tlaxcala, gamla fiender till folket X.",
+              "Dessa allierade bidrar med soldater och kunskap om landet, vilket blir avgörande.",
+              "År 1520 sprider sig en fruktansvärd sjukdom genom staden, en sjukdom som nykomlingarna för med sig.",
+              "Tusentals av folket X dör av den nya sjukdomen inom några månader.",
+              "Den försvagade staden kan inte stå emot belägringen som följer år 1521.",
+              "Efter månader av strider faller till slut staden i sjön.",
+              "På ruinerna bygger nykomlingarna en ny huvudstad, Mexico City."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Inkafolket",
+              "Purépecha",
+              "Aztekerna",
+              "Tainofolket"
+            ],
+            "correct": "Aztekerna",
+            "words": [
+              {
+                "word": "allierade",
+                "explanation": "personer som ansluter sig till dig och hjälper dig, särskilt i en strid"
+              },
+              {
+                "word": "avgörande",
+                "explanation": "mycket viktigt för hur något slutar"
+              },
+              {
+                "word": "belägring",
+                "explanation": "när soldater omringar en plats och stoppar all hjälp dit, för att tvinga den att ge upp"
+              },
+              {
+                "word": "ruiner",
+                "explanation": "de trasiga delarna som finns kvar efter att en byggnad eller stad förstörs"
+              }
+            ],
+            "main_caption": "Soldater och allierade närmar sig staden över vattnet i skymningen.",
+            "side_caption": "Nya byggnader reser sig sakta där gamla murar en gång stod."
           }
         },
         {
@@ -37749,6 +38098,48 @@
             "caption": "Farmers here grow the red fruit and the green fruit that later travel to Europe.",
             "shutterstock_query": "tomatoes avocados chili peppers woven cloth clay bowl still life",
             "ai_prompt": "Photorealistic vertical close-up still life of ripe red tomatoes, dark green avocados, one cut open, and a few green chili peppers on a woven cotton cloth beside a plain clay bowl, warm daylight, shallow depth of field, no labels, no modern packaging, no readable marks, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ord från en förlorad värld",
+            "text_sentences": [
+              "Folket X bygger ett stort trappformat tempel i hjärtat av sin huvudstad i centrala Mexiko.",
+              "De tror att många olika gudar styr regn, sol och krig.",
+              "Som en del av sin religion utövar folket X också människooffer.",
+              "De använder en komplicerad kalender, med två dagräkningar som snurrar som hjul inuti hjul.",
+              "Präster läser kalendern för att välja lyckosamma och olyckliga dagar för viktiga händelser.",
+              "Marknader i huvudstaden säljer majs, bönor och en bitter dryck gjord av kakaobönor.",
+              "Bönder odlar också en röd frukt och en grön frukt som européer aldrig har smakat förut.",
+              "Efter erövringen för sjömän dessa livsmedel, och deras nahuatlnamn, över havet till Europa.",
+              "I dag använder engelsktalande fortfarande nahuatlord som chocolate och tomato."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Mayafolket",
+              "Zapotekerna",
+              "Olmekerna",
+              "Aztekerna"
+            ],
+            "correct": "Aztekerna",
+            "words": [
+              {
+                "word": "människooffer",
+                "explanation": "att döda en människa som en gåva till en gud"
+              },
+              {
+                "word": "kakao",
+                "explanation": "bönorna som choklad görs av"
+              },
+              {
+                "word": "erövring",
+                "explanation": "när en armé tar över ett land eller ett folk med våld"
+              },
+              {
+                "word": "nahuatl",
+                "explanation": "ett språk som har talats i centrala Mexiko i många århundraden"
+              }
+            ],
+            "main_caption": "Ett högt trappformat tempel reser sig i hjärtat av staden.",
+            "side_caption": "Här odlar bönder den röda frukten och den gröna frukten som senare reser till Europa."
           }
         },
         {
@@ -37806,9 +38197,55 @@
             "caption": "Two kinds of pens, two sides of the same story.",
             "shutterstock_query": "quill inkwell reed brush clay paint dishes still life wooden table",
             "ai_prompt": "Photorealistic vertical still life of two sets of writing tools side by side on a plain wooden table, a European quill pen with a small glass inkwell and, beside it, a reed brush with two small clay dishes of red and black paint, soft daylight, no paper with marks, no faces, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Att skriva om en stads fall",
+            "text_sentences": [
+              "I århundraden berättar många böcker om hur folket X:s huvudstad faller, och de kallar det ett spanskt underverk.",
+              "Moderna historiker ser berättelsen annorlunda.",
+              "En handfull spanska soldater kan aldrig ensamma besegra ett så stort rike.",
+              "Tiotusentals allierade från områdets urfolk och en ny sjukdom avgör kriget.",
+              "Historiker läser spanska brev och även urfolkens egna skildringar.",
+              "Dessa skildringar skrivs senare på nahuatl, med latinska bokstäver.",
+              "Vissa spanska författare skryter, så historiker läser deras brev med försiktighet.",
+              "Dessa källor är ofta oense om detaljer och om vem som bär skulden.",
+              "År 1978 hittar arbetare som gräver i Mexico City av en slump en enorm huggen sten.",
+              "Arkeologer gräver sedan fram det stora templet under gatorna.",
+              "De har studerat platsen sedan dess, och nya föremål kommer fortfarande i dagen.",
+              "I dag talar omkring 1,5 miljoner människor fortfarande nahuatl, folket X:s språk."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Aztekerna",
+              "Inkafolket",
+              "Toltekerna",
+              "Mixtekerna"
+            ],
+            "correct": "Aztekerna",
+            "words": [
+              {
+                "word": "urfolk",
+                "explanation": "de folk som bodde först i ett land, innan andra kom dit"
+              },
+              {
+                "word": "skildringar",
+                "explanation": "berättelser eller beskrivningar av händelser, särskilt skrivna sådana"
+              },
+              {
+                "word": "arkeologer",
+                "explanation": "personer som studerar det förflutna genom att gräva fram och undersöka gamla föremål"
+              },
+              {
+                "word": "underverk",
+                "explanation": "en fantastisk händelse som verkar omöjlig att förklara"
+              }
+            ],
+            "main_caption": "Arbetare gräver försiktigt fram gamla stentrappor gömda under en modern stad.",
+            "side_caption": "Två sorters pennor, två sidor av samma historia."
           }
         }
-      ]
+      ],
+      "person_sv": "Aztekerna"
     },
     {
       "slug": "inca",
@@ -37862,6 +38299,44 @@
             "caption": "A bridge of twisted rope crosses the deep canyon.",
             "shutterstock_query": "rope bridge deep canyon andes traditional",
             "ai_prompt": "Vertical photorealistic view of a simple rope bridge woven from twisted plant fiber stretching across a deep rocky canyon between two cliffs, a lone brown-skinned Indigenous Andean figure in 15th and 16th century Andean dress, a woven tunic, sandals, and a woollen cap, crossing at a distance seen from behind, dramatic steep canyon walls below, no visible face, no modern cables or safety rails, no signs, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Höga fält och repbroar",
+            "text_sentences": [
+              "Folket X lever högt uppe i Anderna för länge sedan.",
+              "Landet är brant, kallt och svårt att odla.",
+              "Ändå bygger familjerna platta fält, som kallas terrasser, i bergssluttningarna.",
+              "Där odlar de potatis och majs på många olika nivåer.",
+              "De har hjordar av lamor som ger ull och kött och som bär laster.",
+              "Bönderna fryser och torkar potatis så att den håller i flera år.",
+              "Över djupa kanjoner hänger människor broar av tvinnat rep.",
+              "Folket X har inga bokstäver och skriver inga böcker.",
+              "I stället använder de långa snören med knutar för att hålla reda på tal och varor."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Aztekerna",
+              "Mochefolket",
+              "Inkafolket",
+              "Nazcafolket"
+            ],
+            "correct": "Inkafolket",
+            "words": [
+              {
+                "word": "terrasser",
+                "explanation": "platta fält som ser ut som trappsteg, uthuggna i en brant bergssida"
+              },
+              {
+                "word": "hjordar",
+                "explanation": "grupper av djur som lever och rör sig tillsammans"
+              },
+              {
+                "word": "kanjoner",
+                "explanation": "djupa, smala dalar med mycket branta sidor"
+              }
+            ],
+            "main_caption": "Familjerna bygger platta fält, som kallas terrasser, i den branta bergssidan.",
+            "side_caption": "En bro av tvinnat rep korsar den djupa kanjonen."
           }
         },
         {
@@ -37917,6 +38392,49 @@
             "caption": "A runner carries a message toward the next resting station.",
             "shutterstock_query": "andean mountain road runner historical distant illustration",
             "ai_prompt": "Vertical photorealistic view of a lone brown-skinned Indigenous Andean runner in 15th and 16th century Andean dress, a woven tunic and sandals, moving fast along a narrow stone-paved mountain road winding toward a small plain stone roadside shelter in the distance, dramatic Andean peaks behind, seen from behind at a distance with no visible face, no modern buildings, wires, or vehicles, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Riket med fyra delar",
+            "text_sentences": [
+              "Folket X bygger det största riket i Amerika innan europeiska skepp anländer.",
+              "Deras huvudstad, Cusco, ligger högt uppe i bergen och styr hela riket.",
+              "Härskarna delar riket i fyra stora delar, var och en med egna guvernörer.",
+              "Vägar binder samman alla delar av landet.",
+              "Tillsammans är vägarna omkring fyrtiotusen kilometer långa.",
+              "Längs dessa vägar bär tränade löpare meddelanden från station till station i hög fart.",
+              "Ett meddelande kan färdas mer än tvåhundra kilometer på en enda dag.",
+              "Skickliga byggare reser murar av huggen sten, sammanfogade utan något murbruk.",
+              "Stenarna passar så bra ihop att inte ens en tunn kniv går att föra in mellan dem.",
+              "Även kraftiga jordbävningar river sällan ner dessa murar."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Inkafolket",
+              "Mayafolket",
+              "Chimú",
+              "Wari"
+            ],
+            "correct": "Inkafolket",
+            "words": [
+              {
+                "word": "guvernörer",
+                "explanation": "personer som väljs ut för att styra och sköta en del av ett land"
+              },
+              {
+                "word": "murbruk",
+                "explanation": "en mjuk blandning som används mellan stenar eller tegel för att hålla ihop dem"
+              },
+              {
+                "word": "station",
+                "explanation": "en fast hållplats längs en väg eller stig"
+              },
+              {
+                "word": "jordbävningar",
+                "explanation": "plötsliga skakningar i marken"
+              }
+            ],
+            "main_caption": "De här enorma stenarna passar ihop perfekt, utan något murbruk.",
+            "side_caption": "En löpare bär ett meddelande mot nästa station."
           }
         },
         {
@@ -37972,6 +38490,49 @@
             "caption": "Storehouses like these once held grain for hard years.",
             "shutterstock_query": "andean stone storehouses hillside grain historical",
             "ai_prompt": "Vertical photorealistic view of a row of small rectangular stone storehouses with thatched roofs built along a windy Andean hillside above farm terraces, doors open showing plain sacks of grain inside, no people present, no modern materials or signs, no readable marks, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En kunglig stad i molnen",
+            "text_sentences": [
+              "Folket X tror på en solgud som vakar över landet.",
+              "De tror att deras härskare är en son till solguden, sänd för att leda folket.",
+              "Alla undersåtar är skyldiga härskaren en del av sin arbetstid varje år.",
+              "Några bygger vägar och broar, andra odlar härskarens egna fält.",
+              "Säd och torkad mat från dessa skördar fyller tusentals förrådshus av sten.",
+              "I tider av torka eller katastrof öppnar härskarna förrådshusen för att mätta de hungriga.",
+              "Högt uppe på en smal bergsrygg i Peru bygger arbetare en liten kunglig stad omkring år 1450.",
+              "Branta, gröna toppar och tät molnskog gömmer den för världen därnere.",
+              "I århundraden är det nästan bara lokala bönder som vet att ruinerna finns där.",
+              "År 1911 leder lokala guider en amerikansk professor till platsen, och fotografier gör den världsberömd."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Tiwanaku",
+              "Chimú",
+              "Inkafolket",
+              "Aztekerna"
+            ],
+            "correct": "Inkafolket",
+            "words": [
+              {
+                "word": "undersåtar",
+                "explanation": "människor som styrs av en kung, drottning eller ett rike"
+              },
+              {
+                "word": "förrådshus",
+                "explanation": "byggnader där mat eller varor förvaras säkert för senare"
+              },
+              {
+                "word": "torka",
+                "explanation": "en lång period med för lite regn"
+              },
+              {
+                "word": "bergsrygg",
+                "explanation": "en lång, smal, hög landremsa, som toppen av ett berg"
+              }
+            ],
+            "main_caption": "En liten stad på en hög bergsrygg, insvept i morgonmoln.",
+            "side_caption": "Sådana här förrådshus var en gång fulla av säd för svåra år."
           }
         },
         {
@@ -38029,6 +38590,51 @@
             "caption": "The room slowly fills with gold and silver, piece by piece.",
             "shutterstock_query": "gold silver vessels pile stone room historical illustration",
             "ai_prompt": "Vertical photorealistic view inside a plain stone room, its floor covered with a growing pile of gold and silver vessels, cups, and ornaments, brought in by a line of brown-skinned Indigenous Andean carriers in 15th and 16th century Andean dress, woven tunics and sandals, seen from behind or at a distance, warm flickering torchlight, no visible faces, the gold and silver objects plain and unmarked with no readable inscriptions, no modern coins, no European coats of arms, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett rum fyllt med guld",
+            "text_sentences": [
+              "En fruktansvärd ny sjukdom dödar härskaren över folket X i slutet av 1520-talet.",
+              "Spanska skepp för sjukdomen över havet redan innan spanska soldater anländer.",
+              "Två av den döda härskarens söner utkämpar sedan ett inbördeskrig om tronen.",
+              "Segraren är en härskare vid namn Atahualpa.",
+              "Han hör talas om en liten främmande armé som marscherar mot honom, men han ser ingen fara.",
+              "År 1532 möter Atahualpa en spansk kapten vid namn Pizarro i staden Cajamarca.",
+              "Pizarro har befäl över bara omkring hundrasjuttio man.",
+              "Ändå anfaller hans män samma dag utan förvarning, tar härskaren till fånga och dödar många obeväpnade människor i hans följe.",
+              "För att vinna sin frihet erbjuder sig Atahualpa att fylla ett stort rum med guld och silver.",
+              "Hans folk bär fram skatten, men spanjorerna behåller både guldet och sin fånge.",
+              "År 1533 avrättar spanjorerna Atahualpa.",
+              "Striderna fortsätter från ett avlägset fäste som kallas Vilcabamba, fram till år 1572, då det sista motståndet tar slut."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Mayafolket",
+              "Inkafolket",
+              "Aztekerna",
+              "Mapuche"
+            ],
+            "correct": "Inkafolket",
+            "words": [
+              {
+                "word": "inbördeskrig",
+                "explanation": "ett krig mellan två grupper från samma land"
+              },
+              {
+                "word": "kapten",
+                "explanation": "en officer som leder soldater eller sjömän"
+              },
+              {
+                "word": "fäste",
+                "explanation": "en stark, väl skyddad plats som är svår att anfalla"
+              },
+              {
+                "word": "skatt",
+                "explanation": "guld, silver eller andra värdefulla saker"
+              }
+            ],
+            "main_caption": "En liten grupp soldater möter en mäktig härskare i en bergsstad.",
+            "side_caption": "Rummet fylls sakta med guld och silver, bit för bit."
           }
         },
         {
@@ -38085,9 +38691,54 @@
             "caption": "Experts still argue about what these old knots can tell us.",
             "shutterstock_query": "knotted cords hands closeup historical no pattern",
             "ai_prompt": "Vertical photorealistic close-up of a pair of weathered brown-skinned hands holding a bundle of knotted cords of different colors, the knots and cords shown at an angle and depth of field that reveals no readable or decodable pattern, soft warm indoor light, no visible face, no modern objects, no labels, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Knutarna som fortfarande förbryllar oss",
+            "text_sentences": [
+              "Historiker frågar sig fortfarande hur en liten främmande styrka erövrar ett så stort rike.",
+              "Dödlig sjukdom och ett inbördeskrig försvagar redan folket X innan inkräktarna kommer.",
+              "Grupper som är bittra på den styrande klassen ansluter sig också till nykomlingarna mot sina gamla härskare.",
+              "Hästar och vapen av stål ger den lilla invaderande styrkan ytterligare ett tydligt övertag.",
+              "Forskare studerar också folket X:s knutsnören, som sköts av tränade specialister.",
+              "Alla är överens om att snörena registrerar tal med stor noggrannhet.",
+              "Men experter tvistar fortfarande om knutarna även kan återge ord eller berättelser.",
+              "Ingen har någonsin helt löst denna gamla gåta om mönster och färg.",
+              "Quechua, språket som folket X spred över sitt rike, lever kvar.",
+              "I dag talar åtta till tio miljoner människor det.",
+              "Deras kungliga stad högt uppe i bergen drar i dag besökare från hela världen."
+            ],
+            "question": "Vilket folk är folket X?",
+            "options": [
+              "Nazcafolket",
+              "Wari",
+              "Tiwanaku",
+              "Inkafolket"
+            ],
+            "correct": "Inkafolket",
+            "words": [
+              {
+                "word": "specialister",
+                "explanation": "människor med särskild träning och skicklighet i ett visst arbete"
+              },
+              {
+                "word": "noggrannhet",
+                "explanation": "att vara exakt och korrekt, utan misstag"
+              },
+              {
+                "word": "övertag",
+                "explanation": "något som hjälper den ena sidan att lyckas bättre än den andra"
+              },
+              {
+                "word": "bittra",
+                "explanation": "arga och besvikna över något som känns orättvist"
+              }
+            ],
+            "main_caption": "Deras ättlingar bor fortfarande i bergen och talar sitt eget språk i dag.",
+            "side_caption": "Experter tvistar fortfarande om vad dessa gamla knutar kan berätta för oss."
           }
         }
-      ]
+      ],
+      "person_sv": "Inkafolket"
     },
     {
       "slug": "haitian-revolution",
@@ -38144,6 +38795,47 @@
             "caption": "A ship arrives from across the ocean, carrying people who never chose to come.",
             "shutterstock_query": "eighteenth century three masted sailing ship anchored palm shore dusk caribbean illustration",
             "ai_prompt": "Vertical historical illustration of an eighteenth century three masted wooden sailing ship with square sails furled, at anchor off a palm lined Caribbean shore at dusk, seen from the beach at a distance, a small rowboat approaching the sand, warm dusk light, somber calm mood, no people visible up close, no chains, no cargo, no flags, no modern boats, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "De reser sig ur sockerfälten",
+            "text_sentences": [
+              "Revolutionen X börjar på en ö i Karibiska havet.",
+              "Skepp för många människor från Afrika dit med tvång.",
+              "På ön måste dessa människor arbeta utan lön på sockerfälten.",
+              "Livet där är hårt, och många människor lider.",
+              "År 1791 reser sig de förslavade människorna tillsammans mot sina slavägare.",
+              "De kämpar ett långt, hårt krig i många år.",
+              "Till slut vinner de, och de bygger sitt eget nya land.",
+              "Det är det första landet byggt av människor som en gång var förslavade."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Franska revolutionen",
+              "Haitis revolution",
+              "Mexikanska revolutionen",
+              "Kubanska revolutionen"
+            ],
+            "correct": "Haitis revolution",
+            "words": [
+              {
+                "word": "tvång",
+                "explanation": "makt som används för att tvinga någon att göra något mot sin vilja"
+              },
+              {
+                "word": "förslavad",
+                "explanation": "tvingad av andra att arbeta utan frihet eller lön"
+              },
+              {
+                "word": "slavägare",
+                "explanation": "människor som tvingar andra människor till slaveri"
+              },
+              {
+                "word": "resa sig",
+                "explanation": "att tillsammans kämpa mot dem som har makten"
+              }
+            ],
+            "main_caption": "På en karibisk ö sköter förslavade arbetare sockerrörsfälten.",
+            "side_caption": "Ett skepp kommer över havet och för med sig människor som aldrig valde att komma."
           }
         },
         {
@@ -38198,6 +38890,48 @@
             "caption": "Tradition says that in a forest at night, leaders once made a secret plan.",
             "shutterstock_query": "dark forest clearing night distant firelight caribbean illustration",
             "ai_prompt": "Vertical atmospheric illustration of a quiet forest clearing at night, seen from a distance among dark tree trunks, a faint orange glow of firelight flickering deep between the trees, no people visible, no ritual objects, no symbols, calm mysterious mood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Ett möte i skogen",
+            "text_sentences": [
+              "Revolutionen X äger rum i Frankrikes rikaste koloni.",
+              "Socker och kaffe från kolonin ger Frankrike enorma rikedomar.",
+              "Omkring en halv miljon människor där lever förslavade.",
+              "En berättelse säger att hemliga ledare möts en natt i skogen i augusti 1791.",
+              "Traditionen säger att de där planerar ett stort uppror tillsammans.",
+              "Strax efteråt börjar upproret, och det sprider sig snabbt över kolonins norra del.",
+              "En tidigare förslavad man vid namn Toussaint Louverture blir dess ledare.",
+              "Två år senare avskaffar franska tjänstemän i kolonin slaveriet där.",
+              "Året därpå förklarar Frankrike slaveriet avskaffat i alla landets kolonier."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Ryska revolutionen",
+              "Amerikanska revolutionen",
+              "Haitis revolution",
+              "Mexikanska revolutionen"
+            ],
+            "correct": "Haitis revolution",
+            "words": [
+              {
+                "word": "koloni",
+                "explanation": "ett land som styrs och kontrolleras av ett annat, avlägset land"
+              },
+              {
+                "word": "förslavad",
+                "explanation": "tvingad av andra att arbeta utan frihet eller lön"
+              },
+              {
+                "word": "tradition",
+                "explanation": "en berättelse eller sed som förs vidare från äldre tider"
+              },
+              {
+                "word": "uppror",
+                "explanation": "en plötslig, organiserad kamp mot dem som har makten"
+              }
+            ],
+            "main_caption": "En armé växer fram på ön, redo att kämpa för sin egen frihet.",
+            "side_caption": "Traditionen säger att ledare en gång gjorde upp en hemlig plan i skogen på natten."
           }
         },
         {
@@ -38254,6 +38988,50 @@
             "caption": "Far from home, a leader is held alone in a cold stone cell.",
             "shutterstock_query": "empty stone prison cell barred window historical illustration",
             "ai_prompt": "Vertical photorealistic image of a small, bare stone prison cell with a single barred window high on the wall, a plain wooden stool in the corner, cold pale light falling across the floor, no people present, no chains, no restraints, quiet somber mood, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En armé korsar havet",
+            "text_sentences": [
+              "År 1801 har revolutionen X förändrat hela kolonin.",
+              "Toussaint Louverture styr nu kolonin som dess ledare.",
+              "Det året utfärdar han en ny författning för landet.",
+              "Frankrikes nye härskare accepterar inte detta.",
+              "År 1802 anländer hans stora armé över havet för att ta tillbaka makten.",
+              "Franska soldater tar Toussaint Louverture till fånga och skickar honom till ett fängelse i Frankrike.",
+              "Han dör där 1803, långt hemifrån.",
+              "Men striderna fortsätter utan honom under en ny ledare, Dessalines.",
+              "Hans krigare håller ut i små fort högt uppe i bergen.",
+              "I november 1803 vinner hans styrkor ett avgörande slag vid Vertières.",
+              "Den första januari 1804 förklarar kolonin sin självständighet."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Haitis revolution",
+              "Kubanska revolutionen",
+              "Texasrevolutionen",
+              "Franska revolutionen"
+            ],
+            "correct": "Haitis revolution",
+            "words": [
+              {
+                "word": "författning",
+                "explanation": "en skriven uppsättning regler för hur ett land styrs"
+              },
+              {
+                "word": "ta till fånga",
+                "explanation": "att gripa en person och hålla kvar honom med tvång"
+              },
+              {
+                "word": "avgörande",
+                "explanation": "en avgörande händelse löser en kamp tydligt, en gång för alla"
+              },
+              {
+                "word": "härskare",
+                "explanation": "en person som har makten att styra ett land"
+              }
+            ],
+            "main_caption": "I bergen ger fort som detta skydd åt öns krigare.",
+            "side_caption": "Långt hemifrån hålls en ledare ensam i en kall stencell."
           }
         },
         {
@@ -38309,6 +39087,49 @@
             "caption": "Money on one side, a paper promise on the other.",
             "shutterstock_query": "brass balance scale cloth money bag folded paper desk lamplight",
             "ai_prompt": "Vertical photorealistic close-up of a brass balance scale on a dark wooden desk, a plain heavy cloth money bag tied with string on one side and a folded blank paper on the other, the scale tilted toward the bag, soft lamplight, quiet formal mood, no coins, no gold bars, no markings on the bag, no people, no writing on the paper, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Frihetens pris",
+            "text_sentences": [
+              "Friheten för revolutionen X har ett högt pris.",
+              "År 1804 dödar den nya nationens soldater de flesta fransmän som fortfarande bor i det nya landet.",
+              "Många andra länder håller fortfarande människor förslavade.",
+              "De vägrar acceptera den nya fria staten.",
+              "I decennier vill knappt något land erkänna den som en fri och jämlik nation.",
+              "År 1825 kräver Frankrike betalning för sin förlorade koloni och hotar med krig.",
+              "Den nya nationen går med på att betala en enorm skuld för att bli erkänd och lämnad i fred.",
+              "Det tar mer än hundra år att betala hela skulden.",
+              "Pengar som kunde ha byggt skolor och vägar går i stället utomlands.",
+              "USA erkänner inte den nya nationen förrän 1862."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Amerikanska revolutionen",
+              "Haitis revolution",
+              "Kubanska revolutionen",
+              "Mexikanska revolutionen"
+            ],
+            "correct": "Haitis revolution",
+            "words": [
+              {
+                "word": "skuld",
+                "explanation": "pengar som du är skyldig och måste betala tillbaka"
+              },
+              {
+                "word": "erkänna",
+                "explanation": "att officiellt acceptera ett nytt land som verkligt och jämlikt"
+              },
+              {
+                "word": "vägra",
+                "explanation": "att säga nej och inte gå med på något"
+              },
+              {
+                "word": "hota",
+                "explanation": "att varna för skada eller fara om inte något sker"
+              }
+            ],
+            "main_caption": "Ett tomt bord väntar på en överenskommelse mellan två mycket ojämlika sidor.",
+            "side_caption": "Pengar på ena sidan, ett papperslöfte på den andra."
           }
         },
         {
@@ -38364,9 +39185,53 @@
             "caption": "An old island outline, waiting for a new name to replace an old one.",
             "shutterstock_query": "hand tracing island outline old blank map paper closeup illustration",
             "ai_prompt": "Photorealistic close-up of a hand tracing a finger along the plain outline of an island shape drawn on old, blank paper, an invented island shape that does not match any real island, no place names or labels anywhere, warm desk light, quiet thoughtful mood, generic hand, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Upproret som Europa glömde",
+            "text_sentences": [
+              "Historiker kallar revolutionen X det enda helt lyckade upproret av förslavade människor i historien.",
+              "Ändå nämner många historieböcker i Europa det knappt under lång tid.",
+              "Vissa historiker frågar sig varför en så viktig händelse förblir i marginalen så länge.",
+              "En möjlig förklaring är att upproret skrämde andra slavägande länder på den tiden.",
+              "Skulden som betalades till Frankrike efter självständigheten påverkar fortfarande dagens debatter om rättvisa.",
+              "De flesta skriftliga källor om kriget kommer från den franska sidan, inte från de stridande.",
+              "Historiker diskuterar också hur detta uppror förändrade kampen mot slaveriet i andra länder.",
+              "När den nya nationen bildas 1804 tar den ett gammalt namn som en gång användes av öns första folk.",
+              "Det namnet ersätter namnet som gavs av tidigare europeiska nybyggare.",
+              "Historiker studerar fortfarande varför detta uppror lyckades när så många andra misslyckades."
+            ],
+            "question": "Vilken revolution är revolutionen X?",
+            "options": [
+              "Kubanska revolutionen",
+              "Ryska revolutionen",
+              "Haitis revolution",
+              "Texasrevolutionen"
+            ],
+            "correct": "Haitis revolution",
+            "words": [
+              {
+                "word": "uppror",
+                "explanation": "en organiserad kamp av människor mot dem som har makten"
+              },
+              {
+                "word": "marginal",
+                "explanation": "kanterna av något, långt från den stora uppmärksamheten"
+              },
+              {
+                "word": "skrämde",
+                "explanation": "gjorde någon rädd"
+              },
+              {
+                "word": "källor",
+                "explanation": "de gamla brev, rapporter och papper som historiker använder för att lära sig om det förflutna"
+              }
+            ],
+            "main_caption": "I dag lär sig eleverna den historia som många böcker i Europa länge utelämnade.",
+            "side_caption": "Konturen av en ö på ett gammalt papper, som väntar på att ett nytt namn ska ersätta ett gammalt."
           }
         }
-      ]
+      ],
+      "person_sv": "Haitis revolution"
     },
     {
       "slug": "simon-bolivar",
@@ -38423,6 +39288,47 @@
             "caption": "As a boy, Mr X loses both his parents and grows up without them.",
             "shutterstock_query": "boy silhouette window colonial house courtyard alone from behind historical",
             "ai_prompt": "Photorealistic vertical illustration of the inside of a grand colonial house, late eighteenth century South American interior, a white creole boy in plain dark 1790s clothes, short jacket and knee breeches, standing alone at a tall window overlooking an empty courtyard, seen entirely from behind, soft grey daylight, quiet solemn mood, plain wooden furniture in the room, no other people, no visible face, no readable papers or book spines, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En pojke som förlorar allt och kommer tillbaka för att kämpa",
+            "text_sentences": [
+              "Herr X föds i Caracas, en stad i Sydamerika.",
+              "Hans familj är mycket rik och viktig.",
+              "Herr X blir föräldralös när han fortfarande är en pojke.",
+              "En klok lärare formar hur han ser på världen.",
+              "Som ung man reser han långt bort till Europa.",
+              "Där hör han nya idéer om frihet och självstyre.",
+              "Han kommer hem och går med i kampen för frihet.",
+              "Han vill att hans hemland ska styra sig själv.",
+              "Han vill inte att en kung långt borta ska styra det.",
+              "Han kämpar i många år mot kungens arméer.",
+              "Han hjälper till att befria flera länder från spanskt styre.",
+              "I dag bär ett helt land hans namn."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "José de San Martín",
+              "Simón Bolívar",
+              "Francisco de Miranda",
+              "Bernardo O'Higgins"
+            ],
+            "correct": "Simón Bolívar",
+            "words": [
+              {
+                "word": "föräldralös",
+                "explanation": "ett barn vars båda föräldrar har dött"
+              },
+              {
+                "word": "självstyre",
+                "explanation": "när en plats styrs av sitt eget folk, inte av en kung långt borta"
+              },
+              {
+                "word": "hemland",
+                "explanation": "landet där du är född och hör hemma"
+              }
+            ],
+            "main_caption": "Herr X växer upp i en rik och viktig familj i en stad nära kusten.",
+            "side_caption": "Som pojke förlorar herr X båda sina föräldrar och växer upp utan dem."
           }
         },
         {
@@ -38475,6 +39381,46 @@
             "caption": "After years of defeat, the ragged army rests before its hardest march.",
             "shutterstock_query": "campfire night worn boots torn cloaks soldiers silhouette historical",
             "ai_prompt": "Warm realistic vertical illustration of a small campfire at night, worn leather boots, torn wool cloaks, and rough blankets laid out on bare ground beside the flames, a few seated early nineteenth century soldiers seen only from behind or as silhouettes near the fire, warm flickering firelight against the dark, weary quiet mood, no visible faces, no modern gear, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "En ed i Rom, en armé i Anderna",
+            "text_sentences": [
+              "Enligt hans egen berättelse svär herr X år 1805 på en kulle i Rom att befria sitt hemland.",
+              "Han är fortfarande en ung man, och hans gamla lärare står bredvid honom.",
+              "Flera år senare, år 1810, avsätter ett lokalt råd i Caracas kungens guvernör och börjar styra på egen hand.",
+              "Krig följer, och i flera år förlorar herr X fler strider än han vinner.",
+              "Två gånger måste han fly i exil, och hans sak är nästan förlorad.",
+              "En fri svart republik i Karibien ger honom då skepp, vapen och pengar.",
+              "I gengäld lovar herr X att befria förslavade människor i de länder han befriar.",
+              "År 1819 leder han en trasig armé upp i de iskalla Anderna.",
+              "Många soldater och hästar dör av kylan på de höga bergsstigarna.",
+              "När hans armé kommer ner på andra sidan överraskar den kungens soldater.",
+              "I ett slag som kallas Boyacá vinner herr X en viktig seger."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Simón Bolívar",
+              "Toussaint Louverture",
+              "Miguel Hidalgo",
+              "José de San Martín"
+            ],
+            "correct": "Simón Bolívar",
+            "words": [
+              {
+                "word": "råd",
+                "explanation": "en grupp människor som väljs för att styra eller fatta beslut tillsammans"
+              },
+              {
+                "word": "exil",
+                "explanation": "att leva långt från sitt eget land, ofta för att det inte är säkert att återvända"
+              },
+              {
+                "word": "trasig",
+                "explanation": "sliten, sönderriven och i dåligt skick"
+              }
+            ],
+            "main_caption": "Högt uppe i de kalla bergen marscherar herr X och hans soldater vidare genom is och dimma.",
+            "side_caption": "Efter år av nederlag vilar den trasiga armén inför sin svåraste marsch."
           }
         },
         {
@@ -38526,6 +39472,45 @@
             "caption": "Leaders gather here to shape the laws of the new republic.",
             "shutterstock_query": "empty legislative hall wooden chairs desks morning light historical",
             "ai_prompt": "Photorealistic vertical illustration of an empty early nineteenth century legislative hall interior, rows of plain wooden chairs and desks facing a raised speaker's platform, tall windows letting in soft morning light, calm orderly mood, no people, no flags, no emblems, no readable papers, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Två generaler möts i Guayaquil",
+            "text_sentences": [
+              "Herr X hjälper till att bygga en stor ny republik som förenar flera länder i norra Sydamerika.",
+              "År 1821 vinner hans styrkor ett stort slag som säkrar hans hemland åt republiken.",
+              "År 1822 befriar fler segrar bergsstaden Quito, och hamnstaden Guayaquil ansluter sig till hans republik.",
+              "Samma år möter herr X en ledare från söder, José de San Martín, i Guayaquil.",
+              "De två männen samtalar ensamma, och efteråt lämnar San Martín tyst självständighetskampen.",
+              "Herr X kämpar vidare för att avsluta kampen i Peru.",
+              "År 1824 vinner hans general Antonio José de Sucre ett avgörande slag vid Ayacucho.",
+              "Den segern avgör kriget, och det spanska styret i Sydamerika tar snart slut.",
+              "Året därpå tar ett nytt land högt uppe i bergen form.",
+              "Tacksamma ledare där uppkallar det nya landet efter herr X själv."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Bernardo O'Higgins",
+              "Francisco de Miranda",
+              "Simón Bolívar",
+              "José Martí"
+            ],
+            "correct": "Simón Bolívar",
+            "words": [
+              {
+                "word": "republik",
+                "explanation": "ett land som styrs av valda ledare, inte av en kung eller drottning"
+              },
+              {
+                "word": "hamnstad",
+                "explanation": "en stad vid vattnet där fartyg lastar och lossar last"
+              },
+              {
+                "word": "avgörande",
+                "explanation": "som avgör en sak helt, med ett tydligt resultat"
+              }
+            ],
+            "main_caption": "Två ledare från olika självständighetskrig möts i tysthet i en hamnstad.",
+            "side_caption": "Ledare samlas här för att forma den nya republikens lagar."
           }
         },
         {
@@ -38578,6 +39563,46 @@
             "caption": "Near the end, Mr X rules almost alone, with power that few dare question.",
             "shutterstock_query": "crowd plaza looking up balcony distant figure 1820s from behind historical",
             "ai_prompt": "Photorealistic vertical illustration of a crowd of townspeople in 1820s dress, a mixed crowd of white creole, mestizo, Black and Indigenous people, filling a plaza and looking up at a balcony where one small distant figure in a dark military coat stands alone, seen from behind the crowd, solemn heavy mood, no faces, no flags, no emblems, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Mannen som tar all makt",
+            "text_sentences": [
+              "Tidigt under krigen, år 1813, undertecknar herr X en sträng order.",
+              "Den förklarar krig på liv och död mot spanjorer som inte ansluter sig till saken.",
+              "År 1828 tar herr X nästan total makt över den stora republik han byggt.",
+              "Kritiker kallar honom nu en diktator, som styr nästan som de kungar han en gång bekämpade.",
+              "En natt bryter sig beväpnade män in i hans hus för att döda honom.",
+              "Hans följeslagare, Manuela Sáenz, hjälper honom att fly genom ett fönster och möter sedan angriparna själv.",
+              "Herr X överlever, men allt fler vänder sig nu mot hans styre.",
+              "År 1830 börjar den stora republiken falla sönder i separata länder.",
+              "Utsliten och sjuk lämnar herr X ifrån sig all sin makt samma år.",
+              "Han sägs skriva att han bara har plöjt havet.",
+              "Han dör senare samma år i Santa Marta, en liten kuststad, av en lungsjukdom."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "José Martí",
+              "Emiliano Zapata",
+              "Antonio José de Sucre",
+              "Simón Bolívar"
+            ],
+            "correct": "Simón Bolívar",
+            "words": [
+              {
+                "word": "diktator",
+                "explanation": "en härskare med total makt, inte fritt vald av folket"
+              },
+              {
+                "word": "följeslagare",
+                "explanation": "en person som håller sig nära dig och hjälper och stöttar dig"
+              },
+              {
+                "word": "plöjt",
+                "explanation": "vänt upp jorden på en åker så att man kan så i den"
+              }
+            ],
+            "main_caption": "En natt kommer beväpnade män för att hämta herr X, men hans följeslagare hjälper honom att fly.",
+            "side_caption": "Mot slutet styr herr X nästan ensam, med makt som få vågar ifrågasätta."
           }
         },
         {
@@ -38629,9 +39654,49 @@
             "caption": "Long after his death, people still argue over how to remember Mr X.",
             "shutterstock_query": "empty stone pedestal park dusk no statue quiet historical",
             "ai_prompt": "Atmospheric vertical photo style image of an empty weathered stone pedestal standing alone in a quiet park at dusk, no statue on top, soft fading light, a few fallen leaves at its base, no people present, no readable plaque or inscription, no flags, no national emblems, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Hjälte eller diktator?",
+            "text_sentences": [
+              "Historiker debatterar fortfarande om herr X främst är en hjälte eller en diktator.",
+              "I ett brev skrivet från Jamaica år 1815 tvivlar han på att hans region är redo för full demokrati.",
+              "Han menar att en stark centralmakt kan behövas för att hålla ihop nya nationer.",
+              "Senare styr han med mycket mer personlig makt än de flesta valda ledare.",
+              "Vissa historiker betonar hans vision om förenade, självständiga nationer, fria från Europas kungar.",
+              "Andra betonar hans växande misstro mot att vanligt folk styr sig själva.",
+              "Efter hans död används hans namn och bild av mycket olika politiska rörelser.",
+              "I dag bär mynt, städer och torg i hela regionen fortfarande hans namn.",
+              "Moderna politiker i hela regionen åberopar fortfarande hans namn och arv.",
+              "Historiker studerar hans brev och tal för att skilja mannen från myten."
+            ],
+            "question": "Vem är herr X?",
+            "options": [
+              "Antonio José de Sucre",
+              "José de San Martín",
+              "George Washington",
+              "Simón Bolívar"
+            ],
+            "correct": "Simón Bolívar",
+            "words": [
+              {
+                "word": "centralmakt",
+                "explanation": "en stark makt som styr över ett helt land"
+              },
+              {
+                "word": "misstro",
+                "explanation": "en känsla av att inte lita på någon eller något"
+              },
+              {
+                "word": "åberopa",
+                "explanation": "att nämna eller använda något som ett skäl eller stöd för ett argument"
+              }
+            ],
+            "main_caption": "Från exil skriver herr X ett långt brev om sin regions framtid.",
+            "side_caption": "Långt efter hans död tvistar människor fortfarande om hur herr X ska minnas."
           }
         }
-      ]
+      ],
+      "person_sv": "Simón Bolívar"
     },
     {
       "slug": "ottoman-empire",
@@ -38692,6 +39757,51 @@
             "caption": "Gardeners in the empire grow flowers shaped like small cups.",
             "shutterstock_query": "tulip garden close up colorful rows morning light",
             "ai_prompt": "A close-up photo of many colorful tulips growing in neat rows in a formal garden, petals shaped like small cups, soft warm morning light, photorealistic, shallow depth of field, no people, no signs, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Från liten stat till stort rike",
+            "text_sentences": [
+              "Rike X börjar som en liten stat.",
+              "En turkisk prins leder denna lilla stat.",
+              "Dess hem är en plats som heter Anatolien.",
+              "Långsamt växer den lilla staten till ett mycket stort rike.",
+              "Nära därifrån, på andra sidan ett smalt sund, ligger en stor gammal stad.",
+              "År 1453 tar rike X denna stad.",
+              "Staden blir rikets huvudstad.",
+              "Den ligger där Europa möter Asien.",
+              "Härskaren i rike X kallas sultan.",
+              "Riket växer tills det styr land på tre kontinenter.",
+              "Rikets trädgårdsmästare odlar också tulpaner, färgglada blommor som snart även Europa älskar.",
+              "Rike X styr i omkring sexhundra år."
+            ],
+            "question": "Vilket rike är rike X?",
+            "options": [
+              "Romarriket",
+              "Mongolriket",
+              "Osmanska riket",
+              "Bysantinska riket"
+            ],
+            "correct": "Osmanska riket",
+            "words": [
+              {
+                "word": "kontinenter",
+                "explanation": "stora landområden, jorden har sju av dem"
+              },
+              {
+                "word": "sultan",
+                "explanation": "härskaren i riket, som en kung"
+              },
+              {
+                "word": "tulpaner",
+                "explanation": "trädgårdsblommor formade som små koppar"
+              },
+              {
+                "word": "sund",
+                "explanation": "en smal vattenväg mellan två landområden"
+              }
+            ],
+            "main_caption": "Kupoler och torn reser sig över en av rikets stora städer.",
+            "side_caption": "Rikets trädgårdsmästare odlar blommor formade som små koppar."
           }
         },
         {
@@ -38748,6 +39858,50 @@
             "caption": "These soldiers once were boys taken from Christian families.",
             "shutterstock_query": "janissary soldiers historical illustration marching from behind",
             "ai_prompt": "A dignified illustration of a line of soldiers marching away from the viewer on a dusty road, seen only from behind, wearing tall pale felt caps and long kaftans in 15th to 16th century dress, calm orderly mood, no faces, no flags, no insignia, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Kanoner, lagar och pojksoldater",
+            "text_sentences": [
+              "Rike X växer snabbt under 1400- och 1500-talet.",
+              "År 1453 tar en ung härskare vid namn Mehmed II en stor stad med murar.",
+              "Jättelika nya kanoner krossar murar som stått i tusen år.",
+              "Den gamla staden blir rikets nya huvudstad.",
+              "Senare utfärdar en härskare vid namn Süleyman nya lagar för hela riket.",
+              "Människor kallar honom en stor lagstiftare på grund av detta arbete.",
+              "År 1526 vinner hans armé ett stort slag som heter Mohács.",
+              "År 1529 står hans soldater utanför Wiens portar.",
+              "Många soldater i denna armé är janitsjarer.",
+              "Som pojkar tas janitsjarerna från kristna familjer inne i riket.",
+              "De växer upp som soldater och tjänstemän som bara är lojala mot härskaren."
+            ],
+            "question": "Vilket rike är rike X?",
+            "options": [
+              "Osmanska riket",
+              "Habsburgska riket",
+              "Bysantinska riket",
+              "Safavidiska riket"
+            ],
+            "correct": "Osmanska riket",
+            "words": [
+              {
+                "word": "janitsjarer",
+                "explanation": "soldater i härskarens egen armé, en gång tagna från familjer som pojkar"
+              },
+              {
+                "word": "lagstiftare",
+                "explanation": "en person som skriver nya lagar för ett helt land"
+              },
+              {
+                "word": "tjänstemän",
+                "explanation": "människor som arbetar officiellt åt härskaren eller staten"
+              },
+              {
+                "word": "huvudstad",
+                "explanation": "den viktigaste staden i ett land, där härskaren bor"
+              }
+            ],
+            "main_caption": "Oxar drar en jättelik kanon mot de gamla murarna.",
+            "side_caption": "Dessa soldater var en gång pojkar som togs från kristna familjer."
           }
         },
         {
@@ -38803,6 +39957,49 @@
             "caption": "In coffee houses like this, people gather to talk and drink coffee.",
             "shutterstock_query": "historic coffee house interior cushions low tables illustration",
             "ai_prompt": "A warm illustration of the inside of an old coffee house, seen from behind the customers, men in kaftans and turbans sitting on cushions around low wooden tables holding small cups, soft lamplight, cosy mood, no faces, no readable text, no calligraphy, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Många folk, ett rike",
+            "text_sentences": [
+              "På 1500-talet är rike X hem för många folk och många religioner.",
+              "Kristna, judar och muslimer bor alla inom dess gränser.",
+              "Varje religiös gemenskap sköter sin egen familjerätt, sina egna skolor och sina egna platser för gudstjänst.",
+              "Senare kallar historiker ofta detta milletsystemet.",
+              "I huvudstaden ritar en begåvad arkitekt vid namn Sinan stora moskéer.",
+              "Hans jättelika kupoler ser ut att vila lätt på ringar av små fönster.",
+              "Handelsmän reser över rikets land mellan Asien och Europa.",
+              "Genom dessa länder kommer en ny mörk dryck som heter kaffe för första gången till Europa.",
+              "Kaffehus öppnar i många städer, och människor samlas där för att prata.",
+              "På detta sätt binder ett enda rike samman tre kontinenter genom handel och idéer."
+            ],
+            "question": "Vilket rike är rike X?",
+            "options": [
+              "Mogulriket",
+              "Osmanska riket",
+              "Abbasidkalifatet",
+              "Safavidiska riket"
+            ],
+            "correct": "Osmanska riket",
+            "words": [
+              {
+                "word": "arkitekt",
+                "explanation": "en person som planerar och ritar byggnader"
+              },
+              {
+                "word": "kupoler",
+                "explanation": "runda tak, som den övre halvan av ett klot"
+              },
+              {
+                "word": "millet",
+                "explanation": "här: en religiös grupp som sköter sin egen familjerätt och sina egna skolor"
+              },
+              {
+                "word": "gemenskap",
+                "explanation": "en grupp människor som delar samma tro eller liv"
+              }
+            ],
+            "main_caption": "Många olika folk delar gatorna i rikets städer.",
+            "side_caption": "I kaffehus som detta samlas människor för att prata och dricka kaffe."
           }
         },
         {
@@ -38860,6 +40057,51 @@
             "caption": "Railways slowly connect the far parts of the empire.",
             "shutterstock_query": "old steam locomotive railway track hills distance vintage",
             "ai_prompt": "An old railway track curving through dry hills, a small 19th century steam locomotive with a tall chimney far in the distance trailing faint smoke, warm late afternoon light, photorealistic, no people, no signs, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Europas sjuke man",
+            "text_sentences": [
+              "På 1800-talet kallar andra länder rike X för Europas sjuke man.",
+              "Namnet betyder att människor tror att riket långsamt dör.",
+              "Från 1839 försöker nya reformer modernisera lagar, skolor och armén.",
+              "Reformerna för med sig viss förändring, men många gamla problem finns kvar.",
+              "Järnvägar och telegraflinjer knyter långsamt samman rikets avlägsna delar.",
+              "I början av 1900-talet förlorar riket mer land i krig på Balkan.",
+              "År 1914 går riket in i ett stort krig på Tysklands sida.",
+              "Under detta krig, från 1915, beordrar regeringen dödandet av större delen av rikets armeniska befolkning.",
+              "Historiker kallar i dag detta dödande för ett folkmord.",
+              "Det stora kriget slutar illa, och utländska arméer ockuperar delar av riket.",
+              "Rike X upphör slutligen år 1922, efter omkring sexhundra år.",
+              "År 1923 hjälper en ledare som senare kallas Atatürk till att skapa en ny republik."
+            ],
+            "question": "Vilket rike är rike X?",
+            "options": [
+              "Habsburgska riket",
+              "Ryska riket",
+              "Mogulriket",
+              "Osmanska riket"
+            ],
+            "correct": "Osmanska riket",
+            "words": [
+              {
+                "word": "reformer",
+                "explanation": "förändringar av lagar eller system för att göra dem bättre"
+              },
+              {
+                "word": "folkmord",
+                "explanation": "det planerade dödandet av väldigt många människor från en grupp"
+              },
+              {
+                "word": "ockupera",
+                "explanation": "när en armé flyttar in på en plats och kontrollerar den med våld"
+              },
+              {
+                "word": "befolkning",
+                "explanation": "alla människor som bor på en plats"
+              }
+            ],
+            "main_caption": "I rum som detta möts tjänstemän för att planera nya reformer.",
+            "side_caption": "Järnvägar knyter långsamt samman rikets avlägsna delar."
           }
         },
         {
@@ -38915,9 +40157,53 @@
             "caption": "In many towns, buildings from the empire's time still stand side by side.",
             "shutterstock_query": "balkan hill town stone street minaret bell tower washing lines",
             "ai_prompt": "Vertical view of a narrow old stone street in a hill town of the Balkans, a slender minaret at the far end and a church bell tower nearer, washing lines between houses, soft daylight, photorealistic, no people, no crescent, no cross, no signs, no flags, no text, no letters, no numbers."
+          },
+          "sv": {
+            "title": "Nedgång, eller något annat?",
+            "text_sentences": [
+              "Länge berättade historiker en enkel historia om rike X: långsam nedgång.",
+              "Ny forskning ifrågasätter denna enkla historia.",
+              "Forskarna hävdar att riket i århundraden inte är svagt, bara i förändring.",
+              "Det styr mycket olika folk, språk och religioner inom ett enda system.",
+              "Vissa historiker kallar det nu ett pluralistiskt samhälle snarare än en döende jätte.",
+              "Riket upphör slutligen på 1920-talet, efter politiska och militära kriser.",
+              "Länge förlitade sig historiker mest på europeiska rapporter om riket.",
+              "I dag läser de också rikets egna dokument, som förvaras i stora arkiv i Istanbul.",
+              "Regeringar tvistar fortfarande om vad man ska kalla dödandet av armenierna 1915, vilket de flesta historiker kallar ett folkmord.",
+              "Idéer från detta rike, och gränserna som drogs när det föll, formar fortfarande Mellanöstern och Balkan i dag."
+            ],
+            "question": "Vilket rike är rike X?",
+            "options": [
+              "Osmanska riket",
+              "Mongolriket",
+              "Abbasidkalifatet",
+              "Ryska riket"
+            ],
+            "correct": "Osmanska riket",
+            "words": [
+              {
+                "word": "pluralistiskt",
+                "explanation": "sammansatt av många olika delar, inte bara en"
+              },
+              {
+                "word": "kriser",
+                "explanation": "mycket allvarliga och farliga stunder, en av dem är en kris"
+              },
+              {
+                "word": "arkiv",
+                "explanation": "platser där gamla dokument och papper förvaras"
+              },
+              {
+                "word": "historiker",
+                "explanation": "människor som studerar det förflutna"
+              }
+            ],
+            "main_caption": "Marknader byggda under rikets tid är fortfarande livliga i dag.",
+            "side_caption": "I många städer står byggnader från rikets tid fortfarande sida vid sida."
           }
         }
-      ]
+      ],
+      "person_sv": "Osmanska riket"
     }
   ]
 }

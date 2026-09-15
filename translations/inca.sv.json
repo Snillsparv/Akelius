@@ -1,0 +1,214 @@
+{
+  "slug": "inca",
+  "person_sv": "Inkafolket",
+  "cards": [
+    {
+      "title": "Höga fält och repbroar",
+      "text_sentences": [
+        "Folket X lever högt uppe i Anderna för länge sedan.",
+        "Landet är brant, kallt och svårt att odla.",
+        "Ändå bygger familjerna platta fält, som kallas terrasser, i bergssluttningarna.",
+        "Där odlar de potatis och majs på många olika nivåer.",
+        "De har hjordar av lamor som ger ull och kött och som bär laster.",
+        "Bönderna fryser och torkar potatis så att den håller i flera år.",
+        "Över djupa kanjoner hänger människor broar av tvinnat rep.",
+        "Folket X har inga bokstäver och skriver inga böcker.",
+        "I stället använder de långa snören med knutar för att hålla reda på tal och varor."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Aztekerna",
+        "Mochefolket",
+        "Inkafolket",
+        "Nazcafolket"
+      ],
+      "words": [
+        {
+          "word": "terrasser",
+          "explanation": "platta fält som ser ut som trappsteg, uthuggna i en brant bergssida"
+        },
+        {
+          "word": "hjordar",
+          "explanation": "grupper av djur som lever och rör sig tillsammans"
+        },
+        {
+          "word": "kanjoner",
+          "explanation": "djupa, smala dalar med mycket branta sidor"
+        }
+      ],
+      "main_caption": "Familjerna bygger platta fält, som kallas terrasser, i den branta bergssidan.",
+      "side_caption": "En bro av tvinnat rep korsar den djupa kanjonen."
+    },
+    {
+      "title": "Riket med fyra delar",
+      "text_sentences": [
+        "Folket X bygger det största riket i Amerika innan europeiska skepp anländer.",
+        "Deras huvudstad, Cusco, ligger högt uppe i bergen och styr hela riket.",
+        "Härskarna delar riket i fyra stora delar, var och en med egna guvernörer.",
+        "Vägar binder samman alla delar av landet.",
+        "Tillsammans är vägarna omkring fyrtiotusen kilometer långa.",
+        "Längs dessa vägar bär tränade löpare meddelanden från station till station i hög fart.",
+        "Ett meddelande kan färdas mer än tvåhundra kilometer på en enda dag.",
+        "Skickliga byggare reser murar av huggen sten, sammanfogade utan något murbruk.",
+        "Stenarna passar så bra ihop att inte ens en tunn kniv går att föra in mellan dem.",
+        "Även kraftiga jordbävningar river sällan ner dessa murar."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Inkafolket",
+        "Mayafolket",
+        "Chimú",
+        "Wari"
+      ],
+      "words": [
+        {
+          "word": "guvernörer",
+          "explanation": "personer som väljs ut för att styra och sköta en del av ett land"
+        },
+        {
+          "word": "murbruk",
+          "explanation": "en mjuk blandning som används mellan stenar eller tegel för att hålla ihop dem"
+        },
+        {
+          "word": "station",
+          "explanation": "en fast hållplats längs en väg eller stig"
+        },
+        {
+          "word": "jordbävningar",
+          "explanation": "plötsliga skakningar i marken"
+        }
+      ],
+      "main_caption": "De här enorma stenarna passar ihop perfekt, utan något murbruk.",
+      "side_caption": "En löpare bär ett meddelande mot nästa station."
+    },
+    {
+      "title": "En kunglig stad i molnen",
+      "text_sentences": [
+        "Folket X tror på en solgud som vakar över landet.",
+        "De tror att deras härskare är en son till solguden, sänd för att leda folket.",
+        "Alla undersåtar är skyldiga härskaren en del av sin arbetstid varje år.",
+        "Några bygger vägar och broar, andra odlar härskarens egna fält.",
+        "Säd och torkad mat från dessa skördar fyller tusentals förrådshus av sten.",
+        "I tider av torka eller katastrof öppnar härskarna förrådshusen för att mätta de hungriga.",
+        "Högt uppe på en smal bergsrygg i Peru bygger arbetare en liten kunglig stad omkring år 1450.",
+        "Branta, gröna toppar och tät molnskog gömmer den för världen därnere.",
+        "I århundraden är det nästan bara lokala bönder som vet att ruinerna finns där.",
+        "År 1911 leder lokala guider en amerikansk professor till platsen, och fotografier gör den världsberömd."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Tiwanaku",
+        "Chimú",
+        "Inkafolket",
+        "Aztekerna"
+      ],
+      "words": [
+        {
+          "word": "undersåtar",
+          "explanation": "människor som styrs av en kung, drottning eller ett rike"
+        },
+        {
+          "word": "förrådshus",
+          "explanation": "byggnader där mat eller varor förvaras säkert för senare"
+        },
+        {
+          "word": "torka",
+          "explanation": "en lång period med för lite regn"
+        },
+        {
+          "word": "bergsrygg",
+          "explanation": "en lång, smal, hög landremsa, som toppen av ett berg"
+        }
+      ],
+      "main_caption": "En liten stad på en hög bergsrygg, insvept i morgonmoln.",
+      "side_caption": "Sådana här förrådshus var en gång fulla av säd för svåra år."
+    },
+    {
+      "title": "Ett rum fyllt med guld",
+      "text_sentences": [
+        "En fruktansvärd ny sjukdom dödar härskaren över folket X i slutet av 1520-talet.",
+        "Spanska skepp för sjukdomen över havet redan innan spanska soldater anländer.",
+        "Två av den döda härskarens söner utkämpar sedan ett inbördeskrig om tronen.",
+        "Segraren är en härskare vid namn Atahualpa.",
+        "Han hör talas om en liten främmande armé som marscherar mot honom, men han ser ingen fara.",
+        "År 1532 möter Atahualpa en spansk kapten vid namn Pizarro i staden Cajamarca.",
+        "Pizarro har befäl över bara omkring hundrasjuttio man.",
+        "Ändå anfaller hans män samma dag utan förvarning, tar härskaren till fånga och dödar många obeväpnade människor i hans följe.",
+        "För att vinna sin frihet erbjuder sig Atahualpa att fylla ett stort rum med guld och silver.",
+        "Hans folk bär fram skatten, men spanjorerna behåller både guldet och sin fånge.",
+        "År 1533 avrättar spanjorerna Atahualpa.",
+        "Striderna fortsätter från ett avlägset fäste som kallas Vilcabamba, fram till år 1572, då det sista motståndet tar slut."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Mayafolket",
+        "Inkafolket",
+        "Aztekerna",
+        "Mapuche"
+      ],
+      "words": [
+        {
+          "word": "inbördeskrig",
+          "explanation": "ett krig mellan två grupper från samma land"
+        },
+        {
+          "word": "kapten",
+          "explanation": "en officer som leder soldater eller sjömän"
+        },
+        {
+          "word": "fäste",
+          "explanation": "en stark, väl skyddad plats som är svår att anfalla"
+        },
+        {
+          "word": "skatt",
+          "explanation": "guld, silver eller andra värdefulla saker"
+        }
+      ],
+      "main_caption": "En liten grupp soldater möter en mäktig härskare i en bergsstad.",
+      "side_caption": "Rummet fylls sakta med guld och silver, bit för bit."
+    },
+    {
+      "title": "Knutarna som fortfarande förbryllar oss",
+      "text_sentences": [
+        "Historiker frågar sig fortfarande hur en liten främmande styrka erövrar ett så stort rike.",
+        "Dödlig sjukdom och ett inbördeskrig försvagar redan folket X innan inkräktarna kommer.",
+        "Grupper som är bittra på den styrande klassen ansluter sig också till nykomlingarna mot sina gamla härskare.",
+        "Hästar och vapen av stål ger den lilla invaderande styrkan ytterligare ett tydligt övertag.",
+        "Forskare studerar också folket X:s knutsnören, som sköts av tränade specialister.",
+        "Alla är överens om att snörena registrerar tal med stor noggrannhet.",
+        "Men experter tvistar fortfarande om knutarna även kan återge ord eller berättelser.",
+        "Ingen har någonsin helt löst denna gamla gåta om mönster och färg.",
+        "Quechua, språket som folket X spred över sitt rike, lever kvar.",
+        "I dag talar åtta till tio miljoner människor det.",
+        "Deras kungliga stad högt uppe i bergen drar i dag besökare från hela världen."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Nazcafolket",
+        "Wari",
+        "Tiwanaku",
+        "Inkafolket"
+      ],
+      "words": [
+        {
+          "word": "specialister",
+          "explanation": "människor med särskild träning och skicklighet i ett visst arbete"
+        },
+        {
+          "word": "noggrannhet",
+          "explanation": "att vara exakt och korrekt, utan misstag"
+        },
+        {
+          "word": "övertag",
+          "explanation": "något som hjälper den ena sidan att lyckas bättre än den andra"
+        },
+        {
+          "word": "bittra",
+          "explanation": "arga och besvikna över något som känns orättvist"
+        }
+      ],
+      "main_caption": "Deras ättlingar bor fortfarande i bergen och talar sitt eget språk i dag.",
+      "side_caption": "Experter tvistar fortfarande om vad dessa gamla knutar kan berätta för oss."
+    }
+  ]
+}

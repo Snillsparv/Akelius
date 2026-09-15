@@ -9,7 +9,7 @@ Akelius översätter till tio andra språk.
 
 ## Levererade kort
 
-**370 kort · 74 ämnen**, samtliga faktagranskade och specgranskade.
+**400 kort · 80 ämnen**, samtliga faktagranskade och specgranskade.
 Sedan 2026-08-26 levereras varje kort tvåspråkigt: engelsk text plus granskad
 svensk översättning (växla språk med knappen på förhandsvisningssidorna).
 
@@ -39,6 +39,8 @@ svensk översättning (växla språk med knappen på förhandsvisningssidorna).
   Swahilikusten, Kapplöpningen om Afrika, Afrikas självständighet
 - **Leverans 12** — Qin Shi Huangdi, Sidenvägen, Ashoka, Zheng He, Akbar,
   Meijirestaurationen
+- **Leverans 13** — Mayafolket, Aztekerna, Inkafolket, Haitis revolution,
+  Simón Bolívar, Osmanska riket
 
 Alla korten går att läsa direkt här nedanför under [Korten](#korten)
 — fäll ut ett kort för att se text, svarsalternativ med facit och ordlista.
@@ -86,11 +88,11 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 ## Bilder
 
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(740 st för leverans 1–12: 370 kort × huvudbild + sidobild).
+(800 st för leverans 1–13: 400 kort × huvudbild + sidobild).
 
-**Status: 544 av 740 bilder klara** — samtliga kort i leverans 1–8 har
+**Status: 544 av 800 bilder klara** — samtliga kort i leverans 1–8 har
 huvudbild och sidobild; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
-hela Marie Curie) och leverans 10–12 väntar helt, i väntan på påfyllda
+hela Marie Curie) och leverans 10–13 väntar helt, i väntan på påfyllda
 krediter hos bildtjänsten. Varje batch
 har kvalitetsgranskats bild för bild mot sina briefer, och underkända bilder
 har genererats om.
@@ -8493,6 +8495,662 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 **Svar:** ⬜ The French Revolution · ✅ The Meiji Restoration · ⬜ The Young Turk Revolution · ⬜ The Tanzimat reforms
 
 **Ord:** *bureaucracy* — the officials and offices that run a state's daily business · *nationalists* — people who work for their nation's freedom or strength · *literacy* — the ability to read and write · *conquest* — taking control of a place by force
+
+</details>
+
+### Mayafolket
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Pyramids in the Jungle</summary>
+
+> The X people live in the forests and hills of Central America, long ago.  
+> Their home covers parts of Guatemala, Mexico, Belize, and Honduras.  
+> They build tall stone pyramids among the trees.  
+> Farmers grow maize in fields cut from the forest.  
+> Maize is the base of almost every meal.  
+> People also make a bitter drink from cacao beans.  
+> Kings rule many great cities, each one on its own.  
+> Some of these cities have tens of thousands of people.  
+> Traders carry salt, jade, and bright feathers between the cities.  
+> Centuries later, the jungle grows back over many empty cities.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Olmecs · ✅ The Maya · ⬜ The Toltecs · ⬜ The Aztecs
+
+**Ord:** *jungle* — a thick, hot forest with many trees and plants · *maize* — a tall plant with grain on it; another word is corn · *cacao* — the beans used to make chocolate · *centuries* — periods of one hundred years
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Many Cities, One People</summary>
+
+> The X people of Guatemala and nearby lands never build one single empire.  
+> Instead, they live in many separate city-states.  
+> Cities such as Tikal and Calakmul often fight each other for power.  
+> Each city has its own king, temples, and marketplace.  
+> Priests and scribes write with small picture signs called glyphs.  
+> These glyphs record kings, wars, and important dates.  
+> Priests also build a careful calendar with many cycles of time.  
+> Their calendar has a sign for zero, not borrowed from any other part of the world.  
+> In many cities, people play a fast ball game on a stone court.  
+> Players hit a solid rubber ball using only their hips and legs.  
+> Winning a match can bring great honor to a whole city.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Zapotecs · ⬜ The Mixtecs · ✅ The Maya · ⬜ The Toltecs
+
+**Ord:** *glyphs* — small picture signs used for writing · *scribes* — people whose job is writing things down · *cycles* — sets of time that repeat again and again · *rubber* — a stretchy material made from tree sap
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Star Charts and Burned Books</summary>
+
+> Priests among the X people study the sky with great care.  
+> They track the path of Venus across many years.  
+> Scribes paint long books made of folded bark paper.  
+> These books hold the astronomy, the calendar, and the rituals.  
+> In the 1520s, Spanish soldiers arrive and slowly conquer the region.  
+> Some cities resist for generations, hidden deep in the forest.  
+> In 1562, a Spanish priest named Landa orders many of these folded books burned.  
+> He believes the books hold false and dangerous beliefs.  
+> Almost all the books of a whole people turn to ash.  
+> Only four of these folded books survive to the present day.  
+> The very last free city does not fall until 1697.  
+> **Who are the X people?**
+
+**Svar:** ✅ The Maya · ⬜ The Aztecs · ⬜ The Inca · ⬜ The Taíno
+
+**Ord:** *rituals* — special religious acts done in a fixed way · *resist* — to fight back and refuse to give up · *ash* — the gray powder left after something burns · *survive* — to continue to exist after a danger
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Silent Cities</summary>
+
+> The X people build many great cities across Central America.  
+> Between about 800 and 950, many of these southern cities fall silent.  
+> Kings stop raising new stone monuments there.  
+> Farmers slowly leave the fields around the empty temples.  
+> Historians still argue about the exact cause of this change.  
+> Some point to long periods of severe drought in the region.  
+> Others point to constant warfare between rival city-states.  
+> Too many people may have also strained the land and its harvests.  
+> Probably, several of these pressures strike at the same time.  
+> Meanwhile, cities further north, like Chichén Itzá, keep on thriving.  
+> So this is not a sudden end for every single city at once.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Moche · ⬜ The Olmecs · ⬜ The Zapotecs · ✅ The Maya
+
+**Ord:** *drought* — a long time with too little rain · *warfare* — fighting and war between groups · *strained* — pushed too hard, close to breaking · *thriving* — growing strong and doing very well
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Reading the Silent Signs</summary>
+
+> For centuries, no one can read the glyphs of the X people.  
+> Early scholars guess wildly and often get the meaning wrong.  
+> In the 1950s, a Soviet scholar named Knorozov studies the signs closely.  
+> He argues that many glyphs represent sounds, not only whole ideas.  
+> Later decades of careful research slowly confirm and extend his method.  
+> By the late twentieth century, most glyphs can finally be read.  
+> Meanwhile, a strange modern myth claims the world ends in 2012.  
+> This idea comes from misreading part of the ancient calendar.  
+> Historians and scholars of the X people reject this myth completely.  
+> Today, descendants still live across the region and speak their own languages.  
+> Many of them ask governments to respect their land and their rights.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Inca · ✅ The Maya · ⬜ The Mixtecs · ⬜ The Taíno
+
+**Ord:** *descendants* — people related to someone who lived long ago · *myth* — a story many people believe that is not true · *represent* — to stand for or show something else · *decades* — periods of ten years
+
+</details>
+
+### Aztekerna
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A City in the Middle of a Lake</summary>
+
+> The X people live in a high valley in Mexico.  
+> Long ago, they build a city on an island in a lake.  
+> Long roads of earth and stone lead across the water.  
+> Farmers build small fields of rich mud in the shallow lake.  
+> Canoes carry food and goods across the calm water every day.  
+> A huge market at Tlatelolco sells food, cloth, and tools.  
+> Spanish visitors later say they have never seen a market so big.  
+> A great city keeps growing on the very same spot.  
+> Today, that city is the capital of Mexico.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Maya · ✅ The Aztecs · ⬜ The Olmecs · ⬜ The Toltecs
+
+**Ord:** *canoes* — small boats that people move with paddles · *goods* — things that people buy, sell, or carry · *capital* — the main city of a country, where its government is · *shallow* — not deep, where the water is low
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A Story of a New City</summary>
+
+> The X people are a small group of newcomers.  
+> They arrive in a valley in Mexico with a lake in the middle.  
+> A story says their gods send them a sign, an eagle on a cactus.  
+> They must build their city where they see this sign.  
+> In 1325, they build Tenochtitlan on an island in that lake.  
+> They dig canals so canoes can reach every part of the city.  
+> A long raised stone channel called an aqueduct carries fresh water into the city.  
+> In 1428, their city joins with two other cities in a strong alliance.  
+> Together, the three cities defeat their old enemies and grow into an empire.  
+> Conquered towns must now send tribute, such as food and cloth, at fixed times.  
+> By the year 1500, historians estimate that about two hundred thousand people live in the city.  
+> **Who are the X people?**
+
+**Svar:** ✅ The Aztecs · ⬜ The Inca · ⬜ The Zapotecs · ⬜ The Purépecha
+
+**Ord:** *alliance* — an agreement between groups to work together · *tribute* — goods or money that a conquered people must give to a ruler · *aqueduct* — a long raised channel that carries water from far away · *estimate* — a careful guess based on facts
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — The City Falls</summary>
+
+> The X people rule a rich empire from the valley of Mexico in the year 1519.  
+> Spanish ships arrive on the coast that same year, led by a captain named Cortés.  
+> Moctezuma, the ruler of the X people, receives the strangers at first with gifts.  
+> Cortés finds allies among the people of Tlaxcala, old enemies of the X people.  
+> These allies bring soldiers and knowledge of the land that prove decisive.  
+> In 1520, a terrible sickness brought by the newcomers spreads through the city.  
+> Thousands of the X people die of this new disease within months.  
+> The weakened city cannot hold back the siege that follows in 1521.  
+> After months of fighting, the city on the lake finally falls.  
+> On its ruins, the newcomers build a new capital, Mexico City.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Inca · ⬜ The Purépecha · ✅ The Aztecs · ⬜ The Taíno
+
+**Ord:** *allies* — people who join and help you, especially in a fight · *decisive* — very important for deciding how something ends · *siege* — when soldiers surround a place and cut off help, to make it surrender · *ruins* — the broken parts left after a building or city is destroyed
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — Words from a Lost World</summary>
+
+> The X people build a great stepped temple at the heart of their capital in central Mexico.  
+> They believe many different gods control rain, sun, and war.  
+> As part of their religion, the X people also practice human sacrifice.  
+> They use a complex calendar, with two counts of days that turn like wheels within wheels.  
+> Priests read the calendar to choose lucky and unlucky days for important events.  
+> Markets in the capital sell maize, beans, and a bitter drink made from cacao beans.  
+> Farmers also grow a red fruit and a green fruit that Europeans have never tasted before.  
+> After the conquest, sailors carry these foods, and their Nahuatl names, across the ocean to Europe.  
+> Today, English speakers still use Nahuatl words such as chocolate and tomato.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Maya · ⬜ The Zapotecs · ⬜ The Olmecs · ✅ The Aztecs
+
+**Ord:** *sacrifice* — killing a person or animal as an offering to a god · *cacao* — the beans used to make chocolate · *maize* — a grain plant also known as corn · *Nahuatl* — a language spoken in central Mexico for many centuries
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Writing the Fall of a City</summary>
+
+> For centuries, many books tell the fall of the X people's capital as a Spanish miracle.  
+> Modern historians see the story differently.  
+> A handful of Spanish soldiers alone can never defeat such a large empire.  
+> Tens of thousands of indigenous allies and a new disease decide the war.  
+> Historians read Spanish letters and also indigenous accounts.  
+> These accounts are written later in Nahuatl, using Latin letters.  
+> Some Spanish writers boast, so historians read their letters with care.  
+> These sources often disagree about details and about who to blame.  
+> In 1978, workers digging in Mexico City find a huge carved stone by chance.  
+> Archaeologists then dig out the great temple beneath the streets.  
+> They have studied the site ever since, and new objects still come to light.  
+> Today, about one and a half million people still speak Nahuatl, the language of the X people.  
+> **Who are the X people?**
+
+**Svar:** ✅ The Aztecs · ⬜ The Inca · ⬜ The Toltecs · ⬜ The Mixtecs
+
+**Ord:** *indigenous* — belonging to a place from the very beginning, before others arrived · *accounts* — stories or descriptions of events, especially written ones · *archaeologists* — people who study the past by digging up and examining old objects · *miracle* — an amazing event that seems impossible to explain
+
+</details>
+
+### Inkafolket
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — High Fields and Rope Bridges</summary>
+
+> The X people live high in the Andes mountains, long ago.  
+> The land is steep, cold, and hard to farm.  
+> Even so, families cut flat fields called terraces into the mountainsides.  
+> There they grow potatoes and corn on many different levels.  
+> They keep herds of llamas for wool, meat, and carrying loads.  
+> Farmers freeze and dry potatoes to keep them for years.  
+> Over deep canyons, people hang bridges of twisted rope.  
+> The X people write no letters and no books.  
+> Instead, they keep long knotted cords to record numbers and goods.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Aztecs · ⬜ The Moche · ✅ The Inca · ⬜ The Nazca
+
+**Ord:** *terraces* — flat, step-like fields cut into the side of a steep hill · *herds* — groups of animals that live and move together · *canyons* — deep, narrow valleys with very steep sides
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — The Empire of Four Parts</summary>
+
+> The X people build the largest empire in the Americas before European ships arrive.  
+> Their capital, Cusco, lies high in the mountains and controls the whole empire.  
+> Rulers divide the empire into four great parts, each with its own governors.  
+> Roads link every part of the land.  
+> Together they run about forty thousand kilometers.  
+> Along these roads, trained runners carry messages from station to station at great speed.  
+> A message can travel more than two hundred kilometers in a single day.  
+> Skilled builders raise walls of cut stone, fitted together without any mortar.  
+> The stones fit so well that not even a thin knife can slide between them.  
+> Even strong earthquakes rarely bring these walls down.  
+> **Who are the X people?**
+
+**Svar:** ✅ The Inca · ⬜ The Maya · ⬜ The Chimú · ⬜ The Wari
+
+**Ord:** *governors* — people chosen to rule and manage one part of a land · *mortar* — a soft mix used between stones or bricks to hold them together · *station* — a fixed stopping place along a road or path · *earthquakes* — sudden shaking movements of the ground
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — A Royal Town in the Clouds</summary>
+
+> The X people believe in a sun god who watches over the land.  
+> They believe their ruler is a son of this sun god, sent to guide the people.  
+> All subjects owe the ruler a share of their working time each year.  
+> Some build roads and bridges, others farm the ruler's own fields.  
+> Grain and dried food from these harvests fill thousands of stone storehouses.  
+> In times of drought or disaster, rulers open the storehouses to feed the hungry.  
+> High on a narrow mountain ridge in Peru, workers raise a small royal town around 1450.  
+> Steep green peaks and thick cloud forest hide it from the world below.  
+> For centuries, almost only local farmers know the ruins are there.  
+> In 1911, local guides lead an American professor to the site, and photographs make it world famous.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Tiwanaku · ⬜ The Chimú · ✅ The Inca · ⬜ The Aztecs
+
+**Ord:** *subjects* — people who are ruled by a king, queen, or empire · *storehouses* — buildings where food or goods are kept safe for later · *drought* — a long period with too little rain · *ridge* — a long, narrow, high strip of land, like the top edge of a mountain
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — A Room Filled with Gold</summary>
+
+> A terrible new sickness kills the ruler of the X people in the late 1520s.  
+> Spanish ships carry this sickness across the ocean even before Spanish soldiers arrive.  
+> Two of the dead ruler's sons then fight a civil war over the throne.  
+> The winner is a ruler named Atahualpa.  
+> He hears of a small foreign army marching toward him, but he sees no danger.  
+> In 1532, a Spanish captain named Pizarro meets Atahualpa in the town of Cajamarca.  
+> Pizarro commands only about one hundred and seventy men.  
+> Yet that same day, his men attack without warning, capture the ruler, and kill many unarmed followers.  
+> To win his freedom, Atahualpa offers to fill a large room with gold and silver.  
+> His people bring the treasure, but the Spanish keep both the gold and their prisoner.  
+> In 1533, the Spanish put Atahualpa to death.  
+> Fighting continues from a remote stronghold called Vilcabamba until 1572, when the last resistance ends.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Maya · ✅ The Inca · ⬜ The Aztecs · ⬜ The Mapuche
+
+**Ord:** *civil war* — a war between two groups from the same country · *captain* — an officer who leads soldiers or sailors · *stronghold* — a strong, well-protected place that is hard to attack · *treasure* — gold, silver, or other valuable things
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The Knots That Still Puzzle Us</summary>
+
+> Historians still ask how a small foreign force conquers such a vast empire.  
+> Deadly disease and a civil war already weaken the X people before the invaders come.  
+> Groups who resent the ruling class also join the newcomers against their old rulers.  
+> Horses and steel weapons give the small invading force another sharp advantage.  
+> Scholars also study the X people's knotted cords, kept by trained specialists.  
+> Everyone agrees the cords record numbers with great accuracy.  
+> But experts still argue about whether the knots can also record words or stories.  
+> No one has ever fully solved this old puzzle of pattern and color.  
+> Quechua, the language the X people spread across their empire, lives on.  
+> Eight to ten million people speak it today.  
+> Their royal town high in the mountains now draws visitors from around the world.  
+> **Who are the X people?**
+
+**Svar:** ⬜ The Nazca · ⬜ The Wari · ⬜ The Tiwanaku · ✅ The Inca
+
+**Ord:** *specialists* — people with special training and skill in one kind of work · *accuracy* — being exact and correct, without mistakes · *advantage* — something that helps one side do better than another · *resent* — to feel angry about something that seems unfair
+
+</details>
+
+### Haitis revolution
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — Rising from the sugar fields</summary>
+
+> Revolution X begins on an island in the Caribbean Sea.  
+> Ships carry many people there from Africa by force.  
+> On the island, these people must work without pay in sugar fields.  
+> Life there is hard, and many people suffer.  
+> In 1791, the enslaved people rise up together against their enslavers.  
+> They fight a long, hard war for many years.  
+> In the end, they win, and they build their own new country.  
+> It is the first country built by people who were once enslaved.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The French Revolution · ✅ The Haitian Revolution · ⬜ The Mexican Revolution · ⬜ The Cuban Revolution
+
+**Ord:** *force* — power used to make someone do something against their will · *enslaved* — forced by others to work without freedom or pay · *enslavers* — people who force other people into slavery · *rise up* — to fight back together against people in power
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — A meeting in the forest</summary>
+
+> Revolution X takes place on France's richest colony.  
+> Sugar and coffee from this colony bring in enormous wealth for France.  
+> About half a million people there live enslaved.  
+> A story says that in August 1791, secret leaders meet at night in a forest.  
+> Tradition says that there, they plan a great uprising together.  
+> Soon after, the uprising begins, and it spreads fast across the north of the colony.  
+> A formerly enslaved man named Toussaint Louverture becomes its leader.  
+> Two years later, French officials in the colony end slavery there.  
+> The next year, France declares an end to slavery in all of its colonies too.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Russian Revolution · ⬜ The American Revolution · ✅ The Haitian Revolution · ⬜ The Mexican Revolution
+
+**Ord:** *colony* — a land ruled and controlled by another, distant country · *enslaved* — forced by others to work without freedom or pay · *tradition* — a story or custom passed down from earlier times · *uprising* — a sudden, organized fight against those in power
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — An army crosses the ocean</summary>
+
+> By 1801, Revolution X has changed the whole colony.  
+> Toussaint Louverture now governs the colony as its leader.  
+> That year, he issues a new constitution for the land.  
+> The new ruler of France does not accept this.  
+> In 1802, his large army arrives from across the ocean to take back control.  
+> French soldiers capture Toussaint Louverture and send him to a prison in France.  
+> He dies there in 1803, far from home.  
+> But the fighting continues without him under a new leader, Dessalines.  
+> His fighters hold out in small forts high in the mountains.  
+> In November 1803, his forces win a decisive battle at Vertières.  
+> On the first day of January 1804, the colony declares its independence.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ✅ The Haitian Revolution · ⬜ The Cuban Revolution · ⬜ The Texas Revolution · ⬜ The French Revolution
+
+**Ord:** *constitution* — a written set of rules for how a country is governed · *capture* — to catch and hold a person by force · *decisive* — a decisive event settles a struggle clearly, once and for all · *ruler* — a person who holds the power to govern a country
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The price of freedom</summary>
+
+> Freedom for Revolution X comes at a heavy price.  
+> In 1804, the new nation's soldiers kill most of the French people still living in the new country.  
+> Many other nations still hold enslaved people.  
+> They refuse to accept this new free state.  
+> For decades, hardly any country will recognize it as a free and equal nation.  
+> In 1825, France demands payment for its lost colony and threatens war.  
+> The new nation agrees to pay a huge debt in return for being recognized and left alone.  
+> It takes more than a hundred years to pay this debt in full.  
+> Money that could build schools and roads goes abroad instead.  
+> The United States does not recognize the new nation until 1862.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The American Revolution · ✅ The Haitian Revolution · ⬜ The Cuban Revolution · ⬜ The Mexican Revolution
+
+**Ord:** *debt* — money that you owe and must pay back · *recognize* — to officially accept a new country as real and equal · *refuse* — to say no and not agree to something · *threatens* — warns of harm or danger unless something happens
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — The revolt Europe forgot</summary>
+
+> Historians call Revolution X the only fully successful revolt of enslaved people in history.  
+> Yet for a long time, many history books in Europe barely mention it.  
+> Some historians ask why such an important event stays at the margins for so long.  
+> One suggestion is that the revolt frightened other slave-holding nations at the time.  
+> The debt paid to France after independence still shapes debates about justice today.  
+> Most written sources about the war come from the French side, not from the fighters.  
+> Historians also debate how this revolt changed the fight against slavery in other lands.  
+> When the new nation forms in 1804, it takes an old name once used by the island's first people.  
+> That name replaces the name given by earlier European settlers.  
+> Historians still study why this revolt succeeded when so many others failed.  
+> **Which revolution is Revolution X?**
+
+**Svar:** ⬜ The Cuban Revolution · ⬜ The Russian Revolution · ✅ The Haitian Revolution · ⬜ The Texas Revolution
+
+**Ord:** *revolt* — an organized fight by people against those in power · *margins* — the edges of something, far from the main attention · *frightened* — made afraid of something · *sources* — the old letters, reports, and papers that historians use to learn about the past
+
+</details>
+
+### Simón Bolívar
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — A Boy Who Loses Everything and Returns to Fight</summary>
+
+> Mr X is born in Caracas, a city in South America.  
+> His family is very rich and important.  
+> Mr X becomes an orphan when he is still a boy.  
+> A wise teacher shapes how he sees the world.  
+> As a young man, he travels far away to Europe.  
+> There he hears new ideas about freedom and self rule.  
+> He comes home and joins the fight for freedom.  
+> He wants his homeland to rule itself.  
+> He does not want a distant king to rule it.  
+> He fights for many years against the king's armies.  
+> He helps free several countries from Spanish rule.  
+> Today, a whole country carries his name.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ José de San Martín · ✅ Simón Bolívar · ⬜ Francisco de Miranda · ⬜ Bernardo O'Higgins
+
+**Ord:** *orphan* — a child whose parents have both died · *self rule* — when a place is governed by its own people, not by a king far away · *homeland* — the country where you are born and belong
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — An Oath in Rome, an Army in the Andes</summary>
+
+> By his own account, in 1805, Mr X swears on a hill in Rome to free his homeland.  
+> He is still a young man, and his old teacher stands beside him.  
+> Years later, in 1810, a local council in Caracas removes the king's governor and starts to rule on its own.  
+> War follows, and for years Mr X loses more battles than he wins.  
+> Twice he must flee into exile, his cause nearly dead.  
+> A free Black republic in the Caribbean then gives him ships, guns, and money.  
+> In return, Mr X promises to free enslaved people in the lands he frees.  
+> In 1819, he leads a ragged army up into the freezing Andes.  
+> Many soldiers and horses die from cold on the high mountain paths.  
+> Coming down the other side, his army surprises the king's soldiers.  
+> At a battle called Boyacá, Mr X wins an important victory.  
+> **Who is Mr X?**
+
+**Svar:** ✅ Simón Bolívar · ⬜ Toussaint Louverture · ⬜ Miguel Hidalgo · ⬜ José de San Martín
+
+**Ord:** *council* — a group of people chosen to govern or make decisions together · *exile* — living far from your own country, often because it is not safe to return · *ragged* — worn out, torn, and in poor condition
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Two Generals Meet in Guayaquil</summary>
+
+> Mr X helps build a large new republic uniting several lands in the north of South America.  
+> In 1821, his forces win a major battle that secures his homeland for the republic.  
+> In 1822, more victories free the mountain city of Quito, and the port of Guayaquil joins his republic.  
+> That same year, Mr X meets a leader from the south, José de San Martín, at Guayaquil.  
+> The two men talk alone, and afterward San Martín quietly leaves the independence struggle.  
+> Mr X presses on to finish the fight in Peru.  
+> In 1824, his general Antonio José de Sucre wins a decisive battle at Ayacucho.  
+> That victory decides the war, and Spanish rule in South America soon ends.  
+> The next year, a new country high in the mountains takes shape.  
+> Grateful leaders there name the new country after Mr X himself.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Bernardo O'Higgins · ⬜ Francisco de Miranda · ✅ Simón Bolívar · ⬜ José Martí
+
+**Ord:** *republic* — a country governed by chosen leaders, not by a king or queen · *port* — a town by the water where ships load and unload · *decisive* — settling a matter completely, with a clear result
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The Man Who Takes All the Power</summary>
+
+> Early in the wars, in 1813, Mr X signs a strict order.  
+> It declares war to the death against Spaniards who will not join the cause.  
+> In 1828, Mr X takes near total power over the great republic he built.  
+> Critics now call him a dictator, ruling almost like the kings he once fought.  
+> One night, armed men break into his house to kill him.  
+> His companion, Manuela Sáenz, helps him escape through a window, then faces the attackers herself.  
+> Mr X survives, but more and more people now turn against his rule.  
+> In 1830, the great republic starts to break apart into separate countries.  
+> Worn out and ill, Mr X gives up all his power that same year.  
+> He is said to write that he has only ploughed the sea.  
+> He dies later that year in Santa Marta, a small coastal town, of a lung illness.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ José Martí · ⬜ Emiliano Zapata · ⬜ Antonio José de Sucre · ✅ Simón Bolívar
+
+**Ord:** *dictator* — a ruler with total power, not chosen freely by the people · *companion* — a person who stays close to you and helps and supports you · *ploughed* — turned over the soil to prepare it for planting
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Hero or Dictator?</summary>
+
+> Historians still debate whether Mr X is mainly a hero or a dictator.  
+> In a letter written from Jamaica in 1815, he doubts that his region is ready for full democracy.  
+> He argues that strong, central government may be needed to hold new nations together.  
+> Later, he rules with far more personal power than most elected leaders.  
+> Some historians stress his vision of united, independent nations, free from European crowns.  
+> Others stress his growing distrust of ordinary people ruling themselves.  
+> After his death, his name and image are used by very different political movements.  
+> Today, coins, cities, and squares across the region still carry his name.  
+> Modern politicians across the region still invoke his name and legacy.  
+> Historians study his letters and speeches to separate the man from the myth.  
+> **Who is Mr X?**
+
+**Svar:** ⬜ Antonio José de Sucre · ⬜ José de San Martín · ⬜ George Washington · ✅ Simón Bolívar
+
+**Ord:** *central government* — one strong government that holds power over a whole country · *distrust* — a feeling of not trusting someone or something · *invoke* — to name or use something as a reason or support for an argument
+
+</details>
+
+### Osmanska riket
+
+<details>
+<summary><b>Kort 1 · Årskurs 6</b> — From small state to empire</summary>
+
+> Empire X starts as a small state.  
+> A Turkish prince leads this small state.  
+> Its home is a place called Anatolia.  
+> Slowly, the small state grows into a huge empire.  
+> Close by, across a narrow strait, stands a great old city.  
+> In 1453, Empire X takes this city.  
+> This city becomes the empire's capital.  
+> It lies where Europe meets Asia.  
+> The ruler of Empire X is called the sultan.  
+> The empire grows until it rules land on three continents.  
+> Its gardeners also grow tulips, bright flowers that Europe soon loves too.  
+> Empire X rules for about six hundred years.  
+> **Which empire is Empire X?**
+
+**Svar:** ⬜ The Roman Empire · ⬜ The Mongol Empire · ✅ The Ottoman Empire · ⬜ The Byzantine Empire
+
+**Ord:** *continents* — large areas of land; Earth has seven of them · *sultan* — the ruler of the empire, like a king · *tulips* — garden flowers shaped like small cups · *strait* — a narrow passage of water between two lands
+
+</details>
+
+<details>
+<summary><b>Kort 2 · Årskurs 9</b> — Guns, laws, and boy soldiers</summary>
+
+> Empire X grows fast during the 1400s and 1500s.  
+> In 1453, a young ruler named Mehmed II takes a great walled city.  
+> Huge new cannons smash through walls that stood for a thousand years.  
+> The old city becomes the empire's new capital.  
+> Later, a ruler named Süleyman issues new laws for the whole empire.  
+> People call him a great lawgiver because of this work.  
+> In 1526, his army wins a big battle called Mohács.  
+> By 1529, his soldiers stand outside the gates of Vienna.  
+> Many soldiers in this army are janissaries.  
+> As boys, janissaries are taken from Christian families inside the empire.  
+> They grow up as soldiers and officials loyal only to the ruler.  
+> **Which empire is Empire X?**
+
+**Svar:** ✅ The Ottoman Empire · ⬜ The Habsburg Empire · ⬜ The Byzantine Empire · ⬜ The Safavid Empire
+
+**Ord:** *janissaries* — soldiers in the ruler's own army, once taken from families as boys · *lawgiver* — a person who makes new laws for a whole country · *officials* — people who do official work for the ruler or the state · *capital* — the main city of a land, where the ruler lives
+
+</details>
+
+<details>
+<summary><b>Kort 3 · Årskurs 12</b> — Many peoples, one empire</summary>
+
+> By the 1500s, Empire X is home to many peoples and many faiths.  
+> Christians, Jews, and Muslims all live inside its borders.  
+> Each religious community handles its own family law, its own schools, and its own places of worship.  
+> Later, historians often call this the millet system.  
+> In the capital, a gifted architect named Sinan designs great mosques.  
+> His huge domes seem to rest lightly on rings of small windows.  
+> Traders travel across the empire's lands between Asia and Europe.  
+> Through these lands, a new dark drink called coffee first reaches Europe.  
+> Coffee houses open in many cities, and people gather there to talk.  
+> In this way, one empire connects three continents through trade and ideas.  
+> **Which empire is Empire X?**
+
+**Svar:** ⬜ The Mughal Empire · ✅ The Ottoman Empire · ⬜ The Abbasid Caliphate · ⬜ The Safavid Empire
+
+**Ord:** *architect* — a person who plans and designs buildings · *domes* — round roofs, shaped like half of a ball · *millet* — here: a religious group that handles its own family law and schools · *community* — a group of people who share the same faith or life
+
+</details>
+
+<details>
+<summary><b>Kort 4 · Årskurs 12</b> — The sick man of Europe</summary>
+
+> In the 1800s, other countries call Empire X the sick man of Europe.  
+> This name means people think the empire is slowly dying.  
+> From 1839, new reforms try to modernize laws, schools, and the army.  
+> The reforms bring some change, but many old problems remain.  
+> Railways and telegraph lines slowly connect the far parts of the empire.  
+> In the early 1900s, wars in the Balkans strip away more land.  
+> In 1914, the empire enters a great war on Germany's side.  
+> During this war, from 1915, the government orders the killing of most of the empire's Armenian population.  
+> Historians today call this killing a genocide.  
+> The great war ends badly, and foreign armies occupy parts of the empire.  
+> Empire X finally ends in 1922, after about six hundred years.  
+> In 1923, a leader later called Atatürk helps create a new republic.  
+> **Which empire is Empire X?**
+
+**Svar:** ⬜ The Habsburg Empire · ⬜ The Russian Empire · ⬜ The Mughal Empire · ✅ The Ottoman Empire
+
+**Ord:** *reforms* — changes made to laws or systems to make them better · *genocide* — the planned killing of very many people from one group · *occupy* — when an army moves into a place and controls it by force · *population* — all the people who live in one place
+
+</details>
+
+<details>
+<summary><b>Kort 5 · Universitet</b> — Decline, or something else?</summary>
+
+> For a long time, historians told a simple story about Empire X: slow decline.  
+> New research questions this simple story.  
+> They argue that for centuries the empire is not weak, only changing.  
+> It rules very different peoples, languages, and faiths inside one system.  
+> Some historians now call it a plural society rather than a dying giant.  
+> The empire finally ends in the 1920s, after political and military crises.  
+> For a long time, historians relied mostly on European reports about the empire.  
+> Today, they also read the empire's own records, kept in huge archives in Istanbul.  
+> Governments still argue over how to name the killing of the Armenians in 1915, which most historians call a genocide.  
+> Ideas from this empire, and the borders drawn when it fell, still shape the Middle East and the Balkans today.  
+> **Which empire is Empire X?**
+
+**Svar:** ✅ The Ottoman Empire · ⬜ The Mongol Empire · ⬜ The Abbasid Caliphate · ⬜ The Russian Empire
+
+**Ord:** *plural* — made of many different parts, not just one · *crises* — very serious, dangerous moments; one of them is a crisis · *archives* — places where old records and papers are kept · *historians* — people who study the past
 
 </details>
 

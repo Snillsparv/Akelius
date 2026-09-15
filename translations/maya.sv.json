@@ -1,0 +1,220 @@
+{
+  "slug": "maya",
+  "person_sv": "Mayafolket",
+  "cards": [
+    {
+      "title": "Pyramider i djungeln",
+      "text_sentences": [
+        "Folket X lever i Centralamerikas skogar och kullar för länge sedan.",
+        "Deras hemland täcker delar av Guatemala, Mexiko, Belize och Honduras.",
+        "De bygger höga stenpyramider mellan träden.",
+        "Bönder odlar majs på fält som de röjer i skogen.",
+        "Majs är grunden i nästan varje måltid.",
+        "Människor gör också en bitter dryck av kakaobönor.",
+        "Kungar styr många stora städer, var och en för sig.",
+        "Några av dessa städer har tiotusentals invånare.",
+        "Handelsmän bär salt, jade och färgglada fjädrar mellan städerna.",
+        "Århundraden senare växer djungeln tillbaka över många tomma städer."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Olmekerna",
+        "Mayafolket",
+        "Toltekerna",
+        "Aztekerna"
+      ],
+      "words": [
+        {
+          "word": "djungel",
+          "explanation": "en tät, varm skog med många träd och växter"
+        },
+        {
+          "word": "majs",
+          "explanation": "en hög växt som ger stora, gula korn"
+        },
+        {
+          "word": "kakao",
+          "explanation": "bönorna som används för att göra choklad"
+        },
+        {
+          "word": "århundraden",
+          "explanation": "perioder på hundra år"
+        }
+      ],
+      "main_caption": "En hög stenpyramid reser sig över djungelns trädtoppar.",
+      "side_caption": "Sådana här kakaobönor mals och blandas till en dryck."
+    },
+    {
+      "title": "Många städer, ett folk",
+      "text_sentences": [
+        "Folket X i Guatemala och grannländerna bygger aldrig ett enda stort rike.",
+        "I stället lever de i många skilda stadsstater.",
+        "Städer som Tikal och Calakmul slåss ofta mot varandra om makten.",
+        "Varje stad har sin egen kung, sina tempel och sin marknadsplats.",
+        "Präster och skrivare skriver med små bildtecken.",
+        "Bildtecknen berättar om kungar, krig och viktiga datum.",
+        "Prästerna skapar också en noggrann kalender med många tidscykler.",
+        "Deras kalender har ett tecken för noll, som inte är lånat från någon annan del av världen.",
+        "I många städer spelar folk ett snabbt bollspel på en stenplan.",
+        "Spelarna slår en hård boll av gummi bara med höfterna och benen.",
+        "Att vinna en match kan ge en hel stad stor ära."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Zapotekerna",
+        "Mixtekerna",
+        "Mayafolket",
+        "Toltekerna"
+      ],
+      "words": [
+        {
+          "word": "stadsstater",
+          "explanation": "städer med egna lagar och ledare, som små egna länder"
+        },
+        {
+          "word": "skrivare",
+          "explanation": "personer vars arbete är att skriva ner saker"
+        },
+        {
+          "word": "tidscykler",
+          "explanation": "tidsperioder som upprepas om och om igen"
+        },
+        {
+          "word": "gummi",
+          "explanation": "ett tänjbart material som kommer från trädsav"
+        }
+      ],
+      "main_caption": "En tom stenplan där två lag en gång spelade ett snabbt bollspel.",
+      "side_caption": "Spelarna slår den här tunga gummibollen med höfterna, inte med händerna."
+    },
+    {
+      "title": "Stjärnkartor och brända böcker",
+      "text_sentences": [
+        "Präster hos folket X studerar himlen mycket noga.",
+        "De följer Venus bana under många år.",
+        "Skrivare målar långa böcker av vikt barkpapper.",
+        "Böckerna innehåller astronomin, kalendern och ritualerna.",
+        "På 1520-talet kommer spanska soldater och erövrar sakta området.",
+        "Några städer gör motstånd i generationer, gömda djupt i skogen.",
+        "År 1562 ger en spansk präst vid namn Landa order om att bränna många av dessa vikta böcker.",
+        "Han tror att böckerna bär på falsk och farlig tro.",
+        "Nästan alla böcker från ett helt folk blir till aska.",
+        "Bara fyra av dessa vikta böcker överlever till i dag.",
+        "Den allra sista fria staden faller inte förrän år 1697."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Mayafolket",
+        "Aztekerna",
+        "Inkafolket",
+        "Tainofolket"
+      ],
+      "words": [
+        {
+          "word": "ritualer",
+          "explanation": "särskilda religiösa handlingar som görs på ett bestämt sätt"
+        },
+        {
+          "word": "gör motstånd",
+          "explanation": "att kämpa emot och vägra ge upp"
+        },
+        {
+          "word": "aska",
+          "explanation": "det grå stoftet som blir kvar efter att något har brunnit"
+        },
+        {
+          "word": "överlever",
+          "explanation": "att fortsätta finnas kvar efter en fara"
+        }
+      ],
+      "main_caption": "Sådana här resta stenar berättade en gång om kungars gärningar och datum.",
+      "side_caption": "Bara några få av dessa vikta böcker undgick förstörelsen."
+    },
+    {
+      "title": "Tysta städer",
+      "text_sentences": [
+        "Folket X bygger många stora städer runt om i Centralamerika.",
+        "Mellan ungefär år 800 och 950 blir många av dessa södra städer tysta.",
+        "Kungarna slutar resa nya stenmonument där.",
+        "Bönderna lämnar sakta fälten runt de tomma templen.",
+        "Historiker tvistar fortfarande om den exakta orsaken till förändringen.",
+        "Några pekar på långa perioder av svår torka i området.",
+        "Andra pekar på ständigt krig mellan rivaliserande stadsstater.",
+        "För många människor kan också ha överansträngt marken och skördarna.",
+        "Troligen slår flera av dessa påfrestningar till samtidigt.",
+        "Samtidigt fortsätter städer längre norrut, som Chichén Itzá, att blomstra.",
+        "Så det här är inget plötsligt slut för varenda stad på en gång."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Mochefolket",
+        "Olmekerna",
+        "Zapotekerna",
+        "Mayafolket"
+      ],
+      "words": [
+        {
+          "word": "torka",
+          "explanation": "en lång tid med för lite regn"
+        },
+        {
+          "word": "rivaliserande",
+          "explanation": "som tävlar och slåss med varandra om makten"
+        },
+        {
+          "word": "överansträngt",
+          "explanation": "pressat för hårt, nära att gå sönder"
+        },
+        {
+          "word": "blomstra",
+          "explanation": "växa sig starkt och må mycket bra"
+        }
+      ],
+      "main_caption": "Rötter och rankor sväljer sakta ett torg som en gång var fullt av människor.",
+      "side_caption": "Långa år utan tillräckligt med regn kan tömma till och med bördig jordbruksmark."
+    },
+    {
+      "title": "Att tyda de tysta tecknen",
+      "text_sentences": [
+        "I århundraden kan ingen läsa bildtecknen hos folket X.",
+        "Tidiga forskare gissar vilt och får ofta betydelsen fel.",
+        "På 1950-talet studerar en sovjetisk forskare vid namn Knorozov tecknen noga.",
+        "Han hävdar att många bildtecken står för ljud, inte bara hela idéer.",
+        "Senare decennier av noggrann forskning bekräftar och vidareutvecklar sakta hans metod.",
+        "Vid slutet av nittonhundratalet kan äntligen de flesta bildtecken läsas.",
+        "Samtidigt påstår en märklig modern myt att världen tar slut år 2012.",
+        "Idén kommer från en feltolkning av en del av den gamla kalendern.",
+        "Historiker och forskare som studerar folket X avvisar den här myten helt.",
+        "I dag lever ättlingar fortfarande i hela området och talar sina egna språk.",
+        "Många av dem ber regeringar att respektera deras mark och deras rättigheter."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Inkafolket",
+        "Mayafolket",
+        "Mixtekerna",
+        "Tainofolket"
+      ],
+      "words": [
+        {
+          "word": "ättlingar",
+          "explanation": "människor som är släkt med någon som levde för länge sedan"
+        },
+        {
+          "word": "myt",
+          "explanation": "en berättelse som många tror på men som inte är sann"
+        },
+        {
+          "word": "står för",
+          "explanation": "betyder eller visar något annat, som en bokstav står för ett ljud"
+        },
+        {
+          "word": "decennier",
+          "explanation": "perioder på tio år"
+        }
+      ],
+      "main_caption": "Deras ättlingar väver, brukar jorden och talar sina egna språk än i dag.",
+      "side_caption": "Forskare ägnar decennier åt att koppla de gamla tecknen till verkliga ljud."
+    }
+  ]
+}

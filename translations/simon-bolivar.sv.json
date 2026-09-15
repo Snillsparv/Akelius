@@ -1,0 +1,200 @@
+{
+  "slug": "simon-bolivar",
+  "person_sv": "Simón Bolívar",
+  "cards": [
+    {
+      "title": "En pojke som förlorar allt och kommer tillbaka för att kämpa",
+      "text_sentences": [
+        "Herr X föds i Caracas, en stad i Sydamerika.",
+        "Hans familj är mycket rik och viktig.",
+        "Herr X blir föräldralös när han fortfarande är en pojke.",
+        "En klok lärare formar hur han ser på världen.",
+        "Som ung man reser han långt bort till Europa.",
+        "Där hör han nya idéer om frihet och självstyre.",
+        "Han kommer hem och går med i kampen för frihet.",
+        "Han vill att hans hemland ska styra sig själv.",
+        "Han vill inte att en kung långt borta ska styra det.",
+        "Han kämpar i många år mot kungens arméer.",
+        "Han hjälper till att befria flera länder från spanskt styre.",
+        "I dag bär ett helt land hans namn."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "José de San Martín",
+        "Simón Bolívar",
+        "Francisco de Miranda",
+        "Bernardo O'Higgins"
+      ],
+      "words": [
+        {
+          "word": "föräldralös",
+          "explanation": "ett barn vars båda föräldrar har dött"
+        },
+        {
+          "word": "självstyre",
+          "explanation": "när en plats styrs av sitt eget folk, inte av en kung långt borta"
+        },
+        {
+          "word": "hemland",
+          "explanation": "landet där du är född och hör hemma"
+        }
+      ],
+      "main_caption": "Herr X växer upp i en rik och viktig familj i en stad nära kusten.",
+      "side_caption": "Som pojke förlorar herr X båda sina föräldrar och växer upp utan dem."
+    },
+    {
+      "title": "En ed i Rom, en armé i Anderna",
+      "text_sentences": [
+        "Enligt hans egen berättelse svär herr X år 1805 på en kulle i Rom att befria sitt hemland.",
+        "Han är fortfarande en ung man, och hans gamla lärare står bredvid honom.",
+        "Flera år senare, år 1810, avsätter ett lokalt råd i Caracas kungens guvernör och börjar styra på egen hand.",
+        "Krig följer, och i flera år förlorar herr X fler strider än han vinner.",
+        "Två gånger måste han fly i exil, och hans sak är nästan förlorad.",
+        "En fri svart republik i Karibien ger honom då skepp, vapen och pengar.",
+        "I gengäld lovar herr X att befria förslavade människor i de länder han befriar.",
+        "År 1819 leder han en trasig armé upp i de iskalla Anderna.",
+        "Många soldater och hästar dör av kylan på de höga bergsstigarna.",
+        "När hans armé kommer ner på andra sidan överraskar den kungens soldater.",
+        "I ett slag som kallas Boyacá vinner herr X en viktig seger."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Simón Bolívar",
+        "Toussaint Louverture",
+        "Miguel Hidalgo",
+        "José de San Martín"
+      ],
+      "words": [
+        {
+          "word": "råd",
+          "explanation": "en grupp människor som väljs för att styra eller fatta beslut tillsammans"
+        },
+        {
+          "word": "exil",
+          "explanation": "att leva långt från sitt eget land, ofta för att det inte är säkert att återvända"
+        },
+        {
+          "word": "trasig",
+          "explanation": "sliten, sönderriven och i dåligt skick"
+        }
+      ],
+      "main_caption": "Högt uppe i de kalla bergen marscherar herr X och hans soldater vidare genom is och dimma.",
+      "side_caption": "Efter år av nederlag vilar den trasiga armén inför sin svåraste marsch."
+    },
+    {
+      "title": "Två generaler möts i Guayaquil",
+      "text_sentences": [
+        "Herr X hjälper till att bygga en stor ny republik som förenar flera länder i norra Sydamerika.",
+        "År 1821 vinner hans styrkor ett stort slag som säkrar hans hemland åt republiken.",
+        "År 1822 befriar fler segrar bergsstaden Quito, och hamnstaden Guayaquil ansluter sig till hans republik.",
+        "Samma år möter herr X en ledare från söder, José de San Martín, i Guayaquil.",
+        "De två männen samtalar ensamma, och efteråt lämnar San Martín tyst självständighetskampen.",
+        "Herr X kämpar vidare för att avsluta kampen i Peru.",
+        "År 1824 vinner hans general Antonio José de Sucre ett avgörande slag vid Ayacucho.",
+        "Den segern avgör kriget, och det spanska styret i Sydamerika tar snart slut.",
+        "Året därpå tar ett nytt land högt uppe i bergen form.",
+        "Tacksamma ledare där uppkallar det nya landet efter herr X själv."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Bernardo O'Higgins",
+        "Francisco de Miranda",
+        "Simón Bolívar",
+        "José Martí"
+      ],
+      "words": [
+        {
+          "word": "republik",
+          "explanation": "ett land som styrs av valda ledare, inte av en kung eller drottning"
+        },
+        {
+          "word": "hamnstad",
+          "explanation": "en stad vid vattnet där fartyg lastar och lossar last"
+        },
+        {
+          "word": "avgörande",
+          "explanation": "som avgör en sak helt, med ett tydligt resultat"
+        }
+      ],
+      "main_caption": "Två ledare från olika självständighetskrig möts i tysthet i en hamnstad.",
+      "side_caption": "Ledare samlas här för att forma den nya republikens lagar."
+    },
+    {
+      "title": "Mannen som tar all makt",
+      "text_sentences": [
+        "Tidigt under krigen, år 1813, undertecknar herr X en sträng order.",
+        "Den förklarar krig på liv och död mot spanjorer som inte ansluter sig till saken.",
+        "År 1828 tar herr X nästan total makt över den stora republik han byggt.",
+        "Kritiker kallar honom nu en diktator, som styr nästan som de kungar han en gång bekämpade.",
+        "En natt bryter sig beväpnade män in i hans hus för att döda honom.",
+        "Hans följeslagare, Manuela Sáenz, hjälper honom att fly genom ett fönster och möter sedan angriparna själv.",
+        "Herr X överlever, men allt fler vänder sig nu mot hans styre.",
+        "År 1830 börjar den stora republiken falla sönder i separata länder.",
+        "Utsliten och sjuk lämnar herr X ifrån sig all sin makt samma år.",
+        "Han sägs skriva att han bara har plöjt havet.",
+        "Han dör senare samma år i Santa Marta, en liten kuststad, av en lungsjukdom."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "José Martí",
+        "Emiliano Zapata",
+        "Antonio José de Sucre",
+        "Simón Bolívar"
+      ],
+      "words": [
+        {
+          "word": "diktator",
+          "explanation": "en härskare med total makt, inte fritt vald av folket"
+        },
+        {
+          "word": "följeslagare",
+          "explanation": "en person som håller sig nära dig och hjälper och stöttar dig"
+        },
+        {
+          "word": "plöjt",
+          "explanation": "vänt upp jorden på en åker så att man kan så i den"
+        }
+      ],
+      "main_caption": "En natt kommer beväpnade män för att hämta herr X, men hans följeslagare hjälper honom att fly.",
+      "side_caption": "Mot slutet styr herr X nästan ensam, med makt som få vågar ifrågasätta."
+    },
+    {
+      "title": "Hjälte eller diktator?",
+      "text_sentences": [
+        "Historiker debatterar fortfarande om herr X främst är en hjälte eller en diktator.",
+        "I ett brev skrivet från Jamaica år 1815 tvivlar han på att hans region är redo för full demokrati.",
+        "Han menar att en stark centralmakt kan behövas för att hålla ihop nya nationer.",
+        "Senare styr han med mycket mer personlig makt än de flesta valda ledare.",
+        "Vissa historiker betonar hans vision om förenade, självständiga nationer, fria från Europas kungar.",
+        "Andra betonar hans växande misstro mot att vanligt folk styr sig själva.",
+        "Efter hans död används hans namn och bild av mycket olika politiska rörelser.",
+        "I dag bär mynt, städer och torg i hela regionen fortfarande hans namn.",
+        "Moderna politiker i hela regionen åberopar fortfarande hans namn och arv.",
+        "Historiker studerar hans brev och tal för att skilja mannen från myten."
+      ],
+      "question": "Vem är herr X?",
+      "options": [
+        "Antonio José de Sucre",
+        "José de San Martín",
+        "George Washington",
+        "Simón Bolívar"
+      ],
+      "words": [
+        {
+          "word": "centralmakt",
+          "explanation": "en stark makt som styr över ett helt land"
+        },
+        {
+          "word": "misstro",
+          "explanation": "en känsla av att inte lita på någon eller något"
+        },
+        {
+          "word": "åberopa",
+          "explanation": "att nämna eller använda något som ett skäl eller stöd för ett argument"
+        }
+      ],
+      "main_caption": "Från exil skriver herr X ett långt brev om sin regions framtid.",
+      "side_caption": "Långt efter hans död tvistar människor fortfarande om hur herr X ska minnas."
+    }
+  ]
+}

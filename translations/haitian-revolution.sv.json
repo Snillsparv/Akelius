@@ -1,0 +1,214 @@
+{
+  "slug": "haitian-revolution",
+  "person_sv": "Haitis revolution",
+  "cards": [
+    {
+      "title": "De reser sig ur sockerfälten",
+      "text_sentences": [
+        "Revolutionen X börjar på en ö i Karibiska havet.",
+        "Skepp för många människor från Afrika dit med tvång.",
+        "På ön måste dessa människor arbeta utan lön på sockerfälten.",
+        "Livet där är hårt, och många människor lider.",
+        "År 1791 reser sig de förslavade människorna tillsammans mot sina slavägare.",
+        "De kämpar ett långt, hårt krig i många år.",
+        "Till slut vinner de, och de bygger sitt eget nya land.",
+        "Det är det första landet byggt av människor som en gång var förslavade."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Franska revolutionen",
+        "Haitis revolution",
+        "Mexikanska revolutionen",
+        "Kubanska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "tvång",
+          "explanation": "makt som används för att tvinga någon att göra något mot sin vilja"
+        },
+        {
+          "word": "förslavad",
+          "explanation": "tvingad av andra att arbeta utan frihet eller lön"
+        },
+        {
+          "word": "slavägare",
+          "explanation": "människor som tvingar andra människor till slaveri"
+        },
+        {
+          "word": "resa sig",
+          "explanation": "att tillsammans kämpa mot dem som har makten"
+        }
+      ],
+      "main_caption": "På en karibisk ö sköter förslavade arbetare sockerrörsfälten.",
+      "side_caption": "Ett skepp kommer över havet och för med sig människor som aldrig valde att komma."
+    },
+    {
+      "title": "Ett möte i skogen",
+      "text_sentences": [
+        "Revolutionen X äger rum i Frankrikes rikaste koloni.",
+        "Socker och kaffe från kolonin ger Frankrike enorma rikedomar.",
+        "Omkring en halv miljon människor där lever förslavade.",
+        "En berättelse säger att hemliga ledare möts en natt i skogen i augusti 1791.",
+        "Traditionen säger att de där planerar ett stort uppror tillsammans.",
+        "Strax efteråt börjar upproret, och det sprider sig snabbt över kolonins norra del.",
+        "En tidigare förslavad man vid namn Toussaint Louverture blir dess ledare.",
+        "Två år senare avskaffar franska tjänstemän i kolonin slaveriet där.",
+        "Året därpå förklarar Frankrike slaveriet avskaffat i alla landets kolonier."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Ryska revolutionen",
+        "Amerikanska revolutionen",
+        "Haitis revolution",
+        "Mexikanska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "koloni",
+          "explanation": "ett land som styrs och kontrolleras av ett annat, avlägset land"
+        },
+        {
+          "word": "förslavad",
+          "explanation": "tvingad av andra att arbeta utan frihet eller lön"
+        },
+        {
+          "word": "tradition",
+          "explanation": "en berättelse eller sed som förs vidare från äldre tider"
+        },
+        {
+          "word": "uppror",
+          "explanation": "en plötslig, organiserad kamp mot dem som har makten"
+        }
+      ],
+      "main_caption": "En armé växer fram på ön, redo att kämpa för sin egen frihet.",
+      "side_caption": "Traditionen säger att ledare en gång gjorde upp en hemlig plan i skogen på natten."
+    },
+    {
+      "title": "En armé korsar havet",
+      "text_sentences": [
+        "År 1801 har revolutionen X förändrat hela kolonin.",
+        "Toussaint Louverture styr nu kolonin som dess ledare.",
+        "Det året utfärdar han en ny författning för landet.",
+        "Frankrikes nye härskare accepterar inte detta.",
+        "År 1802 anländer hans stora armé över havet för att ta tillbaka makten.",
+        "Franska soldater tar Toussaint Louverture till fånga och skickar honom till ett fängelse i Frankrike.",
+        "Han dör där 1803, långt hemifrån.",
+        "Men striderna fortsätter utan honom under en ny ledare, Dessalines.",
+        "Hans krigare håller ut i små fort högt uppe i bergen.",
+        "I november 1803 vinner hans styrkor ett avgörande slag vid Vertières.",
+        "Den första januari 1804 förklarar kolonin sin självständighet."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Haitis revolution",
+        "Kubanska revolutionen",
+        "Texasrevolutionen",
+        "Franska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "författning",
+          "explanation": "en skriven uppsättning regler för hur ett land styrs"
+        },
+        {
+          "word": "ta till fånga",
+          "explanation": "att gripa en person och hålla kvar honom med tvång"
+        },
+        {
+          "word": "avgörande",
+          "explanation": "en avgörande händelse löser en kamp tydligt, en gång för alla"
+        },
+        {
+          "word": "härskare",
+          "explanation": "en person som har makten att styra ett land"
+        }
+      ],
+      "main_caption": "I bergen ger fort som detta skydd åt öns krigare.",
+      "side_caption": "Långt hemifrån hålls en ledare ensam i en kall stencell."
+    },
+    {
+      "title": "Frihetens pris",
+      "text_sentences": [
+        "Friheten för revolutionen X har ett högt pris.",
+        "År 1804 dödar den nya nationens soldater de flesta fransmän som fortfarande bor i det nya landet.",
+        "Många andra länder håller fortfarande människor förslavade.",
+        "De vägrar acceptera den nya fria staten.",
+        "I decennier vill knappt något land erkänna den som en fri och jämlik nation.",
+        "År 1825 kräver Frankrike betalning för sin förlorade koloni och hotar med krig.",
+        "Den nya nationen går med på att betala en enorm skuld för att bli erkänd och lämnad i fred.",
+        "Det tar mer än hundra år att betala hela skulden.",
+        "Pengar som kunde ha byggt skolor och vägar går i stället utomlands.",
+        "USA erkänner inte den nya nationen förrän 1862."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Amerikanska revolutionen",
+        "Haitis revolution",
+        "Kubanska revolutionen",
+        "Mexikanska revolutionen"
+      ],
+      "words": [
+        {
+          "word": "skuld",
+          "explanation": "pengar som du är skyldig och måste betala tillbaka"
+        },
+        {
+          "word": "erkänna",
+          "explanation": "att officiellt acceptera ett nytt land som verkligt och jämlikt"
+        },
+        {
+          "word": "vägra",
+          "explanation": "att säga nej och inte gå med på något"
+        },
+        {
+          "word": "hota",
+          "explanation": "att varna för skada eller fara om inte något sker"
+        }
+      ],
+      "main_caption": "Ett tomt bord väntar på en överenskommelse mellan två mycket ojämlika sidor.",
+      "side_caption": "Pengar på ena sidan, ett papperslöfte på den andra."
+    },
+    {
+      "title": "Upproret som Europa glömde",
+      "text_sentences": [
+        "Historiker kallar revolutionen X det enda helt lyckade upproret av förslavade människor i historien.",
+        "Ändå nämner många historieböcker i Europa det knappt under lång tid.",
+        "Vissa historiker frågar sig varför en så viktig händelse förblir i marginalen så länge.",
+        "En möjlig förklaring är att upproret skrämde andra slavägande länder på den tiden.",
+        "Skulden som betalades till Frankrike efter självständigheten påverkar fortfarande dagens debatter om rättvisa.",
+        "De flesta skriftliga källor om kriget kommer från den franska sidan, inte från de stridande.",
+        "Historiker diskuterar också hur detta uppror förändrade kampen mot slaveriet i andra länder.",
+        "När den nya nationen bildas 1804 tar den ett gammalt namn som en gång användes av öns första folk.",
+        "Det namnet ersätter namnet som gavs av tidigare europeiska nybyggare.",
+        "Historiker studerar fortfarande varför detta uppror lyckades när så många andra misslyckades."
+      ],
+      "question": "Vilken revolution är revolutionen X?",
+      "options": [
+        "Kubanska revolutionen",
+        "Ryska revolutionen",
+        "Haitis revolution",
+        "Texasrevolutionen"
+      ],
+      "words": [
+        {
+          "word": "uppror",
+          "explanation": "en organiserad kamp av människor mot dem som har makten"
+        },
+        {
+          "word": "marginal",
+          "explanation": "kanterna av något, långt från den stora uppmärksamheten"
+        },
+        {
+          "word": "skrämde",
+          "explanation": "gjorde någon rädd"
+        },
+        {
+          "word": "källor",
+          "explanation": "de gamla brev, rapporter och papper som historiker använder för att lära sig om det förflutna"
+        }
+      ],
+      "main_caption": "I dag lär sig eleverna den historia som många böcker i Europa länge utelämnade.",
+      "side_caption": "Konturen av en ö på ett gammalt papper, som väntar på att ett nytt namn ska ersätta ett gammalt."
+    }
+  ]
+}

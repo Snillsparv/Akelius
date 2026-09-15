@@ -1,0 +1,217 @@
+{
+  "slug": "aztecs",
+  "person_sv": "Aztekerna",
+  "cards": [
+    {
+      "title": "En stad mitt i en sjö",
+      "text_sentences": [
+        "Folket X lever i en hög dal i Mexiko.",
+        "För länge sedan bygger de en stad på en ö i en sjö.",
+        "Långa vägar av jord och sten leder över vattnet.",
+        "Bönder bygger små fält av bördig lera i den grunda sjön.",
+        "Kanoter bär mat och varor över det lugna vattnet varje dag.",
+        "En enorm marknad i Tlatelolco säljer mat, tyg och verktyg.",
+        "Spanska besökare säger senare att de aldrig har sett en så stor marknad.",
+        "En stor stad fortsätter att växa på precis samma plats.",
+        "I dag är den staden Mexikos huvudstad."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Mayafolket",
+        "Aztekerna",
+        "Olmekerna",
+        "Toltekerna"
+      ],
+      "words": [
+        {
+          "word": "kanoter",
+          "explanation": "små båtar som man flyttar framåt med paddlar"
+        },
+        {
+          "word": "varor",
+          "explanation": "saker som människor köper, säljer eller bär"
+        },
+        {
+          "word": "huvudstad",
+          "explanation": "landets viktigaste stad, där regeringen finns"
+        },
+        {
+          "word": "grund",
+          "explanation": "inte djup"
+        }
+      ],
+      "main_caption": "En stad ligger på en ö, förbunden med land genom långa vägar över vattnet.",
+      "side_caption": "Bönder odlar mat på konstgjorda öar av bördig lera i den grunda sjön."
+    },
+    {
+      "title": "Berättelsen om en ny stad",
+      "text_sentences": [
+        "Folket X är en liten grupp nykomlingar.",
+        "De kommer till en dal i Mexiko med en sjö i mitten.",
+        "En berättelse säger att deras gudar skickar dem ett tecken, en örn på en kaktus.",
+        "De måste bygga sin stad där de ser detta tecken.",
+        "År 1325 bygger de Tenochtitlan på en ö i sjön.",
+        "De gräver kanaler så att kanoter kan nå varje del av staden.",
+        "En lång upphöjd stenkanal, en akvedukt, för in färskt vatten till staden.",
+        "År 1428 går deras stad samman med två andra städer i en stark allians.",
+        "Tillsammans besegrar de tre städerna sina gamla fiender och växer till ett rike.",
+        "Erövrade städer måste nu skicka tribut, till exempel mat och tyg, vid bestämda tider.",
+        "År 1500 uppskattar historiker att omkring 200 000 människor bor i staden."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Aztekerna",
+        "Inkafolket",
+        "Zapotekerna",
+        "Purépecha"
+      ],
+      "words": [
+        {
+          "word": "allians",
+          "explanation": "en överenskommelse mellan grupper om att arbeta tillsammans"
+        },
+        {
+          "word": "tribut",
+          "explanation": "varor eller pengar som ett erövrat folk måste ge till en härskare"
+        },
+        {
+          "word": "akvedukt",
+          "explanation": "en lång upphöjd kanal som för vatten långt bortifrån"
+        },
+        {
+          "word": "uppskattar",
+          "explanation": "gör en noggrann gissning grundad på fakta"
+        }
+      ],
+      "main_caption": "Färskt vatten rinner in i staden genom en lång upphöjd stenkanal.",
+      "side_caption": "Erövrade städer skickar tyg, mat och fjädrar som tribut."
+    },
+    {
+      "title": "Staden faller",
+      "text_sentences": [
+        "Folket X styr ett rikt rike från Mexikodalen år 1519.",
+        "Spanska skepp anländer till kusten samma år, ledda av en kapten som heter Cortés.",
+        "Moctezuma, härskaren över folket X, tar först emot främlingarna med gåvor.",
+        "Cortés hittar allierade bland folket i Tlaxcala, gamla fiender till folket X.",
+        "Dessa allierade bidrar med soldater och kunskap om landet, vilket blir avgörande.",
+        "År 1520 sprider sig en fruktansvärd sjukdom genom staden, en sjukdom som nykomlingarna för med sig.",
+        "Tusentals av folket X dör av den nya sjukdomen inom några månader.",
+        "Den försvagade staden kan inte stå emot belägringen som följer år 1521.",
+        "Efter månader av strider faller till slut staden i sjön.",
+        "På ruinerna bygger nykomlingarna en ny huvudstad, Mexico City."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Inkafolket",
+        "Purépecha",
+        "Aztekerna",
+        "Tainofolket"
+      ],
+      "words": [
+        {
+          "word": "allierade",
+          "explanation": "personer som ansluter sig till dig och hjälper dig, särskilt i en strid"
+        },
+        {
+          "word": "avgörande",
+          "explanation": "mycket viktigt för hur något slutar"
+        },
+        {
+          "word": "belägring",
+          "explanation": "när soldater omringar en plats och stoppar all hjälp dit, för att tvinga den att ge upp"
+        },
+        {
+          "word": "ruiner",
+          "explanation": "de trasiga delarna som finns kvar efter att en byggnad eller stad förstörs"
+        }
+      ],
+      "main_caption": "Soldater och allierade närmar sig staden över vattnet i skymningen.",
+      "side_caption": "Nya byggnader reser sig sakta där gamla murar en gång stod."
+    },
+    {
+      "title": "Ord från en förlorad värld",
+      "text_sentences": [
+        "Folket X bygger ett stort trappformat tempel i hjärtat av sin huvudstad i centrala Mexiko.",
+        "De tror att många olika gudar styr regn, sol och krig.",
+        "Som en del av sin religion utövar folket X också människooffer.",
+        "De använder en komplicerad kalender, med två dagräkningar som snurrar som hjul inuti hjul.",
+        "Präster läser kalendern för att välja lyckosamma och olyckliga dagar för viktiga händelser.",
+        "Marknader i huvudstaden säljer majs, bönor och en bitter dryck gjord av kakaobönor.",
+        "Bönder odlar också en röd frukt och en grön frukt som européer aldrig har smakat förut.",
+        "Efter erövringen för sjömän dessa livsmedel, och deras nahuatlnamn, över havet till Europa.",
+        "I dag använder engelsktalande fortfarande nahuatlord som chocolate och tomato."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Mayafolket",
+        "Zapotekerna",
+        "Olmekerna",
+        "Aztekerna"
+      ],
+      "words": [
+        {
+          "word": "människooffer",
+          "explanation": "att döda en människa som en gåva till en gud"
+        },
+        {
+          "word": "kakao",
+          "explanation": "bönorna som choklad görs av"
+        },
+        {
+          "word": "erövring",
+          "explanation": "när en armé tar över ett land eller ett folk med våld"
+        },
+        {
+          "word": "nahuatl",
+          "explanation": "ett språk som har talats i centrala Mexiko i många århundraden"
+        }
+      ],
+      "main_caption": "Ett högt trappformat tempel reser sig i hjärtat av staden.",
+      "side_caption": "Här odlar bönder den röda frukten och den gröna frukten som senare reser till Europa."
+    },
+    {
+      "title": "Att skriva om en stads fall",
+      "text_sentences": [
+        "I århundraden berättar många böcker om hur folket X:s huvudstad faller, och de kallar det ett spanskt underverk.",
+        "Moderna historiker ser berättelsen annorlunda.",
+        "En handfull spanska soldater kan aldrig ensamma besegra ett så stort rike.",
+        "Tiotusentals allierade från områdets urfolk och en ny sjukdom avgör kriget.",
+        "Historiker läser spanska brev och även urfolkens egna skildringar.",
+        "Dessa skildringar skrivs senare på nahuatl, med latinska bokstäver.",
+        "Vissa spanska författare skryter, så historiker läser deras brev med försiktighet.",
+        "Dessa källor är ofta oense om detaljer och om vem som bär skulden.",
+        "År 1978 hittar arbetare som gräver i Mexico City av en slump en enorm huggen sten.",
+        "Arkeologer gräver sedan fram det stora templet under gatorna.",
+        "De har studerat platsen sedan dess, och nya föremål kommer fortfarande i dagen.",
+        "I dag talar omkring 1,5 miljoner människor fortfarande nahuatl, folket X:s språk."
+      ],
+      "question": "Vilket folk är folket X?",
+      "options": [
+        "Aztekerna",
+        "Inkafolket",
+        "Toltekerna",
+        "Mixtekerna"
+      ],
+      "words": [
+        {
+          "word": "urfolk",
+          "explanation": "de folk som bodde först i ett land, innan andra kom dit"
+        },
+        {
+          "word": "skildringar",
+          "explanation": "berättelser eller beskrivningar av händelser, särskilt skrivna sådana"
+        },
+        {
+          "word": "arkeologer",
+          "explanation": "personer som studerar det förflutna genom att gräva fram och undersöka gamla föremål"
+        },
+        {
+          "word": "underverk",
+          "explanation": "en fantastisk händelse som verkar omöjlig att förklara"
+        }
+      ],
+      "main_caption": "Arbetare gräver försiktigt fram gamla stentrappor gömda under en modern stad.",
+      "side_caption": "Två sorters pennor, två sidor av samma historia."
+    }
+  ]
+}

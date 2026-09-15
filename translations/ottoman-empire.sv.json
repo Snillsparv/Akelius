@@ -1,0 +1,221 @@
+{
+  "slug": "ottoman-empire",
+  "person_sv": "Osmanska riket",
+  "cards": [
+    {
+      "title": "Från liten stat till stort rike",
+      "text_sentences": [
+        "Rike X börjar som en liten stat.",
+        "En turkisk prins leder denna lilla stat.",
+        "Dess hem är en plats som heter Anatolien.",
+        "Långsamt växer den lilla staten till ett mycket stort rike.",
+        "Nära därifrån, på andra sidan ett smalt sund, ligger en stor gammal stad.",
+        "År 1453 tar rike X denna stad.",
+        "Staden blir rikets huvudstad.",
+        "Den ligger där Europa möter Asien.",
+        "Härskaren i rike X kallas sultan.",
+        "Riket växer tills det styr land på tre kontinenter.",
+        "Rikets trädgårdsmästare odlar också tulpaner, färgglada blommor som snart även Europa älskar.",
+        "Rike X styr i omkring sexhundra år."
+      ],
+      "question": "Vilket rike är rike X?",
+      "options": [
+        "Romarriket",
+        "Mongolriket",
+        "Osmanska riket",
+        "Bysantinska riket"
+      ],
+      "words": [
+        {
+          "word": "kontinenter",
+          "explanation": "stora landområden, jorden har sju av dem"
+        },
+        {
+          "word": "sultan",
+          "explanation": "härskaren i riket, som en kung"
+        },
+        {
+          "word": "tulpaner",
+          "explanation": "trädgårdsblommor formade som små koppar"
+        },
+        {
+          "word": "sund",
+          "explanation": "en smal vattenväg mellan två landområden"
+        }
+      ],
+      "main_caption": "Kupoler och torn reser sig över en av rikets stora städer.",
+      "side_caption": "Rikets trädgårdsmästare odlar blommor formade som små koppar."
+    },
+    {
+      "title": "Kanoner, lagar och pojksoldater",
+      "text_sentences": [
+        "Rike X växer snabbt under 1400- och 1500-talet.",
+        "År 1453 tar en ung härskare vid namn Mehmed II en stor stad med murar.",
+        "Jättelika nya kanoner krossar murar som stått i tusen år.",
+        "Den gamla staden blir rikets nya huvudstad.",
+        "Senare utfärdar en härskare vid namn Süleyman nya lagar för hela riket.",
+        "Människor kallar honom en stor lagstiftare på grund av detta arbete.",
+        "År 1526 vinner hans armé ett stort slag som heter Mohács.",
+        "År 1529 står hans soldater utanför Wiens portar.",
+        "Många soldater i denna armé är janitsjarer.",
+        "Som pojkar tas janitsjarerna från kristna familjer inne i riket.",
+        "De växer upp som soldater och tjänstemän som bara är lojala mot härskaren."
+      ],
+      "question": "Vilket rike är rike X?",
+      "options": [
+        "Osmanska riket",
+        "Habsburgska riket",
+        "Bysantinska riket",
+        "Safavidiska riket"
+      ],
+      "words": [
+        {
+          "word": "janitsjarer",
+          "explanation": "soldater i härskarens egen armé, en gång tagna från familjer som pojkar"
+        },
+        {
+          "word": "lagstiftare",
+          "explanation": "en person som skriver nya lagar för ett helt land"
+        },
+        {
+          "word": "tjänstemän",
+          "explanation": "människor som arbetar officiellt åt härskaren eller staten"
+        },
+        {
+          "word": "huvudstad",
+          "explanation": "den viktigaste staden i ett land, där härskaren bor"
+        }
+      ],
+      "main_caption": "Oxar drar en jättelik kanon mot de gamla murarna.",
+      "side_caption": "Dessa soldater var en gång pojkar som togs från kristna familjer."
+    },
+    {
+      "title": "Många folk, ett rike",
+      "text_sentences": [
+        "På 1500-talet är rike X hem för många folk och många religioner.",
+        "Kristna, judar och muslimer bor alla inom dess gränser.",
+        "Varje religiös gemenskap sköter sin egen familjerätt, sina egna skolor och sina egna platser för gudstjänst.",
+        "Senare kallar historiker ofta detta milletsystemet.",
+        "I huvudstaden ritar en begåvad arkitekt vid namn Sinan stora moskéer.",
+        "Hans jättelika kupoler ser ut att vila lätt på ringar av små fönster.",
+        "Handelsmän reser över rikets land mellan Asien och Europa.",
+        "Genom dessa länder kommer en ny mörk dryck som heter kaffe för första gången till Europa.",
+        "Kaffehus öppnar i många städer, och människor samlas där för att prata.",
+        "På detta sätt binder ett enda rike samman tre kontinenter genom handel och idéer."
+      ],
+      "question": "Vilket rike är rike X?",
+      "options": [
+        "Mogulriket",
+        "Osmanska riket",
+        "Abbasidkalifatet",
+        "Safavidiska riket"
+      ],
+      "words": [
+        {
+          "word": "arkitekt",
+          "explanation": "en person som planerar och ritar byggnader"
+        },
+        {
+          "word": "kupoler",
+          "explanation": "runda tak, som den övre halvan av ett klot"
+        },
+        {
+          "word": "millet",
+          "explanation": "här: en religiös grupp som sköter sin egen familjerätt och sina egna skolor"
+        },
+        {
+          "word": "gemenskap",
+          "explanation": "en grupp människor som delar samma tro eller liv"
+        }
+      ],
+      "main_caption": "Många olika folk delar gatorna i rikets städer.",
+      "side_caption": "I kaffehus som detta samlas människor för att prata och dricka kaffe."
+    },
+    {
+      "title": "Europas sjuke man",
+      "text_sentences": [
+        "På 1800-talet kallar andra länder rike X för Europas sjuke man.",
+        "Namnet betyder att människor tror att riket långsamt dör.",
+        "Från 1839 försöker nya reformer modernisera lagar, skolor och armén.",
+        "Reformerna för med sig viss förändring, men många gamla problem finns kvar.",
+        "Järnvägar och telegraflinjer knyter långsamt samman rikets avlägsna delar.",
+        "I början av 1900-talet förlorar riket mer land i krig på Balkan.",
+        "År 1914 går riket in i ett stort krig på Tysklands sida.",
+        "Under detta krig, från 1915, beordrar regeringen dödandet av större delen av rikets armeniska befolkning.",
+        "Historiker kallar i dag detta dödande för ett folkmord.",
+        "Det stora kriget slutar illa, och utländska arméer ockuperar delar av riket.",
+        "Rike X upphör slutligen år 1922, efter omkring sexhundra år.",
+        "År 1923 hjälper en ledare som senare kallas Atatürk till att skapa en ny republik."
+      ],
+      "question": "Vilket rike är rike X?",
+      "options": [
+        "Habsburgska riket",
+        "Ryska riket",
+        "Mogulriket",
+        "Osmanska riket"
+      ],
+      "words": [
+        {
+          "word": "reformer",
+          "explanation": "förändringar av lagar eller system för att göra dem bättre"
+        },
+        {
+          "word": "folkmord",
+          "explanation": "det planerade dödandet av väldigt många människor från en grupp"
+        },
+        {
+          "word": "ockupera",
+          "explanation": "när en armé flyttar in på en plats och kontrollerar den med våld"
+        },
+        {
+          "word": "befolkning",
+          "explanation": "alla människor som bor på en plats"
+        }
+      ],
+      "main_caption": "I rum som detta möts tjänstemän för att planera nya reformer.",
+      "side_caption": "Järnvägar knyter långsamt samman rikets avlägsna delar."
+    },
+    {
+      "title": "Nedgång, eller något annat?",
+      "text_sentences": [
+        "Länge berättade historiker en enkel historia om rike X: långsam nedgång.",
+        "Ny forskning ifrågasätter denna enkla historia.",
+        "Forskarna hävdar att riket i århundraden inte är svagt, bara i förändring.",
+        "Det styr mycket olika folk, språk och religioner inom ett enda system.",
+        "Vissa historiker kallar det nu ett pluralistiskt samhälle snarare än en döende jätte.",
+        "Riket upphör slutligen på 1920-talet, efter politiska och militära kriser.",
+        "Länge förlitade sig historiker mest på europeiska rapporter om riket.",
+        "I dag läser de också rikets egna dokument, som förvaras i stora arkiv i Istanbul.",
+        "Regeringar tvistar fortfarande om vad man ska kalla dödandet av armenierna 1915, vilket de flesta historiker kallar ett folkmord.",
+        "Idéer från detta rike, och gränserna som drogs när det föll, formar fortfarande Mellanöstern och Balkan i dag."
+      ],
+      "question": "Vilket rike är rike X?",
+      "options": [
+        "Osmanska riket",
+        "Mongolriket",
+        "Abbasidkalifatet",
+        "Ryska riket"
+      ],
+      "words": [
+        {
+          "word": "pluralistiskt",
+          "explanation": "sammansatt av många olika delar, inte bara en"
+        },
+        {
+          "word": "kriser",
+          "explanation": "mycket allvarliga och farliga stunder, en av dem är en kris"
+        },
+        {
+          "word": "arkiv",
+          "explanation": "platser där gamla dokument och papper förvaras"
+        },
+        {
+          "word": "historiker",
+          "explanation": "människor som studerar det förflutna"
+        }
+      ],
+      "main_caption": "Marknader byggda under rikets tid är fortfarande livliga i dag.",
+      "side_caption": "I många städer står byggnader från rikets tid fortfarande sida vid sida."
+    }
+  ]
+}
