@@ -52,8 +52,8 @@ T = {
             'All text has passed an independent historian review and an '
             'editor review. Every card also exists in Swedish.',
             'The pictures are AI-generated and reviewed one by one. For '
-            '{p} topics the pictures are still in production; those cards '
-            'show the picture brief instead.',
+            '{p} topics some or all pictures are still in production; those '
+            'cards show a short picture brief instead.',
             'All text is also in the Excel file, one row per card, ready for '
             'layout and translation.',
         ],
@@ -83,8 +83,8 @@ T = {
             'All text har gått igenom oberoende historikergranskning och '
             'redaktörsgranskning. Varje kort finns också på engelska.',
             'Bilderna är AI-genererade och granskade en och en. För {p} ämnen '
-            'är bilderna fortfarande under produktion; de korten visar '
-            'bildbriefen, på engelska, i stället.',
+            'är några eller alla bilder fortfarande under produktion; de korten '
+            'visar en kort bildbrief, på engelska, i stället.',
             'All text finns också i Excelfilen, en rad per kort, redo för '
             'layout och översättning.',
         ],
