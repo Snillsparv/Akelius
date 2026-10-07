@@ -215,7 +215,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > They see their burned cities, and in their books he is often a monster.  
 > Later, travelers from Europe visit the empire and send home reports.  
 > Some report wild "barbarians"; others report law, order, and safe roads.  
-> So who is he — a monster, or a builder of a state?  
+> So who is he: a monster, or a builder of a state?  
 > Every source stands somewhere; the historian's job is to see where.  
 > **Who is Khan X?**
 

@@ -373,7 +373,7 @@ Prompt: Photo of a young person tying running shoes on a quiet path at sunrise, 
 ### Kort 5 (Universitet) — Check Every Authority
 
 **`aristotle-5-main`** · Huvudbild · **3:2**  
-Prompt: Atmospheric photo-style image of an old library table with two open handwritten manuscripts, one with Greek-style script and one with Arabic-style calligraphy, warm candlelight, decorative unreadable text only, no real names or readable words. No readable text, letters, numbers, logos, or watermarks anywhere in the image.  
+Prompt: Atmospheric photo-style image of an old library table in warm candlelight, a stack of closed leather-bound books of different ages, one wrapped in plain cloth, one with a worn wooden cover, beside a rolled scroll tied with a cord, all books closed and the scroll rolled so no page or writing is visible, no calligraphy, no Arabic-style script, no symbols, no readable text. No readable text, letters, numbers, logos, or watermarks anywhere in the image.  
 *Bildtext på kortet: "His books travel through many languages and many centuries."*
 
 **`aristotle-5-side`** · Sidobild · **3:4**  

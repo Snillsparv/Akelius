@@ -20,9 +20,9 @@
       "question": "Vilken sjukdom är detta?",
       "options": [
         "Digerdöden",
-        "smittkoppor",
-        "kolera",
-        "spetälska"
+        "Smittkoppor",
+        "Kolera",
+        "Spetälska"
       ],
       "words": [
         {
@@ -62,10 +62,10 @@
       ],
       "question": "Vilken sjukdom är detta?",
       "options": [
-        "smittkoppor",
-        "malaria",
+        "Smittkoppor",
+        "Malaria",
         "Digerdöden",
-        "kolera"
+        "Kolera"
       ],
       "words": [
         {
@@ -105,9 +105,9 @@
       ],
       "question": "Vilken sjukdom är detta?",
       "options": [
-        "kolera",
-        "spetälska",
-        "smittkoppor",
+        "Kolera",
+        "Spetälska",
+        "Smittkoppor",
         "Digerdöden"
       ],
       "words": [
@@ -148,10 +148,10 @@
       ],
       "question": "Vilken sjukdom är detta?",
       "options": [
-        "spetälska",
+        "Spetälska",
         "Digerdöden",
-        "smittkoppor",
-        "kolera"
+        "Smittkoppor",
+        "Kolera"
       ],
       "words": [
         {
@@ -191,10 +191,10 @@
       ],
       "question": "Vilken sjukdom är detta?",
       "options": [
-        "smittkoppor",
-        "spetälska",
+        "Smittkoppor",
+        "Spetälska",
         "Digerdöden",
-        "malaria"
+        "Malaria"
       ],
       "words": [
         {

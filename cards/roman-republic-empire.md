@@ -69,7 +69,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > A senate of old, wise men gives advice.  
 > Free men meet and vote on the laws.  
 > Women cannot vote.  
-> The people call their state res publica - 'the public thing'.  
+> The people call their state res publica, 'the public thing'.  
 > Our word 'republic' comes from this.  
 > The city lies in Italy.  
 > But many countries far from Italy still use these ideas today.  

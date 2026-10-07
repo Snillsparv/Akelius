@@ -165,7 +165,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He fights the Persian kings, but he is not born one of them.  
 > He dies young, and his generals break his empire into pieces.  
 > So, is he great?  
-> Great for which people - the winners, the dead, or the conquered?  
+> Great for which people: the winners, the dead, or the conquered?  
 > The names we give people in history are a choice, not a fact.  
 > **Who is King X?**
 

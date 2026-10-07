@@ -3,7 +3,7 @@
   "sets": [
     {
       "slug": "ancient-egypt-pyramids",
-      "person": "Ancient Egypt - the pyramids",
+      "person": "Ancient Egypt: the pyramids",
       "cards": [
         {
           "level": "grade 6",
@@ -50,15 +50,15 @@
           ],
           "main_image": {
             "description": "Wide photograph of the great pyramids rising from yellow desert sand under a clear sky, warm light, seen from a distance. Production notes: no signs, plaques, buses, or any text naming the country or the site may be visible; crop out tourist infrastructure. Do not reuse this search query or description as student-facing alt text, caption metadata, or filename; alt text must not contain Giza, Nile, or Egypt (use e.g. 'three stone pyramids in a desert').",
+            "caption": "Huge stone tombs stand in the dry sand.",
             "shutterstock_query": "Giza pyramids desert wide view clear sky no people",
-            "ai_prompt": "Realistic wide view of three large ancient stone pyramids in a sandy desert under a clear blue sky, warm golden sunlight, no text, no signs, no people",
-            "caption": "Huge stone tombs stand in the dry sand."
+            "ai_prompt": "Realistic wide view of three large ancient stone pyramids in a sandy desert under a clear blue sky, warm golden sunlight, no text, no signs, no people"
           },
           "side_image": {
             "description": "Aerial photo of a wide river with bright green farm fields along both banks and dry yellow desert starting sharply right behind the green strip. The picture explains how the river makes farming possible in a dry land. Production notes: no city skylines, landmarks, or text that identify the country. Do not reuse this search query or description as student-facing alt text, caption metadata, or filename; alt text must not contain Nile or Egypt (use e.g. 'a river with green fields and desert').",
+            "caption": "The river makes a green line of life in the dry land.",
             "shutterstock_query": "Nile river aerial green fields desert contrast",
-            "ai_prompt": "Aerial view of a wide calm river with lush green wheat fields on both banks and dry yellow desert beginning sharply behind the fields, realistic photo style, no text",
-            "caption": "The river makes a green line of life in the dry land."
+            "ai_prompt": "Aerial view of a wide calm river with lush green wheat fields on both banks and dry yellow desert beginning sharply behind the fields, realistic photo style, no text"
           },
           "sv": {
             "title": "Ett land vid en enda lång flod",
@@ -150,15 +150,15 @@
           ],
           "main_image": {
             "description": "Illustration of ancient workers in simple linen clothes pulling a large stone block on a wooden sledge up a long earthen ramp beside a half-built pyramid; one worker pours water on the sand in front of the sledge. Calm, cooperative scene: no whips, no chains - they are paid workers. Production notes: no text anywhere in the image; reject any stock image where readable modern words or the country name appear anywhere (labels, captions, watermarks).",
+            "caption": "Workers pull heavy stones on sledges up a ramp.",
             "shutterstock_query": "ancient pyramid construction workers ramp sledge illustration",
-            "ai_prompt": "Historical illustration of ancient workers in simple linen clothes pulling a big stone block on a wooden sledge up a long earth ramp next to a half-finished stone pyramid, teamwork, one man pouring water before the sledge, warm daylight, no text, no whips or chains",
-            "caption": "Workers pull heavy stones on sledges up a ramp."
+            "ai_prompt": "Historical illustration of ancient workers in simple linen clothes pulling a big stone block on a wooden sledge up a long earth ramp next to a half-finished stone pyramid, teamwork, one man pouring water before the sledge, warm daylight, no text, no whips or chains"
           },
           "side_image": {
             "description": "Simple still life of round flat bread loaves, a few dried fish, and onions, with a plain clay water jar, on a rough table or cloth, shown like a worker's daily pay in ancient times. Explains that the builders are paid workers. Production notes: no labels or text; reject any stock image with readable modern words.",
+            "caption": "The workers get bread and fish as pay.",
             "shutterstock_query": "flat bread dried fish onions clay jar rustic still life",
-            "ai_prompt": "Simple still life of round flat bread loaves, a few dried fish and onions next to a plain clay water jar on a rough wooden table, warm soft light, ancient style, no text",
-            "caption": "The workers get bread and fish as pay."
+            "ai_prompt": "Simple still life of round flat bread loaves, a few dried fish and onions next to a plain clay water jar on a rough wooden table, warm soft light, ancient style, no text"
           },
           "sv": {
             "title": "Tusentals arbetare, inga moderna maskiner",
@@ -250,15 +250,15 @@
           ],
           "main_image": {
             "description": "Dramatic photo of one large pyramid as a dark triangle against an orange evening sky, with a tiny human figure or camel near its base to show the enormous size. Production notes: no signs, labels, or text naming the country or site; reject any stock image with readable modern words anywhere.",
+            "caption": "The tomb is like a mountain of stone. It is a message in stone.",
             "shutterstock_query": "pyramid silhouette sunset small person scale",
-            "ai_prompt": "One huge ancient stone pyramid as a dark silhouette against an orange sunset sky, a tiny human figure standing at its base to show its giant size, realistic, no text",
-            "caption": "The tomb is like a mountain of stone. It is a message in stone."
+            "ai_prompt": "One huge ancient stone pyramid as a dark silhouette against an orange sunset sky, a tiny human figure standing at its base to show its giant size, realistic, no text"
           },
           "side_image": {
             "description": "Respectful museum-style photo of a closed, decorated ancient painted coffin in gold and blue, with a calm painted face. Helps explain the word 'mummy' without showing human remains. Production notes: no museum labels or plaques readable in the photo; do not show a real body; painted decoration is fine because students cannot read the old signs. Do not reuse this search query as student-facing alt text, caption metadata, or filename; alt text must not contain the country name.",
+            "caption": "The mummy lies inside this painted case. People believe the body must last for the next life.",
             "shutterstock_query": "ancient Egyptian painted sarcophagus museum golden blue",
-            "ai_prompt": "A closed ancient painted wooden coffin decorated in gold and blue with a calm painted face, soft museum lighting, respectful, no visible text labels, no human remains",
-            "caption": "The mummy lies inside this painted case. People believe the body must last for the next life."
+            "ai_prompt": "A closed ancient painted wooden coffin decorated in gold and blue with a calm painted face, soft museum lighting, respectful, no visible text labels, no human remains"
           },
           "sv": {
             "title": "Ett berg av sten",
@@ -350,15 +350,15 @@
           ],
           "main_image": {
             "description": "Illustration of an ancient scribe sitting cross-legged, writing with a reed brush on a papyrus sheet, with sacks of grain and farm workers in the background. Production notes: any signs he writes must be decorative picture-signs, not real readable words; no modern text in the image; no pyramids, sphinx, obelisks, or other instantly recognizable landmarks in the background - keep the setting a generic ancient riverside farm; reject any stock image where the country name or other readable modern words appear anywhere (labels, captions, watermarks).",
+            "caption": "A scribe counts the sacks of wheat and writes the numbers.",
             "shutterstock_query": "ancient scribe writing papyrus illustration grain sacks",
-            "ai_prompt": "Illustration of an ancient scribe sitting cross-legged writing with a reed brush on a papyrus scroll, sacks of wheat and farm workers in the background, generic ancient riverside farm setting, no pyramids or famous landmarks, warm colors, no readable text",
-            "caption": "A scribe counts the sacks of wheat and writes the numbers."
+            "ai_prompt": "Illustration of an ancient scribe sitting cross-legged writing with a reed brush on a papyrus scroll, sacks of wheat and farm workers in the background, generic ancient riverside farm setting, no pyramids or famous landmarks, warm colors, no readable text"
           },
           "side_image": {
             "description": "Close-up photo of green papyrus plants growing at the edge of calm water: tall, thick triangular stems topped with round, fan-like sprays of thin green rays. Explains the word 'papyrus'. Production notes: no text; make sure the plant is true papyrus (thick triangular stems), not the thin-stemmed umbrella sedge; reject any image with readable modern words.",
+            "caption": "People make a kind of paper from this river plant.",
             "shutterstock_query": "papyrus plant Cyperus papyrus close up water green",
-            "ai_prompt": "Close-up photo of green papyrus plants by calm water, tall thick triangular stems topped with round fan-like sprays of thin green rays, natural light, no text",
-            "caption": "People make a kind of paper from this river plant."
+            "ai_prompt": "Close-up photo of green papyrus plants by calm water, tall thick triangular stems topped with round fan-like sprays of thin green rays, natural light, no text"
           },
           "sv": {
             "title": "Skrivarna och översvämningen",
@@ -450,15 +450,15 @@
           ],
           "main_image": {
             "description": "Photo or realistic illustration of a dark stone slab densely carved with three horizontal bands of different writing: picture-signs on top, a cursive script in the middle, Greek-style letters at the bottom. Production notes: no museum labels, plaques, or captions readable in the image; the carved text must not be legible enough to read any place name. Do not reuse this search query as student-facing alt text, caption metadata, or filename; alt text must not name the stone or the country (use e.g. 'a dark stone with three bands of old writing').",
+            "caption": "The same text is written three times on one stone.",
             "shutterstock_query": "Rosetta stone three scripts dark granite slab",
-            "ai_prompt": "A dark granite stone slab densely carved with three horizontal bands of different ancient scripts: pictorial signs on top, cursive signs in the middle, Greek-style letters at the bottom, soft museum lighting, signs not legible, no modern text or labels",
-            "caption": "The same text is written three times on one stone."
+            "ai_prompt": "A dark granite stone slab densely carved with three horizontal bands of different ancient scripts: pictorial signs on top, cursive signs in the middle, Greek-style letters at the bottom, soft museum lighting, signs not legible, no modern text or labels"
           },
           "side_image": {
             "description": "Close-up photo of an ancient sandstone temple wall carved with rows of picture-signs such as birds, eyes, and wavy water lines, warm stone color. Explains what 'picture-writing' looks like. Production notes: choose a section without famous royal name rings a viewer could recognize; no modern text; reject any stock image where the country name or other readable modern words appear anywhere (labels, captions, watermarks).",
+            "caption": "Picture-signs cover the old walls. For a long time, nobody could read them.",
             "shutterstock_query": "hieroglyphs temple wall carving close up sandstone",
-            "ai_prompt": "Close-up of an ancient sandstone wall carved with rows of picture-signs such as birds, eyes and wavy water lines, warm light, weathered stone texture, no modern text",
-            "caption": "Picture-signs cover the old walls. For a long time, nobody could read them."
+            "ai_prompt": "Close-up of an ancient sandstone wall carved with rows of picture-signs such as birds, eyes and wavy water lines, warm light, weathered stone texture, no modern text"
           },
           "sv": {
             "title": "Stenen med tre skrifter",
@@ -510,7 +510,7 @@
     },
     {
       "slug": "mesopotamia",
-      "person": "Mesopotamia - the first cities and writing",
+      "person": "Mesopotamia: the first cities and writing",
       "cards": [
         {
           "level": "grade 6",
@@ -556,15 +556,15 @@
           ],
           "main_image": {
             "description": "Wide, friendly picture-book illustration of an early city between two rivers: a stepped mud-brick temple tower rising above small houses, a city wall, a busy market, palm trees, and green fields with canals. One wide river flows in the foreground and a second river is clearly visible in the distance, so the image matches the caption. Production note: no writing, no map labels, no signs with place names anywhere in the image.",
+            "caption": "A big city grows between two rivers.",
             "shutterstock_query": "ancient ziggurat city river canal illustration",
-            "ai_prompt": "Colorful children's book illustration of an ancient city between two rivers: stepped mud-brick temple tower, city wall, small market stalls, farmers, green fields with irrigation canals, palm trees, one wide river in the foreground and a second river in the distance, warm sunlight, no text or labels",
-            "caption": "A big city grows between two rivers."
+            "ai_prompt": "Colorful children's book illustration of an ancient city between two rivers: stepped mud-brick temple tower, city wall, small market stalls, farmers, green fields with irrigation canals, palm trees, one wide river in the foreground and a second river in the distance, warm sunlight, no text or labels"
           },
           "side_image": {
             "description": "Close-up of hands pressing a cut reed into a soft, wet clay tablet, making simple marks: a few simple picture signs and a few wedge-shaped marks. Helps explain the word 'clay' and the idea of early writing. Production note: the signs must be generic, no real readable words, no museum label in frame.",
+            "caption": "People press signs into wet clay.",
             "shutterstock_query": "cuneiform clay tablet reed stylus closeup",
-            "ai_prompt": "Close-up illustration of two hands pressing a cut reed into a soft wet clay tablet, a few simple picture signs and wedge-shaped marks, warm light, ancient setting, no readable text or labels",
-            "caption": "People press signs into wet clay."
+            "ai_prompt": "Close-up illustration of two hands pressing a cut reed into a soft wet clay tablet, a few simple picture signs and wedge-shaped marks, warm light, ancient setting, no readable text or labels"
           },
           "sv": {
             "title": "Landet mellan två floder",
@@ -624,7 +624,7 @@
             "The two big rivers, the Euphrates and the Tigris, give endless mud, and mud gives clay.",
             "Later, people press signs into wet clay with a cut reed.",
             "Over time, the signs become little wedges.",
-            "The first writing that we know of is not a poem - it is accounting.",
+            "The first writing that we know of is not a poem: it is accounting.",
             "Much later, people write letters, laws, and stories."
           ],
           "question": "Which land is this?",
@@ -655,15 +655,15 @@
           ],
           "main_image": {
             "description": "Illustration of a temple storehouse scene: a scribe sits at the gate, counting sheep and jars of oil and pressing marks into a clay tablet, while workers carry sacks of grain into a mud-brick building. Production note: no readable words, no place names, generic wedge marks only.",
+            "caption": "A writer counts sheep and writes the numbers on clay.",
             "shutterstock_query": "ancient scribe counting goods clay tablet illustration",
-            "ai_prompt": "Illustration of an ancient storehouse: a scribe with a cut reed and clay tablet counts sheep and clay jars, workers carry grain sacks, mud-brick building, warm earthy colors, no text or labels",
-            "caption": "A writer counts sheep and writes the numbers on clay."
+            "ai_prompt": "Illustration of an ancient storehouse: a scribe with a cut reed and clay tablet counts sheep and clay jars, workers carry grain sacks, mud-brick building, warm earthy colors, no text or labels"
           },
           "side_image": {
             "description": "Still life of small geometric clay tokens (cones, balls, discs) next to a clay tablet with wedge signs and a cut reed - it shows the step from counting tokens to real writing, and explains the words 'token' and 'wedge'. Production note: this is a before-and-after comparison - the plain tokens are much older than the wedge-sign tablet; no museum labels or captions with place names in frame.",
+            "caption": "First, people count with clay tokens, and later they write with wedge signs.",
             "shutterstock_query": "ancient clay counting tokens tablet",
-            "ai_prompt": "Still-life illustration of small geometric clay tokens (cones, spheres, discs) beside a clay tablet with wedge-shaped marks and a cut reed, plain background, soft light, no readable text",
-            "caption": "First, people count with clay tokens - later they write with wedge signs."
+            "ai_prompt": "Still-life illustration of small geometric clay tokens (cones, spheres, discs) beside a clay tablet with wedge-shaped marks and a cut reed, plain background, soft light, no readable text"
           },
           "sv": {
             "title": "Därför uppfinner människor skriften",
@@ -755,15 +755,15 @@
           ],
           "main_image": {
             "description": "Bird's-eye illustration of an early city and its land: a wide river, branching irrigation canals, green field grids, and a dense mud-brick city with a temple on a high mud-brick platform at the center. It shows how water, fields, and city belong together. Production note: period-correct temple on a raised platform, not a later stepped ziggurat; no map labels, no text anywhere in the image.",
+            "caption": "Canals bring water, and a city grows.",
             "shutterstock_query": "ancient city irrigation canals aerial illustration",
-            "ai_prompt": "Aerial-view illustration of an ancient river landscape: a wide river, branching irrigation canals, green rectangular fields, a dense mud-brick city with a temple on a high mud-brick platform, tiny people working together, warm light, no text or labels",
-            "caption": "Canals bring water, and a city grows."
+            "ai_prompt": "Aerial-view illustration of an ancient river landscape: a wide river, branching irrigation canals, green rectangular fields, a dense mud-brick city with a temple on a high mud-brick platform, tiny people working together, warm light, no text or labels"
           },
           "side_image": {
             "description": "Illustration of specialists at work side by side: a potter shaping a pot on a wheel, a builder stacking mud bricks, a trader filling a standard measuring jar with grain. Helps explain 'specialization' and 'craft'. Production note: the trader measures grain with a jar, not a balance scale; no text, no place names.",
+            "caption": "Each person learns one craft.",
             "shutterstock_query": "ancient potter builder craftsman workshop illustration",
-            "ai_prompt": "Illustration of three ancient craft workers side by side: a potter shaping a pot on a wheel, a builder laying mud bricks, a trader scooping grain with a measuring jar, warm earthy colors, no text",
-            "caption": "Each person learns one craft."
+            "ai_prompt": "Illustration of three ancient craft workers side by side: a potter shaping a pot on a wheel, a builder laying mud bricks, a trader scooping grain with a measuring jar, warm earthy colors, no text"
           },
           "sv": {
             "title": "Staden: en stor uppfinning",
@@ -851,15 +851,15 @@
           ],
           "main_image": {
             "description": "Sober storybook illustration of a lone king on a long journey: he walks with a staff through mountains toward a dark sea at dusk, a small figure in a wide world. Mood: quiet and searching, not violent. Production note: no inscriptions, no names, no identifiable museum reliefs.",
+            "caption": "A king travels far to find eternal life.",
             "shutterstock_query": "lone traveler ancient journey mountains dusk illustration",
-            "ai_prompt": "Atmospheric storybook illustration of an ancient king with a walking staff, alone on a mountain path at dusk, a dark sea and a far horizon ahead, small figure in a vast landscape, quiet thoughtful mood, no text",
-            "caption": "A king travels far to find eternal life."
+            "ai_prompt": "Atmospheric storybook illustration of an ancient king with a walking staff, alone on a mountain path at dusk, a dark sea and a far horizon ahead, small figure in a vast landscape, quiet thoughtful mood, no text"
           },
           "side_image": {
             "description": "A clay tablet densely covered with wedge-shaped signs, lit warmly against a dark background - the story written on clay. Helps explain the words 'tablet' and 'clay'. Production note: use generic wedge marks; avoid photos with museum labels that name the epic or the land.",
+            "caption": "People write the story on clay tablets.",
             "shutterstock_query": "cuneiform clay tablet closeup ancient text",
-            "ai_prompt": "Close-up illustration of an ancient clay tablet covered in neat wedge-shaped signs, warm side light, dark background, no readable modern text or labels",
-            "caption": "People write the story on clay tablets."
+            "ai_prompt": "Close-up illustration of an ancient clay tablet covered in neat wedge-shaped signs, warm side light, dark background, no readable modern text or labels"
           },
           "sv": {
             "title": "Den första stora berättelsen",
@@ -947,15 +947,15 @@
           ],
           "main_image": {
             "description": "An ancient archive: shelves and baskets full of flat clay tablets of many sizes - some small like receipts, some large - conveying the huge number of surviving everyday documents. The tablets must clearly read as flat pieces of clay with wedge marks, not modern devices. Production note: crop out or avoid any museum labels or signs that name the land; wedge marks must be generic.",
+            "caption": "We still have hundreds of thousands of clay tablets.",
             "shutterstock_query": "cuneiform clay tablets collection archive",
-            "ai_prompt": "Illustration of an ancient archive room: shelves and baskets full of flat clay tablets of many sizes covered in wedge-shaped marks, a scribe sorting them by warm lamplight, mud-brick walls, no readable modern text or labels",
-            "caption": "We still have hundreds of thousands of clay tablets."
+            "ai_prompt": "Illustration of an ancient archive room: shelves and baskets full of flat clay tablets of many sizes covered in wedge-shaped marks, a scribe sorting them by warm lamplight, mud-brick walls, no readable modern text or labels"
           },
           "side_image": {
             "description": "A high rock cliff with a large carved royal inscription in three different wedge-script panels, with tiny scholars on wooden ladders copying the signs - the key that lets scholars read the script again (inspired by the Behistun relief in Persia, which is deliberately outside Land X). Production note: ancient wedge script only; no modern signage, plaques, or names in frame.",
+            "caption": "A king's message on a rock is in three languages.",
             "shutterstock_query": "Behistun rock inscription relief cliff",
-            "ai_prompt": "Illustration of a tall rock cliff with a large ancient royal inscription carved in three different wedge-script panels, small scholars on wooden ladders copying the signs into notebooks, dramatic morning light, no modern text",
-            "caption": "A king's message on a rock is in three languages."
+            "ai_prompt": "Illustration of a tall rock cliff with a large ancient royal inscription carved in three different wedge-script panels, small scholars on wooden ladders copying the signs into notebooks, dramatic morning light, no modern text"
           },
           "sv": {
             "title": "Lera håller längre än papper",
@@ -3058,15 +3058,15 @@
           ],
           "main_image": {
             "description": "Warm storybook illustration of a bearded teacher in simple ancient Greek clothes walking along a garden path with a small group of young students. He points at a bird in an olive tree; one student holds a leaf. Greek marble columns stand softly in the background. Production note: the man must be a generic ancient Greek teacher, not a recognizable named portrait; no text, no labels, no named busts or statues anywhere in the image.",
+            "caption": "A story says: he walks when he teaches, and his students walk with him.",
             "shutterstock_query": "ancient greek philosopher walking teaching students illustration",
-            "ai_prompt": "Friendly storybook illustration, ancient Greece: a bearded teacher in a simple robe walks along a garden path with four young students, pointing at a bird in an olive tree, one student holds a leaf, warm sunlight, marble columns far in the background, no text or letters anywhere",
-            "caption": "A story says: he walks when he teaches, and his students walk with him."
+            "ai_prompt": "Friendly storybook illustration, ancient Greece: a bearded teacher in a simple robe walks along a garden path with four young students, pointing at a bird in an olive tree, one student holds a leaf, warm sunlight, marble columns far in the background, no text or letters anywhere"
           },
           "side_image": {
             "description": "Flat-lay photo of a nature collection arranged in neat rows on a wooden table: different leaves, seashells, and feathers side by side, so children can see how things are collected and compared. No text in the image.",
+            "caption": "He collects things and compares them.",
             "shutterstock_query": "nature collection leaves shells feathers flat lay wooden table",
-            "ai_prompt": "Top-down photo of a neat nature collection on a wooden table: rows of different leaves, seashells and feathers arranged side by side for comparison, soft daylight, no text",
-            "caption": "He collects things and compares them."
+            "ai_prompt": "Top-down photo of a neat nature collection on a wooden table: rows of different leaves, seashells and feathers arranged side by side for comparison, soft daylight, no text"
           },
           "sv": {
             "title": "Läraren som studerar allt",
@@ -3123,7 +3123,7 @@
             "He opens dead animals to see what is inside.",
             "He describes hundreds of kinds of animals.",
             "Many people call him the first biologist.",
-            "His big idea: do not only think - look and check.",
+            "His big idea: do not only think, but also look and check.",
             "This idea is a root of modern science."
           ],
           "question": "Who is Mr X?",
@@ -3150,15 +3150,15 @@
           ],
           "main_image": {
             "description": "Sober, realistic illustration of an ancient Greek man in a simple robe kneeling at a rocky sea shore, looking closely into a clear tide pool with small fish and a crab. Wax tablets lie beside him. Production note: a generic figure only, no recognizable named portrait, no text or labels.",
+            "caption": "He looks closely at small sea animals.",
             "shutterstock_query": "ancient greek philosopher seashore nature observation illustration",
-            "ai_prompt": "Realistic illustration, ancient Greek coast: a bearded man in a simple robe kneels by a clear tide pool, watching small fish and a crab very closely, wax tablets beside him, calm sea and soft light, no text",
-            "caption": "He looks closely at small sea animals."
+            "ai_prompt": "Realistic illustration, ancient Greek coast: a bearded man in a simple robe kneels by a clear tide pool, watching small fish and a crab very closely, wax tablets beside him, calm sea and soft light, no text"
           },
           "side_image": {
             "description": "Clear close-up photo of an octopus in shallow, clear sea water, with its eight arms visible. This image explains the word 'octopus'.",
+            "caption": "An octopus is a sea animal with eight arms.",
             "shutterstock_query": "octopus close up shallow clear water",
-            "ai_prompt": "Photo-real close-up of an octopus in clear shallow sea water, eight arms visible, natural light, no text",
-            "caption": "An octopus is a sea animal with eight arms."
+            "ai_prompt": "Photo-real close-up of an octopus in clear shallow sea water, eight arms visible, natural light, no text"
           },
           "sv": {
             "title": "Använd ögonen",
@@ -3242,15 +3242,15 @@
           ],
           "main_image": {
             "description": "Close-up of a hand drawing a simple logic diagram on a dark board: one big circle, a smaller circle inside it, and a dot inside the smaller circle, with arrows between them. IMPORTANT production note: no readable words or letters at all, only shapes and arrows, so no language and no answer is revealed.",
+            "caption": "If the first two sentences are true, the third must be true.",
             "shutterstock_query": "hand drawing diagram circles arrows chalkboard",
-            "ai_prompt": "Close-up of a hand drawing a minimal diagram on a dark chalkboard: a large circle, a smaller circle inside it, and a dot inside the smaller circle, connected by arrows, clean simple style, no letters or words",
-            "caption": "If the first two sentences are true, the third must be true."
+            "ai_prompt": "Close-up of a hand drawing a minimal diagram on a dark chalkboard: a large circle, a smaller circle inside it, and a dot inside the smaller circle, connected by arrows, clean simple style, no letters or words"
           },
           "side_image": {
             "description": "Macro photo of a modern computer circuit board with fine lines and chips. It shows that computers today are built on rules of logic. No readable text.",
+            "caption": "Computers work with rules of logic.",
             "shutterstock_query": "computer circuit board macro close up",
-            "ai_prompt": "Macro photo of a modern computer circuit board with fine golden lines and small chips, shallow depth of field, no readable text",
-            "caption": "Computers work with rules of logic."
+            "ai_prompt": "Macro photo of a modern computer circuit board with fine golden lines and small chips, shallow depth of field, no readable text"
           },
           "sv": {
             "title": "Reglerna för gott tänkande",
@@ -3338,15 +3338,15 @@
           ],
           "main_image": {
             "description": "Minimalist photo of a classic two-pan balance scale in perfect balance on a wooden table, warm soft light, plain background. It shows the idea of the good middle between two extremes. No text.",
+            "caption": "The good way is often in the middle.",
             "shutterstock_query": "balance scale equilibrium wooden table concept",
-            "ai_prompt": "Minimalist photo of a classic two-pan balance scale in perfect balance on a wooden table, warm soft light, plain background, no text",
-            "caption": "The good way is often in the middle."
+            "ai_prompt": "Minimalist photo of a classic two-pan balance scale in perfect balance on a wooden table, warm soft light, plain background, no text"
           },
           "side_image": {
             "description": "Photo of a young person tying running shoes on a path at sunrise, ready for daily training. It explains the idea that a habit is trained like a muscle, by repeating. No text.",
+            "caption": "You train a habit like a muscle: again and again.",
             "shutterstock_query": "young athlete tying running shoes sunrise path",
-            "ai_prompt": "Photo of a young person tying running shoes on a quiet path at sunrise, warm morning light, simple composition, no text",
-            "caption": "You train a habit like a muscle: again and again."
+            "ai_prompt": "Photo of a young person tying running shoes on a quiet path at sunrise, warm morning light, simple composition, no text"
           },
           "sv": {
             "title": "Den gyllene medelvägen",
@@ -3405,10 +3405,10 @@
             "Later, the great scholar Ibn Rushd explains his ideas.",
             "For many centuries, teachers say: if he writes it, it is true.",
             "But he also writes: heavy things fall faster than light things.",
-            "Much later, scientists test this - and it is wrong.",
+            "Much later, scientists test this, and it is wrong.",
             "Is this bad for him?",
-            "No - he himself teaches: when facts and ideas disagree, believe the facts.",
-            "Check every authority - even Mr X."
+            "No, he himself teaches: when facts and ideas disagree, believe the facts.",
+            "Check every authority, even Mr X."
           ],
           "question": "Who is Mr X?",
           "options": [
@@ -3437,16 +3437,16 @@
             }
           ],
           "main_image": {
-            "description": "Atmospheric photo of an old library table with two open handwritten manuscripts side by side: one page with Greek-style script and one with Arabic-style calligraphy, in warm candlelight. It shows how the books travel between languages. IMPORTANT production note: all writing must be decorative and unreadable; no real names, especially not the subject's name, may be readable anywhere.",
-            "shutterstock_query": "ancient manuscripts old library books greek arabic calligraphy",
-            "ai_prompt": "Atmospheric photo-style image of an old library table with two open handwritten manuscripts, one with Greek-style script and one with Arabic-style calligraphy, warm candlelight, decorative unreadable text only, no real names or readable words",
-            "caption": "His books travel through many languages and many centuries."
+            "description": "Atmospheric photo of an old library table in warm candlelight: a stack of closed leather-bound books from different times, one wrapped in plain cloth, one with a worn wooden cover, beside a rolled scroll tied with a cord. It shows how the books travel through many centuries. Production note: every book is closed and the scroll is rolled up, so no page and no writing is visible anywhere; no Arabic or Arabic-style script and no calligraphy of any kind, not even decorative; no symbols on the covers; no text, no letters, no numbers.",
+            "caption": "His books travel through many languages and many centuries.",
+            "shutterstock_query": "stack of old closed leather books scroll candlelight library table",
+            "ai_prompt": "Atmospheric photo-style image of an old library table in warm candlelight, a stack of closed leather-bound books of different ages, one wrapped in plain cloth, one with a worn wooden cover, beside a rolled scroll tied with a cord, all books closed and the scroll rolled so no page or writing is visible, no calligraphy, no Arabic-style script, no symbols, no readable text"
           },
           "side_image": {
             "description": "Clean studio photo of a large metal ball and a small metal ball falling side by side at the same height against a plain light wall, with slight motion blur. It illustrates the experiment that tests his claim about falling objects. No text.",
+            "caption": "A test shows: the heavy ball and the light ball fall together.",
             "shutterstock_query": "two balls falling gravity experiment",
-            "ai_prompt": "Clean studio photo of a large metal ball and a small metal ball falling side by side at exactly the same height against a plain light wall, slight motion blur, no text",
-            "caption": "A test shows: the heavy ball and the light ball fall together."
+            "ai_prompt": "Clean studio photo of a large metal ball and a small metal ball falling side by side at exactly the same height against a plain light wall, slight motion blur, no text"
           },
           "sv": {
             "title": "Granska varje auktoritet",
@@ -3541,15 +3541,15 @@
           ],
           "main_image": {
             "description": "A teenage boy in simple ancient Greek clothes gently calms a big black horse. He turns the horse's head toward the low sun. Open field, warm light. Production note: no text, letters, or labels anywhere in the image; the boy must stay anonymous.",
+            "caption": "The boy turns the horse toward the sun. The horse becomes calm.",
             "shutterstock_query": "young man calming black horse sunset field",
-            "ai_prompt": "Warm storybook illustration: a teenage boy in ancient Greek clothing gently holds the head of a large black horse and turns it toward the low sun; open plain, soft golden light; no text, no letters, no modern objects.",
-            "caption": "The boy turns the horse toward the sun. The horse becomes calm."
+            "ai_prompt": "Warm storybook illustration: a teenage boy in ancient Greek clothing gently holds the head of a large black horse and turns it toward the low sun; open plain, soft golden light; no text, no letters, no modern objects."
           },
           "side_image": {
             "description": "A horse standing in bright sunlight with a clear dark shadow on the ground, seen from the side. This image helps explain the word 'shadow'. No text in the image.",
+            "caption": "The sun makes a shadow. The horse is afraid of its own shadow.",
             "shutterstock_query": "horse shadow ground bright sunlight",
-            "ai_prompt": "Clear simple image: a horse stands in bright sun on flat sandy ground, its dark shadow stretches clearly beside it; no people, no text.",
-            "caption": "The sun makes a shadow. The horse is afraid of its own shadow."
+            "ai_prompt": "Clear simple image: a horse stands in bright sun on flat sandy ground, its dark shadow stretches clearly beside it; no people, no text."
           },
           "sv": {
             "title": "Pojken och hästen som ingen kan rida",
@@ -3633,15 +3633,15 @@
           ],
           "main_image": {
             "description": "Ruins of an ancient Greek theater far from Greece: stone seats built into a hillside in a dry landscape. Production note: must be a Hellenistic-era, Greek-built theater (for example Pergamon or Priene), NOT a Roman theater - avoid Jerash, Bosra, Palmyra, and Amman. No modern signs, plaques, or readable text in the image.",
+            "caption": "A Greek-style theater outside Greece. New cities look like Greek cities.",
             "shutterstock_query": "Pergamon ancient greek theater ruins hillside stone seats",
-            "ai_prompt": "Realistic image of an ancient Greek theater ruin in a dry landscape: horseshoe-shaped stone seating built into a hillside, wider than a semicircle, warm daylight; no people, no signs, no text.",
-            "caption": "A Greek-style theater outside Greece. New cities look like Greek cities."
+            "ai_prompt": "Realistic image of an ancient Greek theater ruin in a dry landscape: horseshoe-shaped stone seating built into a hillside, wider than a semicircle, warm daylight; no people, no signs, no text."
           },
           "side_image": {
             "description": "Close-up of ancient Greek letters carved in stone, showing the shared written language. Production note: the letters must form no real names or readable famous text; use generic, partly weathered letters only.",
+            "caption": "The stone shows Greek letters. People in many lands share this language.",
             "shutterstock_query": "ancient greek inscription carved stone letters closeup",
-            "ai_prompt": "Close-up of weathered marble with carved ancient Greek letters, shallow depth of field; generic letter shapes only, no real words or names readable.",
-            "caption": "The stone shows Greek letters. People in many lands share this language."
+            "ai_prompt": "Close-up of weathered marble with carved ancient Greek letters, shallow depth of field; generic letter shapes only, no real words or names readable."
           },
           "sv": {
             "title": "Ett språk reser österut",
@@ -3729,15 +3729,15 @@
           ],
           "main_image": {
             "description": "Artistic reconstruction of a giant ancient stone lighthouse at a harbor entrance, with small sailing ships below. Production note: no text, no flags with letters, no maps or labels that could name the city.",
+            "caption": "A giant lighthouse guides ships to the city of books.",
             "shutterstock_query": "ancient lighthouse reconstruction illustration harbor sailing ships",
-            "ai_prompt": "Detailed illustration of a huge ancient three-tiered stone lighthouse by a Mediterranean harbor, small sailing ships below, bright sky, fire glowing at the top; no text, no letters, no labels.",
-            "caption": "A giant lighthouse guides ships to the city of books."
+            "ai_prompt": "Detailed illustration of a huge ancient three-tiered stone lighthouse by a Mediterranean harbor, small sailing ships below, bright sky, fire glowing at the top; no text, no letters, no labels."
           },
           "side_image": {
             "description": "A vertical stick in bright sunlight casting a sharp shadow, suggesting how a scholar measures angles and the Earth. Production note: keep it a clean, simple scene or diagram with no letters or numbers; avoid sundials, which carry engraved numerals.",
+            "caption": "A stick makes a shadow. With shadows, a scholar measures the Earth.",
             "shutterstock_query": "gnomon stick shadow sand sunlight minimal",
-            "ai_prompt": "Minimal clean diagram-style image: a vertical wooden stick on sandy ground casts a sharp shadow; thin sun rays; a subtle angle arc near the top of the stick; no letters, no numbers.",
-            "caption": "A stick makes a shadow. With shadows, a scholar measures the Earth."
+            "ai_prompt": "Minimal clean diagram-style image: a vertical wooden stick on sandy ground casts a sharp shadow; thin sun rays; a subtle angle arc near the top of the stick; no letters, no numbers."
           },
           "sv": {
             "title": "Kunskapens stad",
@@ -3798,7 +3798,7 @@
             "He fights the Persian kings, but he is not born one of them.",
             "He dies young, and his generals break his empire into pieces.",
             "So, is he great?",
-            "Great for which people - the winners, the dead, or the conquered?",
+            "Great for which people: the winners, the dead, or the conquered?",
             "The names we give people in history are a choice, not a fact."
           ],
           "question": "Who is King X?",
@@ -3829,15 +3829,15 @@
           ],
           "main_image": {
             "description": "The stone ruins of Persepolis in Iran: tall broken columns and carved stairways in a dry landscape. Production note: avoid museum plaques and signs; no readable text anywhere in the image.",
+            "caption": "This is Persepolis today. The beautiful palace city is only stones now.",
             "shutterstock_query": "Persepolis ruins Iran ancient columns",
-            "ai_prompt": "Realistic wide shot of the ruins of Persepolis: tall broken stone columns, carved stone stairs, dry hills behind, late afternoon light; no people, no signs, no text.",
-            "caption": "This is Persepolis today. The beautiful palace city is only stones now."
+            "ai_prompt": "Realistic wide shot of the ruins of Persepolis: tall broken stone columns, carved stone stairs, dry hills behind, late afternoon light; no people, no signs, no text."
           },
           "side_image": {
             "description": "A cracked ancient marble sculpture fragment lying on stone ground, a symbol of an empire that breaks apart. This image helps explain the word 'empire' breaking into pieces. Production note: use a generic, anonymous sculpture; it must not be a known portrait of the subject and must carry no name or text.",
+            "caption": "After the king dies, his empire breaks like old stone.",
             "shutterstock_query": "broken ancient marble statue fragment",
-            "ai_prompt": "A generic ancient marble sculpture fragment with visible cracks, lying on stone ground, soft light; anonymous face or only drapery; no text, no labels.",
-            "caption": "After the king dies, his empire breaks like old stone."
+            "ai_prompt": "A generic ancient marble sculpture fragment with visible cracks, lying on stone ground, soft light; anonymous face or only drapery; no text, no labels."
           },
           "sv": {
             "title": "Stor för vilka?",
@@ -3929,15 +3929,15 @@
           ],
           "main_image": {
             "description": "A Persian miniature-style painting of a crowned hero on horseback in a flowering garden, rich colors and a decorative border, showing how storytellers in faraway lands turn the king into a legend. Production note: real miniatures often name the hero in calligraphy - use or generate an image with absolutely no writing, or crop all text away.",
+            "caption": "In many lands, storytellers make the king a legend.",
             "shutterstock_query": "persian miniature painting king horseback manuscript art",
-            "ai_prompt": "Persian miniature style illustration: a crowned hero on a fine horse in a flowering garden, gold and deep blue colors, ornate decorative border; absolutely no calligraphy, letters, or text.",
-            "caption": "In many lands, storytellers make the king a legend."
+            "ai_prompt": "Persian miniature style illustration: a crowned hero on a fine horse in a flowering garden, gold and deep blue colors, ornate decorative border; absolutely no calligraphy, letters, or text."
           },
           "side_image": {
             "description": "A torn, faded fragment of ancient papyrus with unreadable writing, showing how sources from the past get lost. This image helps explain the word 'source'. Production note: the writing must be fully illegible; no real words or names.",
+            "caption": "Old books are lost. Historians read what is left.",
             "shutterstock_query": "ancient papyrus fragment torn faded manuscript",
-            "ai_prompt": "A torn fragment of ancient papyrus with faded, unreadable Greek-style script, dark neutral background, soft light; the text is fully illegible.",
-            "caption": "Old books are lost. Historians read what is left."
+            "ai_prompt": "A torn fragment of ancient papyrus with faded, unreadable Greek-style script, dark neutral background, soft light; the text is fully illegible."
           },
           "sv": {
             "title": "Mannen och myten",
@@ -4037,15 +4037,15 @@
           ],
           "main_image": {
             "description": "Photo of a tall ancient stone aqueduct with rows of arches, either crossing a green valley (for example the Pont du Gard in France) or crossing a city square (for example the aqueduct of Segovia in Spain). Production note: choose a view with no tourist signs, plaques, or readable inscriptions anywhere in the image; search keywords must not appear in any student-visible text or alt-text.",
+            "caption": "An aqueduct. It carries fresh water into a city.",
             "shutterstock_query": "Pont du Gard ancient aqueduct arches valley",
-            "ai_prompt": "A majestic ancient stone aqueduct with three rows of arches crossing a green river valley, warm sunlight, clear blue sky, photorealistic, no people, no signs, no readable text.",
-            "caption": "An aqueduct. It carries fresh water into a city."
+            "ai_prompt": "A majestic ancient stone aqueduct with three rows of arches crossing a green river valley, warm sunlight, clear blue sky, photorealistic, no people, no signs, no readable text."
           },
           "side_image": {
             "description": "Photo of an ancient straight road paved with large flat stone blocks, lined with trees or fields, for example the Appian Way. Production note: no road signs, plaques, or readable text; the city name must not appear on any marker or in any student-visible metadata.",
+            "caption": "A very old stone road. People still walk on it today.",
             "shutterstock_query": "Appian Way ancient stone road paving",
-            "ai_prompt": "An ancient straight road paved with large worn stone blocks, stretching to the horizon between green fields and tall pine trees, soft evening light, photorealistic, no people, no signs, no readable text.",
-            "caption": "A very old stone road. People still walk on it today."
+            "ai_prompt": "An ancient straight road paved with large worn stone blocks, stretching to the horizon between green fields and tall pine trees, soft evening light, photorealistic, no people, no signs, no readable text."
           },
           "sv": {
             "title": "Staden på sju kullar",
@@ -4106,7 +4106,7 @@
             "A senate of old, wise men gives advice.",
             "Free men meet and vote on the laws.",
             "Women cannot vote.",
-            "The people call their state res publica - 'the public thing'.",
+            "The people call their state res publica, 'the public thing'.",
             "Our word 'republic' comes from this.",
             "The city lies in Italy.",
             "But many countries far from Italy still use these ideas today."
@@ -4139,15 +4139,15 @@
           ],
           "main_image": {
             "description": "Warm educational illustration of an ancient senate meeting: old, wise men in simple white robes sit on wooden benches facing each other in a plain stone hall; one man stands and speaks, the others listen. Production note: plain early stone hall, not a marble palace; no readable inscriptions, no 'SPQR' letters, no banners with text.",
+            "caption": "The senate meets. The old, wise men give advice.",
             "shutterstock_query": "ancient senate meeting toga illustration",
-            "ai_prompt": "Warm educational illustration of an ancient senate: old men in simple white robes seated on wooden benches facing each other in a plain stone hall, one man standing and speaking, dignified calm mood, children's book style, no readable text, no banners.",
-            "caption": "The senate meets. The old, wise men give advice."
+            "ai_prompt": "Warm educational illustration of an ancient senate: old men in simple white robes seated on wooden benches facing each other in a plain stone hall, one man standing and speaking, dignified calm mood, children's book style, no readable text, no banners."
           },
           "side_image": {
             "description": "Illustration of ancient voting: men in simple tunics stand in a line in a sunny public square; each man says his choice out loud to an official, who makes a mark on a wax tablet. Supports the word 'vote'. Production note: no readable text on tablets, walls, or buildings; generic ancient clothing, nothing that names the city.",
+            "caption": "The men vote. They choose their leaders.",
             "shutterstock_query": "ancient citizens voting line official illustration",
-            "ai_prompt": "Simple warm illustration of ancient men in plain tunics standing in a line in a sunlit public square, each speaking to a seated official who makes a mark on a wax tablet, calm and orderly, children's book style, no readable text.",
-            "caption": "The men vote. They choose their leaders."
+            "ai_prompt": "Simple warm illustration of ancient men in plain tunics standing in a line in a sunlit public square, each speaking to a seated official who makes a mark on a wax tablet, calm and orderly, children's book style, no readable text."
           },
           "sv": {
             "title": "Den allmänna saken",
@@ -4241,15 +4241,15 @@
           ],
           "main_image": {
             "description": "Sober illustration: an ancient general in a red cloak hands a bag of coins to a line of soldiers; the soldiers look at him, not at the distant walled city behind them. Production note: generic ancient armor only - no eagle standards, no distinctly Roman legionary kit, no 'SPQR' letters; no battle, no blood; no readable text on standards, banners, or coins.",
+            "caption": "A general pays his soldiers. Now they follow him, not their city.",
             "shutterstock_query": "ancient general paying soldiers coins illustration",
-            "ai_prompt": "Muted, serious illustration: an ancient general in a red cloak gives a bag of coins to a line of soldiers in generic ancient armor who look only at him, a distant walled city in the background, calm sober mood, no battle, no blood, no eagle standards, no readable text or letters on banners.",
-            "caption": "A general pays his soldiers. Now they follow him, not their city."
+            "ai_prompt": "Muted, serious illustration: an ancient general in a red cloak gives a bag of coins to a line of soldiers in generic ancient armor who look only at him, a distant walled city in the background, calm sober mood, no battle, no blood, no eagle standards, no readable text or letters on banners."
           },
           "side_image": {
             "description": "Symbolic image: a golden laurel wreath resting on a single empty marble chair in a large hall. Supports the key idea that one man now holds all the power. Production note: no inscriptions or readable text anywhere.",
+            "caption": "A laurel wreath. It is a sign for winners. Now one man alone has it.",
             "shutterstock_query": "golden laurel wreath marble ancient symbol",
-            "ai_prompt": "A golden laurel wreath lying on a single empty marble chair in a large quiet ancient hall, soft dramatic light, symbolic and simple, no people, no readable text.",
-            "caption": "A laurel wreath. It is a sign for winners. Now one man alone has it."
+            "ai_prompt": "A golden laurel wreath lying on a single empty marble chair in a large quiet ancient hall, soft dramatic light, symbolic and simple, no people, no readable text."
           },
           "sv": {
             "title": "Hur en republik dör",
@@ -4343,15 +4343,15 @@
           ],
           "main_image": {
             "description": "Photo of the interior of the Pantheon: the huge round concrete dome with its square patterns and the circular opening (oculus) at the top, sunlight falling through. Production note: frame looking up at the dome and oculus only; the building today is a church, so crop out the altar, the apse, and all tombs, which carry large readable inscriptions; the front of the building carries a large Latin inscription that must not be shown; no signs or readable text anywhere. If a clean crop is not possible, use the AI image instead.",
+            "caption": "A roof of concrete. It is very old, and it still stands.",
             "shutterstock_query": "Pantheon dome interior oculus sunlight",
-            "ai_prompt": "Interior of a vast ancient concrete dome with square coffers and a circular opening at the top, a beam of sunlight falling through into the quiet space, photorealistic, awe-inspiring, no people, no readable text.",
-            "caption": "A roof of concrete. It is very old, and it still stands."
+            "ai_prompt": "Interior of a vast ancient concrete dome with square coffers and a circular opening at the top, a beam of sunlight falling through into the quiet space, photorealistic, awe-inspiring, no people, no readable text."
           },
           "side_image": {
             "description": "Simple educational diagram: the old word 'aqua' (water) at the top, with five arrows down to 'acqua' (Italian), 'agua' (Spanish), 'água' (Portuguese), 'eau' (French), and 'apă' (Romanian). Supports the idea that Latin grows into new languages. Production note: this exact diagram will not exist as a stock photo - produce it with the AI prompt or an in-house illustrator; the stock query is a style reference only. Show only these example words and the five language names; do not write the empire's name anywhere in the diagram.",
+            "caption": "One old word for water becomes five new words.",
             "shutterstock_query": "word evolution flat infographic diagram arrows",
-            "ai_prompt": "Clean minimal educational diagram: the word 'aqua' in a circle at the top, five arrows pointing down to the words 'acqua', 'agua', 'água', 'eau', 'apă', each labeled Italian, Spanish, Portuguese, French, Romanian, flat design, friendly colors, white background.",
-            "caption": "One old word for water becomes five new words."
+            "ai_prompt": "Clean minimal educational diagram: the word 'aqua' in a circle at the top, five arrows pointing down to the words 'acqua', 'agua', 'água', 'eau', 'apă', each labeled Italian, Spanish, Portuguese, French, Romanian, flat design, friendly colors, white background."
           },
           "sv": {
             "title": "Riken tar slut, idéer består",
@@ -4445,15 +4445,15 @@
           ],
           "main_image": {
             "description": "Photo of ancient ruins: broken marble columns and an old stone arch, grass growing between fallen stones, warm evening light. Production note: avoid famous, recognizable landmarks that identify the city (no Colosseum, no signature arches or temple columns); prefer a less iconic provincial ruin site; no tourist signs, information boards, or readable inscriptions; search keywords must never appear in student-visible text or alt-text.",
+            "caption": "In the west, the old buildings become ruins.",
             "shutterstock_query": "ancient ruins broken marble columns stone arch sunset",
-            "ai_prompt": "An ancient ruined forum with broken marble columns and an old stone arch, grass growing between fallen stones, golden evening light, quiet and thoughtful mood, photorealistic, no people, no signs, no readable text.",
-            "caption": "In the west, the old buildings become ruins."
+            "ai_prompt": "An ancient ruined forum with broken marble columns and an old stone arch, grass growing between fallen stones, golden evening light, quiet and thoughtful mood, photorealistic, no people, no signs, no readable text."
           },
           "side_image": {
             "description": "Photo of Hagia Sophia in Istanbul, the former Constantinople: the great domed building seen from a distance, for example across the water. Supports the clue about the eastern half living on. Production note: the four tall minarets are later additions from after the empire's end - choose a crop or angle that de-emphasizes them; crop out modern signs, flags, and any readable text.",
+            "caption": "In the east, the empire lives on for about a thousand years.",
             "shutterstock_query": "Hagia Sophia Istanbul dome exterior golden hour",
-            "ai_prompt": "The great domed silhouette of a vast Byzantine church at golden hour, seen across calm water, no minarets, majestic and peaceful, warm light, photorealistic, no flags, no signs, no readable text.",
-            "caption": "In the east, the empire lives on for about a thousand years."
+            "ai_prompt": "The great domed silhouette of a vast Byzantine church at golden hour, seen across calm water, no minarets, majestic and peaceful, warm light, photorealistic, no flags, no signs, no readable text."
           },
           "sv": {
             "title": "Undergång eller förvandling?",
@@ -4544,15 +4544,15 @@
           ],
           "main_image": {
             "description": "Friendly illustration of a Roman leader in a white toga and red cloak writing on a wax tablet with a stylus, Roman columns and buildings in the background. Production note: no readable text anywhere in the image; no labeled busts or statues; the subject's name must not appear.",
+            "caption": "A Roman leader writes about the lands he sees.",
             "shutterstock_query": "roman man toga writing wax tablet illustration",
-            "ai_prompt": "Children's book illustration, warm colors: a Roman man in a white toga with a red cloak writes on a wax tablet with a stylus, ancient Roman columns and buildings behind him, sunny day, no text or letters anywhere in the image.",
-            "caption": "A Roman leader writes about the lands he sees."
+            "ai_prompt": "Children's book illustration, warm colors: a Roman man in a white toga with a red cloak writes on a wax tablet with a stylus, ancient Roman columns and buildings behind him, sunny day, no text or letters anywhere in the image."
           },
           "side_image": {
-            "description": "A simple wall calendar page for the month of July with a summer sun. The word 'July' may be visible, because it is a clue in the card text, but no other names. Production note: the subject's name must not appear anywhere. Translator note: keep 'July', 'Kaiser', and 'tsar' in Latin script or a close transliteration, and check that at least one sound link to the correct option survives in each target language.",
-            "shutterstock_query": "july calendar page summer illustration",
-            "ai_prompt": "A simple, colorful wall calendar page showing the month of July, a bright summer sun at the top, a clear grid of days, flat children's illustration style, only the word July and numbers, no other text.",
-            "caption": "The month of July has his name."
+            "description": "A paper wall calendar hangs on a sunlit wall beside an open window with a green summer garden outside; its page shows a plain grid of empty day squares under a small painted summer sun. Production note: every square is empty, with no numbers, no month name and no letters anywhere; the subject's name must not appear anywhere. Translator note: keep 'July', 'Kaiser', and 'tsar' in Latin script or a close transliteration, and check that at least one sound link to the correct option survives in each target language.",
+            "caption": "The month of July has his name.",
+            "shutterstock_query": "blank wall calendar summer window sunlight",
+            "ai_prompt": "Warm painterly illustration: a paper wall calendar hangs on a sunlit wall beside an open window with a green summer garden outside, the calendar page shows a plain grid of empty day squares under a small painted summer sun, every square empty, no numbers, no month name, no letters, no text anywhere."
           },
           "sv": {
             "title": "Ett namn i vanliga ord",
@@ -4631,15 +4631,15 @@
           ],
           "main_image": {
             "description": "Illustration of a Roman leader in a toga and a Greek scholar from Alexandria in Egypt studying a large round star chart together at night, oil lamps, stars above. The scholar wears a simple Greek chiton and himation, Hellenistic setting - not pharaonic costume or headdress. Production note: no readable words on the chart or anywhere in the image; the subject's name must not appear. The AI prompt is the primary path for this two-person scene; the stock query is a generic fallback, and the caption works with either image.",
+            "caption": "An astronomer studies the stars to fix the calendar.",
             "shutterstock_query": "ancient astronomer star chart night illustration",
-            "ai_prompt": "Warm, sober children's book illustration: a Roman leader in a toga and a Greek scholar from Alexandria in a simple chiton study a big round star chart together under a starry night sky, oil lamps glowing, Hellenistic setting, no pharaonic costume or headdress, no text or letters anywhere in the image.",
-            "caption": "An astronomer studies the stars to fix the calendar."
+            "ai_prompt": "Warm, sober children's book illustration: a Roman leader in a toga and a Greek scholar from Alexandria in a simple chiton study a big round star chart together under a starry night sky, oil lamps glowing, Hellenistic setting, no pharaonic costume or headdress, no text or letters anywhere in the image."
           },
           "side_image": {
             "description": "A clean, simple calendar page for February showing 29 days, with the number 29 circled in red. This explains the word 'leap day'. Production note: only the word February and numbers; no other text.",
+            "caption": "A leap day gives February one extra day.",
             "shutterstock_query": "february 29 leap year calendar page",
-            "ai_prompt": "A simple flat illustration of a calendar page for February with 29 days, the number 29 circled in red, minimal clean style, only the word February and numbers, no other text.",
-            "caption": "A leap day gives February one extra day."
+            "ai_prompt": "A simple flat illustration of a calendar page for February with 29 days, the number 29 circled in red, minimal clean style, only the word February and numbers, no other text."
           },
           "sv": {
             "title": "Ett år som följer solen",
@@ -4727,15 +4727,15 @@
           ],
           "main_image": {
             "description": "A Roman general stands with his soldiers at the bank of a small, shallow river on a cold winter morning; soldiers in red cloaks wait quietly behind him. Sober mood, no fighting, no blood. Production note: no readable words on banners or standards; the subject's name must not appear.",
+            "caption": "A general stands at a small river. One more step, and there is no way back.",
             "shutterstock_query": "roman general horseback river soldiers winter illustration",
-            "ai_prompt": "Sober historical illustration: a Roman general stands at the bank of a small shallow river in winter, soldiers in red cloaks waiting behind him, cold morning light, calm and serious mood, no fighting, no text or letters anywhere in the image.",
-            "caption": "A general stands at a small river. One more step, and there is no way back."
+            "ai_prompt": "Sober historical illustration: a Roman general stands at the bank of a small shallow river in winter, soldiers in red cloaks waiting behind him, cold morning light, calm and serious mood, no fighting, no text or letters anywhere in the image."
           },
           "side_image": {
             "description": "A hand throws one white die; the die is frozen in mid-air over a plain background. This explains the words 'the die is cast'.",
+            "caption": "You throw a die. You cannot take the throw back.",
             "shutterstock_query": "hand throwing one dice mid air closeup",
-            "ai_prompt": "Simple clean illustration: a hand throws a single white die, the die frozen in mid-air, plain light background, no text anywhere in the image.",
-            "caption": "You throw a die. You cannot take the throw back."
+            "ai_prompt": "Simple clean illustration: a hand throws a single white die, the die frozen in mid-air, plain light background, no text anywhere in the image."
           },
           "sv": {
             "title": "Floden utan återvändo",
@@ -4827,15 +4827,15 @@
           ],
           "main_image": {
             "description": "Roman senators in white togas gather in a grand marble hall; the mood is tense, some faces are worried. No violence, no blood, no raised weapons. Production note: no readable inscriptions on walls or objects; the subject's name must not appear.",
+            "caption": "Senators meet in a big stone hall in Rome.",
             "shutterstock_query": "roman senate senators togas marble hall illustration",
-            "ai_prompt": "Sober historical illustration: Roman senators in white togas gather in a grand marble hall, tense and worried faces, morning light through high windows, no violence, no blood, no text or inscriptions anywhere in the image.",
-            "caption": "Senators meet in a big stone hall in Rome."
+            "ai_prompt": "Sober historical illustration: Roman senators in white togas gather in a grand marble hall, tense and worried faces, morning light through high windows, no violence, no blood, no text or inscriptions anywhere in the image."
           },
           "side_image": {
             "description": "A single ancient Roman dagger shown as a museum object on a plain neutral background - sober and educational, not glorified. This explains the word 'dagger', which the caption defines. Production note: no engraved words or names on the blade or handle.",
+            "caption": "A dagger is a short knife.",
             "shutterstock_query": "ancient roman dagger pugio museum artifact",
-            "ai_prompt": "Museum-style image: one ancient Roman dagger with a worn blade and a simple handle, lying flat on a plain neutral background, soft even light, no text, no engraved words.",
-            "caption": "A dagger is a short knife."
+            "ai_prompt": "Museum-style image: one ancient Roman dagger with a worn blade and a simple handle, lying flat on a plain neutral background, soft even light, no text, no engraved words."
           },
           "sv": {
             "title": "Kan våld rädda en republik?",
@@ -4927,15 +4927,15 @@
           ],
           "main_image": {
             "description": "Extreme close-up of an ancient Roman silver coin with a man's head in profile, worn metal texture. IMPORTANT production note: real coins of this man carry his name - all letters and inscriptions must be removed, blurred, or unreadable; use a generic portrait coin, not a labeled museum photo.",
+            "caption": "A living leader puts his own face on a coin.",
             "shutterstock_query": "ancient roman silver denarius portrait profile closeup",
-            "ai_prompt": "Close-up illustration of an ancient Roman silver coin showing a man's head in profile, worn metal texture, plain dark background, no letters, no inscriptions, no text on the coin or anywhere in the image.",
-            "caption": "A living leader puts his own face on a coin."
+            "ai_prompt": "Close-up illustration of an ancient Roman silver coin showing a man's head in profile, worn metal texture, plain dark background, no letters, no inscriptions, no text on the coin or anywhere in the image."
           },
           "side_image": {
             "description": "An old papyrus scroll, partly unrolled, with faint unreadable lines of writing, and a reed pen beside it. This explains the word 'source'. Production note: the writing must be unreadable; no real words or names.",
+            "caption": "An old text is a source. Ask: who writes it, and why?",
             "shutterstock_query": "ancient papyrus scroll reed pen",
-            "ai_prompt": "Warm still-life illustration: an ancient papyrus scroll partly unrolled with faint, unreadable lines of script, a reed pen lying beside it, soft warm light, no readable words anywhere in the image.",
-            "caption": "An old text is a source. Ask: who writes it, and why?"
+            "ai_prompt": "Warm still-life illustration: an ancient papyrus scroll partly unrolled with faint, unreadable lines of script, a reed pen lying beside it, soft warm light, no readable words anywhere in the image."
           },
           "sv": {
             "title": "Hjälten i sin egen berättelse",
@@ -4997,7 +4997,7 @@
             "Master X lives in China about 2,500 years ago.",
             "He is a teacher.",
             "He takes any student who really wants to learn.",
-            "Rich or poor - it does not matter.",
+            "Rich or poor, it does not matter.",
             "A small gift of dried meat is enough, he says.",
             "That is his school fee.",
             "He teaches kindness, honesty, and respect for parents and old people.",
@@ -5033,15 +5033,15 @@
           ],
           "main_image": {
             "description": "A warm illustration of an elderly Chinese teacher with a long beard, in simple traditional robes, sitting under a large tree. Around him sit students of different ages - some in fine clothes, some in very simple clothes - all listening. Ancient China, friendly and calm mood. Production note: no text, no name, and no labeled scrolls anywhere in the image.",
+            "caption": "Master X teaches rich and poor students.",
             "shutterstock_query": "ancient chinese teacher teaching students under tree illustration",
-            "ai_prompt": "Warm storybook illustration: an elderly Chinese teacher with a long beard, in plain traditional robes of ancient China around 500 BCE (Zhou era), sits under a big tree and talks with a small group of students of different ages, some dressed richly and some poorly, soft colors, respectful and friendly, no Ming or Qing style clothing, no queue hairstyle, no text, no writing, no labels.",
-            "caption": "Master X teaches rich and poor students."
+            "ai_prompt": "Warm storybook illustration: an elderly Chinese teacher with a long beard, in plain traditional robes of ancient China around 500 BCE (Zhou era), sits under a big tree and talks with a small group of students of different ages, some dressed richly and some poorly, soft colors, respectful and friendly, no Ming or Qing style clothing, no queue hairstyle, no text, no writing, no labels."
           },
           "side_image": {
             "description": "A small bundle of dried meat strips, tied together with simple string, lying on a plain wooden table in an old Chinese home. In old China, a student can give this as a school fee. The picture helps explain the word 'school fee'. Production note: no text, no labels, no packaging with writing in the image.",
+            "caption": "In old China, a gift of dried meat is a school fee.",
             "shutterstock_query": "dried meat strips bundle rustic wooden table",
-            "ai_prompt": "Simple warm illustration: a small bundle of dried meat strips tied together with string, lying on a plain wooden table in an ancient Chinese home, soft warm light, humble and clean scene, no text, no labels, no packaging.",
-            "caption": "In old China, a gift of dried meat is a school fee."
+            "ai_prompt": "Simple warm illustration: a small bundle of dried meat strips tied together with string, lying on a plain wooden table in an ancient Chinese home, soft warm light, humble and clean scene, no text, no labels, no packaging."
           },
           "sv": {
             "title": "En skola för rika och fattiga",
@@ -5114,7 +5114,7 @@
           "words": [
             {
               "word": "golden rule",
-              "explanation": "a famous rule: treat other people as you want them to treat you - Master X says it with a 'do not'"
+              "explanation": "a famous rule: treat other people as you want them to treat you; Master X says it with a 'do not'"
             },
             {
               "word": "culture",
@@ -5127,15 +5127,15 @@
           ],
           "main_image": {
             "description": "An old Chinese teacher and a young student sit facing each other in a quiet courtyard in ancient China. The teacher speaks calmly; the student listens with interest. Respectful, peaceful scene. Production note: no text or name anywhere in the image.",
+            "caption": "A student asks Master X about the right way to live.",
             "shutterstock_query": "ancient chinese teacher student conversation courtyard illustration",
-            "ai_prompt": "Soft, respectful illustration: an elderly Chinese teacher and a young student sit facing each other in a simple courtyard in ancient China around 500 BCE, both in simple Zhou-era wrapped robes, hair tied in topknots, no Ming or Qing style clothing, no queue hairstyle, the teacher speaking gently, warm light, calm colors, no text, no writing.",
-            "caption": "A student asks Master X about the right way to live."
+            "ai_prompt": "Soft, respectful illustration: an elderly Chinese teacher and a young student sit facing each other in a simple courtyard in ancient China around 500 BCE, both in simple Zhou-era wrapped robes, hair tied in topknots, no Ming or Qing style clothing, no queue hairstyle, the teacher speaking gently, warm light, calm colors, no text, no writing."
           },
           "side_image": {
             "description": "Children from different parts of the world stand in a circle and hold hands, with a small globe in the middle. The picture shows that many cultures share the same golden rule. Bright, friendly, and simple. Production note: no text, no letters, no words on the globe, clothes, or background.",
+            "caption": "People in many cultures share the same rule: be good to others.",
             "shutterstock_query": "children around the world holding hands circle diversity illustration no text",
-            "ai_prompt": "Flat, friendly illustration: children from many different cultures in colorful clothes hold hands in a circle around a small globe, bright colors, no text, no letters, no labeled globe, no flags with words.",
-            "caption": "People in many cultures share the same rule: be good to others."
+            "ai_prompt": "Flat, friendly illustration: children from many different cultures in colorful clothes hold hands in a circle around a small globe, bright colors, no text, no letters, no labeled globe, no flags with words."
           },
           "sv": {
             "title": "En enda regel för livet",
@@ -5222,15 +5222,15 @@
           ],
           "main_image": {
             "description": "A wise old teacher in simple robes speaks calmly with a young ruler in an ancient Chinese palace hall. The ruler leans forward and listens. The scene shows advice and care, not power or war. Production note: no text, no name, no labeled banners in the image.",
+            "caption": "Master X says: lead by good example.",
             "shutterstock_query": "ancient china wise advisor speaking to ruler palace illustration",
-            "ai_prompt": "Dignified illustration: inside a simple ancient Chinese palace hall around 500 BCE, an elderly teacher in plain Zhou-era robes speaks calmly to a young seated ruler who listens with respect, hair in topknots, no Ming or Qing style clothing, no queue hairstyle, warm muted colors, peaceful mood, no weapons, no text, no writing on banners.",
-            "caption": "Master X says: lead by good example."
+            "ai_prompt": "Dignified illustration: inside a simple ancient Chinese palace hall around 500 BCE, an elderly teacher in plain Zhou-era robes speaks calmly to a young seated ruler who listens with respect, hair in topknots, no Ming or Qing style clothing, no queue hairstyle, warm muted colors, peaceful mood, no weapons, no text, no writing on banners."
           },
           "side_image": {
             "description": "A historical Chinese state examination: rows of small open cubicles where candidates in traditional robes write with brush and ink. The picture explains the word 'examination'. Production note: any written characters must be generic and unreadable and must not spell the subject's name.",
+            "caption": "In old China, people take a big exam to work for the country.",
             "shutterstock_query": "chinese imperial examination candidates writing historical illustration",
-            "ai_prompt": "Historical illustration of the Chinese imperial examination: many small open examination cells in long rows, men in traditional robes writing carefully with brush and ink on paper, calm daylight, orderly scene, no readable characters, no names, no labels.",
-            "caption": "In old China, people take a big exam to work for the country."
+            "ai_prompt": "Historical illustration of the Chinese imperial examination: many small open examination cells in long rows, men in traditional robes writing carefully with brush and ink on paper, calm daylight, orderly scene, no readable characters, no names, no labels."
           },
           "sv": {
             "title": "Föregå med gott exempel",
@@ -5283,7 +5283,7 @@
           "category": "religions",
           "text_sentences": [
             "Master X lives in China, long ago.",
-            "He teaches \"li\" - the polite forms of daily life.",
+            "He teaches \"li\": the polite forms of daily life.",
             "How to greet, how to eat together, how to speak with old people.",
             "For him, these small forms are the glue of society.",
             "They show respect, and respect holds people together.",
@@ -5322,15 +5322,15 @@
           ],
           "main_image": {
             "description": "A Chinese family of three generations shares a meal. The younger family members greet the grandparents politely before eating. Warm home scene showing everyday respect. Culturally respectful and conventional. Production note: no text or name in the image.",
+            "caption": "The family eats together and shows respect.",
             "shutterstock_query": "chinese family three generations meal respect grandparents",
-            "ai_prompt": "Warm illustration: a Chinese family of three generations around a dinner table at home, younger people politely greeting and serving the grandparents first, gentle light, everyday clothes, respectful and cozy, no text, no writing.",
-            "caption": "The family eats together and shows respect."
+            "ai_prompt": "Warm illustration: a Chinese family of three generations around a dinner table at home, younger people politely greeting and serving the grandparents first, gentle light, everyday clothes, respectful and cozy, no text, no writing."
           },
           "side_image": {
             "description": "A young person offers a cup of tea to an older person, holding the cup with both hands and bowing slightly. A small everyday act of respect that helps explain the word 'li'. Production note: no text, calligraphy, or name readable anywhere in the image.",
+            "caption": "A young person gives tea to an old person with both hands.",
             "shutterstock_query": "young person serving tea to elder both hands respect asia",
-            "ai_prompt": "Simple, warm illustration: a young person offers a cup of tea with both hands to a smiling older person, slight polite bow, East Asian home setting, soft colors, no text, no calligraphy, no signs.",
-            "caption": "A young person gives tea to an old person with both hands."
+            "ai_prompt": "Simple, warm illustration: a young person offers a cup of tea with both hands to a smiling older person, slight polite bow, East Asian home setting, soft colors, no text, no calligraphy, no signs."
           },
           "sv": {
             "title": "Samhällets lim",
@@ -5422,15 +5422,15 @@
           ],
           "main_image": {
             "description": "A still life: an ancient Chinese bamboo-slip book lies next to a modern printed book on a wooden desk. The picture shows one idea traveling through time, from old strips to modern pages. Production note: no readable titles, characters, or names on the books.",
+            "caption": "His sayings travel from bamboo strips to modern books.",
             "shutterstock_query": "ancient chinese bamboo scroll and modern book concept",
-            "ai_prompt": "Photorealistic still life: an ancient Chinese bamboo-slip book, partly unrolled, next to a modern printed paperback on a wooden desk, warm light, quiet mood, no readable text on covers or strips, no names, no labels.",
-            "caption": "His sayings travel from bamboo strips to modern books."
+            "ai_prompt": "Photorealistic still life: an ancient Chinese bamboo-slip book, partly unrolled, next to a modern printed paperback on a wooden desk, warm light, quiet mood, no readable text on covers or strips, no names, no labels."
           },
           "side_image": {
             "description": "A traditional Chinese temple courtyard with red pillars and old trees. Visitors stand quietly and show respect. The picture shows that people honor the old teacher again today. Production note: choose or edit an image with no statues, portraits, or other depictions of the teacher; all plaques, boards, steles, and signs must be blank or unreadable - the subject's name must not appear in any language.",
+            "caption": "People show respect to the old teacher in a temple today.",
             "shutterstock_query": "traditional chinese temple courtyard red pillars visitors incense",
-            "ai_prompt": "Photorealistic Chinese temple courtyard: red pillars, curved roofs, old trees, a few visitors bowing respectfully with incense, peaceful atmosphere, soft daylight, no statues, no portraits, no images of people in the temple art, all signs, steles, and plaques blank or out of focus, no readable text in any language.",
-            "caption": "People show respect to the old teacher in a temple today."
+            "ai_prompt": "Photorealistic Chinese temple courtyard: red pillars, curved roofs, old trees, a few visitors bowing respectfully with incense, peaceful atmosphere, soft daylight, no statues, no portraits, no images of people in the temple art, all signs, steles, and plaques blank or out of focus, no readable text in any language."
           },
           "sv": {
             "title": "Idéernas långa liv",
@@ -5530,15 +5530,15 @@
           ],
           "main_image": {
             "description": "Illustration of a young prince in fine clothes riding in a wooden chariot outside high palace walls; on the road he sees an old man with a walking stick and a sick man resting; the prince looks surprised and thoughtful. Production note: no text or names anywhere in the image; check that the chosen image contains no readable name. Keep the scene gentle, not frightening - show the dead man only as a covered figure carried far in the distance, or leave him out.",
+            "caption": "Outside the walls, the prince sees an old man and a sick man for the first time.",
             "shutterstock_query": "young Indian prince chariot sees old man sick man ancient illustration",
-            "ai_prompt": "Warm children's book illustration of a young Indian prince in fine clothes riding in a wooden chariot outside high palace walls, on the road he sees an old man with a walking stick and a sick man resting, the prince looks surprised and thoughtful, ancient India setting, soft colors, gentle and respectful, no text anywhere.",
-            "caption": "Outside the walls, the prince sees an old man and a sick man for the first time."
+            "ai_prompt": "Warm children's book illustration of a young Indian prince in fine clothes riding in a wooden chariot outside high palace walls, on the road he sees an old man with a walking stick and a sick man resting, the prince looks surprised and thoughtful, ancient India setting, soft colors, gentle and respectful, no text anywhere."
           },
           "side_image": {
             "description": "A man in a simple robe sits quietly with closed eyes under a very large fig tree with heart-shaped leaves. This supports two card ideas: the fig tree and the word 'awakened' - he sits, thinks deeply, and begins to see life clearly. Production note: conventional, respectful pose; no text, no name, no labels; choose an image with no statues, halos, or religious symbols.",
+            "caption": "He sits under a big fig tree and thinks deeply.",
             "shutterstock_query": "man meditating under large fig tree heart shaped leaves illustration",
-            "ai_prompt": "Simple warm illustration of a man in a plain robe sitting cross-legged with closed eyes under a very large fig tree with heart-shaped leaves, soft morning light, peaceful and respectful, children's book style, no halo, no symbols, no text.",
-            "caption": "He sits under a big fig tree and thinks deeply."
+            "ai_prompt": "Simple warm illustration of a man in a plain robe sitting cross-legged with closed eyes under a very large fig tree with heart-shaped leaves, soft morning light, peaceful and respectful, children's book style, no halo, no symbols, no text."
           },
           "sv": {
             "title": "Prinsen som lämnar palatset",
@@ -5593,7 +5593,7 @@
           "text_sentences": [
             "Prince X lives long ago, in what is now Nepal and India.",
             "The old stories tell us: as a young man he has every luxury.",
-            "Fine food, music, soft beds - but they do not make him happy.",
+            "Fine food, music, soft beds, but they do not make him happy.",
             "The stories go on: he tries the opposite and eats almost nothing.",
             "He almost dies, and he finds no answer.",
             "So he chooses a middle way.",
@@ -5601,7 +5601,7 @@
             "His teaching starts with an honest look at life.",
             "Suffering is real, it has causes, and there is a way to end it.",
             "One big cause, he says, is that we always want more.",
-            "Not too much, not too little - people still find this idea wise today."
+            "Not too much, not too little: people still find this idea wise today."
           ],
           "question": "Who is Prince X?",
           "options": [
@@ -5627,15 +5627,15 @@
           ],
           "main_image": {
             "description": "Educational illustration in three parts: on the left, a young prince surrounded by rich food and gold; on the right, the same man now very thin, eating almost nothing; in the center, the man in a simple robe walking calmly on a middle road between the two scenes. Production note: show the thin figure with dignity, not as a caricature; no text or names in the image. Stock route: reject any result with readable text, names, or labeled statues.",
+            "caption": "Too much fails. Too little fails. He chooses the middle way.",
             "shutterstock_query": "prince luxury asceticism middle way illustration",
-            "ai_prompt": "Flat educational illustration in three parts: left, a young South Asian prince with rich food and gold; right, the same man very thin and eating almost nothing, shown with dignity; center, the man in a simple robe walking calmly on a middle road between the two scenes, warm respectful style, no text.",
-            "caption": "Too much fails. Too little fails. He chooses the middle way."
+            "ai_prompt": "Flat educational illustration in three parts: left, a young South Asian prince with rich food and gold; right, the same man very thin and eating almost nothing, shown with dignity; center, the man in a simple robe walking calmly on a middle road between the two scenes, warm respectful style, no text."
           },
           "side_image": {
             "description": "A person sits in a quiet place with closed eyes and breathes calmly. The image supports the key phrase 'train a calm and clear mind'. Production note: simple neutral dress; respectful; no religious symbols; no text.",
+            "caption": "He trains a calm and clear mind.",
             "shutterstock_query": "person meditating calm mind simple flat illustration",
-            "ai_prompt": "Minimal flat illustration of a person sitting cross-legged with eyes closed, breathing calmly, soft plain background, a feeling of quiet and clarity, no text.",
-            "caption": "He trains a calm and clear mind."
+            "ai_prompt": "Minimal flat illustration of a person sitting cross-legged with eyes closed, breathing calmly, soft plain background, a feeling of quiet and clarity, no text."
           },
           "sv": {
             "title": "Inte för mycket, inte för lite",
@@ -5723,15 +5723,15 @@
           ],
           "main_image": {
             "description": "Open-air scene in old India: a teacher in a simple robe sits under a tree and speaks to a mixed circle of listeners - a farmer with a hoe, a barber holding scissors and a razor, a king in rich clothes, women and men together. Production note: all listeners sit at the same level in one circle, to show equality; no text or names in the image; avoid recognizable Buddha iconography (halo, hair topknot, long earlobes, lotus throne) - show only a generic robed teacher.",
+            "caption": "Farmers, barbers, and kings all learn the same way.",
             "shutterstock_query": "ancient India teacher under tree diverse group listeners illustration",
-            "ai_prompt": "Educational illustration of a teacher in a plain robe in ancient India sitting under a tree, speaking to a circle of very different listeners: a farmer with a hoe, a barber holding scissors and a razor, a king in rich clothes, women and men, all sitting at the same level in one circle, the teacher is a generic man with no halo and no topknot, warm respectful style, no text.",
-            "caption": "Farmers, barbers, and kings all learn the same way."
+            "ai_prompt": "Educational illustration of a teacher in a plain robe in ancient India sitting under a tree, speaking to a circle of very different listeners: a farmer with a hoe, a barber holding scissors and a razor, a king in rich clothes, women and men, all sitting at the same level in one circle, the teacher is a generic man with no halo and no topknot, warm respectful style, no text."
           },
           "side_image": {
             "description": "Two women in plain, simple robes walk quietly and carry simple bowls. This supports the difficult word 'nun'. Production note: keep the dress generic - no recognizably Buddhist robes or robe colors, no religious symbols, temples, or prayer beads; no text or labels.",
+            "caption": "Women also join his group. They live simply and learn.",
             "shutterstock_query": "two women plain simple robes walking bowls illustration",
-            "ai_prompt": "Respectful simple illustration of two women in plain light robes walking quietly and carrying simple bowls, generic dress with no religious symbols, soft colors, calm mood, no text.",
-            "caption": "Women also join his group. They live simply and learn."
+            "ai_prompt": "Respectful simple illustration of two women in plain light robes walking quietly and carrying simple bowls, generic dress with no religious symbols, soft colors, calm mood, no text."
           },
           "sv": {
             "title": "En stilla revolution",
@@ -5824,15 +5824,15 @@
           ],
           "main_image": {
             "description": "A stylized old map of Asia with soft golden arrows: from northern India by sea to Sri Lanka and Southeast Asia; overland along mountain and desert trade routes to China; then on by sea, past the Korean peninsula, to the islands of Japan; small lotus symbols travel with the arrows. Production note: NO country names, city names, or any readable words on the map - the answer must not be readable; use only shapes, arrows, and symbols.",
+            "caption": "The teaching travels the trade roads, land by land.",
             "shutterstock_query": "ancient Asia map spread routes arrows illustration no labels",
-            "ai_prompt": "Stylized antique-looking map of Asia with no text or labels at all, soft golden arrows flowing from northern India by sea to Sri Lanka and Southeast Asia, overland across mountain and desert trade routes to China, and then onward by sea past the Korean peninsula to the islands of Japan, small lotus symbols along the arrows, warm educational style, absolutely no words on the map.",
-            "caption": "The teaching travels the trade roads, land by land."
+            "ai_prompt": "Stylized antique-looking map of Asia with no text or labels at all, soft golden arrows flowing from northern India by sea to Sri Lanka and Southeast Asia, overland across mountain and desert trade routes to China, and then onward by sea past the Korean peninsula to the islands of Japan, small lotus symbols along the arrows, warm educational style, absolutely no words on the map."
           },
           "side_image": {
             "description": "Four temple silhouettes side by side, each in a clearly different regional style: an Indian stupa, a Chinese pagoda, a Japanese pagoda, and a Thai temple with a tall pointed roof. This shows the card's key idea: in each land the idea takes a new form. It also helps explain the word 'temple' from the card text. Production note: silhouettes or simple drawings only; no statues, no people, no text, no labels.",
+            "caption": "Each land gives the idea a new form.",
             "shutterstock_query": "Asian temple silhouettes stupa pagoda different regional styles illustration",
-            "ai_prompt": "Clean warm illustration of four temple silhouettes side by side - an Indian stupa, a Chinese pagoda, a Japanese pagoda, and a Thai temple with a tall pointed roof - simple shapes, soft colors, no statues, no people, no text or labels.",
-            "caption": "Each land gives the idea a new form."
+            "ai_prompt": "Clean warm illustration of four temple silhouettes side by side - an Indian stupa, a Chinese pagoda, a Japanese pagoda, and a Thai temple with a tall pointed roof - simple shapes, soft colors, no statues, no people, no text or labels."
           },
           "sv": {
             "title": "En idé reser utan armé",
@@ -5925,15 +5925,15 @@
           ],
           "main_image": {
             "description": "A circle of monks in simple robes sits in an old open hall and recites together from memory; their closed eyes and open mouths show they speak from memory - there are no books or papers anywhere in the scene. Production note: respectful and conventional; no statues, paintings, altars, or other religious iconography in the scene; no temple signage or readable text; plain simple robes.",
+            "caption": "The monks say the words together, from memory.",
             "shutterstock_query": "group of monks reciting chanting together ancient hall illustration",
-            "ai_prompt": "Warm respectful illustration of a circle of monks in simple robes sitting in an old open hall, reciting together from memory with closed eyes, no books or papers anywhere in the scene, no statues or altars, soft evening light, no text.",
-            "caption": "The monks say the words together, from memory."
+            "ai_prompt": "Warm respectful illustration of a circle of monks in simple robes sitting in an old open hall, reciting together from memory with closed eyes, no books or papers anywhere in the scene, no statues or altars, soft evening light, no text."
           },
           "side_image": {
             "description": "Close-up of hands writing with a metal stylus on long narrow palm leaves; finished palm-leaf pages bound with a string lie beside them. This supports the idea 'written on palm leaves'. Production note: the writing must be decorative, generic strokes only - no real readable words or names.",
+            "caption": "Much later, the words are written on palm leaves.",
             "shutterstock_query": "palm leaf manuscript writing stylus close up",
-            "ai_prompt": "Detailed warm illustration of hands writing with a metal stylus on long narrow palm leaves, finished palm-leaf pages bound with string beside them, the writing shown only as decorative unreadable strokes, soft light, no readable words.",
-            "caption": "Much later, the words are written on palm leaves."
+            "ai_prompt": "Detailed warm illustration of hands writing with a metal stylus on long narrow palm leaves, finished palm-leaf pages bound with string beside them, the writing shown only as decorative unreadable strokes, soft light, no readable words."
           },
           "sv": {
             "title": "Levande böcker",
@@ -6097,7 +6097,7 @@
             "They talk, and then they vote by raising their hands.",
             "They decide about laws, money, war, and peace.",
             "Many city jobs go by lot, like names from a hat.",
-            "The people call this demokratia - 'the people rule'.",
+            "The people call this demokratia, 'the people rule'.",
             "Our word 'democracy' comes from this.",
             "But most people in the city cannot vote.",
             "Women cannot vote, and neither can slaves or people from other cities.",
@@ -6395,7 +6395,7 @@
           "category": "civilizations",
           "text_sentences": [
             "Historians ask: how do we know the story of Land X?",
-            "Its old books - plays, science, and philosophy - survive only as copies of copies.",
+            "Its old books of plays, science, and philosophy survive only as copies of copies.",
             "For centuries, scribes in Constantinople copy them, and scholars in Baghdad translate many science and philosophy books into Arabic.",
             "Without this long work, most of the old books are gone today.",
             "The white marble ruins tell only half the truth, too.",
@@ -6796,7 +6796,7 @@
             "For about 1,500 years, there are no games.",
             "At the end of the 1800s, a man in France gets a big idea.",
             "His big idea: let the young people of the world meet in sport, not in war.",
-            "So the games wake up again — now for the whole world.",
+            "So the games wake up again, now for the whole world.",
             "A new city hosts them every four years.",
             "Now women compete too.",
             "Today, before the games begin, a flame travels from the old place in Greece to the new stadium."
@@ -7098,7 +7098,7 @@
             "Then one man wins, and the fighting stops.",
             "He becomes Emperor X, the first emperor of Rome.",
             "A long time of peace begins.",
-            "People later call it Pax Romana - the Roman Peace.",
+            "People later call it Pax Romana, the Roman Peace.",
             "Farmers can work, and traders can travel safely again.",
             "The emperor repairs old temples and builds many new buildings.",
             "An old writer tells us his words: \"I find Rome a city of brick. I leave it a city of marble.\"",
@@ -7197,7 +7197,7 @@
             "Mr X knows this well.",
             "He rules Rome alone, but he never takes the title of king.",
             "He wears no crown.",
-            "He calls himself \"princeps\" - the first citizen.",
+            "He calls himself \"princeps\", the first citizen.",
             "Elections and the old jobs continue, like before.",
             "But Mr X keeps control of the army and the money.",
             "He says that he gives the republic back to the senate and the people.",
@@ -7301,7 +7301,7 @@
             "One famous poem says that the gods choose Rome to rule the world.",
             "The emperor and his rich friends support these poets.",
             "Is this art, or is it advertising for one man?",
-            "Today we have a word for it: propaganda - pictures and words that build power."
+            "Today we have a word for it: propaganda, pictures and words that build power."
           ],
           "question": "Who is Emperor X?",
           "options": [
@@ -7398,7 +7398,7 @@
             "He writes that he saves the state and refuses to be a dictator.",
             "He does not name his old enemies, and he does not mention his mistakes.",
             "For historians, the text is a treasure: facts from the ruler himself.",
-            "But it is also a story with one storyteller - the main person himself.",
+            "But it is also a story with one storyteller: the main person himself.",
             "So historians compare it with coins, ruins, and other writers.",
             "Every source answers the question: who speaks, and who is silent?"
           ],
@@ -7594,11 +7594,11 @@
             "- Love your neighbor as yourself, he teaches.",
             "And he goes further: love your enemies too, he teaches.",
             "He also teaches forgiveness: do not pay back a bad thing with a bad thing.",
-            "Forgive - not once, but again and again, he says.",
+            "Forgive, not once, but again and again, he says.",
             "And he gives one simple rule for daily life:",
             "- Do to other people what you want them to do to you.",
             "People later call this the golden rule.",
-            "Easy to say, hard to do - then and now."
+            "Easy to say, hard to do, then and now."
           ],
           "question": "Who is Mr X?",
           "options": [
@@ -7692,7 +7692,7 @@
             "A man asks him: who is my neighbor?",
             "Mr X answers with a parable.",
             "A traveler is robbed and lies hurt by the road.",
-            "Two respected men see him - and walk past.",
+            "Two respected men see him, and they walk past.",
             "Then a foreigner stops, a man from a group that many people look down on.",
             "He cleans the traveler's wounds, puts him on his own donkey, and pays for his care.",
             "- Who is the neighbor in the story? Mr X asks.",
@@ -7895,7 +7895,7 @@
             "He teaches, he gathers followers, and he is put to death by Roman power.",
             "Believers say much more: for them, he is the Son of God.",
             "History cannot prove such faith, and it cannot show it is wrong.",
-            "Historians and believers read the same old pages - with different questions."
+            "Historians and believers read the same old pages, with different questions."
           ],
           "question": "Who is Mr X?",
           "options": [
@@ -9099,7 +9099,7 @@
             "They sail east over the sea, and then they row up the big rivers.",
             "Between two rivers, they sometimes carry their boats over land.",
             "The rivers lead them south to Constantinople, a very rich city.",
-            "In their own language, they call it Miklagard - 'the big city'.",
+            "In their own language, they call it Miklagard, 'the big city'.",
             "There they sell furs from their forests and amber from their sea.",
             "They travel home with fine cloth and bright silver coins.",
             "Archaeologists still find many old silver coins in the ground in the north.",
@@ -9235,7 +9235,7 @@
           ],
           "main_image": {
             "description": "A single wooden sailing ship with a square sail, small on a vast open ocean under a wide sky; seabirds fly above, and a sailor at the steering oar looks toward the horizon. The feeling of a long, brave journey. Production note: no horned helmets; no weapons; no land signs or readable text; hopeful, not frightening. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.",
-            "caption": "No compass, no map - only the sun, the stars, and the birds.",
+            "caption": "No compass, no map: only the sun, the stars, and the birds.",
             "shutterstock_query": "viking ship open ocean square sail seabirds",
             "ai_prompt": "A single Viking-age wooden ship with a square sail, small on a vast open ocean under a wide dramatic sky, seabirds flying above, a sailor at the steering oar looking toward the horizon, sense of a long brave journey, photorealistic, no horned helmets, no weapons, no text."
           },
@@ -9707,7 +9707,7 @@
             "Europeans taste sugar and lemons, and they want more.",
             "They buy paper, fine glass, and soft cotton cloth.",
             "Arab doctors keep old Greek and Persian medicine alive in their books, and add new knowledge of their own.",
-            "Some of this knowledge slowly reaches Europe - through trade, and through translated books.",
+            "Some of this knowledge slowly reaches Europe, through trade and through translated books.",
             "Much also comes the peaceful way, through Spain and Sicily.",
             "War closes doors; trade and books open them again."
           ],
@@ -9800,14 +9800,14 @@
           "category": "middle ages",
           "text_sentences": [
             "During the X wars, about 900 years ago, an army from Europe reaches the holy city at last.",
-            "The soldiers break through the walls, and many people in the city die - Muslims and Jews.",
+            "The soldiers break through the walls, and many people in the city die: Muslims and Jews.",
             "Writers from both sides describe terrible days.",
             "Almost 100 years later, a famous Muslim leader takes the city back.",
             "This time, many people can buy their freedom and leave alive.",
-            "The same wars - but not the same choices.",
+            "The same wars, but not the same choices.",
             "There are more dark chapters.",
             "On the way east, some armies attack Jewish families in European towns.",
-            "And one army attacks Constantinople, a rich Christian city, and robs it - Christians against Christians.",
+            "And one army attacks Constantinople, a rich Christian city, and robs it: Christians against Christians.",
             "Over 200 years, both sides show cruelty, and both sides show mercy.",
             "So the X wars are not a simple story of good against evil.",
             "In every war, ordinary people of every religion pay the highest price."
@@ -9846,7 +9846,7 @@
           },
           "side_image": {
             "description": "Medieval Constantinople seen peacefully from the water: long sea walls, a huge domed church, harbors with sailing ships, evening light. The picture explains the word 'Constantinople'. Production note: a peaceful city view only - no attack, no smoke, no fire; no minarets (they come later than this period); no flags with symbols; no cross-versus-crescent imagery; neutral and factual; no readable text anywhere in the image.",
-            "caption": "Constantinople - a rich city by the sea.",
+            "caption": "Constantinople, a rich city by the sea.",
             "shutterstock_query": "medieval Constantinople Byzantine city sea walls illustration",
             "ai_prompt": "Detailed illustration of medieval Constantinople around the year 1200 seen from the water: long stone sea walls, a huge domed church rising above rooftops, harbors with wooden sailing ships, warm evening light, peaceful mood, no attack, no smoke, no minarets, no flags, no text, no writing."
           },
@@ -9904,10 +9904,10 @@
             "The X wars take place about 900 years ago, around a holy city at the east end of the Mediterranean Sea.",
             "European writers of that time call the fighters from Europe holy pilgrims.",
             "Arab writers of the same time call them simply \"the Franks\".",
-            "One Arab writer, Usama ibn Munqidh, meets Franks as enemies - and some as friends.",
+            "One Arab writer, Usama ibn Munqidh, meets Franks as enemies, and some as friends.",
             "Another, Ibn al-Athir, later writes about the fall of the holy city with deep sadness.",
             "European books tell the same days as a great victory.",
-            "Same city, same days - two very different stories.",
+            "Same city, same days: two very different stories.",
             "Today, politicians sometimes use the name of these wars as a weapon in their speeches.",
             "The old word still makes people angry or proud.",
             "A historian reads both sides and checks every story against the sources."
@@ -9939,10 +9939,10 @@
             }
           ],
           "main_image": {
-            "description": "Still life: two old handwritten books lie open side by side on a dark wooden desk - one with Latin-style script, one with Arabic-style calligraphy. Both books are the same size and get the same warm light, so neither looks more important. Production note: all script in both books must be generic and unreadable - no real words in any language, no names; no religious symbols on covers or pages; no cross-versus-crescent imagery; neutral and factual balance between the two books.",
+            "description": "Still life: two old closed books lie side by side on a dark wooden desk in the same warm light. One is bound in pale leather with brass corner fittings in a medieval European style, the other in dark red tooled leather with a flap cover in a medieval Middle Eastern style. Both books are the same size, so neither looks more important. Production note: both books are closed, with no visible pages and no writing of any kind; no Arabic or Arabic-style script and no calligraphy, not even decorative; no religious symbols, no cross or crescent; neutral and factual balance between the two books; no text, no letters, no numbers.",
             "caption": "Two old books tell about the same wars.",
-            "shutterstock_query": "two medieval manuscripts open side by side wooden desk",
-            "ai_prompt": "Photorealistic still life: two old handwritten books open side by side on a dark wooden desk, one page with generic unreadable Latin-style script, one page with generic unreadable Arabic-style calligraphy, equal size, warm even light on both books, quiet scholarly mood, no real words, no names, no symbols, no readable text."
+            "shutterstock_query": "two old closed leather books side by side wooden desk",
+            "ai_prompt": "Photorealistic still life: two old closed books side by side on a dark wooden desk, one bound in pale leather with brass corner fittings in a medieval European style, one bound in dark red tooled leather with a flap cover in a medieval Middle Eastern style, equal size, warm even light on both, quiet scholarly mood, both books closed so no pages or writing are visible, no calligraphy, no Arabic-style script, no religious symbols, no readable text."
           },
           "side_image": {
             "description": "A historian at a reading table in an archive, studying old manuscripts and documents under a soft lamp, focused and calm. The picture explains the words 'historian' and 'source'. Production note: all writing on the documents must be unreadable; no logos, signs, or readable text anywhere; no religious symbols in the room; neutral and factual.",
@@ -10021,9 +10021,9 @@
           "question": "Which sickness is this?",
           "options": [
             "The Black Death",
-            "smallpox",
-            "cholera",
-            "leprosy"
+            "Smallpox",
+            "Cholera",
+            "Leprosy"
           ],
           "correct": "The Black Death",
           "words": [
@@ -10074,9 +10074,9 @@
             "question": "Vilken sjukdom är detta?",
             "options": [
               "Digerdöden",
-              "smittkoppor",
-              "kolera",
-              "spetälska"
+              "Smittkoppor",
+              "Kolera",
+              "Spetälska"
             ],
             "correct": "Digerdöden",
             "words": [
@@ -10120,10 +10120,10 @@
           ],
           "question": "Which sickness is this?",
           "options": [
-            "smallpox",
-            "malaria",
+            "Smallpox",
+            "Malaria",
             "The Black Death",
-            "cholera"
+            "Cholera"
           ],
           "correct": "The Black Death",
           "words": [
@@ -10173,10 +10173,10 @@
             ],
             "question": "Vilken sjukdom är detta?",
             "options": [
-              "smittkoppor",
-              "malaria",
+              "Smittkoppor",
+              "Malaria",
               "Digerdöden",
-              "kolera"
+              "Kolera"
             ],
             "correct": "Digerdöden",
             "words": [
@@ -10220,9 +10220,9 @@
           ],
           "question": "Which sickness is this?",
           "options": [
-            "cholera",
-            "leprosy",
-            "smallpox",
+            "Cholera",
+            "Leprosy",
+            "Smallpox",
             "The Black Death"
           ],
           "correct": "The Black Death",
@@ -10273,9 +10273,9 @@
             ],
             "question": "Vilken sjukdom är detta?",
             "options": [
-              "kolera",
-              "spetälska",
-              "smittkoppor",
+              "Kolera",
+              "Spetälska",
+              "Smittkoppor",
               "Digerdöden"
             ],
             "correct": "Digerdöden",
@@ -10320,10 +10320,10 @@
           ],
           "question": "Which sickness is this?",
           "options": [
-            "leprosy",
+            "Leprosy",
             "The Black Death",
-            "smallpox",
-            "cholera"
+            "Smallpox",
+            "Cholera"
           ],
           "correct": "The Black Death",
           "words": [
@@ -10373,10 +10373,10 @@
             ],
             "question": "Vilken sjukdom är detta?",
             "options": [
-              "spetälska",
+              "Spetälska",
               "Digerdöden",
-              "smittkoppor",
-              "kolera"
+              "Smittkoppor",
+              "Kolera"
             ],
             "correct": "Digerdöden",
             "words": [
@@ -10420,10 +10420,10 @@
           ],
           "question": "Which sickness is this?",
           "options": [
-            "smallpox",
-            "leprosy",
+            "Smallpox",
+            "Leprosy",
             "The Black Death",
-            "malaria"
+            "Malaria"
           ],
           "correct": "The Black Death",
           "words": [
@@ -10473,10 +10473,10 @@
             ],
             "question": "Vilken sjukdom är detta?",
             "options": [
-              "smittkoppor",
-              "spetälska",
+              "Smittkoppor",
+              "Spetälska",
               "Digerdöden",
-              "malaria"
+              "Malaria"
             ],
             "correct": "Digerdöden",
             "words": [
@@ -10908,7 +10908,7 @@
             "They see their burned cities, and in their books he is often a monster.",
             "Later, travelers from Europe visit the empire and send home reports.",
             "Some report wild \"barbarians\"; others report law, order, and safe roads.",
-            "So who is he — a monster, or a builder of a state?",
+            "So who is he: a monster, or a builder of a state?",
             "Every source stands somewhere; the historian's job is to see where."
           ],
           "question": "Who is Khan X?",

@@ -63,7 +63,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 > Prince X lives long ago, in what is now Nepal and India.  
 > The old stories tell us: as a young man he has every luxury.  
-> Fine food, music, soft beds - but they do not make him happy.  
+> Fine food, music, soft beds, but they do not make him happy.  
 > The stories go on: he tries the opposite and eats almost nothing.  
 > He almost dies, and he finds no answer.  
 > So he chooses a middle way.  
@@ -71,7 +71,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > His teaching starts with an honest look at life.  
 > Suffering is real, it has causes, and there is a way to end it.  
 > One big cause, he says, is that we always want more.  
-> Not too much, not too little - people still find this idea wise today.  
+> Not too much, not too little: people still find this idea wise today.  
 > **Who is Prince X?**
 
 ### Svarsalternativ

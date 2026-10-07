@@ -1,4 +1,4 @@
-# Mesopotamia - the first cities and writing — fem frågekort
+# Mesopotamia: the first cities and writing — fem frågekort
 
 Svenskt arbetsnamn: Mesopotamien – de första städerna och skriften. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
@@ -68,7 +68,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The two big rivers, the Euphrates and the Tigris, give endless mud, and mud gives clay.  
 > Later, people press signs into wet clay with a cut reed.  
 > Over time, the signs become little wedges.  
-> The first writing that we know of is not a poem - it is accounting.  
+> The first writing that we know of is not a poem: it is accounting.  
 > Much later, people write letters, laws, and stories.  
 > **Which land is this?**
 
@@ -96,7 +96,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Sidobild
 
 - **Motiv:** Still life of small geometric clay tokens (cones, balls, discs) next to a clay tablet with wedge signs and a cut reed - it shows the step from counting tokens to real writing, and explains the words 'token' and 'wedge'. Production note: this is a before-and-after comparison - the plain tokens are much older than the wedge-sign tablet; no museum labels or captions with place names in frame.
-- **Bildtext:** *First, people count with clay tokens - later they write with wedge signs.*
+- **Bildtext:** *First, people count with clay tokens, and later they write with wedge signs.*
 - **Shutterstock-sökning:** `ancient clay counting tokens tablet`
 - **AI-prompt (alternativ):** Still-life illustration of small geometric clay tokens (cones, spheres, discs) beside a clay tablet with wedge-shaped marks and a cut reed, plain background, soft light, no readable text
 

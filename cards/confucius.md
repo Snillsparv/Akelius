@@ -14,7 +14,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Master X lives in China about 2,500 years ago.  
 > He is a teacher.  
 > He takes any student who really wants to learn.  
-> Rich or poor - it does not matter.  
+> Rich or poor, it does not matter.  
 > A small gift of dried meat is enough, he says.  
 > That is his school fee.  
 > He teaches kindness, honesty, and respect for parents and old people.  
@@ -80,7 +80,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Ordförklaringar (marginal)
 
-- **golden rule** — *a famous rule: treat other people as you want them to treat you - Master X says it with a 'do not'*
+- **golden rule** — *a famous rule: treat other people as you want them to treat you; Master X says it with a 'do not'*
 - **culture** — *the way of life of a group of people*
 - **treat** — *how you act toward a person, good or bad*
 
@@ -156,7 +156,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > Master X lives in China, long ago.  
-> He teaches "li" - the polite forms of daily life.  
+> He teaches "li": the polite forms of daily life.  
 > How to greet, how to eat together, how to speak with old people.  
 > For him, these small forms are the glue of society.  
 > They show respect, and respect holds people together.  

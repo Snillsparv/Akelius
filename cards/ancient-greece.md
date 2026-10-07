@@ -65,7 +65,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > They talk, and then they vote by raising their hands.  
 > They decide about laws, money, war, and peace.  
 > Many city jobs go by lot, like names from a hat.  
-> The people call this demokratia - 'the people rule'.  
+> The people call this demokratia, 'the people rule'.  
 > Our word 'democracy' comes from this.  
 > But most people in the city cannot vote.  
 > Women cannot vote, and neither can slaves or people from other cities.  
@@ -209,7 +209,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > Historians ask: how do we know the story of Land X?  
-> Its old books - plays, science, and philosophy - survive only as copies of copies.  
+> Its old books of plays, science, and philosophy survive only as copies of copies.  
 > For centuries, scribes in Constantinople copy them, and scholars in Baghdad translate many science and philosophy books into Arabic.  
 > Without this long work, most of the old books are gone today.  
 > The white marble ruins tell only half the truth, too.  

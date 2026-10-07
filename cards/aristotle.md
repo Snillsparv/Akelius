@@ -68,7 +68,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He opens dead animals to see what is inside.  
 > He describes hundreds of kinds of animals.  
 > Many people call him the first biologist.  
-> His big idea: do not only think - look and check.  
+> His big idea: do not only think, but also look and check.  
 > This idea is a root of modern science.  
 > **Who is Mr X?**
 
@@ -211,10 +211,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Later, the great scholar Ibn Rushd explains his ideas.  
 > For many centuries, teachers say: if he writes it, it is true.  
 > But he also writes: heavy things fall faster than light things.  
-> Much later, scientists test this - and it is wrong.  
+> Much later, scientists test this, and it is wrong.  
 > Is this bad for him?  
-> No - he himself teaches: when facts and ideas disagree, believe the facts.  
-> Check every authority - even Mr X.  
+> No, he himself teaches: when facts and ideas disagree, believe the facts.  
+> Check every authority, even Mr X.  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -233,10 +233,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** Atmospheric photo of an old library table with two open handwritten manuscripts side by side: one page with Greek-style script and one with Arabic-style calligraphy, in warm candlelight. It shows how the books travel between languages. IMPORTANT production note: all writing must be decorative and unreadable; no real names, especially not the subject's name, may be readable anywhere.
+- **Motiv:** Atmospheric photo of an old library table in warm candlelight: a stack of closed leather-bound books from different times, one wrapped in plain cloth, one with a worn wooden cover, beside a rolled scroll tied with a cord. It shows how the books travel through many centuries. Production note: every book is closed and the scroll is rolled up, so no page and no writing is visible anywhere; no Arabic or Arabic-style script and no calligraphy of any kind, not even decorative; no symbols on the covers; no text, no letters, no numbers.
 - **Bildtext:** *His books travel through many languages and many centuries.*
-- **Shutterstock-sökning:** `ancient manuscripts old library books greek arabic calligraphy`
-- **AI-prompt (alternativ):** Atmospheric photo-style image of an old library table with two open handwritten manuscripts, one with Greek-style script and one with Arabic-style calligraphy, warm candlelight, decorative unreadable text only, no real names or readable words
+- **Shutterstock-sökning:** `stack of old closed leather books scroll candlelight library table`
+- **AI-prompt (alternativ):** Atmospheric photo-style image of an old library table in warm candlelight, a stack of closed leather-bound books of different ages, one wrapped in plain cloth, one with a worn wooden cover, beside a rolled scroll tied with a cord, all books closed and the scroll rolled so no page or writing is visible, no calligraphy, no Arabic-style script, no symbols, no readable text
 
 ### Sidobild
 

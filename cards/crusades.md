@@ -116,7 +116,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Europeans taste sugar and lemons, and they want more.  
 > They buy paper, fine glass, and soft cotton cloth.  
 > Arab doctors keep old Greek and Persian medicine alive in their books, and add new knowledge of their own.  
-> Some of this knowledge slowly reaches Europe - through trade, and through translated books.  
+> Some of this knowledge slowly reaches Europe, through trade and through translated books.  
 > Much also comes the peaceful way, through Spain and Sicily.  
 > War closes doors; trade and books open them again.  
 > **Which wars are these?**
@@ -158,14 +158,14 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Korttext
 
 > During the X wars, about 900 years ago, an army from Europe reaches the holy city at last.  
-> The soldiers break through the walls, and many people in the city die - Muslims and Jews.  
+> The soldiers break through the walls, and many people in the city die: Muslims and Jews.  
 > Writers from both sides describe terrible days.  
 > Almost 100 years later, a famous Muslim leader takes the city back.  
 > This time, many people can buy their freedom and leave alive.  
-> The same wars - but not the same choices.  
+> The same wars, but not the same choices.  
 > There are more dark chapters.  
 > On the way east, some armies attack Jewish families in European towns.  
-> And one army attacks Constantinople, a rich Christian city, and robs it - Christians against Christians.  
+> And one army attacks Constantinople, a rich Christian city, and robs it: Christians against Christians.  
 > Over 200 years, both sides show cruelty, and both sides show mercy.  
 > So the X wars are not a simple story of good against evil.  
 > In every war, ordinary people of every religion pay the highest price.  
@@ -195,7 +195,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Sidobild
 
 - **Motiv:** Medieval Constantinople seen peacefully from the water: long sea walls, a huge domed church, harbors with sailing ships, evening light. The picture explains the word 'Constantinople'. Production note: a peaceful city view only - no attack, no smoke, no fire; no minarets (they come later than this period); no flags with symbols; no cross-versus-crescent imagery; neutral and factual; no readable text anywhere in the image.
-- **Bildtext:** *Constantinople - a rich city by the sea.*
+- **Bildtext:** *Constantinople, a rich city by the sea.*
 - **Shutterstock-sökning:** `medieval Constantinople Byzantine city sea walls illustration`
 - **AI-prompt (alternativ):** Detailed illustration of medieval Constantinople around the year 1200 seen from the water: long stone sea walls, a huge domed church rising above rooftops, harbors with wooden sailing ships, warm evening light, peaceful mood, no attack, no smoke, no minarets, no flags, no text, no writing.
 
@@ -210,10 +210,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > The X wars take place about 900 years ago, around a holy city at the east end of the Mediterranean Sea.  
 > European writers of that time call the fighters from Europe holy pilgrims.  
 > Arab writers of the same time call them simply "the Franks".  
-> One Arab writer, Usama ibn Munqidh, meets Franks as enemies - and some as friends.  
+> One Arab writer, Usama ibn Munqidh, meets Franks as enemies, and some as friends.  
 > Another, Ibn al-Athir, later writes about the fall of the holy city with deep sadness.  
 > European books tell the same days as a great victory.  
-> Same city, same days - two very different stories.  
+> Same city, same days: two very different stories.  
 > Today, politicians sometimes use the name of these wars as a weapon in their speeches.  
 > The old word still makes people angry or proud.  
 > A historian reads both sides and checks every story against the sources.  
@@ -235,10 +235,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Huvudbild
 
-- **Motiv:** Still life: two old handwritten books lie open side by side on a dark wooden desk - one with Latin-style script, one with Arabic-style calligraphy. Both books are the same size and get the same warm light, so neither looks more important. Production note: all script in both books must be generic and unreadable - no real words in any language, no names; no religious symbols on covers or pages; no cross-versus-crescent imagery; neutral and factual balance between the two books.
+- **Motiv:** Still life: two old closed books lie side by side on a dark wooden desk in the same warm light. One is bound in pale leather with brass corner fittings in a medieval European style, the other in dark red tooled leather with a flap cover in a medieval Middle Eastern style. Both books are the same size, so neither looks more important. Production note: both books are closed, with no visible pages and no writing of any kind; no Arabic or Arabic-style script and no calligraphy, not even decorative; no religious symbols, no cross or crescent; neutral and factual balance between the two books; no text, no letters, no numbers.
 - **Bildtext:** *Two old books tell about the same wars.*
-- **Shutterstock-sökning:** `two medieval manuscripts open side by side wooden desk`
-- **AI-prompt (alternativ):** Photorealistic still life: two old handwritten books open side by side on a dark wooden desk, one page with generic unreadable Latin-style script, one page with generic unreadable Arabic-style calligraphy, equal size, warm even light on both books, quiet scholarly mood, no real words, no names, no symbols, no readable text.
+- **Shutterstock-sökning:** `two old closed leather books side by side wooden desk`
+- **AI-prompt (alternativ):** Photorealistic still life: two old closed books side by side on a dark wooden desk, one bound in pale leather with brass corner fittings in a medieval European style, one bound in dark red tooled leather with a flap cover in a medieval Middle Eastern style, equal size, warm even light on both, quiet scholarly mood, both books closed so no pages or writing are visible, no calligraphy, no Arabic-style script, no religious symbols, no readable text.
 
 ### Sidobild
 

@@ -64,7 +64,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > They sail east over the sea, and then they row up the big rivers.  
 > Between two rivers, they sometimes carry their boats over land.  
 > The rivers lead them south to Constantinople, a very rich city.  
-> In their own language, they call it Miklagard - 'the big city'.  
+> In their own language, they call it Miklagard, 'the big city'.  
 > There they sell furs from their forests and amber from their sea.  
 > They travel home with fine cloth and bright silver coins.  
 > Archaeologists still find many old silver coins in the ground in the north.  
@@ -139,7 +139,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Huvudbild
 
 - **Motiv:** A single wooden sailing ship with a square sail, small on a vast open ocean under a wide sky; seabirds fly above, and a sailor at the steering oar looks toward the horizon. The feeling of a long, brave journey. Production note: no horned helmets; no weapons; no land signs or readable text; hopeful, not frightening. The search query is internal use only, and search keywords must not appear in any student-visible text or alt-text.
-- **Bildtext:** *No compass, no map - only the sun, the stars, and the birds.*
+- **Bildtext:** *No compass, no map: only the sun, the stars, and the birds.*
 - **Shutterstock-sökning:** `viking ship open ocean square sail seabirds`
 - **AI-prompt (alternativ):** A single Viking-age wooden ship with a square sail, small on a vast open ocean under a wide dramatic sky, seabirds flying above, a sailor at the steering oar looking toward the horizon, sense of a long brave journey, photorealistic, no horned helmets, no weapons, no text.
 

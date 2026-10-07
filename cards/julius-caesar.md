@@ -44,10 +44,10 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Sidobild
 
-- **Motiv:** A simple wall calendar page for the month of July with a summer sun. The word 'July' may be visible, because it is a clue in the card text, but no other names. Production note: the subject's name must not appear anywhere. Translator note: keep 'July', 'Kaiser', and 'tsar' in Latin script or a close transliteration, and check that at least one sound link to the correct option survives in each target language.
+- **Motiv:** A paper wall calendar hangs on a sunlit wall beside an open window with a green summer garden outside; its page shows a plain grid of empty day squares under a small painted summer sun. Production note: every square is empty, with no numbers, no month name and no letters anywhere; the subject's name must not appear anywhere. Translator note: keep 'July', 'Kaiser', and 'tsar' in Latin script or a close transliteration, and check that at least one sound link to the correct option survives in each target language.
 - **Bildtext:** *The month of July has his name.*
-- **Shutterstock-sökning:** `july calendar page summer illustration`
-- **AI-prompt (alternativ):** A simple, colorful wall calendar page showing the month of July, a bright summer sun at the top, a clear grid of days, flat children's illustration style, only the word July and numbers, no other text.
+- **Shutterstock-sökning:** `blank wall calendar summer window sunlight`
+- **AI-prompt (alternativ):** Warm painterly illustration: a paper wall calendar hangs on a sunlit wall beside an open window with a green summer garden outside, the calendar page shows a plain grid of empty day squares under a small painted summer sun, every square empty, no numbers, no month name, no letters, no text anywhere.
 
 ---
 

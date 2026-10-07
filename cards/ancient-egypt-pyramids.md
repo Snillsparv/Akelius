@@ -1,4 +1,4 @@
-# Ancient Egypt - the pyramids — fem frågekort
+# Ancient Egypt: the pyramids — fem frågekort
 
 Svenskt arbetsnamn: Forntida Egypten – pyramiderna. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.

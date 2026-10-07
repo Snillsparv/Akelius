@@ -164,7 +164,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > For about 1,500 years, there are no games.  
 > At the end of the 1800s, a man in France gets a big idea.  
 > His big idea: let the young people of the world meet in sport, not in war.  
-> So the games wake up again — now for the whole world.  
+> So the games wake up again, now for the whole world.  
 > A new city hosts them every four years.  
 > Now women compete too.  
 > Today, before the games begin, a flame travels from the old place in Greece to the new stadium.  

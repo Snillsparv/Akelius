@@ -19,7 +19,7 @@ ordlista eller bild.
 
 ## Status (uppdatera vid varje leverans)
 
-- 80 ämnen, 400 kort, 544 av 800 bilder, 100 procent tvåspråkigt (leverans 1-13).
+- 80 ämnen, 400 kort, 541 av 800 bilder, 100 procent tvåspråkigt (leverans 1-13).
   Masterlistan med 50 ämnen är färdig. Ur den utökade listan är leverans 9
   (vetenskap), 10 (Arkimedes till Upplysningen), 11 (Afrika), 12 (Asien) och
   13 (Latinamerika och Mellanöstern: Maya, azteker, inka, Haitis revolution,

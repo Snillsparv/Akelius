@@ -90,8 +90,10 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
 (800 st för leverans 1–13: 400 kort × huvudbild + sidobild).
 
-**Status: 544 av 800 bilder klara** — samtliga kort i leverans 1–8 har
-huvudbild och sidobild; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
+**Status: 541 av 800 bilder klara** — korten i leverans 1–8 har
+huvudbild och sidobild utom tre bilder som dragits tillbaka vid exportgranskningen
+2026-10-07 (Aristoteles kort 5, Korstågen kort 5, Julius Caesar kort 1) och
+görs om med nya briefer; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
 hela Marie Curie) och leverans 10–13 väntar helt, i väntan på påfyllda
 krediter hos bildtjänsten. Varje batch
 har kvalitetsgranskats bild för bild mot sina briefer, och underkända bilder
@@ -259,7 +261,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > The two big rivers, the Euphrates and the Tigris, give endless mud, and mud gives clay.  
 > Later, people press signs into wet clay with a cut reed.  
 > Over time, the signs become little wedges.  
-> The first writing that we know of is not a poem - it is accounting.  
+> The first writing that we know of is not a poem: it is accounting.  
 > Much later, people write letters, laws, and stories.  
 > **Which land is this?**
 
@@ -833,7 +835,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > He opens dead animals to see what is inside.  
 > He describes hundreds of kinds of animals.  
 > Many people call him the first biologist.  
-> His big idea: do not only think - look and check.  
+> His big idea: do not only think, but also look and check.  
 > This idea is a root of modern science.  
 > **Who is Mr X?**
 
@@ -897,10 +899,10 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > Later, the great scholar Ibn Rushd explains his ideas.  
 > For many centuries, teachers say: if he writes it, it is true.  
 > But he also writes: heavy things fall faster than light things.  
-> Much later, scientists test this - and it is wrong.  
+> Much later, scientists test this, and it is wrong.  
 > Is this bad for him?  
-> No - he himself teaches: when facts and ideas disagree, believe the facts.  
-> Check every authority - even Mr X.  
+> No, he himself teaches: when facts and ideas disagree, believe the facts.  
+> Check every authority, even Mr X.  
 > **Who is Mr X?**
 
 **Svar:** ✅ Aristotle · ⬜ Plato · ⬜ Galileo Galilei · ⬜ Copernicus
@@ -989,7 +991,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > He fights the Persian kings, but he is not born one of them.  
 > He dies young, and his generals break his empire into pieces.  
 > So, is he great?  
-> Great for which people - the winners, the dead, or the conquered?  
+> Great for which people: the winners, the dead, or the conquered?  
 > The names we give people in history are a choice, not a fact.  
 > **Who is King X?**
 
@@ -1057,7 +1059,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > A senate of old, wise men gives advice.  
 > Free men meet and vote on the laws.  
 > Women cannot vote.  
-> The people call their state res publica - 'the public thing'.  
+> The people call their state res publica, 'the public thing'.  
 > Our word 'republic' comes from this.  
 > The city lies in Italy.  
 > But many countries far from Italy still use these ideas today.  
@@ -1257,7 +1259,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > Master X lives in China about 2,500 years ago.  
 > He is a teacher.  
 > He takes any student who really wants to learn.  
-> Rich or poor - it does not matter.  
+> Rich or poor, it does not matter.  
 > A small gift of dried meat is enough, he says.  
 > That is his school fee.  
 > He teaches kindness, honesty, and respect for parents and old people.  
@@ -1289,7 +1291,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 
 **Svar:** ⬜ Buddha · ✅ Confucius · ⬜ Socrates · ⬜ Aristotle
 
-**Ord:** *golden rule* — a famous rule: treat other people as you want them to treat you - Master X says it with a 'do not' · *culture* — the way of life of a group of people · *treat* — how you act toward a person, good or bad
+**Ord:** *golden rule* — a famous rule: treat other people as you want them to treat you; Master X says it with a 'do not' · *culture* — the way of life of a group of people · *treat* — how you act toward a person, good or bad
 
 </details>
 
@@ -1319,7 +1321,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 <summary><b>Kort 4 · Årskurs 12</b> — The Glue of Society</summary>
 
 > Master X lives in China, long ago.  
-> He teaches "li" - the polite forms of daily life.  
+> He teaches "li": the polite forms of daily life.  
 > How to greet, how to eat together, how to speak with old people.  
 > For him, these small forms are the glue of society.  
 > They show respect, and respect holds people together.  
@@ -1389,7 +1391,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 
 > Prince X lives long ago, in what is now Nepal and India.  
 > The old stories tell us: as a young man he has every luxury.  
-> Fine food, music, soft beds - but they do not make him happy.  
+> Fine food, music, soft beds, but they do not make him happy.  
 > The stories go on: he tries the opposite and eats almost nothing.  
 > He almost dies, and he finds no answer.  
 > So he chooses a middle way.  
@@ -1397,7 +1399,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > His teaching starts with an honest look at life.  
 > Suffering is real, it has causes, and there is a way to end it.  
 > One big cause, he says, is that we always want more.  
-> Not too much, not too little - people still find this idea wise today.  
+> Not too much, not too little: people still find this idea wise today.  
 > **Who is Prince X?**
 
 **Svar:** ✅ Siddhartha Gautama · ⬜ Confucius · ⬜ Socrates · ⬜ Gandhi
@@ -1505,7 +1507,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > They talk, and then they vote by raising their hands.  
 > They decide about laws, money, war, and peace.  
 > Many city jobs go by lot, like names from a hat.  
-> The people call this demokratia - 'the people rule'.  
+> The people call this demokratia, 'the people rule'.  
 > Our word 'democracy' comes from this.  
 > But most people in the city cannot vote.  
 > Women cannot vote, and neither can slaves or people from other cities.  
@@ -1568,7 +1570,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 <summary><b>Kort 5 · Universitet</b> — The white marble dream</summary>
 
 > Historians ask: how do we know the story of Land X?  
-> Its old books - plays, science, and philosophy - survive only as copies of copies.  
+> Its old books of plays, science, and philosophy survive only as copies of copies.  
 > For centuries, scribes in Constantinople copy them, and scholars in Baghdad translate many science and philosophy books into Arabic.  
 > Without this long work, most of the old books are gone today.  
 > The white marble ruins tell only half the truth, too.  
@@ -1662,7 +1664,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > For about 1,500 years, there are no games.  
 > At the end of the 1800s, a man in France gets a big idea.  
 > His big idea: let the young people of the world meet in sport, not in war.  
-> So the games wake up again — now for the whole world.  
+> So the games wake up again, now for the whole world.  
 > A new city hosts them every four years.  
 > Now women compete too.  
 > Today, before the games begin, a flame travels from the old place in Greece to the new stadium.  
@@ -1726,7 +1728,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > Then one man wins, and the fighting stops.  
 > He becomes Emperor X, the first emperor of Rome.  
 > A long time of peace begins.  
-> People later call it Pax Romana - the Roman Peace.  
+> People later call it Pax Romana, the Roman Peace.  
 > Farmers can work, and traders can travel safely again.  
 > The emperor repairs old temples and builds many new buildings.  
 > An old writer tells us his words: "I find Rome a city of brick. I leave it a city of marble."  
@@ -1748,7 +1750,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > Mr X knows this well.  
 > He rules Rome alone, but he never takes the title of king.  
 > He wears no crown.  
-> He calls himself "princeps" - the first citizen.  
+> He calls himself "princeps", the first citizen.  
 > Elections and the old jobs continue, like before.  
 > But Mr X keeps control of the army and the money.  
 > He says that he gives the republic back to the senate and the people.  
@@ -1774,7 +1776,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > One famous poem says that the gods choose Rome to rule the world.  
 > The emperor and his rich friends support these poets.  
 > Is this art, or is it advertising for one man?  
-> Today we have a word for it: propaganda - pictures and words that build power.  
+> Today we have a word for it: propaganda, pictures and words that build power.  
 > **Who is Emperor X?**
 
 **Svar:** ⬜ Julius Caesar · ⬜ Alexander the Great · ✅ Augustus · ⬜ Nero
@@ -1794,7 +1796,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > He writes that he saves the state and refuses to be a dictator.  
 > He does not name his old enemies, and he does not mention his mistakes.  
 > For historians, the text is a treasure: facts from the ruler himself.  
-> But it is also a story with one storyteller - the main person himself.  
+> But it is also a story with one storyteller: the main person himself.  
 > So historians compare it with coins, ruins, and other writers.  
 > Every source answers the question: who speaks, and who is silent?  
 > **Who is Emperor X?**
@@ -1837,11 +1839,11 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > - Love your neighbor as yourself, he teaches.  
 > And he goes further: love your enemies too, he teaches.  
 > He also teaches forgiveness: do not pay back a bad thing with a bad thing.  
-> Forgive - not once, but again and again, he says.  
+> Forgive, not once, but again and again, he says.  
 > And he gives one simple rule for daily life:  
 > - Do to other people what you want them to do to you.  
 > People later call this the golden rule.  
-> Easy to say, hard to do - then and now.  
+> Easy to say, hard to do, then and now.  
 > **Who is Mr X?**
 
 **Svar:** ⬜ Moses · ⬜ Buddha · ✅ Jesus · ⬜ Muhammad
@@ -1858,7 +1860,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > A man asks him: who is my neighbor?  
 > Mr X answers with a parable.  
 > A traveler is robbed and lies hurt by the road.  
-> Two respected men see him - and walk past.  
+> Two respected men see him, and they walk past.  
 > Then a foreigner stops, a man from a group that many people look down on.  
 > He cleans the traveler's wounds, puts him on his own donkey, and pays for his care.  
 > - Who is the neighbor in the story? Mr X asks.  
@@ -1906,7 +1908,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > He teaches, he gathers followers, and he is put to death by Roman power.  
 > Believers say much more: for them, he is the Son of God.  
 > History cannot prove such faith, and it cannot show it is wrong.  
-> Historians and believers read the same old pages - with different questions.  
+> Historians and believers read the same old pages, with different questions.  
 > **Who is Mr X?**
 
 **Svar:** ⬜ Socrates · ⬜ Muhammad · ⬜ Buddha · ✅ Jesus
@@ -2169,7 +2171,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > They sail east over the sea, and then they row up the big rivers.  
 > Between two rivers, they sometimes carry their boats over land.  
 > The rivers lead them south to Constantinople, a very rich city.  
-> In their own language, they call it Miklagard - 'the big city'.  
+> In their own language, they call it Miklagard, 'the big city'.  
 > There they sell furs from their forests and amber from their sea.  
 > They travel home with fine cloth and bright silver coins.  
 > Archaeologists still find many old silver coins in the ground in the north.  
@@ -2305,7 +2307,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > Europeans taste sugar and lemons, and they want more.  
 > They buy paper, fine glass, and soft cotton cloth.  
 > Arab doctors keep old Greek and Persian medicine alive in their books, and add new knowledge of their own.  
-> Some of this knowledge slowly reaches Europe - through trade, and through translated books.  
+> Some of this knowledge slowly reaches Europe, through trade and through translated books.  
 > Much also comes the peaceful way, through Spain and Sicily.  
 > War closes doors; trade and books open them again.  
 > **Which wars are these?**
@@ -2320,14 +2322,14 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 <summary><b>Kort 4 · Årskurs 12</b> — No simple story</summary>
 
 > During the X wars, about 900 years ago, an army from Europe reaches the holy city at last.  
-> The soldiers break through the walls, and many people in the city die - Muslims and Jews.  
+> The soldiers break through the walls, and many people in the city die: Muslims and Jews.  
 > Writers from both sides describe terrible days.  
 > Almost 100 years later, a famous Muslim leader takes the city back.  
 > This time, many people can buy their freedom and leave alive.  
-> The same wars - but not the same choices.  
+> The same wars, but not the same choices.  
 > There are more dark chapters.  
 > On the way east, some armies attack Jewish families in European towns.  
-> And one army attacks Constantinople, a rich Christian city, and robs it - Christians against Christians.  
+> And one army attacks Constantinople, a rich Christian city, and robs it: Christians against Christians.  
 > Over 200 years, both sides show cruelty, and both sides show mercy.  
 > So the X wars are not a simple story of good against evil.  
 > In every war, ordinary people of every religion pay the highest price.  
@@ -2345,10 +2347,10 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > The X wars take place about 900 years ago, around a holy city at the east end of the Mediterranean Sea.  
 > European writers of that time call the fighters from Europe holy pilgrims.  
 > Arab writers of the same time call them simply "the Franks".  
-> One Arab writer, Usama ibn Munqidh, meets Franks as enemies - and some as friends.  
+> One Arab writer, Usama ibn Munqidh, meets Franks as enemies, and some as friends.  
 > Another, Ibn al-Athir, later writes about the fall of the holy city with deep sadness.  
 > European books tell the same days as a great victory.  
-> Same city, same days - two very different stories.  
+> Same city, same days: two very different stories.  
 > Today, politicians sometimes use the name of these wars as a weapon in their speeches.  
 > The old word still makes people angry or proud.  
 > A historian reads both sides and checks every story against the sources.  
@@ -2378,7 +2380,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > They are afraid, and they cannot stop it.  
 > **Which sickness is this?**
 
-**Svar:** ✅ The Black Death · ⬜ smallpox · ⬜ cholera · ⬜ leprosy
+**Svar:** ✅ The Black Death · ⬜ Smallpox · ⬜ Cholera · ⬜ Leprosy
 
 **Ord:** *port* — a place by the sea where ships stop · *trade road* — a road where people carry things to buy and sell · *spread* — to go from one place or person to many · *cause* — the thing that makes something happen
 
@@ -2400,7 +2402,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > Guessing and knowing are not the same thing.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ smallpox · ⬜ malaria · ✅ The Black Death · ⬜ cholera
+**Svar:** ⬜ Smallpox · ⬜ Malaria · ✅ The Black Death · ⬜ Cholera
 
 **Ord:** *punishment* — trouble you get when you do something wrong · *cure* — something that makes a sick person well again · *germ* — a tiny living thing, too small to see, that can make you sick · *flea* — a very small jumping insect that bites animals and people
 
@@ -2422,7 +2424,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > When people are few, their work is worth more.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ cholera · ⬜ leprosy · ⬜ smallpox · ✅ The Black Death
+**Svar:** ⬜ Cholera · ⬜ Leprosy · ⬜ Smallpox · ✅ The Black Death
 
 **Ord:** *village* — a very small town · *lord* — a rich man who owns land, and the people work for him · *bound* — tied to a place, and not free to leave · *pay* — the money you get for your work
 
@@ -2444,7 +2446,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > In hard times, fear can lead to cruelty, or to wise care.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ leprosy · ✅ The Black Death · ⬜ smallpox · ⬜ cholera
+**Svar:** ⬜ Leprosy · ✅ The Black Death · ⬜ Smallpox · ⬜ Cholera
 
 **Ord:** *blame* — to say that someone did a bad thing · *innocent* — a person who did nothing wrong · *cruel* — very unkind; wanting to hurt someone · *quarantine* — to keep people or ships apart for some days, so a sickness cannot spread
 
@@ -2466,7 +2468,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > Many kinds of sources, put together, show us the truth.  
 > **Which sickness is this?**
 
-**Svar:** ⬜ smallpox · ⬜ leprosy · ✅ The Black Death · ⬜ malaria
+**Svar:** ⬜ Smallpox · ⬜ Leprosy · ✅ The Black Death · ⬜ Malaria
 
 **Ord:** *chronicle* — an old written record of things that happen, year by year · *tax list* — an old list of people who must pay money to the ruler · *DNA* — a tiny code inside living things that tells what they are · *source* — something from the past that tells us what happened, like a book or a bone
 
@@ -2575,7 +2577,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 > They see their burned cities, and in their books he is often a monster.  
 > Later, travelers from Europe visit the empire and send home reports.  
 > Some report wild "barbarians"; others report law, order, and safe roads.  
-> So who is he — a monster, or a builder of a state?  
+> So who is he: a monster, or a builder of a state?  
 > Every source stands somewhere; the historian's job is to see where.  
 > **Who is Khan X?**
 

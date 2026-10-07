@@ -65,11 +65,11 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 > - Love your neighbor as yourself, he teaches.  
 > And he goes further: love your enemies too, he teaches.  
 > He also teaches forgiveness: do not pay back a bad thing with a bad thing.  
-> Forgive - not once, but again and again, he says.  
+> Forgive, not once, but again and again, he says.  
 > And he gives one simple rule for daily life:  
 > - Do to other people what you want them to do to you.  
 > People later call this the golden rule.  
-> Easy to say, hard to do - then and now.  
+> Easy to say, hard to do, then and now.  
 > **Who is Mr X?**
 
 ### Svarsalternativ
@@ -113,7 +113,7 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 > A man asks him: who is my neighbor?  
 > Mr X answers with a parable.  
 > A traveler is robbed and lies hurt by the road.  
-> Two respected men see him - and walk past.  
+> Two respected men see him, and they walk past.  
 > Then a foreigner stops, a man from a group that many people look down on.  
 > He cleans the traveler's wounds, puts him on his own donkey, and pays for his care.  
 > - Who is the neighbor in the story? Mr X asks.  
@@ -215,7 +215,7 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 > He teaches, he gathers followers, and he is put to death by Roman power.  
 > Believers say much more: for them, he is the Son of God.  
 > History cannot prove such faith, and it cannot show it is wrong.  
-> Historians and believers read the same old pages - with different questions.  
+> Historians and believers read the same old pages, with different questions.  
 > **Who is Mr X?**
 
 ### Svarsalternativ

@@ -63,7 +63,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Then one man wins, and the fighting stops.  
 > He becomes Emperor X, the first emperor of Rome.  
 > A long time of peace begins.  
-> People later call it Pax Romana - the Roman Peace.  
+> People later call it Pax Romana, the Roman Peace.  
 > Farmers can work, and traders can travel safely again.  
 > The emperor repairs old temples and builds many new buildings.  
 > An old writer tells us his words: "I find Rome a city of brick. I leave it a city of marble."  
@@ -112,7 +112,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > Mr X knows this well.  
 > He rules Rome alone, but he never takes the title of king.  
 > He wears no crown.  
-> He calls himself "princeps" - the first citizen.  
+> He calls himself "princeps", the first citizen.  
 > Elections and the old jobs continue, like before.  
 > But Mr X keeps control of the army and the money.  
 > He says that he gives the republic back to the senate and the people.  
@@ -165,7 +165,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > One famous poem says that the gods choose Rome to rule the world.  
 > The emperor and his rich friends support these poets.  
 > Is this art, or is it advertising for one man?  
-> Today we have a word for it: propaganda - pictures and words that build power.  
+> Today we have a word for it: propaganda, pictures and words that build power.  
 > **Who is Emperor X?**
 
 ### Svarsalternativ
@@ -212,7 +212,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 > He writes that he saves the state and refuses to be a dictator.  
 > He does not name his old enemies, and he does not mention his mistakes.  
 > For historians, the text is a treasure: facts from the ruler himself.  
-> But it is also a story with one storyteller - the main person himself.  
+> But it is also a story with one storyteller: the main person himself.  
 > So historians compare it with coins, ruins, and other writers.  
 > Every source answers the question: who speaks, and who is silent?  
 > **Who is Emperor X?**
