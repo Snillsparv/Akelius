@@ -34,6 +34,13 @@ def tier_label(t):
     return f'Tier {t}'
 
 
+def phase(r):
+    found = set(re.findall(r'Phase (\d)', r['notes']))
+    if len(found) == 1:
+        return f'Phase {found.pop()}'
+    return 'Existing only' if not r['new_cards'] else ''
+
+
 def check(m, cards):
     problems = []
     slugs = [s['slug'] for s in cards['sets']]
@@ -63,7 +70,18 @@ def check(m, cards):
     for lv in LEVELS:
         if not 4 <= per_level[lv] <= 8:
             problems.append(f'nivå {lv}: {per_level[lv]} mål, väntat 4-8')
-    for field in ('approach_summary', 'totals_note'):
+    for r in m['topics']:
+        ex, new = r.get('existing_by_level', {}), r.get('new_by_level', {})
+        if sum(ex.values()) != r['existing_cards'] or sum(new.values()) != r['new_cards']:
+            problems.append(f"{r['topic_id']}: korten per nivå stämmer inte med radens summor")
+        levels = {x.strip() for x in r['levels'].split(',') if x.strip()}
+        if levels != set(ex) | set(new):
+            problems.append(f"{r['topic_id']}: nivåerna {sorted(levels)} stämmer inte med korten per nivå")
+        if any(TIER_OF_LEVEL[lv] != r['tier'] for lv in levels):
+            problems.append(f"{r['topic_id']}: nivå utanför nivågruppen {r['tier']}")
+        if r['new_cards'] and not phase(r):
+            problems.append(f"{r['topic_id']}: nya kort men ingen fas i noterna")
+    for field in ('approach_summary', 'card_numbers_note'):
         if '—' in m.get(field, ''):
             problems.append(f'tankstreck i {field}')
     return problems
@@ -119,18 +137,23 @@ def build(m, cards, path, when):
         ('Levels are school years 1 to 12 plus U for university. A card is labelled by subject and level, '
          'for example H 3. Tiers group the levels: 1-3, 4-6, 7-9 and 10-U.', None),
         ('400 cards already exist: 80 topics with five cards each, at levels 6, 9, 12, 12 and U. '
-         f'The map places all of them and proposes {n_new} new cards.', None),
+         f'The map places all of them and proposes {n_new:,} new cards.', None),
         ('', None),
         ('Sheets', 'h'),
-        ('Summary: cards per tier, region and strand. The numbers are formulas and update when the Topics sheet changes.', None),
+        ('Summary: cards per tier, level, phase, region, strand and era. The numbers are formulas and update when the other sheets change.', None),
+        ('Tiers: what each tier covers and what a card looks like there.', None),
         ('Topics: the curriculum map. One row per topic and tier, with levels, content, card numbers, outcomes and standard mapping.', None),
+        ('Cards by level: the cards of each topic row split over the levels.', None),
         ('Level outcomes: what students can do by the end of each level, with the standard each outcome maps to.', None),
         ('Standards: the documents the map is built on, with links, and the ones it does not use.', None),
         ('Existing cards: the 400 cards that are written, with their level and the map row they belong to.', None),
         ('', None),
         ('How to edit', 'h'),
-        ('Change card numbers in the New cards column of the Topics sheet; totals update by themselves. '
-         'Add a topic by adding a row to the Topics table. Outcome ids link the two sheets, for example H8.3.', None),
+        ('Change card numbers in the New cards column of the Topics sheet, yellow, and the split over levels in the Cards by level sheet, '
+         'yellow; totals update by themselves, and the Check column shows when a row does not add up. '
+         'Add a topic by adding a row to both tables. Outcome ids link Topics and Level outcomes, for example H8.3. '
+         'Status: existing means the cards are written; existing + new adds new cards to a written topic; '
+         'planned means the topic is already on our production list; new means a topic proposed for this map.', None),
         ('', None),
         ('Choice of standard', 'h'),
         (f'Primary standard: {sc["primary"]}', 'b'),
@@ -142,7 +165,7 @@ def build(m, cards, path, when):
         (m['approach_summary'], None),
         ('', None),
         ('Card numbers', 'h'),
-        (m['totals_note'], None),
+        (m['card_numbers_note'], None),
     ]
     for r, (txt, kind) in enumerate(lines, 1):
         c = rm.cell(row=r, column=1, value=txt)
@@ -154,19 +177,43 @@ def build(m, cards, path, when):
 
     # --- Topics ----------------------------------------------------------------------------
     topics = sorted(m['topics'], key=lambda r: (TIERS.index(r['tier']), r['topic_id']))
-    trow = ['Topic ID', 'Tier', 'Levels', 'Topic', 'Key content', 'Era', 'Region', 'Strand', 'Status',
+    trow = ['Topic ID', 'Tier', 'Levels', 'Topic', 'Key content', 'Era', 'Region', 'Strand', 'Status', 'Phase',
             'Existing cards', 'New cards', 'Total cards', 'Outcomes', 'Standard mapping',
             'Existing card set', 'Notes']
     rows = []
     for i, r in enumerate(topics, 2):
         rows.append([r['topic_id'], tier_label(r['tier']), r['levels'], r['topic'], r['key_content'], r['era'],
-                     r['region'], r['strand'], r['status'], r['existing_cards'], r['new_cards'],
-                     f'=J{i}+K{i}', r['outcome_ids'], r['standard_refs'], r['existing_slug'], r['notes']])
-    ws_t = sheet('Topics', trow, [11, 10, 9, 30, 50, 22, 16, 22, 13, 9, 9, 9, 18, 45, 26, 40], rows)
+                     r['region'], r['strand'], r['status'], phase(r), r['existing_cards'], r['new_cards'],
+                     f'=K{i}+L{i}', r['outcome_ids'], r['standard_refs'], r['existing_slug'], r['notes']])
+    ws_t = sheet('Topics', trow, [11, 10, 9, 30, 50, 22, 16, 22, 13, 9, 9, 9, 9, 18, 45, 26, 40], rows)
     last_t = ws_t.max_row
     yellow = PatternFill('solid', start_color='FFF2CC')
     for i in range(2, last_t + 1):
-        ws_t[f'K{i}'].fill = yellow
+        ws_t[f'L{i}'].fill = yellow
+
+    # --- Cards by level --------------------------------------------------------------------
+    lcols = ['Topic ID', 'Tier', 'Topic'] + [f'L{lv}' if lv != 'U' else 'U' for lv in LEVELS] + ['Total', 'Check']
+    lrows = []
+    for i, r in enumerate(topics, 2):
+        cells = []
+        for lv in LEVELS:
+            n = r['existing_by_level'].get(lv, 0) + r['new_by_level'].get(lv, 0)
+            cells.append(n if n else None)
+        lrows.append([r['topic_id'], tier_label(r['tier']), r['topic'], *cells, f'=SUM(D{i}:P{i})',
+                      f'=IF(Q{i}=Topics!M{i},"ok","differs from Topics")'])
+    ws_l = sheet('Cards by level', lcols, [11, 10, 34] + [6] * 13 + [8, 18], lrows)
+    for i in range(2, ws_l.max_row + 1):
+        for col in 'DEFGHIJKLMNOP':
+            ws_l[f'{col}{i}'].fill = yellow
+    last_l = ws_l.max_row
+
+    # --- Tiers -----------------------------------------------------------------------------
+    tiers = sorted(m['tiers'], key=lambda t: TIERS.index(t['tier']))
+    trows2 = [[tier_label(t['tier']), ', '.join(lv for lv in LEVELS if TIER_OF_LEVEL[lv] == t['tier']),
+               t['focus'], t['card_style'], f'=SUMIF(Topics!$B$2:$B${last_t},A{i},Topics!$M$2:$M${last_t})']
+              for i, t in enumerate(tiers, 2)]
+    sheet('Tiers', ['Tier', 'Levels', 'What the tier covers', 'What a card looks like', 'Cards'],
+          [10, 14, 70, 70, 9], trows2)
 
     # --- Level outcomes --------------------------------------------------------------------
     serves = defaultdict(list)
@@ -217,8 +264,8 @@ def build(m, cards, path, when):
         rr = first + j
         su.cell(row=rr, column=1, value=tier_label(t))
         su.cell(row=rr, column=2, value=f'=COUNTIF({T},A{rr})')
-        su.cell(row=rr, column=3, value=f'=SUMIF({T},A{rr},Topics!$J$2:$J${last_t})')
-        su.cell(row=rr, column=4, value=f'=SUMIF({T},A{rr},Topics!$K$2:$K${last_t})')
+        su.cell(row=rr, column=3, value=f'=SUMIF({T},A{rr},Topics!$K$2:$K${last_t})')
+        su.cell(row=rr, column=4, value=f'=SUMIF({T},A{rr},Topics!$L$2:$L${last_t})')
         su.cell(row=rr, column=5, value=f'=C{rr}+D{rr}')
     tot = first + len(TIERS)
     su.cell(row=tot, column=1, value='All tiers').font = bold
@@ -239,13 +286,34 @@ def build(m, cards, path, when):
             rr = start + 2 + j
             su.cell(row=rr, column=1, value=v)
             su.cell(row=rr, column=2, value=f'=COUNTIF({rng},A{rr})')
-            su.cell(row=rr, column=3, value=f'=SUMIF({rng},A{rr},Topics!$J$2:$J${last_t})')
-            su.cell(row=rr, column=4, value=f'=SUMIF({rng},A{rr},Topics!$K$2:$K${last_t})')
+            su.cell(row=rr, column=3, value=f'=SUMIF({rng},A{rr},Topics!$K$2:$K${last_t})')
+            su.cell(row=rr, column=4, value=f'=SUMIF({rng},A{rr},Topics!$L$2:$L${last_t})')
             su.cell(row=rr, column=5, value=f'=C{rr}+D{rr}')
             su.cell(row=rr, column=6, value=f'=IF($E${tot}=0,0,E{rr}/$E${tot})').number_format = '0%'
         return start + 2 + len(values) + 1
 
-    nxt = breakdown(tot + 2, 'Cards per region', 'G', sorted({r['region'] for r in topics}))
+    # kort per nivå: summan av kolumnen i Cards by level, befintliga ur Existing cards
+    lv0 = tot + 2
+    su.cell(row=lv0, column=1, value='Cards per level').font = Font(name=F, size=12, bold=True)
+    for c, h in enumerate(['Level', 'Existing cards', 'New cards', 'Total cards'], 1):
+        cell = su.cell(row=lv0 + 1, column=c, value=h)
+        cell.font, cell.fill = head_font, head_fill
+    ex_last = 401
+    for j, lv in enumerate(LEVELS):
+        rr = lv0 + 2 + j
+        col = get_column_letter(4 + j)
+        su.cell(row=rr, column=1, value=f'Level {lv}')
+        su.cell(row=rr, column=2, value=f"=COUNTIF('Existing cards'!$D$2:$D${ex_last},\"H {lv}\")")
+        su.cell(row=rr, column=4, value=f"=SUM('Cards by level'!{col}2:{col}{last_l})")
+        su.cell(row=rr, column=3, value=f'=D{rr}-B{rr}')
+    lv_end = lv0 + 2 + len(LEVELS)
+    su.cell(row=lv_end, column=1, value='All levels').font = bold
+    for col in 'BCD':
+        su[f'{col}{lv_end}'] = f'=SUM({col}{lv0 + 2}:{col}{lv_end - 1})'
+        su[f'{col}{lv_end}'].font = bold
+
+    nxt = breakdown(lv_end + 2, 'Cards per phase', 'J', ['Phase 1', 'Phase 2', 'Existing only'])
+    nxt = breakdown(nxt, 'Cards per region', 'G', sorted({r['region'] for r in topics}))
     nxt = breakdown(nxt, 'Cards per strand', 'H', sorted({r['strand'] for r in topics}))
     nxt = breakdown(nxt, 'Cards per era', 'F', sorted({r['era'] for r in topics}))
     su.cell(row=nxt, column=1, value='Outcomes per level').font = Font(name=F, size=12, bold=True)

@@ -36,6 +36,10 @@ ordlista eller bild.
   bland femkortsämnena i nivå 1 finns bara 3 Europa-rader och nivå 2-3
   (Ryska revolutionen, Kinas revolution 1949, Internet, Elektriciteten); de
   många trekortsämnena kräver beslut om kortantal innan de kan produceras.
+- Kursplanekarta för historia, beställd av Daniel Shea 2026-10-15, finns som förslag
+  (ej godkänd): `data/curriculum-map-history.json`, byggs med
+  `python3 tools/build_curriculum_map.py --date <datum>` till Excel i `export/`.
+  212 ämnesrader, 103 nivåmål, 1 519 kort varav 1 119 nya i två faser.
 - Öppet hos Roger: baksidestexter för befintliga kort, nivå 3-kort,
   "about X years ago" kontra århundraden.
 
@@ -55,6 +59,8 @@ ordlista eller bild.
 | `docs/uppdrag-spec.md`, `docs/master-lista-50.md` | Ursprunglig kravspec och ämneslista med status |
 | `docs/rutin-produktion.md` | Prompten för schemalagda produktionskörningar |
 | `docs/handover-nytt-konto.md` | Så sätter man upp ett nytt konto/miljö |
+| `export/` | Exporter till Akelius: kort-PDF:er och Excel (`tools/export_cards.py`), kursplanekartan (`tools/build_curriculum_map.py`) |
+| `data/curriculum-map-history.json` | Kursplanekartan: nivåmål, ämnesrader per nivågrupp, standardval |
 | `poangpromenad/` | Sidospår: tipspromenaden i Vara (klar, levererad) |
 
 ## Produktionskedjan (körs i denna ordning per leverans)
@@ -121,6 +127,11 @@ Verifiera sidorna vid behov med Playwright: `node` + `playwright-core` med
   affärsvillkor. Beroenden installeras av `.claude/hooks/session-start.sh`.
 
 ## Kontakt med Roger och Claes
+
+- Daniel Shea (daniel.shea@akelius.org, Akelius Languages, Berlin) leder sedan hösten 2026
+  quizkortsprodukterna. I hans system är nivåer årskurser 1-12 plus U, och kort märks
+  med ämne och nivå, till exempel H 3; nivågrupperna är 1-3, 4-6, 7-9 och 10-U.
+  Akelius e-postserver tar emot högst 19 MB per mejl: skicka stora filer som länk.
 
 - Skicka **aldrig** e-post automatiskt och skapa inga utkast på eget
   initiativ. Utkast bara när Jonas ber om det; Jonas skickar.
