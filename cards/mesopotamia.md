@@ -34,8 +34,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **canal** — *a small river that people dig; it carries water to the fields*
 - **clay** — *soft, wet earth; it gets hard when it dries*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a lump of soft wet grey-brown clay with a thumbprint pressed into it, next to a small plain unglazed bowl of hard dry clay of the same colour, on a rough wooden table. No pottery wheel, no glaze, no painted patterns, no hands, no modern objects, no text, no letters, no numbers
 - **temple** — *a house for a god*
 - **grain** — *the seeds of plants like wheat; people make bread from it*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a heap of golden wheat grains with three whole wheat ears lying on top, on a plain rough wooden board. No bread, no sacks, no bowls, no machines, no packaging, no hands, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -83,6 +87,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **token** — *a small clay piece that stands for one thing, like one sheep*
 - **reed** — *a tall grass that grows by the river*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of tall green reeds with feathery brown seed heads growing thickly at the edge of calm river water in soft morning light. No boats, no people, no buildings, no fences, no litter, no text, no letters, no numbers
 - **wedge** — *a small shape like the tip of a nail*
 - **accounting** — *counting goods and writing the numbers down*
 
@@ -131,6 +137,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **canal** — *a small river that people dig; it brings water to the fields*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a narrow straight irrigation canal dug into the earth, with calm water running between bare earth banks and green barley fields on both sides under a clear sky. No concrete, no pipes, no pumps, no machines, no bridges, no people, no buildings, no signs, no text, no letters, no numbers
 - **specialization** — *when each person learns one job very well*
 - **craft** — *a special skill or job; you learn it with long practice*
 - **stranger** — *a person you do not know*
@@ -181,6 +189,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **eternal** — *forever, without end*
 - **tablet** — *a flat piece of clay for writing*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small palm-sized rectangular tablet of dried light-brown clay with rounded edges and a few simple wedge-shaped dents that are not real writing, lying on a plain pale stone surface in soft daylight. No hands, no museum case, no labels, no rulers, no modern objects, no text, no letters, no numbers
 - **clay** — *soft, wet earth; it gets hard when it dries*
 
 ### Huvudbild
@@ -231,6 +241,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **scholar** — *a person who studies one subject very deeply*
 - **durable** — *strong; it lasts a very long time*
 - **wedge-shaped** — *looking like small triangles, wide at one end and sharp at the other*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one clear small wedge-shaped dent pressed into smooth soft grey-brown clay, wide at one end and pointed at the other, seen close up in soft side light. No other marks, no real writing, no reed, no hands, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 

@@ -35,6 +35,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **barefoot** — *with no shoes on your feet*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a pair of bare feet with medium-brown skin standing on soft dry sand, seen from the front and slightly above, with one pair of plain leather shoes and two rolled-up socks placed neatly beside them on the sand. Only the feet and lower legs are in the picture, no face, no sea, no shells, no jewelry on the feet, no sandals or socks worn on the feet, no footprints leading away, no modern logos, no text, no letters, no numbers
 - **ancient** — *very old, from a time long ago*
 
 ### Huvudbild
@@ -85,6 +87,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **reason** — *why you think something is true*
 - **saying** — *a short sentence that many people know and repeat*
 - **rumor** — *a story people tell each other, but no one checks if it is true*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of four ordinary people standing in a row in a sunny village yard, the first whispering into the ear of the second behind a cupped hand, the second whispering to the third, and the fourth listening with wide surprised eyes, so that a story travels from ear to ear. Two of the people have dark-brown skin and two have light-brown skin, all in plain everyday cotton clothes in warm colours, a low whitewashed wall behind them. No phones, no newspapers, no microphones, no crowd, no screens, no question marks, no speech bubbles, no text, no letters, no numbers
 - **advertising** — *words and pictures that try to make you buy something*
 
 ### Huvudbild
@@ -134,6 +138,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **trial** — *when a court (the place of judges) decides: did a person do a crime?*
 - **jury** — *a group of normal people who vote in court: did he do it or not?*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a group of about twenty ordinary men of different ages, from young adults to old men, sitting close together in several rows on long plain wooden benches in an open-air courtyard of ancient Athens and listening seriously to someone outside the picture. They have olive skin and wear plain undyed wool tunics and cloaks of the ancient Greek world, some with beards, one low stone wall and warm daylight behind them. No women, no judge robes, no wigs, no gavel, no modern courtroom, no columns, no temple, no urns, no pebbles, no scales, no soldiers, no text, no letters, no numbers
 - **guilty** — *the court says: yes, he did it*
 - **poison** — *a thing that kills you when you drink or eat it*
 
@@ -186,6 +192,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **fame** — *when many people know your name*
 - **unexamined** — *not checked, not looked at*
 - **cheat** — *to lie or trick people to win or get money*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of two men playing a game of knucklebones at a low wooden table in a sunny courtyard of ancient Athens, both in plain wool tunics and both with olive skin, the man on the left with a dark beard secretly sliding one extra small bone game piece out of his sleeve with a hidden hand while the other man looks away at the table. Warm daylight. No modern dice, no playing cards, no coins, no money, no weapons, no crowd, no marble columns, no signs, no balance scale, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -234,6 +242,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **dialogue** — *a written talk between two or more people*
 - **expert** — *a person who knows very much about one thing*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an elderly woman with light-brown skin and short grey hair in a plain apron, holding a plain undecorated clay jar up to the light and looking at it closely through a round magnifying glass, in a quiet tidy workshop with shelves of many clay jars behind her, while a young man with dark-brown skin stands beside her and watches her with respect. Warm daylight. No computers, no lab coats, no screens, no books with writing, no signs, no labels, no painted figures on the jars, no text, no letters, no numbers
 - **refutation** — *showing, step by step, that an idea cannot stand*
 - **claim** — *something a person says is true*
 

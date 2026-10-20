@@ -51,7 +51,7 @@ ordlista eller bild.
 | `translations/<slug>.sv.json` | Svensk översättning per ämne, merjas in i cards.json |
 | `data/cards.json` | Sanningskällan: allt innehåll inkl. `sv`-fält, `person_sv` |
 | `data/image-prompts.csv` | Bildprompter, genereras från cards.json |
-| `images/*.png` | Produktionsmaster (main 1536x1024, side 1024x1365); `images/web/` webbkopior |
+| `images/*.png` | Produktionsmaster (main 1536x1024, side 1024x1365, ordbilder `<slug>-<k>-w-<ord>` 1024x1024); `images/web/` webbkopior |
 | `index.html`, `presentation.html` | Intern förhandsvisning resp. granskningssida för Roger, bägge med språkknapp |
 | `docs/skrivregler-kort.md` | Bindande skrivregler för nya set, inkl. ämnesnoter |
 | `docs/oversattning-stilguide.md` | Bindande regler för svensk översättning |
@@ -68,6 +68,8 @@ ordlista eller bild.
 1. **Skriv** `cards/<slug>.md` per ämne med skrivaragenter (en per ämne, parallellt).
    Varje agent läser `docs/skrivregler-kort.md` plus två befintliga set som mall
    och självvaliderar med `python3 tools/import_cards.py --check <slug>`.
+   Ordförklaringarna får visning text, bild eller text+bild med ordbildsprompt
+   enligt avsnittet om ordbilder i skrivreglerna.
 2. **Granska** med två oberoende agenter över hela batchen: historikerlins
    (fakta, myter, anakronismer, källpåståenden) och redaktörslins (läckor,
    ledtrådskedja, språk, struktur, bildbriefer, motivdubbletter). JSON-rapporter.
@@ -80,14 +82,17 @@ ordlista eller bild.
    sedan oberoende svensk granskare; fynd förs in.
 6. **Merja svenskan**: `python3 tools/apply_translations.py <slugs>`.
 7. **Bilder**: `python3 tools/build_prompts.py` sedan
-   `python3 tools/generate_images.py --only <slug> --workers 4` (gpt-image-2,
-   kräver `OPENAI_API_KEY`, cirka 0,17 USD per bild).
+   `python3 tools/generate_images.py --only <slug> --kind main --workers 4` och
+   `--kind word` för ordbilderna (gpt-image-2, kräver `OPENAI_API_KEY`, cirka
+   0,17 USD per huvudbild, ordbilder i medium kvalitet billigare). Sidobilder
+   genereras inte tills Jonas avgjort deras roll i stående A6.
 8. **Bildgranska** per set med en agent som läser briefen i md-filen och
    öppnar varje bild: motiv, textförbud, svarsläcka, känslighet, AI-fel,
    räknebara påståenden. Underkända genereras om med två kandidater och
    korrigerad prompt; **kontrollera ersättningen själv** (zooma, räkna) innan
    den läggs i `images/`. Uppdatera AI-prompten i md-filen, importera om,
-   merja svenskan igen.
+   merja svenskan igen. Samma granskning gäller ordbilderna (ordets allmänna
+   betydelse, läsbar i liten storlek, ingen svarsläcka).
 9. **Bygg och publicera**: `python3 tools/build_index.py`,
    `python3 tools/build_readme_cards.py`, uppdatera statusrader i README och
    masterlistan, committa, pusha, merga till huvudbranchen.

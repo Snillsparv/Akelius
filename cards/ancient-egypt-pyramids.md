@@ -35,8 +35,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **flood** — *the river rises and water covers the land*
 - **soil** — *the earth where plants grow*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a mound of dark brown, moist, crumbly soil on bare ground with one small green seedling growing out of the top, close-up in soft daylight. Plain natural scene: no hands, no tools, no flower pots, no plastic, no fertiliser bags, no text, no letters, no numbers
 - **tomb** — *a room or building for a dead person*
 - **wheat** — *a plant; people make bread from it*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of ripe golden wheat ears with short awns and plump grains in close-up, a soft blurred wheat field behind them, warm daylight. Natural and timeless: no machines, no tractors, no baskets, no bread, no fences, no people, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -84,8 +88,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **pyramid** — *a building with a square bottom and one point at the top*
 - **sledge** — *a flat wooden board for pulling heavy things*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a simple ancient-style sledge standing empty on flat pale sand: a flat wooden plank platform on two curved wooden runners joined by crossbars, with a thick rope of twisted plant fibre tied to the front. Only wood and rope, no metal parts, no wheels, no stone block, no ramp, no workers, no pyramid, no snow, no modern objects, no text, no letters, no numbers
 - **ramp** — *a road that goes up, little by little*
 - **archaeologist** — *a scientist who digs in the ground to learn about old times*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an archaeologist, a woman with dark brown skin in a wide-brimmed canvas hat, a light long-sleeved shirt and work gloves, kneeling in a neat square pit with straight walls and digging carefully with a small pointed trowel, with a bucket and a flat sieve beside the pit. Plain dry ground around her, no finds on show, no tourists, no signs, no tents, no vehicles, no pyramids, no ramps, no stone blocks, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -135,6 +143,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **tomb** — *a room or building for a dead person*
 - **temple** — *a building where people pray to a god*
 - **desert** — *very dry land with sand and almost no rain*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of smooth rippled sand dunes in a wide dry desert under a plain pale blue sky, soft low light. Empty and timeless: no plants, no animals, no people, no footprints, no vehicles, no roads, no buildings, no pyramids, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -182,6 +192,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **scribe** — *a person whose work is writing and counting*
 - **papyrus** — *a kind of paper; people make it from a river plant*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one flat blank sheet of ancient papyrus and one loosely rolled blank papyrus scroll tied with a thin cord, lying on a plain wooden table; the paper is pale golden-brown with a visible woven grid of crossed plant strips. Soft window light, no writing or signs on the papyrus, no ink, no hands, no green plants, no modern paper or pens, no pyramids, no text, no letters, no numbers
 - **tax** — *things people must give to the king or the state, like wheat or money*
 - **geometry** — *the mathematics of shapes and of measuring land*
 
@@ -232,6 +244,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **script** — *a set of signs for writing a language*
 - **scholar** — *a person who studies a subject very deeply*
 - **archaeology** — *the study of things people from long ago leave behind*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of old finds from the ground laid out on a plain pale cloth: broken pieces of clay pots, a small stone bowl and a few worn stone tools, with two soft brushes beside them. Soft daylight and a calm background, no people, no labels, no numbered tags, no rulers, no museum cases, no gold, no mummies, no pyramids, no text, no letters, no numbers
 - **tomb** — *a room or building for a dead person*
 
 ### Huvudbild
