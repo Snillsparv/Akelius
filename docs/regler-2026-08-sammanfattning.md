@@ -133,8 +133,12 @@ Källa: Daniel Shea mejlade 2026-10-20 sidan 4 av 4 ur Rogers memo
   kortet förrän det är avgjort.
 - **Oklart, lyft till Jonas:** "Start with the picture covering two-thirds of the
   left top area" går inte ihop med skissen där bilden tar hela bredden och
-  ungefär 40 procent av höjden; vi följer skissen. Mätning 2026-10-20: vid
-  Verdana 11 ryms 2 av 400 engelska kort på framsidan med bilden överst, vid
-  Verdana 10 ryms 72, vid 9 ryms 209. Verdana 11 rymmer omkring 75 ord,
-  Verdana 10 omkring 85; dagens median är 105 ord i årskurs 6 och 132 på
-  universitetsnivå. Antingen kortas texterna eller så blir typsnittet mindre.
+  ungefär 40 procent av höjden; vi följer skissen. Mätning 2026-10-20 med
+  Verdana (`tools/measure_a6_fit.js`): vid 11 punkter ryms 2 av 400 engelska
+  kort på framsidan med bilden överst, vid 10 ryms 63, vid 9 ryms 196 och vid
+  8 ryms 373; på svenska 0, 54, 167 och 354. Verdana 11 rymmer omkring 75 ord,
+  Verdana 10 omkring 85 till 100; dagens median är 105 ord i årskurs 6 och 132
+  på universitetsnivå. Antingen kortas texterna eller så blir typsnittet mindre.
+  Exporten (`tools/export_cards.py`) sätter tills vidare varje framsida i
+  största storlek som ryms, från 11 ned till 7, och skriver storleken i
+  sidfoten och i Excelfilen.

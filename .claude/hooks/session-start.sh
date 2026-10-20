@@ -9,12 +9,13 @@ fi
 
 cd "$CLAUDE_PROJECT_DIR"
 
-# Python: Pillow krävs av build_index.py och generate_images.py.
-python3 -m pip install --quiet --disable-pip-version-check pillow
+# Python: Pillow krävs av build_index.py och generate_images.py, openpyxl av
+# export_cards.py (Excelfilen).
+python3 -m pip install --quiet --disable-pip-version-check pillow openpyxl
 
 # Node: docx (Word-underlag) och playwright-core (sidverifiering med
 # /opt/pw-browsers/chromium, ladda aldrig ner egen webbläsare).
 export PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1
 npm install --no-audit --no-fund --silent
 
-echo "Akelius: beroenden klara (pillow, docx, playwright-core)"
+echo "Akelius: beroenden klara (pillow, openpyxl, docx, playwright-core)"
