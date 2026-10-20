@@ -193,7 +193,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **unexamined** — *not checked, not looked at*
 - **cheat** — *to lie or trick people to win or get money*
   - Visning: text+bild
-  - Ordbild: Simple clear illustration of two men playing a game of knucklebones at a low wooden table in a sunny courtyard of ancient Athens, both in plain wool tunics and both with olive skin, the man on the left with a dark beard secretly sliding one extra small bone game piece out of his sleeve with a hidden hand while the other man looks away at the table. Warm daylight. No modern dice, no playing cards, no coins, no money, no weapons, no crowd, no marble columns, no signs, no balance scale, no text, no letters, no numbers
+  - Ordbild: Simple clear illustration of two men of ancient Athens with olive skin in plain undyed wool tunics playing a simple board game with round black and white pebbles on a plain wooden board on a low table in a sunny courtyard, seen close so that the two men and the board fill the square. The man on the right has turned his head and shoulders fully away to look behind him at something outside the picture, while the man on the left with a dark beard grins slyly and with one clearly drawn five-fingered hand quickly pushes one of his black pebbles forward on the board. No knucklebones, no bone-shaped pieces, no dice, no chess pieces, no checkered board, no playing cards, no coins, no money, no balance scale, no crowd, no columns, no extra or fused fingers, no text, no letters, no numbers
 
 ### Huvudbild
 

@@ -131,6 +131,7 @@ body { font-family: Verdana, 'DejaVu Sans', sans-serif; color: #111; }
 .content { flex: 1; min-height: 0; overflow: hidden; margin-top: 3mm; font-size: var(--fs, 11pt); }
 .text { line-height: 1.3; }
 .text p { margin: 0; display: inline; }
+.text p.dlg { display: block; }
 .q { font-weight: bold; margin-top: 1.6mm; line-height: 1.25; }
 .opts { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2mm 3mm; margin-top: 1.6mm; }
 .opts div { display: flex; gap: 1.6mm; line-height: 1.2; }
@@ -361,6 +362,9 @@ def card_pages(set_no, s, k, card, have, lang, page_no):
     iid = f"{s['slug']}-{k}"
     cid = f'{set_no:03d}-{k}'
     sentences = bold_words(L['sentences'], L['words'], lang)
+    # repliker med pratminus står på egen rad, resten flyter som ett stycke
+    text_html = ''.join(f'<p class="dlg">{x}</p>' if raw.startswith('- ') else f'<p>{x} </p>'
+                        for raw, x in zip(L['sentences'], sentences))
     opts = ''.join(f'<div><i></i><span>{esc(o)}</span></div>' for o in L['options'])
     level = t['levels'].get(card['level'], card['level'])
     question = re.sub(r' X(?!\w)', ' X', L['question'])  # "X?" hamnar aldrig ensamt på en rad
@@ -369,7 +373,7 @@ def card_pages(set_no, s, k, card, have, lang, page_no):
 <section class="page card front" data-id="{iid}">
   {main_picture(iid + '-main', have, card['main_image']['description'], t)}
   <div class="content">
-    <div class="text">{''.join(f'<p>{x} </p>' for x in sentences)}</div>
+    <div class="text">{text_html}</div>
     <div class="q">{esc(question)}</div>
     <div class="opts">{opts}</div>
   </div>

@@ -89,7 +89,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **pyramid** — *a building with a square bottom and one point at the top*
 - **sledge** — *a flat wooden board for pulling heavy things*
   - Visning: text+bild
-  - Ordbild: Photorealistic square photo of a simple ancient-style sledge standing empty on flat pale sand: a flat wooden plank platform on two curved wooden runners joined by crossbars, with a thick rope of twisted plant fibre tied to the front. Only wood and rope, no metal parts, no wheels, no stone block, no ramp, no workers, no pyramid, no snow, no modern objects, no text, no letters, no numbers
+  - Ordbild: Photorealistic square photo of a simple heavy ancient-style wooden sledge standing empty on flat pale sand, seen from above at a three-quarter angle: a low flat platform of thick rough wooden planks lying directly on top of two thick wooden runners, the runners curving gently upward at the front like the bow of a boat, with a thick rope of twisted plant fibre tied to the front. The platform sits almost on the ground, with no legs, no posts and no gap under it; it must not look like a bench, a table or a children's snow sled. Only wood and rope, no metal parts, no wheels, no stone block, no ramp, no workers, no pyramid, no snow, no modern objects, no text, no letters, no numbers
 - **ramp** — *a road that goes up, little by little*
 - **archaeologist** — *a scientist who digs in the ground to learn about old times*
   - Visning: text+bild
@@ -245,7 +245,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **scholar** — *a person who studies a subject very deeply*
 - **archaeology** — *the study of things people from long ago leave behind*
   - Visning: text+bild
-  - Ordbild: Photorealistic square photo of old finds from the ground laid out on a plain pale cloth: broken pieces of clay pots, a small stone bowl and a few worn stone tools, with two soft brushes beside them. Soft daylight and a calm background, no people, no labels, no numbered tags, no rulers, no museum cases, no gold, no mummies, no pyramids, no text, no letters, no numbers
+  - Ordbild: Photorealistic square photo of old finds from the ground laid out on a plain pale cloth: four or five broken pieces of plain reddish-brown clay pot with smooth undecorated surfaces, a small plain stone bowl and a few worn stone tools, with two soft brushes beside them. Soft daylight and a calm background; the clay pieces and stones have no carved lines, no patterns, no painted marks, no inscriptions and no signs of any kind; no people, no labels, no numbered tags, no rulers, no museum cases, no gold, no mummies, no pyramids, no text, no letters, no numbers
 - **tomb** — *a room or building for a dead person*
 
 ### Huvudbild

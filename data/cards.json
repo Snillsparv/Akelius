@@ -154,7 +154,7 @@
               "show": "both",
               "picture": {
                 "id": "ancient-egypt-pyramids-2-w-sledge",
-                "ai_prompt": "Photorealistic square photo of a simple ancient-style sledge standing empty on flat pale sand: a flat wooden plank platform on two curved wooden runners joined by crossbars, with a thick rope of twisted plant fibre tied to the front. Only wood and rope, no metal parts, no wheels, no stone block, no ramp, no workers, no pyramid, no snow, no modern objects, no text, no letters, no numbers"
+                "ai_prompt": "Photorealistic square photo of a simple heavy ancient-style wooden sledge standing empty on flat pale sand, seen from above at a three-quarter angle: a low flat platform of thick rough wooden planks lying directly on top of two thick wooden runners, the runners curving gently upward at the front like the bow of a boat, with a thick rope of twisted plant fibre tied to the front. The platform sits almost on the ground, with no legs, no posts and no gap under it; it must not look like a bench, a table or a children's snow sled. Only wood and rope, no metal parts, no wheels, no stone block, no ramp, no workers, no pyramid, no snow, no modern objects, no text, no letters, no numbers"
               }
             },
             {
@@ -487,7 +487,7 @@
               "show": "both",
               "picture": {
                 "id": "ancient-egypt-pyramids-5-w-archaeology",
-                "ai_prompt": "Photorealistic square photo of old finds from the ground laid out on a plain pale cloth: broken pieces of clay pots, a small stone bowl and a few worn stone tools, with two soft brushes beside them. Soft daylight and a calm background, no people, no labels, no numbered tags, no rulers, no museum cases, no gold, no mummies, no pyramids, no text, no letters, no numbers"
+                "ai_prompt": "Photorealistic square photo of old finds from the ground laid out on a plain pale cloth: four or five broken pieces of plain reddish-brown clay pot with smooth undecorated surfaces, a small plain stone bowl and a few worn stone tools, with two soft brushes beside them. Soft daylight and a calm background; the clay pieces and stones have no carved lines, no patterns, no painted marks, no inscriptions and no signs of any kind; no people, no labels, no numbered tags, no rulers, no museum cases, no gold, no mummies, no pyramids, no text, no letters, no numbers"
               }
             },
             {
@@ -2458,7 +2458,7 @@
               "show": "both",
               "picture": {
                 "id": "socrates-4-w-cheat",
-                "ai_prompt": "Simple clear illustration of two men playing a game of knucklebones at a low wooden table in a sunny courtyard of ancient Athens, both in plain wool tunics and both with olive skin, the man on the left with a dark beard secretly sliding one extra small bone game piece out of his sleeve with a hidden hand while the other man looks away at the table. Warm daylight. No modern dice, no playing cards, no coins, no money, no weapons, no crowd, no marble columns, no signs, no balance scale, no text, no letters, no numbers"
+                "ai_prompt": "Simple clear illustration of two men of ancient Athens with olive skin in plain undyed wool tunics playing a simple board game with round black and white pebbles on a plain wooden board on a low table in a sunny courtyard, seen close so that the two men and the board fill the square. The man on the right has turned his head and shoulders fully away to look behind him at something outside the picture, while the man on the left with a dark beard grins slyly and with one clearly drawn five-fingered hand quickly pushes one of his black pebbles forward on the board. No knucklebones, no bone-shaped pieces, no dice, no chess pieces, no checkered board, no playing cards, no coins, no money, no balance scale, no crowd, no columns, no extra or fused fingers, no text, no letters, no numbers"
               }
             }
           ],
