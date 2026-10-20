@@ -32,8 +32,12 @@ Not (ej elevvänd): Kategori `africa`. Place X är kustremsan och dess stadsstat
 ### Ordförklaringar (marginal)
 
 - **ivory** — *the hard white material from an elephant's tusk*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a pair of large, smooth, curved cream-white elephant tusks lying side by side on a plain woven grass mat, soft daylight. No elephant, no market stall, no trophy mount, no carvings, no price tags, no modern objects, no text, no letters, no numbers
 - **traders** — *people whose job is buying and selling goods*
 - **goods** — *things that people buy and sell*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a heap of everyday trade goods on a bare earth floor in a coral-stone storeroom of the 1300s: woven palm-leaf baskets, brown clay storage jars, rope-tied cloth sacks and folded bolts of plain undyed cotton cloth. No people, no ivory, no gold, no plastic, no cardboard boxes, no modern crates, no labels or marks on the goods, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -82,8 +86,12 @@ Not (ej elevvänd): Kategori `africa`. Place X är kustremsan och dess stadsstat
 
 - **monsoon** — *a wind that blows one way for part of the year, then the other way*
 - **plateau** — *a large area of high, flat land*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a wide high plateau seen from its edge: a vast flat golden grassland with a few scattered acacia trees on top, and a steep rocky slope dropping away to low land in the hazy distance, warm daylight. No people, no animals, no buildings, no ruins, no roads, no vehicles, no fences, no modern objects, no text, no letters, no numbers
 - **strikes** — *makes coins by stamping a design into metal*
 - **coral** — *a hard, stony material built by tiny sea animals, used here to build houses*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a shallow tropical reef seen from just above the clear turquoise water, showing branching and rounded hard corals in pale cream, pink and brown. No fish, no divers, no boats, no nets, no buildings, no stone walls, no plastic, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -134,6 +142,8 @@ Not (ej elevvänd): Kategori `africa`. Place X är kustremsan och dess stadsstat
 - **grammar** — *the rules that show how words fit together in a language*
 - **poets** — *people who write poems*
 - **mangrove** — *a tree that grows with its roots in salty water along the shore*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one mangrove tree standing in shallow salty water at low tide on a tropical shore, its tall arching stilt roots clearly visible above the wet mud and green leaves above, soft morning light. No people, no boats, no cut poles, no buildings, no plastic litter, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -182,7 +192,11 @@ Not (ej elevvänd): Kategori `africa`. Place X är kustremsan och dess stadsstat
 
 - **route** — *the way or path used to travel from one place to another*
 - **crop** — *a plant grown in large amounts for food or to sell*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a wide farm field of tall green maize plants with ripening cobs growing in neat rows under a clear sky, seen from the field edge. No people, no tractor, no machines, no buildings, no fences, no signs, no modern objects, no text, no letters, no numbers
 - **spice** — *a plant part used to give food a strong taste or smell*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of four small loose heaps of whole spices side by side on a plain pale linen cloth: black peppercorns, cinnamon sticks, green cardamom pods and dried brown cloves, soft daylight. No people, no bowls, no jars, no spoons, no grinders, no packaging, no labels, no modern kitchen objects, no text, no letters, no numbers
 - **enslaved** — *forced to work and live as the property of another person*
 - **pressure** — *strong influence used to make someone act or change*
 
@@ -234,6 +248,8 @@ Not (ej elevvänd): Kategori `africa`. Place X är kustremsan och dess stadsstat
 - **archaeologists** — *scientists who study old objects and old buildings*
 - **excavators** — *people who dig carefully to find old things in the ground*
 - **porcelain** — *a fine, hard, white kind of pottery*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one small thin, glossy, plain white porcelain bowl standing on a plain dark wooden table in soft window light. No painted patterns, no blue decoration, no gold rim, no cracks, no marks on the bowl, no other dishes, no people, no modern table settings, no text, no letters, no numbers
 - **absorb** — *to take something in and make it part of a bigger whole*
 - **sources** — *texts or objects that give historians information about the past*
 

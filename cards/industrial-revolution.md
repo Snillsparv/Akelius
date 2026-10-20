@@ -37,7 +37,11 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 - **spin** — *to turn cotton or wool into long thread*
 - **mill** — *a large building full of machines that make cloth*
 - **engine** — *a machine that makes power from burning fuel*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small preserved steam engine of the early 1800s standing alone on a bare brick floor, with a round black iron boiler on a low brick firebox whose small iron door stands open to show glowing burning coal inside, an iron cylinder with a shiny piston rod on top, and a heap of black coal and a shovel on the floor beside it. Soft even light and a plain brick wall behind, with no large flywheel, no locomotive, no traction engine, no road wheels, no train, no ship, no car engine, no gauges, no dials, no workers, no visitors, no rope barriers, no plaques, no modern objects, no signs, no text, no letters, no numbers
 - **chimney** — *a tall pipe that carries smoke up into the sky*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one single tall round brick chimney seen from low down against a plain clear pale blue sky, with a thin plume of white smoke rising from its top. Only the brick chimney and the sky are in the picture, with no building, no roof, no mill, no town, no crane, no power lines, no birds, no modern objects, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -85,6 +89,8 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 ### Ordförklaringar (marginal)
 
 - **mine** — *a deep hole or tunnel where workers dig out coal*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of the inside of a narrow coal mine tunnel in the early 1800s, with rough black coal walls, wooden props holding up a low wooden roof, two narrow iron rails running along the floor into the dark, and one small empty wooden coal wagon standing on the rails. A single small oil lamp hangs from a wooden prop and gives a warm calm glow, and the tunnel is empty, with no people, no children, no animals, no machines, no electric lights, no helmets, no modern tools, no signs, no text, no letters, no numbers
 - **cholera** — *a dangerous disease that spreads through dirty water*
 - **union** — *a group of workers who join together to ask for better and safer work*
 - **crowded** — *full of too many people in a small space*
@@ -137,6 +143,8 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 - **engineer** — *a person who designs and builds machines or structures*
 - **patent** — *an official paper that gives one person the right to an invention*
 - **canal** — *a waterway that people dig for boats to travel on*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a calm, straight, clearly man-made canal in green countryside, its stone-walled banks running in a clear line into the distance between meadows to a pair of closed wooden lock gates with long wooden balance beams. A grass towpath runs along one bank, and one plain long narrow wooden cargo boat loaded with black coal lies moored at the bank, with no cabin decoration, no engine, no chimney, no people, no railway, no train, no bridge, no winding river, no modern objects, no signs, no text, no letters, no numbers
 - **passenger** — *a person who travels in a vehicle but does not drive it*
 
 ### Huvudbild
@@ -186,6 +194,8 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 
 - **enslaved** — *forced to work without pay and owned by another person*
 - **weaver** — *a person who makes cloth from thread, often by hand*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a close-up of two brown hands passing a small wooden shuttle through the stretched cream cotton threads of a simple wooden hand loom, with a short strip of plain woven cloth growing in front of the hands. Only the hands, the shuttle, the threads and the cloth are shown, with no face, no body, no sleeves, no watch, no rings, no jewelry, no electric machine, no power loom, no patterns, no signs, no text, no letters, no numbers
 - **income** — *the money a person earns from work*
 - **decade** — *a period of ten years*
 
@@ -238,6 +248,8 @@ Not (ej elevvänd): orden industrial och industry undviks helt i elevvänd text,
 - **colony** — *a land ruled and used by another, more powerful country*
 - **divergence** — *the point where two similar things start to become very different*
 - **inspector** — *a person whose job is to check that rules are followed*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-skinned man in a dark frock coat, grey trousers and a tall black top hat, seen from the side in a plain bare mill workroom of the 1800s, bending slightly to look closely at a low wooden guard rail around the moving leather belt of one large iron machine, a closed notebook in his left hand. He is the only person in the room, with no workers, no children, no flags, no modern clothes, no helmets, no clipboard, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 

@@ -38,6 +38,8 @@ Not (ej elevvänd): kategori `science`. Distraktorer per kort, ur poolen i lever
 - **disease** — *a sickness that can hurt or kill living things*
 - **stiff** — *hard to bend*
 - **harvests** — *the crops that farmers gather from their fields*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of several woven straw baskets heaped with freshly gathered corn cobs, potatoes and pumpkins, set down on the bare soil of a just-harvested field in warm autumn sunshine, rows of cut corn stalks behind. No people, no wheat, no carts, no tractors or machinery, no plastic crates or bags, no market stall, no signs, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -84,6 +86,8 @@ Not (ej elevvänd): kategori `science`. Distraktorer per kort, ur poolen i lever
 ### Ordförklaringar (marginal)
 
 - **rust** — *a plant disease that makes stems and leaves turn orange-brown*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one green wheat leaf in macro close-up, lying across a soft blurred green background, its surface dotted with many small raised orange-brown rust spots. No hands, no insects, no metal objects, no laboratory equipment, no labels, no text, no letters, no numbers.
 - **foundation** — *a group that gives money to help important work*
 - **generation** — *one round of plants or animals having young*
 
@@ -136,6 +140,8 @@ Not (ej elevvänd): kategori `science`. Distraktorer per kort, ur poolen i lever
 - **officials** — *people who work for the government*
 - **varieties** — *particular types of a plant, different from other types*
 - **sacks** — *big strong bags, often used for grain or seed*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single plain tan burlap sack, full and tied shut at the top with rough string, standing upright on a swept dirt floor against a plain whitewashed mud wall, soft side light. The sack is blank and unprinted, no stack of sacks, no ship, no crane, no pallets, no plastic bags, no people, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -183,9 +189,13 @@ Not (ej elevvänd): kategori `science`. Distraktorer per kort, ur poolen i lever
 ### Ordförklaringar (marginal)
 
 - **fertilizer** — *plant food added to soil to help crops grow*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small pile of round whitish-grey fertilizer pellets spilled on dark brown soil beside three young green seedlings, seen close up in soft daylight. No hands, no bags or packaging, no spreading machines, no tractors, no labels, no text, no letters, no numbers.
 - **pesticides** — *chemicals used to kill insects that harm crops*
 - **debt** — *money that a person owes and must pay back*
 - **wells** — *deep holes dug to reach water under the ground*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of an old village well seen from the side, a round stone rim at knee height, a simple wooden frame above it holding a rope and a plain wooden bucket, in a dry sunlit village courtyard with a mud wall behind. No pump, no hose, no electric wires, no plastic buckets, no people, no tourists, no signs, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -235,6 +245,8 @@ Not (ej elevvänd): kategori `science`. Distraktorer per kort, ur poolen i lever
 - **statistics** — *numbers collected to study facts, like harvests or people*
 - **yield** — *the amount of crop a field produces*
 - **scholar** — *a person who studies a subject deeply, often at a university*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an older Black woman with short grey hair and round glasses, in a plain cardigan, sitting at a wooden table in a quiet university library and reading a thick book, shelves of plain-spined books softly blurred behind her, calm thoughtful mood. Her face is generic and relaxed, no readable book spines or pages, no computers, no phones, no students, no village or farm scene, no text, no letters, no numbers.
 
 ### Huvudbild
 

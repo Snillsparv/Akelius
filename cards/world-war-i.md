@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Första världskriget. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kriget kallas War X, frågan är alltid Which war is War X. Skriv aldrig World War, world war, First World War, the Great War eller ordet First i elevvänd text, bildtext, ordlista eller bildmotiv, skriv i stället the war eller a war across Europe and its empires. Det andra världskriget namnges aldrig vid namn, högst en gång som an even bigger war twenty years later. Hitler, Churchill, Gandhi, Förenta nationerna, kalla kriget, Mandela, Martin Luther King och Berlinmuren namnges inte. Ryska revolutionen 1917 får nämnas som en följd av kriget. Napoleon, Marx och Darwin namnges inte.
+Not (ej elevvänd): kriget kallas War X, frågan är alltid Which war is War X. Skriv aldrig World War, world war, First World War, the Great War eller ordet First i elevvänd text, bildtext, ordlista eller bildmotiv, skriv i stället the war eller a war across Europe and its empires. Det andra världskriget namnges aldrig vid namn, högst en gång som an even bigger war twenty years later. Hitler, Churchill, Gandhi, Förenta nationerna, kalla kriget, Mandela, Martin Luther King och Berlinmuren namnges inte. Ryska revolutionen 1917 får nämnas som en följd av kriget. Napoleon, Marx och Darwin namnges inte. Kort 3 har ingen ordbild eftersom colonies, empire och front är abstrakta ord utan egen bild. Kort 4 har ingen ordbild eftersom armistice, revolution och treaty är abstrakta ord utan egen bild.
 
 ---
 
@@ -36,8 +36,12 @@ Not (ej elevvänd): kriget kallas War X, frågan är alltid Which war is War X. 
 
 - **alliance** — *a promise between countries to help each other in war*
 - **spark** — *a small thing that starts something much bigger*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a single small bright spark jumping from a glowing ember onto a little pile of dry twigs and dry grass, with one tiny first flame just starting to curl up. Calm neutral background, no people, no lighter, no matches, no big fire, no smoke clouds, no modern objects, no text, no letters, no numbers.
 - **continent** — *a very large area of land, like Europe or Africa*
 - **dominoes** — *small flat game pieces, when one falls, it knocks over the next*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a short row of plain black wooden dominoes with simple white dot patterns, standing upright and still on a pale wooden table, seen from a low side angle against a calm light background. No falling tiles, no hands, no people, no digits, no modern objects, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -84,8 +88,12 @@ Not (ej elevvänd): kriget kallas War X, frågan är alltid Which war is War X. 
 ### Ordförklaringar (marginal)
 
 - **trench** — *a long, deep ditch dug in the ground*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long narrow ditch freshly dug into dry bare brown earth, running straight across an open grassy field far into the distance, with deep straight sides and loose soil heaped along one edge, seen from above at an angle in soft overcast light. No short pit, no grave shape, no crosses, no water, no pipes, no soldiers, no people, no sandbags, no duckboards, no barbed wire, no weapons, no machines, no vehicles, no text, no letters, no numbers.
 - **no man's land** — *the open, dangerous ground between two enemy lines*
 - **lice** — *tiny bugs that live in hair or clothes and bite*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a single louse in extreme macro close-up, a tiny grey-brown wingless insect with a flat body and six clawed legs, gripping one strand of human hair, background strongly blurred in a soft neutral colour. No skin, no scalp, no blood, no other insects, no people, no modern objects, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -232,6 +240,8 @@ Not (ej elevvänd): kriget kallas War X, frågan är alltid Which war is War X. 
 
 - **censor** — *a person who reads letters and removes parts before they are sent*
 - **diary** — *a book where a person writes each day about life*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small closed old-fashioned diary with a plain dark blue cloth cover, held shut by a little brass clasp with a tiny keyhole lock, a small brass key and a plain wooden pencil lying beside it, on a calm pale background. Blank cover, no brown leather, no strap, no open pages, no letters or envelopes, no magnifying glass, no desk lamp, no spiral binding, no modern notebook, no people, no text, no letters, no numbers.
 - **ambition** — *a strong wish to gain power or success*
 
 ### Huvudbild

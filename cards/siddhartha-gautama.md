@@ -35,8 +35,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **palace** — *a very big and rich house for a king's family*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a royal palace of ancient northern India, seen across a clean courtyard: a long two-storey building of pale plastered brick with a deep veranda of carved wooden pillars, a sloping roof of red clay tiles with a small raised pavilion in the middle, and wide stone steps up to the entrance. Warm daylight and an empty courtyard with a small square water tank, no people, no tall walls or gate, no chariot, no elephants, no domes, no minarets, no pointed arches, no castle towers, no European palace, no flags, no text, no letters, no numbers
 - **suffer** — *to feel pain in the body or the heart*
 - **fig tree** — *a tree with fig fruits. The tree in this story has heart-shaped leaves.*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a low branch of a fig tree in sharp focus in front, with broad heart-shaped green leaves that end in a long thin point and several small round figs, only the size of a fingertip, green and dark purple, sitting in pairs close to the twig, while the thick trunk and wide crown of the same tree are softly blurred behind. Soft daylight, no large pear-shaped figs, no lobed leaves, no cut-open fruit, no people, no statues, no stone, no ribbons or cloth tied to the tree, no lamps, no temple, no flowers, no text, no letters, no numbers
 - **awakened** — *awake, not asleep. Here it means: a person who sees life clearly.*
 
 ### Huvudbild
@@ -84,6 +88,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **luxury** — *many fine and expensive things*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a low carved wooden table in ancient India covered with many fine things: folded silk cloths in bright red, blue and green, a long string of white pearls, a small carved sandalwood box, a polished silver bowl with a simple flower pattern and a small polished bronze mirror, all lying on a soft cushion. Plain pale wall behind it and warm light, no people, no food, no gold coins, no heaps of gold, no crown, no modern jewellery or watches, no cut diamonds, no patterns that look like writing, no text, no letters, no numbers
 - **opposite** — *the other side of something. Hot is the opposite of cold.*
 - **suffering** — *pain in the body or the heart*
 
@@ -133,6 +139,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **caste** — *a fixed group of people. You are born into it.*
 - **priest** — *a person who leads people in their religion*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a priest of ancient India leading a ritual: an older man with medium-brown skin and short dark hair, in a plain white cloth wrapped around his waist and another over one shoulder, sitting cross-legged beside a small square clay fire pit with a low flame and pouring melted butter from a long wooden ladle, a small brass pot beside him. Open courtyard of packed earth in warm daylight, only this one man, no temple, no statues, no halo, no church, no cross, no turban, no crowd, no tree, no text, no letters, no numbers
 - **nun** — *a woman who lives a simple religious life*
 - **revolution** — *a big change in how people live or think*
 
@@ -185,6 +193,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **conquest** — *taking land from others by war*
 - **regret** — *a sad feeling about something you did*
 - **trade road** — *a road that people use to carry things to sell, from land to land*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an ancient trade road through dry hills in Asia: a line of pack oxen carrying bundles of cloth and clay jars, one two-wheeled wooden ox cart, and two merchants with medium-brown skin in plain knee-length tunics and cloth head wraps walking beside them. A wide dusty road bends away into the distance under a clear sky, no cars, no trucks, no paved road, no road signs, no horse saddles with stirrups, no soldiers, no tents, no flags, no map, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -231,6 +241,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **monk** — *a man who lives a simple religious life in a group*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a monk of ancient India sweeping a bare courtyard of packed earth with a broom of bundled twigs in the early morning: a lean man with medium-brown skin and a shaved head, in a long plain undyed cream cotton robe, alone, with a low plain wall and a few trees behind him in soft light. No other people, no group, no books, no statues, no altar, no halo, no orange robe, no modern clothes, no tourists, no text, no letters, no numbers
 - **recite** — *to say a text aloud from memory*
 - **scholar** — *a person who studies a subject very deeply*
 - **mindfulness** — *training to notice calmly what happens in your mind and body right now*

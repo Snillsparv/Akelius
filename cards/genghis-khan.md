@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Djingis khan. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 5 har bara text i ordförklaringarna, eftersom inget ord går att visa entydigt i en bild: source och report är textbärare som kräver läsbar skrift och skulle upprepa kortets bilder av böcker och en skrivande resenär, conquer skulle kräva en krigsscen och barbarian är ett nedsättande epitet som inte får bli en stereotyp bild.
 
 ---
 
@@ -34,6 +35,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **grassland** — *big open land where grass grows*
 - **felt** — *thick cloth made of pressed wool*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a thick, folded piece of off-white pressed wool felt lying on a plain wooden table, with a small loose tuft of raw sheep wool next to it, the matted wool fibres of the felt clearly visible in soft daylight. Only the felt and the wool: no tent, no yurt, no animals, no sewing needle or machine, no colourful patterns, no modern objects, no text, no letters, no numbers
 - **clan** — *a big group of families that belong together*
 - **title** — *a special name for a ruler or an important person*
 
@@ -84,6 +87,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **empire** — *many lands and many people under one ruler*
 - **station** — *a stop-place on a long road*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a medieval horse relay stop on a long dusty dirt road in Central Asia: a low, plain, flat-roofed mud-brick building with a wooden rail in front, where five saddled horses stand tied and resting, with open dry grassland behind them. Warm daylight, no people, no galloping rider, no railway, no train, no bus stop, no cars, no petrol pump, no signs, no flags, no tourists, no text, no letters, no numbers
 - **messenger** — *a person who carries a message*
 
 ### Huvudbild
@@ -133,8 +138,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **strict** — *very firm; the rules must be followed*
 - **herder** — *a person who keeps and moves animals, like sheep or horses*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a herder, a man with light-brown skin and black hair, in a long belted coat of rough dark-blue wool with a tied sash, a soft felt cap and tall brown leather boots, walking behind a flock of sheep and goats along a green grassy slope and holding a long wooden staff. Warm daylight, timeless scene: no modern jacket, no baseball cap, no motorbike, no car, no rifle, no plastic, no power lines, no fences, no tents, no soldiers, no text, no letters, no numbers
 - **commander** — *a leader of soldiers*
 - **craft worker** — *a person who makes things with their hands, like pots, cloth, or tools*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the hands and forearms of a craft worker with light-brown skin, in rolled-up sleeves of a plain undyed wool shirt, shaping a wet clay pot on a simple hand-turned wooden wheel, with two finished clay pots standing on a wooden plank beside it. Soft daylight in a plain mud-walled workshop, no electric wheel, no electric lamp, no modern studio, no plastic, no metalwork, no hammer, no cup, no shop sign, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -182,6 +191,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **trade** — *buying and selling things*
 - **goods** — *things people buy and sell*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a plain wooden table with a neat heap of things to sell: three folded bolts of plain deep-red and blue silk cloth, a small stack of plain white porcelain bowls with no painted decoration, and a few small tied cloth bags of dried spices, in soft daylight. Only the goods: no people, no camels, no crowd, no clay pots, no coins, no price tags, no signs, no plastic, no cardboard boxes, no modern packaging, no shop shelves, no text, no letters, no numbers
 - **deadly** — *so dangerous that people die from it*
 
 ### Huvudbild

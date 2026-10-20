@@ -35,7 +35,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **capital** — *the main city of a land, where the ruler lives*
 - **harbor** — *a safe place by the water where ships can stop*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a large sheltered harbor full of old-fashioned wooden ships with furled sails and a few small oared boats, tied along a long curved stone quay with stacked plain unmarked wooden crates and barrels, calm blue-green water and low stone buildings behind, warm morning light. No people, no modern ships, no motorboats, no cranes, no lighthouse, no tourists, no flags, no signs, no ship names, no text, no letters, no numbers
 - **silk** — *a fine, soft cloth that costs very much, first made in China*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long length of shiny deep red silk cloth lying in soft smooth folds on a plain pale wooden table, with one smaller folded piece of blue silk beside it, soft window light making the cloth gleam. Only cloth and table, no people, no pattern, no embroidery, no tassels, no labels, no price tags, no modern objects, no text, no letters, no numbers
 - **mosaic** — *a picture made of many small colored stones*
 
 ### Huvudbild
@@ -85,7 +89,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **dome** — *a round roof, like the top half of a ball*
 - **emperor** — *the ruler of an empire*
 - **mosque** — *a building where Muslims pray*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small modest whitewashed village mosque seen from the front across an empty sandy courtyard: one low round dome, one slender pointed minaret with a small balcony, plain undecorated white walls, a plain arched doorway and one tall green tree, under a clear blue sky in warm daylight. No people, no tile bands, no ornament friezes, no calligraphy, no pseudo-writing, no inscriptions, no flags, no banners, no loudspeakers, no cars, no tourists, no signs, no text, no letters, no numbers
 - **museum** — *a building where people can look at old and important things*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a quiet museum hall with no visitors: tall glass display cases holding old clay pots, a bronze bowl and small carved stone animals, one large clay jar on a plain pedestal, soft spotlights on pale walls and a polished wooden floor. No people, no statues of people, no religious images, no paintings, no signs, no labels, no information boards, no exit signs, no screens, no phones, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -132,9 +140,13 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **mess** — *many things mixed up, without order*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a jumbled heap of mixed-up everyday things thrown together on a plain stone floor: tangled rope, wooden spoons, clay bowls, scraps of cloth and a few tipped-over baskets, no order at all, soft daylight. No scrolls, no books, no paper, no people, no modern objects, no plastic, no text, no letters, no numbers
 - **expert** — *a person who knows very much about one thing*
 - **opposite** — *totally different; the other way around*
 - **foundation** — *the strong part under a building; here: the base that something stands on*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the stone foundation of a new building seen from the side: a deep trench with large squared pale stone blocks laid in tight even rows, the first low courses of a wall rising from them, bare earth around and a wooden plank and a coil of rope beside the trench. No workers, no scaffolding, no cranes, no machines, no concrete, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -181,6 +193,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **scribe** — *a person whose work is to copy books by hand*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an empty slanted wooden writing desk of the Middle Ages in soft side light from a window: one blank sheet of cream parchment held flat by a small stone weight, a goose-feather quill, a small clay inkpot with dark ink, a plain unmarked wooden straightedge and a small knife for sharpening the quill. Only the desk and these tools, no hands, no people, no writing on the sheet, no books, no modern pens, no lamps, no text, no letters, no numbers
 - **scholar** — *a person who studies and knows very much*
 - **philosophy** — *thinking hard about life, truth, and right and wrong*
 - **Renaissance** — *a time in Europe when art and learning grow fast; the word means 'rebirth'*
@@ -231,6 +245,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **scholar** — *a person who studies and knows very much*
 - **print** — *to make many copies of a book with a machine*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an old wooden hand printing press in a small workshop of the 1500s: a tall wooden frame with a big wooden screw and a flat plate on top, a flat bed below, a neat stack of blank white sheets of paper on a wooden bench beside it, plain wooden floor and warm window light. No people, no printed pages, no loose letter blocks, no modern machines, no electric lights, no text, no letters, no numbers
 - **neutral** — *not taking any side*
 
 ### Huvudbild

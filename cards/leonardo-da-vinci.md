@@ -36,6 +36,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **apprentice** — *a young person who learns a job from a master*
 - **workshop** — *a room where people make things with their hands*
 - **portrait** — *a painting of a person*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a framed oil painting hanging on a bare cream plaster wall, showing the head and shoulders of a middle-aged man with medium-brown skin, short black hair and a plain dark collarless jacket, looking straight out with a calm face, painted against a plain dark-green background, in a simple dark wooden frame in soft daylight. Only this one painting, with no beard, no hat, no cap, no robe, no old Italian clothes, no woman, no smile, no landscape, no famous painting, no gold frame, no signature, no museum label, no visitors, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -84,8 +86,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **notebook** — *a small book with empty pages for writing and drawing*
 - **mirror** — *glass in which you can see yourself*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a standing oval mirror with a plain carved dark wooden frame, leaning on a wooden table in a calm room with a bare plaster wall, with a clay jug of green branches on the table in front of it and clearly reflected in the clean glass. Soft daylight. Only the mirror, the table and the jug, with no person, no face, no hand, no book, no paper, no bathroom, no tiles, no lamp, no cracks, no modern objects, no text, no letters, no numbers
 - **curious** — *wanting very much to know things*
 - **smear** — *to make wet ink dirty by touching it*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a close-up of a fingertip with medium-brown skin dragging across a single fresh stroke of wet black ink on cream paper, so the ink is pulled into a blurred dark smudge with a streak behind the finger. Only the finger, the smudged ink and the paper, with no writing, no pen, no feather, no book, no blood, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -133,7 +139,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **muscle** — *a part of the body that moves your bones*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the bare lower leg and foot of a barefoot runner with dark-brown skin, seen from the side while standing on the toes on a dirt path, so the strong calf muscle stands out clearly under the skin, against a calm blurred green background in soft daylight. Only the lower leg and the foot, with no face, no arm, no hand, no shoes, no socks, no tattoo, no wound, no bandage, no running track, no oil shine, no modern objects, no text, no letters, no numbers
 - **vein** — *a thin tube that carries blood in the body*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a close-up of the inside of a light-skinned forearm just above the wrist, resting on a plain wooden table, with a few thin blue-green veins faintly visible through the thin skin, in soft daylight, the hand and fingers outside the picture. Calm and gentle like a science picture, with no hand, no drawing, no paper, no blood, no needle, no bandage, no wound, no medical equipment, no ring, no watch, no tattoo, no modern objects, no text, no letters, no numbers
 - **womb** — *the place inside a mother where a baby grows*
 - **anatomy** — *the science of how the body is built*
 
@@ -184,8 +194,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **engineer** — *a person who plans and builds machines, roads, or bridges*
 - **canal** — *a river dug by people, for boats or water*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a straight narrow canal with stone-lined banks running through flat green farmland, calm green-brown water, a dirt path with a few poplar trees along one side, and one small flat-bottomed wooden boat tied to the bank. Soft daylight and a peaceful mood. No river bends, no waterfall, no lock gate, no bridge, no town, no people, no motor boat, no cars, no signs, no modern objects, no text, no letters, no numbers
 - **beastly** — *wild and cruel, like a dangerous animal*
 - **parachute** — *a big cloth that lets a person fall slowly and safely*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of an open round parachute with a wide canopy of white and orange cloth panels coming down gently low over a wide green meadow, with thin lines running down to an anonymous person in plain dark clothes seen from behind, the feet just above the grass. The round canopy fills the upper half of the picture, with no pyramid shape, no high empty sky, no airplane, no helicopter, no balloon, no logo, no crowd, no city, no buildings, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -234,8 +248,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **collector** — *a person who buys and keeps old or rare things*
 - **scholar** — *a person who studies books deeply*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a middle-aged woman scholar with medium-brown skin, short grey hair and simple reading glasses, in a plain dark cardigan, sitting at a long wooden library table and reading a thick old book, seen from the side so that no page is visible, with tall shelves of plain brown leather books softly blurred behind her in soft daylight. Only this one person, with no old Italian clothes, no cap, no beard, no white gloves, no light table, no loose sketch pages, no map, no computer, no phone, no readable book spines, no text, no letters, no numbers
 - **genius** — *a person with a very great mind*
 - **scattered** — *spread out to many different places*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of many brown and yellow autumn leaves scattered far apart over a wide green lawn, seen from above, with single leaves lying here and there across the whole picture and no piles. Soft daylight and a calm mood. No trees, no people, no paths, no rake, no paper, no flowers, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 

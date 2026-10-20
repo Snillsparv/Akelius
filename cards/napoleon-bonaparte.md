@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Napoleon Bonaparte. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amerikanska revolutionen, franska revolutionen och industriella revolutionen; etiketten "revolutions" pekar inte ut vilken revolution eller person som är svaret. Frasen "the revolution in France" används exakt en gång, i kort 1, som kontext; kort 5 talar om "the revolution" utan att namnge den, och ledtrådskedjan från franska revolutionen återberättas inte. Namnen Napoleon och Bonaparte, samt formen "Napoleonic", förekommer aldrig i elevtext, titel, bildtext eller ordlista; hans lagbok kallas alltid "his book of laws", aldrig vid sitt egentliga namn. Washington namnges inte i löptexten. Stenen med tre skrifter beskrivs men visas aldrig läsbar i bild: den hittas av soldater i en fästningsmur vid Nilen, inte vid tempel. Myten om kort växt markeras som myt. Reträtten från Ryssland skrivs utan "general vinter"-myten: sjukdom, hunger och strid tar det mesta av armén före kylan. Bilder: aldrig tvåkornshatt, aldrig en hand i västen, aldrig ett igenkännbart porträtt eller en känd målning, ingen ångpress.
+Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amerikanska revolutionen, franska revolutionen och industriella revolutionen; etiketten "revolutions" pekar inte ut vilken revolution eller person som är svaret. Frasen "the revolution in France" används exakt en gång, i kort 1, som kontext; kort 5 talar om "the revolution" utan att namnge den, och ledtrådskedjan från franska revolutionen återberättas inte. Namnen Napoleon och Bonaparte, samt formen "Napoleonic", förekommer aldrig i elevtext, titel, bildtext eller ordlista; hans lagbok kallas alltid "his book of laws", aldrig vid sitt egentliga namn. Washington namnges inte i löptexten. Stenen med tre skrifter beskrivs men visas aldrig läsbar i bild: den hittas av soldater i en fästningsmur vid Nilen, inte vid tempel. Myten om kort växt markeras som myt. Reträtten från Ryssland skrivs utan "general vinter"-myten: sjukdom, hunger och strid tar det mesta av armén före kylan. Bilder: aldrig tvåkornshatt, aldrig en hand i västen, aldrig ett igenkännbart porträtt eller en känd målning, ingen ångpress. Kort 4 har inga ordbilder: colonies, enslaved, independent och myth är abstrakta begrepp utan entydig bild, och slaveriet visas redan återhållsamt i sidobilden, så alla fyra ord visas som text.
 
 ---
 
@@ -36,6 +36,8 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 - **officer** — *a leader in the army, with soldiers under his command*
 - **cannons** — *big heavy guns that shoot iron balls far away*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of two old cannons with long bronze barrels on dark green wooden carriages with big spoked wheels, standing side by side on a grassy hilltop and seen from the side at a slight angle so the long barrels, the carriages and the wheels are all clearly visible, in soft overcast daylight. There is no person, no stack of cannonballs, no fort, no ship, no modern artillery, no tank, no flags, no markings, no text, no letters, no numbers
 - **revolution** — *a fast, big change in a country's rulers and rules*
 - **rank** — *your level or position in an army or a group*
 
@@ -86,6 +88,8 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 - **coup** — *a sudden takeover of power, often fast and by surprise*
 - **ceremony** — *a special formal event that marks an important moment*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three young graduates in plain black gowns and square black caps, a Black young woman, a South Asian young man and a white young woman, standing in a row on a small outdoor stage in warm daylight while an older person with grey hair in a plain dark robe hands the first graduate a rolled certificate tied with a ribbon. The mood is calm, proud and formal, with no audience in the picture, no church, no crown, no banners, no signs, no flags, no emblems, no phones, no cameras, no readable writing, no text, no letters, no numbers
 - **emperor** — *a ruler above kings, who rules a very large land or many lands*
 - **property** — *things or land that belong to a person by law*
 
@@ -136,6 +140,8 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 
 - **retreat** — *when an army stops fighting and moves back*
 - **throne** — *the special seat and power of a king or emperor*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one empty throne, a tall carved wooden chair with a high back, plain deep red velvet seat and gilded armrests, standing alone on a low platform of three stone steps in a large bare hall with pale stone walls and soft light from one side window. There is no person, no crown, no eagle, no bees, no monogram, no fleur-de-lis, no coat of arms, no flags, no banners, no tourists, no ropes, no signs, no modern objects, no text, no letters, no numbers
 - **defeat** — *when you lose a battle or a fight*
 - **unite** — *to join together for one purpose*
 
@@ -238,6 +244,8 @@ Not (ej elevvänd): kategorin är `revolutions`, delad i denna leverans med amer
 - **memoirs** — *a book where a person writes the story of their own life*
 - **loyal** — *always faithful and supportive, especially to a leader*
 - **generations** — *large groups of people born and living around the same time*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three people from one family sitting close together on the wooden steps of a house in soft afternoon light: a white-haired grandfather of about seventy, his adult son of about forty and a small grandson of about six, all with light brown skin and black hair and all wearing plain everyday cotton clothes in muted colours, so the three clear ages are easy to see. They smile calmly at each other, with no other people, no animals, no phones, no logos, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 

@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Karl Marx. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `ideas`, inte `revolutions`, för att skilja setet från industriella revolutionen-setet i samma leverans. Orden Marx, marxist och marxism används aldrig i elevvänd text, korttitel, bildtext eller ordlista. Fraserna Industrial Revolution och ordet industrial undviks helt, liksom Cold War och världskrigen, se ämnesnoterna: skriv i stället the new factories, the mills of Manchester och later states in Russia and China take his name. Charles Darwin namnges aldrig i setet. Friedrich Engels namnges rakt ut som bifigur på kort 1 och 5 och är distraktor på kort 1, 3, 4 och 5, eftersom han inte är svaret och distraktorn kräver att eleven skiljer honom från Mr X. På kort 2 skriver båda männen boken, därför står där "his friend from Manchester" och Engels är inte distraktor. Exilhistorien berättas bara på kort 4; kort 1 har en enda kontextrad om den. Årtal: högst ett exakt årtal per kort, 1848 står bara i kort 2. Bilder: inget igenkännbart skäggigt porträtt, ingen känd fotografisk bild, inga hammare-och-skära-symboler, inga röda fanor med text, ingen staty av honom, personer alltid anonyma, bakifrån eller på avstånd; inga tidslinjer, bokryggar, skyltar eller läsbara gravstenar som motiv.
+Not (ej elevvänd): kategorin är `ideas`, inte `revolutions`, för att skilja setet från industriella revolutionen-setet i samma leverans. Orden Marx, marxist och marxism används aldrig i elevvänd text, korttitel, bildtext eller ordlista. Fraserna Industrial Revolution och ordet industrial undviks helt, liksom Cold War och världskrigen, se ämnesnoterna: skriv i stället the new factories, the mills of Manchester och later states in Russia and China take his name. Charles Darwin namnges aldrig i setet. Friedrich Engels namnges rakt ut som bifigur på kort 1 och 5 och är distraktor på kort 1, 3, 4 och 5, eftersom han inte är svaret och distraktorn kräver att eleven skiljer honom från Mr X. På kort 2 skriver båda männen boken, därför står där "his friend from Manchester" och Engels är inte distraktor. Exilhistorien berättas bara på kort 4; kort 1 har en enda kontextrad om den. Årtal: högst ett exakt årtal per kort, 1848 står bara i kort 2. Bilder: inget igenkännbart skäggigt porträtt, ingen känd fotografisk bild, inga hammare-och-skära-symboler, inga röda fanor med text, ingen staty av honom, personer alltid anonyma, bakifrån eller på avstånd; inga tidslinjer, bokryggar, skyltar eller läsbara gravstenar som motiv. Ordbilder: kort 3 har bara text i ordförklaringarna, eftersom profit, value och surplus är abstrakta ekonomibegrepp som bara går att visa med mynt och symboler, vilket sidobilden redan gör, och inget av dem går att visa entydigt i en bild.
 
 ---
 
@@ -36,7 +36,11 @@ Not (ej elevvänd): kategorin är `ideas`, inte `revolutions`, för att skilja s
 
 - **government** — *the group of people who rule a country*
 - **cotton** — *a soft plant fibre used to make cloth*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one green cotton branch with three open seed pods, each bursting with a soft white fluffy ball of cotton, in a field at harvest time in warm daylight with the background softly blurred. No sheep, no wool, no hands, no baskets, no cloth, no machines, no text, no letters, no numbers
 - **mill** — *a big factory, here one that spins cotton into thread*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of the inside of a large cotton spinning mill of the 1850s, a long wooden-floored hall with tall arched windows and two long rows of cast-iron spinning machines holding hundreds of spools of white cotton thread, with leather belts running up to iron shafts under the ceiling. Soft daylight and a little white cotton fluff in the air. No people, no electric lights, no modern machines, no computers, no forklifts, no chimneys, no signs, no maker's plates, no clocks, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -86,6 +90,8 @@ Not (ej elevvänd): kategorin är `ideas`, inte `revolutions`, för att skilja s
 - **struggle** — *a hard fight to get or keep something*
 - **class** — *a group of people with a similar place in society*
 - **unite** — *to join together as one group*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of five people of different ages and skin tones, seen from behind, standing side by side on a grassy hilltop with their arms linked at the elbows and looking out over a wide green valley. Two have dark-brown skin, two have light-brown skin and one has light skin, and all wear plain everyday clothes in muted colours, in soft daylight. No flags, no banners, no raised fists, no uniforms, no rope, no signs, no logos, no crowd, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -183,6 +189,8 @@ Not (ej elevvänd): kategorin är `ideas`, inte `revolutions`, för att skilja s
 - **editor** — *a person who runs a newspaper and decides what it prints*
 - **exile** — *living away from your home country, often because you cannot go back*
 - **noble** — *belonging to a family of high rank*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a gentleman with light skin in a light-grey tailcoat and a lady with light skin in a wide-skirted pale silk gown with a lace collar, standing side by side on the gravel drive in front of a stately country manor house in Germany in the 1840s, with a plain horse-drawn carriage waiting behind them. Soft daylight. No modern cars, no tourists, no knights, no armour, no crowns, no coats of arms, no flags, no ruined castle, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -230,6 +238,8 @@ Not (ej elevvänd): kategorin är `ideas`, inte `revolutions`, för att skilja s
 ### Ordförklaringar (marginal)
 
 - **famine** — *a time when many people have little or no food*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of five empty wooden bowls with five wooden spoons set out in a row on a bare rough wooden table in a plain village house, beside an empty clay cooking pot and a flat empty grain sack, in dim grey window light. The bowls and the pot are clean and completely empty, with no food anywhere in the room, quiet and still. No people, no hands, no bones, no skeletons, no flies, no cracked earth, no flags, no plastic, no modern objects, no signs, no text, no letters, no numbers
 - **movement** — *a group of people who work together for one big idea*
 - **economist** — *a person who studies money, work, and trade*
 - **crisis** — *a very hard and dangerous time, often in money or the economy*

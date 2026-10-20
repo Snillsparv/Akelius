@@ -34,9 +34,13 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **soil** — *the earth on the ground where plants grow*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small mound of dark brown crumbly earth on bare ground, with one young green seedling growing out of the top, in soft daylight. No hands, no flower pots, no garden tools, no plastic bags, no fences, no modern objects, no text, no letters, no numbers
 - **city-state** — *a city with its own laws and leaders, like a small country*
 - **agora** — *the open market square in the middle of the city*
 - **marble** — *a hard, shiny stone for fine buildings*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one rough-cut block of white marble with fine grey veins, one face polished smooth and shiny and the other faces left rough, resting on bare dusty ground in soft daylight. No columns, no temple, no statue, no carved shapes, no kitchen counter, no floor tiles, no tools, no people, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -84,6 +88,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **vote** — *to say your choice when a group decides something*
 - **by lot** — *chosen by chance, like pulling a name from a hat*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a close view of one light-brown-skinned man's bare forearm and hand, in the short sleeve of a plain undyed wool tunic of 5th century BC dress, reaching into a large plain clay jar and lifting out one small blank wooden token, with several identical blank tokens visible inside the jar. Only the arm and the jar are shown, no other people, no coins, no dice, no paper slips, no hat, no modern objects, no marks on the tokens, no text, no letters, no numbers
 - **slave** — *a person who is not free and is owned by another person*
 - **democracy** — *the people rule: the people of a land decide together*
 
@@ -133,6 +139,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **mask** — *a false face you wear over your own face*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single large ancient theatre mask made of painted stiffened linen, with a calm neutral face, big open eye holes, an open mouth and dark curled painted hair, standing on a small wooden stand against a plain pale wall and turned slightly to the side, so that it is clearly a thin hollow shell and not a solid head. No second mask, no sculpted head or bust, no real human face, no modern plastic, no carnival feathers, no glitter, no stage, no audience, no text, no letters, no numbers
 - **tragedy** — *a serious, sad play*
 - **comedy** — *a funny play*
 - **actor** — *a person who plays someone else in a play*
@@ -183,6 +191,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **city-state** — *a city with its own laws and leaders, like a small country*
 - **quarrel** — *to argue and fight with each other*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of two olive-skinned men with short dark hair and beards, in 5th century BC dress of knee-length wool tunics, draped wool cloaks and leather sandals, standing face to face in an empty dusty courtyard with open mouths and raised pointing hands, clearly arguing but not touching. No weapons, no blood, no hitting, no crowd, no buildings with writing, no modern clothes, no text, no letters, no numbers
 - **honor** — *to show great respect for someone*
 - **colony** — *a new town that people from a city build in a faraway land*
 
@@ -231,7 +241,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **philosophy** — *the study of big questions about life and thinking*
 - **scribe** — *a person whose work is copying books by hand*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-brown-skinned man with a short dark beard, in a long plain dark blue wool tunic with long sleeves, Byzantine dress of the 10th century, seated at a sloped wooden desk and copying into a large hand-bound parchment book with a pointed reed pen, a small clay ink pot and a small clay oil lamp beside him, seen from the side with the page at a steep angle so that no writing is visible. No monk's habit, no hood, no feather quill, no crosses, no icons, no flags, no printing press, no modern objects, no readable marks on the page, no text, no letters, no numbers
 - **ruin** — *a broken old building*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the broken rough stone walls of a small roofless old building, half fallen down, with an empty doorway and grass and wild flowers growing between the stones, under a clear sky. No columns, no temple, no marble, no statues, no scaffolding, no tourists, no signs, no ropes, no modern buildings, no text, no letters, no numbers
 
 ### Huvudbild
 

@@ -34,7 +34,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **spices** — *parts of plants that give food a strong taste*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of four small plain round clay bowls in a row on a rough wooden table, each filled with one whole spice: black peppercorns, rolled cinnamon sticks, dried cloves and whole nutmegs, seen from slightly above in soft daylight. Nothing else on the table: no glass jars, no plastic, no metal tins, no labels, no price tags, no scales, no hands, no people, no chili peppers, no herbs or leaves, no text, no letters, no numbers
 - **workshop** — *a room where a master and helpers make things*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a fifteenth-century Italian artist's workshop: a young helper with light olive skin in a plain short tunic and long hose grinds colored powder on a flat stone slab at a long wooden workbench, while an older master with light olive skin in a long dark-red robe and soft round cap stands beside him. On the bench stand brushes in clay cups and small clay pots of colored powder, and warm light falls from a small square window. No modern tools, no electric lamps, no easel, no tubes of paint, no finished painting, no ships, no port, no text, no letters, no numbers
 - **master** — *a fully trained artist or craftsman who teaches others*
 - **dome** — *a round roof, like half a ball*
 
@@ -84,7 +88,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **scholar** — *a person whose work is studying and learning*
 - **monastery** — *a house where monks live, work, and pray*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a plain old stone monastery on a green hillside in Italy, a long low building with thick stone walls, small dark windows, a red tiled roof and a simple stone bell tower, with olive trees around it and a dirt path leading to a closed wooden gate. Quiet soft daylight, no people, no tourists, no cars, no signs, no flags, no modern buildings, no power lines, no big church dome, no arcade or cloister, no text, no letters, no numbers
 - **monk** — *a religious man who lives simply in a monastery*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a monk in fifteenth-century Italy, a man with light olive skin and a small round shaved patch on top of his head, in a plain brown hooded robe tied with a white rope belt and simple leather sandals, standing calmly with his hands folded in front of him on a garden path. Neat vegetable beds and a plain stone wall behind him, soft daylight, no book, no writing, no halo, no gold, no weapon, no big cross, no modern clothes, no bookshelves, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -132,7 +140,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **panel** — *a flat piece of wood that artists paint on*
 - **architect** — *a person who plans and designs buildings*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a fifteenth-century Italian architect, a man with light olive skin in a long dark-green robe and a soft round cap, standing at a plain wooden table and holding a pair of iron dividers, a compass with two pointed legs, over a small wooden model of a house with a pitched roof, a rolled paper plan lying beside the model. Plain stone wall behind him, soft daylight from the side, no hard hat, no modern blueprint, no computer, no scaffolding, no dome, no arches, no ruler and strings, no painting, no text, no letters, no numbers
 - **shadow** — *the dark place where light does not reach*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the long dark shadow of one standing person stretched across smooth pale sand in low evening sunlight, seen from above, with a clear outline of the head, arms and legs, and only the person's two bare feet with medium-brown skin visible at the bottom edge where the shadow begins. The shadow is the main subject and fills most of the picture: no rest of the person, no other people, no other objects, no footprints, no water, no phone or camera in the shadow, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -179,6 +191,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **press** — *a machine that pushes ink onto paper*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an old wooden hand printing press of the fifteenth century: a heavy wooden frame, a thick wooden screw with a long wooden handle bar, and a flat wooden bed holding one clean blank sheet of paper. Plain workshop room with a stone wall, soft daylight from a small window, no people, no museum signs, no ropes or barriers, no metal letters or type, no printed pages, no modern machine, no electric parts, no rollers, no text, no letters, no numbers
 - **movable** — *easy to move and use again in a new place*
 - **humanist** — *a scholar who studies language, history, and poetry*
 - **source** — *the oldest text, where an idea first comes from*
@@ -228,6 +242,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **historian** — *a person who studies and writes about the past*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a historian, an older woman with dark brown skin and short grey hair in a plain cream blouse and dark cardigan, sitting at a wooden table in a quiet bright room and resting both hands on the plain cover of one old closed leather book, with two more closed old books stacked beside her, looking at the book thoughtfully. Plain pale wall behind her, soft daylight, no open pages, no shelves, no titles on the covers, no computer, no notebook, no globe, no lamp, no glasses, no museum labels, no text, no letters, no numbers
 - **doubt** — *to not feel sure that something is true*
 - **continuity** — *when life goes on without a sharp change*
 

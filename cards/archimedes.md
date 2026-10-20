@@ -36,8 +36,12 @@ Not (ej elevvänd): Kategori `mathematics`. Distraktorer per kort ur poolen Eucl
 ### Ordförklaringar (marginal)
 
 - **screw** — *a piece of metal or wood that turns round and round and moves things as it turns*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one single long steel screw with a round slotted head, lying on its side on a plain light wooden surface and seen from the side so that the spiral thread winding round the shaft is clearly visible. No screwdriver, no hands, no other screws, no nuts, no packaging, no tools, no text, no letters, no numbers
 - **tube** — *a long, hollow, round object, like a pipe*
 - **lever** — *a bar or stick that helps you lift or move heavy things*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long wooden plank balanced on a round log on bare dry ground, tilted so that a small stone on the far end of the long arm presses it down while a big heavy boulder on the short end near the log is lifted into the air. No people, no hands, no metal parts, no seesaw seats or handles, no modern objects, no text, no letters, no numbers
 - **huge** — *very, very big*
 
 ### Huvudbild
@@ -86,6 +90,8 @@ Not (ej elevvänd): Kategori `mathematics`. Distraktorer per kort ur poolen Eucl
 ### Ordförklaringar (marginal)
 
 - **crown** — *a gold ring worn on the head by a king or a queen*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a plain gold crown with a round band and pointed tips, resting upright on a folded dark cloth cushion in soft light. No jewels, no cross, no emblem, no coat of arms, no flag, no person, no hands, no modern objects, no text, no letters, no numbers
 - **pure** — *not mixed with anything else*
 - **defend** — *to fight to protect a place from attack*
 - **general** — *the leader of an army*
@@ -139,6 +145,8 @@ Not (ej elevvänd): Kategori `mathematics`. Distraktorer per kort ur poolen Eucl
 - **volume** — *how much space is inside a shape*
 - **proof** — *facts and steps that show an idea must be true*
 - **tomb** — *a place where a dead person is buried*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an old plain stone tomb, a long rectangular block of weathered limestone with a flat heavy slab on top, standing alone in dry grass in a quiet burial ground in soft evening light. Nothing at all is carved on it. No other graves, no headstones, no statues, no columns, no cross, no flowers, no people, no signs, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -185,6 +193,8 @@ Not (ej elevvänd): Kategori `mathematics`. Distraktorer per kort ur poolen Eucl
 ### Ordförklaringar (marginal)
 
 - **grain** — *one tiny piece, like one small piece of sand*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small heap of pale sand seen very close up on a flat dark slate stone, with a few single grains lying apart from the heap, each grain separate and sharp in soft side light. No hands, no beach, no waves, no shells, no footprints, no marks or shapes in the sand, no text, no letters, no numbers
 - **universe** — *all of space, with every star and every world*
 - **scholar** — *a person who studies and learns deeply*
 - **claim** — *something a person says is true*
@@ -234,8 +244,12 @@ Not (ej elevvänd): Kategori `mathematics`. Distraktorer per kort ur poolen Eucl
 ### Ordförklaringar (marginal)
 
 - **scribe** — *a person whose job is to copy text by hand*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a tenth century Byzantine scribe, an olive-skinned man with a short dark beard in a long plain blue wool tunic with long sleeves, seen from behind and a little from the side as he sits on a wooden stool at a tall slanted wooden desk in a bright whitewashed stone room, copying by hand with a pointed reed pen from an open old book on a stand beside the desk, a small clay inkpot next to him. Both books are seen from far at a steep angle so their pages show only faint grey lines, and his face is turned away. No close-up of hands, no monk's habit, no hood, no candle, no blade, no crosses, no icons, no printed books, no modern objects, no text, no letters, no numbers
 - **scrape** — *to rub something hard to remove its top layer*
 - **parchment** — *a material made from animal skin, used like paper for writing*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one thin pale cream animal skin, cleaned of all hair, stretched tight on a square wooden frame by many short cords tied around its edges, the frame standing upright to dry in bright daylight in a plain stone courtyard. Only the frame and the stretched skin, no animal head, no hooves, no fur, no blood, no people, no hands, no blade, no pen, no table, no candle, no writing, no modern objects, no text, no letters, no numbers
 - **faint** — *very weak and hard to see*
 
 ### Huvudbild

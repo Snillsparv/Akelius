@@ -34,7 +34,11 @@ Not (ej elevvänd): Kategori `africa`. Härskade omkring 1312 till 1337 över Ma
 ### Ordförklaringar (marginal)
 
 - **desert** — *a very hot, dry land with much sand and little water*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a single wind-rippled sand dune crest in a hot desert under a pale cloudless sky, with one lone dry thorny bush in the foreground and nothing else in sight. Harsh midday light, no animals, no people, no footprints or tracks, no oasis, no palm trees, no tents, no buildings, no roads, no vehicles, no modern objects, no text, no letters, no numbers
 - **camels** — *big desert animals that can carry heavy loads for many days*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of three one-humped dromedary camels resting close together on open sandy ground under a pale sky, each wearing only a plain rope halter, with no loads and no riders. Soft late light, calm and simple. No people, no tourists, no saddles, no metal fittings, no fences, no vehicles, no modern objects, no signs, no text, no letters, no numbers
 - **share** — *a part of a total amount*
 - **holy** — *very special and important in a religion*
 
@@ -86,6 +90,8 @@ Not (ej elevvänd): Kategori `africa`. Härskade omkring 1312 till 1337 över Ma
 - **caravan** — *a group of people and animals that travel together*
 - **tons** — *a huge amount of weight, many hundreds of kilograms*
 - **scholar** — *a person who studies and knows very much*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an elderly brown-skinned Egyptian scholar of the 1300s in a plain white turban and a plain long cream robe, seen from the side, standing in a quiet library room and lifting one thick leather-bound book from low wooden shelves where closed books lie flat in neat stacks, with a clay oil lamp on a low wooden table beside him. All books have plain brown leather covers without any lettering, and no page is open. No other people, no upright rows of book spines, no electric lights, no glasses, no printed books, no scrolls, no modern objects, no calligraphy, no pseudo-writing, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -134,6 +140,8 @@ Not (ej elevvänd): Kategori `africa`. Härskade omkring 1312 till 1337 över Ma
 - **scholars** — *people who study and know very much*
 - **mosque** — *a building where Muslims pray*
 - **scribes** — *people whose job is to copy books and letters by hand*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a Black West African scribe of the 1300s in a plain cream cotton robe and white turban, seen from behind and slightly from the side, sitting cross-legged on a woven reed mat in a plain mud-brick room and copying a book by hand with a reed pen, his shoulder and arm hiding the page. A small clay ink pot stands on the mat beside him and a neat stack of closed leather-bound books lies at his side. No second open book in view, no visible writing on any page or object, no calligraphy, no pseudo-writing, no printing press, no modern desk, no electric lamps, no glass, no ballpoint pens, no signs, no text, no letters, no numbers
 - **manuscripts** — *old books or papers written by hand*
 
 ### Huvudbild
@@ -183,6 +191,8 @@ Not (ej elevvänd): Kategori `africa`. Härskade omkring 1312 till 1337 över Ma
 - **generations** — *groups of people born around the same time, one after another*
 - **wealth** — *having a lot of money or valuable things*
 - **routes** — *roads or paths that people travel again and again*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three narrow footpaths of pale worn earth, seen from a low hill, that wind across a dry grassy plain and meet at one crossing in the distance, a few scattered thorn trees, soft evening light, empty and quiet. No people, no animals, no signposts, no tarmac roads, no vehicles, no poles or wires, no fences, no buildings, no modern objects, no text, no letters, no numbers
 - **historians** — *people who study the past to understand what happened*
 
 ### Huvudbild
@@ -233,6 +243,8 @@ Not (ej elevvänd): Kategori `africa`. Härskade omkring 1312 till 1337 över Ma
 - **sources** — *old texts or things that give us information about the past*
 - **chronicles** — *books that tell the events of the past year by year*
 - **mapmakers** — *people whose job is to draw maps*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-skinned European mapmaker of the 1300s in a plain dark wool tunic and soft cap, seen from the side at a large slanted wooden desk in a stone workshop, drawing with a quill pen on a big sheet of parchment that shows only a half-finished map of one imaginary coastline with a few small islands in thin plain ink lines, with a brass pair of dividers lying beside the sheet. Soft window light, calm and quiet. No labels or writing on the map, no figures, people, kings or animals on the map, no real continent shapes, no colours on the map, no compass rose, no globe, no ships, no flags, no printed maps, no modern instruments, no electric lamps, no text, no letters, no numbers
 - **records** — *written information that is kept and can be checked later*
 
 ### Huvudbild

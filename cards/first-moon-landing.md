@@ -34,8 +34,12 @@ Not (ej elevvänd): händelsen är Event X, frågan är alltid Which event is Ev
 ### Ordförklaringar (marginal)
 
 - **capsule** — *a small closed vehicle that carries people through space*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small cone-shaped space capsule from the late 1960s, with a rounded scorched heat shield at its wide base and a small round hatch near the top, resting on a plain metal stand in front of a plain pale wall. Metal and scorched surface only, no rocket, no launch tower, no people, no flags, no badges, no logos, no modern objects, no text, no letters, no numbers
 - **rocket** — *a tall machine that burns fuel to fly into space*
 - **footprints** — *marks left in the ground by feet*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a short line of bare human footprints pressed into smooth damp sand, seen from slightly above in soft morning light. Only the footprints and the sand, no people, no shoes or boot prints, no animals, no waves, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -83,6 +87,8 @@ Not (ej elevvänd): händelsen är Event X, frågan är alltid Which event is Ev
 ### Ordförklaringar (marginal)
 
 - **satellite** — *an object that circles a planet or a moon in space*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small satellite with a box-shaped metal body, two long flat solar panels and one round dish antenna, floating above the curved blue edge of the Earth against black space. One satellite only, no astronauts, no space station, no rocket, no flags, no logos, no country markings, no text, no letters, no numbers
 - **engineers** — *people who design and build machines*
 - **mathematician** — *a person who works with numbers and shapes*
 - **decade** — *a period of ten years*
@@ -135,6 +141,8 @@ Not (ej elevvänd): händelsen är Event X, frågan är alltid Which event is Ev
 - **overloads** — *takes in more signals or work than it can handle*
 - **commander** — *the person in charge of a crew*
 - **radio contact** — *a spoken link between two places, sent through the air*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a 1960s two-way radio set on a plain wooden desk, a grey metal box with two round dials with blank faces, a hand microphone on a coiled cord and an old pair of headphones beside it, a short metal rod antenna rising from the top of the box, plain pale wall behind. 1960s equipment only, no computers, no smartphones, no screens, no people, no flags, no logos, no labels, no text, no letters, no numbers
 - **splashes down** — *comes down and hits water at the end of a flight*
 
 ### Huvudbild
@@ -185,6 +193,8 @@ Not (ej elevvänd): händelsen är Event X, frågan är alltid Which event is Ev
 - **critics** — *people who say something is wrong or has faults*
 - **poverty** — *the state of being very poor*
 - **poet** — *a person who writes poems*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a wooden writing desk beside an open window, a fountain pen lying across a blank open notebook with empty pages, a single wildflower in a small glass jar, soft morning light. Plain everyday objects only, no laptop, no phone, no printed books, no writing on the pages, no people, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -233,6 +243,8 @@ Not (ej elevvänd): händelsen är Event X, frågan är alltid Which event is Ev
 - **kilograms** — *a unit used to measure how heavy something is*
 - **laser** — *a strong, narrow beam of light*
 - **reflect** — *to bounce back, the way light bounces off a mirror*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a perfectly still mountain lake at dawn that mirrors the pine forest and the mountains above it, the reflection on the water a clear upside down copy of the shore. Calm water and shore only, no boats, no people, no buildings, no Moon, no sun disc, no birds, no text, no letters, no numbers
 - **rival** — *a person or group competing against another*
 
 ### Huvudbild

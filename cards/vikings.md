@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Vikingarna. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 4 har bara text i ordförklaringarna, eftersom deed, society och inherit är abstrakta begrepp och runes är bokstäver, som inte får synas läsbara i någon bild och som kortets huvudbild redan visar på en runsten.
 
 ---
 
@@ -34,6 +35,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **sailor** — *a person who travels and works on a ship*
 - **shallow** — *not deep*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a clear, very shallow stream running over pale pebbles and sand, with the whole stream bed plainly visible and the tops of a few flat stones just above the water, between two low green grassy banks. Calm daylight and only the stream, no boats, no people, no animals, no bridge, no deep dark water, no waves, no modern objects, no signs, no text, no letters, no numbers
 - **trade** — *to buy and sell things*
 - **rob** — *to take things from people with force*
 
@@ -83,7 +86,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **trader** — *a person who buys and sells things*
 - **fur** — *the warm, hairy skin of an animal*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one thick, soft, reddish-brown fox fur pelt with the natural uneven outline of an animal skin and its long bushy tail, laid flat and seen from the hairy side only, on a plain rough wooden table, with the long fine hairs clearly visible in warm side light. Only the fur skin, no head, no paws, no blood, no live animal, no fur coat, no fashion items, no boat, no barrels, no modern objects, no text, no letters, no numbers
 - **amber** — *a hard, gold-colored material from old tree sap; people make beads and jewelry from it*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one rough nugget of translucent honey-gold amber, about the size of a walnut, lying on pale damp sand with a few small grey pebbles at the edge of a quiet sea, with soft light glowing through the amber. Only the one nugget, no jewelry, no beads, no necklace, no cloth, no shop, no people, no modern objects, no text, no letters, no numbers
 - **archaeologist** — *a person who digs in the ground to learn about the past*
 
 ### Huvudbild
@@ -132,8 +139,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **compass** — *a tool that always shows you which way is north*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one simple old-fashioned hand compass with a round brass case, a clear glass cover and a thin needle with a red tip, seen from directly above and resting on a flat grey stone in soft daylight. The dial is plain and blank apart from tiny tick marks, with no compass-point letters and no degree numbers. No map, no ship, no boat, no phone, no digital screen, no hand, no modern objects, no text, no letters, no numbers
 - **settle** — *to move to a new place and make your home there*
 - **hot spring** — *a place where hot water comes up out of the ground*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a natural hot spring, a small round pool of clear pale blue water steaming softly in dark volcanic rock, with white mineral stains around the edge and a little green moss and grass around it, in cool grey daylight. Only the pool and the steam, no people, no swimmers, no wooden walkways, no buildings, no fences, no signs, no erupting geyser, no lava, no swimming pool tiles, no modern objects, no text, no letters, no numbers
 - **remains** — *the parts of something old that are still there*
 
 ### Huvudbild
@@ -232,6 +243,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **victim** — *a person that something bad happens to*
 - **cruel** — *very unkind; a cruel person hurts others*
 - **costume designer** — *a person who makes the clothes for a play or a film*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a theatre costume workshop table with a dress form wearing a rich dark-red velvet theatre costume with puffed sleeves and a white lace collar, beside rolls of colorful cloth, big sewing scissors, spools of thread and a pin cushion, in warm lamp light. No person, no helmet, no hat, no horns, no armor, no weapons, no fur, no sketches or labels with writing, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 

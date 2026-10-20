@@ -38,6 +38,8 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 - **pope** — *the leader of the church in Rome*
 - **punishment** — *something bad that you must go through because you did wrong*
 - **monk** — *a religious man who lives a simple life and prays a lot*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-skinned old monk with a short white beard kneeling beside a narrow wooden bed in a bare whitewashed stone cell, hands folded in prayer, seen from the side, wearing a plain dark brown wool robe with a rope belt and a shaved crown of short white hair, with one small arched window letting in soft daylight and a plain wooden stool and a clay jug beside him. An anonymous calm man, not a portrait of any real person. No cross, no crucifix, no book, no candles, no statues, no paintings, no gold, no modern objects, no text, no letters, no numbers
 - **forgiveness** — *when God, or a person, stops being angry about a wrong thing you did*
 
 ### Huvudbild
@@ -87,8 +89,12 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 
 - **booklet** — *a small, thin book with only a few pages*
 - **press** — *a machine that pushes ink onto paper to make many copies*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a wooden hand printing press of the early sixteenth century standing in a plain workshop: a heavy upright wooden frame with a large wooden screw on top turned by a long wooden bar, a flat wooden bed below holding a small flat dark block, two dark leather ink pads on a small stand and a short stack of blank paper sheets beside it. No people, no printed pages, no metal letters in close detail, no machines with motors, no electric light, no modern objects, no text, no letters, no numbers
 - **translate** — *to say or write something again in another language*
 - **weaver** — *a person who makes cloth from threads*
+  - Visning: bild
+  - Ordbild: Simple clear illustration of a light-skinned man weaver of the early sixteenth century in Germany, in a plain brown wool tunic with rolled sleeves and a pale linen cap, sitting on a bench at a large wooden floor loom with foot pedals, rows of pale undyed wool threads stretched from a beam toward him and a half-finished band of plain woven cloth in front of him, passing a wooden shuttle through the threads with one hand. Plain wooden workshop wall, soft window light, one man only. No machines with motors, no factory, no electric light, no modern clothes, no patterned cloth, no signs, no tourists, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -136,6 +142,8 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 ### Ordförklaringar (marginal)
 
 - **bishop** — *a high church leader who leads all the churches in one region*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a bishop's tall pointed white and gold hat and a long curved golden staff, placed side by side on a plain dark wooden table in front of a plain bare stone wall, soft daylight from one side. Only the two objects, nothing else in the frame. No person, no cross, no emblem, no flowers, no candles, no robes, no modern objects, no text, no letters, no numbers
 - **monastery** — *a house where monks live, work, and pray*
 - **debt** — *money that you owe and must pay back*
 - **treaty** — *a written agreement between rulers or lands*
@@ -185,8 +193,12 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 ### Ordförklaringar (marginal)
 
 - **city council** — *the group of men who rule a city*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a city council of the sixteenth century: five light-skinned men in long dark wool gowns with fur collars and flat black caps sit around a long plain wooden table in a bare panelled room, while a sixth man stands and speaks with an open hand and the others listen. Tall window with soft daylight, empty table surface. No flags, no coats of arms, no banners, no weapons, no crosses, no papers, no books, no modern clothes, no modern objects, no text, no letters, no numbers
 - **preacher** — *a person who speaks about religion to a group of people*
 - **baptize** — *to pour water on a person, or dip the person in water, to make him or her a member of the church*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a baptism in a plain stone church of the sixteenth century: a light-skinned woman in a long plain dress and white head cloth holds a baby in a long white linen gown over a round stone basin on a stone stand, while a man in a plain dark gown pours a little water from a small metal jug over the baby's head. Calm quiet mood, soft daylight from a clear window, only these three people. No cross, no crucifix, no statues, no paintings, no candles, no gold, no crowd, no modern objects, no text, no letters, no numbers
 - **order** — *here: a group of priests or monks who live by the same rules*
 
 ### Huvudbild
@@ -237,6 +249,8 @@ Not (ej elevvänd): munken i Tyskland namnges inte, tryckaren i Mainz namnges in
 - **cause** — *the reason why something happens*
 - **conscience** — *the inner feeling that tells you what is right and wrong*
 - **lord** — *a powerful man who owns the land that farmers work on*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a rich landowner of sixteenth-century Germany, a light-skinned man in a long dark red wool coat with a wide fur collar and a flat velvet cap, standing alone on a low grassy hill and looking out over wide golden grain fields where tiny farmers in simple clothes work far in the distance, with a stone manor house with a steep tiled roof at the edge of the fields. Calm warm afternoon mood. No weapons, no soldiers, no horses, no carts, no castle, no coats of arms, no flags, no modern objects, no text, no letters, no numbers
 - **region** — *a part of a land, bigger than a town*
 
 ### Huvudbild

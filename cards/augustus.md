@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Augustus. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 3 har bara text i ordförklaringarna, eftersom title, princeps och republic är abstrakta begrepp och senate bara går att visa som senatorer i en sal, vilket skulle upprepa kortets huvudbild.
 
 ---
 
@@ -35,6 +36,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **great-uncle** — *the brother of your grandmother or grandfather*
 - **will** — *a paper that says who gets your money and things after your death*
 - **adopt** — *to take a child into your family as your own child, by law*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a man and a woman with medium-brown skin in plain undyed cotton clothes, kneeling at the open wooden door of a modest whitewashed stone house and holding out their arms to welcome a small child of about five with the same skin colour, who steps in carrying a small cloth bundle. A warm, happy moment in soft afternoon light. Only these three people, no courtroom, no judge, no papers, no baby, no crowd, no modern clothes, no cars, no signs, no text, no letters, no numbers
 - **emperor** — *like a king, but over many lands*
 
 ### Huvudbild
@@ -83,7 +86,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **civil war** — *a war between people of the same country*
 - **trader** — *a person who buys and sells things*
 - **brick** — *a small building block of baked clay*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a neat stack of plain rectangular red-brown baked clay bricks with rough sun-warmed surfaces, lying on bare dry earth in soft daylight. The bricks are solid with no holes through them. No wall, no mortar, no cement, no building, no wooden pallet, no machines, no tools, no people, no modern objects, no text, no letters, no numbers
 - **marble** — *a fine, shiny stone for beautiful buildings*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one thick slab of polished white marble with soft grey veins, leaning against a rough unpolished block of the same white stone, on bare ground in soft daylight. The polished face shines gently. No column, no statue, no temple, no building, no floor tiles, no kitchen counter, no tools, no people, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -178,6 +185,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **statue** — *a figure of a person, made of stone or metal*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a weathered bronze statue of a standing woman in a long draped robe, her hands resting at her sides and her face calm, on a low plain stone base in a quiet sunlit courtyard of pale stone. The bronze is dark golden-brown with soft green patches. Only this one statue, no armor, no raised arm, no torch, no tablet, no wings, no all-green copper colour, no marble, no crown, no wreath, no horse, no museum labels, no plaque, no people, no tourists, no modern objects, no text, no letters, no numbers
 - **golden age** — *a very good and happy time*
 - **advertising** — *pictures and words that try to sell something*
 - **propaganda** — *pictures, words, and art that try to control what people think*
@@ -227,6 +236,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **carve** — *to cut letters or pictures into stone or wood*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two hands with dark-brown skin holding a small curved chisel and cutting a simple leaf pattern into a flat block of pale wood, with fine curls of wood falling away, close up in warm workshop light. Only the hands, the chisel and the wood are shown. No hammer, no stone, no marble, no writing marks, no power tools, no sandpaper, no gloves, no modern objects, no text, no letters, no numbers
 - **dictator** — *in Rome, a leader who gets all power alone, for a short time, in an emergency*
 - **historian** — *a person who studies the past*
 - **source** — *a text or an object that gives us information about the past*

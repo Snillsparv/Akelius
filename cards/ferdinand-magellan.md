@@ -36,8 +36,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **strait** — *a narrow line of water between two pieces of land*
 - **spice** — *a dried plant part that gives food a strong taste, like pepper*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three small separate heaps of dried spices on a plain wooden board, whole black peppercorns, rolled brown cinnamon sticks and brown star-shaped star anise, seen from slightly above in soft daylight. Only these three heaps, no cloves, no nutmeg, no ground powder, no glass jars, no grinder, no packaging, no labels, no people, no modern objects, no text, no letters, no numbers
 - **calm** — *quiet and still, without wind or big waves*
 - **penguin** — *a black and white sea bird that swims but cannot fly*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one single adult penguin standing upright on a flat pebble beach at the edge of a calm grey sea, seen in full body from the side with its black back, white belly, black beak and short flippers clearly visible, in soft overcast daylight. Only the one penguin, no other penguins, no people, no ships, no zoo, no fence, no cage, no snow, no signs, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -84,7 +88,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **clove** — *a spice, the dried flower bud of a tree*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small heap of whole dried cloves, small dark brown nail-shaped buds each with a round head and a thin stem, on a plain light grey stone surface, with a few cloves laid apart in front so each shape is clearly visible, seen from slightly above in soft daylight. Only the cloves, no ground powder, no leaves, no flowers, no other spices, no nutmeg, no bowl, no jar, no packaging, no people, no modern objects, no text, no letters, no numbers
 - **leather** — *strong material made from the skin of an animal*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one piece of tanned brown leather hide, folded once and lying on a plain wooden table, with the fine grain of the skin and its irregular natural uncut edge clearly visible, seen from slightly above in soft daylight. Only the leather, no stitching, no belt, no shoes, no bag, no buckle, no animal, no fur, no blood, no tools, no people, no modern objects, no labels, no stamps, no text, no letters, no numbers
 - **scurvy** — *a sickness that comes from too little fresh food*
 - **gums** — *the soft pink flesh around the teeth*
 
@@ -136,6 +144,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **chief** — *the leader of a village or a people*
 - **pact** — *a promise between two sides to help each other*
 - **shallow** — *not deep*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the very shallow clear water of a small stream running gently over pale sand and small pebbles, seen from slightly above so that the whole sandy bottom is plainly visible, with a few small ripples and a dry sandy bank along one edge, in calm daylight. Only the water, the sand and the pebbles, no sea, no beach, no reef, no people, no feet, no boats, no palm trees, no beach huts, no deep dark water, no big waves, no signs, no modern objects, no text, no letters, no numbers
 - **warrior** — *a person who fights for his people*
 
 ### Huvudbild
@@ -187,6 +197,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **interpreter** — *a person who turns words from one language into another*
 - **will** — *a paper that says what happens to a person's things after death*
 - **feast** — *a big meal for many people*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one long rustic wooden table with plain wooden benches along both sides, filled edge to edge with many dishes for a big feast, roasted fish and chicken on large wooden platters, steaming rice in clay bowls, flat bread, heaps of bananas and melons, plain clay cups and water jugs, in warm daylight. Only the table, the benches and the food, no people, no knives, no weapons, no pork, no alcohol, no candles, no flags, no tablecloth with patterns, no plastic, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -235,8 +247,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **gentleman** — *a man of good family who does not need to work with his hands*
 - **diary** — *a book where a person writes what happens every day*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one small closed old leather-bound notebook with a thin cloth ribbon hanging out from the bottom edge, lying on a plain wooden table beside a goose-feather quill pen and a small clay inkpot, in soft window light. The cover is completely plain and unmarked, only these three objects, no open pages, no handwriting, no person, no hands, no modern pen, no glasses, no candle, no modern objects, no text, no letters, no numbers
 - **pilot** — *the sailor who guides the ship on its course*
 - **archive** — *a place where old papers are kept and protected*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a quiet old stone-walled archive room with tall wooden shelves holding rows of old paper bundles tied with cord and plain wooden document boxes, one simple wooden table in front, and soft light from a single high window. Empty room, all bundles and boxes completely blank, no people, no labels, no signs, no seals, no coats of arms, no computers, no metal filing cabinets, no cardboard boxes, no modern lamps, no tourists, no text, no letters, no numbers
 
 ### Huvudbild
 

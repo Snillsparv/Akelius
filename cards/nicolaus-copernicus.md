@@ -34,7 +34,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **cathedral** — *a very big and important church*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the inside of a very large, tall old Gothic cathedral of pale stone, seen from the middle of the long nave looking toward the far end, with long rows of plain wooden church benches facing a simple stone altar table far away, rows of tall pointed arches, a high ribbed vault and soft daylight falling from tall narrow windows with plain pale glass. Nobody is inside. No stained-glass pictures, no statues, no crucifix, no paintings of people, no candles, no clock, no tourists, no signs, no electric lights, no text, no letters, no numbers
 - **telescope** — *a tube with glass inside that makes far things look near*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one long slim telescope with a dark-brown leather-wrapped tube and polished brass rings and a clear round glass lens at the wide front end, standing on a plain wooden tripod and pointing up at an angle into a soft pale-blue daylight sky above a calm blurred grassy hill. Only the telescope is in the picture. No person, no observatory dome, no motor, no computer, no camera, no binoculars, no moon, no stars, no building, no text, no letters, no numbers
 - **planet** — *a big round world that goes around the sun, like the earth*
 
 ### Huvudbild
@@ -84,6 +88,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **official** — *a person with a job in the church or the government*
 - **overtake** — *to catch up with somebody and pass them*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two cyclists with brown skin on a quiet country road, seen from the side at a low angle, both in plain short-sleeved shirts without logos: the faster cyclist in a bright red shirt is just passing the slower cyclist in a green shirt and is clearly half a length ahead, further out toward the middle of the road, with green fields behind in daylight. No cars, no crowd, no race, no helmets with writing, no numbers on shirts or bicycles, no road signs, no text, no letters, no numbers
 - **backward** — *in the direction behind you*
 
 ### Huvudbild
@@ -132,7 +138,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **cardinal** — *a very high leader in the Catholic church*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an elderly cardinal of the 1500s with light skin and a short white beard, standing in a plain stone hall with tall arched windows, wearing a long scarlet cassock, a short scarlet shoulder cape and a small round scarlet skullcap, his hands folded in front of him and a calm, kind look, in warm daylight. Only this one man is in the picture. No pope, no white robe, no tall mitre, no crown, no crowd, no soldiers, no banners, no flags, no modern clothes, no text, no letters, no numbers
 - **publish** — *to print a text so that people can buy and read it*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a printer's workshop of the 1500s with one wooden screw press, a man with light skin in a long leather apron and rolled-up linen sleeves pulling the long wooden bar of the press, a neat pile of blank white paper sheets on a plain table beside him and a small pot of black ink, sunlight from a small window on plain plaster walls. No motor, no electric light, no computer, no finished books, no readable print, no signs, no text, no letters, no numbers
 - **preface** — *the words at the start of a book, before the main text*
 - **calculation** — *working with numbers to find an answer*
 
@@ -182,6 +192,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **scholar** — *a person who studies books deeply*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a European scholar of the 1500s, an older man with light skin and a short grey beard in a long plain dark-brown wool gown and a soft flat dark cap, sitting on a stone bench in a quiet sunlit courtyard garden with one thick open book on his knees, his finger on the page and his eyes on the lines, seen from the side so the page cannot be read, and a second thick closed book beside him. No crowd, no desk, no candles, no scroll, no globe, no telescope, no instruments, no pointed hat, no staff, no wizard look, no modern clothes, no signs, no text, no letters, no numbers
 - **prediction** — *a statement about what will happen*
 - **shift** — *to move a little to one side*
 - **prove** — *to show that something is surely true*
@@ -232,6 +244,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **observation** — *looking at something carefully and writing down what you see*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a girl of about eleven with brown skin in a plain light-blue cotton dress, kneeling in a green meadow with her face close to a yellow flower on which a butterfly rests, one hand holding a small open notebook turned away from the camera and the other hand holding a pencil as she writes. Soft daylight. No adult, no magnifying glass, no camera, no phone, no telescope, no school, no signs, no visible writing, no text, no letters, no numbers
 - **dedicate** — *to write a book in honor of a person, and say so at the start*
 - **forbid** — *to say that something is not allowed*
 - **revolution** — *a big change in how people think or live; the word also means one full turn*

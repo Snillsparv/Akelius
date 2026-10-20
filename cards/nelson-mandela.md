@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Nelson Mandela. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kortet så alla distraktorer hör hemma på 1900-talet: Desmond Tutu, F. W. de Klerk, Oliver Tambo, Walter Sisulu, Steve Biko, Kwame Nkrumah, Julius Nyerere, växlade mellan korten. Mahatma Gandhi, Martin Luther King, kalla kriget, Berlinmuren, Hitler, Churchill och Nationernas förbund namnges aldrig i setet. Orden "Mandela", "Madiba", "Rolihlahla" och "Nelson" förekommer aldrig i elevvänd text, bara i titelraden, raden om svenskt arbetsnamn och svarsalternativen. Oliver Tambo namnges i löptexten på kort 3 och är därför inte distraktor där. F. W. de Klerk och Desmond Tutu namnges i löptexten på kort 4 och är därför inte distraktorer där. Kort 1 slutar med raden om landets första svarta president så att Oliver Tambo utesluts; kort 2 öppnar med advokatledtråden så att Walter Sisulu, som dömdes i samma rättegång och satt på samma ö, utesluts. Landet namnges en gång per kort (South Africa). Amerikansk stavning som i övriga korpusen. Bilder: aldrig ett igenkännbart ansikte, aldrig de mönstrade skjortorna som igenkännbar detalj; mannen ses bakifrån, på avstånd eller bara som händer, eller i grupp med andra anonyma fångar. Varje figur som står för Mr X, liksom fångarna på ön, beskrivs uttryckligen som svart sydafrikan i Motiv och AI-prompt; utan det ritar bildmodellen vita figurer, vilket fällde två bilder i leverans 8. Inga skyltar, etiketter, manuskript eller andra textbärare i motiven. Sydafrika, Johannesburg, Robben Island och Cape Town är avsiktliga ledtrådar och får nämnas. Apartheid skildras sakligt utan gore; den väpnade grenen varken förhärligas eller döljs, kort 3 håller sig till sabotage mot infrastruktur och nämner våldet inom rörelsen på 1980-talet bara som faktum utan detaljer. Tro markeras som tro.
+Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kortet så alla distraktorer hör hemma på 1900-talet: Desmond Tutu, F. W. de Klerk, Oliver Tambo, Walter Sisulu, Steve Biko, Kwame Nkrumah, Julius Nyerere, växlade mellan korten. Mahatma Gandhi, Martin Luther King, kalla kriget, Berlinmuren, Hitler, Churchill och Nationernas förbund namnges aldrig i setet. Orden "Mandela", "Madiba", "Rolihlahla" och "Nelson" förekommer aldrig i elevvänd text, bara i titelraden, raden om svenskt arbetsnamn och svarsalternativen. Oliver Tambo namnges i löptexten på kort 3 och är därför inte distraktor där. F. W. de Klerk och Desmond Tutu namnges i löptexten på kort 4 och är därför inte distraktorer där. Kort 1 slutar med raden om landets första svarta president så att Oliver Tambo utesluts; kort 2 öppnar med advokatledtråden så att Walter Sisulu, som dömdes i samma rättegång och satt på samma ö, utesluts. Landet namnges en gång per kort (South Africa). Amerikansk stavning som i övriga korpusen. Bilder: aldrig ett igenkännbart ansikte, aldrig de mönstrade skjortorna som igenkännbar detalj; mannen ses bakifrån, på avstånd eller bara som händer, eller i grupp med andra anonyma fångar. Varje figur som står för Mr X, liksom fångarna på ön, beskrivs uttryckligen som svart sydafrikan i Motiv och AI-prompt; utan det ritar bildmodellen vita figurer, vilket fällde två bilder i leverans 8. Inga skyltar, etiketter, manuskript eller andra textbärare i motiven. Sydafrika, Johannesburg, Robben Island och Cape Town är avsiktliga ledtrådar och får nämnas. Apartheid skildras sakligt utan gore; den väpnade grenen varken förhärligas eller döljs, kort 3 håller sig till sabotage mot infrastruktur och nämner våldet inom rörelsen på 1980-talet bara som faktum utan detaljer. Tro markeras som tro. Kort 4 har inga ordbilder, eftersom commission, reconciliation, victims och term är abstrakta eller bara kan visas med symboler eller med människor som far illa.
 
 ---
 
@@ -35,6 +35,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 
 - **herd** — *to move a group of animals together*
 - **cattle** — *cows and bulls kept by farmers*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one brown-and-white cow and one dark brown bull with short curved horns, standing side by side on flat bare ground and seen from the side in soft daylight against a plain pale hazy background. Calm and factual, with no people, no hills, no huts, no fences, no ropes, no ear tags, no barn, no modern objects, no text, no letters, no numbers
 - **arrange** — *to plan something before it happens*
 - **marriage** — *when two people become husband and wife*
 
@@ -85,6 +87,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 
 - **trial** — *when a court decides if a person did something wrong*
 - **quarry** — *a place where workers cut or break stone from the ground*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a large open stone quarry, a deep pit with tall pale grey rock walls cut in wide steps and a flat dusty floor where a neat stack of rectangular cut stone blocks stands in the foreground. Calm daylight, with no people, no prisoners, no machines, no vehicles, no tools, no sea, no island, no water, no guard tower, no signs, no text, no letters, no numbers
 - **censored** — *checked and partly blocked by an authority before it is allowed*
 - **ideal** — *an idea of how something should be, at its best*
 
@@ -136,6 +140,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 - **unarmed** — *carrying no weapons*
 - **sabotage** — *damaging machines or buildings on purpose to stop an enemy*
 - **colleague** — *a person who works with you for the same cause*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two adult colleagues in their thirties, a Black South African woman in a plain white blouse and a Black South African man in a plain grey shirt, sitting side by side at one wooden desk a polite working distance apart, both pointing at the same single blank sheet of paper between them as they work on it together like co-workers. A plain bright office wall behind them, with no touching, no suits, no ties, no computers, no phones, no name badges, no other people, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -235,6 +241,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 - **inequality** — *when wealth or chances are not shared fairly*
 - **autobiography** — *a book a person writes about their own life*
 - **archives** — *collections of old documents kept for the future*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a quiet archive storage room seen from the end of a narrow aisle, with tall grey metal shelves holding long rows of identical plain brown cardboard document boxes with blank fronts under even soft light. There are no people, no labels on the boxes, no loose papers, no books, no desks, no computers, no windows, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 

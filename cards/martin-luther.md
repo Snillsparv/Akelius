@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Martin Luther. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etiketten trycks på kortet och skulle skänka bort reformationssetets svar. Ordet för den rörelsen används därför aldrig i setet, inte heller "Protestant"; tryckpressens uppfinnare namnges inte. Tro markeras som tro på alla sidor, ingen sida framställs som den rätta. Bilder: aldrig ett igenkännbart porträtt i Cranach-stil; gestalten ses bakifrån eller på avstånd, och inga läsbara texter på dörrar, häften eller biblar.
+Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etiketten trycks på kortet och skulle skänka bort reformationssetets svar. Ordet för den rörelsen används därför aldrig i setet, inte heller "Protestant"; tryckpressens uppfinnare namnges inte. Tro markeras som tro på alla sidor, ingen sida framställs som den rätta. Bilder: aldrig ett igenkännbart porträtt i Cranach-stil; gestalten ses bakifrån eller på avstånd, och inga läsbara texter på dörrar, häften eller biblar. Ordbilder: kort 3, 4 och 5 har bara textord. På kort 3 och 4 är orden roller, handlingar, titlar och språkbegrepp som inte går att visa entydigt utan statssymboler, upprepning av huvudbilden eller läsbar text; på kort 5 är source, legacy och reject abstrakta, och en bild för volume skulle upprepa huvudbildens rad av likadana läderband.
 
 ---
 
@@ -38,6 +38,8 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 - **lawyer** — *a person who knows the law and helps people in court*
 - **saint** — *a holy person; some Christians ask saints to help them*
 - **monastery** — *a house where monks live, pray, and work*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a medieval stone monastery in the German countryside seen from across a field: a plain stone church with one short bell tower and long low stone buildings with steep red-tiled roofs around a walled garden, with two pale-skinned monks in plain black hooded wool robes with rope belts, seen from behind in the middle distance, small but clearly recognizable as monks, hoeing vegetable beds inside the garden wall in soft morning light. Whole and well kept, no ruins, no modern objects, no cars, no power lines, no tourists, no clock faces, no crosses in focus, no flags, no signs, no text, no letters, no numbers
 - **fast** — *here: to eat no food for a time, for God*
 
 ### Huvudbild
@@ -87,6 +89,8 @@ Not (ej elevvänd): kategorin är `religions`, inte `reformation`, eftersom etik
 
 - **pardon** — *forgiveness for a bad thing you did*
 - **indulgence** — *a church letter; the church teaches that it takes away punishment for sins*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one single sheet of thick aged cream paper folded flat into a small rectangle, with one round plain red wax seal hanging from its lower edge on a short twisted cord, lying alone on a dark wooden table in soft window light. A church document of about 500 years ago, not an envelope and not a letter with a seal pressed on the front, the seal completely plain with no crest, no symbol and no letters, nothing written on the visible paper, no coins, no chest, no people, no hands, no quill, no pen, no modern objects, no stamps, no flags, no text, no letters, no numbers
 - **sin** — *a bad act against God's rules, in a religion*
 - **archbishop** — *a high leader of the church over a big area*
 

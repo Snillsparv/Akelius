@@ -39,6 +39,8 @@ Not (ej elevvänd): Kategori `asia`. Distraktorer per kort ur poolen Han Wudi, L
 - **title** — *a special name for a person's rank or job*
 - **weights** — *pieces of metal used to measure how heavy things are*
 - **clay** — *soft, heavy earth that can be shaped and baked hard*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a smooth lump of soft wet grey-brown clay on a flat wooden board, with a few finger marks pressed into it, and beside it one small plain reddish-brown clay bowl that has been baked hard, in soft daylight. No hands, no people, no potter's wheel, no statue, no soldiers, no glaze, no patterns, no plastic, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -85,9 +87,13 @@ Not (ej elevvänd): Kategori `asia`. Distraktorer per kort ur poolen Han Wudi, L
 ### Ordförklaringar (marginal)
 
 - **dagger** — *a short, sharp knife used as a weapon*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single short third-century BC Chinese bronze dagger with a polished golden-brown straight double-edged blade, as it looked when new, and a plain handle wrapped in cord, lying alone on a folded dark cloth on a bare wooden table in soft light. No green corrosion, no sheath, no hands, no people, no blood, no map, no silk, no scroll, no inscriptions, no jewels, no modern knife, no text, no letters, no numbers
 - **rival** — *a person or group that fights against you for the same thing*
 - **survives** — *stays alive after great danger*
 - **canal** — *a waterway dug by people, for boats or for water*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long straight narrow canal dug by people, with smooth sloping earth banks and green fields on both sides, calm water reflecting the sky and one small empty wooden flat-bottomed boat tied at the bank, seen from a low angle along the water. No locks, no bridges, no towns, no walls, no motorboats, no concrete, no people, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -136,6 +142,8 @@ Not (ej elevvänd): Kategori `asia`. Distraktorer per kort ur poolen Han Wudi, L
 - **strict** — *very firm; rules must be obeyed*
 - **punishment** — *something bad that happens to you because you broke a rule*
 - **scholar** — *a person who studies and knows a lot about books and ideas*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a middle-aged East Asian man, a scholar in a plain dark third-century BC Chinese robe with his hair in a topknot under a simple cloth cap, seen from the side at a middle distance with his face turned down and away, kneeling at a low wooden table and reading a partly unrolled bamboo-strip scroll held up in both hands, its written side turned toward him so that only the plain backs of the strips face the viewer, with a brush pen and a small ink stone on the table beside him, in a quiet plain room with soft window light. No fire, no soldiers, no weapons, no writing or marks visible on any strip, no paper books, no modern objects, no flags, no recognisable face, no text, no letters, no numbers
 - **capital** — *the main city where a ruler or a government has its seat*
 
 ### Huvudbild
@@ -185,7 +193,11 @@ Not (ej elevvänd): Kategori `asia`. Distraktorer per kort ur poolen Han Wudi, L
 - **tomb** — *a grave or a building that holds a dead person's body*
 - **bronze** — *a hard, reddish-brown metal, made by mixing copper and tin*
 - **mound** — *a small hill made by piling up earth*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single low rounded mound of piled-up brown earth with a flattened top, about as high as a house, a few short green grass tufts on its slopes, standing alone on flat open ground of bare dry soil, seen from the side in clear daylight. No trees, no people, no tools, no digging, no fences, no buildings, no paths, no signs, no text, no letters, no numbers
 - **mercury** — *a heavy silver metal that is liquid and poisonous*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small pool of shiny liquid silver metal in close-up, with a few round beads rolling apart from it, lying in a shallow plain grey stone dish on a dark table in soft light. No hands, no people, no glass tubes, no thermometer, no laboratory equipment, no warning signs, no coins, no jewellery, no text, no letters, no numbers
 - **dynasty** — *a line of rulers from the same family, one after another*
 
 ### Huvudbild
@@ -236,6 +248,8 @@ Not (ej elevvänd): Kategori `asia`. Distraktorer per kort ur poolen Han Wudi, L
 - **tyrant** — *a cruel ruler with total power, unfair to the people*
 - **founder** — *a person who starts or builds something new, like a state*
 - **archaeology** — *the study of the past through digging up old objects and places*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small neat archaeological dig seen from above at an angle, a square pit with straight earth walls and the flat top of an old buried stone foundation wall showing at the bottom, with a plain wooden bucket, a flat wooden sieve frame and a soft bristle brush lying on the ground at the edge. No people, no pottery, no bones, no tapes, no strings, no tags, no signs, no machines, no tents, no tourists, no text, no letters, no numbers
 - **account** — *a written report that tells what happened*
 
 ### Huvudbild

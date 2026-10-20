@@ -39,6 +39,8 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 - **ration book** — *a small book that says how much food a family may buy*
 - **scarce** — *hard to find, because there is not much of it*
 - **gas mask** — *a mask that covers your face and helps you breathe clean air*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single 1940s gas mask lying on a plain wooden table, a grey-green rubber face piece with two round glass eyepieces and a short flexible hose leading to a round metal filter canister, soft daylight, 1940s rubber and metal only, no soldier, no uniform, no carrying bag, no markings, no modern respirator, no plastic, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -87,6 +89,8 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 
 - **invade** — *to enter another country with an army in order to take control of it*
 - **continent** — *one of the world's very large areas of land, such as Europe or Asia*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the Earth seen from space, with the whole continent of Africa clearly in the middle as one very large green and brown landmass surrounded by deep blue ocean, a few thin white clouds, calm dark background, no borders, no lines, no city lights, no satellites, no spacecraft, no labels, no text, no letters, no numbers
 - **turning point** — *the moment when something starts to change in a big way*
 - **tide** — *here: the direction that a war is going, toward one side winning*
 
@@ -136,6 +140,8 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 ### Ordförklaringar (marginal)
 
 - **ghetto** — *a closed off part of a city where a group of people is forced to live*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a quiet, empty cobbled street in an old European city in the early 1940s, seen from outside, where a tall plain brick wall is built straight across the street from one house to the other and closes it off, with the roofs and upper windows of more old apartment houses visible behind the wall, grey overcast daylight, calm and factual mood, 1940s buildings only, not a reproduction of any known photograph, no people, no guards, no barbed wire, no gate, no damage, no fire, no religious or political symbols, no armbands, no flags, no signs, no posters, no modern cars, no text, no letters, no numbers
 - **genocide** — *the planned murder of a whole group of people because of who they are*
 - **regime** — *a government, especially one with great and often harsh power*
 - **survivor** — *a person who lives through something very dangerous*
@@ -186,6 +192,8 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 - **empire** — *a large group of countries or peoples ruled by one powerful country*
 - **surrender** — *to stop fighting and admit defeat*
 - **bomber** — *a plane built to carry and drop bombs*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one large 1940s four-engined propeller bomber aircraft flying alone in a clear blue sky, seen from the side and slightly below, plain bare metal body with a long wide wingspan and a glass nose, calm and still, 1940s propeller aircraft only, no jet engines, no bombs falling, no explosions, no fire, no smoke, no flags, no insignia, no national markings, no text, no letters, no numbers
 - **civilian** — *a person who is not a soldier*
 
 ### Huvudbild
@@ -237,6 +245,8 @@ Not (ej elevvänd): Setets svar är World War II, anonymiserat som War X i elevt
 - **testimony** — *what a witness says about what happened*
 - **deny** — *to say that something is not true, even when it is*
 - **memorial** — *a place built to help people remember something important*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one tall plain grey stone memorial pillar, about three times the height of a person, standing alone on a low wide stone platform in a quiet open park, a few small bunches of fresh flowers laid at its base, soft overcast light, seen from a respectful distance, the stone completely plain, no inscription, no carved shapes, no crosses, no religious or national symbols, no flags, no wreath ribbons, no rows of stones, no graves, no people, no text, no letters, no numbers
 
 ### Huvudbild
 

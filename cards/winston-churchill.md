@@ -37,7 +37,11 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med alla sex 1900-t
 
 - **reporter** — *a person whose job is to write news for a newspaper*
 - **prison camp** — *a guarded place where captured soldiers are kept*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a prison camp around 1900: a bare dusty yard inside a tall fence of wooden posts and wire, a few plain canvas tents in the yard, and one tiny distant guard in a plain period uniform and wide-brimmed felt hat, holding an old single rifle, standing at a wooden gate. Daylight, calm mood, no violence, no steel helmet, no camouflage, no modern uniform, no watchtower, no searchlights, no concrete, no cars, no modern objects, no flags, no signs, no text, no letters, no numbers
 - **toy soldiers** — *small model soldiers that children play with*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of five small old-fashioned painted tin toy soldiers standing in a short line on a plain pale wooden table: two with a rifle on the shoulder, one beating a small drum, one holding a tiny sword and one on a tiny toy horse, all painted in plain dark blue with gold-coloured details. Soft window light, no plastic, no flags, no badges, no emblems, no children, no hands, no modern toys, no text, no letters, no numbers
 - **Boer** — *a farmer of Dutch family background in South Africa, more than a hundred years ago*
 
 ### Huvudbild
@@ -87,7 +91,11 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med alla sex 1900-t
 - **toil** — *hard, tiring work*
 - **parliament** — *the group of elected people who make a country's laws*
 - **shelter** — *a safe place that protects people from danger*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small arched air-raid shelter made of curved corrugated steel sheets, half buried under a grassy mound of earth, with a low open doorway at the front, standing in a small back garden with neat vegetable beds in front of a 1940s brick terraced house. Soft daylight, no people, no bomb damage, no stairs, no underground station, no cars, no modern objects, no plastic, no flags, no signs, no text, no letters, no numbers
 - **ruins** — *what is left after buildings are destroyed*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the weathered ruins of an old stone house standing alone in a quiet green field: broken grey stone walls with empty window openings, no roof, a fallen heap of stones at one corner and grass growing between the stones, under a soft cloudy sky. No people, no bomb damage, no smoke, no brick, no street, no cars, no modern objects, no tourists, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -135,6 +143,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med alla sex 1900-t
 ### Ordförklaringar (marginal)
 
 - **strait** — *a narrow strip of sea between two areas of land*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a narrow channel of calm blue sea between two hilly green shores, seen from high above so that the two shores are close together and face each other, with the open sea widening at both ends. Nothing on the water, no ships, no boats, no people, no buildings, no bridges, no map lines, no labels, no text, no letters, no numbers
 - **wilderness years** — *a long period out of power and influence*
 - **blame** — *responsibility for something bad that happens*
 
@@ -185,7 +195,11 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med alla sex 1900-t
 
 - **famine** — *a time when many people cannot get enough food*
 - **cyclone** — *a huge storm with very strong winds that comes in from the sea*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a huge cyclone seen from space: a giant white spiral of thick cloud with a small dark round eye in the middle, turning over a deep blue ocean. No land, no country outlines, no map lines, no weather graphics, no arrows, no labels, no text, no letters, no numbers
 - **harvest** — *the crops gathered from fields at the end of the growing season*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of golden ripe rice stalks that have just been cut and tied into neat bundles, leaning together in a stack on a flat field of short stubble, with a round woven basket of loose rice grain and a hand sickle with a wooden handle lying beside the bundles. Sunny daylight, firm damp earth, no cracked dry earth, no people, no machines, no tractor, no plastic, no sacks, no power lines, no signs, no text, no letters, no numbers
 - **shortage** — *not having enough of something that is needed*
 
 ### Huvudbild
@@ -234,6 +248,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med alla sex 1900-t
 ### Ordförklaringar (marginal)
 
 - **volume** — *one book in a set of books that belong together*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one thick hardbound book with a plain dark green cloth cover, closed and lying flat on a plain light wooden table, seen from slightly above at an angle, with a thin ribbon bookmark hanging out of the pages. Soft window light, only this one book, no other books, no shelf, no desk lamp, no pen, no inkwell, no paper, no person, no modern objects, the cover and spine completely plain, no text, no letters, no numbers
 - **account** — *here: a person's own telling of what happened*
 - **cabinet** — *the group of top ministers who advise a country's leader*
 - **myth** — *a popular story that is not fully true*

@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Platon. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 5 har bara text i ordförklaringarna, eftersom belief, knowledge och philosophy är abstrakta och footnote bara kan visas med text eller textlika rader, som inte får synas i någon bild.
 
 ---
 
@@ -37,7 +38,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **Academy** — *the name of his school. Many schools use this name today.*
 - **conversation** — *two or more people talking together*
 - **square** — *an open place in the middle of a town*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a quiet open town square, a wide flat area paved with pale stone slabs with low old stone houses with plain wooden doors on all four sides, narrow streets opening into it between the houses and two large shady trees at one side, seen from a raised corner so that the whole open space is visible. Empty and calm in soft morning light, no tourists, no cars, no cafe tables, no signs, no flags, no statues, no fountain, no columns, no modern lamps, no text, no letters, no numbers
 - **scroll** — *a long piece of paper that you roll up*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one papyrus scroll in pale cream and light brown, rolled up tightly with its free end unrolled a little and curling gently over a plain light wooden table, the unrolled part completely blank. Soft daylight, only the scroll, no writing, no marks, no reed pen, no ink, no hands, no book, no modern paper, no ribbon, no busts, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -85,9 +90,13 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **cave** — *a big dark hole in a rock or under the ground*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the natural opening of a cave in a steep pale limestone rock face, seen from outside in daylight, a wide dark mouth with rough jagged edges, dry grass and a few loose stones in front of it and nothing visible inside but darkness. No people, no fire, no chains, no cave paintings, no paths, no railings, no tourists, no lamps, no signs, no text, no letters, no numbers
 - **prisoner** — *a person who is not free and cannot go out*
 - **shadow** — *the dark shape a thing makes when it blocks light*
 - **chained** — *tied with metal rings, so you cannot move away*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a heavy hand-forged dark iron chain with thick oval links, one end fastened to a thick old wooden post standing in packed earth and the other end lying on the ground, ending in an open iron ankle ring, seen close up in soft side light. Only the chain, the post and the ground, no person, no leg, no hand, no blood, no padlock, no steel handcuffs, no shiny chrome, no cave, no fire, no stone wall, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -137,6 +146,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **philosopher** — *a person who thinks hard about big questions*
 - **mathematician** — *a person who works with numbers and shapes*
 - **geometry** — *mathematics about shapes, like circles and triangles*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of four flat, smooth shapes cut from thin unglazed light-brown clay, a triangle, a square, a circle and a hexagon, lying neatly apart on a plain pale table and seen straight from above in soft daylight. Plain shapes only, no ruler, no compass, no pencil, no paper, no drawn lines, no protractor, no bright colours, no children's toys, no cookies, no food, no sand, no text, no letters, no numbers
 - **imperfect** — *not perfect; with small mistakes*
 
 ### Huvudbild
@@ -185,6 +196,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **jury** — *a group of people who decide if someone did wrong*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a very large jury in ancient Athens seen from slightly above and behind, hundreds of men with olive-brown skin and dark or grey hair and beards in plain undyed wool tunics and wrap cloaks, sitting shoulder to shoulder on many long plain wooden benches that fill the picture row after row, all turned toward one man who stands and speaks on a low plain stone step far in front of them. Sunlit open-air courtyard with a plain pale stone wall, no modern courtroom, no judge's gavel, no wig, no jury box, no desks, no scales, no soldiers, no women, no raised hands, no coins, no urns, no carved columns, no text, no letters, no numbers
 - **state** — *a country and the people who lead it*
 - **ruler** — *a person who leads a country*
 

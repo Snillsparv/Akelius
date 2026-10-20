@@ -36,6 +36,8 @@ Not (ej elevvänd): konflikten kallas Conflict X, frågan är alltid Which confl
 
 - **iron curtain** — *a name for the guarded line that cuts Europe in two*
 - **guard** — *a person whose job is to stop people from crossing a border*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an adult border guard with medium-brown skin, wearing a plain dark-green wool uniform and a peaked cap, standing upright and calm beside a plain wooden barrier pole that is lowered across a quiet dirt road, with a small plain wooden hut and open green fields behind him in soft daylight. There is no fence, no watchtower, no torch, no dog, no weapon in clear focus, no vehicles, no flags, no badges or insignia, no signs, no modern objects, no text, no letters, no numbers
 - **drill** — *a practice exercise done again and again to prepare for danger*
 - **rivalry** — *a long contest between two sides that both want to be the strongest*
 
@@ -84,6 +86,8 @@ Not (ej elevvänd): konflikten kallas Conflict X, frågan är alltid Which confl
 ### Ordförklaringar (marginal)
 
 - **rival** — *a country or person competing strongly against another*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two young adult runners with brown skin, in plain white sleeveless tops and plain dark shorts, running side by side almost level on a plain reddish dirt track in the last steps of a race, both leaning forward and looking straight ahead with fierce effort. Empty green field behind them, with no spectators, no stadium, no finish banner, no stopwatch, no medals, no Olympic rings, no logos, no flags, no numbers on the clothes, no text, no letters, no numbers
 - **civil war** — *a war fought between groups inside one country*
 - **civilian** — *a person who is not a soldier*
 
@@ -133,8 +137,12 @@ Not (ej elevvänd): konflikten kallas Conflict X, frågan är alltid Which confl
 ### Ordförklaringar (marginal)
 
 - **missile** — *a weapon that flies through the air to hit a target far away*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a long slender grey missile of the early 1960s with a pointed nose cone and four small tail fins, resting at a shallow slant on a low wheeled launcher trailer on a bare concrete pad, with a flat empty field and a plain overcast sky behind. It is shown alone, like a museum object, with no launch tower, no flame, no smoke, no explosion, no mushroom cloud, no soldiers, no people, no space rocket, no flags, no insignia, no markings, no modern vehicles, no text, no letters, no numbers
 - **nuclear** — *using the huge power inside atoms, strong enough to destroy whole cities*
 - **spy plane** — *an aircraft that flies high and takes secret photographs of another country*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a slender dark-grey single-engine jet aircraft of the early 1960s with very long, narrow, straight wings and a small cockpit, flying alone very high above a wide layer of white clouds in a pale blue sky, seen from the side and slightly above so its dark shape stands out against the white clouds below. The plane has no markings, no insignia, no national colours, no numbers on the tail, no other aircraft, no smoke trail, no missile, no modern jet, no flags, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -183,6 +191,8 @@ Not (ej elevvänd): konflikten kallas Conflict X, frågan är alltid Which confl
 
 - **representative** — *a person sent to speak and act for a country or group*
 - **coup** — *a sudden illegal takeover of a government, often by the army*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a quiet city street at dawn in the 1970s, where one plain olive-green army tank of the period stands parked across the empty road in front of a plain grey stone government building with wide steps and tall closed doors. Four soldiers in olive-green fatigues and round steel helmets stand beside the tank, seen from across the street and far away, with no gun firing, no smoke, no fire, no damage, no bodies, no crowd, no civilians, no flags, no insignia, no signs, no modern vehicles, no recognizable faces, no text, no letters, no numbers
 - **dictator** — *a ruler who holds total power and allows little freedom*
 
 ### Huvudbild
@@ -231,6 +241,8 @@ Not (ej elevvänd): konflikten kallas Conflict X, frågan är alltid Which confl
 
 - **ambition** — *a strong wish to gain power, success, or influence*
 - **archive** — *a place where old documents and records are kept*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long quiet archive room with tall plain grey metal shelves on both sides, filled with identical grey cardboard document boxes and old paper folders tied with string, a simple wooden trolley and a rolling wooden ladder standing in the central aisle under soft even light. The room is empty of people and has no computers, no screens, no modern objects, no readable labels on the boxes, no signs, no flags, no emblems, no text, no letters, no numbers
 - **superpower** — *an extremely powerful country with influence across the world*
 
 ### Huvudbild

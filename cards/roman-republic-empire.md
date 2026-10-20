@@ -36,8 +36,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **empire** — *many lands and people under one ruler*
 - **channel** — *a long open way made for water to run in*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a narrow open water channel built of plain grey stone blocks, with clear water flowing along it through a green meadow, in soft daylight. The channel lies low on the ground and runs straight into the distance. No arches, no bridge, no tall structure, no pipes, no taps, no concrete, no machines, no people, no buildings, no signs, no text, no letters, no numbers
 - **aqueduct** — *a stone channel that carries fresh water into a city, sometimes on tall arches*
 - **Mediterranean Sea** — *the big sea between Europe, Africa, and Asia*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a wide calm deep-blue sea stretching to the horizon below a clear sky, meeting a rocky green coast with a few old olive trees in warm sunlight. No boats, no ships, no buildings, no beach, no people, no flags, no signs, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -87,6 +91,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **consul** — *one of the two chosen leaders of the city*
 - **senate** — *a group of old, wise men who give advice*
 - **vote** — *to say your choice when a group decides something*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of five raised bare hands with open palms, each with a different skin tone from light to dark, held up in a row against a clear pale blue sky. Only hands and forearms are shown, as if a group is choosing together, each hand natural with five fingers. No fists, no faces, no sleeves, no rings, no watches, no ballot paper, no ballot box, no modern objects, no text, no letters, no numbers
 - **republic** — *a country without a king; the people choose their leaders*
 
 ### Huvudbild
@@ -136,6 +142,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **republic** — *a country without a king; the people choose their leaders*
 - **general** — *a leader of soldiers*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an ancient army commander seen from behind, standing alone on a rocky hilltop in a plain bronze breastplate and a grey wool cloak, with olive-skinned arms, looking down at many small soldiers standing in neat rows in the valley below. Generic ancient armor of bronze and leather only. No rectangular red shields, no crested or plumed helmets, no horned helmets, no eagle standards, no flags, no horses, no battle, no blood, no weapons raised, no coins, no red cloak, no modern objects, no text, no letters, no numbers
 - **civil war** — *a war between people of the same country*
 - **institution** — *a rule or group of a country that lasts a long time, for example a court*
 
@@ -186,6 +194,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **accusation** — *when someone says: this person did a bad thing*
 - **concrete** — *a building material, like liquid stone that becomes very hard*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a plain grey concrete wall seen close up, with a rough surface and small pebbles showing in it, in soft side light. It is a thick solid wall with no marks on it. No cracks, no steel bars, no paint, no graffiti, no bricks, no pipes, no tools, no people, no buildings, no domes, no modern objects, no text, no letters, no numbers
 - **conquered** — *beaten in a war and taken over by the winners*
 - **citizen** — *a full member of a country, with rights and duties*
 
@@ -235,6 +245,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **border** — *the line where one land ends and another land begins*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long straight line of short square grey stone posts, knee high and evenly spaced, set in the ground across an open plain, with green farm fields on one side of the line and dry yellow grass on the other side, in soft daylight. The posts are plain and smooth. No gravestones, no crosses, no fence, no wall, no gate, no road, no flags, no signs, no people, no buildings, no modern objects, no text, no letters, no numbers
 - **plague** — *a sickness that spreads fast and kills many people*
 - **historian** — *a person who studies the past*
 - **transformation** — *a big, slow change from one form into another*

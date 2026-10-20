@@ -38,7 +38,10 @@ arabisk kalligrafi eller pseudokalligrafi, inga läsbara kartor, inga öppna
 manuskript, böcker stängda eller med tomma sidor i kraftig vinkel, inga siffror
 eller bokstäver någonstans, inga instrument med gravyr. Mr X visas aldrig med
 igenkännbart ansikte, bara bakifrån, på avstånd eller med händerna. Alla
-prompter slutar med "no text, no letters, no numbers".
+prompter slutar med "no text, no letters, no numbers". Ordbilder: kort 3 har inga,
+eftersom translator redan visas av kortets huvudbild och survive, Latin och steps,
+här i betydelsen delmoment i ett arbete, är abstrakta; trappan som bild för steps
+finns redan som sidobild.
 
 ---
 
@@ -72,6 +75,8 @@ prompter slutar med "no text, no letters, no numbers".
 - **caliph** — *a Muslim ruler who leads a large early empire*
 - **scholars** — *people who study and learn very much*
 - **argue** — *to talk in an angry way because people do not agree*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of two adult men with brown skin and dark beards, in plain long cream robes and plain turbans, standing face to face in front of a plain plastered wall, one pointing at the other with a frown while the other raises his open hand in refusal, both clearly angry but drawn with dignity and realistic proportions. No caricature, no weapons, no fighting, no blood, no religious symbols, no market stalls, no crowd, no modern clothes, no signs, no calligraphy, no pseudo-writing, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -119,6 +124,8 @@ prompter slutar med "no text, no letters, no numbers".
 - **puzzles** — *problems that need careful thinking to solve*
 - **translate** — *to change words from one language into another*
 - **scale** — *a tool that shows if two things weigh the same*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a simple old two-pan balance scale of dark hammered bronze on a plain wooden stand, as used by medieval market traders, the beam perfectly level and a small even heap of dry wheat grain in each pan, standing on a plain wooden table in soft daylight. No digital or spring scale, no kitchen scale, no statue of justice, no weights with marks, no engraving on the beam, no people, no modern objects, no calligraphy, no pseudo-writing, no text, no letters, no numbers.
 - **algebra** — *a kind of mathematics that uses letters or words for unknown numbers*
 
 ### Huvudbild
@@ -218,6 +225,8 @@ prompter slutar med "no text, no letters, no numbers".
 - **geographer** — *a person who studies and maps the earth, its lands and seas*
 - **accurate** — *correct, with no or very few mistakes*
 - **region** — *a big area of land, bigger than one town or city*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a very wide landscape seen from a high hill, a broad green valley with patches of farmland, one winding river and several small distant villages of low houses, with low blue mountains at the far edge, in clear daylight. No large city, no domes or towers, no roads, no cars, no power lines, no borders, no map lines, no flags, no people, no modern objects, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -265,6 +274,8 @@ prompter slutar med "no text, no letters, no numbers".
 - **biographical** — *about a person's life story*
 - **traditions** — *old ways of doing or knowing things, passed down over time*
 - **organize** — *to put things in a clear order*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a row of plain unglazed clay bowls of the same simple shape, arranged neatly in one straight line from the smallest to the largest with an equal gap between them, on a plain wooden table in soft daylight. No decoration or pattern on the bowls, no people, no books, no scrolls, no pebbles, no modern objects, no calligraphy, no pseudo-writing, no text, no letters, no numbers.
 - **invention** — *something new, made for the first time*
 
 ### Huvudbild

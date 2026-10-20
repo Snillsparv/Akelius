@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Albert Einstein. Superenkel engelska.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): Kategori `science`. Namnet Einstein, förnamnet Albert och ordet Einsteinian nämns aldrig i elevvänd text, titel, bildtext eller ordlista, bara i svarsalternativens rätta svar. Newton namnges aldrig i löptext, i stället skrivs "the laws of motion that rule science for two hundred years"; namnet Newton får däremot användas som distraktor bland svarsalternativen sedan regeln 2026-09-12. Ordet "relativity" är en tillåten ledtråd och används i kort 2, 3 och 5; namnet gavs av andra (Planck, Bucherer 1906), därför "others soon call the idea relativity" på kort 3. Fördelning efter granskningen 2026-09-12, korten är oberoende: kort 1 äger kompassen, fiolen, kontoret i Bern och en enda rad om berömmelsen, kort 2 underåret 1905, priset för ljuset som partiklar och avresan 1933, kort 3 relativiteten och solförmörkelsen 1919 vars resultat "supports" idén (mätningarna hade stora felmarginaler, aldrig "exactly"), kort 4 brevet 1939 med diktatorn introducerad först ("In 1933, a dictator takes power in Germany.") och årtalet 1939 bara i bildtexten, kort 5 kvantfysiken, brevet i en kontextrad och ikonen. Diktatorn skrivs "a new dictator" respektive "a dictator in Germany", andra världskriget nämns aldrig vid namn, bara "a great war begins in Europe". Brevet 1939 och vapnet skrivs sakligt och kort, med hans ånger och fredsarbete efteråt, ingen gore och ingen svampmolnsbild, fredssymbolik används i stället. Formeln för massa och energi skrivs aldrig ut med bokstäver, bara beskriven i ord. Högst ett exakt årtal i löptexten per kort. Distraktorer ur poolen i leverans 9 med staketdistraktorer efter redaktörsgranskningen: kort 1 Isaac Newton, Michael Faraday, Niels Bohr; kort 2 Max Planck, Ernest Rutherford, Lise Meitner; kort 3 Arthur Eddington, Max Planck, James Clerk Maxwell; kort 4 Leo Szilard, Otto Hahn, Max Planck; kort 5 Niels Bohr, Isaac Newton, Ernest Rutherford. Ingen distraktor namnges i löptexten. Bilder: aldrig hans kända ansikte eller det karakteristiska vita håret, alltid bakifrån, på avstånd, bara händer, eller med hatt eller hjälm som döljer håret; inga tavlor, tekniska ritningar, tidningar eller skyltar, inga bokstäver, siffror eller formler; inga flaggor; expeditionsbilden 1919 i tropisk klädsel med pith helmets som döljer håret och med lokala medhjälpare i bild; brownsk rörelse visas med ett mikroskop, inte i ett vattenglas, eftersom den bara syns i mikroskop.
+Not (ej elevvänd): Kategori `science`. Namnet Einstein, förnamnet Albert och ordet Einsteinian nämns aldrig i elevvänd text, titel, bildtext eller ordlista, bara i svarsalternativens rätta svar. Newton namnges aldrig i löptext, i stället skrivs "the laws of motion that rule science for two hundred years"; namnet Newton får däremot användas som distraktor bland svarsalternativen sedan regeln 2026-09-12. Ordet "relativity" är en tillåten ledtråd och används i kort 2, 3 och 5; namnet gavs av andra (Planck, Bucherer 1906), därför "others soon call the idea relativity" på kort 3. Fördelning efter granskningen 2026-09-12, korten är oberoende: kort 1 äger kompassen, fiolen, kontoret i Bern och en enda rad om berömmelsen, kort 2 underåret 1905, priset för ljuset som partiklar och avresan 1933, kort 3 relativiteten och solförmörkelsen 1919 vars resultat "supports" idén (mätningarna hade stora felmarginaler, aldrig "exactly"), kort 4 brevet 1939 med diktatorn introducerad först ("In 1933, a dictator takes power in Germany.") och årtalet 1939 bara i bildtexten, kort 5 kvantfysiken, brevet i en kontextrad och ikonen. Diktatorn skrivs "a new dictator" respektive "a dictator in Germany", andra världskriget nämns aldrig vid namn, bara "a great war begins in Europe". Brevet 1939 och vapnet skrivs sakligt och kort, med hans ånger och fredsarbete efteråt, ingen gore och ingen svampmolnsbild, fredssymbolik används i stället. Formeln för massa och energi skrivs aldrig ut med bokstäver, bara beskriven i ord. Högst ett exakt årtal i löptexten per kort. Distraktorer ur poolen i leverans 9 med staketdistraktorer efter redaktörsgranskningen: kort 1 Isaac Newton, Michael Faraday, Niels Bohr; kort 2 Max Planck, Ernest Rutherford, Lise Meitner; kort 3 Arthur Eddington, Max Planck, James Clerk Maxwell; kort 4 Leo Szilard, Otto Hahn, Max Planck; kort 5 Niels Bohr, Isaac Newton, Ernest Rutherford. Ingen distraktor namnges i löptexten. Bilder: aldrig hans kända ansikte eller det karakteristiska vita håret, alltid bakifrån, på avstånd, bara händer, eller med hatt eller hjälm som döljer håret; inga tavlor, tekniska ritningar, tidningar eller skyltar, inga bokstäver, siffror eller formler; inga flaggor; expeditionsbilden 1919 i tropisk klädsel med pith helmets som döljer håret och med lokala medhjälpare i bild; brownsk rörelse visas med ett mikroskop, inte i ett vattenglas, eftersom den bara syns i mikroskop. Ordbilder: kort 5 har bara text, eftersom quantum theory, certainty och fateful är abstrakta och icon inte går att visa utan hans porträtt eller en tavla, vilket bildreglerna för setet förbjuder.
 
 ---
 
@@ -35,7 +35,11 @@ Not (ej elevvänd): Kategori `science`. Namnet Einstein, förnamnet Albert och o
 ### Ordförklaringar (marginal)
 
 - **compass** — *a small tool with a needle that always points north*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an old round brass compass with a plain white face and one dark needle, lying open on a flat grey stone on a grassy hillside in soft daylight, the needle pointing clearly to one side. No hands, no map, no phone, no engraved or printed letters or numbers on the face, no text, no letters, no numbers
 - **violin** — *a small wooden music instrument with strings, played with a bow*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a plain wooden violin with four strings and its slim wooden bow lying beside it, resting on a bare pale wooden table in warm soft daylight, seen slightly from above. No person, no sheet music, no violin case, no maker's label, no modern objects, no text, no letters, no numbers
 - **invention** — *a new thing that a person makes for the first time*
 - **amaze** — *to surprise someone very much*
 
@@ -85,6 +89,8 @@ Not (ej elevvänd): Kategori `science`. Namnet Einstein, förnamnet Albert och o
 ### Ordförklaringar (marginal)
 
 - **particle** — *a very, very small piece of something*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small heap of fine pale sand on a dark slate surface, an extreme close-up so that each tiny grain is clearly visible as a separate small piece, with a few single grains lying apart from the heap in soft side light. No hands, no water, no shells, no footprints, no spoon, no text, no letters, no numbers
 - **matter** — *anything that takes up space, like water, wood, or air*
 - **microscope** — *a tool with lenses that makes very small things look big*
 - **dictator** — *a ruler who has all the power and lets nobody disagree*
@@ -137,7 +143,11 @@ Not (ej elevvänd): Kategori `science`. Namnet Einstein, förnamnet Albert och o
 - **gravity** — *the force that pulls things toward each other, like the earth pulling you down*
 - **relativity** — *a scientific idea that connects space, time, and motion*
 - **eclipse** — *when the moon covers the sun and the sky goes dark for a while*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a total solar eclipse high above a wide empty grassy plain, the moon a perfectly round black disk ringed by a thin white glowing corona in a dark blue-grey daytime sky, with a faint orange glow along the distant horizon. No people, no telescopes, no cameras, no palm trees, no buildings, no aircraft, no birds, no arrows, no diagram lines, no text, no letters, no numbers
 - **bend** — *to curve, so something is no longer straight*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two hands with dark-brown skin gently bending a long thin green twig into a smooth curved arc, seen against a plain pale wall in soft daylight, the twig curving without breaking. Only the hands and the twig are visible, no face, no string, no bow and arrow, no tools, no splinters, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -185,6 +195,8 @@ Not (ej elevvänd): Kategori `science`. Namnet Einstein, förnamnet Albert och o
 ### Ordförklaringar (marginal)
 
 - **atom** — *one of the very small pieces that everything is made of*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a simple model of an atom, a tight central cluster of small red and blue balls with three small yellow balls circling it on thin round rings, in flat bright colours on a plain pale background. No people, no explosion, no mushroom cloud, no warning signs, no flags, no logos, no text, no letters, no numbers
 - **weapon** — *a tool made to hurt or destroy*
 - **regret** — *a sad feeling about something you wish had not happened*
 - **refuse** — *to say no to an offer*

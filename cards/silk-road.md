@@ -33,7 +33,11 @@ Not (ej elevvänd): Kategori `asia`. Road X är sidenvägarna som nätverk av v�
 ### Ordförklaringar (marginal)
 
 - **silk** — *a soft, shiny cloth made from very fine thread*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one length of smooth, shiny, emerald green silk cloth hanging in soft flowing folds from a plain wooden rail, lit by soft side light so that the gloss of the cloth shows. Plain dyed cloth without any pattern, no embroidery, no dragons, no bundles, no camels, no silkworms, no loose thread, no people, no modern objects, no Chinese or Arabic characters, no text, no letters, no numbers
 - **oasis** — *a green, wet place with water in the middle of a dry desert*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a small desert oasis, a still pond of clear blue water ringed by green date palms and low green bushes, with flat pale sand stretching away on every side under a bright blue sky. No camels, no people, no tents, no buildings, no tourists, no modern objects, no text, no letters, no numbers
 - **traders** — *people whose job is to buy and sell goods*
 - **spin** — *to turn something round and round to make a long thread*
 
@@ -82,8 +86,12 @@ Not (ej elevvänd): Kategori `asia`. Road X är sidenvägarna som nätverk av v�
 
 - **envoy** — *a person sent by a ruler to speak or travel on official business*
 - **network** — *a set of roads or paths that connect and cross each other*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of five or six worn brown dirt tracks that cross and join each other across a wide dry grass plain, seen from a high hilltop and forming a clear web of paths in soft morning light. No people, no animals, no carts, no buildings, no fences, no paved roads, no cars, no signs, no map, no modern objects, no text, no letters, no numbers
 - **empire** — *many lands and peoples ruled by one government*
 - **wealthy** — *having a lot of money or valuable things*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an open dark wooden chest on a plain stone floor, filled to the top with plain gold coins with blank faces, a gold cup, and long strings of white pearls spilling over the edge, in warm soft light. No people, no hands, no markings or portraits on the coins, no crown, no emblem, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -133,6 +141,8 @@ Not (ej elevvänd): Kategori `asia`. Road X är sidenvägarna som nätverk av v�
 - **manuscripts** — *old books or texts written by hand*
 - **scholars** — *people who study and learn a subject very deeply*
 - **carve** — *to cut shapes into stone, wood, or rock*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two weathered tanned hands carving a block of pale sandstone in close-up, the left hand holding a short iron chisel against the stone and the right hand striking it with a wooden mallet, fine stone chips flying from a shallow cut in bright daylight. Only the hands and plain rolled linen sleeves are shown, the stone has no pattern, no figure and no writing, no power tools, no gloves, no safety glasses, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -180,6 +190,8 @@ Not (ej elevvänd): Kategori `asia`. Road X är sidenvägarna som nätverk av v�
 
 - **merchants** — *people who buy and sell goods, often over long distances*
 - **cargo** — *goods carried by a ship, truck, or other vehicle*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a plain two-wheeled wooden cart with wooden wheels standing on a dry dirt road, loaded high with coarse woven sacks, wooden barrels and round baskets tied down with rope, and a single brown ox harnessed in front. No driver, no people, no camels, no boats, no trucks, no rubber tires, no marked crates, no modern objects, no text, no letters, no numbers
 - **plague** — *a very serious disease that spreads fast and kills many people*
 - **routes** — *ways or paths that lead from one place to another*
 
@@ -230,6 +242,8 @@ Not (ej elevvänd): Kategori `asia`. Road X är sidenvägarna som nätverk av v�
 - **plural** — *a word form that shows there is more than one*
 - **diplomacy** — *careful talks between countries to solve problems peacefully*
 - **scholar** — *a person who studies a subject very deeply*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a middle-aged East Asian man with short black hair turning grey, wearing round wire spectacles and a plain dark grey wool jacket, sitting at a plain wooden desk and reading one thick book that he holds up in both hands so that only its plain dark brown cloth cover faces the camera, lit by soft daylight from a window at his side. No title or marks on the cover, no open pages, no magnifying glass, no other books, no shelves, no loose papers, no computer, no phone, no electric light, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 

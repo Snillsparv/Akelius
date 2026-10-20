@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: George Washington. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revolutionen, franska revolutionen, Napoleon och industriella revolutionen, eftersom etiketten inte pekar ut vilken revolution eller person som är svaret. Ordet Washington förekommer aldrig i elevvänd text, inte heller huvudstaden med hans namn utskriven; den tillåtna namnekoledtråden är "Today, the capital of his country carries his name" utan att staden nämns vid namn. Frasen "American Revolution" och ordet "American" som namn på händelsen används aldrig; händelsen beskrivs i högst en kontextrad per kort som "thirteen colonies" som gör uppror mot den brittiska kungen. Körsbärsträdet markeras som en senare, odokumenterad saga från en biograf. Slaveriet vid Mount Vernon skildras ärligt utan hjältenarrativ: Ona Judge flyr och lever öppet i en nordlig stad, och testamentet friger bara de människor han själv äger, först efter hustruns död. Kungaförslaget är ett brev från en officer under kriget 1782, avvisat direkt, inget påhittat citat; han lämnar tillbaka sin skriftliga fullmakt, inte ett svärd. Napoleon nämns aldrig i korttext, bara som distraktor. Inga porträtt av honom i bilderna: han ses alltid bakifrån, på avstånd, eller bara som händer, eller så syns han inte alls i bilden. Inga kända målningar återges, inga flaggor.
+Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revolutionen, franska revolutionen, Napoleon och industriella revolutionen, eftersom etiketten inte pekar ut vilken revolution eller person som är svaret. Ordet Washington förekommer aldrig i elevvänd text, inte heller huvudstaden med hans namn utskriven; den tillåtna namnekoledtråden är "Today, the capital of his country carries his name" utan att staden nämns vid namn. Frasen "American Revolution" och ordet "American" som namn på händelsen används aldrig; händelsen beskrivs i högst en kontextrad per kort som "thirteen colonies" som gör uppror mot den brittiska kungen. Körsbärsträdet markeras som en senare, odokumenterad saga från en biograf. Slaveriet vid Mount Vernon skildras ärligt utan hjältenarrativ: Ona Judge flyr och lever öppet i en nordlig stad, och testamentet friger bara de människor han själv äger, först efter hustruns död. Kungaförslaget är ett brev från en officer under kriget 1782, avvisat direkt, inget påhittat citat; han lämnar tillbaka sin skriftliga fullmakt, inte ett svärd. Napoleon nämns aldrig i korttext, bara som distraktor. Inga porträtt av honom i bilderna: han ses alltid bakifrån, på avstånd, eller bara som händer, eller så syns han inte alls i bilden. Inga kända målningar återges, inga flaggor. Ordbilder: kort 3 har bara text i ordlistan, eftersom enslaved bara kan visas med symboler som bojor eller genom att upprepa huvudbildens arbetande människor, will är ett papper som bara går att läsa och escape bara kan visas symboliskt, så inget av orden kan visas entydigt med en bild.
 
 ---
 
@@ -36,8 +36,12 @@ Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revol
 ### Ordförklaringar (marginal)
 
 - **surveyor** — *a person whose job is to measure and map land*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a simple survey instrument of the 1750s: a plain brass sighting instrument mounted on a three-legged wooden tripod, standing in a sunlit grassy forest clearing, with a coiled iron measuring chain of long thin links lying on the grass beside it. Only the tripod instrument and the chain: no person, no hands, no dial with markings, no map, no modern surveying equipment, no orange vest, no road, no signs, no text, no letters, no numbers
 - **colonies** — *lands ruled by a country far away, across the sea*
 - **retreat** — *to move back and away from a battle, not forward*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a small column of tired eighteenth century soldiers in plain worn wool coats and tricorn hats, seen from the side at a distance, walking with heads down along a muddy country road toward the left edge of the picture in daylight with muskets shouldered, while a low line of grey battle smoke rises on the far right behind them. All figures walk left, away from the smoke: no flags, no drums, no steel helmets, no modern uniforms, no wounded, no blood, no river, no boats, no snow, no detailed faces, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -88,6 +92,8 @@ Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revol
 - **term** — *a fixed period of years in a job like president*
 - **capital** — *the main city of a country, where its leaders work*
 - **refuse** — *to say no, and mean it*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one seated person with brown skin in a plain pale-green shirt, head turned away and one open flat hand raised in front of the chest to say no, while another person's hand holds out a plate with a round loaf of bread. Calm plain background, timeless: only the one person and the offering hand, no angry faces, no modern objects, no phone, no logos, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -185,7 +191,11 @@ Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revol
 
 - **ally** — *a country or group that fights on your side*
 - **surrender** — *to stop fighting and admit defeat*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one soldier in a plain eighteenth century wool coat and tricorn hat who lays his musket flat on the ground in front of him and stands calmly with both empty hands open and raised, in an empty green field in daylight. Only the one soldier and his musket: no flag, no white flag, no other soldiers, no fort, no rain, no blood, no wounded, no steel helmet, no modern rifle, no text, no letters, no numbers
 - **fleet** — *a large group of warships that sail together*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a fleet of many tall wooden sailing warships of the 1780s, sailing together in a long line on a calm blue sea, all sails set and gun ports visible along their sides, seen from the side in clear daylight. Only the ships and the sea: no flags, no pennants, no smoke, no cannon fire, no fighting, no modern ships, no engines, no harbor, no land, no people, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -235,6 +245,8 @@ Not (ej elevvänd): kategorin är `revolutions`, som delas med amerikanska revol
 - **invent** — *to make up something that is not true or real*
 - **witness** — *a person who sees an event happen and can tell about it*
 - **generations** — *groups of people born and living around the same time*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three people of one family standing close together in a row outdoors in soft daylight, a grey-haired grandmother, her adult daughter and a young granddaughter, all with dark brown skin, smiling, in plain light-coloured clothes without prints or writing, arranged from oldest to youngest. Only these three people, timeless: no other people, no phones, no logos, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 

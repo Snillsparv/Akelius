@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Martin Luther King. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kortet så alla distraktorer hör hemma på 1900-talet: Thurgood Marshall, John Lewis, Jesse Jackson, Medgar Evers, W. E. B. Du Bois. Rosa Parks används inte som distraktor på något kort eftersom korten skriver he om Mr X; hon namnges i löptexten på kort 1. Malcolm X används inte som distraktor, dels för att X-ekot mot Mr X är en falsk ledtråd på åk 6-kortet, dels för att han namnges i löptexten på kort 4. Orden king, King, Luther och Martin förekommer aldrig i elevvänd text, titel, bildtext eller ordlista, bara i titelraden och i svarsalternativen; reformatorn med samma efternamn nämns inte alls. Gandhi och Mandela namnges inte, a leader in India who fights without weapons räcker som ledtråd. Kalla kriget, Berlinmuren, månlandningen, Hitler, Churchill, FN och World War nämns inte. Landet namnges en gång per kort där kortet annars inte kan stå ensamt (kort 2, 3 och 5 skriver the United States). Bilder: aldrig ett igenkännbart ansikte eller det berömda fotot vid minnesmärkets trappa, mannen ses bakifrån, på avstånd eller bara som händer, inga plakat, skyltar, certifikat eller andra textbärare, inga flaggor eller moderna fordon. Amerikansk stavning som i övriga korpusen. Tro markeras som tro. Våldet mot demonstranterna och mordet i Memphis skildras sakligt och lugnt utan gore, ingen hjältedyrkan, kritiken mot honom får plats. Skriven för elever i Tanzania och Bhutan som kanske inte känner till USA:s historia.
+Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kortet så alla distraktorer hör hemma på 1900-talet: Thurgood Marshall, John Lewis, Jesse Jackson, Medgar Evers, W. E. B. Du Bois. Rosa Parks används inte som distraktor på något kort eftersom korten skriver he om Mr X; hon namnges i löptexten på kort 1. Malcolm X används inte som distraktor, dels för att X-ekot mot Mr X är en falsk ledtråd på åk 6-kortet, dels för att han namnges i löptexten på kort 4. Orden king, King, Luther och Martin förekommer aldrig i elevvänd text, titel, bildtext eller ordlista, bara i titelraden och i svarsalternativen; reformatorn med samma efternamn nämns inte alls. Gandhi och Mandela namnges inte, a leader in India who fights without weapons räcker som ledtråd. Kalla kriget, Berlinmuren, månlandningen, Hitler, Churchill, FN och World War nämns inte. Landet namnges en gång per kort där kortet annars inte kan stå ensamt (kort 2, 3 och 5 skriver the United States). Bilder: aldrig ett igenkännbart ansikte eller det berömda fotot vid minnesmärkets trappa, mannen ses bakifrån, på avstånd eller bara som händer, inga plakat, skyltar, certifikat eller andra textbärare, inga flaggor eller moderna fordon. Amerikansk stavning som i övriga korpusen. Tro markeras som tro. Våldet mot demonstranterna och mordet i Memphis skildras sakligt och lugnt utan gore, ingen hjältedyrkan, kritiken mot honom får plats. Skriven för elever i Tanzania och Bhutan som kanske inte känner till USA:s historia. Ordbilder: kort 3 har bara text i ordförklaringarna, eftersom capital, segregation, citizens och character är abstrakta begrepp som ingen enskild bild visar entydigt, och en regeringsbyggnad med kupol vid en bred allé skulle dessutom likna Kapitolium i Washington.
 
 ---
 
@@ -33,6 +33,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 ### Ordförklaringar (marginal)
 
 - **pastor** — *a leader of a Christian church*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a friendly elderly pastor with dark-brown skin and short white hair, in a plain dark suit, white shirt and narrow dark tie, standing at the open door of a small white wooden village church with a plain steeple, holding a closed black Bible with a plain cover in one hand and raising the other hand in a warm greeting. He is the only person in the picture. No cross in sharp focus, no robes, no crowd, no flags, no figures in the windows, no cars, no signs, no text, no letters, no numbers
 - **protest** — *a public action that shows something is wrong*
 - **residents** — *people who live in a place*
 - **arrest** — *when police take a person away and do not let them go free*
@@ -82,8 +84,12 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 
 - **activists** — *people who work hard to bring about change*
 - **lunch counter** — *a long table in a shop where people sit to eat a quick meal*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long lunch counter in an American diner of the 1960s, with a pale Formica counter top with a chrome edge, a row of six round red vinyl swivel stools on chrome stands, two white plates with sandwiches, a glass coffee pot and a chrome napkin holder on the counter, soft daylight from a front window. No people, no menus, no signs, no clock, no cash register, no jukebox, no modern objects, no text, no letters, no numbers
 - **marchers** — *people who walk together to show what they believe*
 - **jail** — *a place where police keep people who are arrested*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a narrow bare concrete corridor in an old small-town jail of the 1960s, seen from one end, with three closed cells on the left side, each enclosed by heavy grey steel bars and a closed barred door, evenly lit by plain round ceiling lamps of the period, with no window in view. No people, no guards, no prisoners, no handcuffs, no blood, no cell numbers, no signs, no graffiti, no cameras, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -178,6 +184,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 - **criticism** — *comments that say what is wrong with something*
 - **campaign** — *an organized effort to reach a goal*
 - **poverty** — *the state of being very poor*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the inside of a bare one-room wooden house with worn plank walls and a plank floor, a plain wooden table holding one empty tin bowl and one empty tin cup, a thin worn mattress on the floor with a patched grey blanket, and two patched shirts hanging from nails on the wall, the room clean and tidy, soft light from a small window, calm and dignified mood. No people, no dirt, no garbage, no food, no toys, no pets, no other furniture, no electric lamps, no modern objects, no money, no text, no letters, no numbers
 - **sanitation** — *the systems that keep a place clean, like trash collection*
 
 ### Huvudbild
@@ -228,6 +236,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 - **reputation** — *what other people think and say about a person*
 - **sermons** — *religious speeches given in a church*
 - **incomplete** — *not whole, missing some parts*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a wooden jigsaw puzzle lying on a plain light table, almost finished and showing a simple blue sky above green hills, with one single piece missing in the middle so that a clear empty gap shows the bare table, seen from straight above in soft daylight. No hands, no loose pieces, no box, no printed marks on the pieces, no faces in the puzzle picture, no text, no letters, no numbers
 
 ### Huvudbild
 

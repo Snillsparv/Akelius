@@ -138,7 +138,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **canal** — *a small river that people dig; it brings water to the fields*
   - Visning: text+bild
-  - Ordbild: Photorealistic square photo of a narrow straight irrigation canal dug into the earth, with calm water running between bare earth banks and green barley fields on both sides under a clear sky. No concrete, no pipes, no pumps, no machines, no bridges, no people, no buildings, no signs, no text, no letters, no numbers
+  - Ordbild: Photorealistic square photo of a narrow straight irrigation canal dug into the earth, seen at eye level from its bank, with calm water running between bare earth banks and green barley fields on both sides under a clear sky. No aerial view, no city, no concrete, no pipes, no pumps, no machines, no bridges, no people, no buildings, no signs, no text, no letters, no numbers
 - **specialization** — *when each person learns one job very well*
 - **craft** — *a special skill or job; you learn it with long practice*
 - **stranger** — *a person you do not know*

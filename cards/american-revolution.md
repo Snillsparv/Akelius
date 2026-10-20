@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Amerikanska revolutionen. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American och namnet Washington förekommer aldrig i korttext, bildtext eller ordlista, bara i svarsalternativen. Frankrikes skuld nämns kort utan att peka ut Napoleon eller den franska revolutionen vid namn. Universitetskortet nämner Simón Bolívar. Högst ett exakt årtal per kort; övrig tid anges relativt.
+Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American och namnet Washington förekommer aldrig i korttext, bildtext eller ordlista, bara i svarsalternativen. Frankrikes skuld nämns kort utan att peka ut Napoleon eller den franska revolutionen vid namn. Universitetskortet nämner Simón Bolívar. Högst ett exakt årtal per kort; övrig tid anges relativt. Ordbilder: kort 5 har bara text i ordlistan, eftersom ratified, republic, inspires och homeland alla är abstrakta och inget av dem kan visas entydigt med en bild. Inget ord i setet visas entydigt av en bild ensam, så alla fem bildord är text+bild och setet saknar visningen bild; frontier är en gräns mellan odlad och vild mark och behöver förklaringen.
 
 ---
 
@@ -36,6 +36,8 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 - **colonies** — *lands ruled by another, faraway country*
 - **parliament** — *a group of people who make the laws of a country*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an eighteenth century lawmaking hall around 1770, with two facing rows of plain wooden benches where about fifteen white men in long dark coats, waistcoats and knee breeches, several wearing white powdered wigs, sit and listen while one man stands and speaks with one hand raised. Tall plain windows, stone walls, soft daylight, calm mood. No flags, no coats of arms, no crown, no mace, no famous building, no modern suits, no microphones, no cameras, no signs, no text, no letters, no numbers
 - **taxes** — *money that people must pay to their government*
 - **representation** — *having someone who speaks and votes for you*
 
@@ -86,6 +88,8 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 - **representatives** — *people chosen to speak and act for a group*
 - **declare** — *to say something clearly and officially*
 - **enslaved** — *forced to work for no pay and with no freedom*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a pair of heavy old black iron shackles joined by a short chain, lying on rough dark wooden planks in soft side light, aged with dull rust, like an object in a history museum. Only the shackles are shown. No people, no hands, no blood, no wounds, no modern handcuffs, no padlock, no key, no whip, no cotton field, no museum labels, no signs, no text, no letters, no numbers
 - **loyal** — *staying faithful and true to someone*
 
 ### Huvudbild
@@ -136,6 +140,8 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 - **liberty** — *freedom to live and choose as you wish*
 - **loyalists** — *people who stay faithful to the old king*
 - **frontier** — *the edge of settled land, close to the wild land beyond*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo, seen from a little height, of the sharp line where a few small cleared fields with tree stumps, a split rail fence and one tiny weathered log cabin with a wooden shingle roof suddenly end and a vast dense untouched forest begins, stretching on to far blue hills under a wide sky, late afternoon light, no people. No road, no power lines, no cars, no modern fences, no barbed wire, no flags, no town, no smoke, no signs, no text, no letters, no numbers
 - **property** — *land or things that a person owns*
 
 ### Huvudbild
@@ -185,7 +191,11 @@ Not (ej elevvänd): händelsen kallas Revolution X i elevtext; ordet American oc
 
 - **rival** — *a country or person competing against another*
 - **surrenders** — *stops fighting and admits defeat*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one white officer in a plain grey wool coat, tricorn hat and knee breeches of the 1780s, head lowered, holding out his sword hilt first to another white officer in a plain brown wool coat and tricorn hat, while behind him a short row of soldiers in the same grey coats stand with empty hands and their muskets lying on the grass at their feet. Open grassy field, calm quiet mood, soft overcast light, seen from a little distance. No fighting, no blood, no wounded, no smoke, no cannons, no flags, no drums, no medals, no gold braid, no red coats, no modern uniforms, no text, no letters, no numbers
 - **treasury** — *the money and wealth that a government or king controls*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of several plump canvas money sacks tied with rope and a few neat stacks of old blank gold and silver coins on a heavy oak table in a plain eighteenth century stone strongroom, lit by one small barred window. Calm and quiet, no people. No modern safe, no bank notes, no coins with writing or faces, no coats of arms, no royal symbols, no candles, no signs, no text, no letters, no numbers
 - **debt** — *money that you owe and must pay back*
 
 ### Huvudbild

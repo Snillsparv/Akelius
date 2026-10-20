@@ -35,6 +35,8 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 ### Ordförklaringar (marginal)
 
 - **carpenter** — *a person who builds things from wood*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a carpenter at work in a small simple woodworking shop, a man in his forties with medium-brown skin in a plain work shirt and a canvas apron, seen from the side as he saws a wooden plank on a sturdy wooden workbench with a hand saw. A half-built wooden chair and a finished wooden stool stand beside the bench, with pale wood shavings, a wooden mallet and chisels nearby, soft daylight, no power tools, no electric saw, no plastic, no ancient robes, no tunic, no crossed beams, no cross shape, no halo, no text, no letters, no numbers
 - **fisherman** — *a person who catches fish*
 - **shepherd** — *a person who takes care of sheep*
 
@@ -82,6 +84,8 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 ### Ordförklaringar (marginal)
 
 - **neighbor** — *a person who lives near you; here it means every other person*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of two neighbors in a small village about 2,000 years ago, with two simple one-room houses of whitewashed mud-brick and flat roofs standing side by side and a low stone wall between their small yards. A woman with olive-brown skin in a plain long linen dress and a plain head cloth passes a flat round loaf of bread over the wall to an older man with olive-brown skin in a plain undyed tunic, both smiling, a clay jar and a few hens in the yards, sunny day, no modern houses, no cars, no wire fences, no tourists, no flags, no signs, no text, no letters, no numbers
 - **enemy** — *a person who is against you*
 - **forgiveness** — *you stop being angry with a person who did a bad thing to you*
 - **golden rule** — *a famous rule: treat other people as you want them to treat you; Mr X says it with a 'do', not a 'do not'*
@@ -133,6 +137,8 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 - **parable** — *a short story with a lesson inside*
 - **foreigner** — *a person from another land or group*
 - **wound** — *a hurt place on the body*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a child's bare knee and shin with medium-brown skin and one small shallow scrape, the grazed patch pink and rough, the child sitting on dry dusty ground in soft daylight. Close view of the knee only, a mild everyday injury, no blood, no bleeding, no open flesh, no bandage, no cloth, no hands, no adult, no medical tools, no text, no letters, no numbers
 - **look down on** — *to think that a person is less important*
 
 ### Huvudbild
@@ -182,6 +188,8 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 - **faith** — *a strong belief in a religion*
 - **calendar** — *the way we count and name days and years*
 - **monk** — *a man who lives a simple, religious life*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a monk of the early Middle Ages, a man in his fifties with light olive skin, in a plain undyed brown wool hooded robe tied with a rope belt, hair shaved in a ring around the crown of his head, standing alone in quiet prayer with folded hands and bowed head in a small bare whitewashed stone cell of a monastery in Italy about 500 CE. A plain wooden bench, a straw mattress and a clay water jug are the only things in the cell, one narrow arched window with soft daylight, no table, no cross, no crucifix, no halo, no rosary, no candles, no books, no writing, no gold, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -231,6 +239,8 @@ Not (ej elevvänd): muslimer vördar Jesus som profeten Isa; avbildningar av hon
 - **believer** — *a person who belongs to a religion*
 - **neutral** — *not taking any side*
 - **historian** — *a person who studies the past*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a woman historian in her fifties with dark-brown skin and short grey hair, in a plain grey cardigan, seen from the side as she sits at a wooden table in a quiet archive reading room and turns the page of a large old leather-bound volume. Three more old volumes and a pencil lie beside her, tall shelves of old bound books in soft focus behind, the open pages turned away from the camera so nothing on them can be read, no papyrus, no gloves, no magnifying glass, no laptop, no phone, no tourists, no signs, no labels, no text, no letters, no numbers
 
 ### Huvudbild
 

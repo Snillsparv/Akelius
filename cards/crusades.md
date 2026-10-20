@@ -33,9 +33,13 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **knight** — *a soldier on a horse with metal clothes, long ago*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-skinned European man standing upright and calm in the 12th century dress of a knight: a long knee-length mail shirt with the mail hood pushed back, a plain undyed linen surcoat, a leather belt with a sheathed sword, and a conical iron helmet with a nose guard held under his arm. He stands alone in a plain stone courtyard with a plain unpainted wooden shield resting against his leg, and there is no horse, no crowd, no battle, no raised weapon, no horned helmet, no heraldry, no crosses, no flags, no plate armor, no modern objects, no text, no letters, no numbers
 - **holy** — *very special and important for a religion*
 - **priest** — *a man who leads prayers in a church*
 - **sew** — *to join cloth with a needle and thread*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a close view of two adult light-brown hands sewing two pieces of plain undyed linen cloth together, with a thin steel needle and a long thread pulled halfway through the edge of the cloth and a row of small even stitches behind it. Plain wooden table, soft daylight, nothing else in the frame. No sewing machine, no scissors, no pins, no thimble, no patterns on the cloth, no cross shapes, no embroidery, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -85,6 +89,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **forgive** — *to stop being angry about a bad act*
 - **honor** — *a good name; people think highly of you*
 - **merchant** — *a person who buys and sells things*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an olive-skinned man with a short dark beard, in 12th century dress of a long belted linen tunic and a plain cloth cap, standing behind a plain wooden table and weighing a small heap of dried figs on a hand-held brass balance scale, with a few folded pieces of plain undyed cloth stacked beside him. Close simple composition, warm daylight, one man only, respectful everyday look. No caricature, no awning, no spice bowls, no market crowd, no coins, no signs, no modern clothes, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -131,7 +137,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **shore** — *the land at the edge of the sea*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a quiet natural shoreline, with a strip of pale sand and small smooth pebbles where gentle waves reach the land, calm blue sea on one side and dry land with low grass on the other, under a clear sky. No ships, no boats, no harbor, no pier, no people, no buildings, no umbrellas, no litter, no modern objects, no text, no letters, no numbers
 - **pilgrim** — *a person who travels far to visit a holy place*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-brown-skinned man seen from the side, resting on a flat roadside stone, in 12th century traveler's dress: a rough brown wool hooded cloak, a broad-brimmed felt hat, leather boots, a long wooden walking staff, a small leather satchel and a leather water flask at his belt. Dry golden hills and an empty dusty road behind him, calm quiet mood. No other people, no horse, no cross, no shell badge, no church, no weapons, no flags, no modern objects, no text, no letters, no numbers
 - **merchant** — *a person who buys and sells things*
 - **translate** — *to say or write something again in another language*
 
@@ -183,6 +193,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **chapter** — *one part of a book; here: one part of a story*
 - **rob** — *to take things from people with force*
 - **Constantinople** — *a big old city by the sea; today it is Istanbul in Turkey*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a large medieval city by the sea around the year 1200, seen from a hillside above its red-tiled rooftops: one huge grey stone church with a wide shallow dome and heavy stone buttresses rises among the houses, and the calm open sea lies beyond, in bright midday light. Peaceful everyday mood, no city walls or gates in the foreground, no ships, no harbor quay, no minarets, no smoke, no fire, no attack, no soldiers, no flags, no crescent, no religious symbols on the roofs, no modern buildings, no text, no letters, no numbers
 - **ordinary** — *normal, not special*
 
 ### Huvudbild
@@ -232,6 +244,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **politician** — *a person who works with power and government in a country*
 - **source** — *an old text or thing that gives us knowledge about the past*
 - **historian** — *a person who studies the past*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a middle-aged Black woman with short grey hair and round glasses, in a plain olive cardigan, seated at a plain wooden table and leaning over one single large old yellowed manuscript sheet, studying it closely with a magnifying glass, seen from the side and slightly behind so that the surface of the sheet is hidden by her shoulder and the steep angle. Soft window light, calm quiet room, nothing else on the table, no second document, no books, no stacks of paper, no computer, no phone, no writing or script of any kind on the sheet, no calligraphy, no Arabic-style script, no logos, no text, no letters, no numbers
 
 ### Huvudbild
 

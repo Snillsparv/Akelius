@@ -34,8 +34,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **holy** — *very special for a god or a religion*
 - **wrestler** — *a sports person who tries to bring another person to the ground, without hitting*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of two young men wrestling on a flat patch of pale sand, one with light olive skin and one with tanned brown skin, both wearing only a plain short cream linen tunic, bent forward and gripping each other's shoulders and upper arms with legs braced wide as one pushes to bring the other down to the ground, seen from the side in warm daylight. A fair sport with focused faces and nothing else in the picture. No punches, no blood, no nudity, no hugging, no boxing ring, no ropes, no mats, no referee, no crowd, no columns, no statues, no modern wrestling clothes, no text, no letters, no numbers
 - **stadium** — *a big place for sport, with room for many watchers*
 - **crown** — *a ring that you wear on your head*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one plain golden king's crown with a band and pointed peaks and a few small red and blue jewels, standing on a dark red velvet cushion on a plain pale stone shelf, seen from the front at slightly above eye level in soft daylight. Only the crown and the cushion, no cross on top, no coat of arms, no symbols of a state, no flags, no leaves, no person, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -84,6 +88,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **messenger** — *a person who carries news from place to place*
 - **holy** — *very special for a god or a religion*
 - **athlete** — *a person who does sport, for example a runner*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a young athlete, a man with medium brown skin, running barefoot and fast along an empty reddish-brown dirt track in open countryside, seen from the side in mid-stride with his arms bent and one knee raised, wearing only a plain light sleeveless top and plain short trousers. Only the one runner in warm daylight, no crowd, no stadium, no medals, no wreath, no torch, no finish tape, no starting blocks, no logos, no stopwatch, no phones, no numbers on the clothes, no text, no letters, no numbers
 - **compete** — *to try to win against others*
 
 ### Huvudbild
@@ -133,6 +139,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **oath** — *a very serious promise*
 - **cheater** — *a person who breaks the rules to win*
 - **discus** — *a flat, round, heavy plate that athletes throw far*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one heavy flat round bronze discus with a slightly domed middle and a worn dark green-brown surface, resting on a pale stone ledge and seen from the side at a low angle so that both its round shape and its thickness show, in soft daylight. Only the discus, no hand, no athlete, no sand, no vase, no statue, no museum label, no engraving, no text, no letters, no numbers
 - **honor** — *when people see you as good and fair*
 
 ### Huvudbild
@@ -181,8 +189,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **religion** — *belief in a god or gods, with its own rules and feasts*
 - **festival** — *a big feast or celebration for many people*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a joyful village festival on a sunny evening, a crowd of people of many skin colors in simple plain colorful clothes of no particular country dancing in a circle on bare ground under strings of paper lanterns and flower garlands, with two musicians playing a hand drum and a wooden flute and a long table with bread, fruit and jugs behind them. Happy crowd seen from a little distance, no national costumes, no priests, no altar, no statues, no flags, no banners, no sports, no electric lights, no cars, no phones, no modern clothes, no text, no letters, no numbers
 - **host** — *to hold the games in your own city*
 - **flame** — *the bright, burning part of a fire*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a close-up of bright orange and yellow flames rising from a small wood fire, the tongues of fire filling the picture against a dark background with a few glowing logs at the bottom edge. Only fire, no torch, no bowl, no cauldron, no lamp, no candle, no stadium, no person, no smoke cloud, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -231,7 +243,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **source** — *an old text or thing that gives us knowledge about the past*
 - **earthquake** — *when the ground shakes strongly*
 - **bury** — *to cover something with earth or sand*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a plain old wooden chest with iron bands lying on bare ground, half of it already covered by a heap of pale sand and brown earth while loose sand slides down the side of the heap and covers more of it, in calm warm light. Only the chest, the heap and the sand, no shovel, no person, no hand, no gold coins, no lock details, no columns, no ruins, no grass, no river, no text, no letters, no numbers
 - **archaeologist** — *a person who digs in the ground to find things from the past*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an archaeologist, a woman with medium brown skin in a wide-brimmed sun hat, a plain khaki shirt and work gloves, kneeling at the edge of a shallow square pit in dry brown soil and gently brushing earth from a half-uncovered clay pot with a small soft brush, with a small hand trowel and a flat sieve on the ground beside her. Sunny day and only the one person, no stone blocks, no columns, no tourists, no signs, no string grid, no tents, no machines, no bones, no mummy, no text, no letters, no numbers
 
 ### Huvudbild
 

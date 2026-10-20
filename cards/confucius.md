@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Konfucius. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 2 och kort 5 har bara text i ordförklaringarna, eftersom golden rule, culture och treat på kort 2 och sayings, century, reformer och old-fashioned på kort 5 är abstrakta begrepp, tidsmått eller roller som inte går att visa entydigt i en bild för eleven; en festscen eller en talare på en låda skulle lära ut fel ord.
 
 ---
 
@@ -33,6 +34,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **school fee** — *money or a gift you give so you can learn at a school*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two hands of a young East Asian person with light-tan skin, in the rough undyed hemp sleeves of a plain robe of ancient China around 500 BCE, holding out a small bundle of dried meat strips tied with plain hemp string, offered toward the viewer, only the hands, the sleeves and the bundle in the picture against a soft plain wall. No face, no coins, no money, no table, no modern packaging, no plastic, no ribbon, no gold, no text, no letters, no numbers
 - **kindness** — *being good and friendly to other people*
 - **honesty** — *telling the truth*
 - **respect** — *you show that a person is important to you*
@@ -131,6 +134,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **official** — *a person who does work for the country and its ruler*
 - **punishment** — *trouble you get when you break a rule*
 - **examination** — *a big, important test*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a quiet open hall in imperial China about 1000 CE with simple wooden pillars, where about twelve young Chinese men with light-tan skin, in plain long light-coloured robes and black cloth caps, hair in topknots, sit at small low wooden desks in neat rows, each bent over a blank sheet of paper with a writing brush in hand, while one older man in a darker robe stands at the end of the hall and watches. Soft daylight from open side doors. No cubicle cells, no palace, no ruler, no banners, no scrolls with writing, no written characters on the paper, no modern desks, no clock, no queue hairstyle, no text, no letters, no numbers
 - **honest** — *you say what is true; you do not lie or cheat*
 
 ### Huvudbild
@@ -179,6 +184,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **li** — *a Chinese word for polite ways to do things, like greeting or eating together*
 - **glue** — *a sticky material that holds things together; here: what holds people together*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a plain unlabelled white squeeze bottle of white glue with a white pointed nozzle and a drop of glue at its tip, lying on its side on a light wooden table, next to two plain light-brown paper strips stuck together by a smear of white glue pressed out at the edge of the joint. No brand name, no label, no logo, no paint, no brush, no scissors, no hands, no craft clutter, no text, no letters, no numbers
 - **society** — *all the people who live together in a country or group*
 - **tradition** — *old ways that pass from parents to children*
 

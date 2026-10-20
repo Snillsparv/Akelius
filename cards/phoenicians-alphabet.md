@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Fenicierna och alfabetet. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 3 har bara text i ordförklaringarna, eftersom city-state, empire, network och conquest är abstrakta begrepp som bara kan visas med text eller symboler; ett spindelnät för network vore bara en symbol, och en krigsscen för conquest bryter mot idéhistoria före krig.
 
 ---
 
@@ -35,7 +36,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **trader** — *a person who buys and sells things*
 - **cedar** — *a tall tree with strong, good-smelling wood*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one tall mature cedar tree with a thick trunk and wide, flat, layered branches of dark green needles, standing alone on a rocky mountain slope under a clear blue sky. No other trees, no snow, no people, no tourists, no fences, no paths, no signs, no buildings, no text, no letters, no numbers
 - **dye** — *something that gives color to cloth*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a skein of undyed cream wool yarn lying with one half dipped in a shallow round clay bowl of deep red dye, the dipped half of the wool already dark red, on a plain rough wooden table. No purple, no sea snail shells, no hands, no glass bottle, no plastic, no modern objects, no text, no letters, no numbers
 - **rare** — *very hard to find; there is only a little of it*
 
 ### Huvudbild
@@ -86,6 +91,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **sign** — *a simple mark that you write, like a letter*
 - **scribe** — *a person whose job is writing*
 - **port** — *a town by the sea where ships stop*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a small ancient Mediterranean port town seen from a hillside above, with a sheltered bay of calm blue water, three wooden sailing ships with single square sails lying beside a short stone pier, and flat-roofed stone houses along the shore. No people close up, no modern ships, no cranes, no lighthouse, no modern buildings, no cars, no flags, no signs, no text, no letters, no numbers
 - **alphabet** — *a small set of letters that people use to write all words*
 
 ### Huvudbild
@@ -186,6 +193,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **trader** — *a person who buys and sells things*
 - **vowel** — *a letter for an open sound, like A, E, O*
 - **ox** — *a strong farm animal, like a big cow*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one large brown ox with a heavy muscular neck and shoulders and two thick curved horns, standing side-on in a dry grassy field in soft daylight. No yoke, no cart, no rope, no fence, no other animals, no people, no ear tags, no modern objects, no text, no letters, no numbers
 - **sign** — *a simple mark that you write, like a letter*
 
 ### Huvudbild
@@ -234,7 +243,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **papyrus** — *a kind of paper made from a river plant*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a bundle of cut green papyrus stalks with feathery tops lying beside one flat sheet of pale tan papyrus made of pressed crossing strips, on a pale stone ledge beside calm river water. No ink, no writing, no scroll, no hands, no boats, no modern paper, no modern objects, no text, no letters, no numbers
 - **rot** — *to slowly break down and fall apart, like old wet wood*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one old wooden plank lying on damp dark soil, rotten through: soft, dark brown and crumbling at the ends, split open along the grain, with patches of green moss and a few small mushrooms growing on it. No new wood, no nails, no paint, no hands, no tools, no litter, no modern objects, no text, no letters, no numbers
 - **rival** — *a person or group that fights or competes with you*
 - **archaeologist** — *a scientist who digs in the ground and studies old things*
 

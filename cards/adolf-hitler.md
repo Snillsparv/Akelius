@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Adolf Hitler. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-talsset i leverans 7; distraktorerna är alla 1900-talsdiktatorer eller ledare och varieras mellan korten. Mr X:s namn, partinamnet, hakkorset och ordet Führer förekommer aldrig i elevvänd text eller bildmotiv; Tyskland, Wien, München och Berlin är avsedda geografiska ledtrådar. Korsläckor: detta set skriver aldrig "World War I" eller "World War II", bara "the great war of 1914" i kort 2 och i övrigt generiskt "war"/"his war"; inga namn på Churchill, Gandhi eller FN. Stalin, Mussolini, Franco, Kejsar Wilhelm II och Hideki Tojo får förekomma som distraktorer. Bilder: aldrig hans ansikte eller ett igenkännbart porträtt, aldrig hakkors eller partisymboler, aldrig Hitlerhälsningen eller massmöten med utsträckta armar, inga uniformsdetaljer, inga lägerbilder med offer, ingen gore. Motiven är en stängd tidningsredaktion, en stängd skoldörr, en härbärgessovsal, ett kargt fängelserum, ett krossat skyltfönster på håll, en resväska vid en dörr, en radio på ett köksbord, ett minnesmärke med ljus i dagens München, en rättssal sedd bakifrån och ett knippe kuvert med en dagbok, alla utan läsbar text och utan upprepning av motiv i setet. Syftet är att visa hur en demokrati kan förstöras steg för steg och vad som följer, aldrig ett porträtt som bjuder in till fascination.
+Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-talsset i leverans 7; distraktorerna är alla 1900-talsdiktatorer eller ledare och varieras mellan korten. Mr X:s namn, partinamnet, hakkorset och ordet Führer förekommer aldrig i elevvänd text eller bildmotiv; Tyskland, Wien, München och Berlin är avsedda geografiska ledtrådar. Korsläckor: detta set skriver aldrig "World War I" eller "World War II", bara "the great war of 1914" i kort 2 och i övrigt generiskt "war"/"his war"; inga namn på Churchill, Gandhi eller FN. Stalin, Mussolini, Franco, Kejsar Wilhelm II och Hideki Tojo får förekomma som distraktorer. Bilder: aldrig hans ansikte eller ett igenkännbart porträtt, aldrig hakkors eller partisymboler, aldrig Hitlerhälsningen eller massmöten med utsträckta armar, inga uniformsdetaljer, inga lägerbilder med offer, ingen gore. Motiven är en stängd tidningsredaktion, en stängd skoldörr, en härbärgessovsal, ett kargt fängelserum, ett krossat skyltfönster på håll, en resväska vid en dörr, en radio på ett köksbord, ett minnesmärke med ljus i dagens München, en rättssal sedd bakifrån och ett knippe kuvert med en dagbok, alla utan läsbar text och utan upprepning av motiv i setet. Syftet är att visa hur en demokrati kan förstöras steg för steg och vad som följer, aldrig ett porträtt som bjuder in till fascination. Ordbilder: kort 5 har bara text i ordförklaringarna, eftersom intentions, institutions, phenomenon och denial är abstrakta begrepp som inte går att visa entydigt i en bild.
 
 ---
 
@@ -35,6 +35,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-ta
 ### Ordförklaringar (marginal)
 
 - **elections** — *when people vote to choose their leaders*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a ballot box with a dark wooden frame and clear glass sides, already about half full of folded blank paper slips, with a narrow slot in its wooden lid, standing on a simple table in a bare, bright polling room, and a hand with light skin in the sleeve of a plain dark wool coat of the 1930s dropping a folded blank paper slip into the slot. A plain cloth-curtained voting booth stands softly out of focus behind it. Only the hand, the sleeve and the box are clearly visible, no face, no flags, no posters, no party symbols, no signs, no voting machines, no plastic, no modern objects, no text, no letters, no numbers
 - **president** — *the highest elected leader of a country*
 - **bans** — *makes something against the law*
 - **opinions** — *what a person thinks or believes*
@@ -85,6 +87,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-ta
 ### Ordförklaringar (marginal)
 
 - **academy** — *a school for special skills, like art or science*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a bright art school studio with tall windows, seen from behind three students, one with dark brown skin and two with light skin, who sit at wooden drawing boards in plain grey work aprons and sketch a still life of a jug and two apples on a draped table at the front of the room. Calm, orderly daylight. No faces visible, no easels, no portraits, no busts, no laptops, no phones, no logos on clothes, no posters, no signs, no text, no letters, no numbers
 - **gassed** — *poisoned by a dangerous gas, used as a weapon in the war*
 - **seize** — *to take something suddenly and by force*
 - **economic crisis** — *a time when many businesses fail and people lose work and money*
@@ -136,6 +140,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-ta
 
 - **citizens** — *people who legally belong to a country and share its rights*
 - **synagogues** — *buildings where Jewish people gather to pray*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the calm, empty interior of an old European synagogue, with rows of plain wooden benches facing a raised wooden reading platform with a low rail in the middle of the hall, a tall carved wooden cabinet closed by a plain curtain at the far wall with a small oil lamp hanging on a chain and glowing softly in front of it, and soft daylight from tall arched windows. Respectful, quiet and undamaged. No people, no crosses, no altar, no statues, no paintings of people, no stars, no menorah, no emblems on the curtain, no flags, no Hebrew letters or inscriptions, no books with visible writing, no modern objects, no text, no letters, no numbers
 - **camps** — *here: guarded places where prisoners are kept against their will*
 - **persecution** — *cruel and unfair treatment of a group, again and again*
 
@@ -187,6 +193,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, delad med övriga 1900-ta
 - **youth groups** — *clubs where children and teenagers meet, often run by the state*
 - **secret police** — *police who spy on citizens in secret, not openly*
 - **leaflets** — *small printed sheets of paper with a message*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of many identical small paper leaflets, each about the size of a hand, scattered across pale old wooden floorboards, with a few of them lifted in mid-air as if thrown, all leaflets plain white and completely blank. Soft window light, simple and quiet. No people, no hands, no ink marks, no printing, no pictures on the leaflets, no newspapers, no envelopes, no cobblestones, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 

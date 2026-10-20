@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Franska revolutionen. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och ingen avrättningsscen i någon bild; kungens och Robespierres avrättningar hålls sakligt i korttexten utan gore. Ingen trikolorflagga eller annan flagga i bild. Saint-Domingue kallas vid sitt dåtida namn, inte Haiti, och resningen där hålls kort så att ett eget framtida Haiti-set inte föregrips. Frankrike och Paris är avsiktliga geografiska ledtrådar och får förekomma. Årtalet 1789 nämns bara en gång i hela setet, i kort 1; övriga kort använder relativ tid.
+Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och ingen avrättningsscen i någon bild; kungens och Robespierres avrättningar hålls sakligt i korttexten utan gore. Ingen trikolorflagga eller annan flagga i bild. Saint-Domingue kallas vid sitt dåtida namn, inte Haiti, och resningen där hålls kort så att ett eget framtida Haiti-set inte föregrips. Frankrike och Paris är avsiktliga geografiska ledtrådar och får förekomma. Årtalet 1789 nämns bara en gång i hela setet, i kort 1; övriga kort använder relativ tid. Ordbilder: kort 3 och 4 har bara text i ordlistan, eftersom monarchy, republic, trial och execute på kort 3 samt liberty, colony, abolish och enslaved på kort 4 är abstrakta eller känsliga och ingen av dem kan visas entydigt med en bild utan att upprepa kortets huvudbild eller bryta bildreglerna.
 
 ---
 
@@ -38,6 +38,8 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 - **estate** — *one of the big social groups in an old kingdom*
 - **noble** — *a person born into a rich, powerful family*
 - **fortress** — *a strong building built to defend against attack*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one large old stone fortress with very thick sloping walls and square towers at its corners, a dry moat around its walls, standing alone on a grassy hill in open countryside under a clear sky, no people. Only the fortress is shown. No crowd, no round towers, no city street, no smoke, no flags, no tourists, no modern buildings, no cars, no signs, no text, no letters, no numbers
 - **tax** — *money that people must pay to a government*
 
 ### Huvudbild
@@ -88,6 +90,8 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 - **parliament** — *a group of people chosen to make laws for a country*
 - **declaration** — *an official written statement that says something clearly*
 - **guard** — *a soldier who protects a person or a place*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one young white soldier on guard duty in the 1790s, standing upright and alert beside a plain wooden sentry box in front of a plain stone gateway, in a long dark blue coat with red collar and white crossed belts, white breeches, black gaiters and a black tricorn hat, a musket held upright at his side, calm daylight. Only this one man is shown. No fighting, no raised weapon, no bayonet, no helmet, no flags, no cockade, no coats of arms, no modern uniform, no signs, no text, no letters, no numbers
 - **flee** — *to run away from danger, often in secret*
 
 ### Huvudbild
@@ -235,6 +239,8 @@ Not (ej elevvänd): Napoleon namnges aldrig i detta set. Ingen giljotin och inge
 ### Ordförklaringar (marginal)
 
 - **pamphlet** — *a small, thin printed text that argues for an idea*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three small thin unbound booklets of rough off-white paper in eighteenth century style, folded and loosely stitched along the spine with thread, with plain blank covers, lying slightly fanned out on a plain old wooden table in soft window light. Only the booklets are shown. No people, no handwriting, no printed lines, no titles on the covers, no bound books, no newspapers, no archive shelves, no string bundles, no grey boxes, no quill, no candle, no magnifying glass, no signs, no text, no letters, no numbers
 - **revisionist** — *a historian who questions and rewrites an older, accepted story*
 - **nobility** — *the group of people born into powerful, high-ranking families*
 - **source** — *an old text or thing that gives us knowledge about the past*

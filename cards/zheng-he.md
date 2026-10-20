@@ -95,8 +95,14 @@ numbers".
 - **fleet** — *a large group of ships that travel together*
 - **emperor** — *a powerful ruler of a whole country, like ancient China*
 - **porcelain** — *a hard, thin, white type of pottery*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a single plain white porcelain bowl of simple early fifteenth-century Chinese shape, with thin smooth glossy walls and a small foot ring, standing on a bare dark wooden table in soft side light so that the thin pale rim glows slightly. No painted pattern, no blue decoration, no dragon, no lid, no tea or food in the bowl, no hands, no other dishes, no modern objects, no text, no letters, no numbers
 - **incense** — *a material that gives a sweet smell when it is burned*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three thin incense sticks burning upright in a small plain bowl of grey ash, each tip glowing softly with a thin curl of pale smoke rising in still air against a calm dark background. No open flame, no holder shaped like a figure, no statue, no altar, no temple, no candle, no flowers, no person, no modern objects, no text, no letters, no numbers
 - **ivory** — *the hard white material from an elephant's tusk*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a single large smooth curved cream-white elephant tusk lying on a plain undyed linen cloth, its wide hollow end toward the viewer and its pointed tip curving away, in soft side light. No elephant, no animal, no hunter, no blood, no carving, no scale, no ship, no people, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -145,6 +151,8 @@ numbers".
 
 - **translators** — *people whose job is to turn words from one language into another*
 - **astrologers** — *people who study the stars and believe they can predict the future*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a Chinese man with dark hair and light tan skin, in a plain dark blue robe and a black gauze hat of the early Ming style, seen only from behind, sitting on a bare wooden stool on a flat stone rooftop at night and looking up at a deep sky full of stars with a pale moon. No face visible, no telescope, no star chart, no armillary sphere, no zodiac or other symbols, no lamp, no modern objects, no text, no letters, no numbers
 - **ivory** — *the hard white material from an elephant's tusk*
 - **porcelain** — *a hard, thin, white type of pottery*
 
@@ -194,9 +202,13 @@ numbers".
 ### Ordförklaringar (marginal)
 
 - **throne** — *the special chair, and the power, of a king or emperor*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an empty grand throne seen close up, a wide richly carved wooden armchair with a tall straight back and broad armrests in red lacquer with simple gold trim, raised on a low square wooden platform with two wide steps in a bare dim room lit softly from one side. No person, no dragon, no animal figures, no emblem, no flags, no pillars, no screen, no officials, no modern objects, no text, no letters, no numbers
 - **rival** — *a person who competes against you for power or a prize*
 - **capture** — *to catch and hold a person as a prisoner*
 - **pirate** — *a person who attacks and robs ships at sea*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one low narrow wooden boat packed with a mixed crew of rough-looking armed sailors, some Chinese and some Southeast Asian, in plain early fifteenth-century cotton clothes and head cloths, rowing hard toward a heavily loaded wooden trading ship on a calm open sea. A tense but bloodless moment before any fight, the men holding plain curved swords pointed down at their sides. No fighting, no blood, no fire, no dead bodies, no flags, no skull-and-crossbones, no eye patches, no parrots, no cannons, no European ships, no modern ships, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -244,8 +256,12 @@ numbers".
 
 - **scholar-officials** — *highly educated men who pass hard exams and run the government*
 - **grain** — *seeds of wheat, rice, or corn used as food*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of two shallow plain wooden bowls side by side on a bare wooden table, one full of loose golden wheat grains and one full of white rice grains, every grain sharp in soft daylight. No maize, no corn cobs, no sacks, no barge, no bread, no flour, no scoop, no people, no modern objects, no text, no letters, no numbers
 - **costly** — *expensive, costing a great deal of money*
 - **voyage** — *a long journey by sea*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one large early fifteenth-century Chinese wooden junk with tall masts and battened sails, sailing alone across a wide empty open sea toward the horizon under a big pale sky, seen from the side and small against the water. No land, no other ships, no flags, no people in focus, no European galleons, no modern ships, no engine smoke, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -295,6 +311,8 @@ numbers".
 - **tablets** — *flat pieces of stone or wood with words cut or written on them*
 - **evidence** — *facts that help prove something is true*
 - **diverge** — *to separate and go in different directions*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a plain dirt path across a green meadow, seen from slightly above, splitting into two separate paths that curve away in clearly different directions, one to the left and one to the right, in soft daylight. No people, no animals, no signposts, no fences, no buildings, no vehicles, no modern objects, no text, no letters, no numbers
 - **engineering** — *the skill of designing and building large structures like ships or bridges*
 
 ### Huvudbild

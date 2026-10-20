@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Christofer Columbus. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 4 har bara text i ordförklaringarna, eftersom colony, governor, punish och cruelty är abstrakta begrepp om makt och handlingar som varken kan visas entydigt eller utan att bli porträtt av kortets person eller våldsbilder.
 
 ---
 
@@ -35,7 +36,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **barrel** — *a big round wooden container for food or drink*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one large old wooden barrel made of oak staves held together by dark iron hoops, standing upright with a flat closed lid on a plain flat stone floor, seen from slightly above in soft daylight. Only the barrel, no ship, no deck, no ropes, no bread, no sailors, no plastic, no modern objects, no labels, no stamps, no marks, no text, no letters, no numbers
 - **deck** — *the open floor of a ship*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the bare open wooden deck of an old-style wooden sailing ship, seen from a low angle along the wide worn planks toward the base of a thick wooden mast, with a low plain wooden rail at the edge and calm blue sea beyond, in warm morning light. Empty deck, no people, no barrels, no sails with markings, no flags, no crosses, no steel railings, no engines, no modern fittings, no modern objects, no text, no letters, no numbers
 - **crew** — *all the people who work on a ship*
 - **lookout** — *a sailor whose job is to watch for land or danger*
 
@@ -88,6 +93,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **expert** — *a person who knows one subject very well*
 - **voyage** — *a long journey by ship*
 - **continent** — *one of the biggest land areas of the earth, like Africa or Asia*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the Earth seen from space, with the whole continent of Africa in its true real-world shape clearly visible in the center as one huge area of green, brown and sand-colored land, surrounded by deep blue ocean and a few soft white clouds against plain black space. No distorted coastlines, no invented land, no country borders, no lines, no globe stand, no spacecraft, no satellite, no moon, no city lights, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -135,7 +142,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **cassava** — *a root plant; people make flour and bread from it*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three freshly dug cassava roots, long brown tubers with rough bark-like skin, lying on a plain wooden board, with one root broken in two to show the plain white flesh inside, in soft daylight. Only the roots, no leaves, no other vegetables, no potatoes, no flour, no bread, no pots, no knife, no people, no packaging, no stickers, no modern objects, no text, no letters, no numbers
 - **hammock** — *a hanging bed made of woven cloth or net*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one simple hand-knotted net hammock of undyed cream cotton cord, tied with plain rope to two palm tree trunks and gently sagging, empty, with soft green tropical foliage behind it in warm afternoon light. No wooden spreader bars, no colorful stripes, no pillows, no people, no house, no beach chairs, no resort, no modern objects, no text, no letters, no numbers
 - **smallpox** — *a deadly sickness with high fever and sores on the skin*
 - **defense** — *protection against an attack or a sickness*
 
@@ -236,6 +247,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **logbook** — *a book where a ship's captain writes what happens every day*
 - **archaeologist** — *a person who digs in the ground to study how people lived long ago*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two bare hands with medium-brown skin using a small soft brush to gently clean the soil from an old broken clay pot half buried in the wall of a neat, square dug trench, with a small metal trowel lying on the soil beside it, in soft daylight. Only the hands, the brush, the trowel, the pot and the trench, no face, no skeleton, no skull, no bones, no tourists, no tents, no signs, no tags, no labels, no phones, no machines, no text, no letters, no numbers
 - **statue** — *a figure of a person, made of stone or metal*
 - **indigenous** — *belonging to the first peoples of a land*
 

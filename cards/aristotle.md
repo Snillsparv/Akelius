@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Aristoteles. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 3 och kort 4 har bara text i ordförklaringarna, eftersom argument, mortal och logic på kort 3 och courage, coward, reckless och generosity på kort 4 är abstrakta begrepp eller egenskaper som inte går att visa entydigt i en bild för eleven.
 
 ---
 
@@ -34,8 +35,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **collect** — *to bring many things together in one place*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two hands with medium-brown skin dropping a spiral seashell into a woven straw basket that is already half full of many different seashells of different sizes and colours, resting on pale sand in soft daylight. Only the hands and the basket are in the picture, no face, no sea, no feet, no bucket, no plastic, no tourists, no leaves, no feathers, no text, no letters, no numbers
 - **compare** — *to look at two things and see what is the same and what is different*
 - **prince** — *the son of a king*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a boy of about ten with olive skin and dark curly hair, wearing a fine white wool tunic with a wide purple border and a thin gold band around his head, standing proudly beside his father, a bearded king with olive skin, a thin gold band on his head and a purple-bordered robe, who sits on a plain carved wooden throne and rests a hand on the boy's shoulder, in a simple stone hall of ancient Greece with wooden beams and sunlight from a small window. No medieval castle, no velvet, no spiked crowns, no swords, no flags, no banners, no statues, no marble columns, no soldiers, no crowd, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -82,8 +87,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **octopus** — *a sea animal with eight arms*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single orange-brown octopus resting on a sandy sea floor in clear shallow water, seen from slightly above with exactly eight arms spread out, clearly separate and fully visible, in natural sunlight. No divers, no hands, no fishing nets, no tide pool, no rocks, no crab, no small fish, no extra or missing arms, no text, no letters, no numbers
 - **biologist** — *a scientist who studies living things*
 - **root** — *the place where something begins, like the root of a plant*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a young green bean seedling lying on a flat piece of dark moist soil, pulled out whole so that its pale, branching roots below the stem are clearly visible and spread out, with a few fresh leaves above, against a plain calm background. No hands, no flowers, no pot, no tools, no tree, no water, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -227,6 +236,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **scholar** — *a person who studies books deeply*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an elderly man with light-brown skin and a short grey beard, in a plain long cream-coloured linen robe, sitting at a plain wooden desk by a sunlit window and deeply focused on reading one thick book that he holds up open in both hands, its plain brown leather cover turned toward the viewer so that no page is visible. Daylight, one single book only. No stacks of books, no candles, no scroll, no turban, no glasses, no laptop, no modern lamp, no calligraphy, no pseudo-writing, no Arabic-style script, no marks or symbols on the cover, no text, no letters, no numbers
 - **authority** — *a person or a book that many people trust and follow*
 - **century** — *one hundred years*
 - **logic** — *the rules for good, clear thinking*

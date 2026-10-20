@@ -38,6 +38,8 @@ Not (ej elevvänd): Kategori `ideas`. Distraktorer ur poolen al-Razi, Ibn Rushd,
 - **ruler** — *a person who governs a country or a city*
 - **treat** — *to help a sick person get well*
 - **reward** — *something good that you get for doing something helpful*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a close view of two open adult hands with light brown skin, one holding out a small closed drawstring pouch of plain undyed cloth on its palm toward the other open hand, against a plain softly blurred wall in daylight. Nothing else in the picture: no faces, no throne, no crown, no palace, no banknotes, no modern wallet, no writing on the cloth, no modern objects, no text, no letters, no numbers
 - **private** — *only for one person, not for everyone*
 
 ### Huvudbild
@@ -87,7 +89,11 @@ Not (ej elevvänd): Kategori `ideas`. Distraktorer ur poolen al-Razi, Ibn Rushd,
 
 - **centuries** — *periods of one hundred years each*
 - **universities** — *places where people study at the highest level after school*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a large plain fifteenth century European university college building of grey stone with a long row of tall arched windows and a heavy wooden door, seen across a lawn courtyard where four young bareheaded students with light skin in long dark scholars' gowns walk in pairs toward it, small in the frame and seen from behind, each carrying a closed plain leather-bound book under one arm. Clear daylight, calm scene. Not a famous landmark, no monks, no hoods, no church tower, no church cross, no lecture hall interior, no visible faces, no cars, no modern buildings or clothes, no flags, no crests, no clock, no signs, no text, no letters, no numbers
 - **patients** — *people who are ill and need a doctor's help*
+  - Visning: bild
+  - Ordbild: Simple clear illustration of a calm old-time hospital hall with whitewashed walls and plain arched windows, where five sick adults with light brown skin rest under plain wool blankets on low wooden beds standing in a neat row, while one helper in a plain long robe, seen from behind, carries a cup of water to the nearest bed. Soft daylight, quiet caring mood. No pulse-taking, no doctor's tools, no blood, no wounds, no suffering faces, no modern hospital beds, no drips, no machines, no medicine bottles, no mortar, no scale, no calligraphy, no signs, no text, no letters, no numbers
 - **modern** — *of our own time, not of old times*
 
 ### Huvudbild
@@ -136,6 +142,8 @@ Not (ej elevvänd): Kategori `ideas`. Distraktorer ur poolen al-Razi, Ibn Rushd,
 ### Ordförklaringar (marginal)
 
 - **philosopher** — *a person who thinks deeply about big questions*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a middle-aged man with dark brown skin and short black hair, in a plain long shirt of undyed cotton, sitting alone on a large flat rock on a quiet green hillside at sunset, seen from the side at a moderate distance, his chin resting on one hand as he gazes thoughtfully at the wide sky over distant hills. Calm, quiet mood, timeless and not tied to any one country or century. No turban, no beard, no old Persian robes, no ancient Greek robes, no statue, no book, no lamp, no cushions, no room, no tree, no stars, no night, no other people, no modern objects, no calligraphy, no signs, no text, no letters, no numbers
 - **logic** — *careful and clear thinking, step by step*
 - **soul** — *the inner part of a person that thinks and feels*
 - **argue** — *to give reasons for what you think is true*
@@ -185,6 +193,8 @@ Not (ej elevvänd): Kategori `ideas`. Distraktorer ur poolen al-Razi, Ibn Rushd,
 
 - **vizier** — *a top helper and adviser to a ruler*
 - **escape** — *to get free from a place where you are locked in*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a man in a plain long tunic and a simple cloth cap climbing down a rope of knotted strips of cloth from a small barred window high in a thick plain stone wall, seen from behind and from a distance, in the first grey light of dawn. Old-time setting not tied to any one country or century, quiet tense mood. No turban, no castle towers, no guards, no weapons, no chains, no blood, no fire, no modern objects, no calligraphy, no signs, no text, no letters, no numbers
 - **suggest** — *to say that something might be true, as an idea*
 - **unseen** — *something that cannot be seen with the eyes*
 
@@ -236,6 +246,8 @@ Not (ej elevvänd): Kategori `ideas`. Distraktorer ur poolen al-Razi, Ibn Rushd,
 - **metaphysics** — *the study of what things truly are*
 - **theologian** — *a person who studies religious belief deeply*
 - **legend** — *an old, popular story that may not be fully true*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an old woman with light brown skin and white hair under a plain headscarf, in a long plain dress, sitting on a low stool under a big plane tree in a sunny village square and telling a story with one raised hand to six small children with light brown skin who sit on the ground around her, listening with wide eyes. Eleventh century Persia, warm daylight, cheerful mood. No books, no fire, no night, no turbaned men, no modern clothes, no calligraphy, no signs, no text, no letters, no numbers
 - **genius** — *a person with a very great mind*
 
 ### Huvudbild

@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Alan Turing. Superenkel engelska.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): Kategori `science`. Fångar: "Turing", "Alan", alla böjda och sammansatta former (till exempel "Turing machine", "Turing test"), de beskrivs i stället i vanliga ord. Premiärministern namnges aldrig. Cambridge, Princeton, Bletchley Park, Enigma och Manchester är tillåtna ledtrådar och används i löptexten. Kortens roller, så att ingen berättelse upprepas: kort 1 pojken, universitetet och den hemliga platsen; kort 2 kodknäckarkortet med Bletchley Park, Enigma, bomben, de polska matematikerna, Atlantkonvojerna och hemligheten i trettio år; kort 3 datorkortet med artikeln 1936, Princeton, programmen i Manchester, frågan 1950 och spelet med en domare; kort 4 efterkrigsåren med den egna datorkonstruktionen vid det nationella laboratoriet, schackprogrammet på papper och maratonlöpningen; kort 5 universitetsvinkeln utan att återberätta artikeln 1936. Polska matematikers arbete före kriget krediteras uttryckligen på kort 2: "Polish mathematicians break the machine's secrets first, before the war." I Manchester skrev han program, han byggde inte maskinen. Frasen "the imitation game" undviks helt, den ekar filmtiteln och är för genomskinlig, spelet beskrivs bara i vanliga ord som "a game" och "a judge". Inget annat sets svar namnges i löptexten. Distraktorer ur den angivna poolen, högst en kvinna per kort eftersom frågan är "Who is Mr X?": kort 1 Charles Babbage, Ada Lovelace, Konrad Zuse; kort 2 John von Neumann, Claude Shannon, Grace Hopper; kort 3 Charles Babbage, Konrad Zuse, John von Neumann; kort 4 Claude Shannon, Konrad Zuse, Grace Hopper; kort 5 John von Neumann, Claude Shannon, Charles Babbage. Känslighet, bindande: kort 1 och 2 nämner varken domen eller dödsfallet alls. Kort 3 och 4 använder exakt två meningar, "In 1952, a law of that time punishes him for loving another man." och "The government says sorry in 2009, and he is pardoned in 2013.", kort 4 dessutom "He dies in 1954." som egen kort mening. Kort 5 använder samma två meningar och "He dies in 1954, and the inquest calls it suicide." Inget mer: ingen medicinsk detalj, inget om säkerhetstillståndet, ingen moralisering. Fråga till Jonas: klassrummen för leveransen finns i Tanzania och Bhutan, formuleringarna ovan bör godkännas innan bildproduktionen startar. Bildregler: varje AI-prompt anger uttryckligen epokens brittiska klädsel och föremål (1920-talets skolkläder på kort 1, Wrens i mörk marinuniform vid bomben, trähus, trummor och kablar, glasrör, hålremsa, skrivmaskiner) och förbjuder de troliga felen: inga läsbara bokstäver eller siffror, inga urtavlor med siffror, inga paneler med text, inga sedlar, inga moderna datorer, inga skärmar, inga flaggor. Huvudbild liggande 3:2, sidobild stående. Mr X visas aldrig i ett igenkännbart porträtt, bara bakifrån, på avstånd eller som händer. Inga upprepade bildmotiv inom setet: ett enda maskinrum (bomben på kort 2), en enda löpare (pojken på kort 1), ingen fasad som sidobild.
+Not (ej elevvänd): Kategori `science`. Fångar: "Turing", "Alan", alla böjda och sammansatta former (till exempel "Turing machine", "Turing test"), de beskrivs i stället i vanliga ord. Premiärministern namnges aldrig. Cambridge, Princeton, Bletchley Park, Enigma och Manchester är tillåtna ledtrådar och används i löptexten. Kortens roller, så att ingen berättelse upprepas: kort 1 pojken, universitetet och den hemliga platsen; kort 2 kodknäckarkortet med Bletchley Park, Enigma, bomben, de polska matematikerna, Atlantkonvojerna och hemligheten i trettio år; kort 3 datorkortet med artikeln 1936, Princeton, programmen i Manchester, frågan 1950 och spelet med en domare; kort 4 efterkrigsåren med den egna datorkonstruktionen vid det nationella laboratoriet, schackprogrammet på papper och maratonlöpningen; kort 5 universitetsvinkeln utan att återberätta artikeln 1936. Polska matematikers arbete före kriget krediteras uttryckligen på kort 2: "Polish mathematicians break the machine's secrets first, before the war." I Manchester skrev han program, han byggde inte maskinen. Frasen "the imitation game" undviks helt, den ekar filmtiteln och är för genomskinlig, spelet beskrivs bara i vanliga ord som "a game" och "a judge". Inget annat sets svar namnges i löptexten. Distraktorer ur den angivna poolen, högst en kvinna per kort eftersom frågan är "Who is Mr X?": kort 1 Charles Babbage, Ada Lovelace, Konrad Zuse; kort 2 John von Neumann, Claude Shannon, Grace Hopper; kort 3 Charles Babbage, Konrad Zuse, John von Neumann; kort 4 Claude Shannon, Konrad Zuse, Grace Hopper; kort 5 John von Neumann, Claude Shannon, Charles Babbage. Känslighet, bindande: kort 1 och 2 nämner varken domen eller dödsfallet alls. Kort 3 och 4 använder exakt två meningar, "In 1952, a law of that time punishes him for loving another man." och "The government says sorry in 2009, and he is pardoned in 2013.", kort 4 dessutom "He dies in 1954." som egen kort mening. Kort 5 använder samma två meningar och "He dies in 1954, and the inquest calls it suicide." Inget mer: ingen medicinsk detalj, inget om säkerhetstillståndet, ingen moralisering. Fråga till Jonas: klassrummen för leveransen finns i Tanzania och Bhutan, formuleringarna ovan bör godkännas innan bildproduktionen startar. Bildregler: varje AI-prompt anger uttryckligen epokens brittiska klädsel och föremål (1920-talets skolkläder på kort 1, Wrens i mörk marinuniform vid bomben, trähus, trummor och kablar, glasrör, hålremsa, skrivmaskiner) och förbjuder de troliga felen: inga läsbara bokstäver eller siffror, inga urtavlor med siffror, inga paneler med text, inga sedlar, inga moderna datorer, inga skärmar, inga flaggor. Huvudbild liggande 3:2, sidobild stående. Mr X visas aldrig i ett igenkännbart porträtt, bara bakifrån, på avstånd eller som händer. Inga upprepade bildmotiv inom setet: ett enda maskinrum (bomben på kort 2), en enda löpare (pojken på kort 1), ingen fasad som sidobild. Ordbilder: kort 5 har inga avbildbara ord, eftersom founder och codebreaking är abstrakta och inquest är en officiell utredning av ett dödsfall som inte ska visas, så alla tre ord är bara text.
 
 ---
 
@@ -36,8 +36,12 @@ Not (ej elevvänd): Kategori `science`. Fångar: "Turing", "Alan", alla böjda o
 ### Ordförklaringar (marginal)
 
 - **hut** — *a small simple building, often made of wood*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single small simple wooden hut with a sloping roof and one small window, standing alone in a grassy clearing at the edge of a forest, soft daylight. One hut only, no row of huts, no gates, no people, no cars, no electric wires, no signs, no text, no letters, no numbers.
 - **code** — *a secret way of writing so only some people can read it*
 - **puzzle** — *a problem that is fun and hard to solve*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an old-fashioned wooden jigsaw puzzle on a plain wooden table, most of the interlocking pieces joined and a few loose pieces lying beside it, the pieces in plain blue and green colours, soft daylight. No box, no printed picture of objects, no crossword, no number grid, no people, no modern objects, no text, no letters, no numbers.
 - **enemy** — *a country or person you are fighting against in a war*
 
 ### Huvudbild
@@ -86,6 +90,8 @@ Not (ej elevvänd): Kategori `science`. Fångar: "Turing", "Alan", alla böjda o
 
 - **mathematics** — *the study of numbers, shapes and patterns*
 - **estate** — *a large piece of land with a big house on it*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a large plain English country house of pale stone, seen from a distance across wide green lawns with a gravel drive and tall old trees around it, soft overcast daylight. No people, no cars, no flags, no tower, no gates with lettering, no signs, no modern buildings, no text, no letters, no numbers.
 - **setting** — *one specific way that a machine's parts are arranged*
 - **convoy** — *a group of ships that travel together for safety*
 
@@ -135,6 +141,8 @@ Not (ej elevvänd): Kategori `science`. Fångar: "Turing", "Alan", alla böjda o
 
 - **symbol** — *a written mark that stands for a letter, a number or a sound*
 - **tape** — *a long thin strip, here used to store information*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an open metal reel wound with thin brown magnetic recording tape on a plain grey surface, a long loose end of the shiny strip unwound in a gentle curve beside the reel, close view, soft side light. No paper, no punched holes, no hands, no machine, no cassette, no film frames, no sprocket holes, no adhesive tape, no labels, no printed marks, no text, no letters, no numbers.
 - **judge** — *a person who decides who is right, or who wins a game*
 - **program** — *a list of steps that tells a computer what to do*
 
@@ -182,6 +190,8 @@ Not (ej elevvänd): Kategori `science`. Fångar: "Turing", "Alan", alla böjda o
 ### Ordförklaringar (marginal)
 
 - **laboratory** — *a place where scientists do tests and build new things*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a plain science laboratory bench of dark wood with clear glass flasks, a rack of glass test tubes and a brass microscope, in a bright room with white tiled walls, soft daylight. No people, no computers, no screens, no valves, no modern digital equipment, no labels on the glass, no signs, no text, no letters, no numbers.
 - **designs** — *makes a plan for how to build something*
 - **chess** — *a board game for two players with kings, queens and knights*
 - **marathon** — *a running race of about forty-two kilometers*

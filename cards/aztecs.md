@@ -33,9 +33,13 @@ Not (ej elevvänd): Kategori `latin america`. Mexica-folket som vandrar in i Mex
 ### Ordförklaringar (marginal)
 
 - **canoes** — *small boats that people move with paddles*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single wooden dugout canoe carved from one tree trunk, resting on a muddy lake shore among green reeds, with two plain wooden paddles lying across it, seen from the side in soft daylight. No people, no motor, no fibreglass, no life jackets, no modern boats, no painted patterns, no jetty, no tourists, no text, no letters, no numbers
 - **goods** — *things that people buy, sell, or carry*
 - **capital** — *the main city of a country, where its government is*
 - **shallow** — *not deep, where the water is low*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the edge of a calm clear lake, the water only a few centimetres deep so that every pebble and grain of sand on the pale bed is plainly visible, a few green reeds at the shore and one flat stone sticking up above the surface. Soft daylight. No people, no boats, no waves, no deep dark water, no litter, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -83,6 +87,8 @@ Not (ej elevvänd): Kategori `latin america`. Mexica-folket som vandrar in i Mex
 
 - **alliance** — *an agreement between groups to work together*
 - **tribute** — *goods or money that a conquered people must give to a ruler*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of three brown-skinned Indigenous commoners of the fifteenth century in plain undyed fibre cloaks and loincloths, seen from behind, walking in single file along a dirt path and carrying heavy bundles of folded white cotton cloth and large woven baskets of dried beans on their backs, with a woven strap across the forehead, toward a seated official in a plain white cotton cloak who waits to receive them at the doorway of a low plain stone building far ahead, too small and distant for a face to be seen. No feather ornaments, no faces, no soldiers, no weapons, no chains, no flags, no glyphs or carvings, no carts, no animals, no modern objects, no text, no letters, no numbers
 - **aqueduct** — *a long raised channel that carries water from far away*
 - **estimate** — *a careful guess based on facts*
 
@@ -133,6 +139,8 @@ Not (ej elevvänd): Kategori `latin america`. Mexica-folket som vandrar in i Mex
 - **decisive** — *very important for deciding how something ends*
 - **siege** — *when soldiers surround a place and cut off help, to make it surrender*
 - **ruins** — *the broken parts left after a building or city is destroyed*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the ruins of an old rough-stone building on a dry grassy hillside, with low broken walls, an empty doorway with no door, no roof, and heaps of fallen stones lying in the grass under a clear sky. Calm and quiet, no smoke, no flames. No people, no columns, no arches, no stepped pyramids, no carvings, no modern buildings, no scaffolding, no fences, no tourists, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -178,7 +186,11 @@ Not (ej elevvänd): Kategori `latin america`. Mexica-folket som vandrar in i Mex
 
 - **sacrifice** — *killing a person or animal as an offering to a god*
 - **cacao** — *the beans used to make chocolate*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one ripe golden-orange ridged cacao pod, cut open lengthwise on a plain clay plate to show the pale wet pulp around the large seeds, with a small heap of dried brown cacao beans beside it, soft daylight. No chocolate bars, no cups, no powder, no packaging, no metal objects, no modern objects, no text, no letters, no numbers
 - **maize** — *a grain plant also known as corn*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a maize plant growing in a sunny field, tall green stalks and long leaves behind, and in front one ripe ear with its green husk peeled back to show tight rows of plump yellow kernels. Warm daylight. No cooked food, no popcorn, no tortillas, no machines, no baskets, no people, no packaging, no modern objects, no text, no letters, no numbers
 - **Nahuatl** — *a language spoken in central Mexico for many centuries*
 
 ### Huvudbild
@@ -229,6 +241,8 @@ Not (ej elevvänd): Kategori `latin america`. Mexica-folket som vandrar in i Mex
 - **indigenous** — *belonging to a place from the very beginning, before others arrived*
 - **accounts** — *stories or descriptions of events, especially written ones*
 - **archaeologists** — *people who study the past by digging up and examining old objects*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a close view into a small earth trench, where two brown-skinned hands with plain grey sleeves rolled up, one holding a small soft brush, gently clear the soil from the rim of an old plain clay bowl that is half uncovered in the brown earth, a small hand trowel lying on the edge of the trench. Only the hands and arms are visible. No faces, no city, no tall buildings, no stone steps, no tape measures, no rulers, no markers with numbers, no glyphs or patterns on the bowl, no modern objects, no text, no letters, no numbers
 - **miracle** — *an amazing event that seems impossible to explain*
 
 ### Huvudbild

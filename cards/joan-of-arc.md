@@ -35,6 +35,8 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 ### Ordförklaringar (marginal)
 
 - **armor** — *hard metal clothes that keep a soldier safe*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one complete empty suit of plain polished steel plate armor from the 1400s, with a rounded helmet with a raised visor, breastplate, arm and leg plates and metal gloves, propped upright on a plain wooden frame against a bare whitewashed stone wall in soft daylight. Only the armor, no person, no horse, no sword, no shield, no crest, no feathers, no horns, no marks or symbols on the metal, no museum cases, no tourists, no signs, no modern objects, no text, no letters, no numbers
 - **holy** — *of God, or close to God*
 - **battle** — *a fight between armies*
 
@@ -85,6 +87,8 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 
 - **siege** — *an army waits around a city so no food or help can come in*
 - **banner** — *a flag on a pole that soldiers follow*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one medieval cloth banner of the 1400s, a long tapering swallow-tailed streamer of plain deep blue wool cloth hanging from a tall wooden pole with a small iron tip, the pole pushed upright into a grassy meadow and the cloth rippling in a light wind against a pale grey sky. Only the banner and the meadow, no person, no soldier, no horse, no national flag, no plain rectangular modern flag, no stripes, no crosses, no fleur-de-lis, no pictures, emblems or symbols on the cloth, no metal flagpole, no modern objects, no text, no letters, no numbers
 - **defender** — *a person who fights to keep a place safe*
 
 ### Huvudbild
@@ -134,6 +138,8 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 
 - **capture** — *to take a person prisoner*
 - **scribe** — *a person whose job is to write things down*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a medieval scribe of the 1400s, a white man with short brown hair in a plain dark brown wool robe, seen from behind and a little from the side, sitting on a wooden stool at a sloped wooden desk by a small window and writing with a feather quill on a loose sheet of parchment, with an ink pot beside him in a bare stone room in soft daylight. The sheet is seen at a steep angle in shadow with only faint grey lines, face hidden, no readable writing, no book with visible pages, no judges, no court, no crowd, no modern pen, no electric light, no modern objects, no text, no letters, no numbers
 - **grace** — *God's love and help, in Christian belief*
 - **guilty** — *the court says: this person did the bad thing*
 
@@ -183,6 +189,8 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 ### Ordförklaringar (marginal)
 
 - **crown** — *to make a person king or queen in a holy ceremony*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one plain medieval gold crown, a simple band with a ring of small pointed tips and a few red and green stones, resting on a folded white linen cloth on a dark oak chest beside a window in soft daylight. Only the crown and the cloth, no cushion, no person, no head, no cathedral, no bishop, no fleur-de-lis shapes, no heraldic symbols, no modern objects, no text, no letters, no numbers
 - **lord** — *a rich and powerful man who rules land*
 - **doubt** — *a feeling that a thing may not be true or real*
 
@@ -232,6 +240,8 @@ Not (ej elevvänd): rösterna och synerna återges alltid som hennes utsaga och 
 ### Ordförklaringar (marginal)
 
 - **trace** — *a small sign that a person or thing was there*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a single line of bare human footprints in smooth damp sand, leading away from the camera along the edge of a calm sea, with soft low evening light that shows every print clearly. Only the footprints, no person, no shoes, no shoe prints, no animals, no boats, no buildings, no litter, no modern objects, no text, no letters, no numbers
 - **record** — *a written text that saves what people say and do*
 - **innocent** — *not guilty; the person did not do the bad thing*
 - **symbol** — *a person or thing that stands for a bigger idea*

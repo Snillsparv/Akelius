@@ -36,8 +36,12 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 ### Ordförklaringar (marginal)
 
 - **lens** — *a round piece of glass that makes things look bigger or closer*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single round clear glass lens in a plain thin wooden ring, standing upright in a small wooden stand on a plain wooden table, with one red flower just behind it so that the part of the flower seen through the glass looks clearly bigger than the rest of the flower, soft daylight. No telescope, no eyeglasses, no handle, no hand, no person, no leaf under the glass, no phone, no plastic, no text, no letters, no numbers
 - **invent** — *to make a new thing that nobody has made before*
 - **planet** — *a big ball in space that goes around the sun, like the earth*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a bright yellow sun at the left edge and, to its right, three round smooth planets of clearly different sizes in a row, a small grey one, a medium blue-green one with a few white clouds, and a large red-brown one, each on a thin curved path around the sun, against a calm dark-blue background. No rings, no moons, no face on the sun, no spaceship, no star shapes, no flags, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -87,6 +91,8 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 - **measure** — *to find out how long, how heavy, or how fast something is*
 - **ramp** — *a flat board that goes up on one side, like a small hill*
 - **pendulum** — *a weight that hangs on a string and swings from side to side*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a small round iron weight hanging on a long thin string from a plain wooden beam, drawn in three faint overlapping positions to show the swing, far left, straight down, and far right, with the middle one the clearest, against a plain pale background. No lamp, no chain, no church, no clock, no row of balls, no people, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -136,6 +142,8 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 - **astronomer** — *a scientist who studies the stars and the planets*
 - **phase** — *the shape of the lit part of the moon or a planet, as we see it*
 - **crescent** — *a thin curved shape, like the young moon*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a thin bright crescent moon low in a deep-blue dusk sky above the dark silhouette of a plain bare hill, the rest of the moon only faintly visible. No star or planet beside the moon, no flag, no minaret, no dome, no building, no telescope, no airplane, no clouds, no text, no letters, no numbers
 - **prove** — *to show with facts that something is true*
 
 ### Huvudbild
@@ -186,6 +194,8 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 - **court** — *the place where judges decide if a person did something wrong*
 - **torture** — *to hurt a person on purpose to make them talk or obey*
 - **kneel** — *to go down on your knees*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a woman with medium-brown skin and black hair tied back, in a plain cotton dress, kneeling upright on both knees with her back straight in a green vegetable garden, one small seedling in her hand, seen from the side so that both knees resting on the soil are clearly visible, warm daylight. No sitting on her heels, no church, no judges, no hall, no stone floor, no praying hands, no cross, no crowd, no gloves, no modern clothes, no tools, no text, no letters, no numbers
 - **house arrest** — *a punishment: you must stay in your own home and may not leave*
 
 ### Huvudbild
@@ -236,6 +246,8 @@ Not (ej elevvänd): kikaren förbättras, uppfinns inte av honom. Kopernikus nam
 - **opponent** — *a person who is against you in a fight or a debate*
 - **mock** — *to laugh at a person in an unkind way*
 - **tide** — *the sea rising and falling along the coast, twice a day*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a quiet small harbour at low tide in late-afternoon light, with two simple wooden fishing boats lying tilted on wet brown sand, the sea far out, and the stone harbour wall behind them showing a clear dark wet band high above the sand where the water stood earlier. No motors, no plastic buoys, no cars, no people, no signs, no lighthouse, no text, no letters, no numbers
 - **evidence** — *facts that show what is true*
 
 ### Huvudbild

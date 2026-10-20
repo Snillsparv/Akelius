@@ -36,6 +36,8 @@ Not (ej elevvänd): händelsen kallas Event X, frågan är alltid Which event is
 
 - **checkpoints** — *places where guards check who may pass*
 - **chip** — *to break a small piece off something hard*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one white ceramic plate lying on a plain wooden table, with a small triangular piece broken off its rim and lying right beside it, the fresh pale edge of the break clearly visible. Soft daylight. No hands, no hammer, no tools, no cracks across the plate, no food, no pattern, no stones, no text, no letters, no numbers
 - **strangers** — *people you do not know*
 
 ### Huvudbild
@@ -84,7 +86,11 @@ Not (ej elevvänd): händelsen kallas Event X, frågan är alltid Which event is
 ### Ordförklaringar (marginal)
 
 - **concrete** — *a hard grey material made from sand, stone and cement*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a freshly poured flat slab of grey concrete with a smooth wet surface and a steel trowel lying on it, with a small heap of sand and a small heap of grey gravel beside it on bare ground. Soft daylight. No people, no bricks, no blocks, no fences, no machines, no vehicles, no buildings, no text, no letters, no numbers
 - **searchlights** — *strong lights used to light up a dark area*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one large round searchlight with a dark metal housing and a big glass front, standing on a sturdy iron stand in an empty dark field at night and sending one bright white beam straight up into the night sky. Mid-twentieth-century equipment only. No people, no tower, no fence, no barbed wire, no vehicles, no LED lights, no smoke, no text, no letters, no numbers
 - **border** — *the line where one country or area ends and another begins*
 
 ### Huvudbild
@@ -136,6 +142,8 @@ Not (ej elevvänd): händelsen kallas Event X, frågan är alltid Which event is
 - **chant** — *to say or shout the same words together, again and again*
 - **spokesman** — *a person who speaks to the public for a government or a group*
 - **barrier** — *something that blocks the way, like a gate or a fence*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a lowered red and white striped barrier pole that lies straight across an empty country road and blocks it, hinged on a short plain metal post at the roadside so that it can be lifted, with green fields on both sides. Soft daylight and nobody there. No people, no vehicles, no guard hut, no watchtower, no wall, no barbed wire, no gate, no fence, no traffic lights, no flags, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -184,6 +192,8 @@ Not (ej elevvänd): händelsen kallas Event X, frågan är alltid Which event is
 
 - **secret police** — *police who work in secret to watch and control people*
 - **reunion** — *coming back together after being apart*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two sisters with light skin, one older with grey hair and one younger with brown hair, both in plain everyday coats, hugging tightly with their faces turned toward each other's shoulders on a quiet railway platform, with one small suitcase standing by their feet. Warm soft daylight. No crowd, no train in focus, no flags, no banners, no signs, no clocks, no smartphones, no text, no letters, no numbers
 - **violent** — *involving force that hurts people or damages things*
 
 ### Huvudbild
@@ -234,6 +244,8 @@ Not (ej elevvänd): händelsen kallas Event X, frågan är alltid Which event is
 - **debate** — *to discuss a question on which people disagree*
 - **reformer** — *a person who works to change and improve a system*
 - **footage** — *recorded pictures from a film or video camera*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an old boxy 1980s television set with a wood-grain case, plain unmarked knobs and a curved glass screen, standing alone on a plain wooden table in a dim room, its screen showing a grainy, blurry, flickering colour video picture of a few people in plain 1980s coats walking along an ordinary city street. No wall, no gate, no crowd, no flat screen, no camera, no video cassettes, no remote control, no timestamp, no REC sign, no on-screen symbols or overlays, no logos, no flags, no smartphones, no text, no letters, no numbers
 
 ### Huvudbild
 

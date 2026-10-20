@@ -36,7 +36,11 @@ Not (ej elevvänd): Kategori `science`, leverans 9 vetenskapsblocket. Orden Newt
 ### Ordförklaringar (marginal)
 
 - **village** — *a small place where people live, smaller than a town*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a small village of about a dozen low stone cottages with tiled roofs, grouped around a small green and one narrow lane, with open fields and low hills around it, seen from a hillside in clear midday light. No church, no tower, no thatch, no castle, no town buildings, no cars, no power lines, no signs, no people, no modern objects, no text, no letters, no numbers.
 - **university** — *a school where adults study after ordinary school*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a large plain seventeenth-century English college building of pale stone with a long row of tall narrow windows, seen across a wide square lawn in soft overcast daylight, three young men with light skin in long black seventeenth-century scholars' gowns walking toward it along the path, small in the frame and seen from behind, each carrying a closed plain book. Not a famous landmark, no tall tower, no chapel, no crest, no flags, no visible faces, no marks on the books, no cars, no modern buildings or clothes, no signs, no text, no letters, no numbers.
 - **sickness** — *an illness, a disease*
 - **pull** — *a force that draws something toward it*
 
@@ -88,7 +92,11 @@ Not (ej elevvänd): Kategori `science`, leverans 9 vetenskapsblocket. Orden Newt
 - **plague** — *a dangerous disease that spreads quickly and kills many people*
 - **prism** — *a piece of glass with flat sides that splits light into colors*
 - **lens** — *a curved piece of glass that bends light*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one round clear glass lens with a thin plain edge lying flat on a pale wooden table, a single green leaf lying under it so that the part of the leaf seen through the glass looks clearly larger than the rest of the leaf, soft daylight. No handle, no frame, no telescope, no spectacles, no hands, no prism, no modern objects, no text, no letters, no numbers.
 - **mirror** — *a smooth surface that reflects light and shows a picture*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one plain flat hand mirror in a simple wooden frame, standing upright against a pale plaster wall, with a small vase of yellow flowers on the table in front of it so that the flowers appear twice, once real and once as a clear reflection in the glass. No person, no face in the glass, no tube, no telescope, no candle, no ornaments on the frame, no modern objects, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -139,6 +147,8 @@ Not (ej elevvänd): Kategori `science`, leverans 9 vetenskapsblocket. Orden Newt
 - **rival** — *a person who competes against you or disagrees with you*
 - **gravitation** — *the pulling force between the earth, the moon, and all other things*
 - **tide** — *the rise and fall of the sea, twice each day*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small old stone harbor at low tide in soft daylight, the water gone so that the harbor floor is bare wet sand with a few shallow pools, the calm sea far out beyond the harbor mouth, and the lower half of the stone harbor wall dark, wet and covered with green seaweed up to one clear straight line where the sea stands at high tide. No boats, no people, no buildings, no cliffs, no moon, no ladders, no modern objects, no flags, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -189,6 +199,8 @@ Not (ej elevvänd): Kategori `science`, leverans 9 vetenskapsblocket. Orden Newt
 - **witness** — *a person who sees something happen and can tell others about it*
 - **fake** — *not real, made to look like something it is not*
 - **furnace** — *a closed fire built to make things very hot*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one large old brick furnace of the seventeenth-century type, built into a stone wall, with a heavy closed iron door and a small round opening through which an orange fire glows, a soot-darkened brick hood above it, seen from the front in dim light. No crucible, no tongs, no bellows, no metal ore, no people, no skulls, no occult symbols, no gas pipes, no gauges, no modern machines, no text, no letters, no numbers.
 
 ### Huvudbild
 
@@ -235,6 +247,8 @@ Not (ej elevvänd): Kategori `science`, leverans 9 vetenskapsblocket. Orden Newt
 
 - **historian** — *a person who studies and writes about the past*
 - **distance** — *how far away one thing is from another*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a wide flat green meadow under a pale clear sky, one tall tree standing large and close at the left edge of the frame and a second identical tree standing tiny near the far horizon on the right, with nothing but short grass between them, soft midday light. Only two trees, no hill, no mist, no valley, no church, no people, no animals, no road, no fence, no signs, no modern objects, no text, no letters, no numbers.
 - **colleague** — *a person you work with*
 - **secretive** — *keeping many things hidden or private*
 

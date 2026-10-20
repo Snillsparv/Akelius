@@ -35,7 +35,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **scribe** — *a person whose job is writing*
 - **chain** — *to lock something to a place with metal rings*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a heavy hand-forged iron chain with thick dark oval links, one end fastened to a rusty iron ring set in a rough old stone wall, the other end locked with a simple old iron lock around a plain wooden chest on a worn stone floor, soft side light. Only the chain, the chest and the wall, no books, no people, no shiny steel, no modern objects, no signs, no text, no letters, no numbers
 - **workshop** — *a room or building where people make things*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the inside of an old craftsman's workshop in Europe in the 1400s: a heavy wooden workbench with a hand saw, a wooden hand plane, a hammer and a small pile of wood shavings, more hand tools hanging on a rough plaster wall, a half-finished wooden stool beside the bench, light from one small window. No people, no machines, no printing press, no books, no electric lamps, no power tools, no modern objects, no signs, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -84,7 +88,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **goldsmith** — *a person who makes fine things from gold and other metals*
 - **mold** — *a hollow form; you pour something in, and it takes that shape*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a flat grey stone mold with a deep spoon-shaped hollow carved into it, lying on a plain wooden table, and next to it a small cast pewter spoon with exactly the same shape, just taken out of the hollow, soft daylight. Only the mold and the spoon, no people, no hands, no molten metal, no fire, no letter blocks, no modern objects, no text, no letters, no numbers
 - **ink** — *the colored liquid used for writing and printing*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small round dark clay inkwell filled with glossy black ink, a white goose-feather quill resting in it with one drop of black ink running from the tip, on a plain wooden table in soft daylight. No paper, no writing, no people, no glass bottle, no ballpoint pen, no modern objects, no text, no letters, no numbers
 - **press** — *a machine that pushes two things hard together*
 
 ### Huvudbild
@@ -133,7 +141,11 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **carve** — *to cut a shape into wood or stone with a tool*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a half-finished stone carving: a rectangular block of pale limestone, the left half still rough and uncut and the right half carved with a simple leaf and flower pattern, a steel chisel and a wooden mallet lying on top of it, the block standing on the gravel ground of an open-air stone yard in soft daylight. No people, no hands, no workbench, no wood block, no printing, no statue of a person, no electric tools, no modern objects, no text, no letters, no numbers
 - **clay** — *soft earth that becomes hard when you bake it*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a large lump of soft wet brown clay with a few finger marks lying on a wooden board, and beside it one small plain unglazed terracotta bowl made from the same clay, soft daylight. No people, no hands, no painted patterns, no glaze, no printing blocks, no modern objects, no text, no letters, no numbers
 - **cast** — *to make a thing by pouring hot metal into a form*
 
 ### Huvudbild
@@ -182,6 +194,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **monk** — *a religious man who lives a simple life for his faith*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one pale-skinned European monk of the 1500s, seen from the side, walking slowly along a quiet stone cloister walkway with round arches: a middle-aged man with a shaved round patch on top of his head, a plain brown wool robe with a rope belt, the hood hanging at his back, hands folded in front of him, calm mood, soft daylight. No cross, no crucifix, no church interior, no crowd, no books, no scrolls, no modern objects, no text, no letters, no numbers
 - **forgiveness** — *when someone stops being angry about a wrong thing you did*
 - **protest** — *strong words or actions against something*
 - **quarrel** — *a long, angry fight with words*
@@ -234,6 +248,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **document** — *an official paper with information*
 - **portrait** — *a picture of a person's face*
 - **court** — *the place where a judge decides who is right*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a court of law in a European town in the 1400s: a plain stone hall with a low wooden platform, where a pale-skinned middle-aged judge in a long dark wool robe and a flat black cap sits at a heavy wooden table, while two townspeople in plain brown wool tunics stand quietly before him with their heads lowered. Calm mood, no papers, no hammer, no wig, no modern courtroom, no police, no prison bars, no flags, no coat of arms, no signs, no text, no letters, no numbers
 - **debate** — *a public fight with arguments, not weapons*
 
 ### Huvudbild

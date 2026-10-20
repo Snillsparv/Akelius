@@ -35,6 +35,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **port** — *a place by the sea where ships stop*
 - **trade road** — *a road where people carry things to buy and sell*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a long, wide, worn dirt road in the 14th century that winds across open hilly country to a far horizon, with one heavy two-wheeled wooden cart loaded with sacks, bundles of cloth and plain barrels being pulled along it by a brown ox, led by one merchant walking beside the ox in a plain brown wool tunic, a hooded cloak and leather boots, seen from a distance. A second loaded cart is small and far ahead on the same road, in a calm daytime mood, with no pack horses, no ships, no harbor, no town, no walls, no farmers working in fields, no paved road, no cars, no signs, no modern objects, no text, no letters, no numbers
 - **spread** — *to go from one place or person to many*
 - **cause** — *the thing that makes something happen*
 
@@ -86,6 +88,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **cure** — *something that makes a sick person well again*
 - **germ** — *a tiny living thing, too small to see, that can make you sick*
 - **flea** — *a very small jumping insect that bites animals and people*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a single flea in an extreme close-up macro shot, seen from the side as it stands among a few strands of pale animal fur, reddish-brown with a narrow flattened body, a small head, no wings and long strong back legs for jumping, so that the thin fur strands show how tiny it is. Calm and factual like a science photo, soft pale background, with no other insects, no tick, no louse, no rat, no skin, no hand, no ruler, no labels, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -133,6 +137,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **village** — *a very small town*
 - **lord** — *a rich man who owns land, and the people work for him*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-skinned man in the 14th century dress of a lord in western Europe: a long dark red wool gown with a fur-trimmed collar, a leather belt, a soft felt cap and pointed leather shoes. He stands alone and calm on the stone steps in front of the plain wooden door of a large stone manor house, with one hunting hound sitting beside him, and there is no crown, no drawn sword, no soldiers, no peasants, no field, no coat of arms, no flags, no modern clothes, no modern objects, no text, no letters, no numbers
 - **bound** — *tied to a place, and not free to leave*
 - **pay** — *the money you get for your work*
 
@@ -184,6 +190,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **innocent** — *a person who did nothing wrong*
 - **cruel** — *very unkind; wanting to hurt someone*
 - **quarantine** — *to keep people or ships apart for some days, so a sickness cannot spread*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a closed town gate in a grey stone wall in the 14th century, with its two heavy wooden doors shut and a thick wooden pole set across the dirt road at waist height on two posts in front of it as a barrier. Outside the pole, in the foreground, two light-skinned travelers in plain brown wool hooded cloaks sit and wait patiently by a small campfire, with rolled blankets, a cooking pot and one loaded pack horse beside them as if they must stay there for some days, seen from a distance in calm daylight, with no ships, no sea, no harbor, no island, no armed guards, no sick or hurt people, no beak masks, no flags, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -230,6 +238,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **chronicle** — *an old written record of things that happen, year by year*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a light-skinned monk in a plain brown wool robe with a shaved crown of hair, sitting at a slanted wooden writing desk in a bare stone room in the 14th century and writing on a large sheet of pale parchment with a goose-feather quill, seen from the side so that the parchment is at a steep angle and shows only a few faint grey lines. A small clay inkwell stands on the desk, with no open book, no readable writing, no candles, no modern objects, no text, no letters, no numbers
 - **tax list** — *an old list of people who must pay money to the ruler*
 - **DNA** — *a tiny code inside living things that tells what they are*
 - **source** — *something from the past that tells us what happened, like a book or a bone*

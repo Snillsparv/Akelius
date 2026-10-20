@@ -39,6 +39,8 @@ troliga fel (ingen kalligrafi, ingen pseudoskrift, inga bokstäver, inga
 flaggor, inga kartor med text, inga moderna båtar, ingen Kaba, inga bedjande
 folkmassor, inga religiösa gestalter), och slutar med "no text, no letters,
 no numbers".
+Kort 5 har inget avbildbart ord: estimate, eyewitness, evidence och endorsement
+är abstrakta ord eller roller, så alla fyra ordförklaringarna där är bara text.
 
 ---
 
@@ -71,6 +73,8 @@ no numbers".
 ### Ordförklaringar (marginal)
 
 - **port** — *a town by the sea where ships stop*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a quiet stone quay seen at eye level, where two large wooden sailing ships with folded sails are tied up side by side, with stacked wooden crates, clay jars and woven sacks waiting on the stones beside calm blue water in soft morning light. Only the ships, the quay and the goods, no people, no modern ships, no yachts, no cannons, no gun ports, no Chinese junks, no cranes, no containers, no engines, no flags, no signs, no tourists, no text, no letters, no numbers
 - **scholar** — *a person who studies and knows very much*
 - **judge** — *a person who decides if someone has done wrong*
 - **pilgrimage** — *a journey to a holy place*
@@ -121,7 +125,11 @@ no numbers".
 ### Ordförklaringar (marginal)
 
 - **coral** — *a hard stone-like material made by tiny sea animals*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one large branching piece of pale cream-white coral with a hard rocky texture, lying on clean white sand at the edge of calm shallow turquoise water in bright daylight. Only the one piece of coral, no fish, no divers, no boats, no buildings, no seaweed, no jewellery, no text, no letters, no numbers
 - **ivory** — *the hard white material from an elephant's tusk*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of two long, smooth, slightly curved cream-white elephant tusks lying side by side on a plain dark wooden table in soft side light. Only the two tusks, no elephant, no other animal, no hunter, no blood, no carvings, no jewellery, no gold, no price tags, no text, no letters, no numbers
 - **monsoon** — *a strong wind that blows one way for months, then the other way*
 - **sultan** — *a Muslim ruler of a country or city*
 
@@ -173,6 +181,8 @@ no numbers".
 - **chapter** — *one part of a book*
 - **plague** — *a disease that spreads fast and kills many people*
 - **continent** — *one of the biggest land areas of the earth*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the planet Earth seen from space, turned so that the huge brown and green land area of Africa is in the middle with Europe above it and Asia on the right, next to the blue oceans and a few white clouds, against a plain black sky. True-to-life coastlines as in a real satellite photo, no invented or distorted land shapes, no satellites, no spacecraft, no moon, no city lights, no grid lines, no country borders, no labels, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -220,7 +230,11 @@ no numbers".
 ### Ordförklaringar (marginal)
 
 - **slab** — *a thick flat piece of something hard*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three thick, flat, rectangular slabs of pale grey stone stacked on top of each other on bare dry earth, with their square edges and broad flat tops clearly visible, in soft daylight. Only the stone slabs, no salt, no camel, no rope, no tools, no people, no buildings, no carvings, no text, no letters, no numbers
 - **caravan** — *a group of people and animals that travel together*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long line of six camels with plain rope harnesses, carrying woven grass baskets and bundles of cloth, led across pale desert dunes by three men with brown skin in long undyed cotton robes and wrapped turbans, seen from the side at a distance in warm late light, a fourteenth-century North African caravan. No salt slabs, no town, no sea, no buildings, no rifles or guns, no motor vehicles, no modern clothes, no backpacks, no tents, no tourists, no flags, no signs, no text, no letters, no numbers
 - **custom** — *a way of doing things that a group of people always follows*
 - **settle** — *to stop moving around and stay in one place*
 

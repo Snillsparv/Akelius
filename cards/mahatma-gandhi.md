@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Mahatma Gandhi. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kortet så alla distraktorer hör hemma på 1900-talet: Jawaharlal Nehru, Muhammad Ali Jinnah, B. R. Ambedkar, Subhas Chandra Bose, Rabindranath Tagore. Mandela och Martin Luther King används aldrig som distraktorer eller nämns i texten, rad 47-48. Orden "Mahatma" och "Bapu" är hederstitlar och förekommer aldrig i elevvänd text, bara i titelraden och svarsalternativen. Amerikansk stavning (color, organizes, neighbors, kilometers) som i övriga korpusen. Bilder: aldrig de runda glasögonen, det kala huvudet med vitt tygstycke eller promenadkäppen som igenkännbar siluett; mannen ses bakifrån, på avstånd eller bara som händer och fötter. Inga sittstrejksmotiv eller bildtexter som ekar senare rörelser. Tro markeras som tro. B. R. Ambedkar namnges i universitetskortets text om kastkritiken och är därför inte distraktor på det kortet. Fördomarna mot afrikaner i de tidiga sydafrikanska skrifterna nämns sakligt i en mening på kort 3, utan moraliserande tillägg.
+Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kortet så alla distraktorer hör hemma på 1900-talet: Jawaharlal Nehru, Muhammad Ali Jinnah, B. R. Ambedkar, Subhas Chandra Bose, Rabindranath Tagore. Mandela och Martin Luther King används aldrig som distraktorer eller nämns i texten, rad 47-48. Orden "Mahatma" och "Bapu" är hederstitlar och förekommer aldrig i elevvänd text, bara i titelraden och svarsalternativen. Amerikansk stavning (color, organizes, neighbors, kilometers) som i övriga korpusen. Bilder: aldrig de runda glasögonen, det kala huvudet med vitt tygstycke eller promenadkäppen som igenkännbar siluett; mannen ses bakifrån, på avstånd eller bara som händer och fötter. Inga sittstrejksmotiv eller bildtexter som ekar senare rörelser. Tro markeras som tro. B. R. Ambedkar namnges i universitetskortets text om kastkritiken och är därför inte distraktor på det kortet. Fördomarna mot afrikaner i de tidiga sydafrikanska skrifterna nämns sakligt i en mening på kort 3, utan moraliserande tillägg. Ordbilder: kort 4 har inga avbildbara ord, eftersom independent, violence, estimates och nationalist är abstrakta eller bara kan visas med flaggor, våld eller statliga symboler, så alla fyra visas som text.
 
 ---
 
@@ -37,8 +37,12 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 
 - **tax** — *money that people must pay to the rulers*
 - **coast** — *the land next to the sea*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a long coastline curving into the distance, seen from a high viewpoint, with flat green grassy land on one side and calm blue sea with small white waves along a narrow shoreline of sand and rocks on the other, so that the line where land meets sea is the clear subject. Timeless natural scene in clear daylight, no tall cliffs, no road, no palm trees, no people, no boats, no buildings, no lighthouse, no modern objects, no text, no letters, no numbers
 - **followers** — *people who join and support a leader*
 - **arrest** — *when police take a person away and do not let them go free*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a pair of plain steel handcuffs of the 1930s closed around the bare wrists of a man with brown skin in plain white cotton sleeves, held by the hand of a police constable, also with brown skin, in a plain khaki sleeve. Only the hands and wrists are shown, calm and without struggle, no faces, no blood, no injuries, no weapons, no truncheons, no badges, no flags, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -87,6 +91,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 - **injustice** — *something that is not fair or right*
 - **satyagraha** — *a special word for fighting for what is right without violence*
 - **homespun** — *cloth spun and woven by hand at home, not made in a factory*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a neat stack of folded plain off-white handwoven cotton cloth with a coarse, slightly uneven weave and loose frayed edges, resting on a plain unvarnished wooden shelf in soft daylight, the kind of cloth made in Indian homes in the 1920s. Only the cloth and the shelf are shown, no spinning wheel, no spindle, no loom, no hands, no people, no factory-made fabric, no printed patterns, no labels, no tags, no text, no letters, no numbers
 - **conscience** — *the inner feeling that tells a person right from wrong*
 
 ### Huvudbild
@@ -134,6 +140,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 ### Ordförklaringar (marginal)
 
 - **carriage** — *a train car where passengers sit*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the empty interior of a preserved wooden railway passenger carriage of the 1890s, with two facing bench seats of worn dark green padded leather, a luggage rack of brass rails above them and a large window through which a steel railway track curves away through soft green fields in warm daylight. Era-correct 1890s details only, no people, no locomotive, no platform, no modern seats, no electric lights, no plastic, no signs, no plaques, no text, no letters, no numbers
 - **official** — *a person who works for a government or a company and has some power*
 - **resistance** — *fighting against something, here without weapons*
 - **prejudice** — *an unfair opinion about people, often based on the group they belong to*
@@ -236,6 +244,8 @@ Not (ej elevvänd): kategorin är `twentieth century`, etiketten trycks på kort
 - **caste** — *a group a person is born into in India's old social order, ranked above or below other groups*
 - **discrimination** — *treating a group of people unfairly because of who they are*
 - **autobiography** — *a book a person writes about their own life*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a hand with medium brown skin in a plain white cotton sleeve writing with a simple wooden pen in an open hand-bound notebook with cream pages, on a plain wooden desk beside a small glass inkwell, shot from above and from the side in soft window light so that no face is shown. Mid-twentieth-century objects only, the pen touching an unwritten page, no round glasses, no ring, no watch, no modern pens, no laptop, no readable handwriting, no text, no letters, no numbers
 - **volume** — *one book in a long series of books that belong together*
 
 ### Huvudbild

@@ -2,6 +2,7 @@
 
 Svenskt arbetsnamn: Hammurabi och hans lagar. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
+Not (ej elevvänd): Ordbilder: kort 4 har bara text i ordförklaringarna, eftersom equal och justice är abstrakta begrepp som bara kan visas med symboler, och slave och punishment inte kan visas utan bilder av ofrihet eller straff på kroppen, vilket reglerna om värdighet och ingen gore avråder från.
 
 ---
 
@@ -34,6 +35,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **carve** — *to cut letters or pictures into hard stone*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a smooth block of pale limestone with a simple half-finished flower shape with round petals carved into its face, with fine stone chips and dust around it and a small simple bronze-coloured chisel and a wooden mallet lying beside it. Plain workshop table in soft daylight, nothing on the block that looks like writing or letters, no steel power tools, no modern chisels, no hands, no people, no dark tall stone, no text, no letters, no numbers
 - **powerful** — *able to tell many people what to do, like a king*
 
 ### Huvudbild
@@ -82,6 +85,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **Mesopotamia** — *an old land between two big rivers, in today's Iraq*
 - **judge** — *a person who decides who is right when people fight about rules*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an ancient Mesopotamian judge, an older man with olive-brown skin and a short grey beard in a long plain fringed wrap robe, sitting on a low wooden stool with one hand raised to listen, while two men with olive-brown skin in short wrap skirts stand in front of him and argue, one pointing at the other. Plain mud-brick wall behind them, warm daylight, no modern courtroom, no gavel, no wig, no black judge robe, no columns, no scales, no stone with writing, no king, no soldiers, no text, no letters, no numbers
 - **widow** — *a woman whose husband is dead*
 - **orphan** — *a child whose parents are dead*
 
@@ -130,6 +135,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **wage** — *the money you get for your work*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an ancient Mesopotamian landowner, an older man with olive-brown skin in a long fringed wrap robe, placing a few small rough pieces of dull silver into the open hand of a young field worker with olive-brown skin in a short wrap skirt who holds a bronze sickle, at the edge of a harvested barley field with one palm tree behind them. Warm daylight, no king, no crown, no coins, no banknotes, no scales, no modern clothes or tools, no machines, no market, no builders, no boats, no text, no letters, no numbers
 - **fee** — *the money you pay for a service, for example to a doctor*
 - **rent** — *the money you pay to use a thing, like a boat or a house*
 - **adoption** — *taking a child into your family as your own child*
@@ -228,8 +235,12 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **rod** — *a short straight stick*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one plain, smooth, evenly thin, straight wooden rod about as long as a forearm, light brown, lying across a flat pale stone slab in soft daylight. Only the rod: no ring, no carvings or patterns on it, no gold, no crown, no god, no king, no hands, no relief, no modern objects, no text, no letters, no numbers
 - **war prize** — *a special thing that the winners take home after a war*
 - **archaeologist** — *a scientist who digs in the earth to find things from the past*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the hands and forearms of an archaeologist with medium-brown skin in a light long-sleeved shirt, gently brushing dry earth with a soft brush from the rim of a broken clay pot half buried in the bottom of a small neat dug pit, a small pointed hand trowel lying beside it. Plain dry ground and warm daylight, no tourists, no signs, no labels, no tags, no rulers, no tents, no vehicles, no stone with writing, no gold, no skulls, no text, no letters, no numbers
 
 ### Huvudbild
 

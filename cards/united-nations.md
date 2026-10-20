@@ -2,7 +2,7 @@
 
 Svenskt arbetsnamn: Förenta nationerna. Superenkel engelska, presens.
 Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra.
-Not (ej elevvänd): Organisationen kallas Organization X, frågan "Which organization is Organization X?". Orden United, UN och United Nations förekommer aldrig utanför denna rad och ✅-raderna. Kalla kriget kallas "the long rivalry between two great powers" och nämns inte här. Churchill, Hitler, Gandhi, Mandela, Martin Luther King, Berlinmuren och månlandningen namnges inte. Rwanda och Srebrenica namnges sakligt som historiska händelser, inte som svarsläckor. Apartheid namnges som system på kort 4, Mandela aldrig. Distraktorerna hör alla hemma på 1900-talet: Nationernas förbund, Samväldet, Nato, Världsbanken, Arabförbundet, EU, Röda korset, Organisationen för afrikansk enhet; Afrikanska unionen (2002) används inte. Bilder undviker den ljusblå flaggan med världskartan i olivkvistar, blå hjälmar med bokstäver och FN-skyskrapan i New York med flaggraden: hallar, hjälmar, en flygplatsankomst och skrivbord visas utan bokstäver, emblem eller flaggor. Universitetskortets huvudbild är en läsesal, inte ett arkivrum, för att skilja sig från övriga set i leveransen.
+Not (ej elevvänd): Organisationen kallas Organization X, frågan "Which organization is Organization X?". Orden United, UN och United Nations förekommer aldrig utanför denna rad och ✅-raderna. Kalla kriget kallas "the long rivalry between two great powers" och nämns inte här. Churchill, Hitler, Gandhi, Mandela, Martin Luther King, Berlinmuren och månlandningen namnges inte. Rwanda och Srebrenica namnges sakligt som historiska händelser, inte som svarsläckor. Apartheid namnges som system på kort 4, Mandela aldrig. Distraktorerna hör alla hemma på 1900-talet: Nationernas förbund, Samväldet, Nato, Världsbanken, Arabförbundet, EU, Röda korset, Organisationen för afrikansk enhet; Afrikanska unionen (2002) används inte. Bilder undviker den ljusblå flaggan med världskartan i olivkvistar, blå hjälmar med bokstäver och FN-skyskrapan i New York med flaggraden: hallar, hjälmar, en flygplatsankomst och skrivbord visas utan bokstäver, emblem eller flaggor. Universitetskortets huvudbild är en läsesal, inte ett arkivrum, för att skilja sig från övriga set i leveransen. Kort 1 och kort 4 har inga ord som går att avbilda, eftersom agreement, peace, empires, independence och apartheid är abstrakta begrepp, och står därför helt som text.
 
 ---
 
@@ -84,6 +84,8 @@ Not (ej elevvänd): Organisationen kallas Organization X, frågan "Which organiz
 - **council** — *a smaller group that meets often and decides on quick action*
 - **veto** — *the power to say no and stop a plan, even if everyone else says yes*
 - **helmet** — *a hard hat that protects the head*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one plain light grey bicycle helmet with a smooth hard shell and a thin strap, resting on a plain wooden table in soft daylight, seen from the side and slightly above. Only the helmet, no person, no soldier, no military helmet, no blue colour, no stickers, no logos, no emblems, no flags, no modern gadgets, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -131,6 +133,8 @@ Not (ej elevvänd): Organisationen kallas Organization X, frågan "Which organiz
 
 - **committee** — *a small group of people chosen to do one job*
 - **philosopher** — *a person who thinks deeply about big questions like right and wrong*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of an elderly woman with brown skin and short grey hair, in a plain undyed cotton shawl and a simple long dress, sitting alone on a worn stone bench under a large leafy tree, resting her chin on one hand and gazing thoughtfully into the distance, one closed book with a plain cover beside her. Calm soft daylight and a quiet green background. No other people, no statue, no ancient Greek robes, no desk, no modern objects, no phone, no text, no letters, no numbers
 - **articles** — *short, numbered parts of a longer written text*
 
 ### Huvudbild
@@ -229,6 +233,8 @@ Not (ej elevvänd): Organisationen kallas Organization X, frågan "Which organiz
 
 - **institution** — *a large, lasting organization with clear rules*
 - **archives** — *old papers and records kept safe for later study*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a long, quiet storage room with tall plain metal shelves from floor to ceiling, filled with rows of identical grey cardboard boxes and tied bundles of old yellowed papers whose edges are completely blank, a narrow empty aisle between the shelves, soft even light from one high window. No people, no reading table, no lamp, no folders on a table, no computers, no labels, no stickers, no signs, no flags, no emblems, no text, no letters, no numbers
 - **diplomats** — *people who represent their country and talk with other countries*
 
 ### Huvudbild

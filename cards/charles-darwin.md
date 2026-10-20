@@ -35,9 +35,13 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 ### Ordförklaringar (marginal)
 
 - **beetle** — *a small insect with a hard shiny cover over its wings*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one beetle with a hard glossy dark metallic-green wing cover split by a clear line down its back, six legs and two short antennae, walking across a single pale green leaf, close-up in soft daylight with a plain soft blurred beige background. Only the one beetle and the leaf: not a cockroach, no other insects, no butterflies, no pins, no collection box, no labels, no hands, no magnifying glass, no modern objects, no text, no letters, no numbers
 - **voyage** — *a long journey by ship*
 - **seasick** — *feeling sick because a ship moves on the waves*
 - **tortoise** — *a slow animal with a hard shell that walks on land*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one small land tortoise with a high rounded brown-and-tan domed shell and thick stumpy legs, seen from the side with its whole body in the frame, walking slowly on short green grass in soft daylight. Only the one tortoise: not a giant tortoise, no volcanic rock, no cactus, no water, no sea turtle flippers, no people, no hands, no modern objects, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -86,6 +90,8 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 - **survive** — *to stay alive*
 - **natural selection** — *nature lets the best-fitting animals and plants survive and have young*
 - **naturalist** — *a person who studies plants, animals, and nature*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the tools of a naturalist of the 1850s lying on short green grass beside one small wild flower: a brass hand magnifying glass with a wooden handle, a plain green metal field box with a brown leather strap, and a butterfly net of pale cotton gauze with a long wooden pole lying along the grass. No people, no hands, no books, no notebooks, no labels, no modern objects, no plastic, no flags, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -133,7 +139,11 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 
 - **breed** — *to keep animals or plants so they have young with chosen traits*
 - **barnacle** — *a small sea animal that sticks tightly to rocks or ships*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a tight cluster of grey-white barnacles with small hard cone-shaped shells, attached to the side of a weathered dark wooden harbour post at low tide, wet and glistening in soft daylight. Only the post and the barnacles, with a little green seaweed at the bottom: not on a rock, no boats, no metal, no ropes, no people, no modern objects, no text, no letters, no numbers
 - **orchid** — *a flower with an unusual shape, often grown for its beauty*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of one arching stem of white and pink moth orchid flowers with open petals and a clearly shaped lip, in close-up with soft blurred green leaves behind, soft daylight. Only the one orchid stem, natural and timeless: no pot, no vase, no hands, no greenhouse glass, no other flowers, no labels, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -181,6 +191,8 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 ### Ordförklaringar (marginal)
 
 - **bishop** — *a senior leader in the Christian church*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the formal headwear and staff of a Christian bishop, shown as objects only: a tall pointed white mitre with plain gold bands standing on a plain dark wooden table, and beside it a gold curved shepherd's-crook staff leaning against a plain pale wall, in soft side light. No person, no cross, no jewels, no embroidered symbols, no church interior, no altar, no candles, no books, no modern objects, no text, no letters, no numbers
 - **debate** — *a formal argument between people with different views*
 - **faith** — *strong belief, often in God or a religion*
 
@@ -232,6 +244,8 @@ Not (ej elevvänd): namnet Darwin och ordet Darwinism nämns aldrig i elevvänd 
 - **legend** — *a well-known story that is not fully true*
 - **naturalist** — *a person who studies plants, animals, and nature*
 - **sketch** — *a quick, simple drawing*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one loose sheet of plain cream paper with a quick light pencil sketch of a single pear drawn in a few loose lines, the rest of the sheet blank, and one short plain unpainted wooden pencil with no eraser lying beside it on a plain wooden table, seen from above in soft daylight. Only the sheet, the sketch and the pencil: no hands, no printing on the pencil, no notebook, no ruler, no signature, no handwriting, no tree, no modern objects, no text, no letters, no numbers
 - **credit** — *praise or recognition for doing something*
 
 ### Huvudbild

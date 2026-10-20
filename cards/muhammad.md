@@ -39,8 +39,12 @@ respektfullt: "Muslims believe...".
 ### Ordförklaringar (marginal)
 
 - **trader** — *a person who buys and sells things*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a dark-brown-skinned woman market trader with her hair tied in a plain cloth, in a simple yellow cotton dress, standing behind a wooden table piled with oranges and tomatoes and holding out a woven basket of oranges toward the camera. No scales, no price tags, no signs, no plastic bags, no cash register, no crowd, no modern shop, no text, no letters, no numbers
 - **caravan** — *a group of people and animals that travel together*
 - **cave** — *a big hole in a rock or mountain*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the wide dark mouth of a natural cave at the foot of a grey rocky cliff, seen from the front at ground level in clear daylight, with loose stones on the ground in front of it and a few green ferns at the edge. No people, no animals, no paths, no stairs, no fences, no tourists, no signs, no lights, no text, no letters, no numbers
 - **angel** — *a messenger from God, in many religions*
 
 ### Huvudbild
@@ -90,6 +94,8 @@ respektfullt: "Muslims believe...".
 - **orphan** — *a child whose mother and father are dead*
 - **follower** — *a person who believes in a teacher and follows him*
 - **community** — *a group of people who live together and help each other*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of eight neighbours of different ages with light-brown and dark-brown skin, in plain undyed cotton clothes, standing in a row along a village lane and passing mud bricks from hand to hand to build a low wall together, among them an old woman, two women, two teenagers and three children. No grown men, no leader in the middle, no one raised above the others, no meal, no palm trees, no weapons, no machines, no signs, no text, no letters, no numbers
 - **umma** — *an Arabic word for the community of all Muslims*
 
 ### Huvudbild
@@ -137,6 +143,8 @@ respektfullt: "Muslims believe...".
 ### Ordförklaringar (marginal)
 
 - **recite** — *to say a text out loud from memory*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of one girl of about ten with dark-brown skin and braided hair, in a plain blue cotton school dress, standing straight in a plain classroom with a bare white wall in front of a few seated classmates and speaking aloud with her eyes closed and her hands held behind her back, nothing to read. No book, no paper, no blackboard writing, no teacher, no circle of children, no courtyard, no microphone, no phone, no text, no letters, no numbers
 - **by heart** — *from memory, without reading*
 - **holy** — *very special and important in a religion*
 - **Arabic** — *the language of Arabia, spoken in many countries today*
@@ -189,6 +197,8 @@ respektfullt: "Muslims believe...".
 - **scholar** — *a person who studies and knows very much*
 - **algebra** — *a part of mathematics; it uses letters for unknown numbers*
 - **astronomy** — *the study of stars and planets*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of a small white refracting telescope on a wooden tripod, pointing up into a deep blue night sky full of bright stars and a faint Milky Way, on a bare dark hilltop. No people, no astrolabe, no observatory dome, no city lights, no star chart, no drawn lines between stars, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -236,7 +246,11 @@ respektfullt: "Muslims believe...".
 - **source** — *a text or thing from the past that gives us knowledge*
 - **hadith** — *a story about the words or actions of Mr X*
 - **generation** — *parents are one generation; their children are the next*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of three people of one family sitting side by side on a simple wooden bench in front of a plain pale plastered wall, facing the camera: a grey-haired grandmother, her adult daughter and her small granddaughter of about five, all with light-brown skin and in plain muted cotton clothes. No men, no other people, no street, no lane, no storyteller scene, no book, no phone, no logos, no signs, no text, no letters, no numbers
 - **collection** — *many things gathered together in one book or place*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of dozens of different seashells of many shapes, sizes and colours arranged in neat rows in a shallow wooden tray, seen from above in soft daylight. No labels, no tags, no glass case, no hands, no people, no jewellery, no text, no letters, no numbers
 
 ### Huvudbild
 

@@ -34,6 +34,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **shadow** — *the dark shape you make on the ground when you stand in the sun*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one lone leafy olive tree standing on bare pale dry ground in strong low afternoon sun, its long dark shadow stretching clearly across the ground to one side. Only the tree and its shadow, no horse, no people, no animals, no buildings, no fences, no modern objects, no text, no letters, no numbers
 - **force** — *strong power; when you push or fight to make something happen*
 - **understanding** — *when you watch and learn why something happens*
 
@@ -84,6 +86,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **customs** — *the ways people usually do things, for example food, clothes, and holidays*
 - **empire** — *many lands and many people under one king*
 - **marketplace** — *an open place where people buy and sell things*
+  - Visning: bild
+  - Ordbild: Simple clear illustration of a busy open-air market in an ancient city around 300 BC, seen from a slightly raised view: plain wooden stalls with plain linen awnings, a seller with olive-brown skin in an undyed linen tunic holding up grapes to a buyer with dark brown skin in a long wool cloak, baskets of figs, grapes and bread, big clay jars of oil and grain, a donkey with sacks at one side, on packed earth between low pale stone houses in warm daylight. No modern objects, no tourists, no signs, no price tags, no flags, no theater, no columns, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -132,6 +136,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **lighthouse** — *a tall tower with a fire or light on top; it shows ships the way*
 - **scholar** — *a person whose work is to study and learn*
 - **harbor** — *a safe place by the sea where ships stop*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of a small calm harbor seen from a low stone quay: several small wooden fishing boats and one small wooden sailing boat with its sail furled, tied with ropes along a curved pale stone quay with coils of rope and wooden crates, still blue-green water and low whitewashed houses behind, early morning light. No people, no lighthouse, no towers, no large ships, no cranes, no motorboats, no outboard motors, no yachts, no tourists, no cars, no power lines, no street lamps, no plastic, no flags, no signs, no boat names, no text, no letters, no numbers
 - **wonder** — *an amazing building or thing; old lists name seven wonders of the world*
 
 ### Huvudbild
@@ -181,6 +187,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **conquered** — *people whose land is taken by force*
 - **general** — *a leader in an army*
 - **palace** — *a very big and fine house of a king*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of a grand royal palace of the ancient world seen from the front: one very large, wide and richly built house of pale cut stone with a tall gateway in the middle, walls with plain broad bands of deep blue and gold, wide stone steps up to the gate, and a royal garden with palm trees and a long still pool in front, under a clear blue sky. Complete and whole, no ruins, no columns, no people, no soldiers, no domes, no minarets, no medieval castle towers, no European palace, no glass windows, no flags, no carved figures, no patterns that look like writing, no modern objects, no text, no letters, no numbers
 - **empire** — *many lands under one king*
 
 ### Huvudbild
@@ -230,6 +238,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **legend** — *an old famous story; it may be true or not true*
 - **myth** — *a story many people tell, but it is not a proven fact*
 - **source** — *an old text or thing that gives us information about the past*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of the broken pieces of one old clay jar lying together in dry brown soil, the curved pieces showing a few worn dark painted stripes, seen from above in soft daylight. Only the jar pieces and the soil, no people, no hands, no tools, no brush, no measuring tape, no labels, no museum case, no coins, no papyrus, no painted figures, no writing, no text, no letters, no numbers
 - **historian** — *a person who studies the past*
 
 ### Huvudbild

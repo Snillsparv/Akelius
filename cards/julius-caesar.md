@@ -33,6 +33,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **emperor** — *like a king, but over many lands*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an empty carved stone throne of the ancient Roman world, with a high straight back, standing on a low platform of three wide steps, a deep purple cloak draped over its back and a simple thin golden circlet lying on the seat, in front of a plain pale plaster wall in soft side light. No person, no columns, no statues, no eagle, no flags, no banners, no jewelled medieval crown, no laurel wreath, no arches, no lions, no modern objects, no text, no letters, no numbers
 - **adopted** — *an adopted son is not born in the family; the family takes him in as their child, by law*
 
 ### Huvudbild
@@ -80,6 +82,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 ### Ordförklaringar (marginal)
 
 - **mess** — *things in bad order; nothing is in its right place*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of the floor of a small bedroom covered by a big untidy heap of tossed clothes, shoes, blankets, pillows, wooden toys, cups, bowls and baskets, with a stool knocked over, so that nothing is in its right place. No people, no pets, no electronics, no phones, no screens, no plastic bottles, no food waste, no books, no posters, no signs, no text, no letters, no numbers
 - **astronomer** — *a scientist who studies the sun, the moon, and the stars*
 - **leap day** — *one extra day, 29 February; it comes every four years*
 
@@ -131,6 +135,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **general** — *a leader of an army*
 - **civil war** — *a war between people of the same country*
 - **the die is cast** — *a die is a small cube for games; you throw it, and you cannot take the throw back*
+  - Visning: text+bild
+  - Ordbild: Photorealistic square photo of one small ancient Roman-style die, a cube made of yellowish bone and marked with round dots in the usual die patterns, lying still on a worn plain wooden table, seen from slightly above in warm side light. Exactly one die, a correct six-sided cube, no hand, no second die, no dice cup, no coins, no gold, no playing cards, no game board, no casino, no motion blur, no text, no letters, no numbers
 
 ### Huvudbild
 
@@ -179,6 +185,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 - **senate** — *a group of powerful men who guide the Roman state; the men in this group are senators*
 - **republic** — *a state without a king; the people choose their leaders*
 - **heir** — *the person who gets your money and property after your death*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of an old man with grey hair, a white beard and medium-brown skin, in a plain long cotton tunic, handing a large iron house key to a young woman with the same medium-brown skin in a plain long cotton dress, in front of the open wooden door of a modest whitewashed stone house with a clay-tile roof in warm afternoon light. Only these two people, no coins, no money bags, no crowd, no lawyers, no deathbed, no coffin, no modern clothes, no modern car, no modern lock, no signs, no text, no letters, no numbers
 - **emperor** — *like a king, but over many lands*
 
 ### Huvudbild
@@ -227,6 +235,8 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 - **dictator** — *in Rome, a leader who gets all power alone, for a short time, in an emergency*
 - **emergency** — *a sudden time of danger*
+  - Visning: text+bild
+  - Ordbild: Simple clear illustration of four neighbours, a mix of light-skinned, brown-skinned and dark-skinned adults in plain simple timeless clothes, hurrying uphill along a stone path under a dark stormy sky, one of them carrying a small child, looking back at brown flood water suddenly rushing into the low street of a small town of plain stone houses. Everyone is safe and out of the water, no drowning, no injured people, no crying faces, no dead animals, no boats, no rescue workers, no cars, no helicopters, no modern clothes, no signs, no text, no letters, no numbers
 - **source** — *a text or an object that gives us information about the past*
 - **source criticism** — *asking who makes a source, and why, before you trust it*
 
