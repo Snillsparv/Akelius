@@ -6,7 +6,7 @@ Gör två saker:
      (originalen i PNG är produktionsmaster och rörs aldrig).
   2. Skriver om de genererade raderna i index.html (interna förhandsvisningen
      med briefer och platshållare) och presentation.html (granskningssidan
-     som bara visar ämnen där alla bilder är klara):
+     som bara visar ämnen där alla huvudbilder är klara):
        const DATA = [...];        <- innehållet i data/cards.json (sets)
        const HAVE = new Set([...]); <- bild-ID:n som har filer i images/
 

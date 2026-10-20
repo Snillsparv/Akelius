@@ -13,6 +13,7 @@
     --paper: #ffffff;
     --ink: #1c1e24;
     --ink-soft: #4c505c;
+    --hair: #e4e1da;
     --cat-1: #1f3a72;
     --cat-2: #c0182e;
     --cat-3: #2e8b3d;
@@ -27,6 +28,7 @@
     line-height: 1.55;
   }
   .wrap { max-width: 64rem; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+  @media (max-width: 480px) { .wrap { padding: 2rem 1rem 3rem; } }
 
   .masthead { text-align: center; margin-bottom: .75rem; }
   .masthead h1 { font-size: 1.9rem; margin: 0 0 .3rem; letter-spacing: -.01em; text-wrap: balance; }
@@ -39,7 +41,7 @@
     font-size: 1.02rem; color: var(--ink-soft);
   }
   .controls {
-    display: flex; justify-content: center; gap: .75rem; align-items: center;
+    display: flex; flex-wrap: wrap; justify-content: center; gap: .75rem; align-items: center;
     margin: 1.25rem 0 2.5rem;
     font-family: Verdana, Geneva, sans-serif; font-size: .8rem; color: var(--chrome-soft);
   }
@@ -81,47 +83,87 @@
     color: var(--paper); background: var(--chrome-ink);
     padding: .12rem .6rem; border-radius: 3px; letter-spacing: .12em;
   }
-  .card {
+
+  /* Stående A6 (105 x 148 mm): framsida och baksida bredvid varandra, staplade på smal skärm.
+     Panelen har A6-proportion men växer på höjden hellre än att klippa text. */
+  .pair {
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem; align-items: stretch;
+  }
+  @media screen and (max-width: 700px) {
+    .pair { grid-template-columns: minmax(0, 1fr); gap: 1.1rem; }
+  }
+  .face { display: flex; flex-direction: column; min-width: 0; }
+  .face-label {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: .62rem; letter-spacing: .14em; text-transform: uppercase;
+    color: var(--chrome-soft); margin: 0 0 .3rem;
+  }
+  .panel {
+    flex: 1 0 auto;
+    aspect-ratio: 105 / 148;
     background: var(--paper); color: var(--ink);
     border-radius: 6px;
     box-shadow: 0 1px 2px rgba(20,22,30,.15), 0 10px 32px rgba(20,22,30,.10);
-    padding: 1.6rem;
-    display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr);
-    gap: 1.5rem;
+    padding: 1.3rem;
+    display: flex; flex-direction: column;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    font-size: .875rem; line-height: 1.45;
+    overflow-wrap: break-word;
   }
-  @media (max-width: 640px) { .card { grid-template-columns: 1fr; } }
+  @media (max-width: 480px) { .panel { padding: 1rem; } }
 
   .img { margin: 0; }
   .img img {
     display: block; width: 100%; height: auto;
-    border-radius: 4px; background: #f2f4f7;
+    border-radius: 3px; background: #f2f4f7;
   }
   .img-main img { aspect-ratio: 3 / 2; object-fit: cover; }
-  .img-side img { aspect-ratio: 3 / 4; object-fit: cover; }
-  .caption { font-style: italic; font-size: .88rem; margin: .5rem 0 0; color: var(--ink-soft); }
 
-  .card-text { margin-top: 1.2rem; font-size: 1rem; line-height: 1.6; }
-  @media (min-width: 641px) { .card-text { columns: 2; column-gap: 1.5rem; } }
-  .card-text p { margin: 0 0 .6rem; break-inside: avoid; }
-  .card-text .q { font-weight: bold; }
+  .clue { margin-top: .9rem; }
+  .clue p { margin: 0 0 .45rem; }
+  .q { font-weight: bold; margin: .35rem 0 .8rem; }
 
-  .words { margin: 1.1rem 0 0; font-size: .88rem; }
-  .words dt { font-weight: bold; margin-top: .5rem; }
-  .words dd { margin: 0; font-style: italic; color: var(--ink-soft); }
-
-  .category {
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 1.35rem; font-weight: bold; letter-spacing: -.01em;
-    margin: 1.3rem 0 .6rem; color: var(--cat);
+  .options {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .55rem .9rem;
   }
-  .options { list-style: none; margin: 0; padding: 0; font-size: 1rem; }
-  .options li { display: flex; align-items: center; gap: .6rem; margin-bottom: .5rem; }
-  .options .sq { width: .95rem; height: .95rem; flex: none; background: var(--cat); border-radius: 2px; }
-  .options .tick {
-    display: none; margin-left: auto; color: var(--ok); font-weight: bold;
-    font-family: Verdana, Geneva, sans-serif; font-size: .8rem;
+  .options li { display: flex; align-items: flex-start; gap: .5rem; line-height: 1.3; min-width: 0; }
+  .options li > span:last-child { min-width: 0; overflow-wrap: anywhere; hyphens: auto; }
+  .options .sq {
+    width: .9rem; height: .9rem; flex: none; margin-top: .1rem;
+    background: var(--cat); border-radius: 2px;
   }
+  .options .tick { display: none; color: var(--ok); font-weight: bold; }
   body.facit .options li.is-correct .tick { display: inline; }
+
+  .foot {
+    margin-top: auto; padding-top: 1rem;
+    display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .2rem .8rem;
+    font-size: .68rem; color: var(--ink-soft);
+  }
+  .foot .cat { color: var(--cat); font-weight: bold; text-transform: uppercase; letter-spacing: .1em; }
+
+  .answer {
+    margin: 0; font-size: 1.25rem; font-weight: bold; line-height: 1.3;
+    padding-bottom: .8rem; border-bottom: 1px solid var(--hair);
+  }
+  body:not(.facit) .answer { filter: blur(.45em); user-select: none; }
+  .wtiles {
+    display: grid; grid-template-columns: repeat(var(--cols, 2), minmax(0, 1fr));
+    gap: .9rem .75rem; margin-top: 1rem;
+  }
+  .wtile { margin: 0; min-width: 0; }
+  .wtile img {
+    display: block; width: 100%; aspect-ratio: 1; object-fit: cover;
+    border-radius: 3px; background: #f2f4f7;
+  }
+  .wtile figcaption { margin-top: .35rem; font-size: .8rem; line-height: 1.35; }
+  .wtile figcaption b { display: block; }
+  .wtile figcaption span { display: block; font-style: italic; color: var(--ink-soft); }
+  .wlines { margin-top: 1rem; font-size: .82rem; line-height: 1.4; }
+  .wlines p { margin: 0 0 .5rem; }
+  .wlines span { font-style: italic; color: var(--ink-soft); }
 
   footer {
     margin-top: 4rem; text-align: center;
@@ -136,7 +178,7 @@
     .sheet { break-after: page; break-inside: avoid; margin: 0 0 1rem; }
     .person-head { break-before: page; }
     .masthead + * + * + .person-head, .toc + .person-head { break-before: auto; }
-    .card { box-shadow: none; border: 1px solid #ccc; }
+    .panel { box-shadow: none; border: 1px solid #ccc; }
     body.facit .options li.is-correct .tick { display: inline; }
   }
 </style>
@@ -148,7 +190,10 @@
     <div class="sub" id="subline">Jonas von Essen</div>
   </header>
   <p class="intro">
-    Här är de första ämnena med färdiga bilder. Varje person eller skeende har fem frågekort:
+    Här är ämnena med färdiga bilder, i det nya stående A6-formatet. Varje kort visas med
+    framsida och baksida: framsidan har bilden överst, ledtrådarna, frågan och fyra svar,
+    baksidan har svaret och ordförklaringarna, i text eller med bild.
+    Varje person eller skeende har fem frågekort:
     ett för årskurs&nbsp;6, ett för årskurs&nbsp;9, två för årskurs&nbsp;12 och ett för universitetsnivå.
     Korten är oberoende av varandra. Rätt svar är markerat med en grön bock,
     och knappen nedan döljer facit. Kortens text finns på engelska och svenska,
@@ -169,10 +214,11 @@ const DATA = [{"slug": "ancient-egypt-pyramids", "person": "Ancient Egypt: the p
 const HAVE = new Set(["adolf-hitler-1-main", "adolf-hitler-1-side", "adolf-hitler-2-main", "adolf-hitler-2-side", "adolf-hitler-3-main", "adolf-hitler-3-side", "adolf-hitler-4-main", "adolf-hitler-4-side", "adolf-hitler-5-main", "adolf-hitler-5-side", "alan-turing-1-main", "alan-turing-1-side", "alan-turing-2-main", "alan-turing-2-side", "alan-turing-3-main", "alan-turing-3-side", "alan-turing-4-main", "alan-turing-4-side", "alan-turing-5-main", "alan-turing-5-side", "albert-einstein-1-main", "albert-einstein-1-side", "albert-einstein-2-main", "albert-einstein-2-side", "alexander-the-great-1-main", "alexander-the-great-1-side", "alexander-the-great-2-main", "alexander-the-great-2-side", "alexander-the-great-3-main", "alexander-the-great-3-side", "alexander-the-great-4-main", "alexander-the-great-4-side", "alexander-the-great-5-main", "alexander-the-great-5-side", "american-revolution-1-main", "american-revolution-1-side", "american-revolution-2-main", "american-revolution-2-side", "american-revolution-3-main", "american-revolution-3-side", "american-revolution-4-main", "american-revolution-4-side", "american-revolution-5-main", "american-revolution-5-side", "ancient-egypt-pyramids-1-main", "ancient-egypt-pyramids-1-side", "ancient-egypt-pyramids-2-main", "ancient-egypt-pyramids-2-side", "ancient-egypt-pyramids-3-main", "ancient-egypt-pyramids-3-side", "ancient-egypt-pyramids-4-main", "ancient-egypt-pyramids-4-side", "ancient-egypt-pyramids-5-main", "ancient-egypt-pyramids-5-side", "ancient-greece-1-main", "ancient-greece-1-side", "ancient-greece-2-main", "ancient-greece-2-side", "ancient-greece-3-main", "ancient-greece-3-side", "ancient-greece-4-main", "ancient-greece-4-side", "ancient-greece-5-main", "ancient-greece-5-side", "aristotle-1-main", "aristotle-1-side", "aristotle-2-main", "aristotle-2-side", "aristotle-3-main", "aristotle-3-side", "aristotle-4-main", "aristotle-4-side", "aristotle-5-side", "augustus-1-main", "augustus-1-side", "augustus-2-main", "augustus-2-side", "augustus-3-main", "augustus-3-side", "augustus-4-main", "augustus-4-side", "augustus-5-main", "augustus-5-side", "black-death-1-main", "black-death-1-side", "black-death-2-main", "black-death-2-side", "black-death-3-main", "black-death-3-side", "black-death-4-main", "black-death-4-side", "black-death-5-main", "black-death-5-side", "byzantine-empire-1-main", "byzantine-empire-1-side", "byzantine-empire-2-main", "byzantine-empire-2-side", "byzantine-empire-3-main", "byzantine-empire-3-side", "byzantine-empire-4-main", "byzantine-empire-4-side", "byzantine-empire-5-main", "byzantine-empire-5-side", "charles-darwin-1-main", "charles-darwin-1-side", "charles-darwin-2-main", "charles-darwin-2-side", "charles-darwin-3-main", "charles-darwin-3-side", "charles-darwin-4-main", "charles-darwin-4-side", "charles-darwin-5-main", "charles-darwin-5-side", "christopher-columbus-1-main", "christopher-columbus-1-side", "christopher-columbus-2-main", "christopher-columbus-2-side", "christopher-columbus-3-main", "christopher-columbus-3-side", "christopher-columbus-4-main", "christopher-columbus-4-side", "christopher-columbus-5-main", "christopher-columbus-5-side", "cold-war-1-main", "cold-war-1-side", "cold-war-2-main", "cold-war-2-side", "cold-war-3-main", "cold-war-3-side", "cold-war-4-main", "cold-war-4-side", "cold-war-5-main", "cold-war-5-side", "confucius-1-main", "confucius-1-side", "confucius-2-main", "confucius-2-side", "confucius-3-main", "confucius-3-side", "confucius-4-main", "confucius-4-side", "confucius-5-main", "confucius-5-side", "crusades-1-main", "crusades-1-side", "crusades-2-main", "crusades-2-side", "crusades-3-main", "crusades-3-side", "crusades-4-main", "crusades-4-side", "crusades-5-side", "fall-of-the-berlin-wall-1-main", "fall-of-the-berlin-wall-1-side", "fall-of-the-berlin-wall-2-main", "fall-of-the-berlin-wall-2-side", "fall-of-the-berlin-wall-3-main", "fall-of-the-berlin-wall-3-side", "fall-of-the-berlin-wall-4-main", "fall-of-the-berlin-wall-4-side", "fall-of-the-berlin-wall-5-main", "fall-of-the-berlin-wall-5-side", "ferdinand-magellan-1-main", "ferdinand-magellan-1-side", "ferdinand-magellan-2-main", "ferdinand-magellan-2-side", "ferdinand-magellan-3-main", "ferdinand-magellan-3-side", "ferdinand-magellan-4-main", "ferdinand-magellan-4-side", "ferdinand-magellan-5-main", "ferdinand-magellan-5-side", "first-moon-landing-1-main", "first-moon-landing-1-side", "first-moon-landing-2-main", "first-moon-landing-2-side", "first-moon-landing-3-main", "first-moon-landing-3-side", "first-moon-landing-4-main", "first-moon-landing-4-side", "first-moon-landing-5-main", "first-moon-landing-5-side", "florence-nightingale-1-main", "florence-nightingale-1-side", "florence-nightingale-2-main", "florence-nightingale-2-side", "florence-nightingale-3-main", "florence-nightingale-3-side", "florence-nightingale-4-main", "florence-nightingale-4-side", "florence-nightingale-5-main", "florence-nightingale-5-side", "french-revolution-1-main", "french-revolution-1-side", "french-revolution-2-main", "french-revolution-2-side", "french-revolution-3-main", "french-revolution-3-side", "french-revolution-4-main", "french-revolution-4-side", "french-revolution-5-main", "french-revolution-5-side", "galileo-galilei-1-main", "galileo-galilei-1-side", "galileo-galilei-2-main", "galileo-galilei-2-side", "galileo-galilei-3-main", "galileo-galilei-3-side", "galileo-galilei-4-main", "galileo-galilei-4-side", "galileo-galilei-5-main", "galileo-galilei-5-side", "genghis-khan-1-main", "genghis-khan-1-side", "genghis-khan-2-main", "genghis-khan-2-side", "genghis-khan-3-main", "genghis-khan-3-side", "genghis-khan-4-main", "genghis-khan-4-side", "genghis-khan-5-main", "genghis-khan-5-side", "george-washington-1-main", "george-washington-1-side", "george-washington-2-main", "george-washington-2-side", "george-washington-3-main", "george-washington-3-side", "george-washington-4-main", "george-washington-4-side", "george-washington-5-main", "george-washington-5-side", "hammurabi-1-main", "hammurabi-1-side", "hammurabi-2-main", "hammurabi-2-side", "hammurabi-3-main", "hammurabi-3-side", "hammurabi-4-main", "hammurabi-4-side", "hammurabi-5-main", "hammurabi-5-side", "industrial-revolution-1-main", "industrial-revolution-1-side", "industrial-revolution-2-main", "industrial-revolution-2-side", "industrial-revolution-3-main", "industrial-revolution-3-side", "industrial-revolution-4-main", "industrial-revolution-4-side", "industrial-revolution-5-main", "industrial-revolution-5-side", "isaac-newton-1-main", "isaac-newton-1-side", "isaac-newton-2-main", "isaac-newton-2-side", "isaac-newton-3-main", "isaac-newton-3-side", "isaac-newton-4-main", "isaac-newton-4-side", "isaac-newton-5-main", "isaac-newton-5-side", "jesus-of-nazareth-1-main", "jesus-of-nazareth-1-side", "jesus-of-nazareth-2-main", "jesus-of-nazareth-2-side", "jesus-of-nazareth-3-main", "jesus-of-nazareth-3-side", "jesus-of-nazareth-4-main", "jesus-of-nazareth-4-side", "jesus-of-nazareth-5-main", "jesus-of-nazareth-5-side", "joan-of-arc-1-main", "joan-of-arc-1-side", "joan-of-arc-2-main", "joan-of-arc-2-side", "joan-of-arc-3-main", "joan-of-arc-3-side", "joan-of-arc-4-main", "joan-of-arc-4-side", "joan-of-arc-5-main", "joan-of-arc-5-side", "johannes-gutenberg-1-main", "johannes-gutenberg-1-side", "johannes-gutenberg-2-main", "johannes-gutenberg-2-side", "johannes-gutenberg-3-main", "johannes-gutenberg-3-side", "johannes-gutenberg-4-main", "johannes-gutenberg-4-side", "johannes-gutenberg-5-main", "johannes-gutenberg-5-side", "julius-caesar-1-main", "julius-caesar-2-main", "julius-caesar-2-side", "julius-caesar-3-main", "julius-caesar-3-side", "julius-caesar-4-main", "julius-caesar-4-side", "julius-caesar-5-main", "julius-caesar-5-side", "karl-marx-1-main", "karl-marx-1-side", "karl-marx-2-main", "karl-marx-2-side", "karl-marx-3-main", "karl-marx-3-side", "karl-marx-4-main", "karl-marx-4-side", "karl-marx-5-main", "karl-marx-5-side", "leonardo-da-vinci-1-main", "leonardo-da-vinci-1-side", "leonardo-da-vinci-2-main", "leonardo-da-vinci-2-side", "leonardo-da-vinci-3-main", "leonardo-da-vinci-3-side", "leonardo-da-vinci-4-main", "leonardo-da-vinci-4-side", "leonardo-da-vinci-5-main", "leonardo-da-vinci-5-side", "louis-pasteur-1-main", "louis-pasteur-1-side", "louis-pasteur-2-main", "louis-pasteur-2-side", "louis-pasteur-3-main", "louis-pasteur-3-side", "louis-pasteur-4-main", "louis-pasteur-4-side", "louis-pasteur-5-main", "louis-pasteur-5-side", "mahatma-gandhi-1-main", "mahatma-gandhi-1-side", "mahatma-gandhi-2-main", "mahatma-gandhi-2-side", "mahatma-gandhi-3-main", "mahatma-gandhi-3-side", "mahatma-gandhi-4-main", "mahatma-gandhi-4-side", "mahatma-gandhi-5-main", "mahatma-gandhi-5-side", "martin-luther-1-main", "martin-luther-1-side", "martin-luther-2-main", "martin-luther-2-side", "martin-luther-3-main", "martin-luther-3-side", "martin-luther-4-main", "martin-luther-4-side", "martin-luther-5-main", "martin-luther-5-side", "martin-luther-king-1-main", "martin-luther-king-1-side", "martin-luther-king-2-main", "martin-luther-king-2-side", "martin-luther-king-3-main", "martin-luther-king-3-side", "martin-luther-king-4-main", "martin-luther-king-4-side", "martin-luther-king-5-main", "martin-luther-king-5-side", "mesopotamia-1-main", "mesopotamia-1-side", "mesopotamia-2-main", "mesopotamia-2-side", "mesopotamia-3-main", "mesopotamia-3-side", "mesopotamia-4-main", "mesopotamia-4-side", "mesopotamia-5-main", "mesopotamia-5-side", "muhammad-1-main", "muhammad-1-side", "muhammad-2-main", "muhammad-2-side", "muhammad-3-main", "muhammad-3-side", "muhammad-4-main", "muhammad-4-side", "muhammad-5-main", "muhammad-5-side", "napoleon-bonaparte-1-main", "napoleon-bonaparte-1-side", "napoleon-bonaparte-2-main", "napoleon-bonaparte-2-side", "napoleon-bonaparte-3-main", "napoleon-bonaparte-3-side", "napoleon-bonaparte-4-main", "napoleon-bonaparte-4-side", "napoleon-bonaparte-5-main", "napoleon-bonaparte-5-side", "nelson-mandela-1-main", "nelson-mandela-1-side", "nelson-mandela-2-main", "nelson-mandela-2-side", "nelson-mandela-3-main", "nelson-mandela-3-side", "nelson-mandela-4-main", "nelson-mandela-4-side", "nelson-mandela-5-main", "nelson-mandela-5-side", "nicolaus-copernicus-1-main", "nicolaus-copernicus-1-side", "nicolaus-copernicus-2-main", "nicolaus-copernicus-2-side", "nicolaus-copernicus-3-main", "nicolaus-copernicus-3-side", "nicolaus-copernicus-4-main", "nicolaus-copernicus-4-side", "nicolaus-copernicus-5-main", "nicolaus-copernicus-5-side", "olympic-games-1-main", "olympic-games-1-side", "olympic-games-2-main", "olympic-games-2-side", "olympic-games-3-main", "olympic-games-3-side", "olympic-games-4-main", "olympic-games-4-side", "olympic-games-5-main", "olympic-games-5-side", "phoenicians-alphabet-1-main", "phoenicians-alphabet-1-side", "phoenicians-alphabet-2-main", "phoenicians-alphabet-2-side", "phoenicians-alphabet-3-main", "phoenicians-alphabet-3-side", "phoenicians-alphabet-4-main", "phoenicians-alphabet-4-side", "phoenicians-alphabet-5-main", "phoenicians-alphabet-5-side", "plato-1-main", "plato-1-side", "plato-2-main", "plato-2-side", "plato-3-main", "plato-3-side", "plato-4-main", "plato-4-side", "plato-5-main", "plato-5-side", "protestant-reformation-1-main", "protestant-reformation-1-side", "protestant-reformation-2-main", "protestant-reformation-2-side", "protestant-reformation-3-main", "protestant-reformation-3-side", "protestant-reformation-4-main", "protestant-reformation-4-side", "protestant-reformation-5-main", "protestant-reformation-5-side", "renaissance-1-main", "renaissance-1-side", "renaissance-2-main", "renaissance-2-side", "renaissance-3-main", "renaissance-3-side", "renaissance-4-main", "renaissance-4-side", "renaissance-5-main", "renaissance-5-side", "roman-republic-empire-1-main", "roman-republic-empire-1-side", "roman-republic-empire-2-main", "roman-republic-empire-2-side", "roman-republic-empire-3-main", "roman-republic-empire-3-side", "roman-republic-empire-4-main", "roman-republic-empire-4-side", "roman-republic-empire-5-main", "roman-republic-empire-5-side", "siddhartha-gautama-1-main", "siddhartha-gautama-1-side", "siddhartha-gautama-2-main", "siddhartha-gautama-2-side", "siddhartha-gautama-3-main", "siddhartha-gautama-3-side", "siddhartha-gautama-4-main", "siddhartha-gautama-4-side", "siddhartha-gautama-5-main", "siddhartha-gautama-5-side", "socrates-1-main", "socrates-1-side", "socrates-2-main", "socrates-2-side", "socrates-3-main", "socrates-3-side", "socrates-4-main", "socrates-4-side", "socrates-5-main", "socrates-5-side", "united-nations-1-main", "united-nations-1-side", "united-nations-2-main", "united-nations-2-side", "united-nations-3-main", "united-nations-3-side", "united-nations-4-main", "united-nations-4-side", "united-nations-5-main", "united-nations-5-side", "vikings-1-main", "vikings-1-side", "vikings-2-main", "vikings-2-side", "vikings-3-main", "vikings-3-side", "vikings-4-main", "vikings-4-side", "vikings-5-main", "vikings-5-side", "winston-churchill-1-main", "winston-churchill-1-side", "winston-churchill-2-main", "winston-churchill-2-side", "winston-churchill-3-main", "winston-churchill-3-side", "winston-churchill-4-main", "winston-churchill-4-side", "winston-churchill-5-main", "winston-churchill-5-side", "world-war-i-1-main", "world-war-i-1-side", "world-war-i-2-main", "world-war-i-2-side", "world-war-i-3-main", "world-war-i-3-side", "world-war-i-4-main", "world-war-i-4-side", "world-war-i-5-main", "world-war-i-5-side", "world-war-ii-1-main", "world-war-ii-1-side", "world-war-ii-2-main", "world-war-ii-2-side", "world-war-ii-3-main", "world-war-ii-3-side", "world-war-ii-4-main", "world-war-ii-4-side", "world-war-ii-5-main", "world-war-ii-5-side"]);
 const CAT_COLORS = ['var(--cat-1)', 'var(--cat-2)', 'var(--cat-3)'];
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const hasPic = w => !!(w && w.picture && (w.show === 'picture' || w.show === 'both'));
 
+// Ett ämne visas när alla kortens huvudbilder finns. Ordbilder som saknas visas som text.
 const READY = DATA.filter(set =>
-  set.cards.every((c, i) =>
-    HAVE.has(set.slug + '-' + (i + 1) + '-main') && HAVE.has(set.slug + '-' + (i + 1) + '-side')));
+  set.cards.every((c, i) => HAVE.has(set.slug + '-' + (i + 1) + '-main')));
 
 const nCards = READY.reduce((n, s) => n + s.cards.length, 0);
 document.getElementById('subline').textContent =
@@ -184,25 +230,63 @@ let lang = 'en';
 const personName = set => lang === 'sv' && set.person_sv ? set.person_sv : set.person;
 function loc(c) {
   const sv = lang === 'sv' && c.sv;
+  // Svenska ord saknar visning och bild: de följer det engelska ordet på samma plats.
+  const words = (sv ? c.sv.words : c.words).map((w, i) => {
+    const en = c.words[i] || {};
+    return {word: w.word, explanation: w.explanation, show: hasPic(en) ? en.show : 'text', picture: en.picture};
+  });
   return {
     title: sv ? c.sv.title : c.title,
     sentences: sv ? c.sv.text_sentences : c.text_sentences,
     question: sv ? c.sv.question : c.question,
     options: sv ? c.sv.options : c.options,
     correct: sv ? c.sv.correct : c.correct,
-    words: sv ? c.sv.words : c.words,
+    words,
     level: lang === 'sv' ? (LVL_SV[c.level] || c.level) : c.level,
     category: lang === 'sv' ? (CAT_SV[c.category] || c.category) : c.category,
     mainCap: sv ? c.sv.main_caption : c.main_image.caption,
-    sideCap: sv ? c.sv.side_caption : c.side_image.caption,
   };
 }
-
-function fig(kind, caption, imgId) {
-  const key = imgId + '-' + kind;
-  return '<figure class="img img-' + kind + '">' +
-    '<img src="images/web/' + key + '.jpg" alt="' + esc(caption) + '" loading="lazy">' +
-    '<figcaption class="caption">' + esc(caption) + '</figcaption></figure>';
+// Löptext i stycken om högst sju meningar; repliker (pratminus) får egen rad.
+function clue(sentences) {
+  const n = Math.max(1, Math.ceil(sentences.length / 7));
+  const size = Math.ceil(sentences.length / n);
+  const isLine = s => /^[-–]\s/.test(s);
+  let out = '';
+  for (let k = 0; k < sentences.length; k += size) {
+    const part = sentences.slice(k, k + size);
+    out += '<p>' + part.map((s, j) =>
+      (j && (isLine(s) || isLine(part[j - 1])) ? '<br>' : (j ? ' ' : '')) + esc(s)).join('') + '</p>';
+  }
+  return out;
+}
+function front(L, key) {
+  return '<article class="panel front" aria-label="Framsida">' +
+    '<figure class="img img-main"><img src="images/web/' + key + '-main.jpg" alt="' + esc(L.mainCap) + '" loading="lazy"></figure>' +
+    '<div class="clue">' + clue(L.sentences) + '</div>' +
+    '<p class="q">' + esc(L.question) + '</p>' +
+    '<ul class="options">' + L.options.map(o =>
+      '<li' + (o === L.correct ? ' class="is-correct"' : '') + '><span class="sq"></span>' +
+      '<span>' + esc(o) + (o === L.correct ? '<span class="tick" title="rätt svar"> ✓</span>' : '') +
+      '</span></li>').join('') + '</ul>' +
+    '<div class="foot"><span class="cat">' + esc(L.category) + '</span><span>' + esc(L.level) + '</span></div>' +
+  '</article>';
+}
+function back(L) {
+  // Ett ord med bild visas som ruta när bilden finns, annars som textrad.
+  const ready = w => hasPic(w) && HAVE.has(w.picture.id);
+  const tiles = L.words.filter(ready), lines = L.words.filter(w => !ready(w));
+  const cols = tiles.length === 3 || tiles.length > 4 ? 3 : 2;
+  return '<article class="panel back" aria-label="Baksida">' +
+    '<p class="answer">' + esc(L.correct) + '</p>' +
+    (tiles.length ? '<div class="wtiles" style="--cols:' + cols + '">' + tiles.map(w =>
+      '<figure class="wtile"><img src="images/web/' + w.picture.id + '.jpg" alt="' + esc(w.word) + '" loading="lazy">' +
+      '<figcaption><b>' + esc(w.word) + '</b>' +
+      (w.show === 'both' ? '<span>' + esc(w.explanation) + '</span>' : '') +
+      '</figcaption></figure>').join('') + '</div>' : '') +
+    (lines.length ? '<div class="wlines">' + lines.map(w =>
+      '<p><b>' + esc(w.word) + '</b>: <span>' + esc(w.explanation) + '</span></p>').join('') + '</div>' : '') +
+  '</article>';
 }
 
 const toc = document.getElementById('toc');
@@ -225,33 +309,20 @@ function render() {
     app.appendChild(h);
     set.cards.forEach((c, i) => {
       const L = loc(c);
+      const key = set.slug + '-' + (i + 1);
       const color = CAT_COLORS[(cardNo++) % CAT_COLORS.length];
       const sec = document.createElement('section');
       sec.className = 'sheet';
       sec.innerHTML =
         '<div class="sheet-meta">' +
           '<span class="lvl">' + esc(L.level) + '</span>' +
-          '<span>' + esc(personName(set)) + ' · kort ' + (i + 1) + ' av 5</span>' +
+          '<span>' + esc(personName(set)) + ' · kort ' + (i + 1) + ' av ' + set.cards.length + '</span>' +
           '<span>' + esc(L.title) + '</span>' +
         '</div>' +
-        '<article class="card" style="--cat:' + color + '">' +
-          '<div>' +
-            fig('main', L.mainCap, set.slug + '-' + (i + 1)) +
-            '<div class="card-text">' +
-              L.sentences.map(s => '<p>' + esc(s) + '</p>').join('') +
-              '<p class="q">' + esc(L.question) + '</p>' +
-            '</div>' +
-          '</div>' +
-          '<aside>' +
-            fig('side', L.sideCap, set.slug + '-' + (i + 1)) +
-            (L.words.length ? '<dl class="words">' + L.words.map(w =>
-              '<dt>' + esc(w.word) + '</dt><dd>' + esc(w.explanation) + '</dd>').join('') + '</dl>' : '') +
-            '<h2 class="category">' + esc(L.category) + '</h2>' +
-            '<ul class="options">' + L.options.map(o =>
-              '<li' + (o === L.correct ? ' class="is-correct"' : '') + '><span class="sq"></span>' +
-              esc(o) + '<span class="tick">✓ rätt svar</span></li>').join('') + '</ul>' +
-          '</aside>' +
-        '</article>';
+        '<div class="pair" lang="' + lang + '" style="--cat:' + color + '">' +
+          '<div class="face"><div class="face-label">Framsida</div>' + front(L, key) + '</div>' +
+          '<div class="face"><div class="face-label">Baksida</div>' + back(L) + '</div>' +
+        '</div>';
       app.appendChild(sec);
     });
   });
