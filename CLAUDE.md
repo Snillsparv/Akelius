@@ -161,6 +161,12 @@ Verifiera sidorna vid behov med Playwright: `node` + `playwright-core` med
   en del av svaret, därför inte `africa` på de två sistnämnda seten.
 - Leverans 12 införde `asia` (Asien) för Asienblocket.
 - Leverans 13 införde `latin america` (Latinamerika) och `middle east` (Mellanöstern).
+- **Kortformat från 2026-10-15** (Rogers memo, Daniels mejl 2026-10-20): stående A6
+  för både tryck och smartphone. Framsida uppifrån: huvudbilden 3:2 som dominant
+  bild, ledtrådstext, fråga, fyra svar i 2x2. Baksida: svaret med exakt samma ord
+  som rätt alternativ i Verdana 15, sedan ordförklaringar där varje ord visas som
+  text, bild eller båda, med variation inom kortet och mellan kort. Ersätter A6
+  liggande. Sidobilden genereras inte vidare tills Jonas avgjort dess roll.
 
 ## Rapportformat efter en körning
 

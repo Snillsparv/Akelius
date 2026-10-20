@@ -25,7 +25,7 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
 - Skippa åsiktsord: bigger, circa, many, much, beautiful (eller kvalificera: "biggest in what").
 - Ingen upprepning av text/bild mellan kort i samma ämne (t.ex. Aten nämns en gång
   per Sokrates-set; endast en bild på Sokrates ansikte).
-- Layout (Akelius Berlin): A6 liggande, Verdana 11, vänsterställt, maxkontrast,
+- ~~Layout (Akelius Berlin): A6 liggande~~ (ersatt 2026-10-15 av stående A6, se nedan), Verdana 11, vänsterställt, maxkontrast,
   ingen text på färgplattor, inga linjer/rektanglar, kategori i singular.
 - Spel: slumpmoment/jokrar så svagare spelare kan vinna; nivåval per spelare;
   buntar om ca 30 kort (online 18); fel kort läggs underst.
@@ -105,3 +105,36 @@ Källa: `akelius-regler-quiz-cards-2026-08.pdf` (Rogers mejl 2026-08-07).
   Latinamerika och Mellanöstern ur förslaget: Maya, azteker och Tenochtitlan,
   inka, Haitis revolution, Simón Bolívar, Osmanska riket. Nya etiketter
   `latin america` och `middle east`. Bildkrediterna fortfarande slut.
+
+## Rogers memo 2026-10-15 och Daniels mejl 2026-10-20: nytt kortformat
+
+Källa: Daniel Shea mejlade 2026-10-20 sidan 4 av 4 ur Rogers memo
+"2026-10-15_memo_Roger_quiz cards corrections" (sidorna 1-3 har vi inte fått).
+
+- **Stående A6 för både tryckta kort och smartphone.** Roger: "I designed my
+  first layout to work similarly on horizontal screens and paper cards. Now, I
+  want to upgrade the layout to a vertical A6 smartphone layout for both printed
+  cards and smartphones." Ersätter A6 liggande från augusti. **Avgjord.**
+- **Framsidan uppifrån och ned:** bild, text, fråga, fyra svar i två rader om två.
+  Daniel: "with the picture in a dominant position." Skissens bildruta är 3:2,
+  samma format som våra huvudbilder. **Avgjord.**
+- **Baksidan:** 1) svaret, "Repeat the exact words from the correct answers, Use
+  Verdana 15 points", alltså exakt samma ord som rätt alternativ; 2) förklaring,
+  "For history and geography: explain difficult words. For math and physics:
+  explain and solve the task." **Avgjord.**
+- **Ordförklaringar med bild.** Daniel: "use visible pictures for explaining a
+  word ... You can use only text, only pictures or a combination of both.
+  Variation is key." Exempel: **sheet**, "A sheet is a broad flat piece of paper,
+  metal, plastic, or glass.", med två bilder av papper. Kravet fanns redan i
+  Rogers ursprungliga uppdrag ("förklara med en bild"). **Avgjord.**
+- Konsekvenser som vi drar själva: huvudbilden 3:2 blir framsidans bild;
+  sidobilden har ingen plats i skissen och genereras inte vidare förrän Jonas
+  avgjort dess roll; bildtexten syns inte i skissen och flyttas inte ut på
+  kortet förrän det är avgjort.
+- **Oklart, lyft till Jonas:** "Start with the picture covering two-thirds of the
+  left top area" går inte ihop med skissen där bilden tar hela bredden och
+  ungefär 40 procent av höjden; vi följer skissen. Mätning 2026-10-20: vid
+  Verdana 11 ryms 2 av 400 engelska kort på framsidan med bilden överst, vid
+  Verdana 10 ryms 72, vid 9 ryms 209. Verdana 11 rymmer omkring 75 ord,
+  Verdana 10 omkring 85; dagens median är 105 ord i årskurs 6 och 132 på
+  universitetsnivå. Antingen kortas texterna eller så blir typsnittet mindre.

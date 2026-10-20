@@ -46,6 +46,60 @@ samt `### Huvudbild` och `### Sidobild` med fälten **Motiv**, **Bildtext**,
 1–4 svåra ord (utanför de 1 000 vanligaste) med superenkla förklaringar.
 Ordet ska förekomma i kortets text.
 
+### Ordbilder på baksidan (från 2026-10-20)
+
+Ordförklaringarna står på kortets baksida under svaret (Rogers memo 2026-10-15).
+Daniel 2026-10-20: "use visible pictures for explaining a word ... only text,
+only pictures or a combination of both. Variation is key." Varje ord har därför
+en visning:
+
+- `text`: bara ordet och förklaringen (standard, ingen underpunkt behövs).
+- `bild`: ordet och en bild, ingen förklaring. Bara när bilden ensam entydigt
+  visar ordet för en elev på kortets nivå: konkreta föremål, djur, växter,
+  byggnader, landskap, verktyg, kläder (cattle, camel, pyramid, wheat, harbor).
+- `text+bild`: ordet, förklaringen och en bild. När bilden hjälper men ordet
+  behöver en mening (aqueduct, terrace, quarry, caravan, telescope).
+- Abstrakta ord (treaty, democracy, tolerance, debt, empire, theory) och ord som
+  bara kan visas med text eller symboler är alltid `text`.
+
+Variation, bindande:
+- Varje kort med minst två ord har minst ett ord med bild och minst ett ord
+  som bara är text; finns inget avbildbart ord på kortet är alla `text`, och
+  det noteras i setets Not.
+- Högst hälften av orden på ett kort får bild (avrundat uppåt vid udda antal).
+- Inom ett set används både `bild` och `text+bild`, inte bara den ena.
+
+Ordbildens innehåll:
+- Visar ordets allmänna betydelse, inte kortets svar: inga porträtt av kortets
+  person, inga namngivna monument eller platser som avslöjar svaret mer än
+  texten redan gör, inga flaggor, ingen text, inga siffror. Samma hårda
+  bildregler som för kortbilderna (Muhammed aldrig, ingen kalligrafi, Jesus
+  bara på avstånd, ingen gore, inga hornhjälmar).
+- Tidsbundna ord (chariot, scribe, caravan, galleon) visas i rätt epok med
+  epokens klädsel och föremål angivna; tidlösa ord (river, wheat, cattle,
+  harbor) visas tidlöst utan moderna föremål som drar fel.
+- Upprepa inte kortets huvudbild och inte en annan ordbild i samma set.
+- Människor i ordbilder: hudfärg och klädsel anges när de bär betydelsen;
+  annars hellre föremålet än en person.
+
+Prompt (engelska, en till tre meningar): börjar "Photorealistic square photo
+of ..." eller, när foto inte går (rörelser, processer, historiska scener),
+"Simple clear illustration of ...", ett enda tydligt motiv, anti-fel-lista och
+slutar med "no text, no letters, no numbers". Pipelinen lägger själv till att
+motivet ska fylla kvadraten mot lugn bakgrund.
+
+Syntax i `cards/<slug>.md`, indragna underpunkter direkt under ordraden:
+
+```
+- **cattle** — *cows and bulls kept by farmers*
+  - Visning: bild
+  - Ordbild: Photorealistic square photo of three brown cows grazing on a green hillside, no modern fences, no text, no letters, no numbers
+```
+
+Bildens id blir `<slug>-<kort>-w-<ord>` och fil `images/<id>.png` (1024x1024).
+Svenska översättningen påverkas inte: visning och bild följer det engelska
+ordet på samma plats i listan.
+
 ## Bildbriefer
 
 - Huvudbild liggande 3:2, sidobild stående 2:3. Sidobilden förklarar där det

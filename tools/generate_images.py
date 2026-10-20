@@ -5,8 +5,12 @@ Huvudbilder (3:2) genereras i 1536x1024 och sparas som de är.
 Sidobilder (3:4) genereras i 1024x1536 och mittbeskärs till 1024x1365
 (fönster (0, 85, 1024, 1450)), samma efterbehandling som leverans 1-3.
 
+Ordbilder (1:1, id <slug>-<kort>-w-<ord>) genereras i 1024x1024 med kvalitet
+medium; de visas små på kortets baksida.
+
 Hoppar över id:n som redan har fil i images/. Kör:
-  python3 tools/generate_images.py [--only <prefix>] [--workers N] [--limit N]
+  python3 tools/generate_images.py [--only <prefix>] [--kind main|side|word]
+                                   [--workers N] [--limit N]
 """
 import base64, concurrent.futures, csv, io, json, os, pathlib, sys, time
 import urllib.request
@@ -14,7 +18,8 @@ import urllib.request
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 IMAGES = ROOT / 'images'
 API = 'https://api.openai.com/v1/images/generations'
-SIZES = {'3:2': '1536x1024', '3:4': '1024x1536'}
+SIZES = {'3:2': '1536x1024', '3:4': '1024x1536', '1:1': '1024x1024'}
+QUALITY = {'3:2': 'high', '3:4': 'high', '1:1': 'medium'}
 SIDE_CROP = (0, 85, 1024, 1450)
 
 
@@ -23,7 +28,7 @@ def generate(row):
     out = IMAGES / (row['id'] + '.png')
     body = json.dumps({
         'model': 'gpt-image-2', 'prompt': row['prompt'],
-        'size': SIZES[row['ratio']], 'quality': 'high', 'n': 1,
+        'size': SIZES[row['ratio']], 'quality': QUALITY[row['ratio']], 'n': 1,
     }).encode()
     for attempt in range(3):
         try:
@@ -49,8 +54,12 @@ def main():
     only = args[args.index('--only') + 1] if '--only' in args else ''
     workers = int(args[args.index('--workers') + 1]) if '--workers' in args else 4
     limit = int(args[args.index('--limit') + 1]) if '--limit' in args else None
+    kind = args[args.index('--kind') + 1] if '--kind' in args else ''
+    def kind_of(iid):
+        return 'word' if '-w-' in iid else iid.rsplit('-', 1)[-1]
     rows = list(csv.DictReader((ROOT / 'data' / 'image-prompts.csv').open(encoding='utf-8')))
-    todo = [r for r in rows if r['id'].startswith(only) and not (IMAGES / (r['id'] + '.png')).exists()]
+    todo = [r for r in rows if r['id'].startswith(only) and not (IMAGES / (r['id'] + '.png')).exists()
+            and (not kind or kind_of(r['id']) == kind)]
     if limit:
         todo = todo[:limit]
     print(f'{len(todo)} bilder att generera ({workers} parallella)')

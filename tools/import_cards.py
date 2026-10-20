@@ -9,7 +9,7 @@ Användning:
   python3 tools/import_cards.py <slug> [<slug> ...]
   python3 tools/import_cards.py --check <slug>   (bara validera, skriv inget)
 """
-import json, pathlib, re, sys
+import json, unicodedata, pathlib, re, sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
@@ -20,6 +20,49 @@ LEVELS = {
     'Årskurs 12 (B)': 'grade 12',
     'Universitet': 'university',
 }
+
+
+SHOW = {'text': 'text', 'bild': 'picture', 'text+bild': 'both'}
+
+
+def word_slug(word):
+    """Stabil del av ordbildens id: ord med gemener, a-z, siffror och bindestreck."""
+    t = unicodedata.normalize('NFKD', word.lower()).encode('ascii', 'ignore').decode()
+    return re.sub(r'[^a-z0-9]+', '-', t).strip('-')
+
+
+def parse_words(block, slug, k):
+    """Ordlistan: '- **ord** — *förklaring*', valfritt följd av indragna underpunkter
+    '  - Visning: text | bild | text+bild' och '  - Ordbild: <AI-prompt på engelska>'.
+    Utan underpunkt är visningen text. Bild och text+bild kräver ordbild."""
+    words, cur = [], None
+    for line in block.splitlines():
+        m = re.match(r'^- \*\*(.+?)\*\* — \*(.+?)\*[ \t]*$', line)
+        if m:
+            cur = {'word': m.group(1), 'explanation': m.group(2), 'show': 'text'}
+            words.append(cur)
+            continue
+        sub = re.match(r'^[ \t]+- (Visning|Ordbild):[ \t]*(.+?)[ \t]*$', line)
+        if sub and cur is not None:
+            key, val = sub.groups()
+            if key == 'Visning':
+                if val not in SHOW:
+                    sys.exit(f'{slug} kort {k}: okänd visning {val!r} för {cur["word"]!r}')
+                cur['show'] = SHOW[val]
+            else:
+                cur['picture'] = {'id': f'{slug}-{k}-w-{word_slug(cur["word"])}', 'ai_prompt': val}
+            continue
+        if line.strip() and not line.startswith((' ', '\t')):
+            cur = None
+    for w in words:
+        if w['show'] != 'text' and 'picture' not in w:
+            sys.exit(f'{slug} kort {k}: {w["word"]!r} har visning {w["show"]} men ingen ordbild')
+        if w['show'] == 'text' and 'picture' in w:
+            sys.exit(f'{slug} kort {k}: {w["word"]!r} har ordbild men visning text')
+    ids = [w['picture']['id'] for w in words if 'picture' in w]
+    if len(ids) != len(set(ids)):
+        sys.exit(f'{slug} kort {k}: två ordbilder får samma id')
+    return words
 
 
 def parse_set(slug):
@@ -64,8 +107,7 @@ def parse_set(slug):
         options = [o for _, o in opts]
         correct = next(o for s, o in opts if s == '✅')
 
-        words = [{'word': w, 'explanation': e} for w, e in
-                 re.findall(r'(?m)^- \*\*(.+?)\*\* — \*(.+?)\*[ \t]*$', block)]
+        words = parse_words(block, slug, int(head.group(1)))
 
         def image(section):
             part = re.search(r'### ' + section + r'\n(.*?)(?=\n### |\n---|\Z)', block, re.S)
