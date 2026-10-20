@@ -52,7 +52,7 @@ Uppdateras automatiskt vid varje push.
 
 **🎁 Presentationssida för granskning:**
 <https://snillsparv.github.io/Akelius/presentation.html> — putsad sida att
-skicka till Roger: visar bara ämnen där alla bilder är klara, utan interna
+skicka till Roger: visar bara ämnen där alla huvudbilder är klara, utan interna
 bildbriefer och platshållare. Byggs om automatiskt av `tools/build_index.py`
 och växer i takt med att nya bildbatchar blir klara.
 
@@ -87,17 +87,15 @@ svar bland alternativen, och svaren krockar inte med geografidelens facit.
 
 ## Bilder
 
-Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`
-(800 st för leverans 1–13: 400 kort × huvudbild + sidobild).
+Bilderna AI-genereras batchvis från prompterna i `data/image-prompts.csv`:
+huvudbild 3:2 och sidobild 3:4 per kort, plus en kvadratisk ordbild för varje
+ord som visas med bild på kortets baksida (1 254 rader för leverans 1-13).
 
-**Status: 541 av 800 bilder klara** — korten i leverans 1–8 har
-huvudbild och sidobild utom tre bilder som dragits tillbaka vid exportgranskningen
-2026-10-07 (Aristoteles kort 5, Korstågen kort 5, Julius Caesar kort 1) och
-görs om med nya briefer; i leverans 9 saknas 16 bilder (Einstein kort 3–5 och
-hela Marie Curie) och leverans 10–13 väntar helt, i väntan på påfyllda
-krediter hos bildtjänsten. Varje batch
-har kvalitetsgranskats bild för bild mot sina briefer, och underkända bilder
-har genererats om.
+**Status 2026-10-20: alla 400 huvudbilder klara.** Varje bild har granskats
+mot sin brief, och underkända bilder har genererats om och kontrollerats innan
+de lades in. Sidobilder: 271 av 400; resten genereras inte förrän Jonas avgjort
+sidobildens roll i det stående A6-formatet. Ordbilder: 454 planerade, 18 klara
+(pilot för Egypten, Mesopotamien och Sokrates).
 
 Arbetsflöde per batch:
 

@@ -19,18 +19,19 @@ ordlista eller bild.
 
 ## Status (uppdatera vid varje leverans)
 
-- 80 ämnen, 400 kort, 541 av 800 bilder, 100 procent tvåspråkigt (leverans 1-13).
-  Masterlistan med 50 ämnen är färdig. Ur den utökade listan är leverans 9
-  (vetenskap), 10 (Arkimedes till Upplysningen), 11 (Afrika), 12 (Asien) och
-  13 (Latinamerika och Mellanöstern: Maya, azteker, inka, Haitis revolution,
-  Bolívar, Osmanska riket) färdiga i text, granskning och svenska. Bilder:
-  leverans 9 har 44 av 60 godkända, leverans 10-13 har inga ännu, eftersom
-  OpenAI-kontots krediter tog slut 2026-09-12 (`credit_balance_exhausted`).
-- Näst på tur: **fyll på OpenAI-krediter** (platform.openai.com, Settings,
-  Organization, Billing, Add to credit balance), kör sedan
-  `python3 tools/generate_images.py --only <slug> --workers 4` för
-  albert-einstein, marie-curie och alla 24 set i leverans 10-13
-  (256 bilder, cirka 44 USD), bildgranska set för set, bygg om sidorna.
+- 80 ämnen, 400 kort, 100 procent tvåspråkigt (leverans 1-13). Masterlistan
+  med 50 ämnen är färdig. Ur den utökade listan är leverans 9 (vetenskap), 10
+  (Arkimedes till Upplysningen), 11 (Afrika), 12 (Asien) och 13 (Latinamerika
+  och Mellanöstern) färdiga i text, granskning och svenska. Bilder 2026-10-20:
+  alla 400 huvudbilder klara och granskade; 271 av 400 sidobilder (resten hålls
+  tills Jonas avgjort sidobildens roll i stående A6); ordbilder planerade för
+  alla 80 ämnen (454 ord med bild), 18 genererade som pilot för Egypten,
+  Mesopotamien och Sokrates. Prov-PDF i stående A6:
+  `export/Akelius-quiz-cards-{EN,SV}-2026-10-20-sample.pdf`.
+- Näst på tur: Jonas besked om textlängd kontra typsnitt på stående A6, om
+  sidobilden och om ordbildspiloten. Godkänns piloten: `python3
+  tools/generate_images.py --kind word --workers 4` (436 ordbilder kvar),
+  bildgranska set för set, gör en full export med `tools/export_cards.py`.
   Därefter nästa block ur den utökade listan i förslagets ordning; frågorna
   om trekortsset, ordning och nivå 3 är fortfarande öppna hos Jonas. Kvar
   bland femkortsämnena i nivå 1 finns bara 3 Europa-rader och nivå 2-3

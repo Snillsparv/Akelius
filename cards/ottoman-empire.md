@@ -49,7 +49,7 @@ Not (ej elevvänd): kategori `middle east`, svenska "Mellanöstern". Orden Ottom
 - **Motiv:** Photo of a historic skyline seen from across calm water at dawn: many rounded domes and tall slender minarets rising above an old hillside town, warm golden haze in the distance. Production note: no readable signs, no flags, no crescent emblems, no calligraphy anywhere, no religious figures, no recognisable modern buildings; the city name must not appear in any student-visible text or alt-text, the search query is internal use only.
 - **Bildtext:** *Domes and towers rise over one of the empire's great cities.*
 - **Shutterstock-sökning:** `historic skyline domes minarets old town water dawn`
-- **AI-prompt (alternativ):** A historic hillside skyline seen across calm water at dawn, many rounded domes and tall slender minarets rising above old stone buildings, warm golden haze, photorealistic, no people, no flags, no crescent emblems, no calligraphy, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** A historic hillside skyline seen across calm water at dawn, many rounded domes and tall slender minarets rising above old stone buildings, every dome and minaret ending in a plain pointed tip or a simple round knob, smooth plain lead-grey roofs, warm golden haze, photorealistic, no people, no flags, no crescent emblems, no crescent finials, no gilded curly ornaments or metal scrollwork on roofs or walls, no calligraphy, no pseudo-script, no signs, no text, no letters, no numbers.
 
 ### Sidobild
 
@@ -100,7 +100,7 @@ Not (ej elevvänd): kategori `middle east`, svenska "Mellanöstern". Orden Ottom
 - **Motiv:** A giant plain bronze cannon lashed to a wooden sledge and hauled by teams of oxen along a dirt road toward distant grey city walls, drivers in 1450s dress seen from behind, overcast light. Production note: 15th century siege weapon only, no engravings, no modern artillery, no flags, no people facing the camera, no readable text or numbers on the sledge or walls.
 - **Bildtext:** *Oxen pull a huge cannon toward the old walls.*
 - **Shutterstock-sökning:** `oxen hauling giant bronze cannon medieval city walls illustration`
-- **AI-prompt (alternativ):** A giant plain bronze cannon lashed to a wooden sledge and hauled by teams of oxen along a dirt road toward distant grey city walls, drivers in 1450s dress seen from behind, overcast light, realistic historical illustration, no engravings, no modern artillery, no flags, no people facing the camera, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** A giant plain bronze cannon lashed to a heavy wooden sledge and hauled along a dirt road by a long team of oxen yoked in pairs under wooden neck yokes, thick ropes running from the yokes straight back to the front of the sledge, the oxen walking directly in front of the sledge, toward a distant long line of massive grey stone land walls on flat open ground, a double wall with many square towers and a ditch in front, a few low shallow domes rising behind the walls, drivers in 1450s Anatolian dress seen from behind, long belted wool kaftans, simple wrapped white turbans and felt caps, overcast light, realistic historical illustration, no hilltop town, no church bell towers, no Gothic spires, no crosses, no crescents, no ropes tied to the oxen's tails or rumps, no engravings, no modern artillery, no flags, no people facing the camera, no text, no letters, no numbers.
 
 ### Sidobild
 
@@ -202,7 +202,7 @@ Not (ej elevvänd): kategori `middle east`, svenska "Mellanöstern". Orden Ottom
 - **Motiv:** Quiet illustration of an empty grand council room: cushions and low benches line the walls, a low wooden table stands in the center, tall windows let in soft afternoon light. Shows the setting of the empire's reform meetings. Production note: no people, no flags, no crescent emblems, no calligraphy or inscriptions on walls or windows.
 - **Bildtext:** *In rooms like this, officials meet to plan new reforms.*
 - **Shutterstock-sökning:** `empty historic council room cushions illustration`
-- **AI-prompt (alternativ):** A quiet illustration of an empty grand council room with cushions and low benches along the walls, a low wooden table in the center, tall windows letting in soft afternoon light, 19th century interior, no people, no flags, no calligraphy, no text, no letters, no numbers.
+- **AI-prompt (alternativ):** A quiet illustration of an empty grand council room in a 19th century palace, low cushioned divan benches with plain and striped cushions along the walls, a low plain wooden table in the center on a patterned carpet, tall windows with plain wooden frames and clear glass letting in soft afternoon light, walls of smooth cream plaster with simple plain wooden panels, decoration only as simple geometric or floral patterns, no inscription panels, no cartouches, no dark panels with gold marks, no plaques, no friezes with script-like marks, no fireplace, no people, no flags, no crescent emblems, no calligraphy, no pseudo-script, no text, no letters, no numbers.
 
 ### Sidobild
 

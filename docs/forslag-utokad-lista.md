@@ -3,8 +3,8 @@
 Status: klartecken att fortsätta gavs 2026-09-12. Leverans 9 (rad 51-54, 59,
 79), 10 (rad 61, 62, 71, 72, 74, 76), 11 (rad 86, 87, 88, 92, 93, 94), 12
 (rad 97, 98, 99, 100, 102, 104) och 13 (rad 107, 108, 109, 110, 111, 116) är
-färdiga i text, granskning och svenska; bilderna väntar på påfyllda krediter
-hos bildtjänsten (44 av 60 klara för leverans 9, inga för 10-13). Etiketterna
+färdiga i text, granskning och svenska, och alla huvudbilder är klara och
+granskade (2026-10-20); sidobilderna hålls i väntan på beslut om stående A6. Etiketterna
 `mathematics`, `africa`, `colonialism`, `asia`, `latin america` och `middle
 east` infördes med leverans 10-13. Alla femkortsämnen i nivå 1 utom rad 118,
 119 och 120 (Karl den store, Magna Carta, Elisabet I, som är trekortsämnen)
