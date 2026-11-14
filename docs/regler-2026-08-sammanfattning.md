@@ -142,3 +142,23 @@ Källa: Daniel Shea mejlade 2026-10-20 sidan 4 av 4 ur Rogers memo
   Exporten (`tools/export_cards.py`) sätter tills vidare varje framsida i
   största storlek som ryms, från 11 ned till 7, och skriver storleken i
   sidfoten och i Excelfilen.
+
+## Daniels mejl 2026-11-13: innehållsförteckning och hela kortsamlingen
+
+Daniel Shea bad varje team om två saker: en innehållsförteckning över allt som
+gjorts hittills, med antal kort per ämne och gärna föreslagen nivå per kort,
+samt hela kortsamlingen hittills ("likely a large file or files, but that's
+fine"). Pilot-PDF:en med ordbilder skickades till honom 2026-11-11.
+
+Underlaget byggdes 2026-11-14 med `python3 tools/export_cards.py` i `export/`:
+
+- `Akelius-history-quiz-cards-contents-<datum>.pdf` och `.xlsx`:
+  innehållsförteckningen på engelska, ämnen grupperade per kategori, varje kort
+  med kort-ID, nivå i Akelius notation (H 6, H 9, H 12, H U) och titel.
+- `Akelius-history-quiz-cards-EN-<datum>.pdf` och `-SV-`: alla kort i stående
+  A6. Bilderna i PDF:en är cirka 140 dpi så att filen ryms i ett mejl till
+  Akelius (19 MB inklusive kodning); fullupplösta bilder länkas från Excelfilen.
+- `Akelius-history-quiz-cards-text-<datum>.xlsx`: all text, en rad per kort.
+
+Ordbilder som ännu inte är gjorda visas som text på baksidan, så att samlingen
+inte har grå platshållare.

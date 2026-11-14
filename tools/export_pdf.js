@@ -4,6 +4,7 @@
 // under bilden; baksidans ordförklaringar stegas från 9,5 till 7. Storleken per kort
 // skrivs i sidfoten och i en JSON-rapport. Ryms ett kort inte ens då avbryts körningen.
 // Anropas av tools/export_cards.py:  node tools/export_pdf.js <html> <pdf> <sidor> <rapport.json>
+// Med <sidor> = flow skrivs i stället ett löpande A4-dokument utan passningskontroll.
 const fs = require('fs');
 const path = require('path');
 const { chromium } = require('playwright-core');
@@ -20,6 +21,16 @@ const BACK = [9.5, 9, 8.5, 8, 7.5, 7];
     await document.fonts.ready;
     await Promise.all([...document.images].map(img => img.decode().catch(() => {})));
   });
+  if (expectedPages === 'flow') {
+    // löpande A4-dokument (innehållsförteckningen): inga kortsidor att passa in
+    await page.pdf({ path: pdfPath, format: 'A4', printBackground: true, preferCSSPageSize: true,
+                     displayHeaderFooter: true, headerTemplate: '<div></div>',
+                     footerTemplate: '<div style="font-size:7pt;color:#777;width:100%;text-align:center">' +
+                                     '<span class="pageNumber"></span> / <span class="totalPages"></span></div>' });
+    console.log(`${path.basename(pdfPath)}: skriven`);
+    await browser.close();
+    return;
+  }
   const result = await page.evaluate(({ FRONT, BACK }) => {
     const overflows = el => el.scrollHeight > el.clientHeight + 1 || el.scrollWidth > el.clientWidth + 1;
     const fit = (sec, sel, prop, sizes) => {

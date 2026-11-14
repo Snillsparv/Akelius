@@ -2,16 +2,19 @@
 """Exportera alla kort till granskningsbara filer för Akelius layoutteam.
 
 Skapar i export/:
-  Akelius-quiz-cards-EN-<datum>.pdf   stående A6, två sidor per kort, engelska
-  Akelius-quiz-cards-SV-<datum>.pdf   samma på svenska
-  Akelius-quiz-cards-text-<datum>.xlsx all text, en rad per kort, EN och SV
+  Akelius-history-quiz-cards-EN-<datum>.pdf      stående A6, två sidor per kort, engelska
+  Akelius-history-quiz-cards-SV-<datum>.pdf      samma på svenska
+  Akelius-history-quiz-cards-text-<datum>.xlsx   all text, en rad per kort, EN och SV
+  Akelius-history-quiz-cards-contents-<datum>.xlsx/.pdf  innehållsförteckning med
+      antal kort och nivå per kort i Akelius notation (H 6, H 9, H 12, H U)
 
 Sidlayouten följer Rogers memo 2026-10-15 (stående A6 för tryck och
 smartphone). Framsidan uppifrån: huvudbilden 3:2 i full bredd, ledtrådstext,
 fråga, fyra svar i 2x2. Baksidan: svaret med exakt samma ord som rätt
 alternativ i Verdana 15, sedan ordförklaringarna som text, bild eller båda
-enligt ordets visning. Ordlisteord är fetade i texten. Saknade bilder visas
-som grå platshållare, huvudbilden med bildbriefen.
+enligt ordets visning; en ordbild som ännu inte finns visas som text.
+Ordlisteord är fetade i texten. En saknad huvudbild visas som grå platshållare
+med bildbriefen.
 
 PDF:erna renderas med tools/export_pdf.js (Playwright + systemets Chromium).
 Framsidans text sätts i Verdana 11 och stegas ned till 7 tills den ryms;
@@ -29,8 +32,12 @@ OUT = ROOT / 'export'
 BUILD = OUT / 'build'
 IMG_OUT = BUILD / 'img'
 PAGES_URL = 'https://snillsparv.github.io/Akelius/images/'
+PREFIX = 'Akelius-history-quiz-cards'
 
-MAIN_W, WORD_W, JPEG_Q = 760, 420, 72
+# nivåerna i Akelius system (Daniel Shea): ämne och årskurs, U för universitet
+AKELIUS_LEVEL = {'grade 6': 'H 6', 'grade 9': 'H 9', 'grade 12': 'H 12', 'university': 'H U'}
+
+MAIN_W, WORD_W, JPEG_Q = 520, 360, 64  # cirka 140 dpi i A6; PDF:en ryms i ett mejl till Akelius (19 MB inkl. kodning)
 TOC_ROWS = 30  # innehållsrader per A6-sida
 
 T = {
@@ -60,11 +67,12 @@ T = {
             'and university. Each card stands alone.',
             'All text has passed an independent historian review and an '
             'editor review. Every card also exists in Swedish.',
-            'The pictures are AI-generated and reviewed one by one. A grey '
-            'box marks a picture still in production.',
+            'The pictures are AI-generated and reviewed one by one.',
         ],
-        'legend_pending': '{p} topics still have pictures in production; they are '
-                          'marked with a star in the contents.',
+        'legend_words': 'Word pictures are so far a pilot in {n} topics. On the other '
+                        'cards every word is explained in text until its picture is made.',
+        'legend_pending': '{p} topics still have pictures in production, shown as a grey box '
+                          'with the picture brief; they are marked with a star in the contents.',
     },
     'sv': {
         'pending': 'Bild under produktion', 'brief': 'Bildbrief på engelska',
@@ -92,11 +100,12 @@ T = {
             'och universitet. Varje kort fungerar fristående.',
             'All text har gått igenom oberoende historikergranskning och '
             'redaktörsgranskning. Varje kort finns också på engelska.',
-            'Bilderna är AI-genererade och granskade en och en. En grå ruta '
-            'markerar en bild under produktion.',
+            'Bilderna är AI-genererade och granskade en och en.',
         ],
-        'legend_pending': '{p} ämnen har fortfarande bilder under produktion; de är '
-                          'markerade med stjärna i innehållet.',
+        'legend_words': 'Ordbilder finns hittills som pilot i {n} ämnen. På övriga kort '
+                        'förklaras varje ord i text tills dess bild är klar.',
+        'legend_pending': '{p} ämnen har fortfarande bilder under produktion, som visas som en '
+                          'grå ruta med bildbriefen; de är markerade med stjärna i innehållet.',
     },
 }
 
@@ -339,7 +348,8 @@ def word_picture(w, have, t):
 def back_words(words, have, t):
     """Ordförklaringarna: ord med bild som rutor överst, rena textord som rader under."""
     def pictured(w):
-        return w.get('show', 'text') != 'text' and 'picture' in w
+        # en planerad ordbild som inte är gjord än visas som text
+        return w.get('show', 'text') != 'text' and 'picture' in w and w['picture']['id'] in have
     tiles = [w for w in words if pictured(w)]
     lines = [w for w in words if not pictured(w)]
     out = ''
@@ -389,11 +399,16 @@ def card_pages(set_no, s, k, card, have, lang, page_no):
 
 
 def pending_sets(sets, have):
-    """Ämnen där någon bild som syns i A6-layouten saknas."""
-    return [s for s in sets if any(
-        f"{s['slug']}-{k}-main" not in have
-        or any(w['picture']['id'] not in have for w in c['words'] if 'picture' in w)
-        for k, c in enumerate(s['cards'], 1))]
+    """Ämnen där någon huvudbild saknas. Ordbilder som saknas visas som text."""
+    return [s for s in sets if any(f"{s['slug']}-{k}-main" not in have
+                                   for k in range(1, len(s['cards']) + 1))]
+
+
+def word_pilot(sets, have):
+    """(ämnen med minst en klar ordbild, om någon planerad ordbild fortfarande saknas)"""
+    ids = [(s['slug'], w['picture']['id']) for s in sets for c in s['cards']
+           for w in c['words'] if 'picture' in w]
+    return len({slug for slug, i in ids if i in have}), any(i not in have for _, i in ids)
 
 
 def build_html(data, have, lang, when, numbers):
@@ -405,6 +420,9 @@ def build_html(data, have, lang, when, numbers):
     n_cards = sum(len(s['cards']) for s in sets)
     toc_pages = math.ceil(len(sets) / TOC_ROWS)
     legend = t['legend'] + ([t['legend_pending'].format(p=len(pending))] if pending else [])
+    n_word_topics, words_missing = word_pilot(sets, have)
+    if words_missing:
+        legend.append(t['legend_words'].format(n=n_word_topics))
     first_card_page = 3 + toc_pages
     pages = [f"""
 <section class="page cover">
@@ -560,6 +578,145 @@ def build_xlsx(data, have, path, when, fits):
     wb.save(path)
 
 
+CAT_ORDER = ['civilizations', 'religions', 'ideas', 'middle ages', 'exploration', 'renaissance',
+             'science', 'mathematics', 'revolutions', 'colonialism', 'africa', 'asia',
+             'latin america', 'middle east', 'twentieth century']
+
+CONTENTS_CSS = """
+@page { size: A4; margin: 16mm 16mm 18mm; }
+* { box-sizing: border-box; }
+body { font-family: Verdana, 'DejaVu Sans', sans-serif; color: #111; font-size: 9pt; line-height: 1.4; margin: 0; }
+h1 { font-size: 17pt; margin: 0 0 1mm; }
+.sub { font-size: 10pt; color: #444; margin-bottom: 6mm; }
+h2 { font-size: 11.5pt; margin: 7mm 0 2mm; break-after: avoid; }
+h2 span { font-weight: normal; color: #555; font-size: 9pt; }
+ul.notes { margin: 0 0 4mm; padding-left: 5mm; }
+ul.notes li { margin-bottom: 1.2mm; }
+table { border-collapse: collapse; }
+table.sum td, table.sum th { padding: 0.8mm 5mm 0.8mm 0; text-align: left; vertical-align: top; }
+table.sum th { font-weight: bold; }
+.topic { break-inside: avoid; margin: 0 0 3mm; }
+.topic .head { display: flex; gap: 3mm; font-weight: bold; border-bottom: 0.25mm solid #bbb;
+  padding-bottom: 0.6mm; margin-bottom: 0.8mm; }
+.topic .head .n { width: 8mm; color: #555; }
+.topic .head .c { margin-left: auto; font-weight: normal; color: #555; }
+table.cards { margin-left: 11mm; }
+table.cards td { padding: 0.2mm 4mm 0.2mm 0; vertical-align: top; }
+table.cards td.id { width: 14mm; white-space: nowrap; color: #555; }
+table.cards td.lv { width: 11mm; white-space: nowrap; }
+"""
+
+
+def cat_title(cat):
+    name = CAT_EN.get(cat, cat)
+    return name[0].upper() + name[1:]
+
+
+def build_contents(data, have, when, xlsx_path):
+    """Innehållsförteckning för Akelius (engelska): HTML för PDF samt Excelfil.
+    Ämnesnumren är desamma som i kort-PDF:erna."""
+    from collections import Counter
+    from openpyxl import Workbook
+    from openpyxl.styles import Alignment, Font
+    from openpyxl.utils import get_column_letter
+    sets = data['sets']
+    n_cards = sum(len(s['cards']) for s in sets)
+    levels = Counter(c['level'] for s in sets for c in s['cards'])
+    cats = Counter(s['cards'][0]['category'] for s in sets)
+    order = [c for c in CAT_ORDER if c in cats] + sorted(set(cats) - set(CAT_ORDER))
+    main_ready = sum(f"{s['slug']}-{k}-main" in have for s in sets for k in range(1, len(s['cards']) + 1))
+    n_word_topics, words_missing = word_pilot(sets, have)
+    grade = T['en']['levels']
+    level_line = ', '.join(f"{AKELIUS_LEVEL[lv]}: {levels[lv]} cards"
+                           for lv in ('grade 6', 'grade 9', 'grade 12', 'university') if levels[lv])
+    notes = [
+        f'{len(sets)} topics and {n_cards} cards, made so far. Every card exists in English and Swedish.',
+        f'Proposed levels in the Akelius system, H for history: {level_line}. '
+        'H U is university level.',
+        'Each topic has five cards: one H 6, one H 9, two H 12 and one H U. Each card stands alone, '
+        'so a topic can also be used at one level only.',
+        'Card ID is the topic number and the card number, the same as in the card files, '
+        'for example 012-3.',
+        'The topic name is the answer to its cards, so this list is for teachers and editors, '
+        'not for students.',
+        f'Pictures: {main_ready} of {n_cards} cards have their main picture. '
+        + (f'Word pictures are a pilot in {n_word_topics} topics; on the other cards the words '
+           'are explained in text.' if words_missing else ''),
+        'The full cards are in the card files: A6 portrait, front and back, in English and in '
+        'Swedish, and all text in one Excel file.',
+    ]
+    sum_rows = ''.join(f'<tr><td>{esc(cat_title(c))}</td><td>{cats[c]}</td>'
+                       f'<td>{sum(len(s["cards"]) for s in sets if s["cards"][0]["category"] == c)}</td></tr>'
+                       for c in order)
+    body = [f'<h1>Akelius Quiz Cards: World history</h1>'
+            f'<div class="sub">Table of contents, {esc(when)}</div>'
+            f'<ul class="notes">{"".join(f"<li>{esc(x)}</li>" for x in notes)}</ul>'
+            f'<table class="sum"><tr><th>Category</th><th>Topics</th><th>Cards</th></tr>{sum_rows}'
+            f'<tr><th>All</th><th>{len(sets)}</th><th>{n_cards}</th></tr></table>']
+    for c in order:
+        group = [(i, s) for i, s in enumerate(sets, 1) if s['cards'][0]['category'] == c]
+        nc = sum(len(s['cards']) for _, s in group)
+        body.append(f'<h2>{esc(cat_title(c))} <span>{len(group)} topics, {nc} cards</span></h2>')
+        for i, s in group:
+            rows = ''.join(
+                f'<tr><td class="id">{i:03d}-{k}</td><td class="lv">{AKELIUS_LEVEL[card["level"]]}</td>'
+                f'<td>{esc(card["title"])}</td></tr>' for k, card in enumerate(s['cards'], 1))
+            body.append(f'<div class="topic"><div class="head"><span class="n">{i}</span>'
+                        f'<span>{esc(topic_name(s, "en"))}</span><span class="c">{len(s["cards"])} cards'
+                        f'</span></div><table class="cards">{rows}</table></div>')
+    doc = (f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
+           f'<title>Akelius Quiz Cards: table of contents</title><style>{CONTENTS_CSS}</style>'
+           f'</head><body>{"".join(body)}</body></html>')
+
+    wb = Workbook()
+    readme = wb.active
+    readme.title = 'Read me'
+    readme.append(['Akelius Quiz Cards: World history. Table of contents, ' + when])
+    readme['A1'].font = Font(bold=True, size=12)
+    for x in notes:
+        readme.append([x])
+    readme.append([])
+    readme.append(['Category', 'Topics', 'Cards'])
+    for cell in readme[readme.max_row]:
+        cell.font = Font(bold=True)
+    for c in order:
+        readme.append([cat_title(c), cats[c],
+                       sum(len(s['cards']) for s in sets if s['cards'][0]['category'] == c)])
+    readme.append(['All', len(sets), n_cards])
+    readme.column_dimensions['A'].width = 110
+
+    topics = wb.create_sheet('Topics')
+    topics.append(['Topic #', 'Topic', 'Category', 'Cards', 'H 6', 'H 9', 'H 12', 'H U',
+                   'Card IDs', 'Topic in Swedish'])
+    for i, s in enumerate(sets, 1):
+        lv = Counter(AKELIUS_LEVEL[c['level']] for c in s['cards'])
+        n = len(s['cards'])
+        topics.append([i, topic_name(s, 'en'), cat_title(s['cards'][0]['category']), n,
+                       lv['H 6'], lv['H 9'], lv['H 12'], lv['H U'],
+                       f'{i:03d}-1 to {i:03d}-{n}', topic_name(s, 'sv')])
+    cards = wb.create_sheet('Cards')
+    cards.append(['Card ID', 'Topic #', 'Topic', 'Card #', 'Level', 'Grade', 'Category', 'Title',
+                  'Question', 'Correct answer', 'Title in Swedish'])
+    for i, s in enumerate(sets, 1):
+        for k, card in enumerate(s['cards'], 1):
+            cards.append([f'{i:03d}-{k}', i, topic_name(s, 'en'), k, AKELIUS_LEVEL[card['level']],
+                          grade[card['level']], cat_title(card['category']), card['title'],
+                          card['question'], card['correct'], card['sv']['title']])
+    for ws, widths in ((topics, [8, 44, 18, 6, 5, 5, 5, 5, 16, 44]),
+                       (cards, [9, 8, 40, 7, 7, 11, 18, 44, 34, 34, 44])):
+        for cell in ws[1]:
+            cell.font = Font(bold=True)
+        for col, w in enumerate(widths, 1):
+            ws.column_dimensions[get_column_letter(col)].width = w
+        for row in ws.iter_rows(min_row=2):
+            for cell in row:
+                cell.alignment = Alignment(wrap_text=True, vertical='top')
+        ws.freeze_panes = 'B2'
+        ws.auto_filter.ref = ws.dimensions
+    wb.save(xlsx_path)
+    return doc
+
+
 def main():
     args = sys.argv[1:]
     when = args[args.index('--date') + 1] if '--date' in args else date.today().isoformat()
@@ -584,7 +741,7 @@ def main():
         doc, last_page, n_pending = build_html(data, have, lang, when, numbers)
         html_path = BUILD / f'cards-{lang}.html'
         html_path.write_text(doc, encoding='utf-8')
-        pdf = OUT / f'Akelius-quiz-cards-{lang.upper()}-{tail}.pdf'
+        pdf = OUT / f'{PREFIX}-{lang.upper()}-{tail}.pdf'
         print(f'{lang}: {last_page} sidor, {n_pending} ämnen med bilder under produktion')
         if '--skip-pdf' in args:
             continue
@@ -593,9 +750,17 @@ def main():
                         str(pdf), str(last_page), str(report)], check=True)
         fits[lang] = json.loads(report.read_text(encoding='utf-8'))
     if not only:
-        xlsx = OUT / f'Akelius-quiz-cards-text-{when}.xlsx'
+        xlsx = OUT / f'{PREFIX}-text-{when}.xlsx'
         build_xlsx(data, have, xlsx, when, fits)
         print('skrev', xlsx.relative_to(ROOT))
+        contents = OUT / f'{PREFIX}-contents-{when}'
+        html_path = BUILD / 'contents.html'
+        html_path.write_text(build_contents(data, have, when, contents.with_suffix('.xlsx')),
+                             encoding='utf-8')
+        print('skrev', contents.with_suffix('.xlsx').relative_to(ROOT))
+        if '--skip-pdf' not in args:
+            subprocess.run(['node', str(ROOT / 'tools' / 'export_pdf.js'), str(html_path),
+                            str(contents.with_suffix('.pdf')), 'flow', '-'], check=True)
 
 
 if __name__ == '__main__':

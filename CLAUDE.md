@@ -27,7 +27,10 @@ ordlista eller bild.
   tills Jonas avgjort sidobildens roll i stående A6); ordbilder planerade för
   alla 80 ämnen (454 ord med bild), 18 genererade som pilot för Egypten,
   Mesopotamien och Sokrates. Prov-PDF i stående A6:
-  `export/Akelius-quiz-cards-{EN,SV}-2026-10-20-sample.pdf`.
+  `export/Akelius-quiz-cards-{EN,SV}-2026-10-20-sample.pdf` (skickad till Daniel
+  2026-11-11). Hela samlingen och innehållsförteckning med nivåer (H 6, H 9,
+  H 12, H U), på Daniels begäran 2026-11-13:
+  `export/Akelius-history-quiz-cards-{EN,SV,text,contents}-2026-11-14.*`.
 - Näst på tur: Jonas besked om textlängd kontra typsnitt på stående A6, om
   sidobilden och om ordbildspiloten. Godkänns piloten: `python3
   tools/generate_images.py --kind word --workers 4` (436 ordbilder kvar),
