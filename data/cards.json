@@ -2410,7 +2410,7 @@
           "words": [
             {
               "word": "trial",
-              "explanation": "when a court (the place of judges) decides: did a person do a crime?",
+              "explanation": "when a court, the place of judges, decides: did a person do a crime?",
               "show": "text"
             },
             {
@@ -5582,7 +5582,7 @@
             "words": [
               {
                 "word": "den gyllene regeln",
-                "explanation": "en berömd regel: behandla andra så som du vill att de ska behandla dig. Mästare X säger den med ett 'inte'."
+                "explanation": "en berömd regel: behandla andra så som du vill att de ska behandla dig. Mästare X säger den med ett ”inte”."
               },
               {
                 "word": "kultur",
@@ -6653,8 +6653,8 @@
               "De talar, och sedan röstar de genom att räcka upp händerna.",
               "De beslutar om lagar, pengar, krig och fred.",
               "Många uppdrag i staden lottas ut, som namn ur en hatt.",
-              "Folket kallar detta demokratia: 'folket styr'.",
-              "Vårt ord 'demokrati' kommer från detta.",
+              "Folket kallar detta demokratia: ”folket styr”.",
+              "Vårt ord ”demokrati” kommer från detta.",
               "Men de flesta människor i staden får inte rösta.",
               "Kvinnor får inte rösta, och inte heller slavar eller människor från andra städer.",
               "Så denna demokrati är en början, inte målet.",
@@ -6768,7 +6768,7 @@
               "Pjäserna ställer stora frågor.",
               "Vad är rätt, vad är rättvist, och vem bestämmer?",
               "Tusentals människor ser tillsammans och känner tillsammans.",
-              "Våra ord 'teater', 'drama', 'tragedi' och 'komedi' kommer från språket i land X."
+              "Våra ord ”teater”, ”drama”, ”tragedi” och ”komedi” kommer från språket i land X."
             ],
             "question": "Vilket land är detta?",
             "options": [
@@ -27723,7 +27723,7 @@
               "Som ung man drömmer han om en maskin som följer en lista med steg.",
               "En sådan maskin skulle kunna lösa nästan vilket pussel som helst.",
               "Sedan bryter ett stort krig ut i Europa.",
-              "Herr X flyttar till en hemlig plats med barracker av trä.",
+              "Herr X flyttar till en hemlig plats med baracker av trä.",
               "Många kloka män och kvinnor arbetar där i hemlighet.",
               "De försöker knäcka fiendens mycket svåra kod.",
               "Herr X och hans vänner hittar ett sätt att läsa fiendens hemliga meddelanden."
@@ -27755,7 +27755,7 @@
               }
             ],
             "main_caption": "Herr X springer ofta långa sträckor ensam, även i kallt väder.",
-            "side_caption": "Senare arbetar herr X i hemlighet i enkla barracker som dessa."
+            "side_caption": "Senare arbetar herr X i hemlighet i enkla baracker som dessa."
           }
         },
         {

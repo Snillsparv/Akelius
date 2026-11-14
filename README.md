@@ -630,7 +630,7 @@ så att de inte avslöjar kortets svar (bildtexterna på korten är redan säkra
 
 **Svar:** ✅ Socrates · ⬜ Galileo Galilei · ⬜ Gandhi · ⬜ Nelson Mandela
 
-**Ord:** *trial* — when a court (the place of judges) decides: did a person do a crime? · *jury* — a group of normal people who vote in court: did he do it or not? · *guilty* — the court says: yes, he did it · *poison* — a thing that kills you when you drink or eat it
+**Ord:** *trial* — when a court, the place of judges, decides: did a person do a crime? · *jury* — a group of normal people who vote in court: did he do it or not? · *guilty* — the court says: yes, he did it · *poison* — a thing that kills you when you drink or eat it
 
 </details>
 

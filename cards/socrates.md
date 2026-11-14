@@ -136,7 +136,7 @@ Nivåer: åk 6, åk 9, åk 12 ×2, universitet. Korten är oberoende av varandra
 
 ### Ordförklaringar (marginal)
 
-- **trial** — *when a court (the place of judges) decides: did a person do a crime?*
+- **trial** — *when a court, the place of judges, decides: did a person do a crime?*
 - **jury** — *a group of normal people who vote in court: did he do it or not?*
   - Visning: text+bild
   - Ordbild: Simple clear illustration of a group of about twenty ordinary men of different ages, from young adults to old men, sitting close together in several rows on long plain wooden benches in an open-air courtyard of ancient Athens and listening seriously to someone outside the picture. They have olive skin and wear plain undyed wool tunics and cloaks of the ancient Greek world, some with beards, one low stone wall and warm daylight behind them. No women, no judge robes, no wigs, no gavel, no modern courtroom, no columns, no temple, no urns, no pebbles, no scales, no soldiers, no text, no letters, no numbers

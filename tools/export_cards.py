@@ -61,10 +61,11 @@ T = {
             'bold are explained on the back.',
             'Back: the answer in the exact words of the correct option, then '
             'the word explanations as text, picture or both.',
-            'The front text is Verdana 11 where it fits and smaller where it '
-            'does not. The footer shows the size.',
+            'The front text is as large as fits, up to Verdana 11, the house '
+            'size. The footer shows the size.',
             'Every topic has five cards: grade 6, grade 9, two for grade 12 '
             'and university. Each card stands alone.',
+            'In the Akelius system these levels are H 6, H 9, H 12 and H U.',
             'All text has passed an independent historian review and an '
             'editor review. Every card also exists in Swedish.',
             'The pictures are AI-generated and reviewed one by one.',
@@ -94,10 +95,11 @@ T = {
             'förklaras på baksidan.',
             'Baksida: svaret med exakt samma ord som rätt alternativ, sedan '
             'ordförklaringarna som text, bild eller båda.',
-            'Framsidans text är Verdana 11 där den ryms och mindre där den '
-            'inte gör det. Sidfoten visar storleken.',
+            'Framsidans text är så stor som ryms, högst Verdana 11 som är '
+            'husstorleken. Sidfoten visar storleken.',
             'Varje ämne har fem kort: årskurs 6, årskurs 9, två för årskurs 12 '
             'och universitet. Varje kort fungerar fristående.',
+            'I Akelius system heter nivåerna H 6, H 9, H 12 och H U.',
             'All text har gått igenom oberoende historikergranskning och '
             'redaktörsgranskning. Varje kort finns också på engelska.',
             'Bilderna är AI-genererade och granskade en och en.',
@@ -117,7 +119,8 @@ CAT_SV = {'civilizations': 'civilisation', 'religions': 'religion',
           'africa': 'Afrika', 'colonialism': 'kolonialism', 'asia': 'Asien',
           'latin america': 'Latinamerika', 'middle east': 'Mellanöstern'}
 
-CAT_EN = {'africa': 'Africa', 'asia': 'Asia', 'latin america': 'Latin America',
+CAT_EN = {'middle ages': 'Middle Ages', 'africa': 'Africa', 'asia': 'Asia',
+          'latin america': 'Latin America',
           'middle east': 'Middle East'}
 
 SUFFIX = {'en': r'(?:s|es|ed|d|ing|er|ers)?',
@@ -295,13 +298,15 @@ def bold_words(sentences, words, lang):
                     return True
         return False
 
-    for w in words:
+    # längre termer först, så att "source criticism" fetas helt innan "source" tar ordet
+    for w in sorted(words, key=lambda w: -len(w['word'].strip())):
         term = w['word'].strip()
         if term:
             any(bold_first(re.compile(p, flags))
                 for p in term_patterns(term, lang) for flags in (0, re.IGNORECASE))
-    # 1430-talet och liknande bryts aldrig vid bindestrecket
-    return [re.sub(r'(\w+(?:-\w+)+)', r'<span class="nw">\1</span>', x) for x in out]
+    # 1430-talet bryts aldrig vid bindestrecket och 2 000 aldrig mellan siffergrupperna
+    out = [re.sub(r'(\w+(?:-\w+)+)', r'<span class="nw">\1</span>', x) for x in out]
+    return [re.sub(r'(\d) (\d{3})(?!\d)', '\\1\u00a0\\2', x) for x in out]
 
 
 def localized(card, lang):
@@ -388,13 +393,13 @@ def card_pages(set_no, s, k, card, have, lang, page_no):
     <div class="opts">{opts}</div>
   </div>
   <div class="foot"><span>{esc(level)} · {esc(L['category'])}</span>
-    <span>{cid} · <span class="fsz">11</span> pt · {esc(t['page'])} {page_no}</span></div>
+    <span class="nw">{cid} · <span class="fsz">11</span> pt · {esc(t['page'])} {page_no}</span></div>
 </section>
 <section class="page card back" data-id="{iid}">
   <div class="ans">{esc(L['correct'])}</div>
   <div class="expl">{back_words(L['words'], have, t)}</div>
   <div class="foot"><span>{esc(t['topic'])} {set_no}: {esc(topic)}, {esc(card_of)}</span>
-    <span>{cid} · {esc(t['page'])} {page_no + 1}</span></div>
+    <span class="nw">{cid} · {esc(t['page'])} {page_no + 1}</span></div>
 </section>"""
 
 
@@ -473,6 +478,12 @@ def build_xlsx(data, have, path, when, fits):
     readme = wb.active
     readme.title = 'Read me'
     n_cards = sum(len(s['cards']) for s in data['sets'])
+    main_ready = sum(f"{s['slug']}-{k}-main" in have
+                     for s in data['sets'] for k in range(1, len(s['cards']) + 1))
+    word_ids = [w['picture']['id'] for s in data['sets'] for c in s['cards']
+                for w in c['words'] if 'picture' in w]
+    n_words, n_words_made = len(word_ids), sum(i in have for i in word_ids)
+    n_word_topics, _ = word_pilot(data['sets'], have)
     lines = [
         ('Akelius Quiz Cards · World history', True),
         (f'Content export {when}. {len(data["sets"])} topics, {n_cards} cards, '
@@ -484,13 +495,19 @@ def build_xlsx(data, have, path, when, fits):
         ('', False),
         ('Columns', True),
         ('Card ID: topic number and card number, for example 012-3.', False),
+        ('Level: proposed level in the Akelius system, H for history: H 6, H 9, H 12, and H U '
+         'for university. Grade: the same level in words.', False),
         ('Front text size: the largest Verdana size in points where text, question and '
          'answers fit on the A6 front below the picture. 11 is the house size.', False),
         ('Correct: the right answer, also given as a letter A to D in the order of the options. '
          'The back of the card repeats these exact words.', False),
         ('Words: word explanations, one per line as word: explanation.', False),
-        ('Word display: how each word is shown on the back, text, picture or both.', False),
-        ('Word pictures: file name and link for each word shown with a picture.', False),
+        ('Word display: the planned display of each word on the back: text, picture, or text '
+         'and picture.', False),
+        (f'Word pictures: file name and link for each planned word picture. Word pictures are so '
+         f'far a pilot in {n_word_topics} topics, {n_words_made} of {n_words} made. Until a '
+         'picture is made, the card shows the word as text and this column says (in production).',
+         False),
         ('Main picture: file name, link to the full-resolution file, caption, '
          'picture brief and a Shutterstock search query for replacing the AI picture with a photo.', False),
         ('Side picture: the second picture of the earlier landscape layout. It has no place '
@@ -499,8 +516,10 @@ def build_xlsx(data, have, path, when, fits):
         ('Notes', True),
         ('Picture file names contain the topic name, which is the answer. Rename them '
          'before any student-facing use.', False),
-        ('Pictures are AI-generated and reviewed one by one. Where the link is empty, '
-         'the picture is still in production.', False),
+        (f'{main_ready} of {n_cards} main pictures are ready. Pictures are AI-generated and '
+         'reviewed one by one.', False),
+        ('Side pictures are on hold until their role in the A6 layout is decided, so cards '
+         'without one have an empty side picture link.', False),
         ('Card text, title, captions and word list never name the answer.', False),
     ]
     for r, (txt, bold) in enumerate(lines, 1):
@@ -515,7 +534,7 @@ def build_xlsx(data, have, path, when, fits):
         n = len(s['cards'])
         main = sum(f"{s['slug']}-{k}-main" in have for k in range(1, n + 1))
         wids = [w['picture']['id'] for c in s['cards'] for w in c['words'] if 'picture' in w]
-        topics.append([i, topic_name(s, 'en'), topic_name(s, 'sv'), s['cards'][0]['category'],
+        topics.append([i, topic_name(s, 'en'), topic_name(s, 'sv'), localized(s['cards'][0], 'en')['category'],
                        n, f'{main} of {n}', f'{sum(w in have for w in wids)} of {len(wids)}',
                        s['slug']])
 
@@ -531,7 +550,8 @@ def build_xlsx(data, have, path, when, fits):
                 level = T[lang]['levels'].get(card['level'], card['level'])
                 fit = fits.get(lang, {}).get(iid, {}).get('front', '')
                 pics = [w for w in L['words'] if 'picture' in w]
-                row = [f'{i:03d}-{k}', i, topic_name(s, lang), k, level, L['category'], L['title'],
+                row = [f'{i:03d}-{k}', i, topic_name(s, lang), k, AKELIUS_LEVEL[card['level']],
+                       level, L['category'], L['title'],
                        '\n'.join(L['sentences']), fit, L['question'], *L['options'],
                        L['correct'], letter,
                        '\n'.join(f"{w['word']}: {w['explanation']}" for w in L['words']),
@@ -548,14 +568,14 @@ def build_xlsx(data, have, path, when, fits):
                 rows.append(row)
         return rows
 
-    cols = ['Card ID', 'Topic #', 'Topic', 'Card #', 'Level', 'Category', 'Title',
+    cols = ['Card ID', 'Topic #', 'Topic', 'Card #', 'Level', 'Grade', 'Category', 'Title',
             'Text', 'Front text size (pt)', 'Question', 'Option A', 'Option B', 'Option C',
             'Option D', 'Correct', 'Correct letter', 'Words', 'Word display', 'Word pictures',
             'Main picture file', 'Main picture link', 'Main caption', 'Main picture brief',
             'Main Shutterstock query',
             'Side picture file', 'Side picture link', 'Side caption', 'Side picture brief',
             'Side Shutterstock query']
-    widths = [9, 7, 26, 6, 11, 14, 30, 70, 9, 22, 18, 18, 18, 18, 18, 7, 45, 28, 50,
+    widths = [9, 7, 26, 6, 7, 11, 14, 30, 70, 9, 22, 18, 18, 18, 18, 18, 7, 45, 28, 50,
               26, 30, 36, 45, 30, 26, 30, 36, 45, 30]
     for name, lang in (('Cards EN', 'en'), ('Cards SV', 'sv')):
         ws = wb.create_sheet(name)
@@ -632,11 +652,16 @@ def build_contents(data, have, when, xlsx_path):
     notes = [
         f'{len(sets)} topics and {n_cards} cards, made so far. Every card exists in English and Swedish.',
         f'Proposed levels in the Akelius system, H for history: {level_line}. '
-        'H U is university level.',
+        'H U is university level. The card files show the same levels as Grade 6, Grade 9, '
+        'Grade 12 and University.',
         'Each topic has five cards: one H 6, one H 9, two H 12 and one H U. Each card stands alone, '
         'so a topic can also be used at one level only.',
         'Card ID is the topic number and the card number, the same as in the card files, '
         'for example 012-3.',
+        'The list is grouped by the category printed on the cards, so the topic numbers are not '
+        'in order here; the Excel file lists them in number order. A category may never be the '
+        'answer, so The Renaissance is filed under Exploration.',
+        'Card titles are short working titles for this list; they are not printed on the cards.',
         'The topic name is the answer to its cards, so this list is for teachers and editors, '
         'not for students.',
         f'Pictures: {main_ready} of {n_cards} cards have their main picture. '
@@ -656,7 +681,8 @@ def build_contents(data, have, when, xlsx_path):
     for c in order:
         group = [(i, s) for i, s in enumerate(sets, 1) if s['cards'][0]['category'] == c]
         nc = sum(len(s['cards']) for _, s in group)
-        body.append(f'<h2>{esc(cat_title(c))} <span>{len(group)} topics, {nc} cards</span></h2>')
+        tw = 'topic' if len(group) == 1 else 'topics'
+        body.append(f'<h2>{esc(cat_title(c))} <span>{len(group)} {tw}, {nc} cards</span></h2>')
         for i, s in group:
             rows = ''.join(
                 f'<tr><td class="id">{i:03d}-{k}</td><td class="lv">{AKELIUS_LEVEL[card["level"]]}</td>'
@@ -675,15 +701,25 @@ def build_contents(data, have, when, xlsx_path):
     readme['A1'].font = Font(bold=True, size=12)
     for x in notes:
         readme.append([x])
-    readme.append([])
-    readme.append(['Category', 'Topics', 'Cards'])
-    for cell in readme[readme.max_row]:
-        cell.font = Font(bold=True)
-    for c in order:
-        readme.append([cat_title(c), cats[c],
-                       sum(len(s['cards']) for s in sets if s['cards'][0]['category'] == c)])
-    readme.append(['All', len(sets), n_cards])
     readme.column_dimensions['A'].width = 110
+    for row in readme.iter_rows(min_row=2):
+        row[0].alignment = Alignment(wrap_text=True, vertical='top')
+    summary = wb.create_sheet('Summary')
+    summary.append(['Level', 'Cards'])
+    for lv in ('grade 6', 'grade 9', 'grade 12', 'university'):
+        if levels[lv]:
+            summary.append([AKELIUS_LEVEL[lv], levels[lv]])
+    summary.append([])
+    summary.append(['Category', 'Topics', 'Cards'])
+    for c in order:
+        summary.append([cat_title(c), cats[c],
+                        sum(len(s['cards']) for s in sets if s['cards'][0]['category'] == c)])
+    summary.append(['All', len(sets), n_cards])
+    for row in summary.iter_rows():
+        if row[0].value in ('Level', 'Category', 'All'):
+            for cell in row:
+                cell.font = Font(bold=True)
+    summary.column_dimensions['A'].width = 22
 
     topics = wb.create_sheet('Topics')
     topics.append(['Topic #', 'Topic', 'Category', 'Cards', 'H 6', 'H 9', 'H 12', 'H U',
